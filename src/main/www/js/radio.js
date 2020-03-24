@@ -1,20 +1,12 @@
 class Song {
     constructor(song) {
         this.title = song.title;
-        this.interpret = song.interpret;
+        this.performer = song.performer;
     }
 }
 class Radio extends HTMLElement {
     constructor() {
         super();
-        this.format = new Intl.DateTimeFormat('de-DE', {
-            weekday: "long",
-            year: "numeric",
-            month: "long",
-            day: "numeric",
-            hour: "numeric",
-            minute: "numeric"
-        });
         console.log("Song");
     }
     connectedCallback() {
@@ -23,17 +15,14 @@ class Radio extends HTMLElement {
     <th>Song</th>
     <th>Interpret</th>
   </tr></thead><tbody></tbody></table>`);
-        this.getMeasurings().then(songs => {
+        this.getSongs().then(songs => {
             const tbody = this.querySelector("table>tbody");
             songs.forEach(measuring => {
-                const tr = document.createElement("tr");
-                tbody.insertAdjacentElement("beforeend", tr);
-                tr.insertAdjacentHTML("beforeend", "<td>" + measuring.title + "</td>");
-                tr.insertAdjacentHTML("beforeend", "<td>" + measuring.interpret + "</td>");
+                tbody.insertAdjacentHTML("beforeend", `<tr><td>${measuring.title}</td><td>${measuring.performer}</td></tr>`);
             });
         });
     }
-    getMeasurings() {
+    getSongs() {
         return window.fetch("json/songs.json")
             .then(response => response.json())
             .then((json) => json.map((metering) => new Song(metering)));
