@@ -4,13 +4,13 @@ class Broadcast {
         this.name = broadcast.name;
         this.episodes = new Map();
         broadcast.episodes.forEach((episode) => {
-            this.episodes.set(Number(episode.id), new Episode(episode));
+            this.episodes.set(episode.id, new Episode(episode));
         });
     }
 }
 class Episode {
     constructor(episode) {
-        this.id = Number(episode.id);
+        this.id = episode.id;
         this.title = episode.title;
         this.date = new Date(Date.parse(episode.date));
         this.songs = [];
@@ -18,8 +18,9 @@ class Episode {
             entry.forEach(song => this.songs.push(new Song(song)));
         });
     }
-    get dateString() {
-        return this.date.getUTCDay() + "." + this.date.getUTCMonth() + "." + this.date.getUTCFullYear();
+    get dateFormat() {
+        const month = this.date.getUTCMonth() + 1;
+        return this.date.getUTCDate() + "." + (month > 9 ? "" : "0") + month + "." + this.date.getUTCFullYear();
     }
 }
 class Song {
@@ -49,7 +50,7 @@ class Radio extends HTMLElement {
     renderBroadcast() {
         this.insertAdjacentHTML("afterbegin", `<div class="form-group">
 <label>Songliste vom ...
-<select class="form-control"><option>Datum auswählen</option></select></label></div>
+<select class="form-control"></select></label></div>
 <table class="table"><thead>
   <tr>
     <th>Song</th>
@@ -63,7 +64,7 @@ class Radio extends HTMLElement {
                 console.log("test %o", optionalParams.value);
                 const table = this.querySelector("tbody");
                 table.innerHTML = "";
-                const id = Number(optionalParams.value);
+                const id = optionalParams.value;
                 if (id) {
                     const episode = broadcast.episodes.get(id);
                     episode.songs.forEach(song => {
@@ -72,8 +73,11 @@ class Radio extends HTMLElement {
                 }
             });
             broadcast.episodes.forEach(episode => {
-                select.insertAdjacentHTML("beforeend", `<option value="${episode.id}">${episode.dateString} (${episode.songs.length} Titel)</td></option>`);
+                select.insertAdjacentHTML("afterbegin", `<option value="${episode.id}">${episode.dateFormat} (${episode.songs.length} Titel)</td></option>`);
             });
+            // Auswählen der Song-Tabelle für die 1. Episode
+            select.selectedIndex = 0;
+            select.dispatchEvent(new Event("change"));
         });
     }
     getSongs() {
