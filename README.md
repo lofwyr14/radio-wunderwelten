@@ -7,7 +7,6 @@ der auf src/main/www served:
 cd src/main/docker
 docker-compose build
 docker-compose up -d
-radiohören
 ```
 
 test
