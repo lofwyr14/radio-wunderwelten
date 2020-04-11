@@ -19727,18 +19727,46 @@
       ]
     },
     {
-      "id": "b2-1",
+      "id": "504",
       "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "",
+      "date": "2020-03-26"
+    },
+    {
+      "id": "505",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-03-12"
+    },
+    {
+      "id": "506",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-03-19"
+    },
+    {
+      "id": "507",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-03-26"
+    },
+    {
+      "id": "508",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-04-02"
+    },
+    {
+      "id": "509",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-04-09",
       "songs": [
         [
           {
-            "title": "",
-            "performer": ""
+            "title": "The Party Is Over",
+            "performer": "Gangway",
+            "album": "Sitting In The Park",
+            "year": "1986",
+            "spotify": "spotify:track:2K8BAunZzN7evInxz5Ee9i"
           },
           {
-            "title": "",
-            "performer": ""
+            "title": "todo",
+            "performer": "todo"
           }
         ],
         [
