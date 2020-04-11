@@ -96,6 +96,10 @@ class Radio extends HTMLElement {
     //   return html`<h1>Wochenende: ${name}</h1>`
     // }
     renderBroadcast() {
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.has("space")) {
+            this.space = urlParams.get("space");
+        }
         this.insertAdjacentHTML("afterbegin", `<div class="form-group">
 <label>Songliste vom ...
 <select class="form-control"></select></label></div>`);
