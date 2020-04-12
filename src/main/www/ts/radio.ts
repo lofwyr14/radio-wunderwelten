@@ -5,13 +5,18 @@ class Broadcast {
   id: string;
   name: string;
   episodes: Map<string, Episode>;
+  newestEpisode: Episode;
 
   constructor(broadcast: any) {
     this.id = broadcast.id;
     this.name = broadcast.name;
     this.episodes = new Map();
     broadcast.episodes.forEach((episode: any) => {
-      this.episodes.set(episode.id, new Episode(episode));
+      const e = new Episode(episode);
+      this.episodes.set(episode.id, e);
+      if (e.songs.list.length > 0) { // newest with songs
+       this.newestEpisode = e;
+      }
     });
   }
 }
@@ -104,6 +109,8 @@ class SongList {
 
 class Radio extends HTMLElement {
 
+  private readonly PERMA_LINK = /\/(zwwdp|ta|ptw)(-([a-z0-9]+))?\.html/;
+
   constructor() {
     super();
     console.info("Radio constructor!");
@@ -124,15 +131,36 @@ class Radio extends HTMLElement {
     this.setAttribute("space", space);
   }
 
+  get episodeId(): string {
+    return this.getAttribute("episodeId");
+  }
+
+  set episodeId(episodeId: string) {
+    if (episodeId) {
+      this.setAttribute("episodeId", episodeId);
+     } else {
+      this.removeAttribute("episodeId");
+    }
+  }
+
   // private test(name: string): TemplateResult {
   //   return html`<h1>Wochenende: ${name}</h1>`
   // }
 
   private renderBroadcast() {
-
-    const urlParams = new URLSearchParams(window.location.search);
-    if (urlParams.has("space")) {
-      this.space = urlParams.get("space");
+    const result = window.location.pathname.match(this.PERMA_LINK);
+    if (result && result.length >= 3) {
+      if (result[1]) {
+        this.space = result[1];
+      } else {
+        this.space = "zwwdp";
+      }
+      if (result[3]) {
+        this.episodeId = result[3];
+      } else {
+        // todo: may inialized better
+        this.episodeId = null;
+      }
     }
 
     this.insertAdjacentHTML("afterbegin",
@@ -205,7 +233,7 @@ class Radio extends HTMLElement {
           });
 
           // Auswählen der Song-Tabelle für die 1. Episode
-          select.selectedIndex = 0;
+          select.value = this.episodeId ? this.episodeId : broadcast.newestEpisode.id;
           select.dispatchEvent(new Event("change"));
         }
     );

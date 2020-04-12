@@ -5,7 +5,11 @@ class Broadcast {
         this.name = broadcast.name;
         this.episodes = new Map();
         broadcast.episodes.forEach((episode) => {
-            this.episodes.set(episode.id, new Episode(episode));
+            const e = new Episode(episode);
+            this.episodes.set(episode.id, e);
+            if (e.songs.list.length > 0) { // newest with songs
+                this.newestEpisode = e;
+            }
         });
     }
 }
@@ -79,6 +83,7 @@ class SongList {
 class Radio extends HTMLElement {
     constructor() {
         super();
+        this.PERMA_LINK = /\/(zwwdp|ta|ptw)(-([a-z0-9]+))?\.html/;
         console.info("Radio constructor!");
     }
     connectedCallback() {
@@ -92,13 +97,36 @@ class Radio extends HTMLElement {
     set space(space) {
         this.setAttribute("space", space);
     }
+    get episodeId() {
+        return this.getAttribute("episodeId");
+    }
+    set episodeId(episodeId) {
+        if (episodeId) {
+            this.setAttribute("episodeId", episodeId);
+        }
+        else {
+            this.removeAttribute("episodeId");
+        }
+    }
     // private test(name: string): TemplateResult {
     //   return html`<h1>Wochenende: ${name}</h1>`
     // }
     renderBroadcast() {
-        const urlParams = new URLSearchParams(window.location.search);
-        if (urlParams.has("space")) {
-            this.space = urlParams.get("space");
+        const result = window.location.pathname.match(this.PERMA_LINK);
+        if (result && result.length >= 3) {
+            if (result[1]) {
+                this.space = result[1];
+            }
+            else {
+                this.space = "zwwdp";
+            }
+            if (result[3]) {
+                this.episodeId = result[3];
+            }
+            else {
+                // todo: may inialized better
+                this.episodeId = null;
+            }
         }
         this.insertAdjacentHTML("afterbegin", `<div class="form-group">
 <label>Songliste vom ...
@@ -157,7 +185,7 @@ class Radio extends HTMLElement {
                 select.insertAdjacentHTML("afterbegin", `<option value="${episode.id}">${episode.dateFormat} (${episode.songs.list.length} Titel)</td></option>`);
             });
             // Auswählen der Song-Tabelle für die 1. Episode
-            select.selectedIndex = 0;
+            select.value = this.episodeId ? this.episodeId : broadcast.newestEpisode.id;
             select.dispatchEvent(new Event("change"));
         });
     }

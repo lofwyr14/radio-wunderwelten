@@ -2,3 +2,7 @@
 Options +Includes
 AddType text/html .html
 AddOutputFilter INCLUDES .html
+
+# PermaLinks
+RewriteEngine On
+RewriteRule ^(zwwdp|ta|ptw)(-([a-z0-9]+))?\.html$ index.html
