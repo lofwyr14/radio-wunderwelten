@@ -7,7 +7,7 @@
   class Broadcast {
       constructor(broadcast) {
           this.id = broadcast.id;
-          this.name = broadcast.name;
+          this.title = broadcast.title;
           this.episodes = new Map();
           broadcast.episodes.forEach((episode) => {
               const e = new Episode(episode);
@@ -100,7 +100,12 @@
           return this.getAttribute("space");
       }
       set space(space) {
-          this.setAttribute("space", space);
+          if (space) {
+              this.setAttribute("space", space);
+          }
+          else {
+              this.removeAttribute("space");
+          }
       }
       get episodeId() {
           return this.getAttribute("episodeId");
@@ -133,12 +138,15 @@
                   this.episodeId = null;
               }
           }
-          this.insertAdjacentHTML("afterbegin", `<div class="form-group">
+          const location = `json/${this.space}.json`;
+          window.fetch(location)
+              .then(response => response.json())
+              .then((json) => new Broadcast(json))
+              .then(broadcast => {
+              this.insertAdjacentHTML("afterbegin", `<h1>${broadcast.title}</h1>
+<div class="form-group">
 <label>Songliste vom ...
 <select class="form-control"></select></label></div>`);
-          // const location = "json/ta.json";
-          const location = `json/${this.space}.json`;
-          this.getBroadcast(location).then(broadcast => {
               const select = this.querySelector("select");
               select.addEventListener("change", (event) => {
                   const optionalParams = event.currentTarget;
@@ -193,11 +201,6 @@
               select.value = this.episodeId ? this.episodeId : broadcast.newestEpisode.id;
               select.dispatchEvent(new Event("change"));
           });
-      }
-      getBroadcast(location) {
-          return window.fetch(location)
-              .then(response => response.json())
-              .then((json) => new Broadcast(json));
       }
   }
   document.addEventListener("DOMContentLoaded", function (event) {

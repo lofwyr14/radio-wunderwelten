@@ -3,13 +3,13 @@
 class Broadcast {
 
   id: string;
-  name: string;
+  title: string;
   episodes: Map<string, Episode>;
   newestEpisode: Episode;
 
   constructor(broadcast: any) {
     this.id = broadcast.id;
-    this.name = broadcast.name;
+    this.title = broadcast.title;
     this.episodes = new Map();
     broadcast.episodes.forEach((episode: any) => {
       const e = new Episode(episode);
@@ -128,7 +128,11 @@ class Radio extends HTMLElement {
   }
 
   set space(space: string) {
-    this.setAttribute("space", space);
+    if (space) {
+      this.setAttribute("space", space);
+    } else {
+      this.removeAttribute("space");
+    }
   }
 
   get episodeId(): string {
@@ -163,25 +167,24 @@ class Radio extends HTMLElement {
       }
     }
 
-    this.insertAdjacentHTML("afterbegin",
-        `<div class="form-group">
+    const location = `json/${this.space}.json`;
+    window.fetch(location)
+        .then(response => response.json())
+        .then((json: any) => new Broadcast(json))
+        .then(broadcast => {
+
+          this.insertAdjacentHTML("afterbegin",
+              `<h1>${broadcast.title}</h1>
+<div class="form-group">
 <label>Songliste vom ...
 <select class="form-control"></select></label></div>`);
-
-    // const location = "json/ta.json";
-    const location = `json/${this.space}.json`;
-    this.getBroadcast(location).then(
-        broadcast => {
           const select = this.querySelector("select");
           select.addEventListener("change",
               (event) => {
                 const optionalParams = event.currentTarget as HTMLSelectElement;
                 console.log("test %o", optionalParams);
                 console.log("test %o", optionalParams.value);
-
-
                 const id = optionalParams.value;
-
                 const oldTable = this.querySelector("table");
                 if (oldTable) {
                   this.removeChild(oldTable); // Alte Tabelle weg, todo: besser mit LIT HTML
@@ -238,13 +241,6 @@ class Radio extends HTMLElement {
         }
     );
   }
-
-  getBroadcast(location: string): Promise<Broadcast> {
-    return window.fetch(location)
-        .then(response => response.json())
-        .then((json: any) => new Broadcast(json))
-  }
-
 }
 
 document.addEventListener("DOMContentLoaded", function (event) {
