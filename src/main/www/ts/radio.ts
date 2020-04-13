@@ -1,4 +1,4 @@
-// import {html, render, TemplateResult} from "lit-html";
+import {html, render, TemplateResult} from "lit-html";
 
 class Broadcast {
 
@@ -11,12 +11,18 @@ class Broadcast {
     this.id = broadcast.id;
     this.title = broadcast.title;
     this.episodes = new Map();
+    let previous;
     broadcast.episodes.forEach((episode: any) => {
       const e = new Episode(episode);
       this.episodes.set(episode.id, e);
       if (e.songs.list.length > 0) { // newest with songs
-       this.newestEpisode = e;
+        this.newestEpisode = e;
       }
+      if (previous) {
+        previous.nextId = e.id;
+        e.previousId = previous.id;
+      }
+      previous = e;
     });
   }
 }
@@ -26,6 +32,8 @@ class Episode {
   title: string;
   date: Date;
   songs: SongList;
+  nextId: string;
+  previousId: string;
 
   constructor(episode: any) {
     this.id = episode.id;
@@ -142,7 +150,7 @@ class Radio extends HTMLElement {
   set episodeId(episodeId: string) {
     if (episodeId) {
       this.setAttribute("episodeId", episodeId);
-     } else {
+    } else {
       this.removeAttribute("episodeId");
     }
   }
@@ -150,6 +158,54 @@ class Radio extends HTMLElement {
   // private test(name: string): TemplateResult {
   //   return html`<h1>Wochenende: ${name}</h1>`
   // }
+
+  private static content2(episode: Episode, song: Song) {
+    return `<tr>
+<td class="${episode.songs.hasTitle ? '' : 'd-none'}">${song.title ? song.title : ""}</td>
+<td class="${episode.songs.hasPerformer ? '' : 'd-none'}">${song.performer ? song.performer : ""}</td>
+<td class="${episode.songs.hasComposer ? '' : 'd-none'}">${song.composer ? song.composer : ""}</td>
+<td class="${episode.songs.hasNumber ? '' : 'd-none'}">${song.number ? song.number : ""}</td>
+<td class="${episode.songs.hasAlbum ? '' : 'd-none'}">${song.album ? song.album : ""}</td>
+<td class="${episode.songs.hasGenre ? '' : 'd-none'}">${song.genre ? song.genre : ""}</td>
+<td class="${episode.songs.hasYear ? '' : 'd-none'}">${song.year ? song.year : ""}</td>
+</tr>`;
+  }
+
+  private static content1(broadcast: Broadcast, episode: Episode) {
+    return html`<h1>${broadcast.title}</h1>
+<div class="form-group">
+<label>Songliste vom ... ${episode.dateFormat}
+<select class="form-control"></select></label>
+${episode.previousId
+? html`<a href="${broadcast.id}-${episode.previousId}.html">Previous</a>`
+: html`<a class="disabled">Previous</a>`
+}
+${episode.nextId
+        ? html`<a href="${broadcast.id}-${episode.nextId}.html">Next</a>`
+        : html`<a class="disabled">Next</a>`
+    }
+</div>
+<table class="table table-striped">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead class="thead-dark">
+  <tr>
+    <th class="${episode.songs.hasTitle ? '' : 'd-none'}">Titel</th>
+    <th class="${episode.songs.hasPerformer ? '' : 'd-none'}">Interpret</th>
+    <th class="${episode.songs.hasComposer ? '' : 'd-none'}">Komponist</th>
+    <th class="${episode.songs.hasNumber ? '' : 'd-none'}">Nummer</th>
+    <th class="${episode.songs.hasAlbum ? '' : 'd-none'}">Album</th>
+    <th class="${episode.songs.hasGenre ? '' : 'd-none'}">Genre</th>
+    <th class="${episode.songs.hasYear ? '' : 'd-none'}">Jahr</th>
+  </tr></thead><tbody></tbody></table>`;
+  }
 
   private renderBroadcast() {
     const result = window.location.pathname.match(this.PERMA_LINK);
@@ -173,73 +229,24 @@ class Radio extends HTMLElement {
         .then((json: any) => new Broadcast(json))
         .then(broadcast => {
 
-          this.insertAdjacentHTML("afterbegin",
-              `<h1>${broadcast.title}</h1>
-<div class="form-group">
-<label>Songliste vom ...
-<select class="form-control"></select></label></div>`);
+          // Auswählen der Song-Tabelle für die 1. Episode
+          const episode = this.episodeId ? broadcast.episodes.get(this.episodeId) : broadcast.newestEpisode;
+
+          const html1 = Radio.content1(broadcast, episode);
+          render(html1, this);
+
+          const table = this.querySelector("tbody");
+          table.innerHTML = "";
+          episode.songs.list.forEach(song => {
+            table.insertAdjacentHTML("beforeend",
+                Radio.content2(episode, song));
+          });
           const select = this.querySelector("select");
-          select.addEventListener("change",
-              (event) => {
-                const optionalParams = event.currentTarget as HTMLSelectElement;
-                console.log("test %o", optionalParams);
-                console.log("test %o", optionalParams.value);
-                const id = optionalParams.value;
-                const oldTable = this.querySelector("table");
-                if (oldTable) {
-                  this.removeChild(oldTable); // Alte Tabelle weg, todo: besser mit LIT HTML
-                }
-                if (id) {
-                  const episode = broadcast.episodes.get(id);
-                  this.insertAdjacentHTML("beforeend",
-                      `<table class="table table-striped">
-<colgroup>
-<col/>
-<col/>
-<col/>
-<col/>
-<col/>
-<col/>
-<col/>
-</colgroup>
-<thead class="thead-dark">
-  <tr>
-    <th class="${episode.songs.hasTitle ? '' : 'd-none'}">Titel</th>
-    <th class="${episode.songs.hasPerformer ? '' : 'd-none'}">Interpret</th>
-    <th class="${episode.songs.hasComposer ? '' : 'd-none'}">Komponist</th>
-    <th class="${episode.songs.hasNumber ? '' : 'd-none'}">Nummer</th>
-    <th class="${episode.songs.hasAlbum ? '' : 'd-none'}">Album</th>
-    <th class="${episode.songs.hasGenre ? '' : 'd-none'}">Genre</th>
-    <th class="${episode.songs.hasYear ? '' : 'd-none'}">Jahr</th>
-  </tr></thead><tbody></tbody></table>`);
-                  const table = this.querySelector("tbody");
-                  table.innerHTML = "";
-                  episode.songs.list.forEach(song => {
-                    table.insertAdjacentHTML("beforeend",
-                        `<tr>
-<td class="${episode.songs.hasTitle ? '' : 'd-none'}">${song.title ? song.title : ""}</td>
-<td class="${episode.songs.hasPerformer ? '' : 'd-none'}">${song.performer ? song.performer : ""}</td>
-<td class="${episode.songs.hasComposer ? '' : 'd-none'}">${song.composer ? song.composer : ""}</td>
-<td class="${episode.songs.hasNumber ? '' : 'd-none'}">${song.number ? song.number : ""}</td>
-<td class="${episode.songs.hasAlbum ? '' : 'd-none'}">${song.album ? song.album : ""}</td>
-<td class="${episode.songs.hasGenre ? '' : 'd-none'}">${song.genre ? song.genre : ""}</td>
-<td class="${episode.songs.hasYear ? '' : 'd-none'}">${song.year ? song.year : ""}</td>
-</tr>`);
-                  });
-                }
-
-
-              });
           broadcast.episodes.forEach(episode => {
             select.insertAdjacentHTML("afterbegin",
                 `<option value="${episode.id}">${episode.dateFormat} (${episode.songs.list.length} Titel)</td></option>`);
           });
-
-          // Auswählen der Song-Tabelle für die 1. Episode
-          select.value = this.episodeId ? this.episodeId : broadcast.newestEpisode.id;
-          select.dispatchEvent(new Event("change"));
-        }
-    );
+        });
   }
 }
 
