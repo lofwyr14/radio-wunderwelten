@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="canonical" href="http://www.radiobremen.de/bremenvier/musik/playlists/zeigler104.html"/>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <meta name="language" content="deutsch"/>
+  <meta name="date" content="2010-03-22"/>
+  <meta name="publisher" content="Radio Bremen"/>
+  <meta name="copyright" content="Radio Bremen"/>
+  <meta name="keywords" content="Zeigler"/>
+  <meta name="page-topic" content="Zeigler"/>
+  <meta name="description"
+        content="Jeden Dienstag entf&uuml;hrt euch Arnd Zeigler in seine wunderbare Welt des Pop. Hier gibt's wirklich was zu entdecken, und zwar wahre Perlen der Popmusik."/>
+  <meta name="abstract"
+        content="Jeden Dienstag entf&uuml;hrt euch Arnd Zeigler in seine wunderbare Welt des Pop. Hier gibt's wirklich was zu entdecken, und zwar wahre Perlen der Popmusik."/>
+  <meta name="robots" content="index, follow, noarchive"/>
+  <meta http-equiv="imagetoolbar" content="no"/>
+  <meta name="dcterms.valid" scheme="dcterms.period"
+        content="start=(kein zukünftiges Offline-Datum gefunden - kein zukünftiges Archivierungs Datum gefunden);end=;scheme=W3CDTF"/>
+  <link href="/resources/bilder/mobil/homescreenicons/114x114.png" sizes="114x114" rel="apple-touch-icon-precomposed">
+  <link href="/resources/bilder/mobil/homescreenicons/72x72.png" sizes="72x72" rel="apple-touch-icon-precomposed">
+  <link href="/resources/bilder/mobil/homescreenicons/57x57.png" rel="apple-touch-icon-precomposed">
+  <link rel="shortcut icon" type="image/x-icon" href="/resources/bilder/mobil/homescreenicons/favicon.ico">
+  <link rel="stylesheet" type="text/css" media="screen,print" href="/resources/css/mobil/main_styles.css"/>
+  <link rel="stylesheet" type="text/css" media="screen,print" href="/resources/css/mobil/bremenvier.css"/>
+  <script type="text/javascript">
+    (function () {
+      var services = [],
+          cookie = '',
+          disableServices = '',
+          scriptTag,
+          timer;
+      cookie = document.cookie;
+      disableServices = cookie.match(/disableTrackingServices=([^;]*)/);
+      if (disableServices !== null && disableServices[1]) {
+        services = JSON.parse(disableServices[1]) || [];
+      }
+      if (services.indexOf('at-internet') === -1) {
+        scriptTag = document.createElement('script');
+        scriptTag.type = 'text/javascript';
+        scriptTag.src = '/resources/skripte/tag.js';
+        document.head.appendChild(scriptTag);
+        window.waitForATInternet = true;
+      }
+      timer = window.setInterval(function () {
+        if (typeof jQuery === 'function') {
+          window.clearInterval(timer);
+          addOptInSwitches();
+        }
+      }, 100);
+
+      function addOptInSwitches() {
+        $(document).ready(function () {
+          var trackingSwitches = $('.trackingswitch'),
+              cookie = '',
+              disableServices = '',
+              scriptTag;
+          cookie = document.cookie;
+          disableServices = cookie.match(/disableTrackingServices=([^;]*)/);
+          if (disableServices !== null && disableServices[1]) {
+            services = JSON.parse(disableServices[1]) || [];
+          }
+          if (services.indexOf('at-internet') === -1) {
+            scriptTag = document.createElement('script');
+            scriptTag.type = 'text/javascript';
+            scriptTag.src = '/resources/skripte/tag.js';
+            document.head.appendChild(scriptTag);
+            window.waitForATInternet = true;
+          }
+
+          function initTrackingSettrings() {
+            var services = [],
+                cookie = '',
+                oldServices = [];
+            cookie = document.cookie;
+            oldServices = cookie.match(/disableTrackingServices=([^;]*)/);
+            if (oldServices !== null && oldServices[1]) {
+              services = JSON.parse(oldServices[1]) || [];
+            }
+            trackingSwitches.each(function () {
+              $(this).attr('checked', ($.inArray($(this).val(), services) !== -1));
+            });
+          }
+
+          function disableTracking(service) {
+            var services = [],
+                date = new Date(),
+                expires = 365 * 5,
+                oldServices = '',
+                cookie = '';
+            cookie = document.cookie;
+            oldServices = cookie.match(/disableTrackingServices=([^;]*)/);
+            if (oldServices !== null && oldServices[1]) {
+              services = JSON.parse(oldServices[1]) || [];
+              if (services.indexOf(service) === -1) {
+                services.push(service);
+              }
+            } else {
+              services.push(service);
+            }
+            date.setTime(date.getTime() + (expires * 86400000));
+            document.cookie = 'disableTrackingServices=' + JSON.stringify(services) + '; expires=' + date.toGMTString() + '; path=/';
+          }
+
+          function enableTracking(service) {
+            var services = [],
+                date = new Date(),
+                expires = 365 * 5,
+                oldServices = '',
+                cookie = '';
+            cookie = document.cookie;
+            oldServices = cookie.match(/disableTrackingServices=([^;]*)/);
+            if (oldServices !== null && oldServices[1]) {
+              services = JSON.parse(oldServices[1]) || [];
+              if (services.indexOf(service) > -1) {
+                services.splice(services.indexOf(service), 1);
+              }
+            }
+            date.setTime(date.getTime() + (expires * 86400000));
+            document.cookie = 'disableTrackingServices=' + JSON.stringify(services) + '; expires=' + date.toGMTString() + '; path=/';
+          }
+
+          function changeTrackingSetting(event) {
+            var el = $(event.currentTarget),
+                service = el.val();
+            if (el[0].checked) {
+              disableTracking(service);
+            } else {
+              enableTracking(service);
+            }
+          }
+
+// Scipte initialisieren.
+          if (trackingSwitches.length) {
+            initTrackingSettrings();
+            trackingSwitches.bind('change', changeTrackingSetting);
+          }
+        });
+      }
+    })();
+  </script>
+  <script type="text/javascript">
+    var resourcesUrl = "/resources";
+    var wellenname = "bremenvier";
+  </script>
+  <script type="text/javascript" src="/resources/skripte/mobil/alle_skripte.js"></script>
+  <title>Zeiglers wunderbare Welt des Pop - Radio Bremen</title>
+</head>
+<body data-favorite-title="Zeiglers wunderbare Welt des Pop">
+<div id="mainpage">
+  <div class="main-header" ontouchstart="">
+    <div class="main-logo">
+      <a href="/">
+        <img class="main-logo-img" src="/resources/bilder/mobil/rblogo110.png" alt="Radio Bremen"/>
+      </a>
+    </div>
+    <a href="#" class="back-link" onClick="window.history.back();return false;">&nbsp;</a>
+    <a href="#" class="servicepage-link">&nbsp;</a>
+    <a href="#" class="reload-link" onClick="window.location.reload();return false;">&nbsp;</a>
+    <a href="#" class="navpage-link">&nbsp;</a>
+  </div>
+  <div class="sub-header bremenvier">
+    <a class="logo-link" href="/bremenvier/index.html"><span class="logo-bremenvier"></span></a>
+    <div class="subheader-search-wrapper-bremenvier">
+      <form action="/bremenvier/suche150.html" method="get" class="not-empty">
+        <div class="search-wrapper">
+          <div class="search-textwrapper">
+            <span onclick="" class="icon-20 icon-close"></span>
+            <input type="text" placeholder="Suche" name="suche" id="searchtext"
+                   class="input-style border-radius-3px-left box-shadow-3px-inset-black">
+          </div>
+          <div class="search-submitwrapper border-radius-3px-right">
+            <input type="submit" class="stichwort-searchsubmit border-radius-3px-right" value="">
+            <span class="icon-20 icon-lupe"></span>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div class="sub-header-breadcrumbs">
+    <p>
+<span class="gelber_text">
+Musik<img class="breadcrumb-img" src="/resources/bilder/mobil/bremenvier/pfeil_brotkrume.png"/>
+<a href="/bremenvier/musik/playlists/index.html">Playlists</a>
+</span>
+    </p>
+  </div>
+  <div data-role="content" class="main-content-wrapper">
+    <!-- content -->
+    <div id="verlauf_content">
+      <div id="gebamsel_background">
+        <div id="gebamsel">
+          <script type="text/javascript">
+            if (AC_FL_RunContent != 0) {
+              AC_FL_RunContent(
+                  'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0',
+                  'width', '210',
+                  'height', '115',
+                  'src', '/bremenvier/flash/gebamsel?str=%20ZEIGLER',
+                  'quality', 'high',
+                  'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+                  'align', 'middle',
+                  'play', 'true',
+                  'loop', 'true',
+                  'scale', 'noscale',
+                  'wmode', 'window',
+                  'devicefont', 'false',
+                  'id', 'player',
+                  'bgcolor', '#F6F6F6',
+                  'name', 'player',
+                  'menu', 'true',
+                  'allowFullScreen', 'false',
+                  'allowScriptAccess', 'always',
+                  'movie', '/bremenvier/flash/gebamsel?str=%20ZEIGLER',
+                  'salign', ''
+              ); //end AC code
+            }
+          </script>
+          <noscript>
+            <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+                    codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0"
+                    width="210" height="130" id="player" align="middle">
+              <param name="allowScriptAccess" value="always"/>
+              <param name="allowFullScreen" value="false"/>
+              <param name="movie" value="/bremenvier/flash/gebamsel.swf?str=%20ZEIGLER"/>
+              <param name="quality" value="high"/>
+              <param name="scale" value="noscale"/>
+              <param name="bgcolor" value="#F6F6F6"/>
+            </object>
+          </noscript>
+          <p class="gebamsel_snippet">Zeiglers wunderbare Welt des Pop - das ist zur&uuml;cklehnen und entspannte Musik
+            auf die Ohren kriegen.</p></div>
+        <div id="verlauf_inner_content">
+          <h1 class="contact_headline">Zeiglers wunderbare Welt des Pop | Dienstags ab 20 Uhr</h1>
+          <div class="normal_link" style="text-align:right;"><br/><img
+              src="/bremenvier/_px/icons/pfeile/button_pfeil_schwarz.gif" alt="" style="margin-bottom:2px;">&nbsp;<a
+              href="radiorenner104.html" class="teaser_mehr"><b>aktuelle Playlist</b></a></div>
+          <!-- NEU  -->
+          <center>
+            <h2 class="contact_second_headline">Playlist vom 1. Januar</h2><br/>
+            <table class="top44_table">
+              <tr class="top44_table_head">
+                <td class="top44_table_zelle_head left" style="width:60px;">Zeit</td>
+                <td class="top44_table_zelle_head">Interpret</td>
+                <td class="top44_table_zelle_head right">Titel</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b>
+                  20 h</b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Young Gun Silver Fox </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Midnight In Richmond</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Joel Sarakula </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Coney Island Getaway</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Gruff Rhys </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Frontier Man</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Josh Rouse </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Salton Sea</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Le SuperHomard </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Black Diamond</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Parcels </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Iknowhowifeel</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Sweet Baboo </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Lost Out On The Floor</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Louis Cole </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Things</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Jonathan Jeremiah </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Good Day</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Fierce Friend </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Don&#39;t Fade Me To White</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Michael Nau </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Good Thing</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Arctic Monkeys </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Star Treatment</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Maston </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Raincloud</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b>
+                  21 h</b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Paul Steel </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> I See Sadness</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Nicholas Krgovich </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Rosemary</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Dylan Mondegreen </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> A Place In The Sun</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Elvis Costello </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Dishonor The Stars</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    The Fernweh </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Next Time Around</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    The Coral </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Eyes Like Pearls</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Jacco Gardner </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Levania</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Still Parade </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Circle Song</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Laish </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Time Elastic</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    MGMT </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> When You Die</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Scuba Dvala </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Anthill</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Kaveh Kanes </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> The Fountain</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    The Last Detail </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Fun Fair</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Nicolas Godin </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Clayborn</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Paul Weller </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Old Castles</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Father John Misty </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Mr. Tillman</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Matt Berry </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Are You Being Served</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b>
+                  22 h</b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Astronauts etc. </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> The Border</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Stone Foundation </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Don&#39;t Walk Away</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Charles Watson </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Abandoned Buick</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Monks Road Social </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Lost In Rasa</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Prep </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Line By Line</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    77:78 </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Love Said (Let&#39;s Go)</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Hockney </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Postmodern</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Matt Deighton </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Each Time You Find Out</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Montero </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Montero Airlines</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Jeremy Messersmith </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Postmodern Girl</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Honne </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Me & You</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Yehan Jehan </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Future Ringtone</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Two Medicine </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> SF</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Damien Jurado </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Allocate</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Hampshire & Foat </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Antonio&#39;s Theme</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b>
+                  23 h</b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Paul McCartney </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> I Don&#39;t Know</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Erdm&ouml;bel </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Barack Obama</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Skygge </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Sensitive (feat. C. Duncan)</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Vulfpeck </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Love Is A Beautiful Thing</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Joey Dosik </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Inside Voice</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Rod Stewart </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Who Designed The Snowflake</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    The Fiction Aisle </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Will I Get Where I&#39;m Going Before I Get There</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Connan Mockasin </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Charlotte&#39;s Thong</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Thomas Dybdahl </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> Look At What We&#39;ve Done</td>
+              </tr>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b></b></td>
+                <td class="top44_table_zelle">
+                  <div class="normal_link"><b>
+                    Joe McKee </b></a></div>
+                </td>
+                <td class="top44_table_zelle right"> A Pixelated Conversation</td>
+              </tr>
+              <tr class="top44_table_line2">
+                <td class="top44_table_zelle left orange bottom"><b></b></td>
+                <td class="top44_table_zelle bottom">
+                  <div class="normal_link"><b>
+                    The Beatles </b></a></div>
+                </td>
+                <td class="top44_table_zelle right bottom"> Good Night</td>
+              </tr>
+            </table>
+          </center>
+          <br/>
+          <h2 class="contact_second_headline">Archiv:</h2><br/>
+          <div class="normal_link"><img src="/bremenvier/_px/icons/pfeile/button_pfeil_schwarz.gif" alt=""
+                                        style="margin-bottom: 2px;">&nbsp;<a href="?id=285" class="teaser_mehr"><b>Playlist
+            vom 10.12.2019</b></a></div>
+          <div class="normal_link"><img src="/bremenvier/_px/icons/pfeile/button_pfeil_schwarz.gif" alt=""
+                                        style="margin-bottom: 2px;">&nbsp;<a href="?id=284" class="teaser_mehr"><b>Playlist
+            vom 03.12.2019</b></a></div>
+          <div class="normal_link"><img src="/bremenvier/_px/icons/pfeile/button_pfeil_schwarz.gif" alt=""
+                                        style="margin-bottom: 2px;">&nbsp;<a href="?id=283" class="teaser_mehr"><b>Playlist
+            vom 26.11.2019</b></a></div>
+          <br/><br/><br/>
+        </div>
+      </div>
+    </div>
+    <div class="cleaner">&nbsp;</div>
+    <!-- /content -->
+    <a href="/bremenvier/musik/playlists/index.html" class="collapsible-link">
+      <i class="icon-25 icon-collapsible-link"></i>
+      Playlists
+    </a>
+    <ul class="b4-footer-navi">
+      <li class="radiobremen">
+        <span class="submenu-opener">Musik</span>
+        <span class="submenu-icon"></span>
+        <ul class="submenu spacer hidden">
+          <li><a class="menu-link" href="/bremenvier/musik/titelsuche/index.html">Titelsuche</a></li>
+          <li><a class="menu-link" href="/bremenvier/musik/playlists/index.html">Playlists</a></li>
+          <li><a class="menu-link" href="/bremenvier/musik/promigalerie/index.html">Promis</a></li>
+          <li><a class="menu-link" href="/bremenvier/musik/musikscout/index.html">Musikscout</a></li>
+          <li><a class="menu-link" href="/bremenvier/musik/tonne/index.html">Fragen aus der Tonne</a></li>
+        </ul>
+      </li>
+      <li class="radiobremen">
+        <span class="submenu-opener">Programm</span>
+        <span class="submenu-icon"></span>
+        <ul class="submenu spacer hidden">
+          <li class="">
+            <span class="submenu-opener">Sendungen</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremenvier/programm/sendungen/index.html">Startseite</a></li>
+              <li class="">
+                <span class="submenu-opener">Zebra Vier</span>
+                <span class="submenu-icon"></span>
+                <ul class="submenu spacer hidden">
+                  <li><a class="menu-link" href="/bremenvier/programm/sendungen/zebravier/index.html">Startseite</a>
+                  </li>
+                  <li><a class="menu-link" href="/bremenvier/programm/sendungen/zebravier/forscht/index.html">Zebra Vier
+                    forscht</a></li>
+                  <li><a class="menu-link" href="/bremenvier/programm/sendungen/zebravier/buecher/index.html">Bücher</a>
+                  </li>
+                  <li><a class="menu-link" href="">Dein Ding</a></li>
+                  <li><a class="menu-link" href="">Moderatoren</a></li>
+                  <li><a class="menu-link" href="/bremenvier/programm/sendungen/zebravier/kinderreporter/index.html">Kinderreporter</a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a class="menu-link" href="/bremenvier/programm/fotos/index.html">Fotos</a></li>
+          <li><a class="menu-link" href="/bremenvier/programm/themen/index.html">Themen</a></li>
+          <li><a class="menu-link" href="/bremenvier/programm/comedy/index.html">Comedy</a></li>
+          <li><a class="menu-link" href="/bremenvier/programm/vier-news/index.html">Verkehr</a></li>
+        </ul>
+      </li>
+      <li class="radiobremen">
+        <span class="submenu-opener">Events</span>
+        <span class="submenu-icon"></span>
+        <ul class="submenu spacer hidden">
+          <li><a class="menu-link" href="/bremenvier/events/ueberblick/index.html">Überblick</a></li>
+          <li><a class="menu-link" href="/bremenvier/events/konzert/index.html">Konzerte</a></li>
+          <li><a class="menu-link" href="/bremenvier/events/festivals/index.html">Festivals</a></li>
+          <li><a class="menu-link" href="/bremenvier/events/comedy/index.html">Comedy</a></li>
+          <li><a class="menu-link" href="/bremenvier/events/party/index.html">Party</a></li>
+          <li><a class="menu-link" href="/bremenvier/events/kinder/index.html">Kinder</a></li>
+          <li><a class="menu-link" href="/bremenvier/events/action/index.html">Action</a></li>
+        </ul>
+      </li>
+      <li class="radiobremen">
+        <span class="submenu-opener">Über uns</span>
+        <span class="submenu-icon"></span>
+        <ul class="submenu spacer hidden">
+          <li><a class="menu-link" href="/bremenvier/ueber-uns/team/index.html">Team</a></li>
+          <li><a class="menu-link" href="/bremenvier/ueber-uns/backstage/index.html">Backstage-Tour</a></li>
+          <li><a class="menu-link" href="/bremenvier/ueber-uns/jobs/index.html">Jobs</a></li>
+          <li><a class="menu-link" href="/bremenvier/ueber-uns/kontakt/index.html">Kontakt</a></li>
+          <li><a class="menu-link" href="/bremenvier/ueber-uns/blaskapelle/index.html">Blaskapelle</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <footer class="page-footer" id="fuss">
+    <div id="socialshareprivacy"></div>
+    <div class="divider"></div>
+    <a href="javascript:utils.scrollTo('#mainpage');">Nach oben</a>
+    <div class="divider"></div>
+    <a href="http://www.radiobremen.de/bremenvier/musik/playlists/zeigler104.html">Zur klassischen Webseite</a>
+    <br>
+    <a href="/datenschutzerklaerung100.html">Datenschutz</a> |
+    <a href="/unternehmen/kontakt/impressum100.html">Impressum</a> |
+    <a href="http://www.ard.de">ARD.de</a>
+    <br>
+    <a href="/unternehmen/technik/faq100.html">Hilfe</a> |
+    <a href="/unternehmen/kontakt/uebersicht100.html">Kontakt</a> |
+    <a href="/sitemap102.html">Sitemap</a> |
+    <a href="/unternehmen/technik/rssfeeds110.html">RSS</a> |
+    <a href="javascript:showcopyrights();">Bildnachweis</a>
+  </footer>
+  <div class="navpage menu-content">
+    <ul class="menu">
+      <li class="menu-header">
+        <div class="favorites-opener">Favoriten<span class="submenu-icon"></span></div>
+        <div class="navpage-close menu-close">Schließen<span class="icon-25-black icon-close"></span></div>
+        <ul class="favorites-list submenu spacer hidden">
+          <li><span class="submenu-item add-favorite">Diese Seite hinzufügen</span><span
+              class="icon-25-black icon-plus favorite-icon"></span></li>
+          <li><span class="submenu-text">Keine Favoriten vorhanden</span></li>
+        </ul>
+      </li>
+      <li class="navpage-search-wrapper">
+        <form action="/suche100.html" method="get" class="not-empty">
+          <div class="search-wrapper">
+            <div class="search-textwrapper">
+              <span onclick="" class="icon-25 icon-close"></span>
+              <input type="text" placeholder="Suche" name="suche" id="searchtext"
+                     class="input-style border-radius-3px-left box-shadow-3px-inset-black">
+            </div>
+            <div class="search-submitwrapper border-radius-3px-right">
+              <input type="submit" class="stichwort-searchsubmit border-radius-3px-right" value="">
+              <span class="icon-25 icon-search"></span>
+            </div>
+          </div>
+        </form>
+      </li>
+      <li><a class="menu-link" href="/index.html">Home</a></li>
+      <li><a class="menu-link" href="https://www.butenunbinnen.de">buten un binnen</a></li>
+      <li class="bremeneins">
+        <span class="submenu-opener">Bremen Eins</span>
+        <span class="submenu-icon"></span>
+        <ul class="submenu spacer hidden">
+          <li><a class="menu-link" href="/bremeneins/index.html">Startseite</a></li>
+          <li><a class="menu-link" href="/bremeneins/buntes/index.html">Buntes</a></li>
+          <li class="">
+            <span class="submenu-opener">Sendungen</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremeneins/sendungen/programmuebersicht/index.html">Programmübersicht</a>
+              </li>
+              <li><a class="menu-link" href="/bremeneins/sendungen/beatclub/index.html">Beat-Club</a></li>
+              <li><a class="menu-link" href="/bremeneins/sendungen/bremeneins_live/index.html">Bremen Eins Live</a></li>
+              <li><a class="menu-link" href="/bremeneins/sendungen/bundesliga/index.html">Bundesliga</a></li>
+              <li><a class="menu-link" href="/bremeneins/sendungen/eine-stunde-mit/index.html">Eine Stunde mit ...</a>
+              </li>
+              <li><a class="menu-link" href="/bremeneins/sendungen/gruesse_und_musik/index.html">Grüße und Musik</a>
+              </li>
+              <li><a class="menu-link" href="/bremeneins/sendungen/oldieboerse/index.html">Oldiebörse</a></li>
+              <li><a class="menu-link" href="/bremeneins/sendungen/rundschau/index.html">Rundschau</a></li>
+              <li><a class="menu-link" href="/bremeneins/sendungen/sonntag-aus-bremerhaven/index.html">Sonntag aus
+                Bremerhaven</a></li>
+            </ul>
+          </li>
+          <li class="">
+            <span class="submenu-opener">Serien</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremeneins/serien/as_time_goes_by/index.html">As Time Goes By</a></li>
+              <li><a class="menu-link" href="/bremeneins/serien/auf_ein_wort/index.html">Auf ein Wort</a></li>
+              <li><a class="menu-link" href="/bremeneins/serien/hier_bin_ich_am_liebsten/index.html">Hier bin ich am
+                liebsten</a></li>
+              <li><a class="menu-link" href="/bremeneins/serien/plattdeutsche_nachrichten/index.html">Plattdeutsche
+                Nachrichten</a></li>
+              <li><a class="menu-link" href="/bremeneins/serien/zu_gast_bei_bremen_eins/index.html">Zu Gast bei Bremen
+                Eins</a></li>
+              <li><a class="menu-link" href="/bremeneins/serien/wettergespraech/index.html">Das Wettergespräch</a></li>
+              <li><a class="menu-link" href="/bremeneins/serien/parzellist/index.html">Der Parzellist</a></li>
+              <li><a class="menu-link" href="/bremeneins/serien/ausflugstipps/index.html">Ausflugstipps</a></li>
+              <li><a class="menu-link" href="/bremeneins/musik/plattmacher/plattmacher-songs100.html">Die
+                Plattmacher</a></li>
+            </ul>
+          </li>
+          <li><a class="menu-link" href="/bremeneins/veranstaltungen/index.html">Veranstaltungen</a></li>
+          <li class="">
+            <span class="submenu-opener">Musik</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremeneins/musik/index.html">Startseite</a></li>
+              <li><a class="menu-link" href="/bremeneins/musik/musiktester/index.html">Musiktester</a></li>
+              <li><a class="menu-link" href="/bremeneins/musik/titelsuche/index.html">Musiktitel-Suche</a></li>
+              <li><a class="menu-link" href="/bremeneins/musik/webchannel/index.html">Webchannel</a></li>
+              <li><a class="menu-link" href="/bremeneins/musik/wochenalbum/index.html">Album der Woche</a></li>
+              <li><a class="menu-link" href="/bremeneins/musik/groesstealben/index.html">Größte Alben</a></li>
+              <li><a class="menu-link" href="/bremeneins/musik/plattmacher/index.html">Die Plattmacher</a></li>
+            </ul>
+          </li>
+          <li class="">
+            <span class="submenu-opener">Team</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremeneins/team/moderation/index.html">Moderation</a></li>
+              <li><a class="menu-link" href="/bremeneins/team/redaktion/index.html">Redaktion</a></li>
+              <li><a class="menu-link" href="/bremeneins/team/leitung/index.html">Leitung</a></li>
+            </ul>
+          </li>
+          <li class="">
+            <span class="submenu-opener">Info &amp; Kontakt</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremeneins/info_und_kontakt/frequenzen/index.html">Frequenzen</a></li>
+              <li><a class="menu-link" href="/bremeneins/info_und_kontakt/kontakt/index.html">Kontakt</a></li>
+            </ul>
+          </li>
+          <li><a class="menu-link" href="/bremeneins/mediabox/index.html">Mediabox</a></li>
+        </ul>
+      </li>
+      <li class="radiobremen">
+        <span class="submenu-opener">Bremen Zwei</span>
+        <span class="submenu-icon"></span>
+        <ul class="submenu spacer hidden">
+          <li><a class="menu-link" href="/bremenzwei/index.html">Startseite</a></li>
+          <li class="">
+            <span class="submenu-opener">Programm</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremenzwei/programm/index.html">Startseite</a></li>
+              <li><a class="menu-link" href="/bremenzwei/programm/">Übersicht</a></li>
+              <li><a class="menu-link" href="/bremenzwei/sendungen/">Sendungen</a></li>
+              <li><a class="menu-link" href="/bremenzwei/rubriken/">Rubriken</a></li>
+              <li><a class="menu-link" href="/bremenzwei/podcast/">Podcast</a></li>
+              <li><a class="menu-link" href="/bremenzwei/webchannel/">Webchannel</a></li>
+            </ul>
+          </li>
+          <li class="">
+            <span class="submenu-opener">Musik</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremenzwei/musik/index.html">Startseite</a></li>
+              <li><a class="menu-link" href="/bremenzwei/musik/titelsuche/index.html">Titelsuche</a></li>
+              <li><a class="menu-link" href="/bremenzwei/musik/musiktester/index.html">Musiktester</a></li>
+              <li><a class="menu-link" href="/bremenzwei/musik/studiogaeste/index.html">Studio-Gäste</a></li>
+              <li><a class="menu-link" href="/bremenzwei/musik/cd-tipps/index.html">CD-Tipps</a></li>
+            </ul>
+          </li>
+          <li><a class="menu-link" href="/bremenzwei/veranstaltungen/index.html">Veranstaltungen</a></li>
+          <li class="">
+            <span class="submenu-opener">Über uns</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremenzwei/ueber-uns/index.html">Startseite</a></li>
+              <li><a class="menu-link" href="/bremenzwei/ueber-uns/team/index.html">Team</a></li>
+              <li><a class="menu-link" href="/bremenzwei/ueber-uns/kontakt/index.html">Kontakt</a></li>
+              <li><a class="menu-link" href="/bremenzwei/ueber-uns/frequenzen/index.html">Frequenzen</a></li>
+            </ul>
+          </li>
+          <li><a class="menu-link" href="/bremenzwei/mediabox/index.html"></a></li>
+        </ul>
+      </li>
+      <li class="bremenvier">
+        <span class="submenu-opener">Bremen Vier</span>
+        <span class="submenu-icon"></span>
+        <ul class="submenu spacer hidden">
+          <li><a class="menu-link" href="/bremenvier/index.html">Startseite</a></li>
+          <li class="">
+            <span class="submenu-opener">Musik</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremenvier/musik/titelsuche/index.html">Titelsuche</a></li>
+              <li><a class="menu-link" href="/bremenvier/musik/playlists/index.html">Playlists</a></li>
+              <li><a class="menu-link" href="/bremenvier/musik/promigalerie/index.html">Promis</a></li>
+              <li><a class="menu-link" href="/bremenvier/musik/musikscout/index.html">Musikscout</a></li>
+              <li><a class="menu-link" href="/bremenvier/musik/tonne/index.html">Fragen aus der Tonne</a></li>
+            </ul>
+          </li>
+          <li class="">
+            <span class="submenu-opener">Programm</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li class="">
+                <span class="submenu-opener">Sendungen</span>
+                <span class="submenu-icon"></span>
+                <ul class="submenu spacer hidden">
+                  <li><a class="menu-link" href="/bremenvier/programm/sendungen/index.html">Startseite</a></li>
+                  <li><a class="menu-link" href="/bremenvier/programm/sendungen/zebravier/index.html">Zebra Vier</a>
+                  </li>
+                </ul>
+              </li>
+              <li><a class="menu-link" href="/bremenvier/programm/fotos/index.html">Fotos</a></li>
+              <li><a class="menu-link" href="/bremenvier/programm/themen/index.html">Themen</a></li>
+              <li><a class="menu-link" href="/bremenvier/programm/comedy/index.html">Comedy</a></li>
+              <li><a class="menu-link" href="/bremenvier/programm/vier-news/index.html">Verkehr</a></li>
+            </ul>
+          </li>
+          <li class="">
+            <span class="submenu-opener">Events</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremenvier/events/ueberblick/index.html">Überblick</a></li>
+              <li><a class="menu-link" href="/bremenvier/events/konzert/index.html">Konzerte</a></li>
+              <li><a class="menu-link" href="/bremenvier/events/festivals/index.html">Festivals</a></li>
+              <li><a class="menu-link" href="/bremenvier/events/comedy/index.html">Comedy</a></li>
+              <li><a class="menu-link" href="/bremenvier/events/party/index.html">Party</a></li>
+              <li><a class="menu-link" href="/bremenvier/events/kinder/index.html">Kinder</a></li>
+              <li><a class="menu-link" href="/bremenvier/events/action/index.html">Action</a></li>
+            </ul>
+          </li>
+          <li class="">
+            <span class="submenu-opener">Über uns</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/bremenvier/ueber-uns/team/index.html">Team</a></li>
+              <li><a class="menu-link" href="/bremenvier/ueber-uns/backstage/index.html">Backstage-Tour</a></li>
+              <li><a class="menu-link" href="/bremenvier/ueber-uns/jobs/index.html">Jobs</a></li>
+              <li><a class="menu-link" href="/bremenvier/ueber-uns/kontakt/index.html">Kontakt</a></li>
+              <li><a class="menu-link" href="/bremenvier/ueber-uns/blaskapelle/index.html">Blaskapelle</a></li>
+            </ul>
+          </li>
+          <li><a class="menu-link" href="/apps/bremenvier/mediabox/player.php">Mediabox</a></li>
+        </ul>
+      </li>
+      <li><a class="menu-link" href="/bremennext/index.html">Bremen Next</a></li>
+      <li><a class="menu-link" href="http://www1.wdr.de/radio/cosmo/index.html">Cosmo</a></li>
+      <li class="fernsehen">
+        <span class="submenu-opener">Fernsehen</span>
+        <span class="submenu-icon"></span>
+        <ul class="submenu spacer hidden">
+          <li><a class="menu-link" href="/fernsehen/index.html">Startseite</a></li>
+          <li><a class="menu-link" href="https://www.butenunbinnen.de/videos/index.html">buten un binnen</a></li>
+          <li class="">
+            <span class="submenu-opener">3nach9</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/fernsehen/3_nach_9/index.html">Startseite</a></li>
+              <li><a class="menu-link" href="/fernsehen/3_nach_9/moderatoren/index.html">Moderatoren</a></li>
+              <li><a class="menu-link" href="/fernsehen/3_nach_9/archiv/index.html">Archiv</a></li>
+              <li><a class="menu-link" href="/fernsehen/3_nach_9/classics/index.html">3nach9 classics</a></li>
+              <li><a class="menu-link" href="/fernsehen/3_nach_9/tickets/index.html">Tickets</a></li>
+              <li><a class="menu-link" href="/fernsehen/3_nach_9/kontakt/index.html">Kontakt</a></li>
+            </ul>
+          </li>
+          <li><a class="menu-link" href="/fernsehen/tatort/index.html">Tatort</a></li>
+          <li class="">
+            <span class="submenu-opener">Produktionen</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/fernsehen/produktionen/index.html">Startseite</a></li>
+              <li><a class="menu-link" href="/fernsehen/produktionen/dokumentationen/index.html">Dokumentationen</a>
+              </li>
+              <li><a class="menu-link" href="/fernsehen/produktionen/seehund_puma_und_co/index.html">Seehund, Puma &amp;
+                Co</a></li>
+              <li><a class="menu-link" href="/fernsehen/produktionen/sport/index.html">Sport</a></li>
+              <li class="">
+                <span class="submenu-opener">Unterhaltung</span>
+                <span class="submenu-icon"></span>
+                <ul class="submenu spacer hidden">
+                  <li><a class="menu-link" href="/fernsehen/produktionen/unterhaltung/index.html">Startseite</a></li>
+                  <li><a class="menu-link" href=""> Von einem, der auszog...</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="radiobremen">
+        <span class="submenu-opener">Unternehmen</span>
+        <span class="submenu-icon"></span>
+        <ul class="submenu spacer hidden">
+          <li><a class="menu-link" href="/unternehmen/index.html">Startseite</a></li>
+          <li><a class="menu-link" href="/unternehmen/kontakt/index.html">Kontakt</a></li>
+          <li><a class="menu-link" href="/unternehmen/karriere/index.html">Karriere</a></li>
+          <li class="">
+            <span class="submenu-opener">Organisation</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/unternehmen/organisation/index.html">Startseite</a></li>
+              <li><a class="menu-link" href="">Radio Bremen Neu</a></li>
+              <li><a class="menu-link" href="/unternehmen/organisation/veroeffentlichungen/index.html">Veröffentlichungen</a>
+              </li>
+            </ul>
+          </li>
+          <li class="">
+            <span class="submenu-opener">Presse</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/unternehmen/presse/index.html">Startseite</a></li>
+              <li><a class="menu-link" href="/unternehmen/presse/fuehrungen/index.html">Führungen</a></li>
+              <li><a class="menu-link" href="/unternehmen/presse/radio/index.html">Radio</a></li>
+              <li><a class="menu-link" href="/unternehmen/presse/fernsehen/index.html">Fernsehen</a></li>
+              <li><a class="menu-link" href="/unternehmen/presse/einladungen/index.html">Presse-Einladungen</a></li>
+              <li><a class="menu-link" href="/unternehmen/presse/unternehmen/index.html">Unternehmen</a></li>
+              <li><a class="menu-link" href="/unternehmen/presse/auszeichnungen/index.html">Auszeichnungen</a></li>
+              <li><a class="menu-link" href="/unternehmen/presse/sonstiges/index.html">Sonstiges</a></li>
+              <li><a class="menu-link" href="/unternehmen/presse/kontakt/index.html">Kontakt</a></li>
+            </ul>
+          </li>
+          <li><a class="menu-link" href="http://www.radiobremen-shop.de/">Shop</a></li>
+          <li class="">
+            <span class="submenu-opener">Technik</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="/unternehmen/technik/index.html">Startseite</a></li>
+              <li><a class="menu-link" href="/unternehmen/technik/klardigital/index.html">Klar digital</a></li>
+              <li><a class="menu-link" href="">Frequenzen</a></li>
+              <li><a class="menu-link" href="/unternehmen/technik/livestreams/index.html">Livestreams</a></li>
+              <li><a class="menu-link" href="/unternehmen/technik/webchannel/index.html">Webchannel</a></li>
+            </ul>
+          </li>
+          <li class="">
+            <span class="submenu-opener">Werbung</span>
+            <span class="submenu-icon"></span>
+            <ul class="submenu spacer hidden">
+              <li><a class="menu-link" href="http://www.radiobremen-media.de">Startseite</a></li>
+              <li><a class="menu-link" href="">Logos und Gestaltung</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="servicepage menu-content">
+    <ul class="menu">
+      <li class="menu-header">
+        <div class="servicepage-close menu-close">Schließen<span class="icon-25-black icon-close"></span></div>
+      </li>
+      <!--
+            <li class="radiobremen">
+              <span class="submenu-opener">Seite teilen</span>
+              <span class="submenu-icon"></span>
+              <ul class="submenu spacer hidden">
+                <li><span class="menu-item">Über Facebook</span></li>
+                <li><span class="menu-item">Über Twitter</span></li>
+                <li><span class="menu-item">Über E-Mail</span></li>
+              </ul>
+            </li>
+       -->
+      <li class="menu-item">Animationen
+        <div class="animation-switch-wrapper">
+          <fieldset class="animation-switch">
+            <input type="checkbox" name="animation-switch" id="animation-switch-checkbox" value="true"/>
+          </fieldset>
+        </div>
+      </li>
+      <!--
+            <li class="radiobremen">
+              <span class="submenu-opener">Standalone Webapp</span>
+              <span class="submenu-icon"></span>
+              <ul class="submenu spacer hidden">
+                <li><span class="menu-item">Meldung bei externem Link</span></li>
+                <li><span class="menu-item">letzte Seite merken</span></li>
+              </ul>
+            </li>
+       -->
+    </ul>
+  </div>
+  <div class="navigation-layer hidden"></div>
+</div>
+<script type="text/javascript">
+  (function () {
+    var services = [],
+        cookie = '',
+        disableServices = '',
+        scriptTag;
+    cookie = document.cookie;
+    disableServices = cookie.match(/disableTrackingServices=([^;]*)/);
+    if (disableServices !== null && disableServices[1]) {
+      services = JSON.parse(disableServices[1]) || [];
+    }
+    if (services.indexOf('szm') === -1) {
+      scriptTag = document.createElement('script');
+      scriptTag.type = 'text/javascript';
+      scriptTag.src = 'https://script.ioam.de/iam.js';
+      scriptTag.onload = function () {
+        var payload = {
+          'st': 'mobrabre',
+          'cp': 'rb/Mobile'
+        };
+        window.iom.c(payload, 1);
+      };
+      document.body.appendChild(scriptTag);
+    }
+  })();
+</script>
+<script id="atInternetData" type="text/json">
+{"chapter2":"playlists","chapter1":"musik","publishingDate":"2010-04-21T20:15:10","distribution":"Web","url":"http://www.radiobremen.de/bremenvier/musik/playlists/zeigler104.html","creator":"Radio Bremen","referrer":"www.radiobremen.de/bremenvier","siteId":"5","contentTitle":"Zeiglers wunderbare Welt des Pop","pageTitle":"Zeiglers wunderbare Welt des Pop - Radio Bremen","path":"/musik/playlists/","trackingCodeId":"595939","uuid":"26eb2c01-eb69-460c-8c23-01e83eb73113","objectType":"extern","sophoraId":"zeigler104"}
+
+</script>
+</body>
+</html>
