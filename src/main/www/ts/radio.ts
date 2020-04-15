@@ -25,6 +25,10 @@ class Broadcast {
       previous = e;
     });
   }
+
+  get episodesArray(): Episode[] {
+    return Array.from(this.episodes.values());
+  }
 }
 
 class Episode {
@@ -159,30 +163,30 @@ class Radio extends HTMLElement {
   //   return html`<h1>Wochenende: ${name}</h1>`
   // }
 
-  private static content2(episode: Episode, song: Song) {
-    return `<tr>
-<td class="${episode.songs.hasTitle ? '' : 'd-none'}">${song.title ? song.title : ""}</td>
-<td class="${episode.songs.hasPerformer ? '' : 'd-none'}">${song.performer ? song.performer : ""}</td>
-<td class="${episode.songs.hasComposer ? '' : 'd-none'}">${song.composer ? song.composer : ""}</td>
-<td class="${episode.songs.hasNumber ? '' : 'd-none'}">${song.number ? song.number : ""}</td>
-<td class="${episode.songs.hasAlbum ? '' : 'd-none'}">${song.album ? song.album : ""}</td>
-<td class="${episode.songs.hasGenre ? '' : 'd-none'}">${song.genre ? song.genre : ""}</td>
-<td class="${episode.songs.hasYear ? '' : 'd-none'}">${song.year ? song.year : ""}</td>
-</tr>`;
+  linkLinkToggle(event: MouseEvent) {
+    this.querySelector("#link-list").classList.toggle("d-none");
   }
 
-  private static content1(broadcast: Broadcast, episode: Episode) {
+  private content1(broadcast: Broadcast, episode: Episode) {
+
     return html`<h1>${broadcast.title}</h1>
+<nav id="link-list" class="small d-none">
+${broadcast.episodesArray.map(e =>
+        html`<a href="${broadcast.id}-${e.id}.html">${e.dateFormat} (${e.songs.list.length} Titel)</a> `
+    )}
+</nav>
 <div class="form-group">
-<label>Songliste vom ... ${episode.dateFormat}
-<select class="form-control"></select></label>
+
+<h3>Songliste vom ${episode.dateFormat}</h3>
+
 ${episode.previousId
-? html`<a href="${broadcast.id}-${episode.previousId}.html">Previous</a>`
-: html`<a class="disabled">Previous</a>`
-}
+        ? html`<a class="btn" href="${broadcast.id}-${episode.previousId}.html">Previous</a>`
+        : html`<a class="btn disabled">Previous</a>`
+    }
+<button class="btn" id="link-list-toggle" @click="${this.linkLinkToggle.bind(this)}">Liste</button>
 ${episode.nextId
-        ? html`<a href="${broadcast.id}-${episode.nextId}.html">Next</a>`
-        : html`<a class="disabled">Next</a>`
+        ? html`<a class="btn" href="${broadcast.id}-${episode.nextId}.html">Next</a>`
+        : html`<a class="btn disabled">Next</a>`
     }
 </div>
 <table class="table table-striped">
@@ -205,6 +209,18 @@ ${episode.nextId
     <th class="${episode.songs.hasGenre ? '' : 'd-none'}">Genre</th>
     <th class="${episode.songs.hasYear ? '' : 'd-none'}">Jahr</th>
   </tr></thead><tbody></tbody></table>`;
+  }
+
+  private content2(episode: Episode, song: Song) {
+    return `<tr>
+<td class="${episode.songs.hasTitle ? '' : 'd-none'}">${song.title ? song.title : ""}</td>
+<td class="${episode.songs.hasPerformer ? '' : 'd-none'}">${song.performer ? song.performer : ""}</td>
+<td class="${episode.songs.hasComposer ? '' : 'd-none'}">${song.composer ? song.composer : ""}</td>
+<td class="${episode.songs.hasNumber ? '' : 'd-none'}">${song.number ? song.number : ""}</td>
+<td class="${episode.songs.hasAlbum ? '' : 'd-none'}">${song.album ? song.album : ""}</td>
+<td class="${episode.songs.hasGenre ? '' : 'd-none'}">${song.genre ? song.genre : ""}</td>
+<td class="${episode.songs.hasYear ? '' : 'd-none'}">${song.year ? song.year : ""}</td>
+</tr>`;
   }
 
   private renderBroadcast() {
@@ -232,19 +248,14 @@ ${episode.nextId
           // Auswählen der Song-Tabelle für die 1. Episode
           const episode = this.episodeId ? broadcast.episodes.get(this.episodeId) : broadcast.newestEpisode;
 
-          const html1 = Radio.content1(broadcast, episode);
+          const html1 = this.content1(broadcast, episode);
           render(html1, this);
 
           const table = this.querySelector("tbody");
           table.innerHTML = "";
           episode.songs.list.forEach(song => {
             table.insertAdjacentHTML("beforeend",
-                Radio.content2(episode, song));
-          });
-          const select = this.querySelector("select");
-          broadcast.episodes.forEach(episode => {
-            select.insertAdjacentHTML("afterbegin",
-                `<option value="${episode.id}">${episode.dateFormat} (${episode.songs.list.length} Titel)</td></option>`);
+                this.content2(episode, song));
           });
         });
   }
