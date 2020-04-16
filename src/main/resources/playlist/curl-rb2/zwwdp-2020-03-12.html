@@ -1,0 +1,149 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<table>
+<tr>
+    <td>22:04</td>
+    <td>Pugwash</td>
+    <td>It's Nice To Be Nice</td>
+  </tr>
+  <tr>
+    <td>22:07</td>
+    <td>Jim Noir</td>
+    <td>Hexagons</td>
+  </tr>
+  <tr>
+    <td>22:11</td>
+    <td>Khruangbin & Leon Bridges</td>
+    <td>Texas Sun</td>
+  </tr>
+  <tr>
+    <td>22:15</td>
+    <td>Omaloma</td>
+    <td>Walk The Dog</td>
+  </tr>
+  <tr>
+    <td>22:19</td>
+    <td>Real Estate</td>
+    <td>Friday</td>
+  </tr>
+  <tr>
+    <td>22:23</td>
+    <td>Thundercat</td>
+    <td>Dragonball Durag</td>
+  </tr>
+  <tr>
+    <td>22:27</td>
+    <td>Young Gun Silver Fox</td>
+    <td>Kids</td>
+  </tr>
+  <tr>
+    <td>22:32</td>
+    <td>Mamas Gun</td>
+    <td>This Is The Day (Full Band Version)</td>
+  </tr>
+  <tr>
+    <td>22:36</td>
+    <td>Gangway</td>
+    <td>The Party Is Over</td>
+  </tr>
+  <tr>
+    <td>22:40</td>
+    <td>Der Englische Garten</td>
+    <td>München '70</td>
+  </tr>
+  <tr>
+    <td>22:43</td>
+    <td>Mellow Fellow</td>
+    <td>Dancing</td>
+  </tr>
+  <tr>
+    <td>22:47</td>
+    <td>Marker Starling feat. Laetitia Sadier</td>
+    <td>Waiting For Grace</td>
+  </tr>
+  <tr>
+    <td>22:51</td>
+    <td>Balthazar</td>
+    <td>Bunker</td>
+  </tr>
+  <tr>
+    <td>22:57</td>
+    <td>Stone Foundation</td>
+    <td>Freedom Starts!</td>
+  </tr>
+  <tr>
+    <td>23:04</td>
+    <td>Shakatak</td>
+    <td>All Around The World Tonight</td>
+  </tr>
+  <tr>
+    <td>23:12</td>
+    <td>Powder Blue Tux</td>
+    <td>Mayfair</td>
+  </tr>
+  <tr>
+    <td>23:16</td>
+    <td>Count Indigo</td>
+    <td>My Unknown Love</td>
+  </tr>
+  <tr>
+    <td>23:20</td>
+    <td>Swing Out Sister</td>
+    <td>Almost Persuaded</td>
+  </tr>
+  <tr>
+    <td>23:24</td>
+    <td>Michael Kiwanuka</td>
+    <td>Light</td>
+  </tr>
+  <tr>
+    <td>23:31</td>
+    <td>The Creator feat. Rex Orange County & Anna of the North Tyler</td>
+    <td>Boredom</td>
+  </tr>
+  <tr>
+    <td>23:36</td>
+    <td>Homeshake</td>
+    <td>Every Single Thing</td>
+  </tr>
+  <tr>
+    <td>23:39</td>
+    <td>Amiina feat. Lee Hazlewood</td>
+    <td>Hilli (At The Top Of The World)</td>
+  </tr>
+  <tr>
+    <td>23:42</td>
+    <td>The Mystic Moods Orchestra</td>
+    <td>Love Is Blue</td>
+  </tr>
+  <tr>
+    <td>23:45</td>
+    <td>Strawberry Guy</td>
+    <td>Mrs Magic</td>
+  </tr>
+  <tr>
+    <td>23:49</td>
+    <td>Caesar Frazier</td>
+    <td>Ellie's Love Theme</td>
+  </tr>
+  <tr>
+    <td>23:53</td>
+    <td>Rufus Wainwright</td>
+    <td>Trouble In Paradise</td>
+  </tr>
+  <tr>
+    <td>23:58</td>
+    <td>The Beatles</td>
+    <td>Good Night</td>
+  </tr>
+</table>
+
+<script>
+  let result = "";
+  document.querySelectorAll("tr").forEach(
+      row => result += `<div>{
+"time":"${row.querySelector("td:nth-child(1)").textContent}",
+"title": "${row.querySelector("td:nth-child(3)").textContent}",
+"performer": "${row.querySelector("td:nth-child(2)").textContent}"},
+</div>`);
+  document.querySelector("table").insertAdjacentHTML("beforebegin", result);
+</script>

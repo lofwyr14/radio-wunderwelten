@@ -1,0 +1,154 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<table>
+<tr>
+    <td>22:04</td>
+    <td>Gangway</td>
+    <td>The Party's Over</td>
+  </tr>
+  <tr>
+    <td>22:07</td>
+    <td>Paul Housden</td>
+    <td>Everyone (Knows Why You're Alone)</td>
+  </tr>
+  <tr>
+    <td>22:12</td>
+    <td>Mats Wawa</td>
+    <td>100 % Park</td>
+  </tr>
+  <tr>
+    <td>22:15</td>
+    <td>Tears For Fears</td>
+    <td>Pale Shelter</td>
+  </tr>
+  <tr>
+    <td>22:22</td>
+    <td>Curt Boettcher mit Sandy Salisbury</td>
+    <td>My Heart Cries Out</td>
+  </tr>
+  <tr>
+    <td>22:25</td>
+    <td>Nightmares On Wax</td>
+    <td>Nights Introlude</td>
+  </tr>
+  <tr>
+    <td>22:31</td>
+    <td>Lake Ruth</td>
+    <td>Lonely Street</td>
+  </tr>
+  <tr>
+    <td>22:34</td>
+    <td>Stephen Duffy</td>
+    <td>The Girl Of The Year</td>
+  </tr>
+  <tr>
+    <td>22:40</td>
+    <td>Gary Olson</td>
+    <td>Giovanna Please</td>
+  </tr>
+  <tr>
+    <td>22:45</td>
+    <td>All If</td>
+    <td>Four-Headed Monster</td>
+  </tr>
+  <tr>
+    <td>22:48</td>
+    <td>Orwell</td>
+    <td>Dérivation</td>
+  </tr>
+  <tr>
+    <td>22:52</td>
+    <td>Gigi</td>
+    <td>Dreams Of Romance</td>
+  </tr>
+  <tr>
+    <td>22:57</td>
+    <td>Booker T. & The M.G.'s</td>
+    <td>Day Tripper</td>
+  </tr>
+  <tr>
+    <td>23:04</td>
+    <td>The James Taylor Quartet</td>
+    <td>A Giant Leap</td>
+  </tr>
+  <tr>
+    <td>23:07</td>
+    <td>Shawn Lee</td>
+    <td>Kiss The Sky</td>
+  </tr>
+  <tr>
+    <td>23:11</td>
+    <td>Beck</td>
+    <td>Everybody's Gotta Learn Sometimes</td>
+  </tr>
+  <tr>
+    <td>23:16</td>
+    <td>Damien Jurado</td>
+    <td>Alcie Hyatt</td>
+  </tr>
+  <tr>
+    <td>23:17</td>
+    <td>The Electric Soft Parade</td>
+    <td>Across The Universe</td>
+  </tr>
+  <tr>
+    <td>23:21</td>
+    <td>Mark Eric</td>
+    <td>Sad Is The Way That I Feel</td>
+  </tr>
+  <tr>
+    <td>23:24</td>
+    <td>The Ncy Milky Band</td>
+    <td>Luther Ingram</td>
+  </tr>
+  <tr>
+    <td>23:27</td>
+    <td>David Bowie</td>
+    <td>The Man Who Sold The World</td>
+  </tr>
+  <tr>
+    <td>23:32</td>
+    <td>The Beach Boys</td>
+    <td>Busy Doin' Nothin'</td>
+  </tr>
+  <tr>
+    <td>23:35</td>
+    <td>Coralie Clément</td>
+    <td>Lou</td>
+  </tr>
+  <tr>
+    <td>23:41</td>
+    <td>Rebecka Törnqvist</td>
+    <td>Mary, Mary</td>
+  </tr>
+  <tr>
+    <td>23:45</td>
+    <td>Jimi Tenor</td>
+    <td>Unmentionables</td>
+  </tr>
+  <tr>
+    <td>23:50</td>
+    <td>Nick Hakim</td>
+    <td>The Light</td>
+  </tr>
+  <tr>
+    <td>23:55</td>
+    <td>Mocky mit Feist</td>
+    <td>Fightin' Away The Tears</td>
+  </tr>
+  <tr>
+    <td>23:58</td>
+    <td>The Beatles</td>
+    <td>Good Night</td>
+  </tr>
+</table>
+
+<script>
+  let result = "";
+  document.querySelectorAll("tr").forEach(
+      row => result += `<div>{
+"time":"${row.querySelector("td:nth-child(1)").textContent}",
+"title": "${row.querySelector("td:nth-child(3)").textContent}",
+"performer": "${row.querySelector("td:nth-child(2)").textContent}"},
+</div>`);
+  document.querySelector("table").insertAdjacentHTML("beforebegin", result);
+</script>

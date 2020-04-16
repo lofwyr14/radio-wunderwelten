@@ -1,0 +1,159 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<table>
+<tr>
+    <td>22:04</td>
+    <td>Elvis Costello</td>
+    <td>Veronica</td>
+  </tr>
+  <tr>
+    <td>22:07</td>
+    <td>Darwin Deez</td>
+    <td>Constellations</td>
+  </tr>
+  <tr>
+    <td>22:11</td>
+    <td>Damien Jurado</td>
+    <td>Birds Tricked Into The Trees</td>
+  </tr>
+  <tr>
+    <td>22:13</td>
+    <td>Sondre Lerche</td>
+    <td>You Are Not Who I Thought I Was/Reißt Ab!</td>
+  </tr>
+  <tr>
+    <td>22:16</td>
+    <td>Fugu</td>
+    <td>Here Today</td>
+  </tr>
+  <tr>
+    <td>22:20</td>
+    <td>Julie Depardieu & Moto</td>
+    <td>Born To Be Alive</td>
+  </tr>
+  <tr>
+    <td>22:23</td>
+    <td>Gary Olson</td>
+    <td>Navy Boats</td>
+  </tr>
+  <tr>
+    <td>22:28</td>
+    <td>Amber Arcades</td>
+    <td>Alpine Town</td>
+  </tr>
+  <tr>
+    <td>22:32</td>
+    <td>Mister Fusty</td>
+    <td>6am, Charles Bridge</td>
+  </tr>
+  <tr>
+    <td>22:37</td>
+    <td>Depeche Mode</td>
+    <td>Hereos (Highline Sessions Version)</td>
+  </tr>
+  <tr>
+    <td>22:43</td>
+    <td>Paul Weller feat. Col3trane</td>
+    <td>Earth Beat</td>
+  </tr>
+  <tr>
+    <td>22:47</td>
+    <td>Joel Sarakula</td>
+    <td>Game Of Spies</td>
+  </tr>
+  <tr>
+    <td>22:51</td>
+    <td>Julian Cope</td>
+    <td>Eve's Volcano (Covered In Sin)</td>
+  </tr>
+  <tr>
+    <td>22:56</td>
+    <td>The Art Of Noise</td>
+    <td>Moments In Love (Beaten)</td>
+  </tr>
+  <tr>
+    <td>23:04</td>
+    <td>José James</td>
+    <td>Just The Way You Are</td>
+  </tr>
+  <tr>
+    <td>23:09</td>
+    <td>James Righton</td>
+    <td>See The Monster</td>
+  </tr>
+  <tr>
+    <td>23:13</td>
+    <td>Paul McCartney</td>
+    <td>Waterfalls</td>
+  </tr>
+  <tr>
+    <td>23:17</td>
+    <td>etc. Astronauts</td>
+    <td>Rocket Man</td>
+  </tr>
+  <tr>
+    <td>23:21</td>
+    <td>Melvin Knight</td>
+    <td>Let's Get Away</td>
+  </tr>
+  <tr>
+    <td>23:25</td>
+    <td>The James Taylor Quartet fet. Noel McKoy</td>
+    <td>Smokin' The Future</td>
+  </tr>
+  <tr>
+    <td>23:27</td>
+    <td>The Natural Yogurt Band</td>
+    <td>Flowers In The Rain</td>
+  </tr>
+  <tr>
+    <td>23:31</td>
+    <td>Cosmos People</td>
+    <td>Daily Practice</td>
+  </tr>
+  <tr>
+    <td>23:36</td>
+    <td>Alex Siegel</td>
+    <td>Dreamers</td>
+  </tr>
+  <tr>
+    <td>23:39</td>
+    <td>Heaven 17</td>
+    <td>Let Me Go</td>
+  </tr>
+  <tr>
+    <td>23:44</td>
+    <td>Matt Monro</td>
+    <td>The Impossible Dream</td>
+  </tr>
+  <tr>
+    <td>23:48</td>
+    <td>The Heavy Blinkers</td>
+    <td>The Night And I Are Still So Young</td>
+  </tr>
+  <tr>
+    <td>23:51</td>
+    <td>Ensemble</td>
+    <td>Mermaid</td>
+  </tr>
+  <tr>
+    <td>23:55</td>
+    <td>Elvis Costello & The Imposters</td>
+    <td>Smile</td>
+  </tr>
+  <tr>
+    <td>23:58</td>
+    <td>The Beatles</td>
+    <td>Good Night</td>
+  </tr>
+</table>
+
+<script>
+  let result = "";
+  document.querySelectorAll("tr").forEach(
+      row => result += `<div>{
+"time":"${row.querySelector("td:nth-child(1)").textContent}",
+"title": "${row.querySelector("td:nth-child(3)").textContent}",
+"performer": "${row.querySelector("td:nth-child(2)").textContent}"},
+</div>`);
+  document.querySelector("table").insertAdjacentHTML("beforebegin", result);
+</script>

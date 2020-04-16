@@ -19729,27 +19729,187 @@
     {
       "id": "504",
       "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "2020-03-26"
+      "date": "2020-03-05",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Kids", "performer": "Young Gun Silver Fox"},
+          { "time":"22:07", "title": "The Benefits Of Being Alone", "performer": "Rose Cousins"},
+          { "time":"22:11", "title": "Berwick Street Blue", "performer": "Wyllowe"},
+          { "time":"22:14", "title": "So Much Time And So Little To Do", "performer": "TheCatherines feat. Nah..."},
+          { "time":"22:18", "title": "Waiting For Grace", "performer": "Marker Starling feat. Laetitia Sadier"},
+          { "time":"22:21", "title": "Jamais Assez", "performer": "Orwell feat. Armelle Pioline"},
+          { "time":"22:34", "title": "Reckenfeld", "performer": "The Fisherman and his Soul feat. Tenant From Zero & Estella Rosa"},
+          { "time":"22:38", "title": "Been Around", "performer": "A Girl Called Eddy"},
+          { "time":"22:43", "title": "Left Behind", "performer": "The Electric Soft Parade"},
+          { "time":"22:51", "title": "Young Americans", "performer": "Durand Jones & The Indications"},
+          { "time":"22:57", "title": "Mirage Hour Ii", "performer": "Coastal County"}        ],
+        [
+          { "time":"23:05", "title": "Time It Takes", "performer": "Gary Daly"},
+          { "time":"23:09", "title": "Back To Your Heart", "performer": "Nicolas Godin feat. Kate NV"},
+          { "time":"23:13", "title": "Numb", "performer": "Men I Trust"},
+          { "time":"23:17", "title": "(It's Not Easy) Bein' Green", "performer": "The Autumn Defense"},
+          { "time":"23:20", "title": "Gentle Face", "performer": "The Magic Lantern"},
+          { "time":"23:24", "title": "Tall Buildings", "performer": "Matt Maltese"},
+          { "time":"23:27", "title": "I'm New Here", "performer": "Gil Scott-Heron"},
+          { "time":"23:32", "title": "The Man In The Station", "performer": "John Martyn"},
+          { "time":"23:35", "title": "Junk", "performer": "Hailey Tuck"},
+          { "time":"23:38", "title": "Invisible Friends", "performer": "Yehan Jehan"},
+          { "time":"23:44", "title": "Inverno", "performer": "Philippe Cohen Solal feat. Green Gartside"},
+          { "time":"23:47", "title": "Lay Lady Lay", "performer": "Sandie Shaw"},
+          { "time":"23:53", "title": "Love Songs", "performer": "Fuck"},
+          { "time":"23:56", "title": "Good Night", "performer": "The Beatles"}        ]
+      ]
     },
     {
       "id": "505",
       "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "2020-03-12"
+      "date": "2020-03-12",
+      "songs": [
+        [
+          { "time":"22:04", "title": "It's Nice To Be Nice", "performer": "Pugwash"},
+          { "time":"22:07", "title": "Hexagons", "performer": "Jim Noir"},
+          { "time":"22:11", "title": "Texas Sun", "performer": "Khruangbin & Leon Bridges"},
+          { "time":"22:15", "title": "Walk The Dog", "performer": "Omaloma"},
+          { "time":"22:19", "title": "Friday", "performer": "Real Estate"},
+          { "time":"22:23", "title": "Dragonball Durag", "performer": "Thundercat"},
+          { "time":"22:27", "title": "Kids", "performer": "Young Gun Silver Fox"},
+          { "time":"22:32", "title": "This Is The Day (Full Band Version)", "performer": "Mamas Gun"},
+          { "time":"22:36", "title": "The Party Is Over", "performer": "Gangway"},
+          { "time":"22:40", "title": "München '70", "performer": "Der Englische Garten"},
+          { "time":"22:43", "title": "Dancing", "performer": "Mellow Fellow"},
+          { "time":"22:47", "title": "Waiting For Grace", "performer": "Marker Starling feat. Laetitia Sadier"},
+          { "time":"22:51", "title": "Bunker", "performer": "Balthazar"},
+          { "time":"22:57", "title": "Freedom Starts!", "performer": "Stone Foundation"}        ],
+        [
+          { "time":"23:04", "title": "All Around The World Tonight", "performer": "Shakatak"},
+          { "time":"23:12", "title": "Mayfair", "performer": "Powder Blue Tux"},
+          { "time":"23:16", "title": "My Unknown Love", "performer": "Count Indigo"},
+          { "time":"23:20", "title": "Almost Persuaded", "performer": "Swing Out Sister"},
+          { "time":"23:24", "title": "Light", "performer": "Michael Kiwanuka"},
+          { "time":"23:31", "title": "Boredom", "performer": "The Creator feat. Rex Orange County & Anna of the North Tyler"},
+          { "time":"23:36", "title": "Every Single Thing", "performer": "Homeshake"},
+          { "time":"23:39", "title": "Hilli (At The Top Of The World)", "performer": "Amiina feat. Lee Hazlewood"},
+          { "time":"23:42", "title": "Love Is Blue", "performer": "The Mystic Moods Orchestra"},
+          { "time":"23:45", "title": "Mrs Magic", "performer": "Strawberry Guy"},
+          { "time":"23:49", "title": "Ellie's Love Theme", "performer": "Caesar Frazier"},
+          { "time":"23:53", "title": "Trouble In Paradise", "performer": "Rufus Wainwright"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}        ]
+      ]
     },
     {
       "id": "506",
       "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "2020-03-19"
+      "date": "2020-03-19",
+      "songs": [
+        [
+          { "time":"22:05", "title": "Driving Away From Home", "performer": "It's Immaterial"},
+          { "time":"22:09", "title": "Sparkly Eyes", "performer": "Mats Wawa"},
+          { "time":"22:12", "title": "I'm Still Winning", "performer": "Joel Sarakula"},
+          { "time":"22:15", "title": "Dragonball Durag", "performer": "Thundercat"},
+          { "time":"22:20", "title": "The Day Came On", "performer": "Barnaby Bye"},
+          { "time":"22:23", "title": "Berwick Street Blue", "performer": "Wyllowe"},
+          { "time":"22:27", "title": "The Highway Again", "performer": "Remington Super 60"},
+          { "time":"22:31", "title": "Reckenfeld", "performer": "The Fisherman and his Soul feat. Tenant From Zero & Estella Rosa"},
+          { "time":"22:36", "title": "Over", "performer": "PREP feat. Anna of The North"},
+          { "time":"22:40", "title": "Divine Goldmine", "performer": "Lou Asril"},
+          { "time":"22:43", "title": "Flying", "performer": "The Beatles"},
+          { "time":"22:45", "title": "Paper Cup", "performer": "Real Estate feat. Sylvan Esso"},
+          { "time":"22:49", "title": "Let's Never Leave Here", "performer": "Death And Vanilla"},
+          { "time":"22:54", "title": "Means To An End", "performer": "Cascade Lakes"},
+          { "time":"22:57", "title": "A New Career In A New Town", "performer": "David Bowie"}       ],
+        [
+          { "time":"23:04", "title": "Landed", "performer": "Ben Folds"},
+          { "time":"23:08", "title": "Sad Song", "performer": "Lake Ruth"},
+          { "time":"23:12", "title": "Days Go By", "performer": "Men I Trust"},
+          { "time":"23:15", "title": "Whatcha Gonna Do For Me", "performer": "Young Gun Silver Fox"},
+          { "time":"23:22", "title": "Butterfly Bed", "performer": "Melvin Knight feat. Justin Copeland"},
+          { "time":"23:25", "title": "We Will Always Love You", "performer": "The Avalanches feat. Blood Orange"},
+          { "time":"23:30", "title": "Wichita Lineman", "performer": "Glen Campbell"},
+          { "time":"23:33", "title": "Posthumous Forgiveness", "performer": "Tame Impala"},
+          { "time":"23:39", "title": "Bluebirds Fall", "performer": "The Autumn Defense"},
+          { "time":"23:43", "title": "Average Joe", "performer": "Ron Sexsmith"},
+          { "time":"23:46", "title": "The Drop", "performer": "Coastal County"},
+          { "time":"23:52", "title": "Willow", "performer": "Tindersticks feat. Robert Pattinson"},
+          { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}        ]
+      ]
     },
     {
       "id": "507",
       "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "2020-03-26"
+      "date": "2020-03-26",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Slim Pickings", "performer": "Izo FitzRoy"},
+          { "time":"22:08", "title": "London Road", "performer": "Joel Sarakula"},
+          { "time":"22:12", "title": "Earth Beat", "performer": "Paul Weller feat. Col3trane"},
+          { "time":"22:16", "title": "Chances", "performer": "Monophonics"},
+          { "time":"22:19", "title": "Stay '97", "performer": "David Bowie"},
+          { "time":"22:27", "title": "The Highway Again", "performer": "Remington Super 60"},
+          { "time":"22:31", "title": "Left Behind", "performer": "The Electric Soft Parade"},
+          { "time":"22:39", "title": "Twins", "performer": "Cloud Castle Lake"},
+          { "time":"22:43", "title": "Lonely Street", "performer": "Lake Ruth"},
+          { "time":"22:46", "title": "The Performer", "performer": "James Righton"},
+          { "time":"22:50", "title": "Birds Tricked Into The Trees", "performer": "Damien Jurado"},
+          { "time":"22:54", "title": "Babyman", "performer": "Circles Around The Sun"}
+        ],
+        [
+          { "time":"23:04", "title": "Whoever", "performer": "Lewis Taylor"},
+          { "time":"23:08", "title": "No Quit", "performer": "Michael Nau"},
+          { "time":"23:11", "title": "Lucky Love", "performer": "Michael Seyer"},
+          { "time":"23:16", "title": "Naima's Dream", "performer": "The Mattson 2"},
+          { "time":"23:19", "title": "Frivolous Tonight", "performer": "XTC"},
+          { "time":"23:22", "title": "Trains Below The City (Edit)", "performer": "The Autobahn Of Life"},
+          { "time":"23:28", "title": "Carla's Got A Boyfriend", "performer": "Baxter Dury"},
+          { "time":"23:32", "title": "Fair Chance", "performer": "Thundercat feat. Ty Dolla $ign & Lil B"},
+          { "time":"23:36", "title": "Butter (Ende Vorhören!)", "performer": "Matty"},
+          { "time":"23:39", "title": "Smile", "performer": "Sandie Shaw"},
+          { "time":"23:42", "title": "Film Credits", "performer": "Club Kuru"},
+          { "time":"23:46", "title": "Weather Any Storm", "performer": "Mocky"},
+          { "time":"23:49", "title": "Scandinavia", "performer": "Van Morrison"},
+          { "time":"23:56", "title": "Suicide Is Painless", "performer": "Amanda Lear"},
+          { "time":"23:59", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
     },
     {
       "id": "508",
       "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "2020-04-02"
+      "date": "2020-04-02",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Veronica", "performer": "Elvis Costello"},
+          { "time":"22:07", "title": "Constellations", "performer": "Darwin Deez"},
+          { "time":"22:11", "title": "Birds Tricked Into The Trees", "performer": "Damien Jurado"},
+          { "time":"22:13", "title": "You Are Not Who I Thought I Was/Reißt Ab!", "performer": "Sondre Lerche"},
+          { "time":"22:16", "title": "Here Today", "performer": "Fugu"},
+          { "time":"22:20", "title": "Born To Be Alive", "performer": "Julie Depardieu & Moto"},
+          { "time":"22:23", "title": "Navy Boats", "performer": "Gary Olson"},
+          { "time":"22:28", "title": "Alpine Town", "performer": "Amber Arcades"},
+          { "time":"22:32", "title": "6am, Charles Bridge", "performer": "Mister Fusty"},
+          { "time":"22:37", "title": "Hereos (Highline Sessions Version)", "performer": "Depeche Mode"},
+          { "time":"22:43", "title": "Earth Beat", "performer": "Paul Weller feat. Col3trane"},
+          { "time":"22:47", "title": "Game Of Spies", "performer": "Joel Sarakula"},
+          { "time":"22:51", "title": "Eve's Volcano (Covered In Sin)", "performer": "Julian Cope"},
+          { "time":"22:56", "title": "Moments In Love (Beaten)", "performer": "The Art Of Noise"}
+        ],
+        [
+          { "time":"23:04", "title": "Just The Way You Are", "performer": "José James"},
+          { "time":"23:09", "title": "See The Monster", "performer": "James Righton"},
+          { "time":"23:13", "title": "Waterfalls", "performer": "Paul McCartney"},
+          { "time":"23:17", "title": "Rocket Man", "performer": "etc. Astronauts"},
+          { "time":"23:21", "title": "Let's Get Away", "performer": "Melvin Knight"},
+          { "time":"23:25", "title": "Smokin' The Future", "performer": "The James Taylor Quartet fet. Noel McKoy"},
+          { "time":"23:27", "title": "Flowers In The Rain", "performer": "The Natural Yogurt Band"},
+          { "time":"23:31", "title": "Daily Practice", "performer": "Cosmos People"},
+          { "time":"23:36", "title": "Dreamers", "performer": "Alex Siegel"},
+          { "time":"23:39", "title": "Let Me Go", "performer": "Heaven 17"},
+          { "time":"23:44", "title": "The Impossible Dream", "performer": "Matt Monro"},
+          { "time":"23:48", "title": "The Night And I Are Still So Young", "performer": "The Heavy Blinkers"},
+          { "time":"23:51", "title": "Mermaid", "performer": "Ensemble"},
+          { "time":"23:55", "title": "Smile", "performer": "Elvis Costello & The Imposters"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
     },
     {
       "id": "509",
@@ -19758,26 +19918,42 @@
       "songs": [
         [
           {
+            "time":"22:04",
             "title": "The Party Is Over",
             "performer": "Gangway",
             "album": "Sitting In The Park",
             "year": "1986",
             "spotify": "spotify:track:2K8BAunZzN7evInxz5Ee9i"
           },
-          {
-            "title": "todo",
-            "performer": "todo"
-          }
+          { "time":"22:07", "title": "Everyone (Knows Why You're Alone)", "performer": "Paul Housden"},
+          { "time":"22:12", "title": "100 % Park", "performer": "Mats Wawa"},
+          { "time":"22:15", "title": "Pale Shelter", "performer": "Tears For Fears"},
+          { "time":"22:22", "title": "My Heart Cries Out", "performer": "Curt Boettcher mit Sandy Salisbury"},
+          { "time":"22:25", "title": "Nights Introlude", "performer": "Nightmares On Wax"},
+          { "time":"22:31", "title": "Lonely Street", "performer": "Lake Ruth"},
+          { "time":"22:34", "title": "The Girl Of The Year", "performer": "Stephen Duffy"},
+          { "time":"22:40", "title": "Giovanna Please", "performer": "Gary Olson"},
+          { "time":"22:45", "title": "Four-Headed Monster", "performer": "All If"},
+          { "time":"22:48", "title": "Dérivation", "performer": "Orwell"},
+          { "time":"22:52", "title": "Dreams Of Romance", "performer": "Gigi"},
+          { "time":"22:57", "title": "Day Tripper", "performer": "Booker T. & The M.G.'s"}
         ],
         [
-          {
-            "title": "",
-            "performer": ""
-          },
-          {
-            "title": "",
-            "performer": ""
-          }
+          { "time":"23:04", "title": "A Giant Leap", "performer": "The James Taylor Quartet"},
+          { "time":"23:07", "title": "Kiss The Sky", "performer": "Shawn Lee"},
+          { "time":"23:11", "title": "Everybody's Gotta Learn Sometimes", "performer": "Beck"},
+          { "time":"23:16", "title": "Alcie Hyatt", "performer": "Damien Jurado"},
+          { "time":"23:17", "title": "Across The Universe", "performer": "The Electric Soft Parade"},
+          { "time":"23:21", "title": "Sad Is The Way That I Feel", "performer": "Mark Eric"},
+          { "time":"23:24", "title": "Luther Ingram", "performer": "The Ncy Milky Band"},
+          { "time":"23:27", "title": "The Man Who Sold The World", "performer": "David Bowie"},
+          { "time":"23:32", "title": "Busy Doin' Nothin'", "performer": "The Beach Boys"},
+          { "time":"23:35", "title": "Lou", "performer": "Coralie Clément"},
+          { "time":"23:41", "title": "Mary, Mary", "performer": "Rebecka Törnqvist"},
+          { "time":"23:45", "title": "Unmentionables", "performer": "Jimi Tenor"},
+          { "time":"23:50", "title": "The Light", "performer": "Nick Hakim"},
+          { "time":"23:55", "title": "Fightin' Away The Tears", "performer": "Mocky mit Feist"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
         ]
       ]
     }

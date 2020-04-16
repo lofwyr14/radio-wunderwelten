@@ -41,6 +41,7 @@ class Episode {
 }
 class Song {
     constructor(song) {
+        this.time = song.time;
         this.title = song.title;
         this.performer = song.performer;
         this.composer = song.composer;
@@ -48,11 +49,13 @@ class Song {
         this.album = song.album;
         this.genre = song.genre;
         this.year = song.year;
+        this.duration = song.duration;
     }
 }
 class SongList {
     constructor(object) {
         this.list = [];
+        this.hasTime = false;
         this.hasTitle = false;
         this.hasPerformer = false;
         this.hasComposer = false;
@@ -60,6 +63,7 @@ class SongList {
         this.hasAlbum = false;
         this.hasGenre = false;
         this.hasYear = false;
+        this.hasDuration = false;
         object === null || object === void 0 ? void 0 : object.forEach(entry => {
             entry === null || entry === void 0 ? void 0 : entry.forEach(object => {
                 const song = new Song(object);
@@ -84,6 +88,12 @@ class SongList {
                 }
                 if (song.year) {
                     this.hasYear = true;
+                }
+                if (song.time) {
+                    this.hasTime = true;
+                }
+                if (song.duration) {
+                    this.hasDuration = true;
                 }
             });
         });
@@ -128,7 +138,7 @@ class Radio extends HTMLElement {
     linkLinkToggle(event) {
         this.querySelector("#link-list").classList.toggle("d-none");
     }
-    content1(broadcast, episode) {
+    html1(broadcast, episode) {
         return html `<h1>${broadcast.title}</h1>
 <nav id="link-list" class="small d-none">
 ${broadcast.episodesArray.map(e => html `<a href="${broadcast.id}-${e.id}.html">${e.dateFormat} (${e.songs.list.length} Titel)</a> `)}
@@ -154,9 +164,12 @@ ${episode.nextId
 <col/>
 <col/>
 <col/>
+<col/>
+<col/>
 </colgroup>
 <thead class="thead-dark">
   <tr>
+    <th class="${episode.songs.hasTime ? '' : 'd-none'}">Uhr</th>
     <th class="${episode.songs.hasTitle ? '' : 'd-none'}">Titel</th>
     <th class="${episode.songs.hasPerformer ? '' : 'd-none'}">Interpret</th>
     <th class="${episode.songs.hasComposer ? '' : 'd-none'}">Komponist</th>
@@ -164,10 +177,12 @@ ${episode.nextId
     <th class="${episode.songs.hasAlbum ? '' : 'd-none'}">Album</th>
     <th class="${episode.songs.hasGenre ? '' : 'd-none'}">Genre</th>
     <th class="${episode.songs.hasYear ? '' : 'd-none'}">Jahr</th>
+    <th class="${episode.songs.hasDuration ? '' : 'd-none'}">Dauer</th>
   </tr></thead><tbody></tbody></table>`;
     }
-    content2(episode, song) {
+    html2(episode, song) {
         return `<tr>
+<td class="${episode.songs.hasTime ? '' : 'd-none'}">${song.time ? song.time : ""}</td>
 <td class="${episode.songs.hasTitle ? '' : 'd-none'}">${song.title ? song.title : ""}</td>
 <td class="${episode.songs.hasPerformer ? '' : 'd-none'}">${song.performer ? song.performer : ""}</td>
 <td class="${episode.songs.hasComposer ? '' : 'd-none'}">${song.composer ? song.composer : ""}</td>
@@ -175,6 +190,7 @@ ${episode.nextId
 <td class="${episode.songs.hasAlbum ? '' : 'd-none'}">${song.album ? song.album : ""}</td>
 <td class="${episode.songs.hasGenre ? '' : 'd-none'}">${song.genre ? song.genre : ""}</td>
 <td class="${episode.songs.hasYear ? '' : 'd-none'}">${song.year ? song.year : ""}</td>
+<td class="${episode.songs.hasDuration ? '' : 'd-none'}">${song.duration ? song.duration : ""}</td>
 </tr>`;
     }
     renderBroadcast() {
@@ -201,12 +217,11 @@ ${episode.nextId
             .then(broadcast => {
             // Auswählen der Song-Tabelle für die 1. Episode
             const episode = this.episodeId ? broadcast.episodes.get(this.episodeId) : broadcast.newestEpisode;
-            const html1 = this.content1(broadcast, episode);
-            render(html1, this);
+            render(this.html1(broadcast, episode), this);
             const table = this.querySelector("tbody");
             table.innerHTML = "";
             episode.songs.list.forEach(song => {
-                table.insertAdjacentHTML("beforeend", this.content2(episode, song));
+                table.insertAdjacentHTML("beforeend", this.html2(episode, song));
             });
         });
     }

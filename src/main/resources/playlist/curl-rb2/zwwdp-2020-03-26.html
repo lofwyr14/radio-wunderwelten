@@ -1,0 +1,149 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<table>
+<tr>
+    <td>22:04</td>
+    <td>Izo FitzRoy</td>
+    <td>Slim Pickings</td>
+  </tr>
+  <tr>
+    <td>22:08</td>
+    <td>Joel Sarakula</td>
+    <td>London Road</td>
+  </tr>
+  <tr>
+    <td>22:12</td>
+    <td>Paul Weller feat. Col3trane</td>
+    <td>Earth Beat</td>
+  </tr>
+  <tr>
+    <td>22:16</td>
+    <td>Monophonics</td>
+    <td>Chances</td>
+  </tr>
+  <tr>
+    <td>22:19</td>
+    <td>David Bowie</td>
+    <td>Stay '97</td>
+  </tr>
+  <tr>
+    <td>22:27</td>
+    <td>Remington Super 60</td>
+    <td>The Highway Again</td>
+  </tr>
+  <tr>
+    <td>22:31</td>
+    <td>The Electric Soft Parade</td>
+    <td>Left Behind</td>
+  </tr>
+  <tr>
+    <td>22:39</td>
+    <td>Cloud Castle Lake</td>
+    <td>Twins</td>
+  </tr>
+  <tr>
+    <td>22:43</td>
+    <td>Lake Ruth</td>
+    <td>Lonely Street</td>
+  </tr>
+  <tr>
+    <td>22:46</td>
+    <td>James Righton</td>
+    <td>The Performer</td>
+  </tr>
+  <tr>
+    <td>22:50</td>
+    <td>Damien Jurado</td>
+    <td>Birds Tricked Into The Trees</td>
+  </tr>
+  <tr>
+    <td>22:54</td>
+    <td>Circles Around The Sun</td>
+    <td>Babyman</td>
+  </tr>
+  <tr>
+    <td>23:04</td>
+    <td>Lewis Taylor</td>
+    <td>Whoever</td>
+  </tr>
+  <tr>
+    <td>23:08</td>
+    <td>Michael Nau</td>
+    <td>No Quit</td>
+  </tr>
+  <tr>
+    <td>23:11</td>
+    <td>Michael Seyer</td>
+    <td>Lucky Love</td>
+  </tr>
+  <tr>
+    <td>23:16</td>
+    <td>The Mattson 2</td>
+    <td>Naima's Dream</td>
+  </tr>
+  <tr>
+    <td>23:19</td>
+    <td>XTC</td>
+    <td>Frivolous Tonight</td>
+  </tr>
+  <tr>
+    <td>23:22</td>
+    <td>The Autobahn Of Life</td>
+    <td>Trains Below The City (Edit)</td>
+  </tr>
+  <tr>
+    <td>23:28</td>
+    <td>Baxter Dury</td>
+    <td>Carla's Got A Boyfriend</td>
+  </tr>
+  <tr>
+    <td>23:32</td>
+    <td>Thundercat feat. Ty Dolla $ign & Lil B</td>
+    <td>Fair Chance</td>
+  </tr>
+  <tr>
+    <td>23:36</td>
+    <td>Matty</td>
+    <td>Butter (Ende Vorhören!)</td>
+  </tr>
+  <tr>
+    <td>23:39</td>
+    <td>Sandie Shaw</td>
+    <td>Smile</td>
+  </tr>
+  <tr>
+    <td>23:42</td>
+    <td>Club Kuru</td>
+    <td>Film Credits</td>
+  </tr>
+  <tr>
+    <td>23:46</td>
+    <td>Mocky</td>
+    <td>Weather Any Storm</td>
+  </tr>
+  <tr>
+    <td>23:49</td>
+    <td>Van Morrison</td>
+    <td>Scandinavia</td>
+  </tr>
+  <tr>
+    <td>23:56</td>
+    <td>Amanda Lear</td>
+    <td>Suicide Is Painless</td>
+  </tr>
+  <tr>
+    <td>23:59</td>
+    <td>The Beatles</td>
+    <td>Good Night</td>
+  </tr>
+</table>
+
+<script>
+  let result = "";
+  document.querySelectorAll("tr").forEach(
+      row => result += `<div>{
+"time":"${row.querySelector("td:nth-child(1)").textContent}",
+"title": "${row.querySelector("td:nth-child(3)").textContent}",
+"performer": "${row.querySelector("td:nth-child(2)").textContent}"},
+</div>`);
+  document.querySelector("table").insertAdjacentHTML("beforebegin", result);
+</script>

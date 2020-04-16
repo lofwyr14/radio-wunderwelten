@@ -1,0 +1,139 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<table>
+<tr>
+    <td>22:04</td>
+    <td>Young Gun Silver Fox</td>
+    <td>Kids</td>
+  </tr>
+  <tr>
+    <td>22:07</td>
+    <td>Rose Cousins</td>
+    <td>The Benefits Of Being Alone</td>
+  </tr>
+  <tr>
+    <td>22:11</td>
+    <td>Wyllowe</td>
+    <td>Berwick Street Blue</td>
+  </tr>
+  <tr>
+    <td>22:14</td>
+    <td>TheCatherines feat. Nah...</td>
+    <td>So Much Time And So Little To Do</td>
+  </tr>
+  <tr>
+    <td>22:18</td>
+    <td>Marker Starling feat. Laetitia Sadier</td>
+    <td>Waiting For Grace</td>
+  </tr>
+  <tr>
+    <td>22:21</td>
+    <td>Orwell feat. Armelle Pioline</td>
+    <td>Jamais Assez</td>
+  </tr>
+  <tr>
+    <td>22:34</td>
+    <td>The Fisherman and his Soul feat. Tenant From Zero & Estella Rosa</td>
+    <td>Reckenfeld</td>
+  </tr>
+  <tr>
+    <td>22:38</td>
+    <td>A Girl Called Eddy</td>
+    <td>Been Around</td>
+  </tr>
+  <tr>
+    <td>22:43</td>
+    <td>The Electric Soft Parade</td>
+    <td>Left Behind</td>
+  </tr>
+  <tr>
+    <td>22:51</td>
+    <td>Durand Jones & The Indications</td>
+    <td>Young Americans</td>
+  </tr>
+  <tr>
+    <td>22:57</td>
+    <td>Coastal County</td>
+    <td>Mirage Hour Ii</td>
+  </tr>
+  <tr>
+    <td>23:05</td>
+    <td>Gary Daly</td>
+    <td>Time It Takes</td>
+  </tr>
+  <tr>
+    <td>23:09</td>
+    <td>Nicolas Godin feat. Kate NV</td>
+    <td>Back To Your Heart</td>
+  </tr>
+  <tr>
+    <td>23:13</td>
+    <td>Men I Trust</td>
+    <td>Numb</td>
+  </tr>
+  <tr>
+    <td>23:17</td>
+    <td>The Autumn Defense</td>
+    <td>(It's Not Easy) Bein' Green</td>
+  </tr>
+  <tr>
+    <td>23:20</td>
+    <td>The Magic Lantern</td>
+    <td>Gentle Face</td>
+  </tr>
+  <tr>
+    <td>23:24</td>
+    <td>Matt Maltese</td>
+    <td>Tall Buildings</td>
+  </tr>
+  <tr>
+    <td>23:27</td>
+    <td>Gil Scott-Heron</td>
+    <td>I'm New Here</td>
+  </tr>
+  <tr>
+    <td>23:32</td>
+    <td>John Martyn</td>
+    <td>The Man In The Station</td>
+  </tr>
+  <tr>
+    <td>23:35</td>
+    <td>Hailey Tuck</td>
+    <td>Junk</td>
+  </tr>
+  <tr>
+    <td>23:38</td>
+    <td>Yehan Jehan</td>
+    <td>Invisible Friends</td>
+  </tr>
+  <tr>
+    <td>23:44</td>
+    <td>Philippe Cohen Solal feat. Green Gartside</td>
+    <td>Inverno</td>
+  </tr>
+  <tr>
+    <td>23:47</td>
+    <td>Sandie Shaw</td>
+    <td>Lay Lady Lay</td>
+  </tr>
+  <tr>
+    <td>23:53</td>
+    <td>Fuck</td>
+    <td>Love Songs</td>
+  </tr>
+  <tr>
+    <td>23:56</td>
+    <td>The Beatles</td>
+    <td>Good Night</td>
+  </tr>
+</table>
+
+<script>
+  let result = "";
+  document.querySelectorAll("tr").forEach(
+      row => result += `<div>{
+"time":"${row.querySelector("td:nth-child(1)").textContent}",
+"title": "${row.querySelector("td:nth-child(3)").textContent}",
+"performer": "${row.querySelector("td:nth-child(2)").textContent}"},
+</div>`);
+  document.querySelector("table").insertAdjacentHTML("beforebegin", result);
+</script>

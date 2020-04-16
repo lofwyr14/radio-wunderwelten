@@ -1,4 +1,4 @@
-import {html, render, TemplateResult} from "lit-html";
+import {html, render} from "lit-html";
 
 class Broadcast {
 
@@ -58,6 +58,7 @@ class Episode {
 
 class Song {
 
+  time: string;
   title: string;
   performer: string;
   composer: string;
@@ -65,8 +66,10 @@ class Song {
   album: string;
   genre: string;
   year: string;
+  duration: string;
 
   constructor(song: any) {
+    this.time = song.time;
     this.title = song.title;
     this.performer = song.performer;
     this.composer = song.composer;
@@ -74,12 +77,14 @@ class Song {
     this.album = song.album;
     this.genre = song.genre;
     this.year = song.year;
+    this.duration = song.duration;
   }
 }
 
 class SongList {
 
   list: Song[] = [];
+  hasTime: boolean = false;
   hasTitle: boolean = false;
   hasPerformer: boolean = false;
   hasComposer: boolean = false;
@@ -87,6 +92,7 @@ class SongList {
   hasAlbum: boolean = false;
   hasGenre: boolean = false;
   hasYear: boolean = false;
+  hasDuration: boolean = false;
 
   constructor(object) {
     object?.forEach(entry => {
@@ -113,6 +119,12 @@ class SongList {
         }
         if (song.year) {
           this.hasYear = true;
+        }
+        if (song.time) {
+          this.hasTime = true;
+        }
+        if (song.duration) {
+          this.hasDuration = true;
         }
       });
     })
@@ -167,7 +179,7 @@ class Radio extends HTMLElement {
     this.querySelector("#link-list").classList.toggle("d-none");
   }
 
-  private content1(broadcast: Broadcast, episode: Episode) {
+  private html1(broadcast: Broadcast, episode: Episode) {
 
     return html`<h1>${broadcast.title}</h1>
 <nav id="link-list" class="small d-none">
@@ -198,9 +210,12 @@ ${episode.nextId
 <col/>
 <col/>
 <col/>
+<col/>
+<col/>
 </colgroup>
 <thead class="thead-dark">
   <tr>
+    <th class="${episode.songs.hasTime ? '' : 'd-none'}">Uhr</th>
     <th class="${episode.songs.hasTitle ? '' : 'd-none'}">Titel</th>
     <th class="${episode.songs.hasPerformer ? '' : 'd-none'}">Interpret</th>
     <th class="${episode.songs.hasComposer ? '' : 'd-none'}">Komponist</th>
@@ -208,11 +223,13 @@ ${episode.nextId
     <th class="${episode.songs.hasAlbum ? '' : 'd-none'}">Album</th>
     <th class="${episode.songs.hasGenre ? '' : 'd-none'}">Genre</th>
     <th class="${episode.songs.hasYear ? '' : 'd-none'}">Jahr</th>
+    <th class="${episode.songs.hasDuration ? '' : 'd-none'}">Dauer</th>
   </tr></thead><tbody></tbody></table>`;
   }
 
-  private content2(episode: Episode, song: Song) {
+  private html2(episode: Episode, song: Song) {
     return `<tr>
+<td class="${episode.songs.hasTime ? '' : 'd-none'}">${song.time ? song.time : ""}</td>
 <td class="${episode.songs.hasTitle ? '' : 'd-none'}">${song.title ? song.title : ""}</td>
 <td class="${episode.songs.hasPerformer ? '' : 'd-none'}">${song.performer ? song.performer : ""}</td>
 <td class="${episode.songs.hasComposer ? '' : 'd-none'}">${song.composer ? song.composer : ""}</td>
@@ -220,6 +237,7 @@ ${episode.nextId
 <td class="${episode.songs.hasAlbum ? '' : 'd-none'}">${song.album ? song.album : ""}</td>
 <td class="${episode.songs.hasGenre ? '' : 'd-none'}">${song.genre ? song.genre : ""}</td>
 <td class="${episode.songs.hasYear ? '' : 'd-none'}">${song.year ? song.year : ""}</td>
+<td class="${episode.songs.hasDuration ? '' : 'd-none'}">${song.duration ? song.duration : ""}</td>
 </tr>`;
   }
 
@@ -248,14 +266,13 @@ ${episode.nextId
           // Auswählen der Song-Tabelle für die 1. Episode
           const episode = this.episodeId ? broadcast.episodes.get(this.episodeId) : broadcast.newestEpisode;
 
-          const html1 = this.content1(broadcast, episode);
-          render(html1, this);
+          render(this.html1(broadcast, episode), this);
 
           const table = this.querySelector("tbody");
           table.innerHTML = "";
           episode.songs.list.forEach(song => {
             table.insertAdjacentHTML("beforeend",
-                this.content2(episode, song));
+                this.html2(episode, song));
           });
         });
   }
