@@ -102,7 +102,7 @@ class SongList {
 class Radio extends HTMLElement {
     constructor() {
         super();
-        this.PERMA_LINK = /\/(zwwdp|ta|ptw)(-([a-z0-9]+))?\.html/;
+        this.PERMA_LINK = /\/(zwwdp|ta|fiehe|ptw)(-([a-z0-9]+))?\.html/;
         console.info("Radio constructor!");
     }
     connectedCallback() {

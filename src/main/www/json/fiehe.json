@@ -1,0 +1,50 @@
+{
+  "id": "fiehe",
+  "title": "Fiehe - 1LIVE",
+  "episodes": [
+    {
+      "id": "1000",
+      "title": "1live Fiehe",
+      "date": "2020-04-13",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Variations Sur 3 Bancs", "performer": "Golden Bug And The Liminanas"},
+          { "title": "Angelus Redux", "performer": "Paresse"},
+          { "title": "Dancing Is Dangerous In Los Angeles", "performer": "De Lux"},
+          { "title": "S3 Way", "performer": "Rushy"},
+          { "title": "Solid Bitch", "performer": "Renni Rucci"},
+          { "title": "Kiss The Flame", "performer": "Jeshi"},
+          { "title": "Infant Eyes", "performer": "Jamael Dean feat. Sharada Shashidhar"},
+          { "title": "Short List", "performer": "Mickey Jupp"},
+          { "title": "The Adults Are Talking", "performer": "The Strokes"},
+          { "title": "Colours", "performer": "Donovan"},
+          { "title": "Le Plus Beaux", "performer": "Francois & The Atlas Mountains"},
+          { "title": "Guarding The Baby", "performer": "Dirty Projectors"},
+          { "title": "Looking Out My Window", "performer": "Slow Leaves"}
+        ],
+        [
+          { "time":"23:04","title": "Te Queria", "performer": "Lido Pimienta"},
+          { "title": "Mystery Walk", "performer": "Zoo Brazil"},
+          { "title": "Sincere", "performer": "MJ Cole"},
+          { "title": "Crown", "performer": "Stormzy"},
+          { "title": "Cathedral", "performer": "MJ Cole"},
+          { "title": "Alphabeta", "performer": "Herbie Hancock"},
+          { "title": "The Creator Has A Master Plan", "performer": "Leon Thomas"},
+          { "title": "Whatever Happened To….", "performer": "George Duke"},
+          { "title": "Drowning In Paradise", "performer": "TOPS"}
+        ],
+        [
+          { "time":"00:04","title": "Last Sniff", "performer": "Wilma Archer feat. MF Doom"},
+          { "title": "The Regulator", "performer": "Dream Syndicate"},
+          { "title": "Flare", "performer": "Flying Horseman"},
+          { "title": "Love", "performer": "MAN"},
+          { "title": "Whatever Happened To Gus", "performer": "Medeski, Martin & Wood"},
+          { "title": "Canyon (Waiting Alive In A Canyon)", "performer": "John Carroll Kirby"},
+          { "title": "Descanse", "performer": "DJ Python"},
+          { "title": "Going Up To Country", "performer": "Canned Heat"},
+          { "title": "Bubbles", "performer": "Herbie Hancock"}
+        ]
+      ]
+    }
+  ]
+}

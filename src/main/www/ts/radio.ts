@@ -133,7 +133,7 @@ class SongList {
 
 class Radio extends HTMLElement {
 
-  private readonly PERMA_LINK = /\/(zwwdp|ta|ptw)(-([a-z0-9]+))?\.html/;
+  private readonly PERMA_LINK = /\/(zwwdp|ta|fiehe|ptw)(-([a-z0-9]+))?\.html/;
 
   constructor() {
     super();
