@@ -21,6 +21,21 @@ class Broadcast {
     get episodesArray() {
         return Array.from(this.episodes.values());
     }
+    // todo: Im Datenmodel besser modelieren: show vs. sender
+    get show() {
+        const separator = this.title.indexOf(" - ");
+        if (separator > 0) {
+            return this.title.substring(0, separator);
+        }
+        return this.title;
+    }
+    get station() {
+        const separator = this.title.indexOf(" - ");
+        if (separator > 0) {
+            return this.title.substring(separator + 3);
+        }
+        return null;
+    }
 }
 class Episode {
     constructor(episode) {
@@ -132,28 +147,23 @@ class Radio extends HTMLElement {
             this.removeAttribute("episodeId");
         }
     }
-    // private test(name: string): TemplateResult {
-    //   return html`<h1>Wochenende: ${name}</h1>`
-    // }
     linkLinkToggle(event) {
         this.querySelector("#link-list").classList.toggle("d-none");
     }
     html1(broadcast, episode) {
-        return html `<h1>${broadcast.title}</h1>
+        return html `<radio-title show="${broadcast.show}" date="${episode.dateFormat}" type="Songliste" station="${broadcast.station}"></radio-title>
 <nav id="link-list" class="small d-none">
 ${broadcast.episodesArray.map(e => html `<a href="${broadcast.id}-${e.id}.html">${e.dateFormat} (${e.songs.list.length} Titel)</a> `)}
 </nav>
 <div class="form-group">
 
-<h3>Songliste vom ${episode.dateFormat}</h3>
-
 ${episode.previousId
-            ? html `<a class="btn" href="${broadcast.id}-${episode.previousId}.html">Previous</a>`
-            : html `<a class="btn disabled">Previous</a>`}
+            ? html `<a class="btn" href="${broadcast.id}-${episode.previousId}.html" aria-label="Zurück">Zurück</a>`
+            : html `<a class="btn disabled">Zurück</a>`}
 <button class="btn" id="link-list-toggle" @click="${this.linkLinkToggle.bind(this)}">Liste</button>
 ${episode.nextId
-            ? html `<a class="btn" href="${broadcast.id}-${episode.nextId}.html">Next</a>`
-            : html `<a class="btn disabled">Next</a>`}
+            ? html `<a class="btn" href="${broadcast.id}-${episode.nextId}.html" aria-label="Weiter">Weiter</a>`
+            : html `<a class="btn disabled">Weiter</a>`}
 </div>
 <table class="table table-striped">
 <colgroup>
@@ -228,4 +238,26 @@ ${episode.nextId
 }
 document.addEventListener("DOMContentLoaded", function (event) {
     window.customElements.define("radio-songs", Radio);
+});
+class RadioTitle extends HTMLElement {
+    get show() { return this.getAttribute("show"); }
+    ;
+    get date() { return this.getAttribute("date"); }
+    ;
+    get type() { return this.getAttribute("type"); }
+    ;
+    get station() { return this.getAttribute("station"); }
+    ;
+    constructor() {
+        super();
+    }
+    connectedCallback() {
+        const title = `${this.show} vom ${this.date} auf ${this.station}`;
+        const rootNode = this.getRootNode();
+        rootNode.querySelector("head title").innerHTML = title;
+        render(html `<h1>${title}</h1><h3>${this.type}</h3>`, this);
+    }
+}
+document.addEventListener("DOMContentLoaded", function (event) {
+    window.customElements.define("radio-title", RadioTitle);
 });
