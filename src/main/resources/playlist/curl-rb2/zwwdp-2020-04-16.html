@@ -1,0 +1,168 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <table >
+  	<tr>
+  		<td ><strong>Zeit</strong></td>
+  		<td><strong>Interpret</strong></td>
+  		<td><strong>Titel</strong></td>
+  	</tr>
+  	<tr>
+  		<td >21:42</td>
+  		<td >Stanislas & Mike Ibrahim</td>
+  		<td >Tu Verras En France</td>
+  	</tr>
+  	<tr>
+  		<td >21:56</td>
+  		<td >Honig</td>
+  		<td >Mrs. Vertigo</td>
+  	</tr>
+  	<tr>
+  		<td >22:04</td>
+  		<td >Mantler</td>
+  		<td >Guarantee You A Good Time</td>
+  	</tr>
+  	<tr>
+  		<td >22:07</td>
+  		<td >fantastic!</td>
+  		<td >Sun: What A Wonderful Word!</td>
+  	</tr>
+  	<tr>
+  		<td >22:11</td>
+  		<td >James Righton</td>
+  		<td >Start</td>
+  	</tr>
+  	<tr>
+  		<td >22:14</td>
+  		<td >Drugdealer feat. Weyes Blood</td>
+  		<td >Suddenly</td>
+  	</tr>
+  	<tr>
+  		<td >22:20</td>
+  		<td >Omaloma</td>
+  		<td >Spring Break</td>
+  	</tr>
+  	<tr>
+  		<td >22:25</td>
+  		<td >Langva</td>
+  		<td >If I Had To</td>
+  	</tr>
+  	<tr>
+  		<td >22:29</td>
+  		<td >Joel Sarakula</td>
+  		<td >Midnight Driver</td>
+  	</tr>
+  	<tr>
+  		<td >22:33</td>
+  		<td >Mikaël Delta</td>
+  		<td >With You</td>
+  	</tr>
+  	<tr>
+  		<td >22:38</td>
+  		<td >Alpentines</td>
+  		<td >Sharks In Pictures</td>
+  	</tr>
+  	<tr>
+  		<td >22:42</td>
+  		<td >The Magic Gang</td>
+  		<td >Think</td>
+  	</tr>
+  	<tr>
+  		<td >22:46</td>
+  		<td >Monks Road Social feat. feat. Dr Robert & Sulene Fleming</td>
+  		<td >Step By Step</td>
+  	</tr>
+  	<tr>
+  		<td >22:49</td>
+  		<td >Matt Duncan</td>
+  		<td >Who Are You On Your Own?</td>
+  	</tr>
+  	<tr>
+  		<td >22:54</td>
+  		<td >Das Kope</td>
+  		<td >L.A.X.</td>
+  	</tr>
+  	<tr>
+  		<td >22:58</td>
+  		<td >Nice System</td>
+  		<td >We Sing Ba Ba Ba</td>
+  	</tr>
+  	<tr>
+  		<td >23:04</td>
+  		<td >Jonathan Jeremiah</td>
+  		<td >Happiness</td>
+  	</tr>
+  	<tr>
+  		<td >23:07</td>
+  		<td >Kainalu & Munya</td>
+  		<td >You Never Let Go</td>
+  	</tr>
+  	<tr>
+  		<td >23:11</td>
+  		<td >Koop (featuring Cecilia Stalin)</td>
+  		<td >Waltz For Koop</td>
+  	</tr>
+  	<tr>
+  		<td >23:14</td>
+  		<td >Lee Hazlewood</td>
+  		<td >Not The Lovin' Kind</td>
+  	</tr>
+  	<tr>
+  		<td >23:17</td>
+  		<td >C Duncan</td>
+  		<td >Do I Hear</td>
+  	</tr>
+  	<tr>
+  		<td >23:22</td>
+  		<td >Mac DeMarco</td>
+  		<td >Heart To Heart</td>
+  	</tr>
+  	<tr>
+  		<td >23:26</td>
+  		<td >Cousin Kula</td>
+  		<td >Stacked</td>
+  	</tr>
+  	<tr>
+  		<td >23:31</td>
+  		<td >Zero 7</td>
+  		<td >Futures</td>
+  	</tr>
+  	<tr>
+  		<td >23:35</td>
+  		<td >The Electric Prunes</td>
+  		<td >Onie</td>
+  	</tr>
+  	<tr>
+  		<td >23:43</td>
+  		<td >Sven Libaek</td>
+  		<td >Music For Eels</td>
+  	</tr>
+  	<tr>
+  		<td >23:45</td>
+  		<td >Maye</td>
+  		<td >Tú</td>
+  	</tr>
+  	<tr>
+  		<td >23:49</td>
+  		<td >Pet Shop Boys</td>
+  		<td >London</td>
+  	</tr>
+  	<tr>
+  		<td >23:54</td>
+  		<td >Jan Tober - Ron Satterfield</td>
+  		<td >As Long As There's Music</td>
+  	</tr>
+  	<tr>
+  		<td >23:57</td>
+  		<td >The Beatles</td>
+  		<td >Good Night</td>
+  	</tr>
+  </table>
+<script>
+let result = "";
+document.querySelectorAll("tr").forEach(
+    row => result += `<div>{
+"time":"${row.querySelector("td:nth-child(1)").textContent}",
+"title": "${row.querySelector("td:nth-child(3)").textContent}",
+"performer": "${row.querySelector("td:nth-child(2)").textContent}"},
+</div>`);
+document.querySelector("table").insertAdjacentHTML("beforebegin", result);
+</script>

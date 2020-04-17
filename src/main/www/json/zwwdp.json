@@ -19956,6 +19956,45 @@
           { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
         ]
       ]
+    },
+    {
+      "id": "510",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-04-16",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Guarantee You A Good Time", "performer": "Mantler"},
+          { "time":"22:07", "title": "Sun: What A Wonderful Word!", "performer": "fantastic!"},
+          { "time":"22:11", "title": "Start", "performer": "James Righton"},
+          { "time":"22:14", "title": "Suddenly", "performer": "Drugdealer feat. Weyes Blood"},
+          { "time":"22:20", "title": "Spring Break", "performer": "Omaloma"},
+          { "time":"22:25", "title": "If I Had To", "performer": "Langva"},
+          { "time":"22:29", "title": "Midnight Driver", "performer": "Joel Sarakula"},
+          { "time":"22:33", "title": "With You", "performer": "Mikaël Delta"},
+          { "time":"22:38", "title": "Sharks In Pictures", "performer": "Alpentines"},
+          { "time":"22:42", "title": "Think", "performer": "The Magic Gang"},
+          { "time":"22:46", "title": "Step By Step", "performer": "Monks Road Social feat. feat. Dr Robert & Sulene Fleming"},
+          { "time":"22:49", "title": "Who Are You On Your Own?", "performer": "Matt Duncan"},
+          { "time":"22:54", "title": "L.A.X.", "performer": "Das Kope"},
+          { "time":"22:58", "title": "We Sing Ba Ba Ba", "performer": "Nice System"}
+        ],
+        [
+          { "time":"23:04", "title": "Happiness", "performer": "Jonathan Jeremiah"},
+          { "time":"23:07", "title": "You Never Let Go", "performer": "Kainalu & Munya"},
+          { "time":"23:11", "title": "Waltz For Koop", "performer": "Koop (featuring Cecilia Stalin)"},
+          { "time":"23:14", "title": "Not The Lovin' Kind", "performer": "Lee Hazlewood"},
+          { "time":"23:17", "title": "Do I Hear", "performer": "C Duncan"},
+          { "time":"23:22", "title": "Heart To Heart", "performer": "Mac DeMarco"},
+          { "time":"23:26", "title": "Stacked", "performer": "Cousin Kula"},
+          { "time":"23:31", "title": "Futures", "performer": "Zero 7"},
+          { "time":"23:35", "title": "Onie", "performer": "The Electric Prunes"},
+          { "time":"23:43", "title": "Music For Eels", "performer": "Sven Libaek"},
+          { "time":"23:45", "title": "Tú", "performer": "Maye"},
+          { "time":"23:49", "title": "London", "performer": "Pet Shop Boys"},
+          { "time":"23:54", "title": "As Long As There's Music", "performer": "Jan Tober - Ron Satterfield"},
+          { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
     }
   ]
 }
