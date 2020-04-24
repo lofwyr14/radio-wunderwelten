@@ -19995,6 +19995,43 @@
           { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}
         ]
       ]
+    },
+    {
+      "id": "511",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-04-23",
+      "songs": [
+        [
+          { "time":"22:05", "title": "Silent Sigh", "performer": "Badly Drawn Boy"},
+          { "time":"22:08", "title": "Birds", "performer": "Aztec Camera"},
+          { "time":"22:13", "title": "Different Things", "performer": "Langva"},
+          { "time":"22:16", "title": "Toking, Dozing", "performer": "Feng Suave"},
+          { "time":"22:20", "title": "Loving Is Easy", "performer": "Rex Orange County feat. Benny Sings"},
+          { "time":"22:22", "title": "Seabird", "performer": "Hailey Tuck"},
+          { "time":"22:26", "title": "Longshore Rider", "performer": "Richard Clapton"},
+          { "time":"22:31", "title": "Home In Another Heart", "performer": "Fantastic Something"},
+          { "time":"22:33", "title": "Left Hand Man", "performer": "Robot"},
+          { "time":"22:38", "title": "Paper Cup", "performer": "Real Estate feat. Sylvan Esso"},
+          { "time":"22:42", "title": "Lighthouse Spaceship", "performer": "The Lickerish Quartet"},
+          { "time":"22:48", "title": "Come To The Force", "performer": "Fellini Felin & C Duncan"},
+          { "time":"22:52", "title": "Alcie Hyatt", "performer": "Damien Jurado"},
+          { "time":"22:56", "title": "Waiting Room", "performer": "Junkboy"},
+        ],
+        [
+          { "time":"23:04", "title": "Dragonball Durag", "performer": "Thundercat"},
+          { "time":"23:07", "title": "In Your Eyes", "performer": "BadBadNotGood feat. Charlotte Day Wilson"},
+          { "time":"23:12", "title": "Jij Wint", "performer": "The Day"},
+          { "time":"23:16", "title": "Meet Your Maker", "performer": "Club Kuru"},
+          { "time":"23:23", "title": "Back To Your Heart", "performer": "Nicolas Godin feat. Kate NV"},
+          { "time":"23:27", "title": "Misread", "performer": "Kings Of Convenience"},
+          { "time":"23:35", "title": "Shoes", "performer": "Benjamin Schoos feat. Nicholas Krgovich"},
+          { "time":"23:39", "title": "Catching In Passing", "performer": "Benjamin Schoos feat. Marker Starling"},
+          { "time":"23:42", "title": "Fingerprints", "performer": "Hiatus Kaiyote"},
+          { "time":"23:46", "title": "Arabella's Cabaret", "performer": "Robertson Matthews"},
+          { "time":"23:57", "title": "Seasons", "performer": "Pete Jolly"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
     }
   ]
 }
