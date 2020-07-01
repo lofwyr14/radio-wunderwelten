@@ -1273,7 +1273,7 @@
             this.querySelector("#link-list").classList.toggle("d-none");
         }
         html1(broadcast, episode) {
-            return html `<radio-title show="${broadcast.show}" date="${episode.dateFormat}" type="Songliste" station="${broadcast.station}"></radio-title>
+            return html `<radio-title show="${broadcast.show}" date="${episode.dateFormat}" type="Playlist" station="${broadcast.station}"></radio-title>
 <nav id="link-list" class="small d-none">
 ${broadcast.episodesArray.map(e => html `<a href="${broadcast.id}-${e.id}.html">${e.dateFormat} (${e.songs.list.length} Titel)</a> `)}
 </nav>
