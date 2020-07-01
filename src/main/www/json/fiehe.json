@@ -578,20 +578,111 @@
     {
       "id": "1006",
       "title": "1live Fiehe",
-      "date": "2020-04-19",
+      "date": "2020-05-24",
       "songs": [
         [
+          { "time": "22:04", "title": "Pretenders Of Love", "performer": "Shark Vegas"},
+          { "title": "True Faith", "performer": "New Order"},
+          { "title": "I'm In Love With A German Filmstar", "performer": "Moscoman feat. Xen"},
+          { "title": "Look Into My Eyes", "performer": "52nd Street"},
+          { "title": "Leave Them All Behind", "performer": "Whitey"},
+          { "title": "Sludge", "performer": "Squid"},
+          { "title": "Interzone", "performer": "Joy Division"},
+          { "title": "Busoga", "performer": "Nihiloxic"},
+          { "title": "Future Toyi Toyi (Gqom Mix)", "performer": "Keleketla! & Coldcut"},
+          { "title": "Möbliertes Lied", "performer": "Einstürzende Neubauten"},
+          { "title": "Isolation", "performer": "Joy Division"},
+          { "title": "Moscow Idaho", "performer": "The Cassandra Complex"}
         ],
         [
+          { "time": "23:04", "title": "Honey", "performer": "Poundz"},
+          { "title": "Richie Rich (RR)", "performer": "Renni Rucci"},
+          { "title": "All Is One", "performer": "Sweatson Klank"},
+          { "title": "Love Tempo", "performer": "Quando Quango"},
+          { "title": "Banana Skin Shoes", "performer": "Badly Drawn Boy"},
+          { "title": "Hallelujah (Club Mix)", "performer": "Happy Mondays"},
+          { "title": "Love Will Tear Us Apart", "performer": "A1 People"},
+          { "title": "Dangerous Days", "performer": "Zola Jesus"},
+          { "title": "This Here Defeat", "performer": "Scott Matthew"},
+          { "title": "A Means To An End", "performer": "Joy Division"},
+          { "title": "Appollonian Heart", "performer": "Pulse Park"},
+          { "title": "Ta Que Tiembla", "performer": "Buscabulla"}
         ],
         [
+          { "time": "00:04", "title": "Change The Story", "performer": "RAC feat. Jamie Lidell"},
+          { "title": "Fate", "performer": "Nyam Nyam"},
+          { "title": "I Feel Love", "performer": "Donna Summer"},
+          { "title": "Grauschleier", "performer": "Herbert Grönemeyer"},
+          { "title": "She´s Lost Control", "performer": "Joy Division"},
+          { "title": "Give Yourself A Try", "performer": "The 1975"},
+          { "title": "Disorder", "performer": "Joy Division"},
+          { "title": "Never Come Back (Four Tet Remix)", "performer": "Caribou"},
+          { "title": "Motor Bikin´", "performer": "Chris Spedding"},
+          { "title": "EMI", "performer": "Sex Pistols"},
+          { "title": "Our House", "performer": "Madness"},
+          { "title": "Seuchen", "performer": "Tollwut"},
+          { "title": "Jäger Aus Churpfalz", "performer": "Rick Abao"},
+          { "title": "Vaivai (Rex & Alfa Remix)", "performer": "Batida"}
         ]
       ]
     },
     {
       "id": "1007",
       "title": "1live Fiehe",
-      "date": "2020-04-19",
+      "date": "2020-05-31",
+      "songs": [
+        [
+          { "time": "22:04", "title": "Lucky Shores", "performer": "Sweatson Klank & Rite Along"},
+          { "title": "Be Thou By My Side", "performer": "Holy Hive"},
+          { "title": "Wind On Tin", "performer": "Jess Williamson"},
+          { "title": "Californian Light", "performer": "Childhood"},
+          { "title": "Zombie", "performer": "Aitch"},
+          { "title": "Weed In LA", "performer": "The Koreatown Oddity"},
+          { "title": "Gettin Up", "performer": "Q-Tip"},
+          { "title": "Lausd", "performer": "Jurassic 5"},
+          { "title": "TNT", "performer": "Nayana IZ"},
+          { "title": "Alles Reduziert", "performer": "Umse, Nottz & Megaloh"},
+          { "title": "Turned To String", "performer": "No Age"},
+          { "title": "Underneath", "performer": "Public Practice"},
+          { "title": "Replay", "performer": "Lady Gaga"},
+          { "title": "Life Is A Game Of Changing", "performer": "DMA´s"},
+          { "title": "Black Star Dancing (The Reflex Revision)", "performer": "Noel Gallagher´s High Flying Birds"}
+        ],
+        [
+          { "time": "23:04", "title": "Gimme Ya Love", "performer": "Natalie Slade"},
+          { "title": "Thunder", "performer": "Koherent"},
+          { "title": "Check It", "performer": "Myth"},
+          { "title": "Day 1: Back & Forth", "performer": "Hugh Hardie"},
+          { "title": "What Kinda Music (Jordan Rakei Remix)", "performer": "Tom Misch & Yessef Dayes"},
+          { "title": "Hire The Birds", "performer": "Tibi Dabo"},
+          { "title": "Riders On The Storm", "performer": "The Doors"},
+          { "title": "Liebesdrama", "performer": "Love Machine"},
+          { "title": "Wheel", "performer": "Katie Von Schleicher"},
+          { "title": "From Never To Once", "performer": "Lewsberg"},
+          { "title": "Not On Top", "performer": "Herman Düne"},
+          { "title": "Almost Prayed", "performer": "Weather Prophets"},
+          { "title": "Motherman", "performer": "Jade Hairpins"}
+        ],
+        [
+          { "time": "00:04", "title": "It´s The Sun", "performer": "The Polyphonic Spree"},
+          { "title": "Windflower", "performer": "Yamaneko"},
+          { "title": "Temple Of New Light", "performer": "Laraaji"},
+          { "title": "Farewell To All We Know", "performer": "Matt Elliott"},
+          { "title": "Expanding Electricity", "performer": "Kaitly Aurelia Smith"},
+          { "title": "Voyage", "performer": "Marquis Hawkes"},
+          { "title": "Like This", "performer": "Park Hye Jin"},
+          { "title": "Trippin", "performer": "Joe Hertz feat. Ryahn"},
+          { "title": "Vexed", "performer": "Sharadha Shashidhar"},
+          { "title": "What Moves", "performer": "LA Priest"},
+          { "title": "Peace Lily", "performer": "LA Priest"},
+          { "title": "Beginning", "performer": "LA Priest"}
+        ]
+      ]
+    },
+    {
+      "id": "1008",
+      "title": "1live Fiehe",
+      "date": "2020-06-07",
       "songs": [
         [
         ],
@@ -602,9 +693,48 @@
       ]
     },
     {
-      "id": "1008",
+      "id": "1009",
       "title": "1live Fiehe",
-      "date": "2020-04-19",
+      "date": "2020-06-14",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "1010",
+      "title": "1live Fiehe",
+      "date": "2020-06-21",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "1011",
+      "title": "1live Fiehe",
+      "date": "2020-06-28",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "1012",
+      "title": "1live Fiehe",
+      "date": "2020-07-05",
       "songs": [
         [
         ],
