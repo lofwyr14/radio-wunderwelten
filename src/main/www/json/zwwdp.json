@@ -20147,18 +20147,6 @@
     {
       "id": "515",
       "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "2020-05-21",
-      "songs": [
-        [
-        ],
-        [
-          { "time":"23:56", "title": "Good Night", "performer": "The Beatles"}
-        ]
-      ]
-    },
-    {
-      "id": "516",
-      "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-05-28",
       "songs": [
         [
@@ -20194,7 +20182,7 @@
       ]
     },
     {
-      "id": "517",
+      "id": "516",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-04",
       "songs": [
@@ -20232,7 +20220,7 @@
       ]
     },
     {
-      "id": "518",
+      "id": "517",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-11",
       "songs": [
@@ -20271,7 +20259,7 @@
       ]
     },
     {
-      "id": "519",
+      "id": "518",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-18",
       "songs": [
@@ -20306,7 +20294,7 @@
       ]
     },
     {
-      "id": "520",
+      "id": "519",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-25",
       "songs": [
@@ -20341,6 +20329,17 @@
           { "time":"23:50", "title": "Midnight Snack", "performer": "Homeshake"},
           { "time":"23:53", "title": "Corniche Kennedy", "performer": "Pierre Daven-Keller"},
           { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "520",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-07-02",
+      "songs": [
+        [
+        ],
+        [
         ]
       ]
     }
