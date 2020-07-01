@@ -20067,6 +20067,282 @@
           { "time":"23:59", "title": "Good Night", "performer": "The Beatles"}
         ]
       ]
+    },
+    {
+      "id": "513",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-05-07",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Monday Morning 5.19", "performer": "Rialto"},
+          { "time":"22:09", "title": "Waterloo Sunset", "performer": "Ethan Hawke"},
+          { "time":"22:13", "title": "Shortly After Takeoff", "performer": "BC Camplight"},
+          { "time":"22:16", "title": "Klisjé", "performer": "Svømmebasseng"},
+          { "time":"22:21", "title": "Bound", "performer": "Small Forward"},
+          { "time":"22:24", "title": "Shakes", "performer": "Maddie Jay"},
+          { "time":"22:32", "title": "Arrow Through Me", "performer": "Wings"},
+          { "time":"22:36", "title": "Shadow On The Wall", "performer": "Video Age"},
+          { "time":"22:41", "title": "Cory Wong", "performer": "Vulfpeck"},
+          { "time":"22:45", "title": "Roundelay", "performer": "Lake"},
+          { "time":"22:49", "title": "Locket", "performer": "Crumb"},
+          { "time":"22:54", "title": "The Sun Is Up Forever", "performer": "Joesef"},
+          { "time":"22:58", "title": "Ricky's Theme", "performer": "Beastie Boys"}
+        ],
+        [
+          { "time":"23:04", "title": "Talk With Your Body", "performer": "Tom Hooker"},
+          { "time":"23:08", "title": "Just Like My", "performer": "Homeshake"},
+          { "time":"23:12", "title": "When You Were Few", "performer": "Damien Jurado"},
+          { "time":"23:15", "title": "When Did You Stop Loving Me, When Did I Stop Loving You", "performer": "Marvin Gaye"},
+          { "time":"23:21", "title": "The Marquee", "performer": "Gigi"},
+          { "time":"23:24", "title": "My Apartment", "performer": "Zwanie Jonson"},
+          { "time":"23:27", "title": "Half Forgotten Daydreams", "performer": "John Cameron"},
+          { "time":"23:32", "title": "Good Sign", "performer": "Charlotte Dos Santos"},
+          { "time":"23:35", "title": "Are You Going With Me?", "performer": "Pat Metheny Group"},
+          { "time":"23:43", "title": "Chasing Love", "performer": "Luca Nieri"},
+          { "time":"23:47", "title": "Skiptracing", "performer": "Mild High Club"},
+          { "time":"23:50", "title": "A Comma", "performer": "serpentwithfeet"},
+          { "time":"23:53", "title": "Little Girl Blue", "performer": "Les Baxter and His Orchestra"},
+          { "time":"23:56", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "514",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-05-14",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Lost And Found", "performer": "The Everettes"},
+          { "time":"22:08", "title": "The Reservoir", "performer": "Small Forward"},
+          { "time":"22:13", "title": "Falling Thunder", "performer": "Rolling Blackouts Coastal Fever"},
+          { "time":"22:17", "title": "Happiness Is Just Around The Bend", "performer": "Brian Auger"},
+          { "time":"22:24", "title": "Pop Therapy", "performer": "Video Age"},
+          { "time":"22:27", "title": "Sharks In Pictures", "performer": "Alpentines"},
+          { "time":"22:32", "title": "Don't Stop... (Demo)", "performer": "Oasis"},
+          { "time":"22:37", "title": "Blueberry Bloom", "performer": "Skiing"},
+          { "time":"22:40", "title": "Shuggie", "performer": "Foxygen"},
+          { "time":"22:43", "title": "Time (You And I)", "performer": "Khruangbin"},
+          { "time":"22:48", "title": "Pilots", "performer": "Goldfrapp"},
+          { "time":"22:52", "title": "In The Sunshine", "performer": "Jonathan Bree"},
+          { "time":"22:57", "title": "Tropical", "performer": "Nino Nardini & Roger Roger"}
+        ],
+        [
+          { "time":"23:05", "title": "The Man Who Sold The World", "performer": "David Bowie"},
+          { "time":"23:09", "title": "Ms. Jackson - Outkast", "performer": "The Death of Pop"},
+          { "time":"23:13", "title": "Sentimental Lady", "performer": "Bob Welch"},
+          { "time":"23:16", "title": "Space Traveler", "performer": "James Vincent"},
+          { "time":"23:19", "title": "Francine", "performer": "Damien Jurado"},
+          { "time":"23:21", "title": "Radio Two", "performer": "Krzysztof Komeda"},
+          { "time":"23:24", "title": "Falling Into You", "performer": "Ralegh Long"},
+          { "time":"23:30", "title": "A Wednesday In Your Garden", "performer": "Barry Allen"},
+          { "time":"23:33", "title": "Indian Summer", "performer": "James Taylor Quartet"},
+          { "time":"23:37", "title": "Journey's End", "performer": "The Montgolfier Brothers"},
+          { "time":"23:45", "title": "Moonlight Mile", "performer": "Jimmy Webb"},
+          { "time":"23:50", "title": "It Ain't Necessarily So", "performer": "The Moody Blues"},
+          { "time":"23:54", "title": "Windmills Of Your Mind", "performer": "Swing Out Sister"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "515",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-05-21",
+      "songs": [
+        [
+        ],
+        [
+          { "time":"23:56", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "516",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-05-28",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Toxic Girl", "performer": "Kings Of Convenience"},
+          { "time":"22:07", "title": "Soft Soul", "performer": "Vinyl Williams"},
+          { "time":"22:11", "title": "Bluebird's Blues", "performer": "The Lickerish Quartet"},
+          { "time":"22:16", "title": "Village", "performer": "Paul Weller"},
+          { "time":"22:19", "title": "Ship Of Fools", "performer": "Doves"},
+          { "time":"22:23", "title": "Dig Deeper", "performer": "Inner Tongue"},
+          { "time":"22:28", "title": "Sixteen Stares", "performer": "Aidan Knight"},
+          { "time":"22:30", "title": "Love", "performer": "Cloud Cloud"},
+          { "time":"22:34", "title": "Thank You", "performer": "The Orange Peels"},
+          { "time":"22:37", "title": "Summer Nights In Montreal", "performer": "Jill Barber feat. Yann Perreau"},
+          { "time":"22:42", "title": "Ms. Jackson - Outkast", "performer": "The Death of Pop"},
+          { "time":"22:46", "title": "Footprint On The Moon", "performer": "The Strawberry Smell"},
+          { "time":"22:50", "title": "The Wine Of Lebanon", "performer": "Cass McCombs"},
+          { "time":"22:55", "title": "Babyman", "performer": "Circles Around The Sun"}
+        ],
+        [
+          { "time":"23:04", "title": "I Just Wanna Wish You Happiness", "performer": "Badly Drawn Boy"},
+          { "time":"23:08", "title": "Nothing Revealed / Everything Denied", "performer": "The 1975"},
+          { "time":"23:12", "title": "Half-Moon Bag", "performer": "Feng Suave"},
+          { "time":"23:16", "title": "Marshmallow", "performer": "The Sweet Enoughs"},
+          { "time":"23:20", "title": "Qadir", "performer": "Nick Hakim"},
+          { "time":"23:28", "title": "O Caroline", "performer": "Matching Mole"},
+          { "time":"23:33", "title": "Interplanetary World Salad", "performer": "Orange Crate Art"},
+          { "time":"23:37", "title": "Champ Magnétique", "performer": "Pierre Daven-Keller"},
+          { "time":"23:40", "title": "Why Would I Let You Go", "performer": "Sondre Lerche"},
+          { "time":"23:46", "title": "Velvet", "performer": "Léon Evangelion & NCY Milky Band"},
+          { "time":"23:52", "title": "Night Croc", "performer": "John Carroll Kirby"},
+          { "time":"23:56", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "517",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-06-04",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Century's End", "performer": "Donald Fagen"},
+          { "time":"22:09", "title": "Mr. Blue Sky", "performer": "Pomplamoose"},
+          { "time":"22:15", "title": "Witch Hunt", "performer": "Yehan Jehan"},
+          { "time":"22:19", "title": "Beginning End", "performer": "Benni Hemm Hemm"},
+          { "time":"22:21", "title": "She Won't Look At Me", "performer": "The Simple Carnival"},
+          { "time":"22:23", "title": "Joni Was A Rebel", "performer": "Jello 64"},
+          { "time":"22:28", "title": "What Difference Does It Make ?", "performer": "The Smiths"},
+          { "time":"22:32", "title": "I Could Have Been A Millionaire", "performer": "Tom Wardle"},
+          { "time":"22:36", "title": "She Keeps Telling Jokes", "performer": "Gangway"},
+          { "time":"22:40", "title": "Över Kilsbergen", "performer": "Parker Lewis"},
+          { "time":"22:44", "title": "Then There Were Two", "performer": "Mark Ronson and Anderson .Paak"},
+          { "time":"22:47", "title": "Lucky Creatures", "performer": "Tim Burgess"},
+          { "time":"22:51", "title": "Who Loves The Sun", "performer": "The Velvet Underground"},
+          { "time":"22:55", "title": "Bluebird's Blues", "performer": "The Lickerish Quartet"}
+        ],
+        [
+          { "time":"23:04", "title": "So We Won't Forget", "performer": "Khruangbin"},
+          { "time":"23:09", "title": "Blanket Of Calm", "performer": "Healing Potpourri"},
+          { "time":"23:12", "title": "Done With Dancing", "performer": "Jens Kuross"},
+          { "time":"23:17", "title": "This Beautiful Day", "performer": "Brian Wilson"},
+          { "time":"23:19", "title": "Rain", "performer": "Whitney"},
+          { "time":"23:23", "title": "The Stroll", "performer": "The James Taylor Quartet"},
+          { "time":"23:25", "title": "Until You Come Back To Me (That's What I'm Gonna Do)", "performer": "Aretha Franklin"},
+          { "time":"23:30", "title": "Who Will You Choose", "performer": "Snowgoose"},
+          { "time":"23:34", "title": "Giocoso, Gioioso", "performer": "Enio Morricone"},
+          { "time":"23:37", "title": "Can You Understand", "performer": "Renaissance"},
+          { "time":"23:48", "title": "Someone's Out To Get You", "performer": "Ultimate Painting"},
+          { "time":"23:52", "title": "We Can't Stop What's Coming", "performer": "The The"},
+          { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "518",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-06-11",
+      "songs": [
+        [
+          { "time":"22:04", "title": "You On My Mind", "performer": "Swing Out Sister"},
+          { "time":"22:07", "title": "Dig Deeper", "performer": "Inner Tongue"},
+          { "time":"22:11", "title": "Diamond Dave", "performer": "The Bird And The Bee"},
+          { "time":"22:14", "title": "The House That We Built", "performer": "The Death of Pop"},
+          { "time":"22:18", "title": "Sweaters", "performer": "Allen Stone"},
+          { "time":"22:21", "title": "One Drop Of Rain", "performer": "The Explorers Club"},
+          { "time":"22:24", "title": "Falling Thunder", "performer": "Rolling Blackouts Coastal Fever"},
+          { "time":"22:28", "title": "A Ghost", "performer": "Travis"},
+          { "time":"22:32", "title": "Backstop", "performer": "Article 54"},
+          { "time":"22:36", "title": "Mirage Hour Ii", "performer": "Coastal County"},
+          { "time":"22:41", "title": "Hey Girl", "performer": "Boy Pablo"},
+          { "time":"22:45", "title": "I Cannot Let You Go", "performer": "Sondre Lerche"},
+          { "time":"22:51", "title": "Loverboy", "performer": "Lomboy"},
+          { "time":"22:54", "title": "Brise Opus 1 & 2", "performer": "Erobique"}
+        ],
+        [
+          { "time":"23:04", "title": "Look At Me, Look At You (We're Flying)", "performer": "Marlena Shaw"},
+          { "time":"23:07", "title": "The Long And Winding Road", "performer": "Moritz Krämer"},
+          { "time":"23:11", "title": "Nothing", "performer": "Rex Orange County feat. Marco McKinnis"},
+          { "time":"23:16", "title": "Spring In Rome", "performer": "Discodor"},
+          { "time":"23:19", "title": "It Means Love", "performer": "Lovelock"},
+          { "time":"23:22", "title": "Spacebeach", "performer": "Arling & Cameron"},
+          { "time":"23:29", "title": "You're All I Want", "performer": "Cigarettes After Sex"},
+          { "time":"23:32", "title": "Spirit Of Summer (Album Version)", "performer": "Deodato"},
+          { "time":"23:37", "title": "Needles In My Eyes", "performer": "Ultimate Painting"},
+          { "time":"23:40", "title": "Here On Earth", "performer": "Prince"},
+          { "time":"23:44", "title": "Once I Lived In London", "performer": "Swan Dive"},
+          { "time":"23:48", "title": "Blanket Of Calm", "performer": "Healing Potpourri"},
+          { "time":"23:52", "title": "Träume", "performer": "Françoise Hardy"},
+          { "time":"23:55", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "519",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-06-18",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Mirror Man", "performer": "Human League"},
+          { "time":"22:08", "title": "Summer Breeze", "performer": "Jason Mraz"},
+          { "time":"22:12", "title": "Don't Waste Your Time", "performer": "Sondre Lerche"},
+          { "time":"22:17", "title": "Vice", "performer": "Cool Sounds"},
+          { "time":"22:25", "title": "Versailles", "performer": "The Diogenes Club"},
+          { "time":"22:31", "title": "Soft Soul", "performer": "Vinyl Williams"},
+          { "time":"22:35", "title": "The Book Lovers", "performer": "Broadcast"},
+          { "time":"22:38", "title": "Suddenly", "performer": "Drugdealer feat. Weyes Blood"},
+          { "time":"22:41", "title": "Always See Your Face", "performer": "Love"},
+          { "time":"22:45", "title": "Closer", "performer": "The Clientele"},
+          { "time":"22:50", "title": "Mr. Wilson", "performer": "John Cale"},
+          { "time":"22:54", "title": "Airport", "performer": "The Spinto Band"},
+          { "time":"22:58", "title": "Melancholia", "performer": "Pierre Daven-Keller"}
+        ],
+        [
+          { "time":"23:03", "title": "I Love You", "performer": "Chungking"},
+          { "time":"23:08", "title": "Eventually", "performer": "The Phoenix Foundation"},
+          { "time":"23:14", "title": "Smitten", "performer": "The Simple Carnival"},
+          { "time":"23:17", "title": "Wind Down", "performer": "Pictured Resort"},
+          { "time":"23:21", "title": "Ella", "performer": "Brian Auger"},
+          { "time":"23:28", "title": "We've Only Just Begun", "performer": "Curtis Mayfield"},
+          { "time":"23:34", "title": "The Hollow Sound Of The Morning Chimes", "performer": "Tops"},
+          { "time":"23:40", "title": "Across The Universe", "performer": "Charlotte Brandi"},
+          { "time":"23:45", "title": "Budapest By Blimp", "performer": "Thomas Dolby"},
+          { "time":"23:53", "title": "Diamond Cutter", "performer": "Bent"},
+          { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "520",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-06-25",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Stray Cat Strut", "performer": "Stray Cats"},
+          { "time":"22:08", "title": "Golden Ways", "performer": "Alexander von Mehren"},
+          { "time":"22:12", "title": "I Can't See Myself Without You", "performer": "Sondre Lerche"},
+          { "time":"22:15", "title": "Under The Radar", "performer": "NAH..."},
+          { "time":"22:20", "title": "Things I Do", "performer": "Andy Shauf"},
+          { "time":"22:22", "title": "Baby Girl", "performer": "Young Gun Silver Fox"},
+          { "time":"22:26", "title": "Sunshine Makes Me", "performer": "Joel Sarakula"},
+          { "time":"22:31", "title": "Out Of Reach", "performer": "Bananagun"},
+          { "time":"22:36", "title": "Crooner's Lullaby", "performer": "APB"},
+          { "time":"22:40", "title": "One Drop Of Rain", "performer": "The Explorers Club"},
+          { "time":"22:43", "title": "Walk With Me", "performer": "Margot"},
+          { "time":"22:47", "title": "Broken Land", "performer": "The Adventures"},
+          { "time":"22:52", "title": "La Egypt", "performer": "Vinyl Williams"},
+          { "time":"22:56", "title": "Clarity", "performer": "Harvey Sutherland & Bermuda"}
+        ],
+        [
+          { "time":"23:04", "title": "We Have All The Time In The World", "performer": "Fun Lovin' Criminals"},
+          { "time":"23:08", "title": "Watering The Garden", "performer": "Brad Stank"},
+          { "time":"23:12", "title": "Moment Alone", "performer": "Healing Potpourri"},
+          { "time":"23:15", "title": "Driving Without Lights", "performer": "Michel van Dyke"},
+          { "time":"23:20", "title": "Love Theme From Spartacus", "performer": "Terry Callier"},
+          { "time":"23:24", "title": "Bells Of St. Augustine", "performer": "Burt Bacharach & Daniel Tashian"},
+          { "time":"23:29", "title": "This Guy's In Love With You", "performer": "The Explorers Club"},
+          { "time":"23:35", "title": "Day Must Come", "performer": "Stuart Moxham & Louis Philippe"},
+          { "time":"23:38", "title": "The Wild Are Welcome", "performer": "Sean O'Hagan feat. Livvy O'Hagan"},
+          { "time":"23:42", "title": "Flowers Of Neptune 6", "performer": "The Flaming Lips"},
+          { "time":"23:47", "title": "Windows", "performer": "Sugar Candy Mountain"},
+          { "time":"23:50", "title": "Midnight Snack", "performer": "Homeshake"},
+          { "time":"23:53", "title": "Corniche Kennedy", "performer": "Pierre Daven-Keller"},
+          { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
     }
   ]
 }
