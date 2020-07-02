@@ -3,9 +3,23 @@
   "title": "Fiehe - 1LIVE",
   "episodes": [
     {
-      "id": "990",
+      "id": "988",
       "title": "1live Fiehe",
-      "date": "2020-02-02",
+      "date": "2020-01-19",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+  "episodes": [
+    {
+      "id": "989",
+      "title": "1live Fiehe",
+      "date": "2020-01-26",
       "songs": [
         [
         ],
@@ -16,12 +30,61 @@
       ]
     },
     {
+      "id": "990",
+      "title": "1live Fiehe",
+      "date": "2020-02-02",
+      "songs": [
+        [
+          { "time": "22:04", "title": "Is This A Dream?", "performer": "Badly Drawn Boy"},
+          { "title": "Kinky Afro", "performer": "Happy Mondays"},
+          { "title": "Freak", "performer": "Tarek K.I.Z."},
+          { "title": "Fahr´ ich In Den Urlaub Rein", "performer": "Odd Couple"},
+          { "title": "Step Into My World", "performer": "Hurricane #1"},
+          { "title": "Dissident", "performer": "Glok"},
+          { "title": "Dirty Rules (Deeptech Remix)", "performer": "Orlando Voorn Presents Dirty Rules Crew"},
+          { "title": "Schuttelfrost", "performer": "Kristin Velvet"},
+          { "title": "From Never To Once", "performer": "Lewsberg"},
+          { "title": "All Or Nothing", "performer": "Shopping"},
+          { "title": "Never Come Back", "performer": "Caribou"},
+          { "title": "Driving", "performer": "Polica"},
+          { "title": "What Am I", "performer": "Lola Marsh"}
+        ],
+        [
+          { "time": "23:04", "title": "Im Rythmus Bleiben", "performer": "Front 242"},
+          { "title": "Velvet Imprints", "performer": "Phase Fatale"},
+          { "title": "Yfphnt", "performer": "Giant Swan"},
+          { "title": "Bumble Bee Crown King", "performer": "Dan Deacon"},
+          { "title": "Kaputt Wie Ich", "performer": "Tarek K.I.Z."},
+          { "title": "Backend", "performer": "Bankroll Freddie & Moneybagg Yo"},
+          { "title": "Outer Sunset", "performer": "Tycho"},
+          { "title": "Gone", "performer": "Robert Glasper feat. YBN Cordae, Bilal & Herbie Hancock "},
+          { "title": "Fuck Yo Feelings", "performer": "Robert Glasper feat. Yebba"},
+          { "title": "Untitled Needs", "performer": "Laurence Guy"},
+          { "title": "For The Planet", "performer": "Sweatson Klank"}
+        ],
+        [
+          { "time": "00:04", "title": "After Da Party", "performer": "Silvestre"},
+          { "title": "Curtir", "performer": "DJ Paulo"},
+          { "title": "Fix It All", "performer": "DRS & Dynamite feat. London Elektricity"},
+          { "title": "Levitate Your Mind", "performer": "Degs feat. Unglued"},
+          { "title": "Bleu", "performer": "AgaJon & Léonie Barbot"},
+          { "title": "Sunflower", "performer": "Mall Grab"},
+          { "title": "Cornucopia", "performer": "Millionaire"},
+          { "title": "Sandcastles", "performer": "Cable Ties"},
+          { "title": "Ego", "performer": "Moaning"},
+          { "title": "Nervelevers", "performer": "Squarepusher"},
+          { "title": "Slow Memories", "performer": "Pictish Trail"},
+          { "title": "In My Mind", "performer": "Mura Masa"}
+        ]
+      ]
+    },
+    {
       "id": "991",
       "title": "1live Fiehe",
       "date": "2020-02-09",
       "songs": [
         [
-          { "title": "Gravel", "performer": "Otik"},
+          { "time": "22:04", "title": "Gravel", "performer": "Otik"},
           { "title": "Yeye Riddim", "performer": "Kida Kudz"},
           { "title": "River At Work", "performer": "Asa Tone"},
           { "title": "Lo-Freq Soul (Soundboy Version)", "performer": "Dead Man´s Chest"},
@@ -35,7 +98,7 @@
           { "title": "Too Fast", "performer": "Sweatson Klank"}
         ],
         [
-          { "title": "Like Freddy", "performer": "Bankroll Freddie feat. Trapboy Freddy"},
+          { "time": "23:04", "title": "Like Freddy", "performer": "Bankroll Freddie feat. Trapboy Freddy"},
           { "title": "Trenn Dich", "performer": "Antilopen Gang"},
           { "title": "Give Up", "performer": "DC Salas"},
           { "title": "Finnberget (C.A.R. Remix)", "performer": "Ravage Sentimental"},
@@ -49,7 +112,7 @@
           { "title": "ITJ09A1 (DJ Haus Remix)", "performer": "Italojohnson"}
         ],
         [
-          { "title": "Langsam Aber Slowly / Well, Traumhaft", "performer": "Bufiman"},
+          { "time": "00:04", "title": "Langsam Aber Slowly / Well, Traumhaft", "performer": "Bufiman"},
           { "title": "Hallway Visdions", "performer": "Octo Octa"},
           { "title": "Fluids Of Emotion", "performer": "Eris Drew"},
           { "title": "Ergot", "performer": "Damian Lazarus"},
