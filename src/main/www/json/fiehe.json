@@ -3,6 +3,58 @@
   "title": "Fiehe - 1LIVE",
   "episodes": [
     {
+      "id": "993",
+      "title": "1live Fiehe",
+      "date": "2020-02-23",
+      "songs": [
+        [
+          { "time": "22:04", "title": "Stressy", "performer": "Hanni El Khatib"},
+          { "title": "Space Invaders", "performer": "The Twilite Tone"},
+          { "title": "The Best Of Life", "performer": "Kassa Overall"},
+          { "title": "Subtle Knife", "performer": "Boxed In"},
+          { "title": "Mice", "performer": "Aitch"},
+          { "title": "Yeye Riddim", "performer": "Kida Kudz"},
+          { "title": "Rendezvous", "performer": "Eugy"},
+          { "title": "Onipa", "performer": "Onipa feat. Wlyaala"},
+          { "title": "DJ Logic Please Forgive Me", "performer": "Logic1000"},
+          { "title": "Blank Page", "performer": "Klangstof"},
+          { "title": "Loaded", "performer": "Primal Scream"},
+          { "title": "White Rooms and People", "performer": "Working Men´s Club"},
+          { "title": "View From Nowhere", "performer": "Warm Digits"},
+          { "title": "G2g", "performer": "Berhana"},
+          { "title": "Lil Mama", "performer": "Bankroll Freddie feat. Renni Rucci"}
+        ],
+        [
+          { "time": "23:04", "title": "Different Light", "performer": "Best Coast"},
+          { "title": "A Girl Like You", "performer": "The Smithereens"},
+          { "title": "Planet Love", "performer": "Marlon Hoffstadt"},
+          { "title": "High Line 3190", "performer": "Northworks"},
+          { "title": "MJ in Kobe", "performer": "Jorge Caiado"},
+          { "title": "Unknown Plunderer", "performer": "Andrew Weatherall"},
+          { "title": "What If The Symbols Fall Down (Pilooski Floating Dub)", "performer": "Vox Low"},
+          { "title": "Darkside", "performer": "Grimes & PAN"},
+          { "title": "Delete Forever", "performer": "Grimes"},
+          { "title": "Morrow", "performer": "070 Shake"},
+          { "title": "Same Ol´ Mistakes", "performer": "Supermassive & The Ware feat. Nina"}
+        ],
+        [
+          { "time": "00:04", "title": "By The Sea", "performer": "John Carroll Kirby"},
+          { "title": "Experience", "performer": "Tabou No. 2"},
+          { "title": "Please Love Me Again", "performer": "Liam Bailey"},
+          { "title": "C-Side", "performer": "Khruanbin & Leon Bridges"},
+          { "title": "It´s Only Us", "performer": "Monophonics"},
+          { "title": "Underclass", "performer": "King Krule"},
+          { "title": "Givenupitis", "performer": "Okay Kaya"},
+          { "title": "Black Cat", "performer": "Spinning Coin"},
+          { "title": "A Prism In Reverse", "performer": "Arbouretum"},
+          { "title": "Greyhound", "performer": "Pretty Lightning"},
+          { "title": "Give Up", "performer": "DC Scalas"},
+          { "title": "Fatal Error", "performer": "Fatal Error"},
+          { "title": "Ladies For Babies (Goats For Love)", "performer": "Nadine Shah"}
+        ]
+      ]
+    },
+    {
       "id": "994",
       "title": "1live Fiehe",
       "date": "2020-03-01",
