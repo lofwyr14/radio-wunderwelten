@@ -1491,5 +1491,14 @@ data-extension="{'url': '/radio/player/einslive-diggi-playlist100~radioplayerPla
 </div>
 <script type="text/javascript" src="/radio/1live/on-air/sendungen/1live-fiehe/preferredChannel100.js"></script>
 <!--googleon: index-->
+<script>
+  let result = "";
+  document.querySelectorAll("tr").forEach(
+      row => result += `<div>{
+"title": "${row.querySelector("td:nth-child(2)")?.textContent}",
+"performer": "${row.querySelector("td:nth-child(1)")?.textContent}"},
+</div>`);
+  document.querySelector("body").insertAdjacentHTML("afterbegin", result);
+</script>
 </body>
 </html>
