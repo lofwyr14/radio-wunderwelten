@@ -685,10 +685,50 @@
       "date": "2020-06-07",
       "songs": [
         [
+          { "time": "22:04", "title": "Out Of Site", "performer": "Run The Jewels feat. 2 Chainz"},
+          { "title": "I Reckon You Should Shut The Fuck Up", "performer": "Consolidated"},
+          { "title": "You Suck", "performer": "Consolidated feat. The Yeastie Girls"},
+          { "title": "A Few Words For The Firing Squad (Radiation)", "performer": "Run The Jewels"},
+          { "title": "Vigilante", "performer": "Source Direct"},
+          { "title": "Demon Seed", "performer": "Exocet"},
+          { "title": "Cole", "performer": "Need For Mirrors"},
+          { "title": "Gimme Ya Love", "performer": "Natalie Slade"},
+          { "title": "Brotha (El B Remix)", "performer": "Angie Stone"},
+          { "title": "We Come 1 (Wookie Rmx)", "performer": "Faithless"},
+          { "title": "Let The Music Decide For You", "performer": "Faithless"},
+          { "title": "Control", "performer": "Natalie Slade"},
+          { "title": "Brevado", "performer": "Steppenkind"}
         ],
         [
+          { "time": "23:04", "title": "Ibuprofen", "performer": "Pabst"},
+          { "title": "Hit Me Up", "performer": "Wives"},
+          { "title": "Head Sport Full Face", "performer": "No Age"},
+          { "title": "Feels Like Fun", "performer": "Sports Team"},
+          { "title": "Lonely Boy", "performer": "Becca Mancari"},
+          { "title": "Rain In Cuba", "performer": "Joe Hertz, Barney Artist & Sam Wills feat. Blue Lab Beats"},
+          { "title": "Wade In The Water", "performer": "Klaus Doldinger´s Passport feat. Joo Kraus"},
+          { "title": "Pretend", "performer": "Wargirl"},
+          { "title": "The Cool Change", "performer": "Rolling Blackouts Coastal Fever"},
+          { "title": "Compromised", "performer": "Public Practice"},
+          { "title": "Cave", "performer": "Future Islands"},
+          { "title": "Koks & Nutten", "performer": "DJ Pasha 95"},
+          { "title": "Long Promised", "performer": "Bullion"},
+          { "title": "TNT", "performer": "Nayana IZ"},
+          { "title": "Dream Appropriate", "performer": "Westerman"}
         ],
         [
+          { "time": "00:04", "title": "Hypnosis", "performer": "Holy Hive"},
+          { "title": "Drawbridge", "performer": "Westerman"},
+          { "title": "Blue Comanche", "performer": "Westerman"},
+          { "title": "Waiting On Design", "performer": "Westerman"},
+          { "title": "Desert Days", "performer": "Blanco White"},
+          { "title": "Try To Reach Me", "performer": "Sofie"},
+          { "title": "Can You Feel It", "performer": "Fingers Inc. Feat. Martin Luther King Jr."},
+          { "title": "Like Water", "performer": "DJ Boring"},
+          { "title": "Disco Peacock", "performer": "Black Girl/White Girl"},
+          { "title": "Mulatu", "performer": "Mulatu Astatke & Black Jesus Experience"},
+          { "title": "Heaven", "performer": "Sl8r"},
+          { "title": "Steppa Dub", "performer": "L-Side feat. MC Fats"}
         ]
       ]
     },
@@ -698,10 +738,46 @@
       "date": "2020-06-14",
       "songs": [
         [
+          { "time": "22:04", "title": "Pretend", "performer": "Wargirl"},
+          { "title": "Oh Promised Land", "performer": "Ebony Bones!"},
+          { "title": "Salongo", "performer": "Nihiloxica"},
+          { "title": "Two B´s One White (Bigga´s Dunn´s River Version)", "performer": "Magic Drum Orchestra feat. Farda P"},
+          { "title": "Please Don´t Leave", "performer": "Leon & NiCe7 feat. Sam Threadgold"},
+          { "title": "Dissonant", "performer": "Waking Dreams"},
+          { "title": "Enveloping Cycles", "performer": "Psychic Markers"},
+          { "title": "Ducati", "performer": "Madmarcc"},
+          { "title": "Worth It All", "performer": "Kierra Luv"},
+          { "title": "Flowers Of Neptune 6", "performer": "The Flaming Lips"},
+          { "title": "Sol", "performer": "Timma T"},
+          { "title": "EMF", "performer": "Skream & Tom Demac"}
         ],
         [
+          { "time": "23:04", "title": "Busoga", "performer": "Nihiloxica"},
+          { "title": "Dark Shark", "performer": "Manuel Fischer"},
+          { "title": "Over The Edge", "performer": "Secretsundaze "},
+          { "title": "Sapphire", "performer": "Jazzuelle"},
+          { "title": "Then You Walked Away", "performer": "The Jayhawks"},
+          { "title": "Sleep On The Wing", "performer": "Bibio"},
+          { "title": "Arc To Time", "performer": "Flug 8"},
+          { "title": "Cole", "performer": "Need For Mirrors"},
+          { "title": "160909313", "performer": "Philip D Kick"},
+          { "title": "Black Gipsy", "performer": "Archie Shepp"},
+          { "title": "The Rooms", "performer": "Jehnny Beth"},
+          { "title": "Dream Appropriate", "performer": "Westerman"}
         ],
         [
+          { "time": "00:04", "title": "Heroin", "performer": "Jehnny Beth"},
+          { "title": "Citizen", "performer": "Flying Horseman"},
+          { "title": "The People", "performer": "Photay"},
+          { "title": "Talk About It", "performer": "Andreya Casablanca"},
+          { "title": "I Told Ya", "performer": "Wargirl"},
+          { "title": "Ello Koko", "performer": "Tigerbalm"},
+          { "title": "Sweet Earth", "performer": "Mile Me Deaf"},
+          { "title": "I Don´t Wanna (Mano Le Tough Remix)", "performer": "Pet Shop Boys"},
+          { "title": "Secret", "performer": "Boddy & Raquet"},
+          { "title": "Mr. Kiwi´s", "performer": "KŒNIG feat. Sensational"},
+          { "title": "A Couple Swim", "performer": "Bibio"},
+          { "title": "Digit", "performer": "Oh No Noh"}
         ]
       ]
     },
@@ -711,10 +787,45 @@
       "date": "2020-06-21",
       "songs": [
         [
+          { "time": "22:04", "title": "Let The Music Decide", "performer": "Faithless"},
+          { "title": "Flip Major", "performer": "Clubkelly"},
+          { "title": "Sugar And Spice", "performer": "Jimi Tenor"},
+          { "title": "International Love Affair (Project Pablo Remix)", "performer": "Kerleketla!"},
+          { "title": "Spiral", "performer": "Mani Festo"},
+          { "title": "Thousand Year Stare", "performer": "Otik"},
+          { "title": "Drifting", "performer": "Secretsundaze"},
+          { "title": "Golden Brown (Fila Brazillia Remix)", "performer": "Better Daze"},
+          { "title": "Go Berri Be Happy", "performer": "Mark Barrott"},
+          { "title": "Scott Street", "performer": "Phoebe Bridgers"},
+          { "title": "The Real Ones", "performer": "TY & Durrty Goodz"},
+          { "title": "Working For The Men", "performer": "Drab City"}
         ],
         [
+          { "time": "23:04", "title": "Follow Your Heart", "performer": "Joe Farrell Quartet"},
+          { "title": "Day´s Eye", "performer": "Soft Machine"},
+          { "title": "Out Of Bounds", "performer": "Kierra Luv"},
+          { "title": "Honey", "performer": "Poundz"},
+          { "title": "Sickness", "performer": "Iann Dior"},
+          { "title": "Goodbye Jimmy Reed", "performer": "Bob Dylan"},
+          { "title": "Big Boss Man", "performer": "Jimmy Reed"},
+          { "title": "Somewhere", "performer": "Gum Country"},
+          { "title": "I Know The End", "performer": "Phoebe Bridgers"},
+          { "title": "Bang To The Bongos", "performer": "Bananagun"},
+          { "title": "Sans Lendemain (One Last Time)", "performer": "Imposs feat. Marie-Mai"},
+          { "title": "Crew Talk", "performer": "Native Cruise"}
         ],
         [
+          { "time": "00:04", "title": "A Tape Called Life", "performer": "Wolf & Moon"},
+          { "title": "This Forgotten Town", "performer": "The Jayhawks"},
+          { "title": "Time Spent In Los Angeles", "performer": "Dawes"},
+          { "title": "Drive Away", "performer": "Ocean Colour Scene"},
+          { "title": "Kyoto", "performer": "Phoebe Bridgers"},
+          { "title": "Like Water", "performer": "DJ Boring"},
+          { "title": "Apache Nights (A Chicken Lips Malfunction)", "performer": "Theus Mago"},
+          { "title": "Walk In Gilded Splinters", "performer": "Marsha Hunt"},
+          { "title": "Hot Mess", "performer": "Genevieve Artadi"},
+          { "title": "Stellar", "performer": "Boddy & Raquet"},
+          { "title": "Catching Fire", "performer": "Jazzuelle"}
         ]
       ]
     },
@@ -724,10 +835,46 @@
       "date": "2020-06-28",
       "songs": [
         [
+          { "time": "22:04", "title": "Spoon", "performer": "Can"},
+          { "title": "Club Cougar", "performer": "Nadine Shah"},
+          { "title": "Future Toyi Toyi", "performer": "Keleketla!"},
+          { "title": "Mushroom Bomb", "performer": "Bananagun"},
+          { "title": "Black Skin Blue Eyed Boys", "performer": "The Equals"},
+          { "title": "Shack Up (Danny Goliger Edit)", "performer": "Banbarra"},
+          { "title": "Sol", "performer": "Timma T"},
+          { "title": "Out Of The Future", "performer": "Geeneus"},
+          { "title": "Crack", "performer": "KUSO GVKI feat. Pornceptual"},
+          { "title": "Cole", "performer": "Need For Mirrors"},
+          { "title": "Under The Wires", "performer": "Pottery"},
+          { "title": "Bobby´s Forecast", "performer": "Pottery"},
+          { "title": "Sludge", "performer": "Squid"},
+          { "title": "I Trust", "performer": "Sofia Portanet"}
         ],
         [
+          { "time": "23:04", "title": "Pills", "performer": "Gum Country"},
+          { "title": "New You", "performer": "My Bloody Valentine"},
+          { "title": "Komorebi (David Morales Red Zone Remix)", "performer": "Tibi Dabo"},
+          { "title": "Access", "performer": "Tuff London"},
+          { "title": "Clap Your Hands", "performer": "C 12"},
+          { "title": "Still Remember", "performer": "Gucci Mane feat. Pooh Shiesty"},
+          { "title": "Hope So", "performer": "J. Lamotta"},
+          { "title": "Ginger Me", "performer": "Rema"},
+          { "title": "1AM", "performer": "Kida Kudz feat. Jaykae"},
+          { "title": "Daughters Of The Sun", "performer": "AfriCali"},
+          { "title": "So We Won´t Forget", "performer": "Khruangbin"}
         ],
         [
+          { "time": "00:04", "title": "First Class", "performer": "Khruangbin"},
+          { "title": "I Talk To The Wind", "performer": "Dana Gavanski"},
+          { "title": "Tear Us Apart", "performer": "Becca Mancari"},
+          { "title": "Something To Rap About", "performer": "Freddie Gibbs & The Alchemist"},
+          { "title": "What Is Real (Deep In The Playa Mix)", "performer": "Rodriguez Jr."},
+          { "title": "Talking Walls", "performer": "Jazzuelle feat. KVRVBO"},
+          { "title": "Accelerated Culture", "performer": "Pinch"},
+          { "title": "Another Day", "performer": "DJ Boring"},
+          { "title": "Ladies For Babies (Goats For Love)", "performer": "Nadine Shah"},
+          { "title": "I´m Not Over You", "performer": "RMR"},
+          { "title": "The Cage", "performer": "L.A. Salami"}
         ]
       ]
     },
