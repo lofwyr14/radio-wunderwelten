@@ -20338,6 +20338,42 @@
       "date": "2020-07-02",
       "songs": [
         [
+          { "time":"22:05", "title": "Airport", "performer": "The Motors"},
+          { "time":"22:09", "title": "La Egypt", "performer": "Vinyl Williams"},
+          { "time":"22:13", "title": "Blanket Of Calm", "performer": "Healing Potpourri"},
+          { "time":"22:16", "title": "Problem Addict", "performer": "Once & Future Band"},
+          { "time":"22:21", "title": "Never Did Look Like Love", "performer": "Nick Corbin"},
+          { "time":"22:25", "title": "How Long", "performer": "Tenant From Zero"},
+          { "time":"22:28", "title": "Engel An Der Wand", "performer": "Ruben Cossani"},
+          { "time":"22:32", "title": "All News Is Good News", "performer": "Surprise Chef"},
+          { "time":"22:37", "title": "Ta Fardah", "performer": "Paint"},
+          { "time":"22:39", "title": "Are We Alone Now", "performer": "Sondre Lerche"},
+          { "time":"22:44", "title": "Under The Radar", "performer": "NAH..."},
+          { "time":"22:49", "title": "Jody", "performer": "A Girl Called Eddy"},
+          { "time":"22:55", "title": "Sunshine Makes Me", "performer": "Joel Sarakula"}
+        ],
+        [
+          { "time":"23:04", "title": "Baby Girl", "performer": "Young Gun Silver Fox"},
+          { "time":"23:08", "title": "Don't Cry", "performer": "The Explorers Club"},
+          { "time":"23:11", "title": "So Beautiful", "performer": "San2 & His Soul Patrol"},
+          { "time":"23:15", "title": "Blue To Red", "performer": "Chip Wickham"},
+          { "time":"23:22", "title": "A Lifetime We", "performer": "Robert Lamm"},
+          { "time":"23:25", "title": "The Colour Of Morning", "performer": "The Fiction Aisle"},
+          { "time":"23:32", "title": "One Dime A Day", "performer": "Ablebody"},
+          { "time":"23:35", "title": "Apricot Princess", "performer": "Rex Orange County"},
+          { "time":"23:39", "title": "Georgy Porgy", "performer": "Paul Andrews"},
+          { "time":"23:44", "title": "Charlotte's Thong", "performer": "Jassbusters"},
+          { "time":"23:54", "title": "(They Long To Be) Close To You", "performer": "Ron Goodwin & His Orchestra"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "521",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-07-09",
+      "songs": [
+        [
         ],
         [
         ]
