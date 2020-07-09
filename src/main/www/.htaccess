@@ -6,3 +6,9 @@ AddOutputFilter INCLUDES .html
 # PermaLinks
 RewriteEngine On
 RewriteRule ^(zwwdp|ta|fiehe|ptw)(-([a-z0-9]+))?\.html$ radio.html
+
+# Auth
+AuthUserFile /mnt/rid/61/26/5146126/htdocs/.htpasswd
+AuthGroupFile /dev/null
+AuthName Radio-Wunderwelten
+AuthType Basic
