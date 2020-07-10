@@ -5,10 +5,11 @@
   "scripts": {
     "tsc": "tsc --target ES2015 --outDir src/main/www/js --moduleResolution node src/main/www/ts/index.ts",
     "___cp-js": "cp src/main/js/*.js target/www/js",
-    "cp-css": "cp -r node_modules/katex/dist/katex.css node_modules/katex/dist/fonts src/main/www/css/",
+    "cp-css": "cp -r node_modules/font-awesome/css/font-awesome.* src/main/www/css/",
+    "cp-fonts": "cp -r node_modules/font-awesome/fonts/* src/main/www/fonts/",
     "browserify": "browserify src/main/www/js/*.js -o src/main/www/js/bundle.js",
     "rollup": "rollup --config rollup.config.js",
-    "build": "npm-run-all tsc cp-css rollup",
+    "build": "npm-run-all tsc cp-css cp-fonts rollup",
     "audit": "npm audit fix",
     "clean": "rm -r target",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +17,10 @@
   "keywords": [],
   "author": "",
   "license": "Apache 2.0",
+  "dependencies": {
+    "font-awesome": "4.7.0"
+  },
   "devDependencies": {
-    "katex": "^0.11.1",
     "lit-html": "^1.1.2",
     "npm-run-all": "^4.1.5",
     "rollup": "^1.31.1",

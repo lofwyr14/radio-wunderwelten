@@ -96,6 +96,14 @@ class Song {
     this.year = song.year;
     this.duration = song.duration;
   }
+
+  get amazon(): string {
+    const search = (this.performer ? this.performer : "")
+        + " " + (this.album ? this.album : "")
+        + " " + (this.title ? this.title : "");
+    return window.encodeURI(
+        `https://www.amazon.de/s/ref=nb_sb_noss?field-keywords=${search}&tag=popecke-21`);
+  }
 }
 
 class SongList {
@@ -203,13 +211,13 @@ ${broadcast.episodesArray.map(e =>
 <div class="form-group">
 
 ${episode.previousId
-        ? html`<a class="btn" href="${broadcast.id}-${episode.previousId}.html" aria-label="Zurück">Zurück</a>`
-        : html`<a class="btn disabled">Zurück</a>`
+        ? html`<a class="btn" href="${broadcast.id}-${episode.previousId}.html" aria-label="Zurück"><i class="fa fa-arrow-left"></i> Zurück</a>`
+        : html`<a class="btn disabled"><i class="fa fa-arrow-left"></i> Zurück</a>`
     }
-<button class="btn" id="link-list-toggle" @click="${this.linkLinkToggle.bind(this)}">Liste</button>
+<button class="btn" id="link-list-toggle" @click="${this.linkLinkToggle.bind(this)}"><i class="fa fa-list"></i> Liste</button>
 ${episode.nextId
-        ? html`<a class="btn" href="${broadcast.id}-${episode.nextId}.html" aria-label="Weiter">Weiter</a>`
-        : html`<a class="btn disabled">Weiter</a>`
+        ? html`<a class="btn" href="${broadcast.id}-${episode.nextId}.html" aria-label="Weiter"><i class="fa fa-arrow-right"></i> Weiter</a>`
+        : html`<a class="btn disabled"><i class="fa fa-arrow-right"></i> Weiter</a>`
     }
 </div>
 <table class="table table-striped">
@@ -235,6 +243,7 @@ ${episode.nextId
     <th class="${episode.songs.hasGenre ? '' : 'd-none'}">Genre</th>
     <th class="${episode.songs.hasYear ? '' : 'd-none'}">Jahr</th>
     <th class="${episode.songs.hasDuration ? '' : 'd-none'}">Dauer</th>
+    <th class="${episode.songs.hasTitle || episode.songs.hasPerformer ? '' : 'd-none'}">Links</th>
   </tr></thead><tbody></tbody></table>`;
   }
 
@@ -249,6 +258,7 @@ ${episode.nextId
 <td class="${episode.songs.hasGenre ? '' : 'd-none'}">${song.genre ? song.genre : ""}</td>
 <td class="${episode.songs.hasYear ? '' : 'd-none'}">${song.year ? song.year : ""}</td>
 <td class="${episode.songs.hasDuration ? '' : 'd-none'}">${song.duration ? song.duration : ""}</td>
+<td class="${song.title || song.performer ? '' : 'd-none'}"><a href="${song.amazon}"><i class="fa fa-amazon"></i></a></td>
 </tr>`;
   }
 
