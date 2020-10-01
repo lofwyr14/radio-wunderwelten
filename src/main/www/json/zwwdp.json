@@ -20374,8 +20374,147 @@
       "date": "2020-07-09",
       "songs": [
         [
+          { "time":"22:04", "title": "It's Nice To Be Nice", "performer": "Pugwash"},
+          { "time":"22:08", "title": "Toking, Dozing", "performer": "Feng Suave"},
+          { "time":"22:12", "title": "Diese Eine Stelle", "performer": "Albrecht Schrader"},
+          { "time":"22:15", "title": "Pleasure Line", "performer": "Video Age"},
+          { "time":"22:20", "title": "Mermaids", "performer": "Andy Pawlak"},
+          { "time":"22:23", "title": "Ouf Of State", "performer": "Ginger Root"},
+          { "time":"22:26", "title": "They Say", "performer": "Hoops"},
+          { "time":"22:33", "title": "17 Over You", "performer": "The Sonic Executive Sessions"},
+          { "time":"22:36", "title": "Mr. Blue Sky", "performer": "Christian Phillips & Karl Morgan"},
+          { "time":"22:40", "title": "Who Will You Choose", "performer": "Snowgoose"},
+          { "time":"22:44", "title": "Best Laid Plans", "performer": "Rush Week"},
+          { "time":"22:48", "title": "No Plans (For This Year)", "performer": "Tugboat Captain"},
+          { "time":"22:57", "title": "Baby Batter", "performer": "Harvey Mandel"}
         ],
         [
+          { "time":"23:04", "title": "Sunshine In", "performer": "Nick Corbin"},
+          { "time":"23:08", "title": "Tears All Over Town", "performer": "A Girl Called Eddy"},
+          { "time":"23:13", "title": "Sunny Moon", "performer": "Vinyl Williams"},
+          { "time":"23:16", "title": "Glittery Sidewalks", "performer": "Healing Potpourri"},
+          { "time":"23:24", "title": "Bells Of St. Augustine", "performer": "Burt Bacharach & Daniel Tashian"},
+          { "time":"23:28", "title": "Spring In Rome", "performer": "Discodor"},
+          { "time":"23:33", "title": "Kaleidoscope", "performer": "Swan Dive"},
+          { "time":"23:35", "title": "I Could Use A Miracle", "performer": "Dent May"},
+          { "time":"23:40", "title": "Victim", "performer": "Yves Jarvis"},
+          { "time":"23:44", "title": "Blueberry Beads", "performer": "John Carroll Kirby"},
+          { "time":"23:52", "title": "2020", "performer": "Ben Folds"},
+          { "time":"23:55", "title": "Hurry To Me", "performer": "The Sandpipers"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "522",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-07-16",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Bring On The Sound (Of Truth & Kindness)", "performer": "Darron Robinson"},
+          { "time":"22:08", "title": "The Perfect Summer", "performer": "Pugwash"},
+          { "time":"22:12", "title": "On Sunset", "performer": "Paul Weller"},
+          { "time":"22:18", "title": "Keep Me In Your Plans", "performer": "Underwater Boys"},
+          { "time":"22:23", "title": "Something In My Eye", "performer": "Matt Berry"},
+          { "time":"22:31", "title": "Les Ondes", "performer": "Orwell"},
+          { "time":"22:35", "title": "Good For You", "performer": "Porridge Radio & Lala Lala"},
+          { "time":"22:43", "title": "Clarity", "performer": "Harvey Sutherland & Bermuda"},
+          { "time":"22:48", "title": "Fall Back", "performer": "Hoops"},
+          { "time":"22:53", "title": "Andromeda", "performer": "Once & Future Band"},
+          { "time":"22:58", "title": "Burn'in", "performer": "The Ncy Milky Band"}
+        ],
+        [
+          { "time":"23:03", "title": "Love Shadow", "performer": "Fashiøn"},
+          { "time":"23:07", "title": "First Class", "performer": "Khruangbin"},
+          { "time":"23:12", "title": "Heavenly Vision", "performer": "Jonathan Bree"},
+          { "time":"23:15", "title": "Wedding Party", "performer": "Fullbloods"},
+          { "time":"23:19", "title": "Rolodex", "performer": "Aidan Knight"},
+          { "time":"23:24", "title": "Queen Of My Soul", "performer": "Average White Band"},
+          { "time":"23:31", "title": "Auf Dem Golfplatz", "performer": "Albrecht Schrader"},
+          { "time":"23:37", "title": "Apple Blossoms", "performer": "Tooli"},
+          { "time":"23:40", "title": "It Feels Good To Be Around You", "performer": "Yumi Zouma feat. Air France"},
+          { "time":"23:44", "title": "Fallin' Rain", "performer": "Father John Misty"},
+          { "time":"23:48", "title": "Keep The Light On", "performer": "The Whitlams"},
+          { "time":"23:51", "title": "The Caroline I Know", "performer": "Aerospace"},
+          { "time":"23:56", "title": "Unnatural Disaster", "performer": "Cut Worms"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "523",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-09-17",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Let's Do It The Way It Ought To Be Done", "performer": "theCatherines"},
+          { "time":"22:07", "title": "No One Holds You (Closer Than The One You Haven't Met)", "performer": "The Lemon Twigs"},
+          { "time":"22:14", "title": "Where Do You Go When You Dream?", "performer": "Woods"},
+          { "time":"22:19", "title": "Sea, Salt & Caramel", "performer": "Dent May"},
+          { "time":"22:22", "title": "Apple Blossoms", "performer": "NAH..."},
+          { "time":"22:26", "title": "Hounds Of Hell", "performer": "The Phoenix Foundation feat. Nadia Reid"},
+          { "time":"22:31", "title": "Something To Lose", "performer": "Better Person"},
+          { "time":"22:35", "title": "Always Silver", "performer": "Kainalu"},
+          { "time":"22:38", "title": "Let Her Go", "performer": "Tear Ducks"},
+          { "time":"22:42", "title": "Where The Wind Never Blew", "performer": "Popincourt"},
+          { "time":"22:46", "title": "Sunday Clothes", "performer": "The Crumble Factory"},
+          { "time":"22:48", "title": "Wichita Lineman", "performer": "The Shawn Lee Rides Again Band"},
+          { "time":"22:53", "title": "Ich Mag Leute!", "performer": "Carsten & Carsten"},
+          { "time":"22:57", "title": "Cavalier", "performer": "Carsten \"Erobique\" Meyer"}
+        ],
+        [
+          { "time":"23:04", "title": "Apparently Nothin'", "performer": "Young Disciples"},
+          { "time":"23:09", "title": "Shadows", "performer": "Zero 7 feat. Lou Stone"},
+          { "time":"23:14", "title": "Price", "performer": "Sebastian Maschat & Erlend Øye"},
+          { "time":"23:18", "title": "Little Chef", "performer": "David Olney mit Martyn Phillips"},
+          { "time":"23:22", "title": "Dreamboat", "performer": "Tooli"},
+          { "time":"23:25", "title": "Never Get Tired (Of Loving You)", "performer": "Luka Kuplowsky"},
+          { "time":"23:29", "title": "Automatic Air", "performer": "Once & Future Band"},
+          { "time":"23:33", "title": "Silk Rock", "performer": "HaHa Sounds Collective feat. Laetitia Sadier"},
+          { "time":"23:39", "title": "I Talk To The Wind", "performer": "Dana Gavanski"},
+          { "time":"23:43", "title": "Adventures", "performer": "Discodor"},
+          { "time":"23:47", "title": "Deep Blue View", "performer": "Jim Noir"},
+          { "time":"23:53", "title": "Come To Me", "performer": "The Yearning feat. Luci Ashbourne"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "524",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-09-24",
+      "songs": [
+        [
+          { "time":"22:04", "title": "More Today Than Yesterday", "performer": "Spiral Starecase"},
+          { "time":"22:07", "title": "Next Time Around", "performer": "Stone Foundation"},
+          { "time":"22:12", "title": "Are We Alright Again", "performer": "Eels"},
+          { "time":"22:15", "title": "Everything At The End Of Everything", "performer": "My Sad Captains"},
+          { "time":"22:20", "title": "Was Denkst Du Über Mich", "performer": "Albrecht Schrader"},
+          { "time":"22:23", "title": "Baby Come On", "performer": "Cut Worms"},
+          { "time":"22:34", "title": "Heavenly Vision", "performer": "Jonathan Bree"},
+          { "time":"22:37", "title": "Theme From \"The Persuaders\"", "performer": "Martin Chung mit Jamie Crossley"},
+          { "time":"22:40", "title": "Next To You And The Sea", "performer": "Woods"},
+          { "time":"22:43", "title": "The Word", "performer": "The Beatles"},
+          { "time":"22:47", "title": "Today", "performer": "The Moons"},
+          { "time":"22:50", "title": "The Only Thing", "performer": "Travis feat. Susanna Hoffs"},
+          { "time":"22:55", "title": "Would It Be Impossible", "performer": "The Superimposers"},
+          { "time":"22:58", "title": "California Dreaming", "performer": "Wes Montgomery"}
+        ],
+        [
+          { "time":"23:04", "title": "Postcard From The Celtic Dreamtime", "performer": "The Waterboys"},
+          { "time":"23:08", "title": "Hotel Sorriso", "performer": "Kraak & Smaak"},
+          { "time":"23:13", "title": "Shooting Star", "performer": "Aaron Taylor feat. Benny Sings"},
+          { "time":"23:15", "title": "Sabbath Bloody Sabbath", "performer": "The Cardigans"},
+          { "time":"23:20", "title": "String Beat", "performer": "Jim Noir"},
+          { "time":"23:24", "title": "Dein Ist Mein Ganzes Herz", "performer": "Lina Maly"},
+          { "time":"23:27", "title": "Dizzy Dizzy World", "performer": "Timmy Thomas"},
+          { "time":"23:32", "title": "Save A Prayer", "performer": "David Mead"},
+          { "time":"23:37", "title": "Write Your Way Out Of Town", "performer": "The Apartments"},
+          { "time":"23:40", "title": "A Perfect End", "performer": "Alpha"},
+          { "time":"23:45", "title": "Days As Echoes", "performer": "Misha Panfilov Sound Combo"},
+          { "time":"23:52", "title": "Candy Says", "performer": "Hot Chip"},
+          { "time":"23:53", "title": "Time For A Change", "performer": "Pokett"},
+          { "time":"23:59", "title": "Good Night", "performer": "The Beatles"}
         ]
       ]
     }
