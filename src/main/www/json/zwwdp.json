@@ -20517,6 +20517,40 @@
           { "time":"23:59", "title": "Good Night", "performer": "The Beatles"}
         ]
       ]
+    },
+    {
+      "id": "525",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-10-01",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Rock The Casbah", "performer": "The Clash"},
+          { "time":"22:07", "title": "Freedom Is You", "performer": "Myles Sanko"},
+          { "time":"22:11", "title": "Good Mood", "performer": "Jim Noir"},
+          { "time":"22:15", "title": "Today", "performer": "The Moons"},
+          { "time":"22:19", "title": "The Late", "performer": "Eggstone"},
+          { "time":"22:22", "title": "Genesis Of Gaea", "performer": "XIXA"},
+          { "time":"22:27", "title": "A Bench In A Park", "performer": "Spearmint"},
+          { "time":"22:32", "title": "Patience", "performer": "Tame Impala"},
+          { "time":"22:37", "title": "It's The Sun", "performer": "Polyphonic Spree"},
+          { "time":"22:41", "title": "Something In My Eye", "performer": "Matt Berry"},
+          { "time":"22:44", "title": "Gooseberry Trees", "performer": "The Crumble Factory"},
+          { "time":"22:47", "title": "Young Man's Game", "performer": "Fleet Foxes"},
+          { "time":"22:50", "title": "New Ferrari", "performer": "Surprise Chef"},
+          { "time":"22:55", "title": "Rock With You", "performer": "Juan Padilla"}
+        ],
+        [
+          { "time":"23:04", "title": "Will You Return / When You Come Down", "performer": "Flaming Lips, The / Nelson, Micah (particle Kid)"},
+          { "time":"23:09", "title": "Somebody Hurt You", "performer": "A Girl Called Eddy"},
+          { "time":"23:14", "title": "La Vénus De 1000 Hommes", "performer": "Le Commandant Couche-Tôt"},
+          { "time":"23:18", "title": "Easy Going Woman", "performer": "Air"},
+          { "time":"23:23", "title": "People", "performer": "Boy Pablo"},
+          { "time":"23:26", "title": "The Windmills Of Your Mind", "performer": "Dorothy Ashby"},
+          { "time":"23:31", "title": "Tell Me Why", "performer": "It's Immaterial"},
+          { "time":"23:46", "title": "Sunset Village", "performer": "Beverly Glenn-Copeland"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
     }
   ]
 }
