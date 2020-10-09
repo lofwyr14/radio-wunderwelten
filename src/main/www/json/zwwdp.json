@@ -20552,5 +20552,46 @@
         ]
       ]
     }
+    },
+    {
+      "id": "526",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-10-08",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Sometimes", "performer": "Nik Kershaw mit Les Rythmes Digitales"},
+          { "time":"22:07", "title": "Help Me", "performer": "Low Cut Connie"},
+          { "time":"22:11", "title": "Breakfast Epiphany", "performer": "Boy Azooga"},
+          { "time":"22:13", "title": "You On My Mind", "performer": "Swing Out Sister"},
+          { "time":"22:20", "title": "Let's Be Good To Each Other", "performer": "Yellow Days"},
+          { "time":"22:22", "title": "Never Gonna Let You Go", "performer": "The Yearning feat. Luci Ashbourne"},
+          { "time":"22:26", "title": "When Love Breaks Down", "performer": "Prefab Sprout"},
+          { "time":"22:32", "title": "All I Want To Do", "performer": "Magic & Naked"},
+          { "time":"22:34", "title": "Heidi's Revenge", "performer": "James Taylor Quartet"},
+          { "time":"22:38", "title": "The Way You Are", "performer": "Alpha feat. Kelvin Swaby"},
+          { "time":"22:41", "title": "Her Three-Year Old Laugh Or The Time The Microphones Played In My Living Room", "performer": "The Very Most"},
+          { "time":"22:45", "title": "Maestranza", "performer": "Fleet Foxes"},
+          { "time":"22:48", "title": "Mizu", "performer": "Eggstone"},
+          { "time":"22:55", "title": "Lax", "performer": "Vulfpeck feat. Joey Dosik"},
+          { "time":"22:58", "title": "Rock With You", "performer": "D'Influence"}
+        ],
+        [
+          { "time":"23:04", "title": "Stormy", "performer": "The Explorers Club"},
+          { "time":"23:09", "title": "Pastel Coloured Warm", "performer": "Mike Gale"},
+          { "time":"23:13", "title": "Yours. To Be", "performer": "Tim Burgess"},
+          { "time":"23:15", "title": "Outline", "performer": "Zero 7 feat. Lou Stone"},
+          { "time":"23:20", "title": "Feeling Like I Like", "performer": "Mocky featuring Liliana Andrade"},
+          { "time":"23:24", "title": "Wasted Kisses", "performer": "Prince & The New Power Geneation"},
+          { "time":"23:28", "title": "Wheat And Tare", "performer": "The Aluminium Group"},
+          { "time":"23:33", "title": "Why Can't We Live Together", "performer": "Shaun Escoffery"},
+          { "time":"23:39", "title": "Le Chant Des Sirènes", "performer": "Le Commandant Couche-Tôt feat. Youka Manuka"},
+          { "time":"23:42", "title": "The Plan", "performer": "The Caper"},
+          { "time":"23:44", "title": "Rainbow In Your Cloud", "performer": "Myles Sanko"},
+          { "time":"23:49", "title": "I Can't Sleep", "performer": "It's Immaterial"},
+          { "time":"23:55", "title": "Shark Butt", "performer": "The Sweet Enoughs"},
+          { "time":"23:57", "title": "Good Night", "performer": "The Beatles"},
+        ]
+      ]
+    }
   ]
 }
