@@ -20551,7 +20551,6 @@
           { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
         ]
       ]
-    }
     },
     {
       "id": "526",
@@ -20589,7 +20588,47 @@
           { "time":"23:44", "title": "Rainbow In Your Cloud", "performer": "Myles Sanko"},
           { "time":"23:49", "title": "I Can't Sleep", "performer": "It's Immaterial"},
           { "time":"23:55", "title": "Shark Butt", "performer": "The Sweet Enoughs"},
+          { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "527",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-10-15",
+      "songs": [
+        [
+          { "time":"21:59", "title": "Blackbird Chain", "performer": "Beck"},
+          { "time":"22:04", "title": "All Stood Still", "performer": "Ultravox"},
+          { "time":"22:08", "title": "The Performer", "performer": "James Righton"},
+          { "time":"22:13", "title": "The Haze", "performer": "David Guez"},
+          { "time":"22:16", "title": "Never In Your Sun", "performer": "Stevie Wonder"},
+          { "time":"22:20", "title": "Do I Have To Do My Best All The Time?", "performer": "The Very Most"},
+          { "time":"22:24", "title": "Deeper Love", "performer": "Stoune Foundation feat. Paul Weller"},
+          { "time":"22:28", "title": "Going Back To My Roots", "performer": "Stone Foundation"},
+          { "time":"22:34", "title": "Back Of My Mind", "performer": "The Autumn Defense"},
+          { "time":"22:37", "title": "Daylight Savings", "performer": "Surprise Chef"},
+          { "time":"22:41", "title": "Anywhere Is Everywhere", "performer": "Hello Forever"},
+          { "time":"22:43", "title": "Central Time", "performer": "Vansire feat. Mick Jenkins"},
+          { "time":"22:47", "title": "While You See A Chance", "performer": "Steve Winwood"},
+          { "time":"22:53", "title": "I Don't Mind", "performer": "EchoWave"},
+          { "time":"22:57", "title": "Pili-Pili", "performer": "Pili-Pili"}
+        ],
+        [
+          { "time":"23:04", "title": "Still Tossin And Turnin", "performer": "Tuck & Patti"},
+          { "time":"23:13", "title": "Red Wine & Swimming", "performer": "Handsome Shirt"},
+          { "time":"23:16", "title": "Orpheus Beach", "performer": "The Clientele"},
+          { "time":"23:19", "title": "Blue Umbrella", "performer": "Burt Bacharach & Daniel Tashian"},
+          { "time":"23:24", "title": "Finest Actor", "performer": "A Girl Called Eddy"},
+          { "time":"23:28", "title": "Stardust", "performer": "Luka Kuplowsky"},
+          { "time":"23:34", "title": "Always", "performer": "Rex Orange County"},
+          { "time":"23:39", "title": "The Burglars", "performer": "Lee Holdridge and his Orchestra"},
+          { "time":"23:43", "title": "Gleis 10", "performer": "Kraan"},
+          { "time":"23:48", "title": "Poinciana", "performer": "Vulfpeck"},
+          { "time":"23:50", "title": "Ouf Of State", "performer": "Ginger Root"},
+          { "time":"23:53", "title": "Velvet Nights", "performer": "The Sound of Pop Art"},
           { "time":"23:57", "title": "Good Night", "performer": "The Beatles"},
+          { "time":"00:05", "title": "You Don't Know Me", "performer": "Ray Charles & Diana Krall"}
         ]
       ]
     }
