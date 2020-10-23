@@ -20598,7 +20598,6 @@
       "date": "2020-10-15",
       "songs": [
         [
-          { "time":"21:59", "title": "Blackbird Chain", "performer": "Beck"},
           { "time":"22:04", "title": "All Stood Still", "performer": "Ultravox"},
           { "time":"22:08", "title": "The Performer", "performer": "James Righton"},
           { "time":"22:13", "title": "The Haze", "performer": "David Guez"},
@@ -20628,6 +20627,41 @@
           { "time":"23:50", "title": "Ouf Of State", "performer": "Ginger Root"},
           { "time":"23:53", "title": "Velvet Nights", "performer": "The Sound of Pop Art"},
           { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
+    },
+    {
+      "id": "528",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-10-22",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Sowing The Seeds Of Love", "performer": "Tears For Fears"},
+          { "time":"22:11", "title": "Deeper Love", "performer": "Stoune Foundation feat. Paul Weller"},
+          { "time":"22:17", "title": "The Man Who Sold The World", "performer": "David Bowie"},
+          { "time":"22:20", "title": "Valley", "performer": "Jaguwar"},
+          { "time":"22:25", "title": "All These People", "performer": "Mister Fusty"},
+          { "time":"22:29", "title": "Departure", "performer": "Pictured Resort"},
+          { "time":"22:38", "title": "New Data New Day", "performer": "8X8"},
+          { "time":"22:45", "title": "A Long Day", "performer": "Orwell"},
+          { "time":"22:48", "title": "Pop Muzik", "performer": "The Divine Comedy"},
+          { "time":"22:53", "title": "Come Home Billy Bird", "performer": "The Divine Comedy"},
+          { "time":"22:58", "title": "Got Caught In Amsterdam", "performer": "Arc De Soleil"}
+        ],
+        [
+          { "time":"23:05", "title": "Mind Games", "performer": "John Lennon"},
+          { "time":"23:09", "title": "The Realist", "performer": "Lanterns On The Lake"},
+          { "time":"23:13", "title": "L'amour De L'escargot", "performer": "Sloe Paul feat. Vitiko Schell"},
+          { "time":"23:17", "title": "Central Time", "performer": "Vansire feat. Mick Jenkins"},
+          { "time":"23:21", "title": "Nuit De Satin", "performer": "Dopamoon feat. Soleil Bleu"},
+          { "time":"23:24", "title": "Endless Sun", "performer": "Handsome Shirt"},
+          { "time":"23:28", "title": "I <3 U", "performer": "Boy Pablo"},
+          { "time":"23:35", "title": "No Plans (For This Year)", "performer": "Tugboat Captain"},
+          { "time":"23:39", "title": "Colors", "performer": "Black Pumas"},
+          { "time":"23:43", "title": "Long Weekend", "performer": "Jeremy Fratti & Ian McLeod Fat Night feat. Michael Besedick"},
+          { "time":"23:50", "title": "The Wayward Orchestrion", "performer": "Musée Mécanique"},
+          { "time":"23:55", "title": "Everything", "performer": "Gotts Street Park feat. Rosie Lowe"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
         ]
       ]
     }
