@@ -20664,6 +20664,44 @@
           { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
         ]
       ]
+    },
+    {
+      "id": "529",
+      "title": "Zeiglers wunderbare Welt des Pop",
+      "date": "2020-10-29",
+      "songs": [
+        [
+          { "time":"22:04", "title": "Mahalia", "performer": "The Bible!"},
+          { "time":"22:09", "title": "I Don't Mind", "performer": "EchoWave"},
+          { "time":"22:13", "title": "Over You", "performer": "Aaron Frazer"},
+          { "time":"22:15", "title": "Freedom Starts!", "performer": "Stone Foundation"},
+          { "time":"22:20", "title": "Better Fight Fighting", "performer": "The Very Most feat. Sally Jati"},
+          { "time":"22:23", "title": "Just Can't Get Enough", "performer": "The Divine Comedy"},
+          { "time":"22:26", "title": "Washing Day", "performer": "Surprise Chef"},
+          { "time":"22:32", "title": "In Love Again", "performer": "Yukon Blonde"},
+          { "time":"22:36", "title": "Nihilist Kite Flyer", "performer": "Loving"},
+          { "time":"22:40", "title": "I Hope She Loves Me Back", "performer": "Boy Pablo"},
+          { "time":"22:43", "title": "Hounds Of Hell", "performer": "The Phoenix Foundation feat. Nadia Reid"},
+          { "time":"22:47", "title": "Magnificent Obsession", "performer": "Fehlfarben"},
+          { "time":"22:52", "title": "Personality", "performer": "Pynkie"},
+          { "time":"22:57", "title": "Quiet Skies", "performer": "Mister Fusty"}
+        ],
+        [
+          { "time":"23:04", "title": "Talking Back To The Night", "performer": "Steve Winwood"},
+          { "time":"23:10", "title": "Red Wine & Swimming", "performer": "Handsome Shirt"},
+          { "time":"23:13", "title": "The Return", "performer": "Bells Fell Silent"},
+          { "time":"23:17", "title": "Green Eyes", "performer": "Arlo Parks"},
+          { "time":"23:21", "title": "The Higher Ground", "performer": "David Guez"},
+          { "time":"23:27", "title": "Fall In A Daydream", "performer": "Louis Philippe & The Night Mail"},
+          { "time":"23:31", "title": "Where Is Our Love Song", "performer": "Stevie Wonder feat. Gary Clark Jr."},
+          { "time":"23:35", "title": "Golden Lady", "performer": "Lambchop"},
+          { "time":"23:39", "title": "Sloth And Chunk (In The Man From Comet)", "performer": "Blue States"},
+          { "time":"23:43", "title": "Nightbirds", "performer": "8X8"},
+          { "time":"23:48", "title": "Never Get Tired (Of Loving You)", "performer": "Luka Kuplowsky"},
+          { "time":"23:52", "title": "Montara", "performer": "Blue Lab Beats"},
+          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+        ]
+      ]
     }
   ]
 }
