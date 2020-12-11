@@ -1,6 +1,8 @@
 #! /bin/bash
 
-id=126
+# vermutlich immer um 2 erhöhen
+
+id=138
 
 curl -o zwwdp-${id}.html https://www.bremenzwei.de/sendungen/zeiglers-wunderbare-welt-des-pop-${id}.html
 
