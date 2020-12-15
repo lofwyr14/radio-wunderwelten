@@ -20896,10 +20896,34 @@
       "id": "535",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-12-10",
-      "x____songs": [
+      "songs": [
         [
+          { "time":"22:05", "title": "The Performer", "performer": "James Righton"},
+          { "time":"22:09", "title": "Joni Was A Rebel", "performer": "Jello 64"},
+          { "time":"22:14", "title": "Losers", "performer": "Balthazar"},
+          { "time":"22:17", "title": "Diese Eine Stelle", "performer": "Albrecht Schrader"},
+          { "time":"22:21", "title": "Ways", "performer": "TrashCan Sinatras"},
+          { "time":"22:25", "title": "Been Around", "performer": "A Girl Called Eddy"},
+          { "time":"22:31", "title": "Ich Mag Leute!", "performer": "Carsten & Carsten"},
+          { "time":"22:34", "title": "Who Will You Choose", "performer": "Snowgoose"},
+          { "time":"22:38", "title": "You Are Not Who I Thought I Was/Reißt Ab!", "performer": "Sondre Lerche"},
+          { "time":"22:48", "title": "Please Tell Me", "performer": "Valérie Etienne"},
+          { "time":"22:50", "title": "Victim", "performer": "Yves Jarvis"},
+          { "time":"22:56", "title": "On Sunset", "performer": "Paul Weller"}
         ],
         [
+          { "time":"23:05", "title": "Kids", "performer": "Young Gun Silver Fox"},
+          { "time":"23:08", "title": "Pleasure Line", "performer": "Video Age"},
+          { "time":"23:12", "title": "Her Three-Year Old Laugh Or The Time The Microphones Played In My Living Room", "performer": "The Very Most"},
+          { "time":"23:15", "title": "Rio Grande", "performer": "Louis Philippe & The Night Mail"},
+          { "time":"23:20", "title": "Jamais Assez", "performer": "Orwell"},
+          { "time":"23:28", "title": "Rolodex", "performer": "Aidan Knight"},
+          { "time":"23:34", "title": "Waiting For Grace", "performer": "Marker Starling feat. Laetitia Sadier"},
+          { "time":"23:38", "title": "Deacon Blues", "performer": " Bill Callahan & Bonnie \"Prince\" Billy feat. Bill MacKay"},
+          { "time":"23:46", "title": "Someone's Gotta Help Me Out", "performer": "Justin Lucas"},
+          { "time":"23:49", "title": "Miserable Meal", "performer": "The Phoenix Foundation & New Zealand Symphony Orchestra"},
+          { "time":"23:52", "title": "Never Give All The Heart", "performer": "Popincourt"},
+          { "time":"23:57", "title": "Heavenly Vision", "performer": "Jonathan Bree"}
         ]
       ]
     }
