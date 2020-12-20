@@ -1164,6 +1164,7 @@
             this.id = episode.id;
             this.title = episode.title;
             this.date = episode.date ? new Date(Date.parse(episode.date)) : null;
+            this.comment = episode.comment;
             this.songs = new SongList(episode.songs);
         }
         get dateFormat() {
@@ -1301,7 +1302,9 @@
             this.querySelector("#link-list").classList.toggle("d-none");
         }
         html1(broadcast, episode) {
-            return html `<radio-title show="${broadcast.show}" date="${episode.dateFormat}" type="Playlist" station="${broadcast.station}"></radio-title>
+            return html `<radio-title show="${broadcast.show}" date="${episode.dateFormat}" station="${broadcast.station}"></radio-title>
+<h5>${episode.comment}</h5>
+<h3>Playlist</h3>
 <nav id="link-list" class="small d-none">
 ${broadcast.episodesArray.map(e => html `<a href="${broadcast.id}-${e.id}.html">${e.dateFormat} (${e.songs.list.length} Titel)</a> `)}
 </nav>
@@ -1400,8 +1403,7 @@ ${episode.nextId
         ;
         get date() { return this.getAttribute("date"); }
         ;
-        get type() { return this.getAttribute("type"); }
-        ;
+        // get type(): string{return this.getAttribute("type")};
         get station() { return this.getAttribute("station"); }
         ;
         constructor() {
@@ -1411,7 +1413,7 @@ ${episode.nextId
             const title = `${this.show} vom ${this.date} auf ${this.station}`;
             const rootNode = this.getRootNode();
             rootNode.querySelector("head title").innerHTML = title;
-            render(html `<h1>${title}</h1><h3>${this.type}</h3>`, this);
+            render(html `<h2>${title}</h2>`, this);
         }
     }
     document.addEventListener("DOMContentLoaded", function (event) {
