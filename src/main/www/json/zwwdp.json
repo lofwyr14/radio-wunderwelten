@@ -20858,8 +20858,6 @@
       "id": "534",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-12-03",
-      "comment": "Best Of 2020",
-      "_checked": "in Arbeit",
       "songs": [
         [
           { "time":"22:04", "title": "Got None", "performer": "Robert Post"},
@@ -20898,6 +20896,8 @@
       "id": "535",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-12-10",
+      "comment": "Best Of 2020",
+      "_checked": "in Arbeit",
       "songs": [
         [
           { "time":"22:05", "title": "The Performer", "performer": "James Righton"},
