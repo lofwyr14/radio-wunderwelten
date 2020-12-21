@@ -5,14 +5,13 @@
   <title>Radio Wunderwelten</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/bootstrap.min.css"
-        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh">
-  <link rel="stylesheet" href="css/font-awesome.css">
+  <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1"/>
 </head>
 <body>
 
-<header>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+<header class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="container-xxl flex-wrap flex-md-nowrap">
     <a class="navbar-brand" href="/">Radio Wunderwelten</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,15 +36,17 @@
   </nav>
 </header>
 
-<div class="container-fluid">
+<!-- FIXME das mod_rewrite bekriegt sich mit dem SSI, daher hier kein Raute-Include -->
+
+<div class="container">
   <radio-songs space="zwwdp"></radio-songs>
 </div>
 
+<!-- FIXME das mod_rewrite bekriegt sich mit dem SSI, daher hier kein Raute-Include -->
+
 <script src="js/index.js" type="module"></script>
-<script src="js/jquery-3.4.1.slim.min.js"
-        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"></script>
-<script src="js/bootstrap.min.js"
-        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"></script>
+<script src="js/bootstrap.bundle.min.js"
+        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"></script>
 
 </body>
 </html>

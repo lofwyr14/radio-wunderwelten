@@ -2,32 +2,62 @@ import {html, render} from "lit-html";
 
 class Broadcast {
 
+  /** episode id */
   id: string;
+
+  /** title */
   title: string;
+
+  /**
+   * map: episode id -> episode
+   */
   episodes: Map<string, Episode>;
-  newestEpisode: Episode;
+
+  /**
+   * map: year -> list of episodes
+   * - year as string e.g. "2000", or "unknown"
+   * - list of all episodes of this year
+   */
+  years: Map<string, Episode[]>;
+
+  /** the latest episode */
+  latestEpisode: Episode;
 
   constructor(broadcast: any) {
     this.id = broadcast.id;
     this.title = broadcast.title;
     this.episodes = new Map();
+    this.years = new Map();
     let previous;
     broadcast.episodes.forEach((episode: any) => {
       const e = new Episode(episode);
       this.episodes.set(episode.id, e);
       if (e.songs.list.length > 0) { // newest with songs
-        this.newestEpisode = e;
+        this.latestEpisode = e;
       }
       if (previous) {
         previous.nextId = e.id;
         e.previousId = previous.id;
       }
       previous = e;
+
+      const year = e.date ? e.date.getFullYear().toString() : "unknown";
+      let list = this.years.get(year);
+      if (list) {
+        list.push(e);
+      } else {
+        list = [e];
+        this.years.set(year, list);
+      }
     });
   }
 
   get episodesArray(): Episode[] {
     return Array.from(this.episodes.values());
+  }
+
+  get yearsArray(): string[] {
+    return Array.from(this.years.keys());
   }
 
   // todo: Im Datenmodel besser modelieren: show vs. sender
@@ -223,32 +253,44 @@ class Radio extends HTMLElement {
     }
   }
 
-  linkLinkToggle(event: MouseEvent) {
-    this.querySelector("#link-list").classList.toggle("d-none");
-  }
-
   private html1(broadcast: Broadcast, episode: Episode) {
 
-    return html`<radio-title show="${broadcast.show}" date="${episode.dateFormat}" station="${broadcast.station}"></radio-title>
+    return html`
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+${episode.previousId
+        ? html`<a class="nav-link" href="${broadcast.id}-${episode.previousId}.html" aria-label="Zurück"><i class="fa fa-arrow-left"></i> Zurück</a>`
+        : html`<a class="nav-link disabled"><i class="fa fa-arrow-left"></i> Zurück</a>`
+    }
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#yearDropdown" aria-controls="yearDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="yearDropdown">
+      <ul class="navbar-nav">
+${broadcast.yearsArray.map((year) => html`
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="yearDropdownMenuLink-${year}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            ${year}
+          </a>
+          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="yearDropdownMenuLink-${year}">
+${broadcast.years.get(year).map(e =>
+        html`<li><a class="dropdown-item" href="${broadcast.id}-${e.id}.html">${e.dateFormat} (${e.songs.list.length} Titel)</a></li> `
+    )}
+          </ul>
+        </li>
+`)}
+      </ul>
+    </div>
+${episode.nextId
+        ? html`<a class="nav-link" href="${broadcast.id}-${episode.nextId}.html" aria-label="Weiter"><i class="fa fa-arrow-right"></i> Weiter</a>`
+        : html`<a class="nav-link disabled"><i class="fa fa-arrow-right"></i> Weiter</a>`
+    }
+  </div>
+</nav>
+<radio-title show="${broadcast.show}" date="${episode.dateFormat}" station="${broadcast.station}"></radio-title>
 <h5>${episode.comment}</h5>
 <h3>Playlist</h3>
-<nav id="link-list" class="small d-none">
-${broadcast.episodesArray.map(e =>
-        html`<a href="${broadcast.id}-${e.id}.html">${e.dateFormat} (${e.songs.list.length} Titel)</a> `
-    )}
-</nav>
-<div class="form-group">
 
-${episode.previousId
-        ? html`<a class="btn" href="${broadcast.id}-${episode.previousId}.html" aria-label="Zurück"><i class="fa fa-arrow-left"></i> Zurück</a>`
-        : html`<a class="btn disabled"><i class="fa fa-arrow-left"></i> Zurück</a>`
-    }
-<button class="btn" id="link-list-toggle" @click="${this.linkLinkToggle.bind(this)}"><i class="fa fa-list"></i> Liste</button>
-${episode.nextId
-        ? html`<a class="btn" href="${broadcast.id}-${episode.nextId}.html" aria-label="Weiter"><i class="fa fa-arrow-right"></i> Weiter</a>`
-        : html`<a class="btn disabled"><i class="fa fa-arrow-right"></i> Weiter</a>`
-    }
-</div>
 <table class="table table-striped">
 <colgroup>
 <col/>
@@ -318,7 +360,7 @@ ${episode.nextId
         .then(broadcast => {
 
           // Auswählen der Song-Tabelle für die 1. Episode
-          const episode = this.episodeId ? broadcast.episodes.get(this.episodeId) : broadcast.newestEpisode;
+          const episode = this.episodeId ? broadcast.episodes.get(this.episodeId) : broadcast.latestEpisode;
 
           render(this.html1(broadcast, episode), this);
 

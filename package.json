@@ -5,11 +5,13 @@
   "scripts": {
     "tsc": "tsc --target ES2015 --outDir src/main/www/js --moduleResolution node src/main/www/ts/index.ts",
     "___cp-js": "cp src/main/js/*.js target/www/js",
-    "cp-css": "cp -r node_modules/font-awesome/css/font-awesome.* src/main/www/css/",
+    "cp-css": "cp node_modules/font-awesome/css/font-awesome.* src/main/www/css/",
+    "cp-bs-css": "cp node_modules/bootstrap/dist/css/bootstrap.min.css* src/main/www/css/",
+    "cp-bs-js": "cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.js* src/main/www/js/",
     "cp-fonts": "cp -r node_modules/font-awesome/fonts/* src/main/www/fonts/",
     "browserify": "browserify src/main/www/js/*.js -o src/main/www/js/bundle.js",
     "rollup": "rollup --config rollup.config.js",
-    "build": "npm-run-all tsc cp-css cp-fonts rollup",
+    "build": "npm-run-all tsc cp-css cp-bs-css cp-bs-js cp-fonts rollup",
     "audit": "npm audit fix",
     "clean": "rm -r target",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,10 +20,11 @@
   "author": "",
   "license": "Apache 2.0",
   "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
     "font-awesome": "4.7.0"
   },
   "devDependencies": {
-    "lit-html": "^1.1.2",
+    "lit-html": "^1.3.0",
     "npm-run-all": "^4.1.5",
     "rollup": "^1.31.1",
     "@rollup/plugin-node-resolve": "^7.1.1",
