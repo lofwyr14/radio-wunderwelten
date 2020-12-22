@@ -213,20 +213,45 @@ class SongList {
   }
 }
 
-class Radio extends HTMLElement {
+class RadioApplication extends HTMLElement {
 
-  private readonly PERMA_LINK = /\/(zwwdp|ta|fiehe|ptw)(-([a-z0-9]+))?\.html/;
+  private static readonly PERMA_LINK = /\/(zwwdp|ta|fiehe|ptw)(-([a-z0-9]+))?\.html/;
+
+  private broadcast: Broadcast;
+  private dirty: boolean = false;
 
   constructor() {
     super();
     console.info("Radio constructor!");
+    this.addEventListener("radio.update", this.update.bind(this));
   }
 
   connectedCallback() {
-    this.renderBroadcast();
+    console.info("connectedCallback()");
+    this.parseUrl();
+  }
 
-    // const template = this.test("Yeah!");
-    // render(template, document.body);
+  attributeChangedCallback(name: string, oldValue: any, newValue: any) {
+    console.info("attributeChangedCallback", name, oldValue, newValue);
+    switch (name) {
+      case "space":
+        if (oldValue !== newValue) {
+          this.fetchBroadcast();
+          this.dirty = true;
+        }
+        break;
+      case "episode-id":
+        if (oldValue !== newValue) {
+          this.dirty = true;
+        }
+        break;
+    }
+    this.dispatchEvent(new CustomEvent("radio.update"));
+    console.info("attributeChangedCallback END, this.space, this.episodeId, this.dirty", this.space, this.episodeId, this.dirty);
+  }
+
+  static get observedAttributes() {
+    return ["space", "episode-id"];
   }
 
   get space(): string {
@@ -242,39 +267,59 @@ class Radio extends HTMLElement {
   }
 
   get episodeId(): string {
-    return this.getAttribute("episodeId");
+    return this.getAttribute("episode-id");
   }
 
   set episodeId(episodeId: string) {
     if (episodeId) {
-      this.setAttribute("episodeId", episodeId);
+      this.setAttribute("episode-id", episodeId);
     } else {
-      this.removeAttribute("episodeId");
+      this.removeAttribute("episode-id");
     }
   }
 
-  private html1(broadcast: Broadcast, episode: Episode) {
+  /** get the current/selected episode */
+  get episode() : Episode {
+    return this.broadcast
+        ? this.episodeId
+            ? this.broadcast.episodes.get(this.episodeId)
+            : this.broadcast.latestEpisode
+        : null;
+  }
+
+  private html1() {
+    const broadcast = this.broadcast;
+    const episode = this.episode;
+    console.info("html1", broadcast, episode)
+
+    if (!broadcast || !episode) {
+      return html`<h2>Lade Daten...</h2>`
+    }
 
     return html`
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
 ${episode.previousId
-        ? html`<a class="nav-link" href="${broadcast.id}-${episode.previousId}.html" aria-label="Zurück"><i class="fa fa-arrow-left"></i> Zurück</a>`
-        : html`<a class="nav-link disabled"><i class="fa fa-arrow-left"></i> Zurück</a>`
+        ? html`<a class="nav-link" href="${broadcast.id}-${episode.previousId}.html" 
+@click="${this.navigate.bind(this)}" title="Zurück" aria-label="Zurück"><i class="fa fa-arrow-left"></i></a>`
+        : html`<a class="nav-link disabled"><i class="fa fa-arrow-left"></i></a>`
     }
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#yearDropdown" aria-controls="yearDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#yearDropdown" 
+        aria-controls="yearDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="yearDropdown">
       <ul class="navbar-nav">
 ${broadcast.yearsArray.map((year) => html`
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="yearDropdownMenuLink-${year}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="#" id="yearDropdownMenuLink-${year}" role="button" 
+              data-bs-toggle="dropdown" aria-expanded="false">
             ${year}
           </a>
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="yearDropdownMenuLink-${year}">
 ${broadcast.years.get(year).map(e =>
-        html`<li><a class="dropdown-item" href="${broadcast.id}-${e.id}.html">${e.dateFormat} (${e.songs.list.length} Titel)</a></li> `
+        html`<li><a class="dropdown-item" href="${broadcast.id}-${e.id}.html" 
+@click="${this.navigate.bind(this)}">${e.dateFormat} (${e.songs.list.length} Titel)</a></li> `
     )}
           </ul>
         </li>
@@ -282,13 +327,15 @@ ${broadcast.years.get(year).map(e =>
       </ul>
     </div>
 ${episode.nextId
-        ? html`<a class="nav-link" href="${broadcast.id}-${episode.nextId}.html" aria-label="Weiter"><i class="fa fa-arrow-right"></i> Weiter</a>`
-        : html`<a class="nav-link disabled"><i class="fa fa-arrow-right"></i> Weiter</a>`
+        ? html`<a class="nav-link" href="${broadcast.id}-${episode.nextId}.html" 
+@click="${this.navigate.bind(this)}" title="Weiter" aria-label="Weiter"><i class="fa fa-arrow-right"></i></a>`
+        : html`<a class="nav-link disabled"><i class="fa fa-arrow-right"></i></a>`
     }
   </div>
 </nav>
-<radio-title show="${broadcast.show}" date="${episode.dateFormat}" station="${broadcast.station}"></radio-title>
+<h1>${broadcast.show} vom ${episode.dateFormat}</h1>
 <h5>${episode.comment}</h5>
+<h5>Sender: ${broadcast.station}</h5>
 <h3>Playlist</h3>
 
 <table class="table table-striped">
@@ -337,8 +384,8 @@ ${episode.nextId
 </tr>`;
   }
 
-  private renderBroadcast() {
-    const result = window.location.pathname.match(this.PERMA_LINK);
+  private parseUrl() {
+    const result = window.location.pathname.match(RadioApplication.PERMA_LINK);
     if (result && result.length >= 3) {
       if (result[1]) {
         this.space = result[1];
@@ -348,56 +395,76 @@ ${episode.nextId
       if (result[3]) {
         this.episodeId = result[3];
       } else {
-        // todo: may inialized better
         this.episodeId = null;
       }
     }
+  }
 
+  private fetchBroadcast() {
     const location = `json/${this.space}.json`;
     window.fetch(location)
         .then(response => response.json())
         .then((json: any) => new Broadcast(json))
         .then(broadcast => {
-
-          // Auswählen der Song-Tabelle für die 1. Episode
-          const episode = this.episodeId ? broadcast.episodes.get(this.episodeId) : broadcast.latestEpisode;
-
-          render(this.html1(broadcast, episode), this);
-
-          const table = this.querySelector("tbody");
-          table.innerHTML = "";
-          episode.songs.list.forEach(song => {
-            table.insertAdjacentHTML("beforeend",
-                this.html2(episode, song));
-          });
+          this.broadcast = broadcast;
+          const episode1
+              = broadcast.episodes.get(this.episodeId);
+          console.warn("***", location, episode1);
+          if (!episode1) {
+            this.episodeId = broadcast.latestEpisode.id;
+          }
+          this.dirty = true;
+          this.dispatchEvent(new CustomEvent("radio.update"));
         });
   }
-}
 
-document.addEventListener("DOMContentLoaded", function (event) {
-  window.customElements.define("radio-songs", Radio);
-});
-
-class RadioTitle extends HTMLElement {
-
- get show(): string{return this.getAttribute("show")};
- get date(): string{return this.getAttribute("date")};
- // get type(): string{return this.getAttribute("type")};
- get station(): string{return this.getAttribute("station")};
-
-  constructor() {
-    super();
+  private update(event: CustomEvent) {
+    console.info("update dirty =  und episodeId = ", this.dirty, this.episodeId);
+    if (this.dirty) {
+      this.renderBroadcast();
+      this.dirty = false;
+    }
   }
 
-  connectedCallback() {
-    const title = `${this.show} vom ${this.date} auf ${this.station}`;
+  private renderBroadcast() {
+
+    console.info("render html1");
+    render(this.html1(), this);
+
+    console.info("render html2");
+    const table = this.querySelector("tbody");
+    if (table) {
+      table.innerHTML = "";
+      const episode = this.episode;
+      episode.songs.list.forEach(song => {
+        table.insertAdjacentHTML("beforeend",
+            this.html2(episode, song));
+      });
+    }
+
+    this.syncTitle();
+    console.info("render end");
+  }
+
+  private syncTitle() {
     const rootNode = this.getRootNode() as ShadowRoot | Document;
-    rootNode.querySelector("head title").innerHTML = title;
-    render(html`<h2>${title}</h2>`, this);
+    const title = rootNode.querySelector("head title");
+    const h1 = this.querySelector("h1");
+    if (title && h1) {
+      title.innerHTML = h1.innerText;
+    }
   }
 
+  private navigate(event: MouseEvent): void {
+    // idea from https://developers.google.com/search/docs/guides/javascript-seo-basics#use-history-api
+    event.preventDefault();
+    const target = event.currentTarget as HTMLAnchorElement;
+    const href = target.href;
+    window.history.pushState({}, document.title, href) // Update URL as well as browser history.
+    this.parseUrl();
+  }
 }
 
 document.addEventListener("DOMContentLoaded", function (event) {
-  window.customElements.define("radio-title", RadioTitle);
+  window.customElements.define("radio-application", RadioApplication);
 });
