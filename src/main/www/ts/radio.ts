@@ -8,47 +8,97 @@ class Broadcast {
   /** title */
   title: string;
 
-  /**
-   * map: episode id -> episode
-   */
-  episodes: Map<string, Episode>;
+  /** radio station */
+  station: string;
+
+  /** moderator */
+  moderator: string;
 
   /**
-   * map: year -> list of episodes
-   * - year as string e.g. "2000", or "unknown"
-   * - list of all episodes of this year
+   * map: group id -> group
    */
-  years: Map<string, Episode[]>;
+  groups: Map<string, Group>;
 
-  /** the latest episode */
+  /** the latest episode with data */
   latestEpisode: Episode;
 
   constructor(broadcast: any) {
     this.id = broadcast.id;
     this.title = broadcast.title;
-    this.episodes = new Map();
-    this.years = new Map();
-    let previous;
-    broadcast.episodes.forEach((episode: any) => {
-      const e = new Episode(episode);
-      this.episodes.set(episode.id, e);
-      if (e.songs.list.length > 0) { // newest with songs
-        this.latestEpisode = e;
-      }
-      if (previous) {
-        previous.nextId = e.id;
-        e.previousId = previous.id;
-      }
-      previous = e;
+    this.station = broadcast.station;
+    this.moderator = broadcast.moderator;
+    this.groups = new Map();
+    // this.years = new Map();
+    broadcast.groups.forEach((group: any) => {
 
-      const year = e.date ? e.date.getFullYear().toString() : "unknown";
-      let list = this.years.get(year);
-      if (list) {
-        list.push(e);
-      } else {
-        list = [e];
-        this.years.set(year, list);
+      if (this.groups.has(group.id)) {
+        throw new Error(`Duplicate group id error: id='${group.id}'.`)
       }
+
+      const g = new Group(group, this);
+      this.groups.set(group.id, g);
+
+      // const year = e.date ? e.date.getFullYear().toString() : "unknown";
+      // let list = this.years.get(year);
+      // if (list) {
+      //   list.push(e);
+      // } else {
+      //   list = [e];
+      //   this.years.set(year, list);
+      // }
+    });
+
+    let previous: Episode;
+    this.groups.forEach((group: Group) => {
+      group.episodes.forEach((episode: Episode) => {
+        if (previous) {
+          previous.nextId = episode.group.id + "-" + episode.id;
+          episode.previousId = previous.group.id + "-" + previous.id;
+        }
+        previous = episode;
+        if (episode.songs.list.length > 0) {
+          this.latestEpisode = previous;
+        }
+      });
+    });
+
+  }
+
+  get groupsArray(): string[] {
+    return Array.from(this.groups.keys());
+  }
+
+  get show(): string {
+    return this.title;
+  }
+}
+
+class Group {
+  id: string;
+  title: string;
+  broadcast: Broadcast;
+  station: string;
+
+  /**
+   * map: episode id -> episode
+   */
+  episodes: Map<string, Episode>;
+
+  constructor(group: any, broadcast: Broadcast) {
+    this.broadcast = broadcast;
+    this.id = group.id;
+    this.title = group.title;
+    this.station = group.station;
+    this.episodes = new Map();
+    // let previous: Episode;
+    group.episodes.forEach((episode: any) => {
+
+      if (this.episodes.has(episode.id)) {
+        throw new Error(`Duplicate episode id error: id='${episode.id}'.`)
+      }
+
+      const e = new Episode(episode, this);
+      this.episodes.set(episode.id, e);
     });
   }
 
@@ -56,26 +106,22 @@ class Broadcast {
     return Array.from(this.episodes.values());
   }
 
-  get yearsArray(): string[] {
-    return Array.from(this.years.keys());
+  get titleDisplay():string {
+    if (this.title) {
+      return this.title;
+    } else {
+      return this.broadcast.title;
+    }
   }
 
-  // todo: Im Datenmodel besser modelieren: show vs. sender
-  get show(): string {
-    const separator = this.title.indexOf(" - ");
-    if (separator > 0) {
-      return this.title.substring(0, separator);
+  get stationDisplay():string {
+    if (this.station) {
+      return this.station;
+    } else {
+      return this.broadcast.station;
     }
-    return this.title;
   }
 
-  get station():string {
-    const separator = this.title.indexOf(" - ");
-    if (separator > 0) {
-      return this.title.substring(separator + 3);
-    }
-    return null;
-  }
 }
 
 class Episode {
@@ -86,8 +132,10 @@ class Episode {
   songs: SongList;
   nextId: string;
   previousId: string;
+  group: Group;
 
-  constructor(episode: any) {
+  constructor(episode: any, group: Group) {
+    this.group = group;
     this.id = episode.id;
     this.title = episode.title;
     this.date = episode.date ? new Date(Date.parse(episode.date)) : null;
@@ -215,7 +263,7 @@ class SongList {
 
 class RadioApplication extends HTMLElement {
 
-  private static readonly PERMA_LINK = /\/(zwwdp|ta|fiehe|ptw)(-([a-z0-9]+))?\.html/;
+  private static readonly PERMA_LINK = /\/(zwwdp|ta|fiehe|ptw)(-([a-z0-9]+))?(-([a-z0-9]+))?\.html/;
 
   private broadcast: Broadcast;
   private dirty: boolean = false;
@@ -240,6 +288,11 @@ class RadioApplication extends HTMLElement {
           this.dirty = true;
         }
         break;
+      case "group-id":
+        if (oldValue !== newValue) {
+          this.dirty = true;
+        }
+        break;
       case "episode-id":
         if (oldValue !== newValue) {
           this.dirty = true;
@@ -251,7 +304,7 @@ class RadioApplication extends HTMLElement {
   }
 
   static get observedAttributes() {
-    return ["space", "episode-id"];
+    return ["space", "group-id", "episode-id"];
   }
 
   get space(): string {
@@ -263,6 +316,18 @@ class RadioApplication extends HTMLElement {
       this.setAttribute("space", space);
     } else {
       this.removeAttribute("space");
+    }
+  }
+
+  get groupId(): string {
+    return this.getAttribute("group-id");
+  }
+
+  set groupId(groupId: string) {
+    if (groupId) {
+      this.setAttribute("group-id", groupId);
+    } else {
+      this.removeAttribute("group-id");
     }
   }
 
@@ -281,8 +346,10 @@ class RadioApplication extends HTMLElement {
   /** get the current/selected episode */
   get episode() : Episode {
     return this.broadcast
-        ? this.episodeId
-            ? this.broadcast.episodes.get(this.episodeId)
+        ? this.groupId
+            ? this.episodeId
+                ? this.broadcast.groups.get(this.groupId).episodes.get(this.episodeId)
+                : this.broadcast.latestEpisode
             : this.broadcast.latestEpisode
         : null;
   }
@@ -310,15 +377,15 @@ ${episode.previousId
     </button>
     <div class="collapse navbar-collapse" id="yearDropdown">
       <ul class="navbar-nav">
-${broadcast.yearsArray.map((year) => html`
+${broadcast.groupsArray.map((groupId) => html`
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="yearDropdownMenuLink-${year}" role="button" 
+          <a class="nav-link dropdown-toggle" href="#" id="yearDropdownMenuLink-${groupId}" role="button" 
               data-bs-toggle="dropdown" aria-expanded="false">
-            ${year}
+            ${groupId}
           </a>
-          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="yearDropdownMenuLink-${year}">
-${broadcast.years.get(year).map(e =>
-        html`<li><a class="dropdown-item" href="${broadcast.id}-${e.id}.html" 
+          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="yearDropdownMenuLink-${groupId}">
+${broadcast.groups.get(groupId).episodesArray.map((e: Episode) =>
+        html`<li><a class="dropdown-item" href="${broadcast.id}-${e.group.id}-${e.id}.html" 
 @click="${this.navigate.bind(this)}">${e.dateFormat} (${e.songs.list.length} Titel)</a></li> `
     )}
           </ul>
@@ -333,9 +400,10 @@ ${episode.nextId
     }
   </div>
 </nav>
-<h1>${broadcast.show} vom ${episode.dateFormat}</h1>
+<h1>${episode.group.titleDisplay} vom ${episode.dateFormat}</h1>
 <h5>${episode.comment}</h5>
-<h5>Sender: ${broadcast.station}</h5>
+<h5>Sender: ${episode.group.stationDisplay}</h5>
+<h5>Moderator: ${broadcast.moderator}</h5>
 <h3>Playlist</h3>
 
 <table class="table table-striped">
@@ -392,10 +460,9 @@ ${episode.nextId
       } else {
         this.space = "zwwdp";
       }
-      if (result[3]) {
-        this.episodeId = result[3];
-      } else {
-        this.episodeId = null;
+      if (result[5]) {
+        this.groupId = result[3];
+        this.episodeId = result[5];
       }
     }
   }
@@ -407,15 +474,22 @@ ${episode.nextId
         .then((json: any) => new Broadcast(json))
         .then(broadcast => {
           this.broadcast = broadcast;
-          const episode1
-              = broadcast.episodes.get(this.episodeId);
-          console.warn("***", location, episode1);
-          if (!episode1) {
+          const group = broadcast.groups.get(this.groupId);
+          if (!group) {
+            const groups = broadcast.groupsArray;
+            this.groupId = groups[groups.length - 1];
+          }
+          const episode = group.episodes.get(this.episodeId);
+          console.warn("***", location, group, episode);
+          if (!episode) {
             this.episodeId = broadcast.latestEpisode.id;
           }
           this.dirty = true;
           this.dispatchEvent(new CustomEvent("radio.update"));
-        });
+        })
+        .catch((reason => {
+        this.insertAdjacentHTML("beforeend", `<h3>Leider ist ein Fehler aufgetreten!</h3><div>${reason}</div>`);
+    }));
   }
 
   private update(event: CustomEvent) {

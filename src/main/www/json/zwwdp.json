@@ -1,6 +1,11 @@
 {
   "id": "zwwdp",
-  "title": "Zeiglers wunderbare Welt des Pop - Radio Bremen",
+  "title": "Zeiglers wunderbare Welt des Pop",
+  "moderator": "Arnd Zeigler",
+  "groups": [
+    {
+      "id": "2013",
+      "station": "Radio Bremen 4",
   "episodes": [
     {
       "id": "1",
@@ -1401,9 +1406,15 @@
           }
         ]
       ]
+    }
+  ]
     },
     {
-      "id": "9",
+      "id": "2014",
+      "station": "Radio Bremen 4",
+      "episodes": [
+    {
+      "id": "1",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-01-07",
       "songs": [
@@ -1580,7 +1591,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": "2",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-01-14",
       "songs": [
@@ -1749,7 +1760,7 @@
       ]
     },
     {
-      "id": "11",
+      "id": "3",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-01-21",
       "songs": [
@@ -1926,7 +1937,7 @@
       ]
     },
     {
-      "id": "12",
+      "id": "4",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-01-28",
       "songs": [
@@ -2103,7 +2114,7 @@
       ]
     },
     {
-      "id": "13",
+      "id": "5",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-02-04",
       "songs": [
@@ -2300,7 +2311,7 @@
       ]
     },
     {
-      "id": "14",
+      "id": "6",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-02-11",
       "songs": [
@@ -2481,7 +2492,7 @@
       ]
     },
     {
-      "id": "15",
+      "id": "7",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-02-18",
       "songs": [
@@ -2658,7 +2669,7 @@
       ]
     },
     {
-      "id": "16",
+      "id": "8",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-02-25",
       "songs": [
@@ -2843,7 +2854,7 @@
       ]
     },
     {
-      "id": "17",
+      "id": "9",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-03-04",
       "songs": [
@@ -3020,7 +3031,7 @@
       ]
     },
     {
-      "id": "18",
+      "id": "10",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-03-11",
       "songs": [
@@ -3197,7 +3208,7 @@
       ]
     },
     {
-      "id": "19",
+      "id": "11",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-03-18",
       "songs": [
@@ -3358,7 +3369,7 @@
       ]
     },
     {
-      "id": "20",
+      "id": "12",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-04-01",
       "songs": [
@@ -3531,7 +3542,7 @@
       ]
     },
     {
-      "id": "21",
+      "id": "13",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-04-08",
       "songs": [
@@ -3700,7 +3711,7 @@
       ]
     },
     {
-      "id": "22",
+      "id": "14",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-04-15",
       "songs": [
@@ -3877,7 +3888,7 @@
       ]
     },
     {
-      "id": "23",
+      "id": "15",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-04-22",
       "songs": [
@@ -4042,7 +4053,7 @@
       ]
     },
     {
-      "id": "24",
+      "id": "16",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-04-29",
       "songs": [
@@ -4219,7 +4230,7 @@
       ]
     },
     {
-      "id": "25",
+      "id": "17",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-05-06",
       "songs": [
@@ -4400,7 +4411,7 @@
       ]
     },
     {
-      "id": "26",
+      "id": "18",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-05-20",
       "songs": [
@@ -4573,7 +4584,7 @@
       ]
     },
     {
-      "id": "29",
+      "id": "19",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-05-27",
       "songs": [
@@ -4722,7 +4733,7 @@
       ]
     },
     {
-      "id": "30",
+      "id": "20",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-06-03",
       "songs": [
@@ -4891,7 +4902,7 @@
       ]
     },
     {
-      "id": "31",
+      "id": "21",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-06-10",
       "songs": [
@@ -5072,7 +5083,7 @@
       ]
     },
     {
-      "id": "32",
+      "id": "22",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-06-17",
       "songs": [
@@ -5277,7 +5288,7 @@
       ]
     },
     {
-      "id": "33",
+      "id": "23",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-06-24",
       "songs": [
@@ -5454,7 +5465,7 @@
       ]
     },
     {
-      "id": "34",
+      "id": "24",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-07-01",
       "songs": [
@@ -5631,7 +5642,7 @@
       ]
     },
     {
-      "id": "35",
+      "id": "25",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-07-15",
       "songs": [
@@ -5800,7 +5811,7 @@
       ]
     },
     {
-      "id": "36",
+      "id": "26",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-07-22",
       "songs": [
@@ -5957,7 +5968,7 @@
       ]
     },
     {
-      "id": "38",
+      "id": "28",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-07-29",
       "songs": [
@@ -6126,7 +6137,7 @@
       ]
     },
     {
-      "id": "39",
+      "id": "29",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-08-05",
       "songs": [
@@ -6307,7 +6318,7 @@
       ]
     },
     {
-      "id": "40",
+      "id": "30",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-08-12",
       "songs": [
@@ -6488,7 +6499,7 @@
       ]
     },
     {
-      "id": "41",
+      "id": "31",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-08-19",
       "songs": [
@@ -6673,7 +6684,7 @@
       ]
     },
     {
-      "id": "42",
+      "id": "32",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-08-26",
       "songs": [
@@ -6854,7 +6865,7 @@
       ]
     },
     {
-      "id": "43",
+      "id": "33",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-09-02",
       "songs": [
@@ -7019,7 +7030,7 @@
       ]
     },
     {
-      "id": "44",
+      "id": "34",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-09-09",
       "songs": [
@@ -7196,7 +7207,7 @@
       ]
     },
     {
-      "id": "45",
+      "id": "35",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-09-16",
       "songs": [
@@ -7369,7 +7380,7 @@
       ]
     },
     {
-      "id": "46",
+      "id": "36",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-09-30",
       "songs": [
@@ -7546,7 +7557,7 @@
       ]
     },
     {
-      "id": "47",
+      "id": "37",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-10-07",
       "songs": [
@@ -7727,7 +7738,7 @@
       ]
     },
     {
-      "id": "48",
+      "id": "38",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-10-14",
       "songs": [
@@ -7908,7 +7919,7 @@
       ]
     },
     {
-      "id": "49",
+      "id": "39",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-10-21",
       "songs": [
@@ -8101,7 +8112,7 @@
       ]
     },
     {
-      "id": "50",
+      "id": "40",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-10-28",
       "songs": [
@@ -8270,7 +8281,7 @@
       ]
     },
     {
-      "id": "51",
+      "id": "41",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-11-04",
       "songs": [
@@ -8439,7 +8450,7 @@
       ]
     },
     {
-      "id": "52",
+      "id": "42",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-11-11",
       "songs": [
@@ -8624,7 +8635,7 @@
       ]
     },
     {
-      "id": "53",
+      "id": "43",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-11-18",
       "songs": [
@@ -8797,7 +8808,7 @@
       ]
     },
     {
-      "id": "54",
+      "id": "44",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-12-02",
       "songs": [
@@ -8978,7 +8989,7 @@
       ]
     },
     {
-      "id": "55",
+      "id": "45",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-12-16",
       "songs": [
@@ -9151,7 +9162,7 @@
       ]
     },
     {
-      "id": "56",
+      "id": "46",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2014-12-30",
       "songs": [
@@ -9334,9 +9345,15 @@
           }
         ]
       ]
+    }
+      ]
     },
     {
-      "id": "57",
+      "id": "2015",
+      "station": "Radio Bremen 4",
+      "episodes": [
+    {
+      "id": "1",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-01-06",
       "songs": [
@@ -9501,7 +9518,7 @@
       ]
     },
     {
-      "id": "58",
+      "id": "2",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-01-13",
       "songs": [
@@ -9674,7 +9691,7 @@
       ]
     },
     {
-      "id": "59",
+      "id": "3",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-01-20",
       "songs": [
@@ -9859,7 +9876,7 @@
       ]
     },
     {
-      "id": "60",
+      "id": "4",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-01-27",
       "songs": [
@@ -10032,7 +10049,7 @@
       ]
     },
     {
-      "id": "61",
+      "id": "5",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-02-03",
       "songs": [
@@ -10209,7 +10226,7 @@
       ]
     },
     {
-      "id": "62",
+      "id": "6",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-02-10",
       "songs": [
@@ -10378,7 +10395,7 @@
       ]
     },
     {
-      "id": "63",
+      "id": "7",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-02-17",
       "songs": [
@@ -10555,7 +10572,7 @@
       ]
     },
     {
-      "id": "64",
+      "id": "8",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-03-03",
       "songs": [
@@ -10736,7 +10753,7 @@
       ]
     },
     {
-      "id": "65",
+      "id": "9",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-03-10",
       "songs": [
@@ -10917,7 +10934,7 @@
       ]
     },
     {
-      "id": "66",
+      "id": "10",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-03-17",
       "songs": [
@@ -11094,7 +11111,7 @@
       ]
     },
     {
-      "id": "67",
+      "id": "11",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-03-24",
       "songs": [
@@ -11275,7 +11292,7 @@
       ]
     },
     {
-      "id": "68",
+      "id": "12",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-03-31",
       "songs": [
@@ -11428,7 +11445,7 @@
       ]
     },
     {
-      "id": "69",
+      "id": "13",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-04-07",
       "songs": [
@@ -11525,7 +11542,7 @@
       ]
     },
     {
-      "id": "70",
+      "id": "14",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-04-21",
       "songs": [
@@ -11698,7 +11715,7 @@
       ]
     },
     {
-      "id": "76",
+      "id": "15",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-04-14",
       "songs": [
@@ -11871,7 +11888,7 @@
       ]
     },
     {
-      "id": "77",
+      "id": "16",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-04-28",
       "songs": [
@@ -12056,7 +12073,7 @@
       ]
     },
     {
-      "id": "78",
+      "id": "17",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-05-05",
       "songs": [
@@ -12233,7 +12250,7 @@
       ]
     },
     {
-      "id": "79",
+      "id": "18",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-05-12",
       "songs": [
@@ -12394,7 +12411,7 @@
       ]
     },
     {
-      "id": "80",
+      "id": "19",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-05-19",
       "songs": [
@@ -12563,7 +12580,7 @@
       ]
     },
     {
-      "id": "81",
+      "id": "20",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-05-26",
       "songs": [
@@ -12728,7 +12745,7 @@
       ]
     },
     {
-      "id": "82",
+      "id": "21",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-06-02",
       "songs": [
@@ -12921,7 +12938,7 @@
       ]
     },
     {
-      "id": "83",
+      "id": "22",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-06-09",
       "songs": [
@@ -13086,7 +13103,7 @@
       ]
     },
     {
-      "id": "84",
+      "id": "23",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-06-16",
       "songs": [
@@ -13267,7 +13284,7 @@
       ]
     },
     {
-      "id": "85",
+      "id": "24",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-06-23",
       "songs": [
@@ -13448,7 +13465,7 @@
       ]
     },
     {
-      "id": "86",
+      "id": "25",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-06-30",
       "songs": [
@@ -13625,7 +13642,7 @@
       ]
     },
     {
-      "id": "87",
+      "id": "26",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-07-07",
       "songs": [
@@ -13806,7 +13823,7 @@
       ]
     },
     {
-      "id": "88",
+      "id": "27",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-07-14",
       "songs": [
@@ -13966,7 +13983,7 @@
       ]
     },
     {
-      "id": "89",
+      "id": "28",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-07-21",
       "songs": [
@@ -14127,7 +14144,7 @@
       ]
     },
     {
-      "id": "90",
+      "id": "29",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-09-01",
       "songs": [
@@ -14308,7 +14325,7 @@
       ]
     },
     {
-      "id": "91",
+      "id": "30",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-08-25",
       "songs": [
@@ -14485,7 +14502,7 @@
       ]
     },
     {
-      "id": "92",
+      "id": "31",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-09-08",
       "songs": [
@@ -14658,7 +14675,7 @@
       ]
     },
     {
-      "id": "93",
+      "id": "32",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-09-15",
       "songs": [
@@ -14835,7 +14852,7 @@
       ]
     },
     {
-      "id": "94",
+      "id": "33",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-09-22",
       "songs": [
@@ -15000,7 +15017,7 @@
       ]
     },
     {
-      "id": "95",
+      "id": "34",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-10-06",
       "songs": [
@@ -15161,7 +15178,7 @@
       ]
     },
     {
-      "id": "96",
+      "id": "35",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-10-13",
       "songs": [
@@ -15326,7 +15343,7 @@
       ]
     },
     {
-      "id": "97",
+      "id": "36",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-10-20",
       "songs": [
@@ -15491,7 +15508,7 @@
       ]
     },
     {
-      "id": "98",
+      "id": "37",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-11-03",
       "songs": [
@@ -15672,7 +15689,7 @@
       ]
     },
     {
-      "id": "99",
+      "id": "38",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-11-10",
       "songs": [
@@ -15845,7 +15862,7 @@
       ]
     },
     {
-      "id": "100",
+      "id": "39",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-11-17",
       "songs": [
@@ -15994,7 +16011,7 @@
       ]
     },
     {
-      "id": "101",
+      "id": "40",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-11-24",
       "songs": [
@@ -16163,7 +16180,7 @@
       ]
     },
     {
-      "id": "102",
+      "id": "41",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-12-01",
       "songs": [
@@ -16340,7 +16357,7 @@
       ]
     },
     {
-      "id": "103",
+      "id": "42",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-12-08",
       "songs": [
@@ -16505,7 +16522,7 @@
       ]
     },
     {
-      "id": "104",
+      "id": "43",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-12-15",
       "songs": [
@@ -16694,7 +16711,7 @@
       ]
     },
     {
-      "id": "105",
+      "id": "44",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-12-22",
       "songs": [
@@ -16875,7 +16892,7 @@
       ]
     },
     {
-      "id": "106",
+      "id": "45",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-12-29",
       "songs": [
@@ -17054,9 +17071,15 @@
           }
         ]
       ]
+    }
+      ]
     },
     {
-      "id": "107",
+      "id": "2016",
+      "station": "Radio Bremen 4",
+      "episodes": [
+    {
+      "id": "1",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-01-05",
       "songs": [
@@ -17233,7 +17256,7 @@
       ]
     },
     {
-      "id": "108",
+      "id": "2",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-01-19",
       "songs": [
@@ -17414,7 +17437,7 @@
       ]
     },
     {
-      "id": "109",
+      "id": "3",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-01-26",
       "songs": [
@@ -17595,7 +17618,7 @@
       ]
     },
     {
-      "id": "110",
+      "id": "4",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-02-02",
       "songs": [
@@ -17752,7 +17775,7 @@
       ]
     },
     {
-      "id": "111",
+      "id": "5",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-02-16",
       "songs": [
@@ -17929,7 +17952,7 @@
       ]
     },
     {
-      "id": "112",
+      "id": "6",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-02-23",
       "songs": [
@@ -18106,7 +18129,7 @@
       ]
     },
     {
-      "id": "113",
+      "id": "7",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-03-01",
       "songs": [
@@ -18299,7 +18322,7 @@
       ]
     },
     {
-      "id": "114",
+      "id": "8",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-03-08",
       "songs": [
@@ -18484,7 +18507,7 @@
       ]
     },
     {
-      "id": "115",
+      "id": "9",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-03-15",
       "songs": [
@@ -18657,7 +18680,7 @@
       ]
     },
     {
-      "id": "116",
+      "id": "10",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-03-22",
       "songs": [
@@ -18830,7 +18853,7 @@
       ]
     },
     {
-      "id": "117",
+      "id": "11",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-04-05",
       "songs": [
@@ -19007,7 +19030,7 @@
       ]
     },
     {
-      "id": "118",
+      "id": "12",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-04-12",
       "songs": [
@@ -19200,7 +19223,7 @@
       ]
     },
     {
-      "id": "119",
+      "id": "13",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-04-19",
       "songs": [
@@ -19365,7 +19388,7 @@
       ]
     },
     {
-      "id": "120",
+      "id": "14",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-04-26",
       "songs": [
@@ -19546,7 +19569,7 @@
       ]
     },
     {
-      "id": "121",
+      "id": "15",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2016-05-03",
       "songs": [
@@ -19725,9 +19748,15 @@
           }
         ]
       ]
+    }
+    ]
     },
     {
-      "id": "504",
+      "id": "2020",
+      "station": "Radio Bremen 2",
+      "episodes": [
+    {
+      "id": "1",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-03-05",
       "songs": [
@@ -19761,7 +19790,7 @@
       ]
     },
     {
-      "id": "505",
+      "id": "2",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-03-12",
       "songs": [
@@ -19797,7 +19826,7 @@
       ]
     },
     {
-      "id": "506",
+      "id": "3",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-03-19",
       "songs": [
@@ -19834,7 +19863,7 @@
       ]
     },
     {
-      "id": "507",
+      "id": "4",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-03-26",
       "songs": [
@@ -19872,7 +19901,7 @@
       ]
     },
     {
-      "id": "508",
+      "id": "5",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-04-02",
       "songs": [
@@ -19912,7 +19941,7 @@
       ]
     },
     {
-      "id": "509",
+      "id": "6",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-04-09",
       "songs": [
@@ -19958,7 +19987,7 @@
       ]
     },
     {
-      "id": "510",
+      "id": "7",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-04-16",
       "songs": [
@@ -19997,7 +20026,7 @@
       ]
     },
     {
-      "id": "511",
+      "id": "8",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-04-23",
       "songs": [
@@ -20034,7 +20063,7 @@
       ]
     },
     {
-      "id": "512",
+      "id": "9",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-04-30",
       "songs": [
@@ -20069,7 +20098,7 @@
       ]
     },
     {
-      "id": "513",
+      "id": "10",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-05-07",
       "songs": [
@@ -20107,7 +20136,7 @@
       ]
     },
     {
-      "id": "514",
+      "id": "11",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-05-14",
       "songs": [
@@ -20145,7 +20174,7 @@
       ]
     },
     {
-      "id": "515",
+      "id": "12",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-05-28",
       "songs": [
@@ -20182,7 +20211,7 @@
       ]
     },
     {
-      "id": "516",
+      "id": "13",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-04",
       "songs": [
@@ -20220,7 +20249,7 @@
       ]
     },
     {
-      "id": "517",
+      "id": "14",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-11",
       "songs": [
@@ -20259,7 +20288,7 @@
       ]
     },
     {
-      "id": "518",
+      "id": "15",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-18",
       "songs": [
@@ -20294,7 +20323,7 @@
       ]
     },
     {
-      "id": "519",
+      "id": "16",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-25",
       "songs": [
@@ -20333,7 +20362,7 @@
       ]
     },
     {
-      "id": "520",
+      "id": "17",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-07-02",
       "songs": [
@@ -20369,7 +20398,7 @@
       ]
     },
     {
-      "id": "521",
+      "id": "18",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-07-09",
       "songs": [
@@ -20406,7 +20435,7 @@
       ]
     },
     {
-      "id": "522",
+      "id": "19",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-07-16",
       "songs": [
@@ -20442,7 +20471,7 @@
       ]
     },
     {
-      "id": "523",
+      "id": "20",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-09-17",
       "songs": [
@@ -20480,7 +20509,7 @@
       ]
     },
     {
-      "id": "524",
+      "id": "21",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-09-24",
       "songs": [
@@ -20519,7 +20548,7 @@
       ]
     },
     {
-      "id": "525",
+      "id": "22",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-10-01",
       "songs": [
@@ -20553,7 +20582,7 @@
       ]
     },
     {
-      "id": "526",
+      "id": "23",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-10-08",
       "songs": [
@@ -20593,7 +20622,7 @@
       ]
     },
     {
-      "id": "527",
+      "id": "24",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-10-15",
       "songs": [
@@ -20631,7 +20660,7 @@
       ]
     },
     {
-      "id": "528",
+      "id": "25",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-10-22",
       "songs": [
@@ -20666,7 +20695,7 @@
       ]
     },
     {
-      "id": "529",
+      "id": "26",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-10-29",
       "songs": [
@@ -20704,7 +20733,7 @@
       ]
     },
     {
-      "id": "530",
+      "id": "27",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-11-05",
       "songs": [
@@ -20741,7 +20770,7 @@
       ]
     },
     {
-      "id": "531",
+      "id": "28",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-11-12",
       "songs": [
@@ -20781,7 +20810,7 @@
       ]
     },
     {
-      "id": "532",
+      "id": "29",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-11-19",
       "songs": [
@@ -20819,7 +20848,7 @@
       ]
     },
     {
-      "id": "533",
+      "id": "30",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-11-26",
       "songs": [
@@ -20855,7 +20884,7 @@
       ]
     },
     {
-      "id": "534",
+      "id": "31",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-12-03",
       "songs": [
@@ -20893,7 +20922,7 @@
       ]
     },
     {
-      "id": "535",
+      "id": "32",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-12-10",
       "comment": "Best Of 2020",
@@ -20928,6 +20957,8 @@
           { "time":"23:57", "title": "Heavenly Vision", "performer": "Jonathan Bree"}
         ]
       ]
+    }
+  ]
     }
   ]
 }

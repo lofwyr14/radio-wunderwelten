@@ -5,10 +5,205 @@ AddOutputFilter INCLUDES .html
 
 # PermaLinks
 RewriteEngine On
-RewriteRule ^(zwwdp|ta|fiehe|ptw)(-([a-z0-9]+))?\.html$ radio.html
+
+# Ton Art
+RewriteRule ^ta(-[0-9][0-9][0-9][0-9]-[0-9][0-9])?\.html$ radio.html
+# Ton Art alt
+RedirectMatch 301 "^/ta-([0-9][0-9][0-9][0-9])([0-9][0-9])\.html$" "/ta-$1-$2.html"
+
+# Zwwdp
+RewriteRule ^zwwdp(-20[0-9][0-9]-[0-9][0-9]?)?\.html$ radio.html
+# Zwwdp alt
+# 2013
+Redirect 301 /zwwdp-1.html /zwwdp-2013-1.html
+Redirect 301 /zwwdp-2.html /zwwdp-2013-2.html
+Redirect 301 /zwwdp-3.html /zwwdp-2013-3.html
+Redirect 301 /zwwdp-4.html /zwwdp-2013-4.html
+Redirect 301 /zwwdp-5.html /zwwdp-2013-5.html
+Redirect 301 /zwwdp-6.html /zwwdp-2013-6.html
+Redirect 301 /zwwdp-7.html /zwwdp-2013-7.html
+Redirect 301 /zwwdp-8.html /zwwdp-2013-8.html
+# 2014
+Redirect 301 /zwwdp-9.html /zwwdp-2014-1.html
+Redirect 301 /zwwdp-10.html /zwwdp-2014-2.html
+Redirect 301 /zwwdp-11.html /zwwdp-2014-3.html
+Redirect 301 /zwwdp-12.html /zwwdp-2014-4.html
+Redirect 301 /zwwdp-13.html /zwwdp-2014-5.html
+Redirect 301 /zwwdp-14.html /zwwdp-2014-6.html
+Redirect 301 /zwwdp-15.html /zwwdp-2014-7.html
+Redirect 301 /zwwdp-16.html /zwwdp-2014-8.html
+Redirect 301 /zwwdp-17.html /zwwdp-2014-9.html
+Redirect 301 /zwwdp-18.html /zwwdp-2014-10.html
+Redirect 301 /zwwdp-19.html /zwwdp-2014-11.html
+Redirect 301 /zwwdp-20.html /zwwdp-2014-12.html
+Redirect 301 /zwwdp-21.html /zwwdp-2014-13.html
+Redirect 301 /zwwdp-22.html /zwwdp-2014-14.html
+Redirect 301 /zwwdp-23.html /zwwdp-2014-15.html
+Redirect 301 /zwwdp-24.html /zwwdp-2014-16.html
+Redirect 301 /zwwdp-25.html /zwwdp-2014-17.html
+Redirect 301 /zwwdp-26.html /zwwdp-2014-18.html
+Redirect 301 /zwwdp-29.html /zwwdp-2014-19.html
+Redirect 301 /zwwdp-30.html /zwwdp-2014-20.html
+Redirect 301 /zwwdp-31.html /zwwdp-2014-21.html
+Redirect 301 /zwwdp-32.html /zwwdp-2014-22.html
+Redirect 301 /zwwdp-33.html /zwwdp-2014-23.html
+Redirect 301 /zwwdp-34.html /zwwdp-2014-24.html
+Redirect 301 /zwwdp-35.html /zwwdp-2014-25.html
+Redirect 301 /zwwdp-36.html /zwwdp-2014-26.html
+Redirect 301 /zwwdp-37.html /zwwdp-2014-27.html
+Redirect 301 /zwwdp-38.html /zwwdp-2014-28.html
+Redirect 301 /zwwdp-39.html /zwwdp-2014-29.html
+Redirect 301 /zwwdp-40.html /zwwdp-2014-30.html
+Redirect 301 /zwwdp-41.html /zwwdp-2014-31.html
+Redirect 301 /zwwdp-42.html /zwwdp-2014-32.html
+Redirect 301 /zwwdp-43.html /zwwdp-2014-33.html
+Redirect 301 /zwwdp-44.html /zwwdp-2014-34.html
+Redirect 301 /zwwdp-45.html /zwwdp-2014-35.html
+Redirect 301 /zwwdp-46.html /zwwdp-2014-36.html
+Redirect 301 /zwwdp-47.html /zwwdp-2014-37.html
+Redirect 301 /zwwdp-48.html /zwwdp-2014-38.html
+Redirect 301 /zwwdp-49.html /zwwdp-2014-39.html
+Redirect 301 /zwwdp-50.html /zwwdp-2014-40.html
+Redirect 301 /zwwdp-51.html /zwwdp-2014-41.html
+Redirect 301 /zwwdp-52.html /zwwdp-2014-42.html
+Redirect 301 /zwwdp-53.html /zwwdp-2014-43.html
+Redirect 301 /zwwdp-54.html /zwwdp-2014-44.html
+Redirect 301 /zwwdp-55.html /zwwdp-2014-45.html
+Redirect 301 /zwwdp-56.html /zwwdp-2014-46.html
+# 2015
+Redirect 301 /zwwdp-57.html /zwwdp-2015-1.html
+Redirect 301 /zwwdp-58.html /zwwdp-2015-2.html
+Redirect 301 /zwwdp-59.html /zwwdp-2015-3.html
+Redirect 301 /zwwdp-60.html /zwwdp-2015-4.html
+Redirect 301 /zwwdp-61.html /zwwdp-2015-5.html
+Redirect 301 /zwwdp-62.html /zwwdp-2015-6.html
+Redirect 301 /zwwdp-63.html /zwwdp-2015-7.html
+Redirect 301 /zwwdp-64.html /zwwdp-2015-8.html
+Redirect 301 /zwwdp-65.html /zwwdp-2015-9.html
+Redirect 301 /zwwdp-66.html /zwwdp-2015-10.html
+Redirect 301 /zwwdp-67.html /zwwdp-2015-11.html
+Redirect 301 /zwwdp-68.html /zwwdp-2015-12.html
+Redirect 301 /zwwdp-69.html /zwwdp-2015-13.html
+Redirect 301 /zwwdp-70.html /zwwdp-2015-14.html
+Redirect 301 /zwwdp-76.html /zwwdp-2015-15.html
+Redirect 301 /zwwdp-77.html /zwwdp-2015-16.html
+Redirect 301 /zwwdp-78.html /zwwdp-2015-17.html
+Redirect 301 /zwwdp-79.html /zwwdp-2015-18.html
+Redirect 301 /zwwdp-80.html /zwwdp-2015-19.html
+Redirect 301 /zwwdp-81.html /zwwdp-2015-20.html
+Redirect 301 /zwwdp-82.html /zwwdp-2015-21.html
+Redirect 301 /zwwdp-83.html /zwwdp-2015-22.html
+Redirect 301 /zwwdp-84.html /zwwdp-2015-23.html
+Redirect 301 /zwwdp-85.html /zwwdp-2015-24.html
+Redirect 301 /zwwdp-86.html /zwwdp-2015-25.html
+Redirect 301 /zwwdp-87.html /zwwdp-2015-26.html
+Redirect 301 /zwwdp-88.html /zwwdp-2015-27.html
+Redirect 301 /zwwdp-89.html /zwwdp-2015-28.html
+Redirect 301 /zwwdp-90.html /zwwdp-2015-29.html
+Redirect 301 /zwwdp-91.html /zwwdp-2015-30.html
+Redirect 301 /zwwdp-92.html /zwwdp-2015-31.html
+Redirect 301 /zwwdp-93.html /zwwdp-2015-32.html
+Redirect 301 /zwwdp-94.html /zwwdp-2015-33.html
+Redirect 301 /zwwdp-95.html /zwwdp-2015-34.html
+Redirect 301 /zwwdp-96.html /zwwdp-2015-35.html
+Redirect 301 /zwwdp-97.html /zwwdp-2015-36.html
+Redirect 301 /zwwdp-98.html /zwwdp-2015-37.html
+Redirect 301 /zwwdp-99.html /zwwdp-2015-38.html
+Redirect 301 /zwwdp-100.html /zwwdp-2015-39.html
+Redirect 301 /zwwdp-101.html /zwwdp-2015-40.html
+Redirect 301 /zwwdp-102.html /zwwdp-2015-41.html
+Redirect 301 /zwwdp-103.html /zwwdp-2015-42.html
+Redirect 301 /zwwdp-104.html /zwwdp-2015-43.html
+Redirect 301 /zwwdp-105.html /zwwdp-2015-44.html
+Redirect 301 /zwwdp-106.html /zwwdp-2015-45.html
+# 2016
+Redirect 301 /zwwdp-107.html /zwwdp-2016-1.html
+Redirect 301 /zwwdp-108.html /zwwdp-2016-2.html
+Redirect 301 /zwwdp-109.html /zwwdp-2016-3.html
+Redirect 301 /zwwdp-110.html /zwwdp-2016-4.html
+Redirect 301 /zwwdp-111.html /zwwdp-2016-5.html
+Redirect 301 /zwwdp-112.html /zwwdp-2016-6.html
+Redirect 301 /zwwdp-113.html /zwwdp-2016-7.html
+Redirect 301 /zwwdp-114.html /zwwdp-2016-8.html
+Redirect 301 /zwwdp-115.html /zwwdp-2016-9.html
+Redirect 301 /zwwdp-116.html /zwwdp-2016-10.html
+Redirect 301 /zwwdp-117.html /zwwdp-2016-11.html
+Redirect 301 /zwwdp-118.html /zwwdp-2016-12.html
+Redirect 301 /zwwdp-119.html /zwwdp-2016-13.html
+Redirect 301 /zwwdp-120.html /zwwdp-2016-14.html
+Redirect 301 /zwwdp-121.html /zwwdp-2016-15.html
+# 2020
+Redirect 301 /zwwdp-504.html /zwwdp-2020-1.html
+Redirect 301 /zwwdp-505.html /zwwdp-2020-2.html
+Redirect 301 /zwwdp-506.html /zwwdp-2020-3.html
+Redirect 301 /zwwdp-507.html /zwwdp-2020-4.html
+Redirect 301 /zwwdp-508.html /zwwdp-2020-5.html
+Redirect 301 /zwwdp-509.html /zwwdp-2020-6.html
+Redirect 301 /zwwdp-510.html /zwwdp-2020-7.html
+Redirect 301 /zwwdp-511.html /zwwdp-2020-8.html
+Redirect 301 /zwwdp-512.html /zwwdp-2020-9.html
+Redirect 301 /zwwdp-513.html /zwwdp-2020-10.html
+Redirect 301 /zwwdp-514.html /zwwdp-2020-11.html
+Redirect 301 /zwwdp-515.html /zwwdp-2020-12.html
+Redirect 301 /zwwdp-516.html /zwwdp-2020-13.html
+Redirect 301 /zwwdp-517.html /zwwdp-2020-14.html
+Redirect 301 /zwwdp-518.html /zwwdp-2020-15.html
+Redirect 301 /zwwdp-519.html /zwwdp-2020-16.html
+Redirect 301 /zwwdp-520.html /zwwdp-2020-17.html
+Redirect 301 /zwwdp-521.html /zwwdp-2020-18.html
+Redirect 301 /zwwdp-522.html /zwwdp-2020-19.html
+Redirect 301 /zwwdp-523.html /zwwdp-2020-20.html
+Redirect 301 /zwwdp-524.html /zwwdp-2020-21.html
+Redirect 301 /zwwdp-525.html /zwwdp-2020-22.html
+Redirect 301 /zwwdp-526.html /zwwdp-2020-23.html
+Redirect 301 /zwwdp-527.html /zwwdp-2020-24.html
+Redirect 301 /zwwdp-528.html /zwwdp-2020-25.html
+Redirect 301 /zwwdp-529.html /zwwdp-2020-26.html
+Redirect 301 /zwwdp-530.html /zwwdp-2020-27.html
+Redirect 301 /zwwdp-531.html /zwwdp-2020-28.html
+Redirect 301 /zwwdp-532.html /zwwdp-2020-29.html
+Redirect 301 /zwwdp-533.html /zwwdp-2020-30.html
+Redirect 301 /zwwdp-534.html /zwwdp-2020-31.html
+Redirect 301 /zwwdp-535.html /zwwdp-2020-32.html
+# todo ältere Jahre
+
+# Fiehe
+RewriteRule ^fiehe(-20[0-9][0-9]-[0-9][0-9]?)?\.html$ radio.html
+# Fiehe alt
+Redirect 301 /fiehe-985.html /fiehe-2019-52.html
+Redirect 301 /fiehe-986.html /fiehe-2020-1.html
+Redirect 301 /fiehe-987.html /fiehe-2020-2.html
+Redirect 301 /fiehe-988.html /fiehe-2020-3.html
+Redirect 301 /fiehe-989.html /fiehe-2020-4.html
+Redirect 301 /fiehe-990.html /fiehe-2020-5.html
+Redirect 301 /fiehe-991.html /fiehe-2020-6.html
+Redirect 301 /fiehe-992.html /fiehe-2020-7.html
+Redirect 301 /fiehe-993.html /fiehe-2020-8.html
+Redirect 301 /fiehe-994.html /fiehe-2020-9.html
+Redirect 301 /fiehe-995.html /fiehe-2020-10.html
+Redirect 301 /fiehe-996.html /fiehe-2020-11.html
+Redirect 301 /fiehe-997.html /fiehe-2020-12.html
+Redirect 301 /fiehe-998.html /fiehe-2020-13.html
+Redirect 301 /fiehe-999.html /fiehe-2020-14.html
+Redirect 301 /fiehe-1000.html /fiehe-2020-15.html
+Redirect 301 /fiehe-1001.html /fiehe-2020-16.html
+Redirect 301 /fiehe-1002.html /fiehe-2020-17.html
+Redirect 301 /fiehe-1003.html /fiehe-2020-18.html
+Redirect 301 /fiehe-1004.html /fiehe-2020-19.html
+Redirect 301 /fiehe-1005.html /fiehe-2020-20.html
+Redirect 301 /fiehe-1006.html /fiehe-2020-21.html
+Redirect 301 /fiehe-1007.html /fiehe-2020-22.html
+Redirect 301 /fiehe-1008.html /fiehe-2020-23.html
+Redirect 301 /fiehe-1009.html /fiehe-2020-24.html
+Redirect 301 /fiehe-1010.html /fiehe-2020-25.html
+Redirect 301 /fiehe-1011.html /fiehe-2020-26.html
+Redirect 301 /fiehe-1012.html /fiehe-2020-27.html
+
+# weitere (TODO: so wie Ton Art)
+RewriteRule ^(fiehe|ptw)(-([a-z0-9]+))?(-([a-z0-9]+))?\.html$ radio.html
 
 # Auth
-AuthUserFile /mnt/rid/61/26/5146126/htdocs/.htpasswd
-AuthGroupFile /dev/null
-AuthName Radio-Wunderwelten
-AuthType Basic
+#AuthUserFile /mnt/rid/61/26/5146126/htdocs/.htpasswd
+#AuthGroupFile /dev/null
+#AuthName Radio-Wunderwelten
+#AuthType Basic

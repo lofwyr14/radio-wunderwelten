@@ -1,9 +1,14 @@
 {
   "id": "ta",
-  "title": "Ton Art - Deutschlandradio Berlin",
+  "title": "Ton Art",
+  "station": "Deutschlandradio Berlin",
+  "moderator": "Joachim Deicke",
+  "groups": [
+    {
+      "id": "1998",
   "episodes": [
     {
-      "id": "199804",
+      "id": "04",
       "title": "Cubanisimo! - Aus dem Musik-Fundus der Zuckerinsel",
       "date": "1998-04-13",
       "songs": [
@@ -184,7 +189,7 @@
       ]
     },
     {
-      "id": "199806",
+      "id": "06",
       "title": "Dreamland - ein musikalischer Sommernachtstraum",
       "date": "1998-06-15",
       "songs": [
@@ -359,7 +364,7 @@
       ]
     },
     {
-      "id": "199808",
+      "id": "08",
       "title": "Rum and Coca-Cola - Musikalischer Mikrokosmos Trinidad",
       "date": "1998-08-17",
       "intro": [
@@ -561,7 +566,7 @@
       ]
     },
     {
-      "id": "199809",
+      "id": "09",
       "title": "Europas Wilder Westen - Die ungebrochene Kraft der irischen Musik",
       "date": "1998-09-21",
       "songs": [
@@ -760,7 +765,7 @@
       ]
     },
     {
-      "id": "199810",
+      "id": "10",
       "title": "Jive, Mabone, Jive! - Die Musik Südafrikas",
       "date": "1998-10-19",
       "songs": [
@@ -959,7 +964,7 @@
       ]
     },
     {
-      "id": "199811",
+      "id": "11",
       "title": "à la carte - die besten CDs der Saison Herbst '98",
       "date": "1998-11-23",
       "songs": [
@@ -1140,7 +1145,7 @@
       ]
     },
     {
-      "id": "199812",
+      "id": "12",
       "title": "Soca Santa und die Reggae-Rentiere - Eine karibische Weihnachtsgeschichte",
       "date": "1998-12-21",
       "intro": [
@@ -1322,9 +1327,14 @@
           }
         ]
       ]
+    }
+  ]
     },
     {
-      "id": "199901",
+      "id": "1999",
+      "episodes": [
+    {
+      "id": "01",
       "title": "Anything Goes! - Die unglaubliche Musikszene Kanadas",
       "date": "1999-01-18",
       "intro": [
@@ -1520,7 +1530,7 @@
       ]
     },
     {
-      "id": "199902",
+      "id": "02",
       "title": "Tanz der Timbales - Die neue Welle der lateinamerikanischen Musik",
       "date": "1999-02-15",
       "intro": [
@@ -1704,7 +1714,7 @@
       ]
     },
     {
-      "id": "199903",
+      "id": "03",
       "title": "à la carte - die besten CDs der Saison Winter '99",
       "date": "1999-03-15",
       "songs": [
@@ -1879,7 +1889,7 @@
       ]
     },
     {
-      "id": "199904",
+      "id": "04",
       "title": "Barbaren an der Harfe - Die Faszination der keltischen Musik",
       "date": "1999-04-19",
       "intro": [
@@ -2069,7 +2079,7 @@
       ]
     },
     {
-      "id": "199905",
+      "id": "05",
       "title": "Fernweh! - Warme Musik aus heißen Ländern",
       "date": "1999-05-16",
       "intro": [
@@ -2271,7 +2281,7 @@
       ]
     },
     {
-      "id": "199906",
+      "id": "06",
       "title": "Sommernachtstraumtänzer - Die Märchenonkel der Musik",
       "date": "1999-06-21",
       "intro": [
@@ -2455,7 +2465,7 @@
       ]
     },
     {
-      "id": "199907",
+      "id": "07",
       "title": "Sommernachtstraumtänzer 2 - Die Macht der Träume",
       "date": "1999-07-19",
       "intro": [
@@ -2645,7 +2655,7 @@
       ]
     },
     {
-      "id": "199908",
+      "id": "08",
       "title": "Die Auslese - Deickes Lieblingsplatten - Die besten CDs des Sommers",
       "date": "1999-08-16",
       "intro": [
@@ -2835,7 +2845,7 @@
       ]
     },
     {
-      "id": "199909",
+      "id": "09",
       "title": "The Harder The Come - Mento, Ska und Rocksteady - Jamaica vor dem Reggae",
       "date": "1999-09-20",
       "intro": [
@@ -3109,7 +3119,7 @@
       ]
     },
     {
-      "id": "199910",
+      "id": "10",
       "title": "Von den Bergen bis zum Meer - Die Musik der Andenstaaten",
       "date": "1999-10-18",
       "intro": [
@@ -3323,7 +3333,7 @@
       ]
     },
     {
-      "id": "199911",
+      "id": "11",
       "title": "Sahnehäppchen - Die musikalische Auslese der Saison",
       "date": "1999-11-22",
       "songs": [
@@ -3510,7 +3520,7 @@
       ]
     },
     {
-      "id": "199912",
+      "id": "12",
       "title": "Der Schneeball-Mambo - Eine karibische Weihnachtsgeschichte",
       "date": "1999-12-20",
       "intro": [
@@ -3680,9 +3690,14 @@
           }
         ]
       ]
+    }
+      ]
     },
     {
-      "id": "200001",
+      "id": "2000",
+      "episodes": [
+    {
+      "id": "01",
       "title": "Der alte Mann und der Son - Kubanische Musik erobert die Welt",
       "date": "2000-01-17",
       "intro": [
@@ -3878,7 +3893,7 @@
       ]
     },
     {
-      "id": "200002",
+      "id": "02",
       "title": "Humba, Rumba und noch mehr - Eine musikalische Reise durch die Karnevalshochburgen",
       "date": "2000-03-06",
       "songs": [
@@ -4083,7 +4098,7 @@
       ]
     },
     {
-      "id": "200003",
+      "id": "03",
       "title": "Frühlingserwachen - Die besten CDs der Saison",
       "date": "2000-03-20",
       "songs": [
@@ -4264,7 +4279,7 @@
       ]
     },
     {
-      "id": "200004",
+      "id": "04",
       "title": "Das globale Klanglabor - Neue Trends der Weltmusik - (D)Rum'n'Bass, Ambient House und Exotech",
       "date": "2000-04-17",
       "intro": [
@@ -4512,7 +4527,7 @@
       ]
     },
     {
-      "id": "200005",
+      "id": "05",
       "title": "Der Congo tanzt - Die quirlige Musikszene von Kinshasa und Brazzaville",
       "date": "2000-05-22",
       "intro": [
@@ -4760,7 +4775,7 @@
       ]
     },
     {
-      "id": "200006",
+      "id": "06",
       "title": "Unter Palmen und Piraten - Songs von den Sonnenseiten der Welt",
       "date": "2000-06-19",
       "intro": [
@@ -5032,7 +5047,7 @@
       ]
     },
     {
-      "id": "200007",
+      "id": "07",
       "title": "Ein Sommer mit drei Nullen - Die besten CDs der Saison",
       "date": "2000-07-10",
       "songs": [
@@ -5277,7 +5292,7 @@
       ]
     },
     {
-      "id": "200008",
+      "id": "08",
       "title": "Mambo, Samba, Swing - Die Rückkehr alter Musikstile im neuen Gewand",
       "date": "2000-08-21",
       "songs": [
@@ -5554,7 +5569,7 @@
       ]
     },
     {
-      "id": "200009",
+      "id": "09",
       "title": "Robert Burns und der elektrische Dudelsack - Eine kurze Geschichte der Schottischen Musik, ihrer Helden, ihrer Songs und ihrer Instrumente",
       "date": "2000-09-18",
       "intro": [
@@ -5826,7 +5841,7 @@
       ]
     },
     {
-      "id": "200010",
+      "id": "10",
       "title": "Von Bahia bis Sao Paulo - Die vielen Gesichter der brasilianischen Musik - ein Streifzug durch vier Jahrzehnte",
       "date": "2000-10-23",
       "intro": [
@@ -6090,7 +6105,7 @@
       ]
     },
     {
-      "id": "200011",
+      "id": "11",
       "title": "Perlen, Sahnehäubchen und Lametta - Geschenk-Ideen: Die besten CDs der Saison",
       "date": "2000-11-20",
       "songs": [
@@ -6375,7 +6390,7 @@
       ]
     },
     {
-      "id": "200012",
+      "id": "12",
       "title": "Schlechte Karten für die Duppies - Eine karibische Weihnachtsgeschichte",
       "date": "2000-12-18",
       "intro": [
@@ -6597,9 +6612,14 @@
           }
         ]
       ]
+    }
+      ]
     },
     {
-      "id": "200101",
+      "id": "2001",
+      "episodes": [
+    {
+      "id": "01",
       "title": "2001 Eine Odyssee in Weltmusik - Klangpiraten, Trittbrettfahrer, Abenteurer",
       "date": "2001-01-21",
       "intro": [
@@ -6855,7 +6875,7 @@
       ]
     },
     {
-      "id": "200102",
+      "id": "02",
       "title": "Völlig närrisch! - Gekonnter Unfug aus dem Giftschrank des Globus",
       "date": "2001-02-19",
       "intro": [
@@ -7191,7 +7211,7 @@
       ]
     },
     {
-      "id": "200103",
+      "id": "03",
       "title": "Frühlingserwachen! - Die neuen Weltmusik-CDs der Saison",
       "date": "2001-03-19",
       "songs": [
@@ -7436,7 +7456,7 @@
       ]
     },
     {
-      "id": "200104",
+      "id": "04",
       "title": "Trauminselmusik - Fernweh-Songs von den Sonnenseiten des Globus",
       "date": "2001-04-23",
       "intro": [
@@ -7722,7 +7742,7 @@
       ]
     },
     {
-      "id": "200105",
+      "id": "05",
       "title": "Von Dakar nach Timbuktú",
       "date": "2001-05-21",
       "songs": [
@@ -7935,7 +7955,7 @@
       ]
     },
     {
-      "id": "200106",
+      "id": "06",
       "title": "Sommernachtsträume",
       "date": "2001-06-18",
       "songs": [
@@ -8196,7 +8216,7 @@
       ]
     },
     {
-      "id": "200107",
+      "id": "07",
       "title": "Ein Sommer in Musik - Die besten neuen CDs",
       "date": "2001-07-23",
       "songs": [
@@ -8457,7 +8477,7 @@
       ]
     },
     {
-      "id": "200108",
+      "id": "08",
       "title": "Strandparty Weltweit - Der Globus wie er singt und lacht",
       "date": "2001-08-20",
       "songs": [
@@ -8734,7 +8754,7 @@
       ]
     },
     {
-      "id": "200109",
+      "id": "09",
       "title": "Himmlische Stimmen - Die Geschichte der Gospel-Music",
       "date": "2001-09-17",
       "intro": [
@@ -9062,7 +9082,7 @@
       ]
     },
     {
-      "id": "200110",
+      "id": "10",
       "title": "Ein Land, drei Kontinente - Ein Streifzug durch Kolumbiens Musikszene",
       "date": "2001-10-22",
       "intro": [
@@ -9327,7 +9347,7 @@
       ]
     },
     {
-      "id": "200111",
+      "id": "11",
       "title": "Zum Verschenken viel zu schade! - Die neuen CDs der Saison",
       "date": "2001-11-19",
       "songs": [
@@ -9572,7 +9592,7 @@
       ]
     },
     {
-      "id": "200112",
+      "id": "12",
       "title": "Der gestohlene Weihnachtsmann - Eine karibische Weihnachtsgeschichte",
       "date": "2001-12-24",
       "intro": [
@@ -9802,9 +9822,14 @@
           }
         ]
       ]
+    }
+      ]
     },
     {
-      "id": "200201",
+      "id": "2002",
+      "episodes": [
+    {
+      "id": "01",
       "title": "Die Mambo-Kings am Broadway - Lateinamerikanische Musik aus den USA",
       "date": "2002-01-21",
       "intro": [
@@ -10076,7 +10101,7 @@
       ]
     },
     {
-      "id": "200202",
+      "id": "02",
       "title": "In der Stille liegt die Kraft - Die Rückkehr der Lieder",
       "date": "2002-02-18",
       "intro": [
@@ -10348,7 +10373,7 @@
       ]
     },
     {
-      "id": "200203",
+      "id": "03",
       "title": "Das bunte Band des Frühlings - Die besten CDs der Saison",
       "date": "2002-03-18",
       "intro": [
@@ -10604,7 +10629,7 @@
       ]
     },
     {
-      "id": "200204",
+      "id": "04",
       "title": "Warum in die Ferne schweifen ... - Globale Musik vor der eigenen Haustür",
       "date": "2002-04-22",
       "intro": [
@@ -10852,7 +10877,7 @@
       ]
     },
     {
-      "id": "200205",
+      "id": "05",
       "title": "Sin Fronteras ... ohne Grenzen - Selbstbewusst und eigenständig: Spaniens Weltmusikszene",
       "date": "2002-05-20",
       "songs": [
@@ -11121,7 +11146,7 @@
       ]
     },
     {
-      "id": "200206",
+      "id": "06",
       "title": "Erdbeeren mit Schlagsahne - Die besten CDs auf der Schwelle zum Sommer",
       "date": "2002-06-17",
       "songs": [
@@ -11406,7 +11431,7 @@
       ]
     },
     {
-      "id": "200207",
+      "id": "07",
       "title": "Von Nilpferden und Krokodilen - Eine musikalische Kreuzfahrt auf Afrikas längstem Fluss",
       "date": "2002-07-22",
       "intro": [
@@ -11646,7 +11671,7 @@
       ]
     },
     {
-      "id": "200208",
+      "id": "08",
       "title": "Globalissimo! - Tanzmusik rund um den Äquator",
       "date": "2002-08-19",
       "songs": [
@@ -11915,7 +11940,7 @@
       ]
     },
     {
-      "id": "200209",
+      "id": "09",
       "title": "Von allen guten Saiten - Gitarren für die ganze Welt",
       "date": "2002-09-23",
       "songs": [
@@ -12168,7 +12193,7 @@
       ]
     },
     {
-      "id": "200210",
+      "id": "10",
       "title": "Aufgeblüht! - Die neuen CDs im Herbst",
       "date": "2002-10-21",
       "songs": [
@@ -12421,14 +12446,19 @@
       ]
     },
     {
-      "id": "200212",
+      "id": "12",
       "title": "Schlittenglocken im Dschungel - Eine neue karibische Weihnachtsgeschichte",
       "date": "2002-12-23",
       "songs": [
       ]
+    }
+      ]
     },
     {
-      "id": "200301",
+      "id": "2003",
+      "episodes": [
+    {
+      "id": "01",
       "title": "La Nouvelle Cuisine - Frankreichs Neue Musikszene",
       "date": "2003-01-20",
       "songs": [
@@ -12705,7 +12735,7 @@
       ]
     },
     {
-      "id": "200302",
+      "id": "02",
       "title": "Eine Welt auf leisen Sümpfen - Das Mississippi-Delta und seine eigenwilligen Musikstile",
       "date": "2003-02-17",
       "intro": [
@@ -13017,7 +13047,7 @@
       ]
     },
     {
-      "id": "200303",
+      "id": "03",
       "title": "Vom Eise befreit - Globale Trends und CDs im Frühling",
       "date": "2003-03-31",
       "intro": [
@@ -13281,7 +13311,7 @@
       ]
     },
     {
-      "id": "200304",
+      "id": "04",
       "title": "Aloha! - Klingende Südseeträume",
       "date": "2003-04-21",
       "intro": [
@@ -13577,7 +13607,7 @@
       ]
     },
     {
-      "id": "200305",
+      "id": "05",
       "title": "Die Super-Bossa-Nova - Sterne an Brasiliens Nachthimmel",
       "date": "2003-05-20",
       "intro": [
@@ -13841,7 +13871,7 @@
       ]
     },
     {
-      "id": "200306",
+      "id": "06",
       "title": "Mittsommer 2003 - Die neuen CDs für kurze Nächte",
       "date": "2003-06-23",
       "songs": [
@@ -14086,7 +14116,7 @@
       ]
     },
     {
-      "id": "200307",
+      "id": "07",
       "title": "Vamos a la Playa - WeltMusik fürs Strandradio",
       "date": "2003-07-21",
       "songs": [
@@ -14347,7 +14377,7 @@
       ]
     },
     {
-      "id": "200308",
+      "id": "08",
       "title": "Soca, Zouk und Rapso - Die Musik der kleinen Antillen",
       "date": "2003-08-18",
       "songs": [
@@ -14592,7 +14622,7 @@
       ]
     },
     {
-      "id": "200309",
+      "id": "09",
       "title": "Spiel mir das Lied vom Meer - Songs zwischen den Wellen",
       "date": "2003-09-22",
       "intro": [
@@ -14872,7 +14902,7 @@
       ]
     },
     {
-      "id": "200310",
+      "id": "10",
       "title": "Vormerken! - Die neuen CDs im Herbst",
       "date": "2003-10-20",
       "intro": [
@@ -14882,7 +14912,7 @@
       ]
     },
     {
-      "id": "200311",
+      "id": "11",
       "title": "Hexen, Drachen, Zaubersprüche - Musik aus den Märchenwelten",
       "date": "2003-11-17",
       "intro": [
@@ -14892,7 +14922,7 @@
       ]
     },
     {
-      "id": "200312",
+      "id": "12",
       "title": "All überall auf den Palmenspitzen - Eine neue Karibische Weihnachtsgeschichte",
       "date": "2003-12-22",
       "intro": [
@@ -14900,126 +14930,143 @@
       ],
       "songs": [
       ]
+    }
+      ]
     },
     {
-      "id": "200401",
+      "id": "2004",
+      "episodes": [
+    {
+      "id": "01",
       "date": "2004-01-19"
     },
     {
-      "id": "200402",
+      "id": "02",
       "date": "2004-02-23"
     },
     {
-      "id": "200403",
+      "id": "03",
       "date": "2004-03-22"
     },
     {
-      "id": "200404",
+      "id": "04",
       "date": "2004-04-19"
     },
     {
-      "id": "200405",
+      "id": "05",
       "date": "2004-05-31"
     },
     {
-      "id": "200406",
+      "id": "06",
       "date": "2004-06-28"
     },
     {
-      "id": "200408",
+      "id": "08",
       "date": "2004-08-23"
     },
     {
-      "id": "200409",
+      "id": "09",
       "date": "2004-09-20"
     },
     {
-      "id": "200410",
+      "id": "10",
       "date": "2004-10-18"
     },
     {
-      "id": "200412",
+      "id": "12",
       "date": "2004-12-20"
+    }
+      ]
     },
     {
-      "id": "200501",
+      "id": "2005",
+      "episodes": [
+    {
+      "id": "01",
       "date": "2005-01-17"
     },
     {
-      "id": "200502",
+      "id": "02",
       "date": "2005-02-21"
     },
     {
-      "id": "200504",
+      "id": "04",
       "date": "2005-04-18"
     },
     {
-      "id": "200505",
+      "id": "05",
       "date": "2005-05-16"
     },
     {
-      "id": "200506",
+      "id": "06",
       "date": "2005-06-27"
     },
     {
-      "id": "200508",
+      "id": "08",
       "date": "2005-08-15"
     },
     {
-      "id": "200509",
+      "id": "09",
       "date": "2005-09-19"
     },
     {
-      "id": "200511",
+      "id": "11",
       "date": "2005-11-29"
     },
     {
-      "id": "200512",
+      "id": "12",
       "date": "2005-12-26"
+    }
+      ]
     },
     {
-      "id": "200601",
+      "id": "2006",
+      "episodes": [
+    {
+      "id": "01",
       "date": "2006-01-16"
     },
     {
-      "id": "200602",
+      "id": "02",
       "date": "2006-02-20"
     },
     {
-      "id": "200603",
+      "id": "03",
       "date": "2006-03-20"
     },
     {
-      "id": "200604",
+      "id": "04",
       "date": "2006-04-17"
     },
     {
-      "id": "200605",
+      "id": "05",
       "date": "2006-05-29"
     },
     {
-      "id": "200606",
+      "id": "06",
       "date": "2006-06-26"
     },
     {
-      "id": "200607",
+      "id": "07",
       "date": "2006-07-17"
     },
     {
-      "id": "200608",
+      "id": "08",
       "date": "2006-08-21"
     },
     {
-      "id": "200609",
+      "id": "09",
       "date": "2006-09-18"
     },
     {
-      "id": "200610",
+      "id": "10",
       "date": "2006-10-16"
     },
     {
-      "id": "200610",
+      "id": "11",
       "date": "2006-10-30"
+    }
+  ]
     }
   ]
 }
