@@ -20927,7 +20927,6 @@
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-12-10",
       "comment": "Best Of 2020",
-      "_checked": "in Arbeit",
       "songs": [
         [
           { "time":"22:05", "title": "The Performer", "performer": "James Righton"},
@@ -21086,6 +21085,7 @@
           "id": "4",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2021-01-28",
+          "checked": {"date": "2021-02-01", "user": "jg"},
           "songs": [
             [
               { "time":"22:04", "title": "Come Live With Me", "performer": "Heaven 17"},
