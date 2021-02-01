@@ -20960,6 +20960,92 @@
       ]
     }
   ]
+    },
+    {
+      "id": "2021",
+      "station": "Radio Bremen 2",
+      "episodes": [
+        {
+          "id": "1",
+          "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2021-01-07",
+          "songs": [
+            [
+              { "time":"22:04", "title": "La Ritournelle", "performer": "Sébastien Tellier"},
+              { "time":"22:12", "title": "I'm Still Winning", "performer": "Joel Sarakula"},
+              { "time":"22:16", "title": "High January", "performer": "Marker Starling"},
+              { "time":"22:20", "title": "First And Last", "performer": "Maylee Todd"},
+              { "time":"22:23", "title": "Vitamin C", "performer": "Andrew Carroll"},
+              { "time":"22:27", "title": "Every Time Around", "performer": "Vansire"},
+              { "time":"22:32", "title": "Short People", "performer": "Mystery Jets"},
+              { "time":"22:35", "title": "Sideswipe", "performer": "Steve Yeager"},
+              { "time":"22:38", "title": "Hate Is Coming Back", "performer": "Zwanie Jonson"},
+              { "time":"22:41", "title": "Ennui", "performer": "Kit Sebastian"},
+              { "time":"22:46", "title": "Flying", "performer": "Orwell"},
+              { "time":"22:48", "title": "Evelyne", "performer": "Jean-Claude Vannier et son Orchestre"},
+              { "time":"22:51", "title": "Pop City", "performer": "Toby Glider"},
+              { "time":"22:56", "title": "Miles", "performer": "The Death of Pop"},
+              { "time":"22:58", "title": "Common Sense", "performer": "Melby"}
+            ],
+            [
+              { "time":"23:04", "title": "Alone Again, Naturally", "performer": "Pet Shop Boys feat. Elton John"},
+              { "time":"23:07", "title": "Funny How Love Is", "performer": "Fine Young Cannibals"},
+              { "time":"23:12", "title": "Living On Borrowed Time", "performer": "Louis Philippe & The Night Mail"},
+              { "time":"23:16", "title": "De La Vitesse À L'Ivresse", "performer": "Poom"},
+              { "time":"23:20", "title": "I Won't Change My Mind", "performer": "Remington Super 60"},
+              { "time":"23:24", "title": "Rolodex", "performer": "Aidan Knight"},
+              { "time":"23:30", "title": "The Warning Bell", "performer": "Devon Sproule"},
+              { "time":"23:33", "title": "Summer Madness", "performer": "Khruangbin"},
+              { "time":"23:36", "title": "Sesame", "performer": "Homeshake"},
+              { "time":"23:41", "title": "Kids Fallin' In Love", "performer": "Dope Lemon"},
+              { "time":"23:44", "title": "Rolled Up", "performer": "Benny Sings feat. Mac DeMarco"},
+              { "time":"23:47", "title": "Different Things", "performer": "Langva"},
+              { "time":"23:50", "title": "Alison", "performer": "Elvis Costello"},
+              { "time":"23:54", "title": "Glory Box", "performer": "Beatsteaks"},
+              { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2021-01-14",
+          "songs": [
+            [
+              { "time":"22:04", "title": "Computerwelt", "performer": "Kraftwerk"},
+              { "time":"22:09", "title": "Mr. Pleasant", "performer": "Orwell"},
+              { "time":"22:13", "title": "Here/Now", "performer": "Andrew Carroll"},
+              { "time":"22:18", "title": "Seize The Day", "performer": "Paul McCartney"},
+              { "time":"22:22", "title": "Why Don't We", "performer": "The Autumn Defense"},
+              { "time":"22:25", "title": "Every Time Around", "performer": "Vansire"},
+              { "time":"22:29", "title": "Shooting Stars", "performer": "Sometimes Songs"},
+              { "time":"22:33", "title": "Yachts", "performer": "A Man Called Adam feat. Chris Coco"},
+              { "time":"22:38", "title": "All You'Re Dreaming Of", "performer": "Liam Gallagher"},
+              { "time":"22:42", "title": "Travelling", "performer": "Serge Gainsbourg"},
+              { "time":"22:46", "title": "Electric Air", "performer": "Baby Vanga"},
+              { "time":"22:50", "title": "The Drifter", "performer": "Hiroshi Takano"},
+              { "time":"22:56", "title": "Chocolates", "performer": "The Aluminum Group"}
+            ],
+            [
+              { "time":"23:04", "title": "Deep Background", "performer": "Source Ensemble Laetitia Sadier"},
+              { "time":"23:08", "title": "Wait The Night", "performer": "Marker Starling"},
+              { "time":"23:12", "title": "Childman", "performer": "Mantler"},
+              { "time":"23:17", "title": "I Love You Always", "performer": "Pomplamoose"},
+              { "time":"23:19", "title": "La La Land", "performer": "Daniel Mason"},
+              { "time":"23:22", "title": "Victim", "performer": "Yves Jarvis"},
+              { "time":"23:26", "title": "Source No. 1 - 6M1C (Early Sunday Morning)", "performer": "Isaac Hayes"},
+              { "time":"23:31", "title": "Winter Rose", "performer": "Fairground Attraction"},
+              { "time":"23:34", "title": "People Wither", "performer": "Feng Suave"},
+              { "time":"23:40", "title": "Driving Away From Home", "performer": "La Fiancée feat. John Campbell"},
+              { "time":"23:43", "title": "Trinity", "performer": "Blue States"},
+              { "time":"23:47", "title": "There is a Happy Land", "performer": "David Bowie"},
+              { "time":"23:52", "title": "Don´t Cry Baby", "performer": "The Free Design"},
+              { "time":"23:55", "title": "Mon Amour", "performer": "Alan Hawkshaw & Brian Bennett"},
+              { "time":"23:58", "title": "Good Night", "performer": "His Choir And Orchestra Cyril Stapleton"}
+            ]
+          ]
+        }
+      ]
     }
   ]
 }
