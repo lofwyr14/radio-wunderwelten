@@ -2,7 +2,7 @@
 
 # vermutlich immer um 2 erhöhen
 
-id=148
+id=152
 
 curl -o zwwdp-${id}.html https://www.bremenzwei.de/sendungen/zeiglers-wunderbare-welt-des-pop-${id}.html
 
