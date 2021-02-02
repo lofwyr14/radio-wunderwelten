@@ -2,7 +2,7 @@
 
 TODO: Kann man hierfür Open API benutzen?
 
-## Broadcast
+## Broadcast (Sendung)
 Beschreibt die jeweilige Sendung.
 Immer eine Datei pro Sendung.
 
@@ -13,13 +13,23 @@ Immer eine Datei pro Sendung.
 | station | string | | Sender |
 | groups | Group[] |  | Liste der Gruppen. Dies ist eine Strukturierungshilfe, zu Not einfach nur einen Eintrag anlegen. |
 
-## Gruppe
+## Group (Gruppe) 
 
 | Name | Typ | Optional | Beschreibung |
 |---|---|---|---|
-| id | string |  | ID   welche auch in URLs verwendet wird. Z.B. "zwwdp". Kommt auch in dem Dateinamen vor: zwwdp.json |
+| id | string |  | ID (z.B. Jahr oder bei PTW die Geschichte |
 | title | string | ja | Titel (Default aus Broadcast) |
-| station | string | ja | Sender (Default aus Broadcast |
+| station | string | ja | Sender (Default aus Broadcast) |
 | episodes | Episode[] |  | Liste der Episoden |
 
 ## Episode
+
+| Name | Typ | Optional | Beschreibung |
+|---|---|---|---|
+| todo | string |
+
+## Song
+
+| Name | Typ | Optional | Beschreibung |
+|---|---|---|---|
+| todo | string |
