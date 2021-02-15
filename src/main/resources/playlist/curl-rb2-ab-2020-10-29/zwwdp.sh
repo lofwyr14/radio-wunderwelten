@@ -2,10 +2,10 @@
 
 # vermutlich immer um 2 erhöhen
 
-id=108
+id=156
 
-curl -o zwwdp-2-${id}.html https://www.bremenzwei.de/audios/webchannel/webchannel-zeigler-pop-${id}.html
+curl -o zwwdp-${id}.html https://www.bremenzwei.de/sendungen/zeiglers-wunderbare-welt-des-pop-${id}.html
 
-echo \<script\> >> zwwdp-2-${id}.html
-cat zwwdp.js >> zwwdp-2-${id}.html
-echo \</script\> >> zwwdp-2-${id}.html
+echo \<script\> >> zwwdp-${id}.html
+cat zwwdp.js >> zwwdp-${id}.html
+echo \</script\> >> zwwdp-${id}.html
