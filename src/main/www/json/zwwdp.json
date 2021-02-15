@@ -21121,6 +21121,58 @@
               { "time":"23:56", "title": "Good Night", "performer": "Vera Lynn"}
             ]
           ]
+        },
+        {
+          "id": "5",
+          "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2021-02-04",
+          "songs": [
+            [
+            ],
+            [
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2021-02-11",
+          "songs": [
+            [
+              { "time":"22:04", "title": "The Sound Of Crying", "performer": "Prefab Sprout"},
+              { "time":"22:09", "title": "I'm More Inclined", "performer": "Teenage Fanclub"},
+              { "time":"22:12", "title": "Sweet William", "performer": "FM Towns"},
+              { "time":"22:15", "title": "The Girl Who Fell To Earth", "performer": "Gaz Coombes"},
+              { "time":"22:19", "title": "Afterglow", "performer": "Triptides"},
+              { "time":"22:25", "title": "Speed Of Life", "performer": "David Bowie"},
+              { "time":"22:27", "title": "Samurai Sword", "performer": "Chad VanGaalen"},
+              { "time":"22:30", "title": "The Rain Is Blue", "performer": "Discodor"},
+              { "time":"22:34", "title": "What Becomes Of The Brokenhearted", "performer": "The dB's"},
+              { "time":"22:38", "title": "Rapid I", "performer": "The Orielles"},
+              { "time":"22:42", "title": "All My Favorite Songs", "performer": "Weezer"},
+              { "time":"22:45", "title": "Awoke In The Early Days Of A Better World", "performer": "Andrew Wasylyk"},
+              { "time":"22:51", "title": "Rio De Janeiro", "performer": "Always You"},
+              { "time":"22:55", "title": "Happy Feet", "performer": "Janne Schaffer"}
+            ],
+            [
+              { "time":"23:03", "title": "Beyond The Sea", "performer": "Jeff Lynne"},
+              { "time":"23:06", "title": "The Lone Wolf", "performer": "The Moons"},
+              { "time":"23:10", "title": "Again & Again", "performer": "Tommy Champion"},
+              { "time":"23:14", "title": "Supertrama", "performer": "Laure Briard"},
+              { "time":"23:17", "title": "The Day You Were Painting The World", "performer": "Pennebaker"},
+              { "time":"23:21", "title": "Astawesalehu", "performer": "Admas"},
+              { "time":"23:26", "title": "The Ghosts Of The Living", "performer": "Kevin Godley"},
+              { "time":"23:31", "title": "Charade", "performer": "Blossom Dearie"},
+              { "time":"23:33", "title": "Say It (Over And Over Again)", "performer": "Steve Yeager"},
+              { "time":"23:36", "title": "Already Falling", "performer": "Puma Blue"},
+              { "time":"23:40", "title": "Tropicando", "performer": "Les Baxter and the 101 Strings"},
+              { "time":"23:42", "title": "Witchi Tai To", "performer": "Harpers Bizarre"},
+              { "time":"23:45", "title": "Ocean", "performer": "Brijean"},
+              { "time":"23:59", "title": "If You Could Read My MInd", "performer": "Diana Krall & Sarah McLachlan"},
+              { "time":"23:54", "title": "Speak Low", "performer": "Eumir Deodato"},
+              { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+            ]
+          ]
         }
       ]
     }
