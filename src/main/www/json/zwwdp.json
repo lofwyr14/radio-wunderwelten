@@ -21200,6 +21200,43 @@
               { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
             ]
           ]
+        },
+        {
+          "id": "7",
+          "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2021-02-18",
+          "songs": [
+            [
+              { "time":"22:04", "title": "The Night", "performer": "Frankie Valli & The Four Seasons"},
+              { "time":"22:08", "title": "Meeting Place", "performer": "The Last Shadow Puppets"},
+              { "time":"22:11", "title": "Hot Toddy", "performer": "Portable Radio"},
+              { "time":"22:14", "title": "Parking Lot", "performer": "The Weather Station"},
+              { "time":"22:19", "title": "Hell N Back", "performer": "Bakar"},
+              { "time":"22:22", "title": "Shaman's Dose", "performer": "Stimulator Jones"},
+              { "time":"22:25", "title": "Oh Oh I Told You So We'Re Gonna Get Stuck In The Stop & Go", "performer": "theCatherines"},
+              { "time":"22:33", "title": "Level Green", "performer": "Hefner"},
+              { "time":"22:37", "title": "The Windmills Of Your Mind", "performer": "Tokyo's Coolest Combo"},
+              { "time":"22:41", "title": "Jonah", "performer": "Daniel Mason"},
+              { "time":"22:48", "title": "Never Be That Age Again", "performer": "Georgie Weston"},
+              { "time":"22:52", "title": "Ploy", "performer": "Silvertwin"},
+              { "time":"22:57", "title": "Ode To Billy Joe", "performer": "Cal Tjader"}
+            ],
+            [
+              { "time":"23:05", "title": "Feel It Too", "performer": "Slow Leaves"},
+              { "time":"23:07", "title": "Creep", "performer": "Macy Gray"},
+              { "time":"23:12", "title": "Walk With Me", "performer": "Cut Worms"},
+              { "time":"23:16", "title": "Carousel Of Stars", "performer": "Gary Daly"},
+              { "time":"23:21", "title": "All Day Playing", "performer": "Dr. Rubberfunk"},
+              { "time":"23:26", "title": "The Flange", "performer": "Discodor"},
+              { "time":"23:29", "title": "Only The River", "performer": "Alex Luca"},
+              { "time":"23:32", "title": "Share My Chase", "performer": "Billy N' Dave"},
+              { "time":"23:37", "title": "Nuggets Of Wisdom", "performer": "Badbadnotgood Feat. Ghostface Killah"},
+              { "time":"23:40", "title": "Tribute To Sparrow", "performer": "The Heavy Blinkers"},
+              { "time":"23:43", "title": "The Best I Can Do", "performer": "Joe Jackson"},
+              { "time":"23:48", "title": "Gloomy Sunday", "performer": "Heather Nova"},
+              { "time":"23:53", "title": "And I Love Her", "performer": "Grady Tate"},
+              { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}            ]
+          ]
         }
       ]
     }
