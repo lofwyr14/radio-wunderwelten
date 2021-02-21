@@ -21205,6 +21205,7 @@
           "id": "7",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2021-02-18",
+          "checked": {"date": "2021-02-20", "user": "jg"},
           "songs": [
             [
               { "time":"22:04", "title": "The Night – 1972 Version", "performer": "Frankie Valli & The Four Seasons"},
