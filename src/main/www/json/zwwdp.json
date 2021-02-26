@@ -21239,6 +21239,45 @@
               { "time":"23:53", "title": "And I Love Her", "performer": "Grady Tate"},
               { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}            ]
           ]
+        },
+        {
+          "id": "8",
+          "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2021-02-25",
+          "songs": [
+            [
+              { "time":"22:04", "title": "Video Killed The Radio Star", "performer": "Ben Folds Five"},
+              { "time":"22:08", "title": "3-2-1", "performer": "Portable Radio feat. Jim Noir"},
+              { "time":"22:10", "title": "Around My Room", "performer": "Georgie Weston"},
+              { "time":"22:14", "title": "Robber", "performer": "The Weather Station"},
+              { "time":"22:20", "title": "Elvis' Rolls Royce", "performer": "Was Not Was feat. Leonard Cohen"},
+              { "time":"22:23", "title": "Feel It Too", "performer": "Slow Leaves"},
+              { "time":"22:26", "title": "Come With Me", "performer": "Teenage Fanclub"},
+              { "time":"22:30", "title": "Trouble", "performer": "Josh Rouse"},
+              { "time":"22:34", "title": "Being Somebody Else", "performer": "The Coral"},
+              { "time":"22:36", "title": "Closer", "performer": "Travis"},
+              { "time":"22:40", "title": "Freelove", "performer": "Depeche Mode"},
+              { "time":"22:46", "title": "Time Away From Home", "performer": "Summer Salt"},
+              { "time":"22:49", "title": "Doubted", "performer": "Silvertwin"},
+              { "time":"22:54", "title": "The Puppeteer's Going Down", "performer": "Jack and The'"},
+              { "time":"22:58", "title": "Love Is Blue (L'Amour Est Bleu)", "performer": "Jeff Beck"}
+            ],
+            [
+              { "time":"23:04", "title": "Plain As Your Eyes Can See", "performer": "Jim Sullivan"},
+              { "time":"23:07", "title": "Bitter With The Sweet", "performer": "Carole King"},
+              { "time":"23:10", "title": "Close To You", "performer": "Gabor Szabo"},
+              { "time":"23:13", "title": "Last Sunbeams Of Childhood", "performer": "Andrew Wasylyk"},
+              { "time":"23:18", "title": "Ten", "performer": "Dunkie"},
+              { "time":"23:22", "title": "Could It Be Magic", "performer": "Joe Pernice"},
+              { "time":"23:25", "title": "Lathered In Gold", "performer": "Brijean"},
+              { "time":"23:30", "title": "Tette E Antenne, Tetti E Gonne", "performer": "Edda Dell'Orso"},
+              { "time":"23:35", "title": "Nutter", "performer": "Moth Man"},
+              { "time":"23:40", "title": "What A Wonderful World", "performer": "Wyatt, Robert, Atzmon, Gilad, Stephen, Ros"},
+              { "time":"23:45", "title": "Tides", "performer": "Men I Trust"},
+              { "time":"23:49", "title": "About A Girl", "performer": "Pete Aves"},
+              { "time":"23:52", "title": "In My Head", "performer": "Gazelle & The Bear"},
+              { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}
+            ]
         }
       ]
     }
