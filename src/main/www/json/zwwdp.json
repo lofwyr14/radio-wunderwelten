@@ -21244,6 +21244,7 @@
           "id": "8",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2021-02-25",
+          "checked": {"date": "2021-02-26", "user": "jg"},
           "songs": [
             [
               { "time":"22:04", "title": "Video Killed The Radio Star", "performer": "Ben Folds Five"},
@@ -21256,7 +21257,7 @@
               { "time":"22:30", "title": "Trouble", "performer": "Josh Rouse"},
               { "time":"22:34", "title": "Being Somebody Else", "performer": "The Coral"},
               { "time":"22:36", "title": "Closer", "performer": "Travis"},
-              { "time":"22:40", "title": "Freelove", "performer": "Depeche Mode"},
+              { "time":"22:40", "title": "Freelove (Bertrand Burgalat Version)", "performer": "Depeche Mode"},
               { "time":"22:46", "title": "Time Away From Home", "performer": "Summer Salt"},
               { "time":"22:49", "title": "Doubted", "performer": "Silvertwin"},
               { "time":"22:54", "title": "The Puppeteer's Going Down", "performer": "Jack and The'"},
