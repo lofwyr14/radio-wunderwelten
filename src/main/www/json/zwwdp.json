@@ -21279,49 +21279,48 @@
               { "time":"23:52", "title": "In My Head", "performer": "Gazelle & The Bear"},
               { "time":"23:57", "title": "Good Night", "performer": "The Beatles"}
             ]
+          ]
+        },
+        {
+          "id": "9",
+          "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2021-03-04",
+          "songs": [
+            [
+              { "time":"22:04", "title": "Headstart For Happiness", "performer": "The Style Council"},
+              { "time":"22:07", "title": "Wake Me Up, Drop Me Out", "performer": "Iain Hornal"},
+              { "time":"22:12", "title": "Everybody Likes You", "performer": "Harpooner"},
+              { "time":"22:16", "title": "Roscoe", "performer": "Midlake"},
+              { "time":"22:23", "title": "Beside Yourself", "performer": "The Phoenix Foundation & Fazerdaze"},
+              { "time":"22:27", "title": "Fishes And Dishes", "performer": "Jim Noir"},
+              { "time":"22:31", "title": "Sister's Gonna Have A Baby", "performer": "Me and My Kites"},
+              { "time":"22:34", "title": "Curious", "performer": "Komeda"},
+              { "time":"22:37", "title": "Circle", "performer": "Lost Horizons / C Duncan"},
+              { "time":"22:42", "title": "Not Near Enough", "performer": "James Clarke Five"},
+              { "time":"22:46", "title": "YouVe Started To Break Up", "performer": "Solo Sun"},
+              { "time":"22:50", "title": "L'Ultimo", "performer": "Enio Morricone"},
+              { "time":"22:54", "title": "Give My Regards To Rufus", "performer": "The Orange Peels"},
+              { "time":"22:59", "title": "Lady Magnolia", "performer": "Piero Umiliano"}
+            ],
+            [
+              { "time":"23:04", "title": "Clair", "performer": "Gilbert O'Sullivan"},
+              { "time":"23:11", "title": "The Water", "performer": "Moth Man"},
+              { "time":"23:15", "title": "The Windmills Of Your Mind", "performer": "Dizzy Gillespie"},
+              { "time":"23:18", "title": "Stay Home With Me", "performer": "J. Lloyd"},
+              { "time":"23:20", "title": "Loose Ends", "performer": "The Notwist"},
+              { "time":"23:27", "title": "Just One Sec", "performer": "The Antlers"},
+              { "time":"23:32", "title": "Argomenti", "performer": "Astrud Gilberto"},
+              { "time":"23:35", "title": "In A Lonely Place", "performer": "The Smithereens"},
+              { "time":"23:40", "title": "The Super It", "performer": "Stereolab"},
+              { "time":"23:44", "title": "California", "performer": "The Electric Sons"},
+              { "time":"23:48", "title": "Mandy", "performer": "Joe Pernice"},
+              { "time":"23:51", "title": "Femme Fatale", "performer": "Modular"},
+              { "time":"23:55", "title": "Singalong Junk", "performer": "Paul McCartney"},
+              { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+            ]
+          ]
         }
       ]
     }
-  ],
-    {
-      "id": "9",
-      "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "2021-03-04",
-      "songs": [
-        [
-          { "time":"22:04", "title": "Headstart For Happiness", "performer": "The Style Council"},
-          { "time":"22:07", "title": "Wake Me Up, Drop Me Out", "performer": "Iain Hornal"},
-          { "time":"22:12", "title": "Everybody Likes You", "performer": "Harpooner"},
-          { "time":"22:16", "title": "Roscoe", "performer": "Midlake"},
-          { "time":"22:23", "title": "Beside Yourself", "performer": "The Phoenix Foundation & Fazerdaze"},
-          { "time":"22:27", "title": "Fishes And Dishes", "performer": "Jim Noir"},
-          { "time":"22:31", "title": "Sister's Gonna Have A Baby", "performer": "Me and My Kites"},
-          { "time":"22:34", "title": "Curious", "performer": "Komeda"},
-          { "time":"22:37", "title": "Circle", "performer": "Lost Horizons / C Duncan"},
-          { "time":"22:42", "title": "Not Near Enough", "performer": "James Clarke Five"},
-          { "time":"22:46", "title": "YouVe Started To Break Up", "performer": "Solo Sun"},
-          { "time":"22:50", "title": "L'Ultimo", "performer": "Enio Morricone"},
-          { "time":"22:54", "title": "Give My Regards To Rufus", "performer": "The Orange Peels"},
-          { "time":"22:59", "title": "Lady Magnolia", "performer": "Piero Umiliano"}
-        ],
-        [
-          { "time":"23:04", "title": "Clair", "performer": "Gilbert O'Sullivan"},
-          { "time":"23:11", "title": "The Water", "performer": "Moth Man"},
-          { "time":"23:15", "title": "The Windmills Of Your Mind", "performer": "Dizzy Gillespie"},
-          { "time":"23:18", "title": "Stay Home With Me", "performer": "J. Lloyd"},
-          { "time":"23:20", "title": "Loose Ends", "performer": "The Notwist"},
-          { "time":"23:27", "title": "Just One Sec", "performer": "The Antlers"},
-          { "time":"23:32", "title": "Argomenti", "performer": "Astrud Gilberto"},
-          { "time":"23:35", "title": "In A Lonely Place", "performer": "The Smithereens"},
-          { "time":"23:40", "title": "The Super It", "performer": "Stereolab"},
-          { "time":"23:44", "title": "California", "performer": "The Electric Sons"},
-          { "time":"23:48", "title": "Mandy", "performer": "Joe Pernice"},
-          { "time":"23:51", "title": "Femme Fatale", "performer": "Modular"},
-          { "time":"23:55", "title": "Singalong Junk", "performer": "Paul McCartney"},
-          { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
-        ]
-        }
-      ]
-    }
-
-  }
+  ]
+}
