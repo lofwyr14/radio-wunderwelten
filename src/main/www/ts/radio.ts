@@ -1,5 +1,7 @@
 import {html, render} from "lit-html";
 
+// import { Popover } from "../js/bootstrap.esm.js";
+
 class Broadcast {
 
   /** episode id */
@@ -106,14 +108,6 @@ class Group {
     return Array.from(this.episodes.values());
   }
 
-  get titleDisplay():string {
-    if (this.title) {
-      return this.title;
-    } else {
-      return this.broadcast.title;
-    }
-  }
-
   get stationDisplay():string {
     if (this.station) {
       return this.station;
@@ -140,7 +134,12 @@ class Episode {
     this.title = episode.title;
     this.date = episode.date ? new Date(Date.parse(episode.date)) : null;
     this.comment = episode.comment;
-    this.songs = new SongList(episode.songs);
+    // fixme: 2 unterschiedliche Formate sollten nicht unterstützt werden.
+    if (episode.parts && episode.parts[0] && episode.parts[1]) {
+      this.songs = new SongList([episode.parts[0].songs,episode.parts[1].songs]);
+    } else {
+      this.songs = new SongList(episode.songs);
+    }
   }
 
   get dateFormat(): string {
@@ -151,6 +150,17 @@ class Episode {
       return "unbekannt";
     }
   }
+
+  get titleFormat():string {
+    if (this.title) {
+      return this.title;
+    } else if (this.group.title) {
+      return `${this.group.title} vom ${this.dateFormat}`;
+    } else {
+      return `${this.group.broadcast.title} vom ${this.dateFormat}`;
+    }
+  }
+
 }
 
 class Song {
@@ -285,6 +295,7 @@ class RadioApplication extends HTMLElement {
       case "space":
         if (oldValue !== newValue) {
           this.fetchBroadcast();
+//          this.fetchBroadcast2();
           this.dirty = true;
         }
         break;
@@ -400,11 +411,14 @@ ${episode.nextId
     }
   </div>
 </nav>
-<h1>${episode.group.titleDisplay} vom ${episode.dateFormat}</h1>
+<h1>${episode.titleFormat}</h1>
 <h5>${episode.comment}</h5>
+<h5>Datum: ${episode.dateFormat}</h5>
 <h5>Sender: ${episode.group.stationDisplay}</h5>
 <h5>Moderator: ${broadcast.moderator}</h5>
 <h3>Playlist</h3>
+<!-- XXX ausgeschlatet, da noch nicht fertig -->
+<radio-popover class="d-none" data-bs-toggle="popover" title="Popover title" data-bs-content="Testing....">Playlist</radio-popover>
 
 <table class="table table-striped">
 <colgroup>
@@ -474,21 +488,92 @@ ${episode.nextId
         .then((json: any) => new Broadcast(json))
         .then(broadcast => {
           this.broadcast = broadcast;
-          const group = broadcast.groups.get(this.groupId);
+          let group = broadcast.groups.get(this.groupId);
           if (!group) {
             const groups = broadcast.groupsArray;
             this.groupId = groups[groups.length - 1];
+            group = broadcast.groups.get(this.groupId);
           }
-          const episode = group.episodes.get(this.episodeId);
-          console.warn("***", location, group, episode);
+          console.warn("4", group);
+          let episode = group.episodes.get(this.episodeId);
           if (!episode) {
-            this.episodeId = broadcast.latestEpisode.id;
+            const episodes = group.episodesArray;
+            episode = episodes[episodes.length - 1];
+            this.episodeId = episode.id;
           }
+          console.warn("***", location, group, episode);
           this.dirty = true;
           this.dispatchEvent(new CustomEvent("radio.update"));
         })
         .catch((reason => {
-        this.insertAdjacentHTML("beforeend", `<h3>Leider ist ein Fehler aufgetreten!</h3><div>${reason}</div>`);
+        this.insertAdjacentHTML("beforeend", `<div class="alert alert-danger">
+<h3>Leider ist ein Fehler aufgetreten!</h3><div>${reason}</div>
+</div>`);
+    }));
+  }
+
+  private fetchBroadcast2() {
+    const location = `json/ptw.json`;
+    window.fetch(location)
+        .then(response => response.json())
+        .then(all => {
+
+          console.log("all", all);
+
+          let neu = {
+            id: all.id,
+            title: all.title,
+            moderator: all.moderator,
+            station: all.station,
+            groups: []
+          };
+
+          const groups: any[] = all.groups;
+          all.groups = [];
+          groups.forEach(group => {
+            console.info(group.id);
+
+            let newEpisodes = [];
+            const episodes = group.episodes;
+            let index = 0;
+            Object.values(episodes).forEach(episode => {
+
+              let e : any = episode as any;
+
+              let parts = e.parts as any[];
+              parts.forEach(part => {
+                if (part.songList && part.songList.songs) {
+                  part.songs = part.songList.songs;
+                  delete part.songList;
+                }
+              });
+
+              newEpisodes.push(episode);
+            });
+            let newGroup = {
+              id: group.id,
+              title: group.title,
+              station: group.station,
+              moderator: group.moderator,
+              hasCover: group.hasCover,
+              hasMap: group.hasMap,
+              songbck: group.songbck,
+              episodes:newEpisodes,
+            };
+
+            neu.groups.push(newGroup);
+          });
+
+
+          this.insertAdjacentHTML("beforeend", `<div class="alert alert-info">
+<textarea>
+${JSON.stringify(neu, null, 2)}
+</textarea>
+</div>`);
+
+        })
+        .catch((reason => {
+        this.insertAdjacentHTML("beforeend", `<h3 class="alert alert-danger">Leider ist ein Fehler mit ptw.json aufgetreten!</h3><div>${reason}</div>`);
     }));
   }
 
@@ -541,4 +626,23 @@ ${episode.nextId
 
 document.addEventListener("DOMContentLoaded", function (event) {
   window.customElements.define("radio-application", RadioApplication);
+});
+
+class RadioPopover extends HTMLElement {
+
+  constructor() {
+    super();
+  }
+
+  connectedCallback() {
+    console.info("popover connectedCallback()");
+    // @ts-ignore
+    // console.info("Popover", Popover);
+    // @ts-ignore
+    const popover = new bootstrap.Popover(this);
+  }
+}
+
+document.addEventListener("DOMContentLoaded", function (event) {
+  window.customElements.define("radio-popover", RadioPopover);
 });
