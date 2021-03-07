@@ -1,9 +1,14 @@
 #! /bin/bash
 
-for i in `seq 635 650`;
+for id in `seq 642 720`;
 do
-  echo ${i}
-  curl -v -o fiehe-${i}.html --fail https://www1.wdr.de/radio/1live/on-air/sendungen/1live-fiehe/fiehe-${i}.html
+  echo ${id}
+  curl -v -o fiehe-${id}.html --fail https://www1.wdr.de/radio/1live/on-air/sendungen/1live-fiehe/fiehe-${id}.html
+  if [[ -e fiehe-${id}.html ]]; then
+    echo \<script\> >> fiehe-${id}.html
+    cat fiehe.js >> fiehe-${id}.html
+    echo \</script\> >> fiehe-${id}.html
+  fi
 done
 
 # --fail: nicht speichern bei Fehler

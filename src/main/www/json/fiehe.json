@@ -1271,6 +1271,1336 @@
       "date": "2020-07-05",
       "songs": [
         [
+          { "time": "22:04",  "title": "International Love Affair", "performer": "Keleketla!"},
+          { "title": "Sugar And Spice", "performer": "Jimi Tenor"},
+          { "title": "Mit Leib Und Seele (Jericho Version)", "performer": "Spax"},
+          { "title": "Plastic People", "performer": "Siege MC"},
+          { "title": "The Making Of (Need For Mirrors Remix)", "performer": "T.R.A.C."},
+          { "title": "Down In The Dumps", "performer": "Pottery"},
+          { "title": "Spiral Era (Prins Thomas Remix)", "performer": "Jaga Jazzist"},
+          { "title": "Rotation! Rotation!", "performer": "Autarkic"},
+          { "title": "I. Miss. Raving", "performer": "Elkka"},
+          { "title": "Alapathy", "performer": "Fenne Lily"},
+          { "title": "Wheel", "performer": "Katie Von Schleicher"},
+          { "title": "Pretend", "performer": "Becca Mancari"}
+        ],
+        [
+          { "time": "23:04",  "title": "Womxn (Logic 1000 Remix)", "performer": "Låpsley"},
+          { "title": "Yellow Tail", "performer": "Geeneus"},
+          { "title": "Shepherd Song", "performer": "Keleketla!"},
+          { "title": "Whoppa", "performer": "Tinie Tempah feat. Sofia Reyes And Farina"},
+          { "title": "We Had A Song", "performer": "Villem feat. Leo Wood"},
+          { "title": "Race Against Time", "performer": "Chromatic"},
+          { "title": "Saditsfiction", "performer": "Drens"},
+          { "title": "Dawn", "performer": "Bronson feat. Totally Enormous Extinct Dinosaurs"},
+          { "title": "She Sang To Me (C Duncan Remix)", "performer": "Maps"},
+          { "title": "Dungeon", "performer": "Deema"}
+        ],
+        [
+          { "time": "00:04",  "title": "Life Is A Game Of Changing", "performer": "DMA´s"},
+          { "title": "Godzillaaaa", "performer": "Genevieve Artadi feat. Real Bad Man"},
+          { "title": "Klavier Fff", "performer": "Jas Shaw & Bas Grossfeldt"},
+          { "title": "Klavier Mf", "performer": "Jas Shaw & Bas Grossfeldt"},
+          { "title": "On", "performer": "Kelly Lee Owens"},
+          { "title": "Never Come Back (Floating Points Remix)", "performer": "Caribou"},
+          { "title": "Bitter Pill", "performer": "The Jayhawks"},
+          { "title": "Here Comes The Sun (Giles Martin Edit)", "performer": "The Beatles"},
+          { "title": "Validation", "performer": "Dream Wife"},
+          { "title": "Time To Walk Away", "performer": "Washed Out"},
+          { "title": "House Of The Rising Sun", "performer": "Laid Back"}
+        ]
+      ]
+    },
+    {
+      "id": "28",
+      "date": "2020-07-12",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Jon Binzo", "performer": "Theobald Ringer"},
+          { "title": "Away From The Hammock District (Edmondson Remix)", "performer": "Ian Blevins"},
+          { "title": "Summer Places", "performer": "Sam Prekop"},
+          { "title": "Are You Happy Yet?", "performer": "Lionel Boy"},
+          { "title": "Summer Moods", "performer": "Philip D Kick"},
+          { "title": "Something Always Happens (Doc Scott Remix)", "performer": "Art Of Noise"},
+          { "title": "Take Me As I Am", "performer": "The Streets & Chris Lorenzo"},
+          { "title": "Like Fire", "performer": "Jessy Lanza"},
+          { "title": "Everyting Like It Used To Be", "performer": "Muzz"},
+          { "title": "Liebeskummer Im Sommer", "performer": "Friedemann Weise"},
+          { "title": "Primp And Shine", "performer": "NZCA Lines"}
+        ],
+        [
+          { "time": "23:04",  "title": "Life Is A Game Of Changing", "performer": "DMA´s"},
+          { "title": "Both Of Us", "performer": "Jayda G"},
+          { "title": "Menschen Und Mächte", "performer": "Sofia Portanet"},
+          { "title": "Das Kind", "performer": "Sofia Portanet"},
+          { "title": "Alles", "performer": "Perel"},
+          { "title": "Jealous", "performer": "Eyedress"},
+          { "title": "Deny", "performer": "Suv & KC feat. Paul Charles"},
+          { "title": "I Wished You Loved You As Much As You Love Him", "performer": "The Streets feat. Donae´o & Greentea Peng"},
+          { "title": "Iron Man", "performer": "Rema"},
+          { "title": "Black Ice", "performer": "Haiyti"},
+          { "title": "China Be Better", "performer": "Art Feynman"},
+          { "title": "Heavenly Vision", "performer": "Jonathan Bree"}
+        ],
+        [
+          { "time": "00:04",  "title": "Into The Cloud", "performer": "Francois V"},
+          { "title": "Freee (House Mix)", "performer": "DJ Steaw"},
+          { "title": "Sunshine", "performer": "Romare"},
+          { "title": "Things Ain´t Changed", "performer": "L.A.Salami"},
+          { "title": "Land Man", "performer": "Paint"},
+          { "title": "Up From A Dream", "performer": "Haim"},
+          { "title": "Hello Girlfriend", "performer": "DMA´s"},
+          { "title": "For Sure", "performer": "Future Islands"},
+          { "title": "Always In Love", "performer": "A Certain Ratio"},
+          { "title": "1001", "performer": "Darkstar"}
+        ]
+      ]
+    },
+    {
+      "id": "29",
+      "date": "2020-07-19",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Disco 2000", "performer": "Pulp"},
+          { "title": "Pills", "performer": "Gum Country"},
+          { "title": "Lost", "performer": "Lionel Boy"},
+          { "title": "What Matters The Most", "performer": "Vex Ruffin"},
+          { "title": "Korok Shuffle", "performer": "Joe Hertz"},
+          { "title": "Dumebi (Major Lazer Remix)", "performer": "Rema"},
+          { "title": "I Don´t Want U (Seb Zito Remix)", "performer": "Black Logic"},
+          { "title": "Na Cabeca (Original Mix)", "performer": "Silvestre"},
+          { "title": "Lowrider", "performer": "Yussef Kamaal"},
+          { "title": "Save Me", "performer": "Kamaal Williams"},
+          { "title": "Fuzzy Logic", "performer": "DJ Haus"},
+          { "title": "The Travelling Heart", "performer": "Squal G"}
+        ],
+        [
+          { "time": "23:04",  "title": "Liebeskummer Im Sommer", "performer": "Friedemann Weise"},
+          { "title": "All Along The Watchtower", "performer": "The Jimi Hendrix Experience"},
+          { "title": "Something To Rap About", "performer": "Freddie Gibbs & The Alchemist feat. Tyler, The Creator"},
+          { "title": "Do It Properly", "performer": "The Twilite Tone"},
+          { "title": "Can I See You Tonight?", "performer": "Eyedress"},
+          { "title": "Edge Of The Cliff", "performer": "Genevieve Artadi feat. David Binney & Louis Cole"},
+          { "title": "Know Like Dat", "performer": "East Man feat. Streema"},
+          { "title": "Face", "performer": "Jessy Lanza"},
+          { "title": "Funk 160", "performer": "Philip D Kick"},
+          { "title": "This Feeling", "performer": "Faithless"},
+          { "title": "Heart Attack (Club Edit)", "performer": "Bronson feat. Lau.Ra"},
+          { "title": "Modern Business Hymns", "performer": "Protomartyr"},
+          { "title": "Things Ain't Changed", "performer": "L.A. Salami"},
+          { "title": "Like A Rolling Stone", "performer": "Bob Dylan"}
+        ],
+        [
+          { "time": "00:04",  "title": "The Cause of Doubt & a Reason to Have Faith", "performer": "L.A. Salami"},
+          { "title": "Victory", "performer": "Avett Brothers"},
+          { "title": "Will You Tell Me", "performer": "Genevieve Artadi"},
+          { "title": "Hundred Fifty Up", "performer": "Satin Jackets"},
+          { "title": "Quirky Chance", "performer": "Aroent"},
+          { "title": "I Wonder Why", "performer": "Joesef feat. Loyle Carner"},
+          { "title": "Swanky Modes", "performer": "Jarv Is"},
+          { "title": "If There Is No Question", "performer": "Khruangbin"},
+          { "title": "Am I MIssing Something?", "performer": "Jarv Is"},
+          { "title": "Art Deco", "performer": "Sofia Portanet"}
+        ]
+      ]
+    },
+    {
+      "id": "30",
+      "date": "2020-07-26",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Calle F", "performer": "Mala"},
+          { "title": "Exit Stage Left", "performer": "Dilemma"},
+          { "title": "Just The Blues", "performer": "Fleetwood Mac feat. Eddie Boyd"},
+          { "title": "Hobo Blues", "performer": "Cuby + Blizzards"},
+          { "title": "Trying So Hard To Forget", "performer": "Fleetwood Mac"},
+          { "title": "re:stacks", "performer": "Bon Iver"},
+          { "title": "Hoax", "performer": "Taylor Swift"},
+          { "title": "Seven", "performer": "Taylor Swift"},
+          { "title": "Black Magic Woman", "performer": "Fleetwood Mac"},
+          { "title": "All News Is Good News", "performer": "Surprise Chef"}
+        ],
+        [
+          { "time": "23:04",  "title": "On The Boards", "performer": "Taste"},
+          { "title": "Dungeon", "performer": "Deema"},
+          { "title": "Nimbus", "performer": "Devonwho"},
+          { "title": "Bus", "performer": "Slav"},
+          { "title": "Earthchilds", "performer": "Cap Kendricks"},
+          { "title": "I Wonder Why", "performer": "Joesef feat. Loyle Carner"},
+          { "title": "Pass Me By (Howie B Vocal Mix)", "performer": "Raw Stylus"},
+          { "title": "Do It Properly", "performer": "The Twilite Tone"},
+          { "title": "Come And Go (Dombresky Edit)", "performer": "Tokimonsta"},
+          { "title": "Pawn Storm", "performer": "Musumeci"},
+          { "title": "Nature´s Disappearing", "performer": "John Mayall & The Bluesbreakers"},
+          { "title": "Robert Johnson", "performer": "Alexis Korner"},
+          { "title": "Never Roam No More", "performer": "Bahama Soul Club"}
+        ],
+        [
+          { "time": "00:04",  "title": "The Cage", "performer": "L.A. Salami"},
+          { "title": "If 60´s Was 90´s", "performer": "Beautiful People"},
+          { "title": "Albatross", "performer": "Fleetwood Mac"},
+          { "title": "Lost", "performer": "Lionel Boy"},
+          { "title": "Tomita", "performer": "Jaga Jazzist"},
+          { "title": "The World Keep On Turning", "performer": "Fleetwood Mac"},
+          { "title": "Looking For Somebody", "performer": "Fleetwood Mac"},
+          { "title": "No Place To Go", "performer": "Fleetwood Mac"},
+          { "title": "Colourblind", "performer": "Joe Hertz"},
+          { "title": "Delusion (Club Edit)", "performer": "Tender Games"},
+          { "title": "Sunseeker", "performer": "The Naked And Famous"},
+          { "title": "Aeroplane", "performer": "Greer"}
+        ]
+      ]
+    },
+    {
+      "id": "31",
+      "date": "2020-08-02",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Tonic", "performer": "Mitekiss"},
+          { "title": "Wonderful Life", "performer": "!!!"},
+          { "title": "The Search (Domenique Dumont Remix)", "performer": "Jaakko Eino Kalevi"},
+          { "title": "Let Me Be", "performer": "Daniel Trakell"},
+          { "title": "She Sang To Me (C. Duncan Remix)", "performer": "Maps"},
+          { "title": "Haunt", "performer": "Washed Out"},
+          { "title": "Two Satellites", "performer": "Someone feat. C. Duncan"},
+          { "title": "Opticamente Avanzando", "performer": "Boundary"},
+          { "title": "47th Street", "performer": "DJ Haus"},
+          { "title": "Base Jumping (Free Fall Mix)", "performer": "Greg Gow"}
+        ],
+        [
+          { "time": "23:04",  "title": "Haze", "performer": "Bop X Subwave"},
+          { "title": "Spice Up My Life (Flava D Remix)", "performer": "Sammy Virji feat. Paige Eliza"},
+          { "title": "Forever", "performer": "Sammy Virji feat. Tuff Culture"},
+          { "title": "Back To Basics (Floating Points Remix)", "performer": "Headie One feat. Skepta"},
+          { "title": "Agüita", "performer": "Gabriel Garzon-Montano"},
+          { "title": "Never See", "performer": "Otta"},
+          { "title": "Glock", "performer": "Schatzi"},
+          { "title": "Love Can´t Be The Only Reason To Stay", "performer": "Le Ren"},
+          { "title": "Victory", "performer": "The Avett Brothers"},
+          { "title": "All in All in All", "performer": "Jonas David"},
+          { "title": "Sunflower", "performer": "Dizzy"},
+          { "title": "Drama Darling (Maxi Version)", "performer": "Planningtorock"},
+          { "title": "Back F'amour (Faktremat Remix)", "performer": "Matrefakt"}
+        ],
+        [
+          { "time": "00:04",  "title": "Firewood (Club Mix)", "performer": "Saronde feat. Idd Aziz"},
+          { "title": "Televised Mind", "performer": "Fontaines D.C."},
+          { "title": "Living In America", "performer": "Fontaines D.C."},
+          { "title": "Don´t Believe", "performer": "The Psychedelic Furs"},
+          { "title": "Apollonia", "performer": "Pulse Park"},
+          { "title": "Convinced", "performer": "Balcony DC"},
+          { "title": "Trouble", "performer": "Hen Ogledd"},
+          { "title": "Come All Ye Faithful", "performer": "The Psychedelic Furs"},
+          { "title": "Always In Love", "performer": "A Certain Ratio"},
+          { "title": "Anniversary", "performer": "Lone X Kettama"},
+          { "title": "Mint Esadibana Ngayo", "performer": "Bongeziwe Mandabla"},
+          { "title": "Masiziyekelele", "performer": "Bongeziwe Mandabla"}
+        ]
+      ]
+    },
+    {
+      "id": "32",
+      "date": "2020-08-09",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Fantasy", "performer": "James Last"},
+          { "title": "Lieb Vaterland", "performer": "Udo Jürgens"},
+          { "title": "Halbblut", "performer": "Joy Fleming"},
+          { "title": "So Bist Du", "performer": "Peter Maffay"},
+          { "title": "Fremder Mann", "performer": "Marianne Rosenberg"},
+          { "title": "Nachts, Wenn Ich So Alleine Bin", "performer": "Ramon Roselly"},
+          { "title": "Mein Berlin", "performer": "Ben Zucker"},
+          { "title": "Frank Zander (Curry Rap Mix)", "performer": "Frank Zander feat. She-Raw & Plaetter Pi"},
+          { "title": "Hiob", "performer": "Jochen Distelmeyer"},
+          { "title": "Barfuß Im Regen", "performer": "Michael Holm"},
+          { "title": "Marmor, Stein Und Eisen Bricht", "performer": "Drafi Deutscher"},
+          { "title": "Ein Stern (Der Deinen Namen Trägt)", "performer": "DJ Ötzi & Nik P."},
+          { "title": "Lass Mich Die Luft In Deiner Lunge Sein", "performer": "Pottoriginale feat. Helmut"}
+        ],
+        [
+          {  "time": "23:04", "title": "Proud Mary/Get Back", "performer": "James Last"},
+          { "title": "Standing In The Cold, In The Rain", "performer": "Ed Kuepper"},
+          { "title": "Ich Mache Keine Komplimente", "performer": "Ricky Shayne"},
+          { "title": "Schickt Mir Die Post", "performer": "Wanda"},
+          { "title": "Lang Nicht Mehr Gemacht", "performer": "Roland Kaiser"},
+          { "title": "Wolkenbruch Im 7ten Himmel", "performer": "Laura Wilde"},
+          { "title": "Herzschlag Ist Der Takt", "performer": "Münchener Freiheit"},
+          { "title": "Die Zeit Macht Nur Vor dem Teufel Halt", "performer": "Barry Ryan"},
+          { "title": "Bewundernswert (Orchester-Version)", "performer": "Ross Antony"},
+          { "title": "Geh Nicht Vorbei", "performer": "Christian Anders"},
+          { "title": "Pure Lust Am Leben", "performer": "Geier Sturzflug"},
+          { "title": "Eine Neue Liebe Ist Wie Ein Neues Leben", "performer": "Jürgen Marcus"}
+        ],
+        [
+          {  "time": "00:04", "title": "ZDF Hitparade Titelmelodie", "performer": "James Last"},
+          { "title": "Die Immer Lacht", "performer": "Stereoact feat. Kerstin Ott"},
+          { "title": "Der letzte Cowboy", "performer": "Thommie Bayer Band"},
+          { "title": "Hello Again", "performer": "Howard Carpendale"},
+          { "title": "Stimmen Im Wind", "performer": "Justus Köhncke"},
+          { "title": "Doch In Der Nacht", "performer": "Apache 207"},
+          { "title": "Wenn Du Denkst, Du Denkst, Dann Denkst Du Nur Du Denkst", "performer": "Juliane Werding"},
+          { "title": "Felicità", "performer": "Albano & Romina Power"},
+          { "title": "Im Goldenen Hahn", "performer": "Das Lunsentrio"},
+          { "title": "Hallo, Ich Bin Rocko Schamoni", "performer": "Rocko Schamoni"},
+          { "title": "Warum Hast Du Nicht Nein Gesagt", "performer": "Roland Kaiser & Maite Kelly"},
+          { "title": "Adios Amor", "performer": "Andy Borg"},
+          { "title": "Ein Bißchen Trash Braucht Jeder Mensch", "performer": "Roger Trash"}
+        ]
+      ]
+    },
+    {
+      "id": "33",
+      "date": "2020-08-16",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Do We Really Care? Pt. 1", "performer": "Future Utopia feat. Tom Grennan"},
+          { "title": "Latin Grammys", "performer": "Action Bronson"},
+          { "title": "On Code", "performer": "Crayon"},
+          { "title": "Do Me", "performer": "Crayon"},
+          { "title": "Open Gate", "performer": "Kuami Eugene"},
+          { "title": "Dumebi (Henry Fong & Jayceeoh Remix)", "performer": "Rema"},
+          { "title": "TNT", "performer": "Nayana IZ"},
+          { "title": "Hunnies", "performer": "Ace Tee"},
+          { "title": "Hu – Man", "performer": "Greentea Peng"},
+          { "title": "I Wonder Why", "performer": "Joesef feat. Loyle Carner"},
+          { "title": "FKN Happy Days", "performer": "Oscar Jerome"},
+          { "title": "Lemonade", "performer": "Internet Money Feat. Gunna, Don Toliver"},
+          { "title": "Waiting For A Train", "performer": "Flash And The Pan"},
+          { "title": "The Search (Domenique Dumont Remix)", "performer": "Jaakko Eino Kalevi"},
+          { "title": "Spiral Era (Prins Thomas Remix)", "performer": "Jaga Jazzist"}
+        ],
+        [
+          {  "time": "23:04", "title": "Back And Again", "performer": "Moscoman"},
+          { "title": "Walk It Off", "performer": "!!! (chk chk chk) feat. Meah Pace"},
+          { "title": "Soft Fruit", "performer": "Global Charming"},
+          { "title": "The Deep", "performer": "Someone"},
+          { "title": "Burn Too Bright", "performer": "Laura Veirs"},
+          { "title": "Interlazados", "performer": "Boundary"},
+          { "title": "Lilith", "performer": "Luis Ake"},
+          { "title": "Press", "performer": "Cardi B"},
+          { "title": "Blumen", "performer": "Luka08"},
+          { "title": "Iginition", "performer": "Salomo"},
+          { "title": "A.M. AM", "performer": "Whitney"}
+        ],
+        [
+          { "time": "00:04",  "title": "Turning Tides", "performer": "Moscoman feat. Vanity Fairy"},
+          { "title": "Nouveau Monde (Mathew Jonson Remix)", "performer": "Rone"},
+          { "title": "They´re Talking", "performer": "EvenS"},
+          { "title": "Apex", "performer": "Jaga Jazzist"},
+          { "title": "Ur2yung", "performer": "Machinedrum"},
+          { "title": "Paralyzed", "performer": "Washed Out"},
+          { "title": "WAP", "performer": "Cardi B feat. Megan Thee Stallion"},
+          { "title": "Dear Mama", "performer": "Nayana IZ"},
+          { "title": "Deliverance", "performer": "Sa-Roc"},
+          { "title": "Solitaires", "performer": "Future feat. Travis Scott"},
+          { "title": "Jaune", "performer": "Monophobe & Sixtus Preiss"},
+          { "title": "Tadow (New Version)", "performer": "Masego & FKJ"}
+        ]
+      ]
+    },
+    {
+      "id": "34",
+      "date": "2020-08-23",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "Echoes", "performer": "Roosevelt"},
+          { "title": "Cities", "performer": "Public Practice"},
+          { "title": "Spiral Era (Prins Thomas Remix)", "performer": "Jaga Jazzist"},
+          { "title": "Faith", "performer": "Sneaks"},
+          { "title": "Dig In", "performer": "I Like Trains"},
+          { "title": "Sludge", "performer": "Squid"},
+          { "title": "Ship", "performer": "The Notwist"},
+          { "title": "Close My Eyes", "performer": "Will Butler"},
+          { "title": "Maybe Just Once", "performer": "Video Age"},
+          { "title": "Turn Me On", "performer": "Dinner"},
+          { "title": "New Life", "performer": "J. Vague"},
+          { "title": "The Good Ones", "performer": "Widowspeak"},
+          { "title": "All Bad", "performer": "Nas feat. Anderson .Paak"},
+          { "title": "King´s Disease", "performer": "Nas"}
+        ],
+        [
+          { "time": "23:04",  "title": "Cole", "performer": "Need For Mirrors"},
+          { "title": "The Summoner", "performer": "J:Kenzo"},
+          { "title": "Way I Feel", "performer": "Kodan"},
+          { "title": "Hold On", "performer": "Simplification"},
+          { "title": "Regret", "performer": "Simplification"},
+          { "title": "Sniper", "performer": "D Power Diesle & Skepta"},
+          { "title": "Know Me", "performer": "Bronson feat. Gallant"},
+          { "title": "Vaults", "performer": "Bronson"},
+          { "title": "Running", "performer": "Prayer"},
+          { "title": "Sister", "performer": "TSHA"},
+          { "title": "Idaho", "performer": "Slow Pulp"},
+          { "title": "FMB", "performer": "Minimal Schlager"},
+          { "title": "Televised Mind", "performer": "Fontaines D.C."}
+        ],
+        [
+          { "time": "00:04",  "title": "Entrepreneur", "performer": "Pharrell Williams feat. JAY-Z "},
+          { "title": "Hu Man", "performer": "Greentea Peng"},
+          { "title": "Samba De Uma Nota So", "performer": "Stan Getz & Charlie Byrd"},
+          { "title": "The Girl From Ipanema", "performer": "The Dylan Group"},
+          { "title": "Holy Mackerel", "performer": "Dirty Projectors"},
+          { "title": "Rosada", "performer": "DJ Python "},
+          { "title": "Come To", "performer": "Daniel Trakell"},
+          { "title": "St Augustine At Night", "performer": "Dawes"},
+          { "title": "Rest Up", "performer": "Boy Pablo"},
+          { "title": "The Ryder", "performer": "Holy"},
+          { "title": "Video Game", "performer": "Sufjan Stevens"}
+        ]
+      ]
+    },
+    {
+      "id": "35",
+      "date": "2020-08-30",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Vision Of This Earth Before Our Time", "performer": "Botany"},
+          { "title": "Solesaft", "performer": "Hudson Mohawke"},
+          { "title": "Kaleidoscope", "performer": "Siopis feat. MC Coppa"},
+          { "title": "Dub Riddem", "performer": "Litlle Fritter"},
+          { "title": "Burning", "performer": "Rogue D"},
+          { "title": "The Truth", "performer": "I Like Trains"},
+          { "title": "Hannah Sun", "performer": "Lomelda"},
+          { "title": "Every Thing", "performer": "Jonas David"},
+          { "title": "Ordinary Day", "performer": "Bob Moses"},
+          { "title": "Identical", "performer": "Phoenix"},
+          { "title": "Envious", "performer": "Alunageorge"}
+        ],
+        [
+          {  "time": "23:04", "title": "Good In Bed (Zach Witness & Glen Hoshino Remixes)", "performer": "Dua Lipa & The Blessed Madonna"},
+          { "title": "Pretty Please (Midland Refix/Mixed)", "performer": "Dua Lipa & The Blessed Madonna"},
+          { "title": "Pretty Please (Masters At Work Remix)", "performer": "Dua Lipa & The Blessed Madonna"},
+          { "title": "Jeanette", "performer": "Kelly Lee Owens"},
+          { "title": "Flesh", "performer": "A Split Second"},
+          { "title": "Dum Stripper", "performer": "Sex Judas feat. Raymond T. Hauger"},
+          { "title": "Mabuhay Boy", "performer": "Vex Ruffin"},
+          { "title": "No Ties", "performer": "Wax Chattels"},
+          { "title": "Waves From One Sea", "performer": "Alex Medina feat. Elna"},
+          { "title": "Prolex (Francesca Lombardo Remix)", "performer": "Gel Abril"},
+          { "title": "Ready", "performer": "Mark Jenkyns"},
+          { "title": "Disraeli Woman", "performer": "Alex Izenberg"}
+        ],
+        [
+          {  "time": "00:04", "title": "Anadolu Flex", "performer": "Murda & Ezhel"},
+          { "title": "Get Down", "performer": "DRS & Dynamite feat. DJ Zinc"},
+          { "title": "Not The Fake Ones", "performer": "DRS & Dynamite feat. Roni Size"},
+          { "title": "Back & Forth", "performer": "DRS & Dynamite feat. S.P.Y"},
+          { "title": "Rio (Remix)", "performer": "Netsky feat. Macklemore & Digital Farm Animals"},
+          { "title": "Synthesizer", "performer": "Faithless"},
+          { "title": "Cruising On The Playa (S.A.M. Remix)", "performer": "Salomé Le Chat"},
+          { "title": "Heat Up", "performer": "Giant Rooks"},
+          { "title": "Save Me", "performer": "Embrace"},
+          { "title": "Ordinary Pleasure", "performer": "Toro Y Moi"},
+          { "title": "Lippen 032c", "performer": "Luka08"},
+          { "title": "Come To Mine (HNNY Mix)", "performer": "Sly One"}
+        ]
+      ]
+    },
+    {
+      "id": "36",
+      "date": "2020-09-06",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Rise", "performer": "Herb Alpert"},
+          { "title": "Kiss And Make Up (Remix/Mixed)", "performer": "Dua Lipa & BLackpink"},
+          { "title": "No Shame", "performer": "Sex Judas feat. Linn Nystadness"},
+          { "title": "Fire", "performer": "Lizzy Mercier Descloux"},
+          { "title": "Hello Echo", "performer": "Kiwi"},
+          { "title": "Beginning (Totally Enormous Extinct Dinosaurs Remix)", "performer": "LA Priest"},
+          { "title": "Passive Agressive", "performer": "Eight Rounds Rapid"},
+          { "title": "Hail Taxi", "performer": "Metz"},
+          { "title": "My High", "performer": "Disclosure feat. Slowthai & Amine"},
+          { "title": "Forever", "performer": "Sammy Virji feat. Tuffculture"}
+        ],
+        [
+          { "time": "23:04",  "title": "The Woman Who Planted Trees", "performer": "Emily Barker"},
+          { "title": "Deep In Love", "performer": "Bonny Light Horseman"},
+          { "title": "Said It Again", "performer": "Isola"},
+          { "title": "Hey-Hey", "performer": "Michael Rother"},
+          { "title": "Summer Places", "performer": "Sam Prekop"},
+          { "title": "Höhlenmenschenmuziek", "performer": "Harmonious Thelonious"},
+          { "title": "I'll Be 20 When I'm 40", "performer": "Mr. Mitch"},
+          { "title": "Dark Surface (Flug 8 Remix)", "performer": "Graintable"},
+          { "title": "Location 14", "performer": "Krononaut"},
+          { "title": "XIV. @MarcKings", "performer": "The Growth Eternal"}
+        ],
+        [
+          { "time": "00:04",  "title": "Bitter Tang", "performer": "Michael Rother"},
+          { "title": "Lilith", "performer": "Luis Ake"},
+          { "title": "Big Tiger", "performer": "Eli & Fur"},
+          { "title": "Star", "performer": "Machinedrum feat. Mono/Poly & Tanerélle"},
+          { "title": "Destinations (Jacques Greene Remix)", "performer": "Mild Minds"},
+          { "title": "White Becomes Black", "performer": "Soela"},
+          { "title": "Let It Go", "performer": "Peter Broderick"},
+          { "title": "Versus Shapes", "performer": "Mammal Hands"},
+          { "title": "The Pool Of Memories", "performer": "Lubomir Melnyk"}
+        ]
+      ]
+    },
+    {
+      "id": "37",
+      "date": "2020-09-13",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Night Bus", "performer": "Burial"},
+          { "title": "Chromosome", "performer": "Kareem Lotfy"},
+          { "title": "Market", "performer": "Tuomo Väänänen"},
+          { "title": "Shall We Just Stop?", "performer": "Ant Orange"},
+          { "title": "Toroidal", "performer": "QOQEQA"},
+          { "title": "Rosada", "performer": "DJ Python"},
+          { "title": "Babel", "performer": "DJ Raff"},
+          { "title": "Something More (Soulwax Remix)", "performer": "Róisín Murphy"},
+          { "title": "Rubriousa", "performer": "Fetti031"},
+          { "title": "Nili", "performer": "Chucky73 feat. Fivio Foreign"},
+          { "title": "Kili", "performer": "Chucky73 & Fetti031"},
+          { "title": "I Can´t Sleep", "performer": "Poorstacy feat. Iann Dior"},
+          { "title": "Knockin On Mine", "performer": "Paul Westerberg"}
+        ],
+        [
+          { "time": "23:04",  "title": "Like Fire", "performer": "Bully"},
+          { "title": "Vermessen", "performer": "Erregung Öffentlicher Erregung"},
+          { "title": "Berrytone Souvenir", "performer": "Tolouse Low Trax"},
+          { "title": "A Chance To Rest (Yamaneko Remix)", "performer": "Lena Raine"},
+          { "title": "See You Next Fall", "performer": "All Them Witches"},
+          { "title": "Wind", "performer": "Charlotte Brandi feat. Dirk Von Lotzow"},
+          { "title": "Mother I´ve Taken LSD", "performer": "The Flaming Lips"},
+          { "title": "One At A Time", "performer": "Garcia Peoples"},
+          { "title": "Politics As Usual", "performer": "Spirituals"},
+          { "title": "Summer Places", "performer": "Sam Prekop"},
+          { "title": "No G.D.M.", "performer": "Gina X Performance"}
+        ],
+        [
+          { "time": "00:04",  "title": "No Hesitation", "performer": "Sister Zo"},
+          { "title": "Desert Lights", "performer": "Flava D"},
+          { "title": "Feel It", "performer": "My Nu Leng & S.P.Y"},
+          { "title": "BIrthday (MJ Cole Remix)", "performer": "Disclosure feat. Kehlani & Syd"},
+          { "title": "Rise", "performer": "Diego Krause"},
+          { "title": "No Surprise", "performer": "Jonas Rathsman"},
+          { "title": "We´ll Call You", "performer": "Ant Orange"},
+          { "title": "September Remember", "performer": "Sam Prekop"},
+          { "title": "Plum", "performer": "Widowspeak"},
+          { "title": "Solipsism", "performer": "Fenne Lily"},
+          { "title": "Mother", "performer": "Eve Owen"}
+        ]
+      ]
+    },
+    {
+      "id": "38",
+      "date": "2020-09-20",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Nostalgia", "performer": "Paul White"},
+          { "title": "FAR", "performer": "Potter Payper"},
+          { "title": "Kworon", "performer": "Letherette"},
+          { "title": "Working", "performer": "Cartel Madras & Jide"},
+          { "title": "b2", "performer": "Unknown"},
+          { "title": "Pitch Control", "performer": "Guava"},
+          { "title": "Juggler", "performer": "Hudson Mohawke"},
+          { "title": "301-341-7207", "performer": "Dreamcastmoe"},
+          { "title": "Estaré (Remix)", "performer": "Eix, Lyanno, Darkiel feat. Los Fantastikos"},
+          { "title": "Rosada", "performer": "DJ Python"},
+          { "title": "Corsican Shores", "performer": "Deradoorian"},
+          { "title": "Yawn", "performer": "Bullion"},
+          { "title": "Voltage Flowers", "performer": "Tralala Blip"},
+          { "title": "Rare Air", "performer": "Mildlife"}
+        ],
+        [
+          {  "time": "23:04", "title": "Hey Mama", "performer": "Neon Jesus"},
+          { "title": "Gipsy Eyes", "performer": "The Jimi Hendrix Experience"},
+          { "title": "Stone Freei", "performer": "The Jimi Hendrix Experience"},
+          { "title": "Purple Haze", "performer": "The Shamen"},
+          { "title": "Dolly Dagger", "performer": "Jimi Hendrix"},
+          { "title": "Spin2Glory", "performer": "Bullion"},
+          { "title": "The Wind Cries Mary", "performer": "The Jimi Hendrix Experience"},
+          { "title": "My Friend", "performer": "Jimi Hendrix"},
+          { "title": "An Ungrateful Death", "performer": "Shcaa"},
+          { "title": "Bad Name", "performer": "Filistine"},
+          { "title": "Tele-Vangelis", "performer": "Botany"}
+        ],
+        [
+          {  "time": "00:04", "title": "Vision Of This Earth Before Our Time", "performer": "Botany"},
+          { "title": "New Energy", "performer": "Paul White"},
+          { "title": "Smile (See The Light)", "performer": "Paul White ft. Iyamah & Remi"},
+          { "title": "Two Sides To Every Story (Intro)", "performer": "Late Night Tango"},
+          { "title": "Alone", "performer": "Night Lavell"},
+          { "title": "Deep Thoughts", "performer": "Disrupta feat. Duskee"},
+          { "title": "Fire In Zero Gravity", "performer": "Acolyte"},
+          { "title": "Bargun (Lee Curtiss Remix)", "performer": "SIS"},
+          { "title": "Hanging Waters", "performer": "Ben & Dylan"},
+          { "title": "I´m Feeling It", "performer": "Hello Forever"},
+          { "title": "Falling In Love", "performer": "LA Woman"},
+          { "title": "1983….(A Merman I Should Turn To Be)", "performer": "The Jimi Hendrix Experience"}
+        ]
+      ]
+    },
+    {
+      "id": "39",
+      "date": "2020-09-27",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "Out Of Control", "performer": "DJ Zinc feat. Kudu Blue"},
+          { "title": "The Pursuit (Artificial Intelligence Remix)", "performer": "T.R.A.C. feat. Paul SG & MC Conrad"},
+          { "title": "Perfect Summer", "performer": "Mr Joseph x Illmatika x Sofi Mari"},
+          { "title": "Heartbreak", "performer": "Bonobo & Totally Enormous Extinct Dinosaurs"},
+          { "title": "Latin Grammys", "performer": "Action Bronson"},
+          { "title": "Kane Train", "performer": "Machinedrum feat. Freddie Gibbs"},
+          { "title": "Far Out", "performer": "Homeboy Sandman"},
+          { "title": "Love Knows", "performer": "Steve Arrington"},
+          { "title": "Worst Comes To Worst", "performer": "Marie Davidson & L'Œil Nu"},
+          { "title": "Valleys", "performer": "Working Men´s Club"},
+          { "title": "Adventures In Success", "performer": "Do Nothing"},
+          { "title": "Supafreak", "performer": "A Certain Ratio"},
+          { "title": "Earworm", "performer": "Hen Ogledd"},
+          { "title": "Apex (Theo Kottis Rmx)", "performer": "Will Easton"}
+        ],
+        [
+          {  "time": "23:04", "title": "I Tried So Hard", "performer": "Quakers"},
+          { "title": "Midnight Vines (Cool Jazz For Lovers Remix)", "performer": "Big Chief"},
+          { "title": "Bend Backwards", "performer": "Dreamcastmoe"},
+          { "title": "Shockadelica (12“ Long Version)", "performer": "Prince"},
+          { "title": "Ischia", "performer": "Isola"},
+          { "title": "Oblivion", "performer": "WhoMadeWho & Mano Le Tough"},
+          { "title": "Destinations (Jacques Greene Remix)", "performer": "Mild Minds"},
+          { "title": "Saturnine Night", "performer": "Deradoorian"},
+          { "title": "Forecast Of Rain", "performer": "Bob Mould"},
+          { "title": "Worth It", "performer": "Beabadoobee"},
+          { "title": "At It Again", "performer": "Slow Pulp"},
+          { "title": "Model Village", "performer": "Idles"}
+        ],
+        [
+          { "time": "00:04",  "title": "Mabuhay Boy", "performer": "Vex Ruffin"},
+          { "title": "Splash", "performer": "Action Bronson"},
+          { "title": "Blue Jeans (DJ Supermarkt & Jack Tennis-Remix)", "performer": "Die Kerzen"},
+          { "title": "Il Mio Bungalow", "performer": "Crucchi Gang & Francesco Wilking"},
+          { "title": "Downstream", "performer": "Mildlife"},
+          { "title": "Hard Times", "performer": "Will Butler"},
+          { "title": "Sunblind", "performer": "Fleet Foxes"},
+          { "title": "A Long Way Past The Past", "performer": "Fleet Foxes"},
+          { "title": "Colors In The Sky", "performer": "Hello Forever"},
+          { "title": "Body Bag", "performer": "Paul White"},
+          { "title": "Blacktop Mirage", "performer": "Botany"},
+          { "title": "Trauma", "performer": "Homeboy Sandman"},
+          { "title": "Hold It Down", "performer": "Quinte"},
+          { "title": "Prophet Vector Synth Dazzling in the Sun", "performer": "Legowelt"}
+        ]
+      ]
+    },
+    {
+      "id": "40",
+      "date": "2020-10-04",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Get It Right", "performer": "Hello Forever"},
+          { "title": "UFO", "performer": "D Block Europe feat. Aitch"},
+          { "title": "Ursa Major", "performer": "Sufjan Stevens"},
+          { "title": "Mountain", "performer": "M.Byrd"},
+          { "title": "Speed Of The Sound Of Loneliness", "performer": "Kurt Vile"},
+          { "title": "Requiem (Erkennung)", "performer": "Wandl"},
+          { "title": "The Spell (Burial Mix)", "performer": "Charles Webster ft. Ingrid Chavez"},
+          { "title": "Nouveau Monde (Mathew Jonson Remix)", "performer": "Rone"},
+          { "title": "Love U", "performer": "Silvestre"},
+          { "title": "Mira My Look", "performer": "Gabriel Garzon-Montano"},
+          { "title": "Muneca", "performer": "Gabriel Garzon-Montano"},
+          { "title": "Something Real", "performer": "Sa-Roc"}
+        ],
+        [
+          { "time": "23:04",  "title": "Do It Properly", "performer": "The Twilite Tone"},
+          { "title": "Valleys", "performer": "Working Men´s Club"},
+          { "title": "Talks", "performer": "PVA"},
+          { "title": "We Got Together", "performer": "Róisín Murphy"},
+          { "title": "Suicide in Texas (Panther Modern Remix)", "performer": "Automatic"},
+          { "title": "Pool Song", "performer": "Lea Porcelain"},
+          { "title": "Plastic Beach", "performer": "Future Islands"},
+          { "title": "John Cooper Clarke", "performer": "Working Men´s Club"},
+          { "title": "I Want", "performer": "Mieux"},
+          { "title": "Know Me (Cassian Remix)", "performer": "Bronson feat. Gallant"},
+          { "title": "Undone Again", "performer": "Sophia"},
+          { "title": "Lullaby No. 2 (Radio Version)", "performer": "Jake The Rapper"}
+        ],
+        [
+          { "time": "00:04",  "title": "Visions Of This Earth Before Our Time", "performer": "Botany"},
+          { "title": "Out Of Your Life", "performer": "Letherette"},
+          { "title": "House Of Dreams", "performer": "Thorne Miller feat. Jamie Fallon Smith"},
+          { "title": "Homespun", "performer": "Glenn Astro feat. Ajnascent"},
+          { "title": "Tell Me You Love Me", "performer": "Sufjan Stevens"},
+          { "title": "Spin Blocks", "performer": "Machinedrum feat. Father"},
+          { "title": "Green District", "performer": "Potter Payper"},
+          { "title": "Colour My Soul (Winson Remix)", "performer": "Degs feat. Logistics"},
+          { "title": "Passenger", "performer": "Om Unit & Martyn"},
+          { "title": "Untitled Dub", "performer": "Kiril"},
+          { "title": "The Pursuit (Artificial Intelligence Remix)", "performer": "T.R.A.C. feat. Paul SG & MC Conrad"},
+          { "title": "Simulation", "performer": "Róisín Murphy"}
+        ]
+      ]
+    },
+    {
+      "id": "41",
+      "date": "2020-10-11",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Murda", "performer": "Sharna Bass"},
+          { "title": "You´re Not Ready", "performer": "Steve Arrington"},
+          { "title": "I Want", "performer": "Mieux"},
+          { "title": "Changing Times", "performer": "Joint4nine"},
+          { "title": "Apex (Lindstrøm & Prins Thomas Remix)", "performer": "Jaga Jazzist"},
+          { "title": "Estadia", "performer": "Omy De Oro & Rauw Alejandro"},
+          { "title": "Open Gate", "performer": "Kuami Eugene"},
+          { "title": "Amen", "performer": "Kuami Eugene"},
+          { "title": "Bad Commando", "performer": "Rema"},
+          { "title": "1000 Miles", "performer": "Machinedrum feat. Sub Focus"},
+          { "title": "Love Letters", "performer": "Winslow"},
+          { "title": "Kane Train", "performer": "Machinedrum feat. Freddie Gibbs"}
+        ],
+        [
+          { "time": "23:04",  "title": "Californian Soil", "performer": "London Grammar"},
+          { "title": "A Reckoning", "performer": "Garcia Peoples"},
+          { "title": "Better Man", "performer": "Long Tall Jefferson"},
+          { "title": "Wisdom/Boredom", "performer": "Daniel Trakell"},
+          { "title": "Hauptbahnhof", "performer": "Lovemachine"},
+          { "title": "Game Changer", "performer": "Roisin Murphy"},
+          { "title": "Know You (Skream Remix)", "performer": "Bronson feat. Gallant"},
+          { "title": "Set Me Free", "performer": "Kemback"},
+          { "title": "Heartbreak", "performer": "Bonobo & Totally Enormous Extinct Dinosaurs"},
+          { "title": "Wrk Dat Body", "performer": "DJ Earl"},
+          { "title": "Light Aery (Cosmin TRG Remix)", "performer": "Ogris Debris"},
+          { "title": "See-line Woman (Ogris Debris Remix)", "performer": "Nina Simone"}
+        ],
+        [
+          { "time": "00:04",  "title": "Star", "performer": "Carlito & Addiction"},
+          { "title": "Tomorrow", "performer": "Working Men´s Club"},
+          { "title": "Texas Drums, Pt 1 & 2", "performer": "Pottery"},
+          { "title": "Yo Yo Gi", "performer": "A Certain Ratio"},
+          { "title": "Houses In Motion (Demo Version 1)", "performer": "A Certain Ratio"},
+          { "title": "The Lite", "performer": "The Twilite Tone"},
+          { "title": "Legendary", "performer": "Chillinit"},
+          { "title": "Rich Nigga Shit", "performer": "21 Savage feat. Young Thug"},
+          { "title": "Fall", "performer": "Reason"},
+          { "title": "High Enough", "performer": "Kingdom feat. Tiara Thomas"},
+          { "title": "Star", "performer": "Machinedrum feat. Mono/Poly & Tanerélle"},
+          { "title": "Helpless", "performer": "Wandl"},
+          { "title": "Homeless", "performer": "Fooks Nihil"}
+        ]
+      ]
+    },
+    {
+      "id": "42",
+      "date": "2020-10-18",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Der Kuckuck Und Der Esel", "performer": "Keks & Kumpels Singen Hits Für Kids"},
+          { "title": "Die Rettung der Grashüpfer Und Meeresschildkröten", "performer": "Luca Und Freunde"},
+          { "title": "Pressure", "performer": "Submerse"},
+          { "title": "Vision Of This Earth Before Our Time", "performer": "Botany"},
+          { "title": "Kworon", "performer": "Letherette"},
+          { "title": "Moreira", "performer": "Glenn Astro"},
+          { "title": "The Human Factor", "performer": "Gerry Franke"},
+          { "title": "Gravity/Falling Down Again", "performer": "Alejandro Escovedo"},
+          { "title": "Warrior (Salute Remix)", "performer": "Aluna"},
+          { "title": "Bad Shit (Champion Rmx)", "performer": "Jarreau Vandal"},
+          { "title": "Buggin", "performer": "Gemi"},
+          { "title": "Hounds Of Hell", "performer": "The Phoenix Foundation feat. Nadia Reid"},
+          { "title": "Decision Dollars", "performer": "The Phoenix Foundation feat. Hollie Fullbrook"},
+          { "title": "Rapunzel", "performer": "Rapunzel"},
+          { "title": "The Spell (Burial Remix)", "performer": "Charles Webster feat. Ingrid Chavez"},
+          { "title": "Two Reverse", "performer": "Adrianne Lenker"}
+        ],
+        [
+          { "time": "23:04",  "title": "Won´t GIve Up", "performer": "Ejeca feat. Kele Okereke"},
+          { "title": "They Told Us It Was Hard, But They Were Wrong (DJ Python Rmx)", "performer": "Ela Minus"},
+          { "title": "Wait 4 U", "performer": "Machinedrum feat. Jesse Boykins III"},
+          { "title": "Come Home", "performer": "Boy Pablo"},
+          { "title": "Charlie Brown", "performer": "Beabadoobee"},
+          { "title": "Der Frosch Sitzt Auf Dem Rasen", "performer": "Keks & Kumpels Singen Hits Für Kids"},
+          { "title": "Mr. Manager", "performer": "Zazou Bikaye"},
+          { "title": "The Gift (Dornröschen)", "performer": "Shortee"},
+          { "title": "Straight", "performer": "Homeboy Sandman"},
+          { "title": "Lust For Life", "performer": "Iggy Pop"},
+          { "title": "Roadtrip", "performer": "Church Andrews & Matt Davies"},
+          { "title": "This Year´s Boy #1", "performer": "Luca & Julia"},
+          { "title": "This Year´s Girl #2", "performer": "Pizzicato Five"}
+        ],
+        [
+          { "time": "00:04",  "title": "Ein Dinosaurier Sitzt Bei Uns Im Garten", "performer": "Keks & Kumpels Singen Hits Für Kids"},
+          { "title": "Peba", "performer": "Star Feminine Band"},
+          { "title": "ATL To DBN", "performer": "Say3"},
+          { "title": "Steam One", "performer": "DJ Lag & Okzharp"},
+          { "title": "Future Toyi Toyi (Gqom Version)", "performer": "Keleketla! Feat. DJ Mabheko"},
+          { "title": "Desire (Solomun Remix)", "performer": "Bob Moses feat. ZHU"},
+          { "title": "Avalanche", "performer": "Stromkasten"},
+          { "title": "Vitamin C", "performer": "Can"},
+          { "title": "Know Me (Skream Rmx)", "performer": "Bronson feat. Gallant"},
+          { "title": "Plexus 3AK (Nicole Moudaber Remix)", "performer": "Booka Shade"},
+          { "title": "Reactiv-8", "performer": "Eris Drew"},
+          { "title": "Vom Fischer Und Seiner Frau", "performer": "Der Fischer Und Seine Frau"},
+          { "title": "The New OK", "performer": "Drive By Truckers"}
+        ]
+      ]
+    },
+    {
+      "id": "43",
+      "date": "2020-10-25",
+      "songs": [
+        [
+          { "time": "22:04",  "title": "Black Girl Magic", "performer": "Dapo Tuburna"},
+          { "title": "Warrior (Salute Remix)", "performer": "Aluna"},
+          { "title": "Sunstream", "performer": "Instinct"},
+          { "title": "Reclaim Me (Maya Jane Coles Remix)", "performer": "Wax Wings feat. Nimmo"},
+          { "title": "Do Too Much", "performer": "Boiish"},
+          { "title": "The Valley Of The Pagans", "performer": "Gorillaz feat. Beck"},
+          { "title": "I Want", "performer": "Mieux"},
+          { "title": "Divine Intervention", "performer": "PVA"},
+          { "title": "Das Letzte Lied Des Sommers", "performer": "Die Ärzte"},
+          { "title": "Polyester", "performer": "Die Ärzte"},
+          { "title": "Track 6", "performer": "Ty Dolla $ign feat. Anderson .Paak & Thundercat"},
+          { "title": "Temptations", "performer": "Ty Dolla $ign feat. Kid Cudi"},
+          { "title": "Nightmare", "performer": "SpaceMan Zack"},
+          { "title": "How Do We Find Our Truth", "performer": "Future Utopia feat. Stormzy & Beatrice Mushiya"},
+          { "title": "Floating Out", "performer": "Rose City Band"}
+        ],
+        [
+          { "time": "23:04",  "title": "Pyro", "performer": "Good Sad Happy Bad"},
+          { "title": "Something More", "performer": "Nabihah Iqbal"},
+          { "title": "1119", "performer": "Edwin Rosen"},
+          { "title": "Leave Me Alone", "performer": "Boy Pablo"},
+          { "title": "Eiszeit", "performer": "Ideal"},
+          { "title": "Vermessen", "performer": "EÖE (Erregung Öffentlicher Erregung)"},
+          { "title": "Mookie Mookie", "performer": "Herman Dune"},
+          { "title": "Kinky Afro", "performer": "Happy Mondays"},
+          { "title": "Transit Of Venus", "performer": "The Phoenix Foundation"},
+          { "title": "Torpedo (Musumeci Remix)", "performer": "AFFKT"},
+          { "title": "Dogmatik (Basti Grub Rmx)", "performer": "Silent Revolt feat. Ari Carlini"},
+          { "title": "El Cielo No Es De Nadie", "performer": "Ela Minus"}
+        ],
+        [
+          { "time": "00:04",  "title": "XRAY", "performer": "Actress"},
+          { "title": "Taking Care Of Business", "performer": "Glenn Astro"},
+          { "title": "NRG Remains", "performer": "Verraco"},
+          { "title": "Day One", "performer": "Jose Padilla"},
+          { "title": "Half Silences", "performer": "Loma"},
+          { "title": "If I Was The Priest", "performer": "Bruce Springsteen"},
+          { "title": "White Byutterfly", "performer": "Nina Hynes"},
+          { "title": "Loveless", "performer": "Actress feat. Aura T-09"},
+          { "title": "Turin", "performer": "Actress feat. Aura T-09"}
+        ]
+      ]
+    },
+    {
+      "id": "44",
+      "date": "2020-11-01",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "Complicated", "performer": "Netsky"},
+          { "title": "Warrior (Salute Remix)", "performer": "Aluna"},
+          { "title": "Pistolwhip", "performer": "Instinct"},
+          { "title": "Life In Motion (Carlito & Addiction Rmx)", "performer": "T.R.A.C. feat. Submorphics"},
+          { "title": "Baaaaaa", "performer": "DJ Earl"},
+          { "title": "Skimming", "performer": "Martyn & Om Unit"},
+          { "title": "Minerals", "performer": "Dengue Dengue Dengue"},
+          { "title": "Killer", "performer": "Max Le Daron feat. Kirani Ayat"},
+          { "title": "Beach Body", "performer": "Blanketman"},
+          { "title": "Decoration", "performer": "TV Priest"},
+          { "title": "Birth, School, Work, Death", "performer": "The Godfathers"},
+          { "title": "Cohesive (Robag Wruhme's Bokkler Ludd NB)", "performer": "André Hommen"},
+          { "title": "Do Too Much", "performer": "Boiish"},
+          { "title": "Reclaim Me (ABSOLUTE. Remix)", "performer": "Wax Wings feat. Nimmo"}
+        ],
+        [
+          {  "time": "23:04", "title": "How Do We Find Our Truth?", "performer": "Future Utopia feat. Stormzy & Beatrice Mushiya"},
+          { "title": "Learning To Fly", "performer": "Hugh Hardie"},
+          { "title": "Let Me Hold You", "performer": "Netsky & Hybrid Minds"},
+          { "title": "Revolution", "performer": "Greentea Peng"},
+          { "title": "Murda", "performer": "Sharna Bass"},
+          { "title": "Private Lives", "performer": "Low Cut Connie"},
+          { "title": "Me Deixa Louca", "performer": "Nu Azeite feat. Barrios"},
+          { "title": "Bring Me To Tears", "performer": "Better Person"},
+          { "title": "Sumaré", "performer": "Azymuth, Ali Shaheed Muhammad & Adrian"},
+          { "title": "Climbing PLants", "performer": "Ozric Tentacles"},
+          { "title": "Secrets", "performer": "James Organ feat. Pablo:Rita "}
+        ],
+        [
+          { "time": "00:04",  "title": "Love In The Time Of Lexapro", "performer": "Oneohtrix Point Never "},
+          { "title": "Nothing´s Special", "performer": "Oneohtrix Point Never"},
+          { "title": "No Nightmares", "performer": "Oneohtrix Point Never feat. The Weeknd"},
+          { "title": "U", "performer": "Duval Timothy"},
+          { "title": "Before", "performer": "James Blake"},
+          { "title": "Turin", "performer": "Actress feat. Aura T-09"},
+          { "title": "Through Luminous Eyes 1", "performer": "Laraaji"},
+          { "title": "Prana Light", "performer": "Laraaji"},
+          { "title": "Lucky Man", "performer": "Emerson, Lake & Palmer"},
+          { "title": "The Whether Channel", "performer": "Oneohtrix Point Never feat. Nolanberollin"}
+        ]
+      ]
+    },
+    {
+      "id": "45",
+      "date": "2020-11-08",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "Traffic", "performer": "Max Le Daron feat. Bryte"},
+          { "title": "Ti Chuong (Olof Dreijer Remix)", "performer": "Emmanuel Jal feat. Nyaruach"},
+          { "title": "Matawa (Fluida Rmx)", "performer": "NHii"},
+          { "title": "Final Solution", "performer": "Pere Ubu"},
+          { "title": "No Tears", "performer": "Tuxedomoon"},
+          { "title": "Valleys", "performer": "Working Men´s Club"},
+          { "title": "Kost I Koža", "performer": "Repetitor"},
+          { "title": "Twister", "performer": "Instinct"},
+          { "title": "Dreamer (KItson Remix)", "performer": "Sharda"},
+          { "title": "Koalition", "performer": "Kratzen"},
+          { "title": "Candlelight", "performer": "Six By Seven"},
+          { "title": "No Ceiling", "performer": "Metz"},
+          { "title": "Maze", "performer": "Kingdom"}
+        ],
+        [
+          {  "time": "23:04", "title": "What Do You Say (Move It Baby)", "performer": "Common feat. PJ"},
+          { "title": "Debonair", "performer": "Giggs"},
+          { "title": "Love Bounce", "performer": "Icarus Traxx feat. S. Ruston"},
+          { "title": "Gigantes", "performer": "Tortoise"},
+          { "title": "Sarah", "performer": "HAN"},
+          { "title": "Zan Bezan", "performer": "Liraz"},
+          { "title": "Cole", "performer": "Need For Mirrors"},
+          { "title": "Coppola", "performer": "Need For Mirrors"},
+          { "title": "Adore", "performer": "Need For Mirrors"},
+          { "title": "Taboo", "performer": "Need For Mirrors"},
+          { "title": "Play Doh", "performer": "Need For Mirrors"}
+        ],
+        [
+          {  "time": "00:04", "title": "Na Zawsze", "performer": "Better Person"},
+          { "title": "Hey Du", "performer": "Luis Ake & DimaMidborn"},
+          { "title": "Restless", "performer": "Osquello, Goldie, James Davidson"},
+          { "title": "A Redor Do Samba", "performer": "Azymuth"},
+          { "title": "International Love Affair (Project Pablo Rmx)", "performer": "Keleketla"},
+          { "title": "Impulse Response", "performer": "Urlaub In Polen"},
+          { "title": "New York", "performer": "JW Francis"},
+          { "title": "Simplicity", "performer": "Gorillaz feat. Joan As Police Woman"},
+          { "title": "Turpentine!", "performer": "Pere Ubu"},
+          { "title": "Dein Ruin", "performer": "Kratzen"},
+          { "title": "Zwei Schüsse Alte Kanzlei", "performer": "Fluppe"},
+          { "title": "Serafina", "performer": "Bambara"}
+        ]
+      ]
+    },
+    {
+      "id": "46",
+      "date": "2020-11-15",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "Heartbreak", "performer": "Bonobo & Totally Enormous Extinct Dinosaurs"},
+          { "title": "Do Too Much (Elliot Adamson Tokyo Mix)", "performer": "Boiish"},
+          { "title": "Know Me (Skream Rmx)", "performer": "Bronson feat. Gallant"},
+          { "title": "- - -", "performer": "Ana Roxanne"},
+          { "title": "Cut Me Off", "performer": "Yxng Bane feat. D-Block Europe"},
+          { "title": "Birds", "performer": "Sirens Of Lesbos"},
+          { "title": "Apex (Lindstrøm & Prins Thomas Remix)", "performer": "Jaga Jazzist"},
+          { "title": "Harmonia", "performer": "Lindstrøm and Prins Thomas"},
+          { "title": "Analog Chime", "performer": "DJ Haus"},
+          { "title": "Keramik & Konflikte", "performer": "Neuzeitliche Bodenbeläge"}
+        ],
+        [
+          {  "time": "23:04", "title": "Hearts On Fire", "performer": "Better Person"},
+          { "title": "Beam Me Up", "performer": "Locked Groove"},
+          { "title": "Suddenly (Shanti Celeste Rmx)", "performer": "Caribou"},
+          { "title": "One Time", "performer": "Sandilé"},
+          { "title": "Say No Go (Say No Dope Mix)", "performer": "De La Soul"},
+          { "title": "Can´t Go For That", "performer": "2 Chainz feat. Ty Dolla $ign & Lil Duval"},
+          { "title": "Yesterday", "performer": "Loyle Carner"},
+          { "title": "It´s Hard", "performer": "Giggs feat. Emeli Sande"},
+          { "title": "Bare Essentials", "performer": "Quakers feat. The Niyat"},
+          { "title": "Hip Hop Is Dead", "performer": "NAS feat. Will.i.am"},
+          { "title": "T.H.D.T", "performer": "Urlaub In Polen"},
+          { "title": "Free", "performer": "Embryo"}
+        ],
+        [
+          {  "time": "00:04", "title": "The Highest", "performer": "The Nix feat. Kwamie Liv"},
+          { "title": "The Drop", "performer": "The Nix feat. Khloe Anna"},
+          { "title": "You Can´t Blame Me", "performer": "Krudo"},
+          { "title": "Subtle Knife", "performer": "Boxed In"},
+          { "title": "Vipers", "performer": "Dylan Fraser"},
+          { "title": "Je Ne Vois Que Vous", "performer": "Benjamin Schoos feat. Laetitia Sadier"},
+          { "title": "The Deep", "performer": "Someone"},
+          { "title": "The Way", "performer": "Great Mountain Fire"},
+          { "title": "Quartz", "performer": "Lauren Ritter"},
+          { "title": "MJ Flip", "performer": "Sandilé"},
+          { "title": "Suite Pour L´invisible", "performer": "Ana Roxanne"}
+        ]
+      ]
+    },
+    {
+      "id": "47",
+      "date": "2020-11-22",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "Megumi The Milkyway Above", "performer": "Connan Mockasin"},
+          { "title": "Fantasia", "performer": "Shcaa"},
+          { "title": "Adventures In Success", "performer": "Do Nothing"},
+          { "title": "Exhaust/Surroundings ", "performer": "PVA"},
+          { "title": "Divine Intervention", "performer": "PVA"},
+          { "title": "Perfect", "performer": "Sorry"},
+          { "title": "Water In The Well", "performer": "Shame"},
+          { "title": "Kroz Vetar", "performer": "Repetitor"},
+          { "title": "Get Down", "performer": "Alegant feat. Tube & Berger"},
+          { "title": "Changing Times", "performer": "Joint4nine"},
+          { "title": "The Revolution Will Be Televised", "performer": "DJ Hell"},
+          { "title": "Scratchcard Lanyard", "performer": "Dry Cleaning"}
+        ],
+        [
+          {  "time": "23:04", "title": "The Love I Need", "performer": "Girlhood"},
+          { "title": "Circles", "performer": "Megan Thee Stallion"},
+          { "title": "Sleeping On The Floor", "performer": "Future & Lil Uzi Vert"},
+          { "title": "Tasty", "performer": "Shygirl"},
+          { "title": "Eastside Break", "performer": "Sonic"},
+          { "title": "Set Me Free", "performer": "Kemback"},
+          { "title": "Night Bus", "performer": "Sieren"},
+          { "title": "Vice Versa", "performer": "Bendersnatch"},
+          { "title": "While We Ride", "performer": "Wolf & Moon"},
+          { "title": "A Tape Called Life", "performer": "Wolf & Moon"},
+          { "title": "Warwick", "performer": "The Bats"},
+          { "title": "Honey", "performer": "King GIzzard & The Lizard Wizard"},
+          { "title": "Notre Damn", "performer": "Apifera"}
+        ],
+        [
+          {  "time": "00:04", "title": "Japan (Satin Jackets Remix)", "performer": "Tycho"},
+          { "title": "St. Tropez", "performer": "Radic The Myth"},
+          { "title": "Suite Pour L´invisible", "performer": "Ana Roxanne"},
+          { "title": "Seeland", "performer": "NEU!"},
+          { "title": "Anther", "performer": "Lawrence Le Doux"},
+          { "title": "Left Behind", "performer": "Sieren"},
+          { "title": "Lol Creme", "performer": "Legs Benedict"},
+          { "title": "Without U", "performer": "Need For Mirrors feat. Sal"},
+          { "title": "Bill Tench", "performer": "King Hannah"},
+          { "title": "Paloma", "performer": "Annenmaykantereit"},
+          { "title": "Don´t Cry", "performer": "Bugzy Malone feat. Dermot Kennedy"}
+        ]
+      ]
+    },
+    {
+      "id": "48",
+      "date": "2020-11-29",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "Meet U In RL", "performer": "Darjeeling"},
+          { "title": "Antigravity Love (Masters At Work Remix)", "performer": "Krust"},
+          { "title": "The Electrifying Mojo V2", "performer": "DJ Hell"},
+          { "title": "Ordinary Boy (Floating Points Rmx)", "performer": "Ultraista"},
+          { "title": "No G.D.M.", "performer": "Gina X Performance"},
+          { "title": "I´ve Seen That Face Before", "performer": "Grace Jones"},
+          { "title": "El Diego (A Diego Armando Maradona)", "performer": "Daniel Piazolla Octet"},
+          { "title": "Cafe De Flore", "performer": "Doctor Rockit"},
+          { "title": "I´m Leaving Home", "performer": "Malena Zavala"}
+        ],
+        [
+          {  "time": "23:04", "title": "Diego Maradona", "performer": "Pablo Chill-E"},
+          { "title": "Po Up", "performer": "Juicy J feat. A$AP Rocky"},
+          { "title": "Pow Pow", "performer": "BLVTH"},
+          { "title": "Stranded", "performer": "Sonic"},
+          { "title": "Re-Mind", "performer": "Redpine & Solo"},
+          { "title": "Of A Vessel", "performer": "Blank Gloss"},
+          { "title": "Better Man", "performer": "Long Tall Jefferson"},
+          { "title": "The Ballad Of Geraldine", "performer": "Donovan"},
+          { "title": "7 Sisters", "performer": "Stella Sommer"},
+          { "title": "Hold On To Your Stars", "performer": "Ava Vegas"},
+          { "title": "Take Me Back (Falcon Punch Remix)", "performer": "Roosevelt"},
+          { "title": "Japan (Satin Jackets Remix)", "performer": "Tycho"}
+        ],
+        [
+          {  "time": "00:04", "title": "Moonsun", "performer": "Lorenzo"},
+          { "title": "How To Talk In Technicolor", "performer": "Mr. Gnome"},
+          { "title": "Dizzee", "performer": "Landshapes"},
+          { "title": "Frist", "performer": "Charlotte Brandi"},
+          { "title": "In Deinem Garten", "performer": "Jeans For Jesus"},
+          { "title": "Golo Mann", "performer": "Love Machine"},
+          { "title": "GDM", "performer": "The Bollock Brothers"},
+          { "title": "Some Time, Alone", "performer": "Pale Honey"},
+          { "title": "Edge Of Midnight (Midnight Sky Rmx)", "performer": "Miley Cyrus feat. Stevie Nicks"},
+          { "title": "Taking Hits", "performer": "Adulkt Life"}
+        ]
+      ]
+    },
+    {
+      "id": "49",
+      "date": "2020-12-06",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "Phoenix", "performer": "Sieren"},
+          { "title": "AndreW (Future Beat Alliance Remix)", "performer": "Bawrut"},
+          { "title": "Negative Returns (Four Tet Remix)", "performer": "Krust"},
+          { "title": "Clarity", "performer": "Mozey & Sofi Mari"},
+          { "title": "Benzin", "performer": "Haiyti"},
+          { "title": "Pow Pow", "performer": "BLVTH"},
+          { "title": "Don´t Like Me", "performer": "Rico Nasty feat. Gucci Mane & Don Toliver"},
+          { "title": "Mud", "performer": "3ohblack"},
+          { "title": "Mountain", "performer": "M.Byrd"},
+          { "title": "Deep In Love", "performer": "Bonny Light Horseman"},
+          { "title": "I Feel Fine", "performer": "Tiña"},
+          { "title": "Cooler Returns", "performer": "Kiwi Jr."}
+        ],
+        [
+          {  "time": "23:04", "title": "Twister", "performer": "Instinct"},
+          { "title": "Saku", "performer": "Bicep feat. Clara La San"},
+          { "title": "Accidental Junglist", "performer": "Sonic"},
+          { "title": "Citizen", "performer": "Redpine & Solo"},
+          { "title": "No Sided Shape", "performer": "Etch"},
+          { "title": "Can´t Run Away From Yourself (Holloway Remix)", "performer": "Instinct"},
+          { "title": "Druids Dream", "performer": "Dan Curtin & DJ Haus"},
+          { "title": "622", "performer": "Bakked"},
+          { "title": "Silkworm", "performer": "Giant Swan"},
+          { "title": "Nouveau Monde (Ulrich Schnauss Remix)", "performer": "Rone"}
+        ],
+        [
+          {  "time": "00:04", "title": "Two Reverse", "performer": "Adrianne Lenker"},
+          { "title": "John Barleycorn (Must Die)", "performer": "Traffic"},
+          { "title": "Plastic", "performer": "Future & Lil Uzi Vert"},
+          { "title": "Klunker", "performer": "Haiyti"},
+          { "title": "Pressure", "performer": "Blxst"},
+          { "title": "Banger", "performer": "11:11"},
+          { "title": "Thirst Trap", "performer": "Tenesha The Wordsmith & Lauren Ritter feat. JB"},
+          { "title": "This Is Real", "performer": "Charles Webster feat. Shara Nelson"},
+          { "title": "Oons Ide", "performer": "Shcaa"},
+          { "title": "Meal Deal", "performer": "King Hannah"},
+          { "title": "Coucou", "performer": "Francois & The Atlas Mountains"}
+        ]
+      ]
+    },
+    {
+      "id": "50",
+      "date": "2020-12-13",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "Rain Again (Lawrence Remix 1)", "performer": "Nadia Khan"},
+          { "title": "Dark City (Atjazz Remix)", "performer": "Rashid Ajami"},
+          { "title": "Clouds", "performer": "Park Hye Jin & Nosaj Thing"},
+          { "title": "Deaf In Three Corners", "performer": "LA Timpa"},
+          { "title": "Pasiris", "performer": "Answer Code Request"},
+          { "title": "Star (A$AP Ferg Remix)", "performer": "Machinedrum feat. Tanerélle & Mono/Poly"},
+          { "title": "Lovin´ Me", "performer": "Kid Cudi feat. Phoebe Bridgers"},
+          { "title": "Running Red Lights", "performer": "The Avalanches feat. Rivers Cuomo & Pink Siifu"},
+          { "title": "Flowers Of Neptune 6", "performer": "The Flaming Lips"},
+          { "title": "We Will Always Love You", "performer": "The Avalanches feat. Blood Orange"},
+          { "title": "Pegasus", "performer": "Rodriguez Jr."}
+        ],
+        [
+          {  "time": "23:04", "title": "Love Is Not Enough (Hybrid Minds Remix)", "performer": "Above & Beyond feat. Zoë Johnston"},
+          { "title": "Be Forgiven", "performer": "Sustance"},
+          { "title": "Negative Returns (Four Tet Remix)", "performer": "Krust"},
+          { "title": "Lift Off", "performer": "Blame"},
+          { "title": "Lengua (Piano Version)", "performer": "Catnapp"},
+          { "title": "I Get Along Without You Very Well", "performer": "M. Ward"},
+          { "title": "Her Revolution", "performer": "Burial + Four Tet + Thom Yorke"},
+          { "title": "His Rope", "performer": "Burial + Four Tet + Thom Yorke"},
+          { "title": "Golden Sphere", "performer": "New Members"},
+          { "title": "Amone", "performer": "Manmade Deejay"},
+          { "title": "Vanishing Point", "performer": "El Hardwick"},
+          { "title": "Mini Trance", "performer": "Kasper Marott"}
+        ],
+        [
+          {  "time": "00:04", "title": "Unreal", "performer": "Cuts"},
+          { "title": "Pray", "performer": "Suuns"},
+          { "title": "Passion Is Accurate", "performer": "The Kills"},
+          { "title": "A Love From Outer Space", "performer": "A.R. Kane"},
+          { "title": "Exhaust/Surroundings", "performer": "PVA"},
+          { "title": "Turning Up Dat", "performer": "Wade"},
+          { "title": "Levitate (Oppidan Remix)", "performer": "Drinks On Me"},
+          { "title": "Nouveau Monde (Mathew Jonson Remix)", "performer": "Rone"},
+          { "title": "Sweeter", "performer": "Nu:Tone feat. Maiday"},
+          { "title": "Evermore", "performer": "Taylor Swift feat. Bon Iver"}
+        ]
+      ]
+    },
+    {
+      "id": "51",
+      "date": "2020-12-20",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "We Shape The Future", "performer": "WheelUp"},
+          { "title": "Holy (Totally Enormous Extinct Dinosaurs Remix)", "performer": "Damian Lazarus"},
+          { "title": "Your Love", "performer": "Totally Enormous Extinct Dinosaurs"},
+          { "title": "Telepathy", "performer": "Junglepussy"},
+          { "title": "Funu", "performer": "Scorpion Kings feat. Tresor"},
+          { "title": "Cosmic Dawn (Dakim Rmx)", "performer": "Salami Rose Joe Louis"},
+          { "title": "Wrong Or Right", "performer": "Blxst"},
+          { "title": "Spain", "performer": "Kodak Black feat. Tory Lanez & Jackboy"},
+          { "title": "Invisible Door", "performer": "Trupa Trupa"},
+          { "title": "Theodores Gift", "performer": "LDLDN"},
+          { "title": "Au Revoir", "performer": "Rote Mütze Raphi"},
+          { "title": "Fireworks", "performer": "Minimal Schlager feat. Laura Lee & Eddie Argos"}
+        ],
+        [
+          {  "time": "23:04", "title": "Oranges", "performer": "Lindstrøm And Prins Thomas"},
+          { "title": "I Feel High (Vibes4YourSoul Remix)", "performer": "Poolside"},
+          { "title": "Room Full Of Rothko", "performer": "Mall Grab"},
+          { "title": "Invisible Sounds (Random Movement Rmx)", "performer": "T.R.A.C. feat. Level 2 & Christina Tamayo"},
+          { "title": "Broadcast Feeling", "performer": "Crypticz"},
+          { "title": "Aila", "performer": "Sonic"},
+          { "title": "Fazers", "performer": "King Geedorah"},
+          { "title": "Pow Pow", "performer": "BLVTH"},
+          { "title": "Awkward", "performer": "Duzoe feat. Juno 030"},
+          { "title": "Terp Flavours", "performer": "Tom Frankel"}
+        ],
+        [
+          {  "time": "00:04", "title": "From Never To Once", "performer": "Lewsberg"},
+          { "title": "No Body, No Crime", "performer": "Taylor Swift feat. Haim"},
+          { "title": "Die Kleine Kneipe", "performer": "Fred Ape feat. Guntmar Feuerstein"},
+          { "title": "Ordunun Dereieri", "performer": "Altin Gün"},
+          { "title": "Son", "performer": "Joha"},
+          { "title": "Joyful Spirits Of The Universe", "performer": "Matthew Halsall"},
+          { "title": "Porcelain (Arpade Remix)", "performer": "Lambert"},
+          { "title": "Berlin 2020", "performer": "Friede Merz"},
+          { "title": "Mostly Chimes", "performer": "Adrianne Lenker"},
+          { "title": "Abendlied", "performer": "Blumfeld"}
+        ]
+      ]
+    },
+    {
+      "id": "52",
+      "date": "2020-12-27",
+      "songs": [
+        [
+          {  "time": "22:04", "title": "Rakim", "performer": "Remember That"},
+          { "title": "Stormzy", "performer": "Do Better"},
+          { "title": "Dreamcastmoe", "performer": "Bend Backwards"},
+          { "title": "Jaga Jazzist", "performer": "Apex (Lindstrøm & Prins Thomas Remix)"},
+          { "title": "Maps", "performer": "She Sang To Me (C Duncan Remix)"},
+          { "title": "Someone", "performer": "The Deep"},
+          { "title": "Isobel Campbell", "performer": "The National Birds Of India"},
+          { "title": "Aluna", "performer": "Warrior (Salute Remix)"},
+          { "title": "Dua Lipa & The Blessed Madonna", "performer": "Pretty Please (Midland Refix/Mixed)"},
+          { "title": "Instinct", "performer": "Twister"},
+          { "title": "Working Men´s Club", "performer": "Valleys"}
+        ],
+        [
+          {  "time": "23:04", "title": "Blue May Rose", "performer": "Music Has To Die"},
+          { "title": "DC Salas", "performer": "Give Up"},
+          { "title": "Golden Bug And The Liminanas", "performer": "Variations Sur 3 Bancs"},
+          { "title": "Bob Dylan", "performer": "Goodbye Jimmy Reed"},
+          { "title": "Haiyti", "performer": "Klunker"},
+          { "title": "Lewsberg", "performer": "From Never To Once"},
+          { "title": "Sofia Portanet", "performer": "Das Kind"},
+          { "title": "Rema", "performer": "Beamer (Bad Boys)"},
+          { "title": "RA", "performer": "Struggle"},
+          { "title": "RA feat. Snap Capone", "performer": "Don´t Slip"},
+          { "title": "Arbouretum", "performer": "How Deep It Goes"},
+          { "title": "China Charmeleon", "performer": "I Want My Soul (Tribute To George Floyd)"}
+        ],
+        [
+          {  "time": "00:04", "title": "Need For Mirrors", "performer": "Cole"},
+          { "title": "T.R.A.C. feat. Level 2 & Christina Tamayo", "performer": "Invisible Sounds (Random Movement Rmx)"},
+          { "title": "Bonobo & Totally Enormous Extinct Dinosaurs", "performer": "Heartbreak"},
+          { "title": "Bronson feat. Gallant", "performer": "Know You (Skream Remix)"},
+          { "title": "Luis Ake", "performer": "Lilith"},
+          { "title": "Luka08", "performer": "Edamame"},
+          { "title": "Sharada Shashidhar", "performer": "Messages"},
+          { "title": "Jimi Hendrix", "performer": "Stone Free"},
+          { "title": "L.A. Salami", "performer": "Things Ain´t Changed"},
+          { "title": "Cardi B feat. Megan Thee Stallion", "performer": "WAP"},
+          { "title": "PVA", "performer": "Divine Intervention"},
+          { "title": "Actress feat. Aura T- 09", "performer": "Turin"}
+        ]
+      ]
+    }
+  ]
+  },
+    {
+      "id": "2021",
+      "episodes": [
+        {
+      "id": "1",
+      "date": "2021-01-03",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "2",
+      "date": "2021-01-10",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "date": "2021-01-17",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "date": "2021-01-24",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "date": "2021-01-31",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "date": "2021-02-07",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "date": "2021-02-14",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "date": "2021-02-21",
+      "songs": [
+        [
+        ],
+        [
+        ],
+        [
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "date": "2021-02-28",
+      "songs": [
+        [
         ],
         [
         ],
