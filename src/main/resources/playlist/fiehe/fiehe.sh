@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# https://web.archive.org/web/20191105232532/https://www1.wdr.de/radio/1live/on-air/sendungen/1live-fiehe/index.html
+
 for id in `seq 642 720`;
 do
   echo ${id}
