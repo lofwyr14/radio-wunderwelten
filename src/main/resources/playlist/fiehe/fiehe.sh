@@ -1,5 +1,6 @@
 #! /bin/bash
 
+# "Archive"
 # https://web.archive.org/web/20191105232532/https://www1.wdr.de/radio/1live/on-air/sendungen/1live-fiehe/index.html
 
 for id in `seq 642 720`;
@@ -14,3 +15,6 @@ do
 done
 
 # --fail: nicht speichern bei Fehler
+
+# Manuell aktuell
+#curl -v -o fiehe-2021-xx-xx.html --fail https://www1.wdr.de/radio/1live/on-air/sendungen/1live-fiehe/index.html
