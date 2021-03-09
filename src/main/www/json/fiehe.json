@@ -4694,11 +4694,11 @@
       ]
     },
     {
-      "id": "9",
+      "id": "10",
       "date": "2021-03-07",
       "songs": [
         [
-          { "title": "Air Ali (Remix)", "performer": "Naya Ali feat. Connaisseur Ticaso "},
+          { "time": "22:04",  "title": "Air Ali (Remix)", "performer": "Naya Ali feat. Connaisseur Ticaso "},
           { "title": "Couple Of Times", "performer": "DA"},
           { "title": "Organic Rust", "performer": "Alfa Mist"},
           { "title": "Fxck It Then", "performer": "Yaya Bey"},
@@ -4712,7 +4712,7 @@
           { "title": "Black Juju", "performer": "Alice Cooper"}
         ],
         [
-          { "title": "A Bottle Of Rum", "performer": "Xiu Xiu feat. Liz Harris"},
+          { "time": "23:04",  "title": "A Bottle Of Rum", "performer": "Xiu Xiu feat. Liz Harris"},
           { "title": "I´m Holding Out For Something", "performer": "Virginia Wing"},
           { "title": "By Your Side", "performer": "Sofia Kourtesis"},
           { "title": "The Medium (O Meio)", "performer": "IKOQWE feat. Celeste Mariposa"},
@@ -4728,7 +4728,7 @@
           { "title": "Tonight", "performer": "Stil & Bense"}
         ],
         [
-          { "title": "Perpetual Light", "performer": "Booka Shade feat. Polly Scattergood"},
+          { "time": "00:04", "title": "Perpetual Light", "performer": "Booka Shade feat. Polly Scattergood"},
           { "title": "Trommeln", "performer": "Meese X Hell"},
           { "title": "Speed", "performer": "Bullion"},
           { "title": "Forget", "performer": "Roosevelt"},
