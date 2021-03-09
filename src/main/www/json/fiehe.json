@@ -4692,6 +4692,55 @@
           { "title": "Clean Living", "performer": "Kreator"}
         ]
       ]
+    },
+    {
+      "id": "9",
+      "date": "2021-03-07",
+      "songs": [
+        [
+          { "title": "Air Ali (Remix)", "performer": "Naya Ali feat. Connaisseur Ticaso "},
+          { "title": "Couple Of Times", "performer": "DA"},
+          { "title": "Organic Rust", "performer": "Alfa Mist"},
+          { "title": "Fxck It Then", "performer": "Yaya Bey"},
+          { "title": "Cheetah", "performer": "Jimmy Edgar feat. Semma"},
+          { "title": "Truth Or Dare (LSDXOXO Rmx)", "performer": "Kelela feat. LSDXOXO"},
+          { "title": "0594 Help", "performer": "Haich Ber Na"},
+          { "title": "Cains Heresy", "performer": "The Lounge Society"},
+          { "title": "Deaf In Three Corners", "performer": "LA Timpa"},
+          { "title": "From Top To Toe", "performer": "Bartleby Delicate"},
+          { "title": "Oh Oh Yeah", "performer": "Morcheeba"},
+          { "title": "Black Juju", "performer": "Alice Cooper"}
+        ],
+        [
+          { "title": "A Bottle Of Rum", "performer": "Xiu Xiu feat. Liz Harris"},
+          { "title": "I´m Holding Out For Something", "performer": "Virginia Wing"},
+          { "title": "By Your Side", "performer": "Sofia Kourtesis"},
+          { "title": "The Medium (O Meio)", "performer": "IKOQWE feat. Celeste Mariposa"},
+          { "title": "Traffic", "performer": "Max Le Daron feat. Bryte"},
+          { "title": "Sonho Weird", "performer": "Rabu Mazda"},
+          { "title": "Neva Know [Smurphy Prod.]", "performer": "RDL"},
+          { "title": "Take It Back (GODMODE950 Version)", "performer": "Denzel Curry| Kenny Beats"},
+          { "title": "Flowers (Lenzman Rmx)", "performer": "Phoenix Laotaris"},
+          { "title": "Shift Break", "performer": "Nu:Tone"},
+          { "title": "Growth", "performer": "Smurphy"},
+          { "title": "Streets", "performer": "RDL"},
+          { "title": "Love Here Listen", "performer": "Barbarossa"},
+          { "title": "Tonight", "performer": "Stil & Bense"}
+        ],
+        [
+          { "title": "Perpetual Light", "performer": "Booka Shade feat. Polly Scattergood"},
+          { "title": "Trommeln", "performer": "Meese X Hell"},
+          { "title": "Speed", "performer": "Bullion"},
+          { "title": "Forget", "performer": "Roosevelt"},
+          { "title": "Go Man Go", "performer": "Alice Cooper"},
+          { "title": "Drunk And In Love", "performer": "Alice Cooper"},
+          { "title": "Queen Of The Night", "performer": "Teeth Agency"},
+          { "title": "Pay Your Way In Pain", "performer": "St. Vincent"},
+          { "title": "Heart", "performer": "The Weather Station"},
+          { "title": "High Treason", "performer": "Vapour Theories"},
+          { "title": "0594 Help", "performer": "Haich Ber Na"}
+        ]
+      ]
     }
   ]
     }
