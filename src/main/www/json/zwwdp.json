@@ -942,6 +942,199 @@
       ]
     },
     {
+      "id": "2011",
+      "station": "Radio Bremen 4",
+      "episodes": [
+        {
+          "id": "25",
+          "date": "2011-06-21",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Gentle On My Mind",
+                "performer": "R.E.M."
+              },
+              {
+                "title": "It's Easier Without Her",
+                "performer": "Brent Cash"
+              },
+              {
+                "title": "Idle I'm (Colorama Coloured In Remix)",
+                "performer": "John Stammers"
+              },
+              {
+                "title": "Can't Figure It Out",
+                "performer": "AM & Shawn Lee"
+              },
+              {
+                "title": "Tell Her You Love Her (Tahiti 80 Remix)",
+                "performer": "Brookville"
+              },
+              {
+                "title": "Seek You",
+                "performer": "Mellow"
+              },
+              {
+                "title": "Run",
+                "performer": "Air"
+              },
+              {
+                "title": "Serpentine",
+                "performer": "Bertrand Burgalat"
+              },
+              {
+                "title": "E.V.A. (Fatboy Slim Remix)",
+                "performer": "Jean-Jacques Perrey"
+              },
+              {
+                "title": "Smile",
+                "performer": "The Peddlers"
+              },
+              {
+                "title": "Do You Feel Like I Feel",
+                "performer": "Nicola Conte"
+              },
+              {
+                "title": "Slow Hot Wind",
+                "performer": "Block 16"
+              },
+              {
+                "title": "W La Felicita",
+                "performer": "Franco Godi"
+              },
+              {
+                "title": "The Visit (She Was Here)",
+                "performer": "The Cyrkle"
+              },
+              {
+                "title": "Latitudes",
+                "performer": "Ollano"
+              },
+              {
+                "title": "Mammagamma",
+                "performer": "Alan Parsons Project"
+              }
+            ],
+            [
+              {
+                "time": "20:04",
+                "title": "Tumbledown",
+                "performer": "Superimposers"
+              },
+              {
+                "title": "Only Look Up When You're Down",
+                "performer": "Steve Cradock"
+              },
+              {
+                "title": "Sweetie",
+                "performer": "Josh Rouse"
+              },
+              {
+                "title": "The Man Who Came In From The Cold",
+                "performer": "Heist"
+              },
+              {
+                "title": "A Place In The Sun",
+                "performer": "Young Rascals"
+              },
+              {
+                "title": "L'Heretier",
+                "performer": "Michel Colombier"
+              },
+              {
+                "title": "Pipe Dreams",
+                "performer": "The Natural Yogurt Band"
+              },
+              {
+                "title": "I Keep On Talking",
+                "performer": "Love Generation"
+              },
+              {
+                "title": "Can You Understand",
+                "performer": "Renaissance"
+              },
+              {
+                "title": "Sunny",
+                "performer": "Young Holt Trio (Sunny 2)"
+              },
+              {
+                "title": "Without Her",
+                "performer": "Blood, Sweat & Tears"
+              },
+              {
+                "title": "Ayjay",
+                "performer": "Kruder & Dorfmeister"
+              },
+              {
+                "title": "La Génie Humain",
+                "performer": "Orwell"
+              },
+              {
+                "title": "Return To The City",
+                "performer": "Mark/Almond"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "I Go To Sleep",
+                "performer": "Sia Furler"
+              },
+              {
+                "title": "Wonderful (Alternative Version)",
+                "performer": "Josh Rouse"
+              },
+              {
+                "title": "Let It Grow",
+                "performer": "Eric Clapton"
+              },
+              {
+                "title": "Slabo Day",
+                "performer": "Peter Green"
+              },
+              {
+                "title": "Downright Women",
+                "performer": "Boz Scaggs"
+              },
+              {
+                "title": "Crazy Mary",
+                "performer": "The Friends Of Distinction"
+              },
+              {
+                "title": "Girl",
+                "performer": "Joe Jackson"
+              },
+              {
+                "title": "Radium Smile",
+                "performer": "Louise LeMay"
+              },
+              {
+                "title": "The Elgart Touch",
+                "performer": "Les & Larry Elgart"
+              },
+              {
+                "title": "The Insomnia (Man From Another Place Remix)",
+                "performer": "The Brigadier"
+              },
+              {
+                "title": "Singalong Junk",
+                "performer": "Paul McCartney"
+              },
+              {
+                "title": "Creep",
+                "performer": "Damien Rice"
+              },
+              {
+                "title": "Promenade Sentimentale",
+                "performer": "Vladimir Cosma"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "2013",
       "station": "Radio Bremen 4",
   "episodes": [
