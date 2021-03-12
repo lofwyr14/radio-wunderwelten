@@ -3516,6 +3516,56 @@
           ]
         },
         {
+          "id": "34",
+          "date": "2011-08-23",
+          "songs": [
+            [
+              {"time": "20:04","performer": "Orwell","title":"In Your Playground"},
+              {"performer": "Luke Leighfield","title":"By my Side"},
+              {"performer": "Pugwash","title":"Answers On A Postcard"},
+              {"performer": "Rufus Wainwright","title":"Cigarettes And Coholate Milk"},
+              {"performer": "Mayer Hawthorne","title":"A Long Time"},
+              {"performer": "Stereolab","title":"Equivalences"},
+              {"performer": "The Buckinghams","title":"Back In Love Again"},
+              {"performer": "Lampchop","title":"Sunrise"},
+              {"performer": "The Four Seasons","title":"Wall Street Village Day"},
+              {"performer": "Air","title":"Ce Matin La"},
+              {"performer": "Apple Rabbits","title":"Sing To Me"},
+              {"performer": "Other Lives","title":"Desert"},
+              {"performer": "Hefner","title":"Level Green (Blue States Mix)"}
+            ],
+            [
+              {"time": "21:04","performer": "Mother Earth","title":"Jesse"},
+              {"performer": "Jonathan Wilson","title":"Desert Raven"},
+              {"performer": "Grandaddy","title":"He's Simple, He's Dumb, He's The Pilot"},
+              {"performer": "Heist","title":"If"},
+              {"performer": "Wings","title":"Nineteen Hundred And Eighty Five"},
+              {"performer": "Lanterns On The Lake","title":"Keep On Trying"},
+              {"performer": "Pete Kuzma (Sunny Side 6)","title":"High And Dry"},
+              {"performer": "The Carpenters","title":"Calling Occupants Of Interplanetarycraft"},
+              {"performer": "The Silly Pillows","title":"Equilibrium"},
+              {"performer": "The High Llamas","title":"Milting Tindmills"}
+            ],
+            [
+              {"time": "22:04","performer": "The Style Council","title":"Walking The Night"},
+              {"performer": "Roger Joseph Manning Jr.","title":"In The Name Of Romance"},
+              {"performer": "Dust","title":"High"},
+              {"performer": "Distortions Pop","title":"Equilibriums"},
+              {"performer": "The National Convention","title":"I Can't Believe This Is Happening To Me"},
+              {"performer": "The Sandpipers","title":"Temtation"},
+              {"performer": "Expo","title":"Canoe"},
+              {"performer": "The Swell Season","title":"High Horses"},
+              {"performer": "Orwell","title":"In Your Playground (unplugged RB4)"},
+              {"performer": "Orwell","title":"Cars And Girls (unplugged RB4)"},
+              {"performer": "Malcolm Ross","title":"Smiling Sweetly"},
+              {"performer": "Nat King Cole","title":"Fly Me To The Moon"},
+              {"performer": "The Zombies","title":"Beechwood Park"},
+              {"performer": "Pugwash","title":"To The Warmth Of You"},
+              {"performer": "Nightmares On Wax","title":"You Wish"}
+            ]
+          ]
+        },
+        {
           "id": "35",
           "date": "2011-08-30",
           "songs": [
