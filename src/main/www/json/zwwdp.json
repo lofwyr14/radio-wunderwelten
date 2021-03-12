@@ -8,7 +8,7 @@
       "station": "Radio Bremen 4",
       "episodes": [
         {
-          "id": "1",
+          "id": "5",
           "date": "2010-02-02",
           "songs":[[
             {"time": "20:04","title": "Baggy Trousers", "performer": "Madness"},
@@ -71,7 +71,7 @@
           ]]
         },
         {
-          "id": "2",
+          "id": "6",
           "date": "2010-02-09",
           "comment": "Wegen der Werder-Spiel-Berichte während der Sendung wurden einige Titel nur sehr kurz angespielt!",
           "songs":[[
@@ -142,7 +142,7 @@
           ]]
         },
         {
-          "id": "3",
+          "id": "7",
           "date": "2010-02-16",
           "songs":[[
             {"time": "20:04","title": "Clones", "performer": "Alice Cooper"},
@@ -202,6 +202,742 @@
             {"title": "Dust Clouds", "performer": "Kev Hopper"},
             {"title": "Bewitched", "performer": "Kreidler"}
           ]]
+        },
+        {
+          "id": "26",
+          "date": "2010-06-29",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Three Lions 2010",
+                "performer": "The Squad"
+              },
+              {
+                "title": "King For A Day",
+                "performer": "XTC"
+              },
+              {
+                "title": "The Sun And The Rain",
+                "performer": "Madness"
+              },
+              {
+                "title": "Let The Good Times In",
+                "performer": "The Love Generation"
+              },
+              {
+                "title": "Lass uns Liebe sein",
+                "performer": "Jochen Diestelmeyer"
+              },
+              {
+                "title": "I Scare Myself",
+                "performer": "Thomas Dolby"
+              },
+              {
+                "title": "The Magic Lounge About",
+                "performer": "Lord Kitchener"
+              },
+              {
+                "title": "Is It Her?",
+                "performer": "Smashing Time"
+              },
+              {
+                "title": "Hocus Pocus World Cup 2010",
+                "performer": "Focus"
+              },
+              {
+                "title": "Au dessus de moi",
+                "performer": "Orwell"
+              },
+              {
+                "title": "Take The Long Way Home (live)",
+                "performer": "Orwell"
+              },
+              {
+                "title": "Don't Cry Baby (Koushik Remix)",
+                "performer": "The Free Design"
+              },
+              {
+                "title": "Busfahrt",
+                "performer": "Erdmöbel"
+              },
+              {
+                "title": "Knight Moves",
+                "performer": "Gonzales"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Town Called Malice (live)",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "The Beach",
+                "performer": "Superimposers"
+              },
+              {
+                "title": "My Sweet Summer Suite",
+                "performer": "Love Unlimited Orchestera"
+              },
+              {
+                "title": "Slow Down",
+                "performer": "Orell"
+              },
+              {
+                "title": "Holiday On Ice",
+                "performer": "Céleste"
+              },
+              {
+                "title": "The Breeze",
+                "performer": "Fireflies"
+              },
+              {
+                "title": "Optigan",
+                "performer": "Harmonic 33"
+              },
+              {
+                "title": "Back Of My Hand",
+                "performer": "The Jags"
+              },
+              {
+                "title": "Sometimes",
+                "performer": "The Rhinos"
+              },
+              {
+                "title": "Sunday Driver",
+                "performer": "Majestic"
+              },
+              {
+                "title": "Tin Man",
+                "performer": "America"
+              },
+              {
+                "title": "Just As Long As We're In Love",
+                "performer": "Terry Callier"
+              },
+              {
+                "title": "Velvet",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "title": "Don't You Know",
+                "performer": "The Beauty Room"
+              },
+              {
+                "title": "Gold (Long Version)",
+                "performer": "Daniel Carlson"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "The Like In I Love You",
+                "performer": "Brian Wilson"
+              },
+              {
+                "title": "Hurts Like Teen Spirit",
+                "performer": "Johnny Cash vs. Nirvana vs. Blue Öyster Cult"
+              },
+              {
+                "title": "Fireworks At Noon",
+                "performer": "Robert Cooper"
+              },
+              {
+                "title": "Femme Fatale",
+                "performer": "Duran Duran"
+              },
+              {
+                "title": "Lie Awake",
+                "performer": "A Mountain of One"
+              },
+              {
+                "title": "Birds",
+                "performer": "Fireflies"
+              },
+              {
+                "title": "All I Think About Is You",
+                "performer": "Jochen Diestelmeyer"
+              },
+              {
+                "title": "Girls",
+                "performer": "The Heart Strings"
+              },
+              {
+                "title": "Lady (Original Mix)",
+                "performer": "The Mighty Bop"
+              },
+              {
+                "title": "Slow Hot Wind",
+                "performer": "Henry Mascini"
+              },
+              {
+                "title": "Mister Butterfly",
+                "performer": "The Alumnim Group"
+              },
+              {
+                "title": "La salle de pas perdus",
+                "performer": "Monade"
+              },
+              {
+                "title": "Another Week",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "title": "Tubthumping",
+                "performer": "Pastel Vespa"
+              },
+              {
+                "title": "Nice Dreams",
+                "performer": "Holger Fath-Tati"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "27",
+          "date": "2010-07-06",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "In The Morning",
+                "performer": "The Coral"
+              },
+              {
+                "title": "Haywired",
+                "performer": "Ed Harcourt"
+              },
+              {
+                "title": "The Sunshine Song",
+                "performer": "The Candle Thieves"
+              },
+              {
+                "title": "Finding My Feet",
+                "performer": "Steve Gray"
+              },
+              {
+                "title": "Goal Goal Goal",
+                "performer": "James"
+              },
+              {
+                "title": "All For U",
+                "performer": "RJD2"
+              },
+              {
+                "title": "The Night",
+                "performer": "The Four Seasons"
+              },
+              {
+                "title": "Taste For Living",
+                "performer": "John Fiddy"
+              },
+              {
+                "title": "Photoshop Handsome",
+                "performer": "Everything Everything"
+              },
+              {
+                "title": "My Baby Left Me",
+                "performer": "Rox"
+              },
+              {
+                "title": "Ich wie es wirklich war (Breminale)",
+                "performer": "Jochen Distelmeyer"
+              },
+              {
+                "title": "Weil es Liebe ist (Breminale 2010)",
+                "performer": "Jochen Distelmeyer"
+              },
+              {
+                "title": "Regen (Breminale 2010)",
+                "performer": "Jochen Distelmeyer"
+              },
+              {
+                "title": "Nomads",
+                "performer": "The High Llamas"
+              },
+              {
+                "title": "You Can Dance",
+                "performer": "Gonzales"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Shake It Up",
+                "performer": "The Cars"
+              },
+              {
+                "title": "She Fell Into My Arms",
+                "performer": "Ed Harcourt"
+              },
+              {
+                "title": "Under Cold Blue Stars (Remix)",
+                "performer": "Josh Rouse"
+              },
+              {
+                "title": "Dream About The Future",
+                "performer": "The Apples In Stereo"
+              },
+              {
+                "title": "The Drifter",
+                "performer": "George Demure"
+              },
+              {
+                "title": "Highschool Prom",
+                "performer": "Air"
+              },
+              {
+                "title": "Happy Go Lucky",
+                "performer": "Terry Hall"
+              },
+              {
+                "title": "Last Day Of Our Love",
+                "performer": "The Bird And The Bee"
+              },
+              {
+                "title": "FM",
+                "performer": "Steely Dan"
+              },
+              {
+                "title": "Food For Soul",
+                "performer": "Evergreen"
+              },
+              {
+                "title": "In Your Playground (Live Breminale 2010)",
+                "performer": "Orwell"
+              },
+              {
+                "title": "I Need An End (Live Breminale 2010)",
+                "performer": "Orwell"
+              },
+              {
+                "title": "Sunny Afternoon (Live Breminale 2010)",
+                "performer": "Orwell"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "One Summer Dream",
+                "performer": "ELO"
+              },
+              {
+                "title": "Lustre",
+                "performer": "Ed Harcourt"
+              },
+              {
+                "title": "Candlelight",
+                "performer": "Grantchester Meadow"
+              },
+              {
+                "title": "Glorious Dawn",
+                "performer": "Carl Sagan feat. Stephen Hawking"
+              },
+              {
+                "title": "Melancholia",
+                "performer": "Blueboy"
+              },
+              {
+                "title": "Cry For A Day",
+                "performer": "Marsmobil"
+              },
+              {
+                "title": "Rock Around The Clock",
+                "performer": "Telex"
+              },
+              {
+                "title": "Delight",
+                "performer": "Robin Guthrie"
+              },
+              {
+                "title": "Fireworks At Noon",
+                "performer": "Robert Cooper"
+              },
+              {
+                "title": "Tina (Live Breminale 2010)",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "title": "Another Week (Live Breminale 2010)",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "title": "Velvet (Live Breminale 2010)",
+                "performer": "Daniel Carlson"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "28",
+          "date": "2010-07-13",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Hot Hot Hot",
+                "performer": "The Cure"
+              },
+              {
+                "title": "45",
+                "performer": "Ozomatli"
+              },
+              {
+                "title": "No Tears To Cry (Remix)",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "The Beach",
+                "performer": "The Superimposers"
+              },
+              {
+                "title": "Tumbledown",
+                "performer": "The Superimposers"
+              },
+              {
+                "title": "Jane",
+                "performer": "The Silver Seas"
+              },
+              {
+                "title": "We're Gonna Save The Summer",
+                "performer": "The Pearlfischers"
+              },
+              {
+                "title": "How Sweet It Is",
+                "performer": "Jonny Trunk"
+              },
+              {
+                "title": "Butterfly House",
+                "performer": "The Coral"
+              },
+              {
+                "title": "Eanie Meanie",
+                "performer": "Jim Noir"
+              },
+              {
+                "title": "After Dark",
+                "performer": "The Count & Sinden (feat. Mystery Jets)"
+              },
+              {
+                "title": "Svalutation",
+                "performer": "Adriano Celentano"
+              },
+              {
+                "title": "Unconditional Love",
+                "performer": "Benny Sings"
+              },
+              {
+                "title": "Music Harmony and Rhythm",
+                "performer": "Brookly Dreams"
+              },
+              {
+                "title": "Time Is Tight",
+                "performer": "Booker T. & The MGs"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "NW5",
+                "performer": "Madness"
+              },
+              {
+                "title": "Makes Me Happy",
+                "performer": "Undersea Poem"
+              },
+              {
+                "title": "Long Hot Summer",
+                "performer": "The Style Council"
+              },
+              {
+                "title": "Four Leaf Clover",
+                "performer": "The Superimposers"
+              },
+              {
+                "title": "Love",
+                "performer": "Air"
+              },
+              {
+                "title": "Happiness (Quiet Village Remix)",
+                "performer": "Jonathan Jeremiah"
+              },
+              {
+                "title": "Rip It Up",
+                "performer": "Orange Juice"
+              },
+              {
+                "title": "Watching Birds",
+                "performer": "Stornoway"
+              },
+              {
+                "title": "Either Side Of The World",
+                "performer": "Crowded House"
+              },
+              {
+                "title": "Amore Giovane",
+                "performer": "Marc 4"
+              },
+              {
+                "title": "Ruby",
+                "performer": "Kula Shaker"
+              },
+              {
+                "title": "Birds In Cages",
+                "performer": "Eggstone"
+              },
+              {
+                "title": "A Message To You Rudy",
+                "performer": "The Specials"
+              },
+              {
+                "title": "I Saw You Blink (Instrumental)",
+                "performer": "Stornoway"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Love Meeting Love",
+                "performer": "Level 42"
+              },
+              {
+                "title": "Little Miss Valentine",
+                "performer": "The Superimposers"
+              },
+              {
+                "title": "The Coldharbour Road",
+                "performer": "Stornoway"
+              },
+              {
+                "title": "Kissing Strangers",
+                "performer": "Cherry Ghost"
+              },
+              {
+                "title": "Even If",
+                "performer": "Crowded House"
+              },
+              {
+                "title": "In This House",
+                "performer": "Oddfelows Casino"
+              },
+              {
+                "title": "When I Finally Get My Own Place",
+                "performer": "Aqualung"
+              },
+              {
+                "title": "Headache",
+                "performer": "Girls"
+              },
+              {
+                "title": "Relax",
+                "performer": "Marc 4"
+              },
+              {
+                "title": "If You Want To Sing Out, Sing Out",
+                "performer": "Cat Stevens"
+              },
+              {
+                "title": "Camilla",
+                "performer": "Art Of Noise"
+              },
+              {
+                "title": "Would It Be Impossible",
+                "performer": "The Superimposers"
+              },
+              {
+                "title": "Sometimes (Instrumental)",
+                "performer": "The Superimposers"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "29",
+          "date": "2010-07-20",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Wake Up Boo",
+                "performer": "The Boo Radleys"
+              },
+              {
+                "title": "45",
+                "performer": "Ozomatli"
+              },
+              {
+                "title": "Up The Junction",
+                "performer": "Squeeze"
+              },
+              {
+                "title": "Tommy & Co",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "title": "Das Leben ist schön",
+                "performer": "Erdmöbel"
+              },
+              {
+                "title": "Writers Retreat",
+                "performer": "Lloyd Cole"
+              },
+              {
+                "title": "Knight Moves",
+                "performer": "Gonzales"
+              },
+              {
+                "title": "Space Travel",
+                "performer": "Soul Hooligan"
+              },
+              {
+                "title": "A Month Of Mornings",
+                "performer": "Cherry Ghost"
+              },
+              {
+                "title": "You Little Trooper",
+                "performer": "Hint"
+              },
+              {
+                "title": "Excuses",
+                "performer": "The Morning Benders"
+              },
+              {
+                "title": "Bleu My Mind",
+                "performer": "Nichtmares On Wax"
+              },
+              {
+                "title": "Rheinita",
+                "performer": "La Düsseldorf"
+              },
+              {
+                "title": "Space Patrol",
+                "performer": "Ichisan"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Umbrella",
+                "performer": "Manic Street Preachers"
+              },
+              {
+                "title": "Like A Broken Record",
+                "performer": "Lloyd Cole"
+              },
+              {
+                "title": "Kissing Strangers",
+                "performer": "Cherry Ghost"
+              },
+              {
+                "title": "In A Coma",
+                "performer": "Paul Steel"
+              },
+              {
+                "title": "77ste Liebe",
+                "performer": "Erdmöbel"
+              },
+              {
+                "title": "Boys Don't Cry",
+                "performer": "Josh Rouse"
+              },
+              {
+                "title": "Cigarettes And Alcohol",
+                "performer": "Oasis"
+              },
+              {
+                "title": "You Showed Me",
+                "performer": "Aqua Velvet"
+              },
+              {
+                "title": "Night Train",
+                "performer": "Brown Recluse"
+              },
+              {
+                "title": "Wet Cement",
+                "performer": "The Mornng Benders"
+              },
+              {
+                "title": "Oh How It Hurts",
+                "performer": "Barbara Mason"
+              },
+              {
+                "title": "The Tyranny Of Parents",
+                "performer": "Robert Cooper"
+              },
+              {
+                "title": "Handbags And Gladrags",
+                "performer": "Chris Farlowe"
+              },
+              {
+                "title": "I Put A Spell On You",
+                "performer": "Screaming' Jay Hawkins"
+              },
+              {
+                "title": "Like Summer",
+                "performer": "David Gold"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "The Look Of Love",
+                "performer": "Burt Bacharach"
+              },
+              {
+                "title": "Under Cold Blue Stars (Navy Blazer Remix)",
+                "performer": "Josh Rouse"
+              },
+              {
+                "title": "Snoopy T-Shirt",
+                "performer": "Erdmöbel"
+              },
+              {
+                "title": "Seventeen",
+                "performer": "The Simon Park Orchestra"
+              },
+              {
+                "title": "Poignant",
+                "performer": "Robert Cooper"
+              },
+              {
+                "title": "Bach Anal",
+                "performer": "Michel Magne"
+              },
+              {
+                "title": "Time To Pretend",
+                "performer": "Jonsi"
+              },
+              {
+                "title": "Shadows (Jens Lekman Remix)",
+                "performer": "Au Revoir Simone"
+              },
+              {
+                "title": "Surf's Up",
+                "performer": "Britanica"
+              },
+              {
+                "title": "Liquid Sunshine",
+                "performer": "John Cameron"
+              },
+              {
+                "title": "Everyone's Gone To The Moon",
+                "performer": "Chad & Jeremy"
+              },
+              {
+                "title": "Forever",
+                "performer": "Pete Drake"
+              },
+              {
+                "title": "98,6",
+                "performer": "Aqua Velvet"
+              },
+              {
+                "title": "The End",
+                "performer": "The Real Tuesday Weld"
+              }
+            ]
+          ]
         }
       ]
     },
