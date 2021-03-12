@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 14.0px 0.0px; font: 18.0px Times}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times}
+  </style>
+</head>
+<body>
+<p class="p1"><b>ZwWdP 23.08.2011</b></p>
+<p class="p2"><b>20 Uhr</b></p>
+<p class="p2"><b>Orwell</b></p>
+<p class="p2">In Your Playground</p>
+<p class="p2"><b>Luke Leighfield</b></p>
+<p class="p2">By my Side</p>
+<p class="p2"><b>Pugwash</b></p>
+<p class="p2">Answers On A Postcard</p>
+<p class="p2"><b>Rufus Wainwright</b></p>
+<p class="p2">Cigarettes And Coholate Milk</p>
+<p class="p2"><b>Mayer Hawthorne</b></p>
+<p class="p2">A Long Time</p>
+<p class="p2"><b>Stereolab</b></p>
+<p class="p2">Equivalences</p>
+<p class="p2"><b>The Buckinghams</b></p>
+<p class="p2">Back In Love Again</p>
+<p class="p2"><b>Lampchop</b></p>
+<p class="p2">Sunrise</p>
+<p class="p2"><b>The Four Seasons</b></p>
+<p class="p2">Wall Street Village Day</p>
+<p class="p2"><b>Air</b></p>
+<p class="p2">Ce Matin La</p>
+<p class="p2"><b>Apple Rabbits</b></p>
+<p class="p2">Sing To Me</p>
+<p class="p2"><b>Other Lives</b></p>
+<p class="p2">Desert</p>
+<p class="p2"><b>Hefner</b></p>
+<p class="p2">Level Green (Blue States Mix) <b>21 Uhr</b></p>
+<p class="p2"><b>Mother Earth</b></p>
+<p class="p2">Jesse</p>
+<p class="p2"><b>Jonathan Wilson</b></p>
+<p class="p2">Desert Raven</p>
+<p class="p2"><b>Grandaddy</b></p>
+<p class="p2">He's Simple, He's Dumb, He's The Pilot</p>
+<p class="p2"><b>Heist</b></p>
+<p class="p2">If</p>
+<p class="p2"><b>Wings</b></p>
+<p class="p2">Nineteen Hundred And Eighty Five</p>
+<p class="p2"><b>Lanterns On The Lake</b></p>
+<p class="p2">Keep On Trying</p>
+<p class="p2"><b>Pete Kuzma (Sunny Side 6)</b></p>
+<p class="p2">High And Dry</p>
+<p class="p2"><b>The Carpenters</b></p>
+<p class="p2">Calling Occupants Of Interplanetarycraft</p>
+<p class="p2"><b>The Silly Pillows</b></p>
+<p class="p2">Equilibrium</p>
+<p class="p2"><b>The High Llamas</b></p>
+<p class="p2">Milting Tindmills <b>22 Uhr</b></p>
+<p class="p2"><b>The Style Council</b></p>
+<p class="p2">Walking The Night</p>
+<p class="p2"><b>Roger Joseph Manning Jr.</b></p>
+<p class="p2">In The Name Of Romance</p>
+<p class="p2"><b>Dust</b></p>
+<p class="p2">High</p>
+<p class="p2"><b>Distortions Pop</b></p>
+<p class="p2">Equilibriums</p>
+<p class="p2"><b>The National Convention</b></p>
+<p class="p2">I Can't Believe This Is Happening To Me</p>
+<p class="p2"><b>The Sandpipers</b></p>
+<p class="p2">Temtation</p>
+<p class="p2"><b>Expo</b></p>
+<p class="p2">Canoe</p>
+<p class="p2"><b>The Swell Season</b></p>
+<p class="p2">High Horses</p>
+<p class="p2"><b>Orwell</b></p>
+<p class="p2">In Your Playground (unplugged RB4)</p>
+<p class="p2"><b>Orwell</b></p>
+<p class="p2">Cars And Girls (unplugged RB4)</p>
+<p class="p2"><b>Malcolm Ross</b></p>
+<p class="p2">Smiling Sweetly</p>
+<p class="p2"><b>Nat King Cole</b></p>
+<p class="p2">Fly Me To The Moon</p>
+<p class="p2"><b>The Zombies</b></p>
+<p class="p2">Beechwood Park</p>
+<p class="p2"><b>Pugwash</b></p>
+<p class="p2">To The Warmth Of You</p>
+<p class="p2"><b>Nightmares On Wax</b></p>
+<p class="p2">You Wish</p>
+</body>
+</html>
+<script>
+let file="./2011-08-23.html";
+let date="2011-08-23";
+let id="";
+class Song {
+    time;
+    title;
+    performer;
+}
+
+class SongList {
+    list = [];
+}
+
+class Episode {
+    id;
+    title;
+    date;
+    comment;
+    songs;
+}
+
+let episode = new Episode();
+episode.songs = [];
+let songs;
+document.querySelectorAll("tbody>tr").forEach(
+    row => {
+        let s = new Song();
+        s.time = row.querySelector("td:nth-child(1)").textContent.trim();
+        s.title = row.querySelector("td:nth-child(3)").textContent.trim();
+        s.performer = row.querySelector("td:nth-child(2)").textContent.trim();
+        if (!s.time) {
+            s.time = undefined;
+        }
+        if (s.time) {
+            s.time = s.time.replace(/20.*/, "20:04");
+            s.time = s.time.replace(/21.*/, "21:04");
+            s.time = s.time.replace(/22.*/, "22:04");
+            s.time = s.time.replace(/23.*/, "23:04");
+        }
+        if (s.time && s.time.trim().toUpperCase() === "ZEIT") {
+          // drop
+        } else {
+            if (s.time) {
+                songs = [];
+                episode.songs.push(songs);
+            }
+            songs.push(s);
+        }
+    }
+);
+
+episode.id = id;
+episode.date = date;
+
+let result = JSON.stringify(episode);
+
+console.info("result = ", result);
+
+document.querySelector("table").insertAdjacentHTML("beforebegin", result);
+</script>
