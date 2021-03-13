@@ -17576,7 +17576,7 @@
       "station": "Radio Bremen 4",
       "episodes": [
     {
-      "id": "1",
+      "id": "2",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-01-06",
       "songs": [
@@ -17741,7 +17741,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-01-13",
       "songs": [
@@ -17914,7 +17914,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-01-20",
       "songs": [
@@ -18099,7 +18099,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-01-27",
       "songs": [
@@ -18272,7 +18272,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "6",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-02-03",
       "songs": [
@@ -18449,7 +18449,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": "7",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-02-10",
       "songs": [
@@ -18618,7 +18618,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "8",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-02-17",
       "songs": [
@@ -18795,7 +18795,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "10",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-03-03",
       "songs": [
@@ -18976,7 +18976,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "11",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-03-10",
       "songs": [
@@ -19157,7 +19157,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": "12",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-03-17",
       "songs": [
@@ -19334,7 +19334,7 @@
       ]
     },
     {
-      "id": "11",
+      "id": "13",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-03-24",
       "songs": [
@@ -19515,7 +19515,7 @@
       ]
     },
     {
-      "id": "12",
+      "id": "14",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-03-31",
       "songs": [
@@ -19668,7 +19668,7 @@
       ]
     },
     {
-      "id": "13",
+      "id": "15",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-04-07",
       "songs": [
@@ -19764,8 +19764,181 @@
         ]
       ]
     },
+        {
+          "id": "16",
+          "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2015-04-14",
+          "songs": [
+            [
+              {
+                "title": "Army",
+                "performer": "Ben Folds Five"
+              },
+              {
+                "title": "Smiling",
+                "performer": "Jonathan Jeremiah"
+              },
+              {
+                "title": "Slabo Day",
+                "performer": "Peter Green"
+              },
+              {
+                "title": "Love Kills All Fear",
+                "performer": "Ralegh Long"
+              },
+              {
+                "title": "Boxcutter",
+                "performer": "Rocky Votolato"
+              },
+              {
+                "title": "Great Southern Land",
+                "performer": "Icehouse"
+              },
+              {
+                "title": "Fanfare For The Common Man",
+                "performer": "Emerson,Lake & Palmer"
+              },
+              {
+                "title": "Ok! Have It Your Way",
+                "performer": "The Blow Monkeys"
+              },
+              {
+                "title": "Some days I'm Golden All Night",
+                "performer": "Josh Rouse"
+              },
+              {
+                "title": "The Stroll",
+                "performer": "James Taylor Quartet"
+              },
+              {
+                "title": "Between The Saltmarsh And The Sea",
+                "performer": "Stornoway"
+              },
+              {
+                "title": "Games Without Frontiers",
+                "performer": "Peter Gabriel"
+              },
+              {
+                "title": "Can't Get My Act Together",
+                "performer": "Ron Sexsmith"
+              },
+              {
+                "title": "God Put A Smile Upon Your Face",
+                "performer": "Mark Ronson feat. The Daptone Horns"
+              }
+            ],
+            [
+              {
+                "title": "Don't Kill It Carol",
+                "performer": "Manfred Mann's Earth Band"
+              },
+              {
+                "title": "Vertigo",
+                "performer": "The Guggenheim Grotto"
+              },
+              {
+                "title": "Arms",
+                "performer": "Jonathan Jeremiah"
+              },
+              {
+                "title": "Mr. Blue Sky",
+                "performer": "Electric Light Orchestra"
+              },
+              {
+                "title": "The Old Spring Town",
+                "performer": "The High Llamas"
+              },
+              {
+                "title": "Wild Horses",
+                "performer": "Gino Vannelli"
+              },
+              {
+                "title": "Love Is Deep",
+                "performer": "Matthew E. White"
+              },
+              {
+                "title": "Ghost That Burned Your House Down",
+                "performer": "Cold Crows Dead"
+              },
+              {
+                "title": "Nancy From Now On",
+                "performer": "Father John Misty"
+              },
+              {
+                "title": "Give Me Love",
+                "performer": "Ron Sexsmith"
+              },
+              {
+                "title": "Do What You Like",
+                "performer": "Foreigner"
+              },
+              {
+                "title": "Happy Hour",
+                "performer": "Fauna Flora"
+              },
+              {
+                "title": "Speed Of Life",
+                "performer": "David Bowie"
+              }
+            ],
+            [
+              {
+                "title": "Minute By Minute",
+                "performer": "The Doobie Brothers"
+              },
+              {
+                "title": "Alone Again (Naturally) (T2MM Edit)",
+                "performer": "Gilbert O'Sullivan"
+              },
+              {
+                "title": "What Ever Happened",
+                "performer": "Brian Wilson feat. Al Jardine"
+              },
+              {
+                "title": "I'm Not In Love",
+                "performer": "Fun Lovin' Criminals"
+              },
+              {
+                "title": "Spring",
+                "performer": "Saint Etienne"
+              },
+              {
+                "title": "Spring Isn't Fair",
+                "performer": "Bertrand Burgalat"
+              },
+              {
+                "title": "I Wanna Dance With Somebody (Bremen Vier-Session)",
+                "performer": "Scott Matthew"
+              },
+              {
+                "title": "The Ride",
+                "performer": "Ralegh Long"
+              },
+              {
+                "title": "Highwayman",
+                "performer": "Jimmy Layne Webb"
+              },
+              {
+                "title": "Condolence",
+                "performer": "Benjamin Clementine"
+              },
+              {
+                "title": "Into This Life",
+                "performer": "The Golden Retrievers"
+              },
+              {
+                "title": "Lady Grinning Soul",
+                "performer": "Momus"
+              },
+              {
+                "title": "Good Night",
+                "performer": "Cyril Stapleton, His Choir And Orchestra"
+              }
+            ]
+          ]
+        },
     {
-      "id": "14",
+      "id": "17",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-04-21",
       "songs": [
@@ -19938,180 +20111,7 @@
       ]
     },
     {
-      "id": "15",
-      "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "2015-04-14",
-      "songs": [
-        [
-          {
-            "title": "Army",
-            "performer": "Ben Folds Five"
-          },
-          {
-            "title": "Smiling",
-            "performer": "Jonathan Jeremiah"
-          },
-          {
-            "title": "Slabo Day",
-            "performer": "Peter Green"
-          },
-          {
-            "title": "Love Kills All Fear",
-            "performer": "Ralegh Long"
-          },
-          {
-            "title": "Boxcutter",
-            "performer": "Rocky Votolato"
-          },
-          {
-            "title": "Great Southern Land",
-            "performer": "Icehouse"
-          },
-          {
-            "title": "Fanfare For The Common Man",
-            "performer": "Emerson,Lake & Palmer"
-          },
-          {
-            "title": "Ok! Have It Your Way",
-            "performer": "The Blow Monkeys"
-          },
-          {
-            "title": "Some days I'm Golden All Night",
-            "performer": "Josh Rouse"
-          },
-          {
-            "title": "The Stroll",
-            "performer": "James Taylor Quartet"
-          },
-          {
-            "title": "Between The Saltmarsh And The Sea",
-            "performer": "Stornoway"
-          },
-          {
-            "title": "Games Without Frontiers",
-            "performer": "Peter Gabriel"
-          },
-          {
-            "title": "Can't Get My Act Together",
-            "performer": "Ron Sexsmith"
-          },
-          {
-            "title": "God Put A Smile Upon Your Face",
-            "performer": "Mark Ronson feat. The Daptone Horns"
-          }
-        ],
-        [
-          {
-            "title": "Don't Kill It Carol",
-            "performer": "Manfred Mann's Earth Band"
-          },
-          {
-            "title": "Vertigo",
-            "performer": "The Guggenheim Grotto"
-          },
-          {
-            "title": "Arms",
-            "performer": "Jonathan Jeremiah"
-          },
-          {
-            "title": "Mr. Blue Sky",
-            "performer": "Electric Light Orchestra"
-          },
-          {
-            "title": "The Old Spring Town",
-            "performer": "The High Llamas"
-          },
-          {
-            "title": "Wild Horses",
-            "performer": "Gino Vannelli"
-          },
-          {
-            "title": "Love Is Deep",
-            "performer": "Matthew E. White"
-          },
-          {
-            "title": "Ghost That Burned Your House Down",
-            "performer": "Cold Crows Dead"
-          },
-          {
-            "title": "Nancy From Now On",
-            "performer": "Father John Misty"
-          },
-          {
-            "title": "Give Me Love",
-            "performer": "Ron Sexsmith"
-          },
-          {
-            "title": "Do What You Like",
-            "performer": "Foreigner"
-          },
-          {
-            "title": "Happy Hour",
-            "performer": "Fauna Flora"
-          },
-          {
-            "title": "Speed Of Life",
-            "performer": "David Bowie"
-          }
-        ],
-        [
-          {
-            "title": "Minute By Minute",
-            "performer": "The Doobie Brothers"
-          },
-          {
-            "title": "Alone Again (Naturally) (T2MM Edit)",
-            "performer": "Gilbert O'Sullivan"
-          },
-          {
-            "title": "What Ever Happened",
-            "performer": "Brian Wilson feat. Al Jardine"
-          },
-          {
-            "title": "I'm Not In Love",
-            "performer": "Fun Lovin' Criminals"
-          },
-          {
-            "title": "Spring",
-            "performer": "Saint Etienne"
-          },
-          {
-            "title": "Spring Isn't Fair",
-            "performer": "Bertrand Burgalat"
-          },
-          {
-            "title": "I Wanna Dance With Somebody (Bremen Vier-Session)",
-            "performer": "Scott Matthew"
-          },
-          {
-            "title": "The Ride",
-            "performer": "Ralegh Long"
-          },
-          {
-            "title": "Highwayman",
-            "performer": "Jimmy Layne Webb"
-          },
-          {
-            "title": "Condolence",
-            "performer": "Benjamin Clementine"
-          },
-          {
-            "title": "Into This Life",
-            "performer": "The Golden Retrievers"
-          },
-          {
-            "title": "Lady Grinning Soul",
-            "performer": "Momus"
-          },
-          {
-            "title": "Good Night",
-            "performer": "Cyril Stapleton, His Choir And Orchestra"
-          }
-        ]
-      ]
-    },
-    {
-      "id": "16",
+      "id": "18",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-04-28",
       "songs": [
@@ -20296,7 +20296,7 @@
       ]
     },
     {
-      "id": "17",
+      "id": "19",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-05-05",
       "songs": [
@@ -20473,7 +20473,7 @@
       ]
     },
     {
-      "id": "18",
+      "id": "20",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-05-12",
       "songs": [
@@ -20634,7 +20634,7 @@
       ]
     },
     {
-      "id": "19",
+      "id": "21",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-05-19",
       "songs": [
@@ -20803,7 +20803,7 @@
       ]
     },
     {
-      "id": "20",
+      "id": "22",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-05-26",
       "songs": [
@@ -20968,7 +20968,7 @@
       ]
     },
     {
-      "id": "21",
+      "id": "23",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-06-02",
       "songs": [
@@ -21161,7 +21161,7 @@
       ]
     },
     {
-      "id": "22",
+      "id": "24",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-06-09",
       "songs": [
@@ -21326,7 +21326,7 @@
       ]
     },
     {
-      "id": "23",
+      "id": "25",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-06-16",
       "songs": [
@@ -21507,7 +21507,7 @@
       ]
     },
     {
-      "id": "24",
+      "id": "26",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-06-23",
       "songs": [
@@ -21688,7 +21688,7 @@
       ]
     },
     {
-      "id": "25",
+      "id": "27",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-06-30",
       "songs": [
@@ -21865,9 +21865,10 @@
       ]
     },
     {
-      "id": "26",
+      "id": "28",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-07-07",
+      "comment": "Datum evtl. falsch",
       "songs": [
         [
           {
@@ -22046,169 +22047,10 @@
       ]
     },
     {
-      "id": "27",
+      "id": "29",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-07-14",
-      "songs": [
-        [
-          {
-            "title": "How Long",
-            "performer": "Saga"
-          },
-          {
-            "title": "Rockmaker",
-            "performer": "Toto"
-          },
-          {
-            "title": "Spooky",
-            "performer": "Atlanta Rhythm Section"
-          },
-          {
-            "title": "Peg",
-            "performer": "Steely Dan"
-          },
-          {
-            "title": "Get It Up For Love",
-            "performer": "Ned Doheny"
-          },
-          {
-            "title": "Davy's On The Road Again",
-            "performer": "Manfred Mann's Earth Band"
-          },
-          {
-            "title": "Battened Ships",
-            "performer": "Odyssey"
-          },
-          {
-            "performer": "Dick Morrissey & Jim Mullen"
-          },
-          {
-            "title": "A Matter Of Pride",
-            "performer": "The Tubes"
-          },
-          {
-            "title": "Sister Golden Hair",
-            "performer": "America"
-          },
-          {
-            "title": "Jet Airliner",
-            "performer": "Steve Miller Band"
-          },
-          {
-            "title": "Carry On Wayward Son",
-            "performer": "Kansas"
-          },
-          {
-            "title": "January",
-            "performer": "Pilot"
-          },
-          {
-            "title": "Stingray (Get Up With That)",
-            "performer": "Jan Akkerman"
-          }
-        ],
-        [
-          {
-            "title": "Livin'Thing",
-            "performer": "Electric Light Orchestra (ELO)"
-          },
-          {
-            "title": "What Goes Up",
-            "performer": "The Alan Parsons Project"
-          },
-          {
-            "title": "Who'll Be The Fool Tonight",
-            "performer": "Larsen- Feiten Band"
-          },
-          {
-            "title": "Dear Limmertz",
-            "performer": "Azymuth"
-          },
-          {
-            "title": "You Make Loving Fun",
-            "performer": "Fleetwood Mac"
-          },
-          {
-            "title": "Howzat",
-            "performer": "Sherbet"
-          },
-          {
-            "title": "Escape (The Pina Colada Song)",
-            "performer": "Rupert Holmes"
-          },
-          {
-            "title": "It's A Long Way There",
-            "performer": "Little River Band"
-          },
-          {
-            "title": "Night Train",
-            "performer": "Steve Winwood"
-          },
-          {
-            "title": "Are You Going With Me?",
-            "performer": "Pat Metheny Group"
-          },
-          {
-            "title": "Hey Hey Baby",
-            "performer": "Ben Sidran"
-          }
-        ],
-        [
-          {
-            "title": "Stronger Love",
-            "performer": "Le Blanc & Carr"
-          },
-          {
-            "title": "A Love Of Your Own",
-            "performer": "Ned Doheny"
-          },
-          {
-            "title": "Give Me Love",
-            "performer": "Santana"
-          },
-          {
-            "title": "Catching The Sun",
-            "performer": "Spyro Gyra"
-          },
-          {
-            "title": "We Almost Lost Detroit",
-            "performer": "Gil Scott-Heron & Brian Jackson"
-          },
-          {
-            "title": "Mirage",
-            "performer": "Jean-Luc Ponty"
-          },
-          {
-            "title": "Keep On Loving You",
-            "performer": "REO Speedwagon"
-          },
-          {
-            "title": "Babe",
-            "performer": "Styx"
-          },
-          {
-            "title": "If You Want It",
-            "performer": "Niteflyte"
-          },
-          {
-            "title": "Undecided",
-            "performer": "Hubert Laws"
-          },
-          {
-            "title": "Maxine",
-            "performer": "Donald Fagen"
-          },
-          {
-            "title": "Gregory Porgy",
-            "performer": "Louie Shelton"
-          }
-        ]
-      ]
-    },
-    {
-      "id": "28",
-      "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "2015-07-21",
+      "comment": "Datum evtl. falsch",
       "songs": [
         [
           {
@@ -22366,8 +22208,185 @@
         ]
       ]
     },
+        {
+          "id": "35",
+          "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2015-08-25",
+          "songs": [
+            [
+              {
+                "title": "So. Central Rain (South Central Rain)",
+                "performer": "R.E.M."
+              },
+              {
+                "title": "Old Radio Sound",
+                "performer": "Scott Nicks"
+              },
+              {
+                "title": "Waiting For A Train",
+                "performer": "Flash And The Pan"
+              },
+              {
+                "title": "Birds Of A Feather",
+                "performer": "Mocky"
+              },
+              {
+                "title": "PSBTV",
+                "performer": "Roman À Clef"
+              },
+              {
+                "title": "Jordan: The Comeback",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "title": "A Heart Like Hers",
+                "performer": "Mac DeMarco"
+              },
+              {
+                "title": "Prawn",
+                "performer": "The Phoenix Foundation"
+              },
+              {
+                "title": "Yes I'm Changing",
+                "performer": "Tame Impala"
+              },
+              {
+                "title": "Delone",
+                "performer": "Sacri Cuori"
+              },
+              {
+                "title": "Creep",
+                "performer": "Radiohead"
+              },
+              {
+                "title": "Sugarman",
+                "performer": "The Free Association"
+              },
+              {
+                "title": "Going my Way",
+                "performer": "Paul Weller"
+              }
+            ],
+            [
+              {
+                "title": "Can't Hide Love",
+                "performer": "Earth, Wind & Fire"
+              },
+              {
+                "title": "Right",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "524 Fidelio",
+                "performer": "Cinerama"
+              },
+              {
+                "title": "The Chain",
+                "performer": "Fleetwood Mac"
+              },
+              {
+                "title": "Wino Junko",
+                "performer": "Wings"
+              },
+              {
+                "title": "If I Could Tell You",
+                "performer": "Nex Cottee"
+              },
+              {
+                "title": "Summer Reign",
+                "performer": "The Superimposers"
+              },
+              {
+                "title": "Beach Samba",
+                "performer": "Walter Wanderley"
+              },
+              {
+                "title": "The Swimmer",
+                "performer": "Phil France"
+              },
+              {
+                "title": "Don't Ask Me Why",
+                "performer": "Jaakko Eino Kalevi"
+              },
+              {
+                "title": "Love Like Blood",
+                "performer": "Iva Davies & Icehouse"
+              },
+              {
+                "title": "Face To Face",
+                "performer": "The Gerhard Narholz Orchestra"
+              }
+            ],
+            [
+              {
+                "title": "Desperado",
+                "performer": "Le Blanc & Carr"
+              },
+              {
+                "title": "Wise Up",
+                "performer": "Aimee Mann"
+              },
+              {
+                "title": "I Spy",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "The Chauffeur",
+                "performer": "Urbs feat. Rodney Hunter"
+              },
+              {
+                "title": "When Paulie Gets Mad",
+                "performer": "Mocky"
+              },
+              {
+                "title": "Someday Man",
+                "performer": "Paul Williams"
+              },
+              {
+                "title": "Islander",
+                "performer": "Grasscut"
+              },
+              {
+                "title": "Höre, der du wagst",
+                "performer": "Popol Vuh"
+              },
+              {
+                "title": "Ride",
+                "performer": "Mike Sena"
+              },
+              {
+                "title": "Story Of A Dying Man",
+                "performer": "Chris Stills"
+              },
+              {
+                "title": "Polkadots And Moonbeams",
+                "performer": "Mathilde Santing"
+              },
+              {
+                "title": "Moonlight",
+                "performer": "Joe Jackson"
+              },
+              {
+                "title": "Favourite Chair",
+                "performer": "Sarah Cracknell"
+              },
+              {
+                "title": "So Good At Being In Trouble",
+                "performer": "Unknown Mortal Orchestra"
+              },
+              {
+                "title": "Early Sunday Morning",
+                "performer": "Isaac Hayes"
+              },
+              {
+                "title": "Good Night",
+                "performer": "Cyril Stapleton, His Choir And Orchestra"
+              }
+            ]
+          ]
+        },
     {
-      "id": "29",
+      "id": "36",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-09-01",
       "songs": [
@@ -22548,184 +22567,7 @@
       ]
     },
     {
-      "id": "30",
-      "title": "Zeiglers wunderbare Welt des Pop",
-      "date": "2015-08-25",
-      "songs": [
-        [
-          {
-            "title": "So. Central Rain (South Central Rain)",
-            "performer": "R.E.M."
-          },
-          {
-            "title": "Old Radio Sound",
-            "performer": "Scott Nicks"
-          },
-          {
-            "title": "Waiting For A Train",
-            "performer": "Flash And The Pan"
-          },
-          {
-            "title": "Birds Of A Feather",
-            "performer": "Mocky"
-          },
-          {
-            "title": "PSBTV",
-            "performer": "Roman À Clef"
-          },
-          {
-            "title": "Jordan: The Comeback",
-            "performer": "Prefab Sprout"
-          },
-          {
-            "title": "A Heart Like Hers",
-            "performer": "Mac DeMarco"
-          },
-          {
-            "title": "Prawn",
-            "performer": "The Phoenix Foundation"
-          },
-          {
-            "title": "Yes I'm Changing",
-            "performer": "Tame Impala"
-          },
-          {
-            "title": "Delone",
-            "performer": "Sacri Cuori"
-          },
-          {
-            "title": "Creep",
-            "performer": "Radiohead"
-          },
-          {
-            "title": "Sugarman",
-            "performer": "The Free Association"
-          },
-          {
-            "title": "Going my Way",
-            "performer": "Paul Weller"
-          }
-        ],
-        [
-          {
-            "title": "Can't Hide Love",
-            "performer": "Earth, Wind & Fire"
-          },
-          {
-            "title": "Right",
-            "performer": "David Bowie"
-          },
-          {
-            "title": "524 Fidelio",
-            "performer": "Cinerama"
-          },
-          {
-            "title": "The Chain",
-            "performer": "Fleetwood Mac"
-          },
-          {
-            "title": "Wino Junko",
-            "performer": "Wings"
-          },
-          {
-            "title": "If I Could Tell You",
-            "performer": "Nex Cottee"
-          },
-          {
-            "title": "Summer Reign",
-            "performer": "The Superimposers"
-          },
-          {
-            "title": "Beach Samba",
-            "performer": "Walter Wanderley"
-          },
-          {
-            "title": "The Swimmer",
-            "performer": "Phil France"
-          },
-          {
-            "title": "Don't Ask Me Why",
-            "performer": "Jaakko Eino Kalevi"
-          },
-          {
-            "title": "Love Like Blood",
-            "performer": "Iva Davies & Icehouse"
-          },
-          {
-            "title": "Face To Face",
-            "performer": "The Gerhard Narholz Orchestra"
-          }
-        ],
-        [
-          {
-            "title": "Desperado",
-            "performer": "Le Blanc & Carr"
-          },
-          {
-            "title": "Wise Up",
-            "performer": "Aimee Mann"
-          },
-          {
-            "title": "I Spy",
-            "performer": "Paul Weller"
-          },
-          {
-            "title": "The Chauffeur",
-            "performer": "Urbs feat. Rodney Hunter"
-          },
-          {
-            "title": "When Paulie Gets Mad",
-            "performer": "Mocky"
-          },
-          {
-            "title": "Someday Man",
-            "performer": "Paul Williams"
-          },
-          {
-            "title": "Islander",
-            "performer": "Grasscut"
-          },
-          {
-            "title": "Höre, der du wagst",
-            "performer": "Popol Vuh"
-          },
-          {
-            "title": "Ride",
-            "performer": "Mike Sena"
-          },
-          {
-            "title": "Story Of A Dying Man",
-            "performer": "Chris Stills"
-          },
-          {
-            "title": "Polkadots And Moonbeams",
-            "performer": "Mathilde Santing"
-          },
-          {
-            "title": "Moonlight",
-            "performer": "Joe Jackson"
-          },
-          {
-            "title": "Favourite Chair",
-            "performer": "Sarah Cracknell"
-          },
-          {
-            "title": "So Good At Being In Trouble",
-            "performer": "Unknown Mortal Orchestra"
-          },
-          {
-            "title": "Early Sunday Morning",
-            "performer": "Isaac Hayes"
-          },
-          {
-            "title": "Good Night",
-            "performer": "Cyril Stapleton, His Choir And Orchestra"
-          }
-        ]
-      ]
-    },
-    {
-      "id": "31",
+      "id": "37",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-09-08",
       "songs": [
@@ -22898,7 +22740,7 @@
       ]
     },
     {
-      "id": "32",
+      "id": "38",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-09-15",
       "songs": [
@@ -23075,7 +22917,7 @@
       ]
     },
     {
-      "id": "33",
+      "id": "39",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-09-22",
       "songs": [
@@ -23240,7 +23082,7 @@
       ]
     },
     {
-      "id": "34",
+      "id": "41",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-10-06",
       "songs": [
@@ -23401,7 +23243,7 @@
       ]
     },
     {
-      "id": "35",
+      "id": "42",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-10-13",
       "songs": [
@@ -23566,7 +23408,7 @@
       ]
     },
     {
-      "id": "36",
+      "id": "43",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-10-20",
       "songs": [
@@ -23731,7 +23573,7 @@
       ]
     },
     {
-      "id": "37",
+      "id": "45",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-11-03",
       "songs": [
@@ -23912,7 +23754,7 @@
       ]
     },
     {
-      "id": "38",
+      "id": "46",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-11-10",
       "songs": [
@@ -24085,7 +23927,7 @@
       ]
     },
     {
-      "id": "39",
+      "id": "47",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-11-17",
       "songs": [
@@ -24234,7 +24076,7 @@
       ]
     },
     {
-      "id": "40",
+      "id": "48",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-11-24",
       "songs": [
@@ -24403,7 +24245,7 @@
       ]
     },
     {
-      "id": "41",
+      "id": "49",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-12-01",
       "songs": [
@@ -24580,7 +24422,7 @@
       ]
     },
     {
-      "id": "42",
+      "id": "50",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-12-08",
       "songs": [
@@ -24745,7 +24587,7 @@
       ]
     },
     {
-      "id": "43",
+      "id": "51",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-12-15",
       "songs": [
@@ -24934,7 +24776,7 @@
       ]
     },
     {
-      "id": "44",
+      "id": "52",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-12-22",
       "songs": [
@@ -25115,7 +24957,7 @@
       ]
     },
     {
-      "id": "45",
+      "id": "53",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2015-12-29",
       "songs": [
