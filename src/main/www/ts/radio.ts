@@ -1,4 +1,4 @@
-import {html, render} from "lit-html";
+import {html, render, TemplateResult} from "lit-html";
 
 // import { Popover } from "../js/bootstrap.esm.js";
 
@@ -365,10 +365,10 @@ class RadioApplication extends HTMLElement {
         : null;
   }
 
-  private html1() {
+  private htmlMain(): TemplateResult {
     const broadcast = this.broadcast;
     const episode = this.episode;
-    console.info("html1", broadcast, episode)
+    console.info("htmlMain", broadcast, episode)
 
     if (!broadcast || !episode) {
       return html`<h2>Lade Daten...</h2>`
@@ -447,7 +447,8 @@ ${episode.nextId
   </tr></thead><tbody></tbody></table>`;
   }
 
-  private html2(episode: Episode, song: Song) {
+  // todo: TemplateResult statt string
+  private htmlRow(episode: Episode, song: Song): string {
     return `<tr>
 <td class="${episode.songs.hasTime ? '' : 'd-none'}">${song.time ? song.time : ""}</td>
 <td class="${episode.songs.hasTitle ? '' : 'd-none'}">${song.title ? song.title : ""}</td>
@@ -587,17 +588,17 @@ ${JSON.stringify(neu, null, 2)}
 
   private renderBroadcast() {
 
-    console.info("render html1");
-    render(this.html1(), this);
+    console.info("render htmlMain");
+    render(this.htmlMain(), this);
 
-    console.info("render html2");
+    console.info("render htmlRow");
     const table = this.querySelector("tbody");
     if (table) {
       table.innerHTML = "";
       const episode = this.episode;
       episode.songs.list.forEach(song => {
         table.insertAdjacentHTML("beforeend",
-            this.html2(episode, song));
+            this.htmlRow(episode, song));
       });
     }
 
