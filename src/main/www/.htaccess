@@ -199,8 +199,8 @@ Redirect 301 /fiehe-1010.html /fiehe-2020-25.html
 Redirect 301 /fiehe-1011.html /fiehe-2020-26.html
 Redirect 301 /fiehe-1012.html /fiehe-2020-27.html
 
-# weitere (TODO: so wie Ton Art)
-RewriteRule ^(fiehe|ptw)(-([a-z0-9]+))?(-([a-z0-9]+))?\.html$ radio.html
+# Pops tönende Wunderwelt
+RewriteRule ^ptw(-([a-z0-9]+))?(-([a-z0-9]+))?(X([0-9]+))?\.html$ radio.html
 
 # Auth
 #AuthUserFile /mnt/rid/61/26/5146126/htdocs/.htpasswd
