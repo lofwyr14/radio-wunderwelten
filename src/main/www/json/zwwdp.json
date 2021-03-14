@@ -34263,6 +34263,7 @@
           "id": "10",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2021-03-11",
+          "checked": {"date": "2021-03-14", "user": "jg"},
           "songs": [
             [
               { "time":"22:04", "title": "Up On The Downside", "performer": "Ocean Colour Scene"},
@@ -34291,7 +34292,7 @@
               { "time":"23:27", "title": "Favorite Complication", "performer": "The National Convention"},
               { "time":"23:31", "title": "Breezin'", "performer": "Gabor Szabo"},
               { "time":"23:34", "title": "You Won't Come Around", "performer": "Balthazar"},
-              { "time":"23:40", "title": "Argomenti", "performer": "Isobel"},
+              { "time":"23:40", "title": "Argomenti", "performer": "Isobel Campbell"},
               { "time":"23:44", "title": "Sound And Vision", "performer": "Helado Negro"},
               { "time":"23:48", "title": "Life on Mars", "performer": "Eric Le Lann"},
               { "time":"23:52", "title": "Tiny Dancer", "performer": "Ben Folds"},
