@@ -6152,6 +6152,7 @@
         {
           "id": "25",
           "date": "2011-06-21",
+          "checked": {"date": "2021-03-14", "user": "jg"},
           "songs": [
             [
               {
@@ -29388,6 +29389,47 @@
               { "time":"23:51", "title": "Femme Fatale", "performer": "Modular"},
               { "time":"23:55", "title": "Singalong Junk", "performer": "Paul McCartney"},
               { "time":"23:58", "title": "Good Night", "performer": "The Beatles"}
+            ]
+          ]
+        },
+        {
+          "id": "10",
+          "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2021-03-11",
+          "songs": [
+            [
+              { "time":"22:04", "title": "Up On The Downside", "performer": "Ocean Colour Scene"},
+              { "time":"22:09", "title": "Cosmic Fringes", "performer": "Paul Weller"},
+              { "time":"22:12", "title": "Ade", "performer": "Lina Maly & Moritz Krämer"},
+              { "time":"22:15", "title": "Bird With A Broken Wing", "performer": "Weezer"},
+              { "time":"22:19", "title": "Walking On Your Name", "performer": "Skeleten"},
+              { "time":"22:22", "title": "Orion From The Street", "performer": "Field Music"},
+              { "time":"22:27", "title": "Free As A Bird", "performer": "The Beatles"},
+              { "time":"22:33", "title": "Day Tripper", "performer": "Mongo Santamaria"},
+              { "time":"22:35", "title": "Blackbird Sing", "performer": "Myles Sanko"},
+              { "time":"22:39", "title": "Crystal Blue Persuasion", "performer": "Shondells,The James,Tommy"},
+              { "time":"22:43", "title": "Frozen Pacific", "performer": "Pictured Resort"},
+              { "time":"22:47", "title": "Medusa", "performer": "Szymon"},
+              { "time":"22:50", "title": "Dirty Old Town", "performer": "Trifle"},
+              { "time":"22:55", "title": "Ar Ô Y Glaw", "performer": "Carwyn Ellis & Rio 18"},
+              { "time":"22:58", "title": "Natt O Dag", "performer": "Me and My Kites"}
+            ],
+            [
+              { "time":"23:04", "title": "I Cannot Let You Go", "performer": "Sondre Lerche"},
+              { "time":"23:08", "title": "Let 'Em In", "performer": "Harpooner"},
+              { "time":"23:12", "title": "Kriegenwirschonwiederhin (Kriegen Wir Schon Wieder Hin)", "performer": "Michel van Dyke"},
+              { "time":"23:16", "title": "One Note Samba", "performer": "Skygge & The Pirouettes"},
+              { "time":"23:19", "title": "I'Ve Been Dreaming Of", "performer": "J. Lloyd"},
+              { "time":"23:22", "title": "Weekend At Brian's", "performer": "The Sweet Enoughs"},
+              { "time":"23:27", "title": "Favorite Complication", "performer": "The National Convention"},
+              { "time":"23:31", "title": "Breezin'", "performer": "Gabor Szabo"},
+              { "time":"23:34", "title": "You Won't Come Around", "performer": "Balthazar"},
+              { "time":"23:40", "title": "Argomenti", "performer": "Isobel"},
+              { "time":"23:44", "title": "Sound And Vision", "performer": "Helado Negro"},
+              { "time":"23:48", "title": "Life on Mars", "performer": "Eric Le Lann"},
+              { "time":"23:52", "title": "Tiny Dancer", "performer": "Ben Folds"},
+              { "time":"23:55", "title": "Give It All You Got, But Slowly", "performer": "Chuck Mangione"},
+              { "time":"23:59", "title": "Good Night", "performer": "The Beatles"}
             ]
           ]
         }
