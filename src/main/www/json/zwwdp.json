@@ -27818,8 +27818,4875 @@
           }
         ]
       ]
-    }
-    ]
+    },
+        {
+          "id": "20",
+          "date": "2016-05-17",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Mr. Blue Sky",
+                "performer": "Electric Light Orchestra"
+              },
+              {
+                "title": "Hush",
+                "performer": "Kula Shaker"
+              },
+              {
+                "title": "Viva love",
+                "performer": "ABC"
+              },
+              {
+                "title": "Magnificent time",
+                "performer": "Travis"
+              },
+              {
+                "title": "California's callin' ya",
+                "performer": "The Explorers Club"
+              },
+              {
+                "title": "You bring the summer",
+                "performer": "The Monkees"
+              },
+              {
+                "title": "Old yellow photographs",
+                "performer": "Joel Sarakula"
+              },
+              {
+                "title": "Banking on Karma",
+                "performer": "The High Llamas"
+              },
+              {
+                "title": "M's collection",
+                "performer": "The Caper"
+              },
+              {
+                "title": "Good morning sunshine",
+                "performer": "Brent Cash"
+              },
+              {
+                "title": "Headstart for happiness",
+                "performer": "Naomi & Goro"
+              },
+              {
+                "title": "Flashlight",
+                "performer": "Becquerels"
+              },
+              {
+                "title": "Hang on to yourself",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Paradise now",
+                "performer": "The Limiñanas"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Radio people",
+                "performer": "Zapp"
+              },
+              {
+                "title": "The thin wall",
+                "performer": "Ultravox"
+              },
+              {
+                "title": "I'll walk right on",
+                "performer": "Noonday Underground"
+              },
+              {
+                "title": "Baby Batter",
+                "performer": "Harvey Mandel"
+              },
+              {
+                "title": "Jesse",
+                "performer": "Mother Earth"
+              },
+              {
+                "title": "In your playground",
+                "performer": "Orwell"
+              },
+              {
+                "title": "Trinity Square",
+                "performer": "Martin Newell"
+              },
+              {
+                "title": "Summertime",
+                "performer": "The Free Design"
+              },
+              {
+                "title": "Guess I'm dumb",
+                "performer": "The Pen Friend Club"
+              },
+              {
+                "title": "Mastermind",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "Misty nights",
+                "performer": "Starless"
+              },
+              {
+                "title": "Lustre",
+                "performer": "Ed Harcourt"
+              },
+              {
+                "title": "Kill the habit",
+                "performer": "Ralph Myerz & The Jack Herren Band"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "There will always be a way",
+                "performer": "Autumn Defense"
+              },
+              {
+                "title": "Gloomy Sunday",
+                "performer": "The Smithereens"
+              },
+              {
+                "title": "There is a song",
+                "performer": "The Free Design"
+              },
+              {
+                "title": "Windows",
+                "performer": "Utopia"
+              },
+              {
+                "title": "Just landed",
+                "performer": "Cantoma"
+              },
+              {
+                "title": "The look of love",
+                "performer": "The Delfonics"
+              },
+              {
+                "title": "Lou",
+                "performer": "Coralie Clement"
+              },
+              {
+                "title": "(I can't seem to) make you mine",
+                "performer": "The Clientele"
+              },
+              {
+                "title": "Balloon pt one",
+                "performer": "Orchestra du Soleil"
+              },
+              {
+                "title": "Last train to Roslindale",
+                "performer": "Mus-OK"
+              },
+              {
+                "title": "Calling you",
+                "performer": "Jeff Buckley"
+              },
+              {
+                "title": "Theme from Taxi Driver",
+                "performer": "Dave Blume"
+              },
+              {
+                "title": "Good night",
+                "performer": "Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "21",
+          "date": "2016-05-24",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "A Love From Outer Space",
+                "performer": "Tahiti 80"
+              },
+              {
+                "title": "Feels Like Heaven",
+                "performer": "Manic Street Preachers"
+              },
+              {
+                "title": "Best Days On Earth",
+                "performer": "Trash Can Sinatras"
+              },
+              {
+                "title": "Ian McCulloch",
+                "performer": "Playgrounds And City Parks"
+              },
+              {
+                "title": "These People",
+                "performer": "Richard Ashcroft"
+              },
+              {
+                "title": "Going Blind",
+                "performer": "The Go-Betweens"
+              },
+              {
+                "title": "Hazy Shades",
+                "performer": "Thomas Cohen"
+              },
+              {
+                "title": "We Were One",
+                "performer": "Plants And Animals"
+              },
+              {
+                "title": "The Magician",
+                "performer": "Andy Shauf"
+              },
+              {
+                "title": "Quietly",
+                "performer": "The Explorers Club"
+              },
+              {
+                "title": "A Mineral Love",
+                "performer": "Bibio"
+              },
+              {
+                "title": "Will I Get Where I'm Going Before I'm Ready?",
+                "performer": "The Fiction Aisle"
+              },
+              {
+                "title": "Everybody Wants To Rule The World",
+                "performer": "Jamie Cullum"
+              },
+              {
+                "title": "Dreamscape",
+                "performer": "AM"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Tightrope",
+                "performer": "ELO"
+              },
+              {
+                "title": "Street Life",
+                "performer": "Roxy Music"
+              },
+              {
+                "title": "Fallin' Rain",
+                "performer": "Karl Blau"
+              },
+              {
+                "title": "Ordinary Suns",
+                "performer": "Das Pop"
+              },
+              {
+                "title": "Love In A Sitcom",
+                "performer": "Hamlet Hansen"
+              },
+              {
+                "title": "Crystal Blue Persuasion",
+                "performer": "Tommy James & The Shondells"
+              },
+              {
+                "title": "For Toots",
+                "performer": "Mocky"
+              },
+              {
+                "title": "On A Beautiful Day",
+                "performer": "Skinny"
+              },
+              {
+                "title": "Walk Through The Fire",
+                "performer": "Peter Gabriel"
+              },
+              {
+                "title": "Wonderful Life",
+                "performer": "Turin Brakes"
+              },
+              {
+                "title": "Love Will Keep Us Together",
+                "performer": "Pen Friend Club"
+              },
+              {
+                "title": "One More Night",
+                "performer": "Michael Kiwanuka"
+              },
+              {
+                "title": "Light Years",
+                "performer": "Calm"
+              },
+              {
+                "title": "Some Velvet Morning",
+                "performer": "Gabor Szabo"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Early To The Party",
+                "performer": "Andy Shauf"
+              },
+              {
+                "title": "Let's Dance",
+                "performer": "Guy Garvey"
+              },
+              {
+                "title": "There Will Always Be A Way",
+                "performer": "The Autumn Defense"
+              },
+              {
+                "title": "Forever",
+                "performer": "Larry Buffa"
+              },
+              {
+                "title": "Win",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Apocalypse",
+                "performer": "Starless"
+              },
+              {
+                "title": "Indoor Outdoor Girl",
+                "performer": "Bernard Ebbinghouse"
+              },
+              {
+                "title": "Don't Let Him Steal Your Heart Away",
+                "performer": "Phil Collins"
+              },
+              {
+                "title": "Decks Dark",
+                "performer": "Radiohead"
+              },
+              {
+                "title": "Seaweed",
+                "performer": "Orchestra Du Soleil"
+              },
+              {
+                "title": "Carrying Cathy",
+                "performer": "Ben Folds"
+              },
+              {
+                "title": "Paradise Lost",
+                "performer": "Ryuichi Sakamoto"
+              },
+              {
+                "title": "Exit Song",
+                "performer": "Naomi"
+              },
+              {
+                "title": "Don't Talk (Put Your Head On my Shoulder)",
+                "performer": "Morgan Delt"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "22",
+          "date": "2016-05-31",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Remind Me",
+                "performer": "Röyksopp"
+              },
+              {
+                "title": "Town And Country",
+                "performer": "Bibio"
+              },
+              {
+                "title": "Jokerman",
+                "performer": "Ekki Maas"
+              },
+              {
+                "title": "Aviation",
+                "performer": "Lost Shadow Puppets"
+              },
+              {
+                "title": "Antmusic (Final Rough Cut)",
+                "performer": "Adam & The Ants"
+              },
+              {
+                "title": "Let Me Inside",
+                "performer": "Trash Can Sinatras"
+              },
+              {
+                "title": "Louder",
+                "performer": "Bruce Foxton"
+              },
+              {
+                "title": "It's Nice To Be Nice",
+                "performer": "Pugwash"
+              },
+              {
+                "title": "They Don't Own Me",
+                "performer": "Richard Ashcroft"
+              },
+              {
+                "title": "Silent Sigh",
+                "performer": "Badly Drawn Boy"
+              },
+              {
+                "title": "Magic Love",
+                "performer": "Bent"
+              },
+              {
+                "title": "No Worries Gonna Find Us",
+                "performer": "Plants And Animals"
+              },
+              {
+                "title": "Fill My Little World",
+                "performer": "The Feeling"
+              },
+              {
+                "title": "I Wanna Give You Tomorrow",
+                "performer": "Benny Troy"
+              },
+              {
+                "title": "Gemüse",
+                "performer": "Dauerfisch"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Rebel Rebel (US Single Version)",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "First We Take Manhattan",
+                "performer": "REM"
+              },
+              {
+                "title": "Stranded",
+                "performer": "Sambassadeur"
+              },
+              {
+                "title": "Finding You",
+                "performer": "Go-Betweens"
+              },
+              {
+                "title": "Give It Your Choir",
+                "performer": "Mark Pritchard feat. Bibio"
+              },
+              {
+                "title": "L.I.P.S.T.I.C.K.",
+                "performer": "Ralph Myerz"
+              },
+              {
+                "title": "Carousel",
+                "performer": "Shack"
+              },
+              {
+                "title": "Reconnection (Radio Edit)",
+                "performer": "Mamas Gun"
+              },
+              {
+                "title": "See Me Slumber",
+                "performer": "Young Gun Silver Fox"
+              },
+              {
+                "title": "You Can Feel It (unplugged)",
+                "performer": "Young Gun Silver Fox"
+              },
+              {
+                "title": "Long Way Back (unplugged)",
+                "performer": "Young Gun Silver Fox"
+              },
+              {
+                "title": "Sara Smile (unplugged)",
+                "performer": "Young Gun Silver Fox"
+              },
+              {
+                "title": "Ballade de Mela",
+                "performer": "Shawn Lee"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Last Good Day Of The Year",
+                "performer": "Cousteau"
+              },
+              {
+                "title": "Early To The Party",
+                "performer": "Andy Shauf"
+              },
+              {
+                "title": "Heavenly Eyes",
+                "performer": "AM"
+              },
+              {
+                "title": "Falling At Your Feet",
+                "performer": "Daniel Lanois & Bono"
+              },
+              {
+                "title": "Merle Will You Be Mine",
+                "performer": "Pugwash"
+              },
+              {
+                "title": "Life's What You Make It",
+                "performer": "Duncan Sheik"
+              },
+              {
+                "title": "Some Girls Are Bigger Than Others",
+                "performer": "Martin Newell"
+              },
+              {
+                "title": "Provider",
+                "performer": "NERD"
+              },
+              {
+                "title": "Tonight",
+                "performer": "Koop"
+              },
+              {
+                "title": "Be Nice To Me",
+                "performer": "Todd Rundgren"
+              },
+              {
+                "title": "Another Heart Breaks",
+                "performer": "Electric Light Orchestra"
+              },
+              {
+                "title": "London Plane",
+                "performer": "Big Big Train"
+              },
+              {
+                "title": "Cul de Sac",
+                "performer": "Death & Vanilla"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "26",
+          "date": "2016-06-28",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Under The God",
+                "performer": "Tin Machine"
+              },
+              {
+                "title": "Viva Love",
+                "performer": "ABC"
+              },
+              {
+                "title": "Lazin' In The Sunshine",
+                "performer": "Jonathan Jeremiah"
+              },
+              {
+                "title": "Grazin' In The Grass",
+                "performer": "Dexys"
+              },
+              {
+                "title": "Pop Guitars",
+                "performer": "Dirk Darmstaedter"
+              },
+              {
+                "title": "Listen To The Band",
+                "performer": "The Monkees"
+              },
+              {
+                "title": "You Bring The Summer",
+                "performer": "The Monkees"
+              },
+              {
+                "title": "Hayfever",
+                "performer": "The Trash Can Sinatras"
+              },
+              {
+                "title": "Drag",
+                "performer": "Cat's Eyes"
+              },
+              {
+                "title": "Can't Take My Eyes Off You",
+                "performer": "Manic Street Preachers"
+              },
+              {
+                "title": "I Wanna Give You Tomorrow",
+                "performer": "Benny Troy"
+              },
+              {
+                "title": "Turning Japanese",
+                "performer": "The Vapors"
+              },
+              {
+                "title": "In A Coma",
+                "performer": "Paul Steel"
+              },
+              {
+                "title": "Rollin'",
+                "performer": "The High Llamas"
+              },
+              {
+                "title": "Theme From \"Prisoner Of Second Avenue\"",
+                "performer": "James Last"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Cool For Cats",
+                "performer": "Squeeze"
+              },
+              {
+                "title": "The Art Of Driving",
+                "performer": "Black Box Recorder"
+              },
+              {
+                "title": "Stranger",
+                "performer": "Hooverphonic"
+              },
+              {
+                "title": "Kitchen At Parties",
+                "performer": "Jona Lewie"
+              },
+              {
+                "title": "Apple Tree",
+                "performer": "Hintermass"
+              },
+              {
+                "title": "The Moonbounce",
+                "performer": "Koop"
+              },
+              {
+                "title": "When The Summer Ends",
+                "performer": "WJoel Sarakula"
+              },
+              {
+                "title": "Is She Really Going Out With Him",
+                "performer": "Joe Jackson"
+              },
+              {
+                "title": "Carousel",
+                "performer": "Shack"
+              },
+              {
+                "title": "The Magician",
+                "performer": "Andy Shauf"
+              },
+              {
+                "title": "Fallin' Rain",
+                "performer": "Karl Blau"
+              },
+              {
+                "title": "Fashion Party",
+                "performer": "Daniele Luppi"
+              },
+              {
+                "title": "Wichita Lineman",
+                "performer": "Shawn Lee"
+              },
+              {
+                "title": "Be With Me (Backing Track)",
+                "performer": "The Beach Boys"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Moment In Paradise",
+                "performer": "ELO"
+              },
+              {
+                "title": "Theme From \"Likely Stories\"",
+                "performer": "Jarvis Cocker"
+              },
+              {
+                "title": "I Want You",
+                "performer": "Phosphorescent"
+              },
+              {
+                "title": "Merry Christmas Mr. Lawrence",
+                "performer": "Ryuichi Sakamoto"
+              },
+              {
+                "title": "Say You Don't Want Me",
+                "performer": "Alpha"
+              },
+              {
+                "title": "I Need Your Love",
+                "performer": "Arthur Prysock"
+              },
+              {
+                "title": "Shine On You Crazy Diamond",
+                "performer": "Christy Moore"
+              },
+              {
+                "title": "Dawns Mists",
+                "performer": "Barry Forgie / Stringtronics"
+              },
+              {
+                "title": "Blue Roses",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "title": "His Silhouette",
+                "performer": "Pen Friend Club"
+              },
+              {
+                "title": "Le Casse",
+                "performer": "Ennio Morricone"
+              },
+              {
+                "title": "Be Nice To Me",
+                "performer": "Todd Rundgren"
+              },
+              {
+                "title": "Na Na's Waltz",
+                "performer": "Aqua Bassino"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "28",
+          "date": "2016-07-12",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Coming up",
+                "performer": "Paul McCartney"
+              },
+              {
+                "title": "In your eyes",
+                "performer": "BadBadNotGood feat. Charlotte Day Wilson"
+              },
+              {
+                "title": "Tommy & Co.",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "title": "Brighter than the sun",
+                "performer": "ABC"
+              },
+              {
+                "title": "Nobody knows",
+                "performer": "Pastor T. L. Barrett and the Youth For Christ Choir"
+              },
+              {
+                "title": "Catherine the Great",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "Together",
+                "performer": "The Explorers Club"
+              },
+              {
+                "title": "Birth of an accidental Hipster",
+                "performer": "The Monkees"
+              },
+              {
+                "title": "Turn down day",
+                "performer": "Cyrkle"
+              },
+              {
+                "title": "I will make you disappear",
+                "performer": "Pau Steel"
+              },
+              {
+                "title": "Apple tree",
+                "performer": "Hintermass"
+              },
+              {
+                "title": "White sand",
+                "performer": "Piero Umiliani"
+              },
+              {
+                "title": "Follow",
+                "performer": "Whitney"
+              },
+              {
+                "title": "Gemüse",
+                "performer": "Dauerfisch"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Starsky & Hutch",
+                "performer": "James Taylor Quartet"
+              },
+              {
+                "title": "Surrender",
+                "performer": "Swing Out Sister'"
+              },
+              {
+                "title": "Get out of your lazy bed",
+                "performer": "Matt Bianco"
+              },
+              {
+                "title": "Ordinary day",
+                "performer": "Curiosity Killed The Cat"
+              },
+              {
+                "title": "A night in New York",
+                "performer": "Elbow Bones & The Racketeers"
+              },
+              {
+                "title": "Labour of love",
+                "performer": "Hue & Cry"
+              },
+              {
+                "title": "Shilly Shally",
+                "performer": "Fritz Brause"
+              },
+              {
+                "title": "Too much",
+                "performer": "Hong Kong Syndikat"
+              },
+              {
+                "title": "Each and every one",
+                "performer": "Everything But the Girl"
+              },
+              {
+                "title": "I thought I'd never see you again",
+                "performer": "Working Week"
+              },
+              {
+                "title": "Spirit",
+                "performer": "Sade"
+              },
+              {
+                "title": "Walk between raindrops",
+                "performer": "Donald Fagen"
+              },
+              {
+                "title": "Mick's Company",
+                "performer": "The Style Council"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Life in Mono",
+                "performer": "Mono"
+              },
+              {
+                "title": "Comment te dire adieu",
+                "performer": "Francoise Hardy"
+              },
+              {
+                "title": "Looking for the Girl",
+                "performer": "Jarvis Cocker"
+              },
+              {
+                "title": "The worst in you",
+                "performer": "Andy Shauf"
+              },
+              {
+                "title": "By the time I get to Phoenix",
+                "performer": "The Pen Friend Club"
+              },
+              {
+                "title": "Junk",
+                "performer": "Paul McCartney"
+              },
+              {
+                "title": "Before I'm gone",
+                "performer": "The Explorers Club"
+              },
+              {
+                "title": "Mediterranée",
+                "performer": "Stringtronics"
+              },
+              {
+                "title": "Caroline, no",
+                "performer": "The Beach Boys"
+              },
+              {
+                "title": "Let's hope nobody finds us",
+                "performer": "Lewis Taylor"
+              },
+              {
+                "title": "Sparkle up",
+                "performer": "The High Llamas'"
+              },
+              {
+                "title": "La femme d'argent",
+                "performer": "Air"
+              },
+              {
+                "title": "La mer",
+                "performer": "Charles Trénet"
+              },
+              {
+                "title": "Water wheel",
+                "performer": "The Belbury Poly"
+              },
+              {
+                "title": "Good night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "29",
+          "date": "2016-07-19",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Science",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "You're The Only One",
+                "performer": "By The Sea"
+              },
+              {
+                "title": "Happy",
+                "performer": "Pete Aves"
+              },
+              {
+                "title": "Rollin'",
+                "performer": "High Llamas"
+              },
+              {
+                "title": "Togetherness",
+                "performer": "Steven James Adams"
+              },
+              {
+                "title": "Saturday Night Inside Out",
+                "performer": "The Avalanches"
+              },
+              {
+                "title": "Hillbilly Motobike",
+                "performer": "Alexander von Mehren"
+              },
+              {
+                "title": "Tomorrow Never Knows",
+                "performer": "The Beatles"
+              },
+              {
+                "title": "Half The World Away",
+                "performer": "Oasis"
+              },
+              {
+                "title": "Horses Under Starlight",
+                "performer": "Manic Street Preachers"
+              },
+              {
+                "title": "Warm On A Cold Night",
+                "performer": "Honne"
+              },
+              {
+                "title": "Take Up A Course In Happiness",
+                "performer": "Stevie Wonder"
+              },
+              {
+                "title": "Rome Will Fall",
+                "performer": "Swan Dive"
+              },
+              {
+                "title": "Oxygène",
+                "performer": "Jet Set Sweden"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Veronica",
+                "performer": "Elvis Costello"
+              },
+              {
+                "title": "Wichita Lineman",
+                "performer": "Shawn Lee"
+              },
+              {
+                "title": "Don't Go Lose It Baby",
+                "performer": "Hugh Masekela"
+              },
+              {
+                "title": "Sugarman",
+                "performer": "Free Association"
+              },
+              {
+                "title": "Home (Air Around The Golf Remix)",
+                "performer": "Depeche Mode"
+              },
+              {
+                "title": "These Ringing Hills",
+                "performer": "Belbury Pole"
+              },
+              {
+                "title": "Opposite House",
+                "performer": "Cass McCombs"
+              },
+              {
+                "title": "Heartbeat City",
+                "performer": "The Cars"
+              },
+              {
+                "title": "Getting That Way",
+                "performer": "Rory More O'Donoghue"
+              },
+              {
+                "title": "Stunted",
+                "performer": "Oracles"
+              },
+              {
+                "title": "Hey Joe",
+                "performer": "Wilson Pickett"
+              },
+              {
+                "title": "Black Sand And White Stars",
+                "performer": "The Night Strings"
+              },
+              {
+                "title": "Seabird",
+                "performer": "Alessi Brothers"
+              },
+              {
+                "title": "Be With Me",
+                "performer": "The Beach Boys"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Cherry Blossom Girl",
+                "performer": "Air"
+              },
+              {
+                "title": "Arrow Through Me",
+                "performer": "Wings"
+              },
+              {
+                "title": "Together",
+                "performer": "O.C. Smith"
+              },
+              {
+                "title": "Poor Babes In The Woods",
+                "performer": "Jarvis Cocker"
+              },
+              {
+                "title": "Walk On By",
+                "performer": "Isaac Hayes"
+              },
+              {
+                "title": "Rain For A While",
+                "performer": "Hintermass"
+              },
+              {
+                "title": "California's Callin' Ya",
+                "performer": "Explorers Club"
+              },
+              {
+                "title": "God Only Knows",
+                "performer": "Beach Boys"
+              },
+              {
+                "title": "Let's Hope Nobody Finds Us",
+                "performer": "Lewis Taylor"
+              },
+              {
+                "title": "In The End",
+                "performer": "Piero Umiliani"
+              },
+              {
+                "title": "Caroline, No",
+                "performer": "Nick de Caro"
+              },
+              {
+                "title": "Sentimental Walk",
+                "performer": "Vladimir Cosma & Chet Baker"
+              },
+              {
+                "title": "Andy Warhol (Live Santa Monica '72)",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Loveless (Sangaile)",
+                "performer": "JB Dunckel"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "30",
+          "date": "2016-07-26",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Driving Away From Home (Jim's Tune)",
+                "performer": "It's Immaterial"
+              },
+              {
+                "title": "Circle",
+                "performer": "Swan Dive"
+              },
+              {
+                "title": "Window",
+                "performer": "Tahiti 80"
+              },
+              {
+                "title": "Airport",
+                "performer": "The Motors"
+              },
+              {
+                "title": "Summer Queen",
+                "performer": "The Junipers"
+              },
+              {
+                "title": "A Fire In The Dark",
+                "performer": "Tropic"
+              },
+              {
+                "title": "To Feel In Love",
+                "performer": "Gío"
+              },
+              {
+                "title": "Shy As A Butterfly",
+                "performer": "The Mighty Sceptres"
+              },
+              {
+                "title": "Onalaska",
+                "performer": "Damien Jurado"
+              },
+              {
+                "title": "A Design For Life",
+                "performer": "Manic Street Preachers"
+              },
+              {
+                "title": "Sweet Emotion",
+                "performer": "The Kooks"
+              },
+              {
+                "title": "Smoke Signals",
+                "performer": "Jed and Lucia"
+              },
+              {
+                "title": "Bills",
+                "performer": "Ultimate Painting"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Making Plans For Nigel",
+                "performer": "XTC"
+              },
+              {
+                "title": "FM",
+                "performer": "Nathan Haines with Damon Albarn"
+              },
+              {
+                "title": "He Believes In Miracles",
+                "performer": "C Duncan"
+              },
+              {
+                "title": "Fever Dream",
+                "performer": "Ben Watt"
+              },
+              {
+                "title": "Waves",
+                "performer": "Bahamas"
+              },
+              {
+                "title": "Love, Love, Love",
+                "performer": "Bobby Hebb"
+              },
+              {
+                "title": "People",
+                "performer": "The Superimposers"
+              },
+              {
+                "title": "Rise",
+                "performer": "Herb Alpert"
+              },
+              {
+                "title": "Words, Idle Words",
+                "performer": "Pete Aves"
+              },
+              {
+                "title": "Old Days",
+                "performer": "Skinshape"
+              },
+              {
+                "title": "Memory Of A Free Festival (Part 1)",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Walking In The Dark",
+                "performer": "Stefano Torossi"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Alive",
+                "performer": "Cantoma"
+              },
+              {
+                "title": "Loveless",
+                "performer": "JB Dunckel"
+              },
+              {
+                "title": "Getting Gone",
+                "performer": "Mutual Benefit"
+              },
+              {
+                "title": "No Strings Attached",
+                "performer": "The Explorers Club"
+              },
+              {
+                "title": "It Might As Well Be Dumbo",
+                "performer": "The High Llamas"
+              },
+              {
+                "title": "Let's Go Away For A While",
+                "performer": "The Beach Boys"
+              },
+              {
+                "title": "Nobody Knows",
+                "performer": "Pastor T. L. Barrett and the Youth For Christ Choir"
+              },
+              {
+                "title": "Half The World Away",
+                "performer": "Aurora"
+              },
+              {
+                "title": "Paradiso",
+                "performer": "Fabio Fabor"
+              },
+              {
+                "title": "Phases Of Reality",
+                "performer": "William Bell"
+              },
+              {
+                "title": "Time Moves Slow",
+                "performer": "BadBadNotGood"
+              },
+              {
+                "title": "Changing Of The Guard",
+                "performer": "The Style Council"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "31",
+          "date": "2016-08-02",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "D'you Know What I Mean?",
+                "performer": "Oasis"
+              },
+              {
+                "title": "Divide",
+                "performer": "The Amazing"
+              },
+              {
+                "title": "Kooks",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Gold",
+                "performer": "The Handsome Family"
+              },
+              {
+                "title": "By The Sea",
+                "performer": "Summer Fiction"
+              },
+              {
+                "title": "They Told Me It Rained",
+                "performer": "Jamie T."
+              },
+              {
+                "title": "Space, He Called From The Kitchen",
+                "performer": "It's Immaterial"
+              },
+              {
+                "title": "Kounty Volks",
+                "performer": "Tahiti 80"
+              },
+              {
+                "title": "In Your Eyes",
+                "performer": "BadBadNotGood Feat. Charlotte Day Wilson"
+              },
+              {
+                "title": "Nobody Knows",
+                "performer": "Pastor T.L. Barret And The Youth For Christ Choir"
+              },
+              {
+                "title": "In Other Worlds",
+                "performer": "Barry Adamson"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Since You're Gone",
+                "performer": "The Cars"
+              },
+              {
+                "title": "Teardrops",
+                "performer": "The XX"
+              },
+              {
+                "title": "Reach For Tomorrow",
+                "performer": "Handsomeboy Technique"
+              },
+              {
+                "title": "Checking In, Checking Out",
+                "performer": "The High Llamas"
+              },
+              {
+                "title": "A Whiter Shade Of Pale",
+                "performer": "Pat Kelly"
+              },
+              {
+                "title": "Jo Jo Bennett & Mudie's All Stars",
+                "performer": "Leaving Rome"
+              },
+              {
+                "title": "Purple",
+                "performer": "Crustation"
+              },
+              {
+                "title": "Je T'aime Je T'aime",
+                "performer": "Bang Bang"
+              },
+              {
+                "title": "Fallin' Rain",
+                "performer": "Karl Blau"
+              },
+              {
+                "title": "Obsessed And So Obscure",
+                "performer": "Matt Berry"
+              },
+              {
+                "title": "I Waste My Time",
+                "performer": "Lawrence Arabia"
+              },
+              {
+                "title": "Baby Come Home",
+                "performer": "Mark Barrott"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Absent Friends",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "Dry Your Eyes",
+                "performer": "The Streets"
+              },
+              {
+                "title": "Radioactivity",
+                "performer": "Beautify Junkyards"
+              },
+              {
+                "title": "Flowers Will Grow On This Stony Ground",
+                "performer": "John Cunningham"
+              },
+              {
+                "title": "Country",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "A Day In The Life Of A Tree",
+                "performer": "The Beach Boys"
+              },
+              {
+                "title": "I Just Wasn't Made For These Times",
+                "performer": "Carmen McRae"
+              },
+              {
+                "title": "All In Love Is Fair",
+                "performer": "Stevie Wonder Feat. Scott Edwards"
+              },
+              {
+                "title": "Roger Song",
+                "performer": "Air"
+              },
+              {
+                "title": "Morning",
+                "performer": "Ralegh Long"
+              },
+              {
+                "title": "Paradiso",
+                "performer": "Fabio Fabor"
+              },
+              {
+                "title": "Nymphe",
+                "performer": "Roland Kovac New Set"
+              },
+              {
+                "title": "I Have Seen",
+                "performer": "The Peddlers & London Philharmonic Orchestra"
+              },
+              {
+                "title": "Hancock's Tune",
+                "performer": "The Derek Scott Music"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "32",
+          "date": "2016-08-09",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Uh huh oh yeh",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "If I ever was a child",
+                "performer": "Wilco"
+              },
+              {
+                "title": "I'm in love",
+                "performer": "Teenage Fanclub"
+              },
+              {
+                "title": "Togetherness",
+                "performer": "Steven James Adams"
+              },
+              {
+                "title": "Run sister run",
+                "performer": "Cass McCombs"
+              },
+              {
+                "title": "I can't give everything away",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Mont St. Michel",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "title": "I could not care less",
+                "performer": "Apple Rabbits"
+              },
+              {
+                "title": "Got None",
+                "performer": "Robert Post"
+              },
+              {
+                "title": "Garage",
+                "performer": "Brett Newski"
+              },
+              {
+                "title": "Clouds across the moon",
+                "performer": "A Bigger Splash"
+              },
+              {
+                "title": "Brunch with Suki",
+                "performer": "Mark Barrott"
+              },
+              {
+                "title": "Apostrophe",
+                "performer": "Jed & Lucia"
+              },
+              {
+                "title": "Skool bus",
+                "performer": "Spring versus Pez"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Talking back to the night",
+                "performer": "Steve Winwood"
+              },
+              {
+                "title": "H.L.M",
+                "performer": "Moderato"
+              },
+              {
+                "title": "La chanson de la mer du Nord",
+                "performer": "Pete Aves"
+              },
+              {
+                "title": "Dinamica",
+                "performer": "Braen's Machine"
+              },
+              {
+                "title": "At the river",
+                "performer": "Groove Armada"
+              },
+              {
+                "title": "Love survive",
+                "performer": "Michael Nau"
+              },
+              {
+                "title": "In the bath",
+                "performer": "Lemon Jelly"
+              },
+              {
+                "title": "You fly me",
+                "performer": "Fingathing"
+              },
+              {
+                "title": "Uncertain smile",
+                "performer": "The The"
+              },
+              {
+                "title": "Hearts",
+                "performer": "Marty Balin"
+              },
+              {
+                "title": "High & dry",
+                "performer": "Pete Kuzma feat. Bilal"
+              },
+              {
+                "title": "Light my fire",
+                "performer": "The Black Mighty Orchestra"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "On a clear day you can see forever",
+                "performer": "Peddlers"
+              },
+              {
+                "title": "Why can't we live together",
+                "performer": "Timmy Thomas"
+              },
+              {
+                "title": "Magic",
+                "performer": "Tahiti 80"
+              },
+              {
+                "title": "Ce matin la",
+                "performer": "Air"
+              },
+              {
+                "title": "Waterfalls",
+                "performer": "Paul McCartney"
+              },
+              {
+                "title": "The emergency kisses",
+                "performer": "Stereolab"
+              },
+              {
+                "title": "Hey nineteen",
+                "performer": "Ben Lacy"
+              },
+              {
+                "title": "Cruel summer",
+                "performer": "Bill Wells & Aidan Moffat"
+              },
+              {
+                "title": "Pinball",
+                "performer": "Brian Protheroe"
+              },
+              {
+                "title": "Galleria di immagini",
+                "performer": "Alessandro Alessandroni"
+              },
+              {
+                "title": "The affair",
+                "performer": "The Easy Access Orchestra"
+              },
+              {
+                "title": "(They long to be) Close to you",
+                "performer": "Rumer"
+              },
+              {
+                "title": "This guy's in love with you",
+                "performer": "Tom Clay"
+              },
+              {
+                "title": "Good night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "33",
+          "date": "2016-08-16",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Couldn't Get It Right",
+                "performer": "Fun Lovin' Criminals"
+              },
+              {
+                "title": "What's My Scene",
+                "performer": "Hoodoo Gurus"
+              },
+              {
+                "title": "The Country Life",
+                "performer": "Bees (aka The Silver Seas)"
+              },
+              {
+                "title": "We Were In Love",
+                "performer": "Snowglobe"
+              },
+              {
+                "title": "Charlemagne",
+                "performer": "Blossoms"
+              },
+              {
+                "title": "Bee Stings",
+                "performer": "Snippet"
+              },
+              {
+                "title": "Mrs. Bluebird",
+                "performer": "Sunshine Day"
+              },
+              {
+                "title": "Follow Loretta",
+                "performer": "The Junipers"
+              },
+              {
+                "title": "If Paradise Is Half As Nice",
+                "performer": "Aztec Camera"
+              },
+              {
+                "title": "Summer Days Are Forever",
+                "performer": "Aerospace"
+              },
+              {
+                "title": "Come With Me",
+                "performer": "Joyce Elaine Yuille"
+              },
+              {
+                "title": "The Stroll",
+                "performer": "James Taylor Quartet"
+              },
+              {
+                "title": "Wanted To Want It To",
+                "performer": "C Duncan"
+              },
+              {
+                "title": "Ride",
+                "performer": "Wondermints"
+              },
+              {
+                "title": "Summer Song",
+                "performer": "Karminsky Experience"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Brother Brother",
+                "performer": "The Kane Gang"
+              },
+              {
+                "title": "Mick's Up",
+                "performer": "The Style Council"
+              },
+              {
+                "title": "Heroes",
+                "performer": "David Bowie & Stevie Ray Vaughan"
+              },
+              {
+                "title": "The Stuff (Instrumental)",
+                "performer": "Shawn Lee"
+              },
+              {
+                "title": "Cold Little Heart",
+                "performer": "Michael Kiwanuka"
+              },
+              {
+                "title": "I Wanna Pick You Up",
+                "performer": "Darian Sahanaja"
+              },
+              {
+                "title": "Things Were So Easy",
+                "performer": "Greg Yoder"
+              },
+              {
+                "title": "Dear Prudence",
+                "performer": "Gabor Szabo"
+              },
+              {
+                "title": "Dilf_77 Would Like Chat (7\" Mix)",
+                "performer": "Bill Wells & Aidan Moffat"
+              },
+              {
+                "title": "Showdown",
+                "performer": "Monk Higgins"
+              },
+              {
+                "title": "Sugar Man",
+                "performer": "Rodriguez"
+              },
+              {
+                "title": "TSOM",
+                "performer": "Bertrand Burgalat"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "The Look Of Love",
+                "performer": "Dominique Dalcan"
+              },
+              {
+                "title": "Love Survive",
+                "performer": "Michael Nau"
+              },
+              {
+                "title": "We Were Lovers",
+                "performer": "Daniel Darc & Bill Pritchard"
+              },
+              {
+                "title": "Lillemor",
+                "performer": "Francy Boland"
+              },
+              {
+                "title": "Any Other Mirror",
+                "performer": "Bill Wells & Aidan Moffat"
+              },
+              {
+                "title": "How Could You Love Him",
+                "performer": "Shades Of Brown"
+              },
+              {
+                "title": "Do And Don't For Love",
+                "performer": "Kioki"
+              },
+              {
+                "title": "Ted's Asleep",
+                "performer": "James Taylor Quartet"
+              },
+              {
+                "title": "High & Dry",
+                "performer": "Radiohead"
+              },
+              {
+                "title": "For No One",
+                "performer": "Robert Rotifer"
+              },
+              {
+                "title": "Space Oddity",
+                "performer": "The Reverse"
+              },
+              {
+                "title": "Broken Down Cars",
+                "performer": "Mister Fusty"
+              },
+              {
+                "title": "(They Long To Ce) Close To You",
+                "performer": "Rumer"
+              },
+              {
+                "title": "Slip Into Something More Comfortable",
+                "performer": "Kinobe"
+              },
+              {
+                "title": "When You're Smiling And Astride Me",
+                "performer": "Father John Misty"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "34",
+          "date": "2016-08-23",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Northern Soul",
+                "performer": "Joel Sarakula"
+              },
+              {
+                "title": "End of the summer on Bookbinder Road",
+                "performer": "Cocoanut Groove"
+              },
+              {
+                "title": "Dirty blonde",
+                "performer": "Summer Fiction"
+              },
+              {
+                "title": "The end of August",
+                "performer": "Jacco Gardner"
+              },
+              {
+                "title": "Lolita",
+                "performer": "Young Gun Silver Fox"
+              },
+              {
+                "title": "Boogieland",
+                "performer": "Moonshoes"
+              },
+              {
+                "title": "In love",
+                "performer": "Guille Milkyway"
+              },
+              {
+                "title": "Torrey Pine",
+                "performer": "Chris Cohen"
+              },
+              {
+                "title": "I'm in love",
+                "performer": "Teenage Fanclub"
+              },
+              {
+                "title": "Gemini",
+                "performer": "Hoops"
+              },
+              {
+                "title": "I know about it",
+                "performer": "Micromars"
+              },
+              {
+                "title": "Run sister run",
+                "performer": "Cass McCombs"
+              },
+              {
+                "title": "Mirror man",
+                "performer": "Men Of North Country"
+              },
+              {
+                "title": "Miles away",
+                "performer": "Millenia Nova"
+              },
+              {
+                "title": "Morning walk",
+                "performer": "Mild Euphoria"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "My Girl",
+                "performer": "The Strangemen"
+              },
+              {
+                "title": "You picked me",
+                "performer": "A Fine Frenzy"
+              },
+              {
+                "title": "Reach for tomorrow",
+                "performer": "Handsomeboy Technique"
+              },
+              {
+                "title": "Into the blue",
+                "performer": "Karminsky Experience Inc."
+              },
+              {
+                "title": "A cold wind will blow through your door",
+                "performer": "Bill Ricchini"
+              },
+              {
+                "title": "The attention span of a Butterfly",
+                "performer": "Kid Loco"
+              },
+              {
+                "title": "Footprints on the moon",
+                "performer": "Johnny Harris Orchestra"
+              },
+              {
+                "title": "Drifting out of sight",
+                "performer": "Mellow"
+              },
+              {
+                "title": "Fly the yellow kite",
+                "performer": "The Junipers"
+              },
+              {
+                "title": "Where the light gets lost",
+                "performer": "Slow Club"
+              },
+              {
+                "title": "Take my Hand",
+                "performer": "Kuryakin"
+              },
+              {
+                "title": "Love you",
+                "performer": "Topanga Canyon"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "I'm Not In Love",
+                "performer": "Fun Lovin' Criminals"
+              },
+              {
+                "title": "She is gone",
+                "performer": "Bees"
+              },
+              {
+                "title": "The whole point II",
+                "performer": "The Style Council"
+              },
+              {
+                "title": "L'observatoire",
+                "performer": "Bertrand Burgalat"
+              },
+              {
+                "title": "House on the rock",
+                "performer": "Rob Mehl"
+              },
+              {
+                "title": "Falling",
+                "performer": "Michael Kiwanuka"
+              },
+              {
+                "title": "Lover won't you throw me a line",
+                "performer": "Nautic"
+              },
+              {
+                "title": "Sunset village",
+                "performer": "Beverly Glenn-Copeland"
+              },
+              {
+                "title": "Merry Christmas Mr. Lawrence",
+                "performer": "Ryuichi Sakamoto"
+              },
+              {
+                "title": "Through city lights",
+                "performer": "The Amazing"
+              },
+              {
+                "title": "The lost notes",
+                "performer": "Metrovavan"
+              },
+              {
+                "title": "So many nights",
+                "performer": "Plants and Animals"
+              },
+              {
+                "title": "Good night",
+                "performer": "Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "35",
+          "date": "2016-08-30",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Girls Just Want To Have Fun",
+                "performer": "Travis"
+              },
+              {
+                "title": "She Will Sing",
+                "performer": "Benjamin Francis Leftwich"
+              },
+              {
+                "title": "Color Decay",
+                "performer": "Júníus Meyvant"
+              },
+              {
+                "title": "Shine Again",
+                "performer": "Kutiman (feat. Adam Scheflan)"
+              },
+              {
+                "title": "On And On",
+                "performer": "Summer Fiction"
+              },
+              {
+                "title": "Skiptracing",
+                "performer": "Mild High Club"
+              },
+              {
+                "title": "Give It Time",
+                "performer": "Hoops"
+              },
+              {
+                "title": "What's The Point (If No One's Having Fun)?",
+                "performer": "Fort Juniper"
+              },
+              {
+                "title": "You Gotta Smile",
+                "performer": "Young Gun Silver Fox"
+              },
+              {
+                "title": "In A Fable",
+                "performer": "Chris Cohen"
+              },
+              {
+                "title": "We Of Me",
+                "performer": "Suzanne Vega"
+              },
+              {
+                "title": "Mellow Pt. 1",
+                "performer": "Mellow"
+              },
+              {
+                "title": "Opposite House",
+                "performer": "Cass McCombs"
+              },
+              {
+                "title": "Shine",
+                "performer": "Seth Swirsky"
+              },
+              {
+                "title": "Pipeline",
+                "performer": "Bruce Johnston"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Jump They Say (Album Version)",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "A Little Respect",
+                "performer": "Leisure Society"
+              },
+              {
+                "title": "Presidential Suite",
+                "performer": "Super Furry Animals"
+              },
+              {
+                "title": "Marianne",
+                "performer": "Ice Cream Shout"
+              },
+              {
+                "title": "The Halfwit In Me",
+                "performer": "Ryley Walker"
+              },
+              {
+                "title": "Rain",
+                "performer": "Purple Submarine Orchestra"
+              },
+              {
+                "title": "My Baby Just Cares for Me (Gabriel & Castellon and Maestro Remix)",
+                "performer": "Nina Simone"
+              },
+              {
+                "title": "Highway Noise",
+                "performer": "June & The Exit Wounds"
+              },
+              {
+                "title": "Danse Profane",
+                "performer": "Bill Wells & Aidan Moffat"
+              },
+              {
+                "title": "Space Shadows",
+                "performer": "Metrovavan"
+              },
+              {
+                "title": "Guess I'm Dumb",
+                "performer": "Wondermints"
+              },
+              {
+                "title": "Don't Wanna See What's Happening Outside",
+                "performer": "Morgan Delt"
+              },
+              {
+                "title": "Bees",
+                "performer": "The Senior Service"
+              },
+              {
+                "title": "Wichita Lineman",
+                "performer": "Johnny Harris"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Call Me",
+                "performer": "Nancy Sinatra"
+              },
+              {
+                "title": "26",
+                "performer": "Tuomo"
+              },
+              {
+                "title": "Shook",
+                "performer": "Dralms"
+              },
+              {
+                "title": "New Love",
+                "performer": "Amos Lee"
+              },
+              {
+                "title": "Think Of Rain",
+                "performer": "Margo Guryan"
+              },
+              {
+                "title": "Questo sporco mondo meraviglioso (String and Chorus Version)",
+                "performer": "Piero Umiliani"
+              },
+              {
+                "title": "Onie",
+                "performer": "Kuryakin"
+              },
+              {
+                "title": "Feeling Good",
+                "performer": "Pat Bowie"
+              },
+              {
+                "title": "Aux Cyclades Électronique",
+                "performer": "Bertrand Burgalat"
+              },
+              {
+                "title": "Ragazzo Solo, Ragazza Sola",
+                "performer": "Computers"
+              },
+              {
+                "title": "The More I See You",
+                "performer": "Manfred Krug"
+              },
+              {
+                "title": "The Knife Twists",
+                "performer": "Palm Springs"
+              },
+              {
+                "title": "Black Sand And White Stars",
+                "performer": "The Night Strings"
+              },
+              {
+                "title": "Something's Been Missing From My Life",
+                "performer": "Hercules"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "36",
+          "date": "2016-09-06",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "What's Going On (Detroit Mix)",
+                "performer": "Marvin Gaye"
+              },
+              {
+                "title": "Gordie Can't Swim (Radio Edit)",
+                "performer": "The Junipers"
+              },
+              {
+                "title": "Catherine The Great",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "Silver Morning",
+                "performer": "The Slow Club"
+              },
+              {
+                "title": "Gemini",
+                "performer": "Hoops"
+              },
+              {
+                "title": "Yellow",
+                "performer": "Milk (feat. Alexander von Mehren)"
+              },
+              {
+                "title": "On The Bus",
+                "performer": "The Mads"
+              },
+              {
+                "title": "#9 Dream",
+                "performer": "John Lennon"
+              },
+              {
+                "title": "Suddenly",
+                "performer": "Drugdealer (feat. Weyes Blood)"
+              },
+              {
+                "title": "Bagheera",
+                "performer": "Nino Nardini & Roger Roger"
+              },
+              {
+                "title": "Cosmetropolis  London Swings",
+                "performer": "The Guild League"
+              },
+              {
+                "title": "Dans c'as là oui",
+                "performer": "Kid Loco vs. Godchild"
+              },
+              {
+                "title": "Nobody Knows",
+                "performer": "Pastor T.L. Barrett and the Youth for Christ Choir"
+              },
+              {
+                "title": "With A Little Help From My Friends",
+                "performer": "The Young Idea"
+              },
+              {
+                "title": "Crazy",
+                "performer": "Trio Valore"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Tonight The Streets Are Ours",
+                "performer": "Richard Hawley"
+              },
+              {
+                "title": "The Last Thing I Saw Before I Said Goodbye",
+                "performer": "The Hepburns"
+              },
+              {
+                "title": "To The Rescue",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "Trouble",
+                "performer": "Josh Rouse"
+              },
+              {
+                "title": "Clouds Across The Moon",
+                "performer": "A Bigger Splash"
+              },
+              {
+                "title": "Wanna Be Where You Are",
+                "performer": "Carleen Anderson (feat. Paul Weller)"
+              },
+              {
+                "title": "Paint Me A Corner",
+                "performer": "Nicole Willis & The Soul Investigators"
+              },
+              {
+                "title": "I Don't Know Why I Love You",
+                "performer": "David Porter"
+              },
+              {
+                "title": "World Of You",
+                "performer": "The Aerovons"
+              },
+              {
+                "title": "Baby",
+                "performer": "Psychic Ills"
+              },
+              {
+                "title": "The Imperial School",
+                "performer": "Horse Shoes"
+              },
+              {
+                "title": "Theme From \"The Fox\"",
+                "performer": "Hugo Montenegro"
+              },
+              {
+                "title": "I Loved Last Night",
+                "performer": "Seth Swirsky"
+              },
+              {
+                "title": "Speed Of Life",
+                "performer": "David Bowie"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Ordinary Joe",
+                "performer": "Terry Callier"
+              },
+              {
+                "title": "It Sounds Better Than It Sounds",
+                "performer": "The Heavy Blinkers"
+              },
+              {
+                "title": "Everyday Is Like Sunday",
+                "performer": "Bill Ricchini"
+              },
+              {
+                "title": "Wild World",
+                "performer": "Pastors"
+              },
+              {
+                "title": "Call Me",
+                "performer": "Nancy Wilson"
+              },
+              {
+                "title": "Our House",
+                "performer": "Crosby, Stills, Nash & Young"
+              },
+              {
+                "title": "Love's In Need Of Love Today",
+                "performer": "John Minnis' Big Bone Band"
+              },
+              {
+                "title": "Jungle Mood",
+                "performer": "Nino Nardini"
+              },
+              {
+                "title": "I Joined The Foreign Legion (To Forget)",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "Pelle di luna (Hammond & Percussion Version)",
+                "performer": "Piero Umiliani"
+              },
+              {
+                "title": "County Line",
+                "performer": "Cass McCombs"
+              },
+              {
+                "title": "White Horses",
+                "performer": "Seahawks"
+              },
+              {
+                "title": "God Bless The Child",
+                "performer": "Judy Henske"
+              },
+              {
+                "title": "Àrvores",
+                "performer": "Domenico Lancellotti"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "38",
+          "date": "2016-09-20",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Accidents Will Happen",
+                "performer": "Elvis Costello & The Attractions"
+              },
+              {
+                "title": "International Thing",
+                "performer": "The Quick"
+              },
+              {
+                "title": "Holy Flame",
+                "performer": "Kula Shaker"
+              },
+              {
+                "title": "Find Yourself",
+                "performer": "Jacco Gardner"
+              },
+              {
+                "title": "Stars Of New York",
+                "performer": "Look Park"
+              },
+              {
+                "title": "Torrey Pine",
+                "performer": "Chris Cohen"
+              },
+              {
+                "title": "Suddenly",
+                "performer": "Drugdealer"
+              },
+              {
+                "title": "You Can Have It All (Light Orchestral)",
+                "performer": "Kaiser Chiefs"
+              },
+              {
+                "title": "Footprints On The Moon",
+                "performer": "Johnny Harris"
+              },
+              {
+                "title": "Moving The River",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "title": "Sound And Vision",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Down In The Park",
+                "performer": "Gary Numan"
+              },
+              {
+                "title": "Underpass",
+                "performer": "John Foxx"
+              },
+              {
+                "title": "Looking For Clues",
+                "performer": "Robert Palmer"
+              },
+              {
+                "title": "That's Nice",
+                "performer": "Alan Moorhouse"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "No Tears To Cry (Leo Zero Remix Edit)",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "Midsummer Dreaming",
+                "performer": "Cocoanut Groove"
+              },
+              {
+                "title": "Half Lit",
+                "performer": "Richard Swift"
+              },
+              {
+                "title": "Funny Peculiar",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "A New Day",
+                "performer": "Kuryakin"
+              },
+              {
+                "title": "Seasons",
+                "performer": "Pete Jolly"
+              },
+              {
+                "title": "Up, Up And Away",
+                "performer": "Sunshine Company"
+              },
+              {
+                "title": "Calibair",
+                "performer": "Brooks & O'Hagan"
+              },
+              {
+                "title": "Sweeping Away",
+                "performer": "Andrew Watt & The Glory Glory"
+              },
+              {
+                "title": "Together",
+                "performer": "The Explorers Club"
+              },
+              {
+                "title": "In Love",
+                "performer": "Milkyway"
+              },
+              {
+                "title": "Tropical",
+                "performer": "Nino Nardini & Roger Roger"
+              },
+              {
+                "title": "Where the Light Gets Lost",
+                "performer": "The Slow Club"
+              },
+              {
+                "title": "People Of Tomorrow Are The Children Of Today (Instrumental\n Version)",
+                "performer": "Love Unlimited Orchestra"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Spooky",
+                "performer": "Gary Walker & The Rain"
+              },
+              {
+                "title": "As",
+                "performer": "Tony Sherman"
+              },
+              {
+                "title": "Day Of The Dolphin",
+                "performer": "Orange Crate Art"
+              },
+              {
+                "title": "Familia Oca",
+                "performer": "Domenica Lancellotti"
+              },
+              {
+                "title": "Sunny",
+                "performer": "Cher"
+              },
+              {
+                "title": "The Boy With The Beautiful Hair",
+                "performer": "Easy Access Orchestra"
+              },
+              {
+                "title": "Hazel Green",
+                "performer": "Psychic Ills"
+              },
+              {
+                "title": "Swingin' Spathiphyllums",
+                "performer": "Mort Garson"
+              },
+              {
+                "title": "For A While",
+                "performer": "Frank Sinatra"
+              },
+              {
+                "title": "Fragrant Rose",
+                "performer": "David Lindup"
+              },
+              {
+                "title": "Charade",
+                "performer": "The Symbols"
+              },
+              {
+                "title": "Albertone",
+                "performer": "Fitness Forever"
+              },
+              {
+                "title": "Clair",
+                "performer": "The Singers Unlimited"
+              },
+              {
+                "title": "The Windmills Of Your Mind",
+                "performer": "Dorothy Ashby"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "39",
+          "date": "2016-09-27",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Suffragette City",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Monday Morning 5.19",
+                "performer": "Rialto"
+              },
+              {
+                "title": "European Skies (Radio Remix)",
+                "performer": "Joel Sarakula"
+              },
+              {
+                "title": "Catherine The Great",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "Place In The Sun",
+                "performer": "Allah-La's"
+              },
+              {
+                "title": "Girl I Think About You All The Time",
+                "performer": "Linear John"
+              },
+              {
+                "title": "Homage",
+                "performer": "Mild High Club"
+              },
+              {
+                "title": "Below The Valleys",
+                "performer": "Louis Cole"
+              },
+              {
+                "title": "Something's Been Missing From My Life",
+                "performer": "Hercules"
+              },
+              {
+                "title": "I'm In Love",
+                "performer": "Teenage Fanclub"
+              },
+              {
+                "title": "Beautifulheart",
+                "performer": "Richard Swift"
+              },
+              {
+                "title": "Galveston",
+                "performer": "Glen Campbell"
+              },
+              {
+                "title": "The Songs Of Danny Galway",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "title": "Armand et Claire",
+                "performer": "Marc Collin"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Motortown",
+                "performer": "The Kane Gang"
+              },
+              {
+                "title": "Aquarius",
+                "performer": "The Night Strings"
+              },
+              {
+                "title": "Latitudes",
+                "performer": "Ollano"
+              },
+              {
+                "title": "Cosmetropolis (London Swings)",
+                "performer": "The Guild League"
+              },
+              {
+                "title": "Lead The Way",
+                "performer": "Ultimate Painting"
+              },
+              {
+                "title": "Kosmos",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "As If Apart",
+                "performer": "Chris Cohen"
+              },
+              {
+                "title": "Bagheera",
+                "performer": "Nino Nardino & Roger Roger"
+              },
+              {
+                "title": "The End Of Comedy",
+                "performer": "Drugdealer"
+              },
+              {
+                "title": "I Know",
+                "performer": "Milkyway"
+              },
+              {
+                "title": "Trouble",
+                "performer": "Lindsey Buckingham"
+              },
+              {
+                "title": "Hum Hum",
+                "performer": "Troublemakers"
+              },
+              {
+                "title": "You're The Song (That I Can't Stop Singing)",
+                "performer": "Hollywood Freeway"
+              },
+              {
+                "title": "I'm Gonna Haunt This Place",
+                "performer": "Look Park"
+              },
+              {
+                "title": "Sunny",
+                "performer": "Booker T. & The MGs"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "This Is Not America",
+                "performer": "Silje Nergaard"
+              },
+              {
+                "title": "Sentimental Lady",
+                "performer": "The Autumn Defense"
+              },
+              {
+                "title": "Far Away",
+                "performer": "Seth Swirsky"
+              },
+              {
+                "title": "Gold Winds",
+                "performer": "The Explorers Club"
+              },
+              {
+                "title": "Hot Dreams",
+                "performer": "Timber Timbre"
+              },
+              {
+                "title": "We've Only Just Begun",
+                "performer": "Grant Green"
+              },
+              {
+                "title": "Mac Arthur Park",
+                "performer": "Richard Harris"
+              },
+              {
+                "title": "Let The Blade Do The Work",
+                "performer": "The Slow Club"
+              },
+              {
+                "title": "Cherry Blossom Girl",
+                "performer": "Fireflies"
+              },
+              {
+                "title": "Unchanging Window",
+                "performer": "Broadcast"
+              },
+              {
+                "title": "Wichita Lineman",
+                "performer": "Johnny Cash"
+              },
+              {
+                "title": "Victoria's Secret",
+                "performer": "Quiet Village"
+              },
+              {
+                "title": "Le Soleil est pret de moi",
+                "performer": "Air"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "40",
+          "date": "2016-10-04",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "What's Going On",
+                "performer": "Coldplay & Bono"
+              },
+              {
+                "title": "How Can You Leave Me On My Own",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "European Skies (Radio Mix/Radio Edit)",
+                "performer": "Joel Sarakula"
+              },
+              {
+                "title": "If I Ever Was A Child",
+                "performer": "Wilco"
+              },
+              {
+                "title": "I See Sadness",
+                "performer": "Paul Steel"
+              },
+              {
+                "title": "Where Shall I Begin",
+                "performer": "Dodgy"
+              },
+              {
+                "title": "Bills",
+                "performer": "Ultimate Painting"
+              },
+              {
+                "title": "Skiptracing",
+                "performer": "Mild High Club"
+              },
+              {
+                "title": "Lullaby No 2, Love On Board (EP Version)",
+                "performer": "Friends Again"
+              },
+              {
+                "title": "Suddenly (feat. Weyes Blood)",
+                "performer": "Drugdealer"
+              },
+              {
+                "title": "Famous Phone Figure",
+                "performer": "Allah-La's"
+              },
+              {
+                "title": "The Complete History Of Sexual Jealousy Parts 17-24",
+                "performer": "Momus"
+              },
+              {
+                "title": "Gemini",
+                "performer": "Hoops"
+              },
+              {
+                "title": "Blue Sleeves",
+                "performer": "John Southworth"
+              },
+              {
+                "title": "Images Of Lines And Angles",
+                "performer": "Orange Crate Art"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Fascination",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Switch",
+                "performer": "Cass McCombs"
+              },
+              {
+                "title": "Below The Valleys",
+                "performer": "Louis Cole"
+              },
+              {
+                "title": "Jupiter",
+                "performer": "Blaudzun"
+              },
+              {
+                "title": "Louder",
+                "performer": "Bruce Foxton"
+              },
+              {
+                "title": "Silver Morning",
+                "performer": "Slow Club"
+              },
+              {
+                "title": "One By One",
+                "performer": "Matt Berry"
+              },
+              {
+                "title": "Prime Time",
+                "performer": "The Tubes"
+              },
+              {
+                "title": "What Do You Want From Life",
+                "performer": "The Tubes"
+              },
+              {
+                "title": "She's A Beauty",
+                "performer": "The Tubes"
+              },
+              {
+                "title": "White Punks On Dope",
+                "performer": "The Tubes"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Nothing Has Been Proved (Original Mix)",
+                "performer": "Dusty Springfield"
+              },
+              {
+                "title": "Fireworks At Noon",
+                "performer": "Robert Cooper"
+              },
+              {
+                "title": "Gorgeous Day",
+                "performer": "The Cleaners From Venus"
+              },
+              {
+                "title": "Mowgli",
+                "performer": "Nino Nardini & Roger Roger"
+              },
+              {
+                "title": "Nothing More",
+                "performer": "C Duncan"
+              },
+              {
+                "title": "Architettura Industriale",
+                "performer": "Oronzo de Filippi"
+              },
+              {
+                "title": "Close To You",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "Risaie",
+                "performer": "Piero Umiliani"
+              },
+              {
+                "title": "Love Theme From The Getaway (Vocal Version)",
+                "performer": "Quincy Jones"
+              },
+              {
+                "title": "Mystique Beauty",
+                "performer": "David Lindup"
+              },
+              {
+                "title": "Stars Of New York",
+                "performer": "Look Park"
+              },
+              {
+                "title": "Astral Winds",
+                "performer": "Seahawks"
+              },
+              {
+                "title": "I Have Nothing More To Say",
+                "performer": "Teenage Fanclub"
+              },
+              {
+                "title": "Boy On Space",
+                "performer": "Douglas Wood"
+              },
+              {
+                "title": "Goodnight",
+                "performer": "Rob Mehl"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "41",
+          "date": "2016-10-11",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Rock The Casbah",
+                "performer": "The Clash"
+              },
+              {
+                "title": "Below The Valleys",
+                "performer": "Louis Cole"
+              },
+              {
+                "title": "European Skies (Radio Mix)",
+                "performer": "Joel Sarakula"
+              },
+              {
+                "title": "From Paddington To Penzance",
+                "performer": "The Hit Parade"
+              },
+              {
+                "title": "Scorpio Rising (feat. Liam Gallagher)",
+                "performer": "Death In Vegas"
+              },
+              {
+                "title": "Something Real Never Dies",
+                "performer": "Shane Alexander"
+              },
+              {
+                "title": "Love Detective",
+                "performer": "Arab Strap"
+              },
+              {
+                "title": "October Sun",
+                "performer": "Matt Berry"
+              },
+              {
+                "title": "The Peach And The Melon",
+                "performer": "Matt Berry"
+              },
+              {
+                "title": "The Hairstyle Of The Devil",
+                "performer": "Momus"
+              },
+              {
+                "title": "Day I Left Home",
+                "performer": "The Hidden Cameras"
+              },
+              {
+                "title": "Bullitt",
+                "performer": "Lalo Schifrin"
+              },
+              {
+                "title": "Love Arrestor",
+                "performer": "Bobby Goldsboro"
+              },
+              {
+                "title": "Jupiter",
+                "performer": "Blaudzun"
+              },
+              {
+                "title": "Holiday People",
+                "performer": "James Clarke"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Love Conquers All",
+                "performer": "ABC"
+              },
+              {
+                "title": "Tesselation",
+                "performer": "Mild High Club"
+              },
+              {
+                "title": "Temma Harbour",
+                "performer": "Philamore Lincoln"
+              },
+              {
+                "title": "My Baby Makes Me Feel So Good",
+                "performer": "Sun"
+              },
+              {
+                "title": "Nothing More",
+                "performer": "C Duncan"
+              },
+              {
+                "title": "Caleidoscope Aeroplane",
+                "performer": "Labrador"
+              },
+              {
+                "title": "It's The Magic In You Girl",
+                "performer": "Steam"
+              },
+              {
+                "title": "Fleur de Lis",
+                "performer": "Wondermints"
+              },
+              {
+                "title": "The Joker Went Wild",
+                "performer": "Brian Hyland"
+              },
+              {
+                "title": "Walking Without Effort Theme",
+                "performer": "Richard Swift"
+              },
+              {
+                "title": "Half Lit",
+                "performer": "Richard Swift"
+              },
+              {
+                "title": "La Horse",
+                "performer": "Jean-Claude Vannier"
+              },
+              {
+                "title": "The End Of The Affair",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "title": "When I Lost You",
+                "performer": "The Yearning"
+              },
+              {
+                "title": "Blue Stoned Eyes",
+                "performer": "The Night Strings feat. Homer Dennison"
+              },
+              {
+                "title": "Afternoon of the Rhino",
+                "performer": "Mike Post Coalition"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "I.G.Y.",
+                "performer": "Rhythm Logic"
+              },
+              {
+                "title": "This Masquerade",
+                "performer": "Helen Reddy"
+              },
+              {
+                "title": "Here Come My Demons",
+                "performer": "Kula Shaker"
+              },
+              {
+                "title": "Hurry To Me",
+                "performer": "The Sandpipers"
+              },
+              {
+                "title": "Shannon",
+                "performer": "Seth Swirsky"
+              },
+              {
+                "title": "Sunny Days",
+                "performer": "Chop Shop"
+              },
+              {
+                "title": "What's Just Begun",
+                "performer": "The School"
+              },
+              {
+                "title": "Glory Box",
+                "performer": "Anthony Rochester"
+              },
+              {
+                "title": "Luftschloss",
+                "performer": "Eno, Moebius & Roedelius"
+              },
+              {
+                "title": "Ganz normales Leben",
+                "performer": "Jacques Palminger & 440 HZ Trio"
+              },
+              {
+                "title": "Give Me Some Peace",
+                "performer": "Slow Club"
+              },
+              {
+                "title": "Don't Panic (Instrumental)",
+                "performer": "Coldplay"
+              },
+              {
+                "title": "Say Hello Wave Goodbye",
+                "performer": "David Gray"
+              },
+              {
+                "title": "Strangers Now",
+                "performer": "The Slow Show"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "43",
+          "date": "2016-10-25",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Beat The Clock (Album Version)",
+                "performer": "Sparks"
+              },
+              {
+                "title": "Jupiter",
+                "performer": "Blaudzun"
+              },
+              {
+                "title": "(Girl We Got A) Good Thing",
+                "performer": "Weezer"
+              },
+              {
+                "title": "Don't Know What I'm Doing",
+                "performer": "The Yearning"
+              },
+              {
+                "title": "Maralou",
+                "performer": "Michael Nau"
+              },
+              {
+                "title": "Girl I Think About You All The Time",
+                "performer": "Linear John"
+              },
+              {
+                "title": "How Much I Really Loved You",
+                "performer": "June & The Exit Wounds"
+              },
+              {
+                "title": "I Will Lie",
+                "performer": "The Caper"
+              },
+              {
+                "title": "Ode To An Ah",
+                "performer": "The Hidden Cameras"
+              },
+              {
+                "title": "So You Say You Lost Your Baby",
+                "performer": "Death in Vegas (feat. Paul Weller)"
+              },
+              {
+                "title": "Hit The Road Jack",
+                "performer": "Helen Reddy"
+              },
+              {
+                "title": "Set Fire To The Stars",
+                "performer": "Gruff Rhys"
+              },
+              {
+                "title": "Birds",
+                "performer": "Deacon Blue"
+              },
+              {
+                "title": "Cars And Girls (Bremen Vier)",
+                "performer": "Orwell"
+              },
+              {
+                "title": "Grains Of Sand",
+                "performer": "Louis Cole"
+              },
+              {
+                "title": "Hazel Green",
+                "performer": "Psychic Ills"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "More Today Than Yesterday",
+                "performer": "The Spiral Starecase"
+              },
+              {
+                "title": "Saint Thomas",
+                "performer": "Bibio"
+              },
+              {
+                "title": "Fluchtwege",
+                "performer": "The Pattern Forms"
+              },
+              {
+                "title": "Strangers When We Meet",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Our Lips Are Sealed",
+                "performer": "James Cook"
+              },
+              {
+                "title": "Who Lost",
+                "performer": "C Duncan"
+              },
+              {
+                "title": "Melancholia",
+                "performer": "Lovejoy"
+              },
+              {
+                "title": "Let Nobody Love You",
+                "performer": "Bobby Vee"
+              },
+              {
+                "title": "M's Collection (Live @ Bremen Vier)",
+                "performer": "The Caper"
+              },
+              {
+                "title": "The Plan (Live @ Bremen Vier)",
+                "performer": "The Caper"
+              },
+              {
+                "title": "Rosedawn (Live @ Bremen Vier)",
+                "performer": "The Caper"
+              },
+              {
+                "title": "Didn't I Follow The Plan (Live @ Bremen Vier)",
+                "performer": "The Caper"
+              },
+              {
+                "title": "Waterloo Road (Live @ Bremen Vier)",
+                "performer": "The Caper"
+              },
+              {
+                "title": "La silence des cendres",
+                "performer": "Ahmet Malek"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Wild World",
+                "performer": "Bobby Scott"
+              },
+              {
+                "title": "Cibachrome Blue",
+                "performer": "Momus"
+              },
+              {
+                "title": "Morning Girl",
+                "performer": "Neon Philharmonic"
+              },
+              {
+                "title": "Say It Again",
+                "performer": "Matt Berry"
+              },
+              {
+                "title": "Close To You",
+                "performer": "Terry Hall"
+              },
+              {
+                "title": "This Guy's In Love With You",
+                "performer": "Terry Hall"
+              },
+              {
+                "title": "Music To Watch Girls By",
+                "performer": "Terry Hall"
+              },
+              {
+                "title": "Moon Nightclub",
+                "performer": "Douglas Wood"
+              },
+              {
+                "title": "Eleanor Rigby",
+                "performer": "John Denver"
+              },
+              {
+                "title": "Let The Blade Do The Work",
+                "performer": "Slow Club"
+              },
+              {
+                "title": "Alive In Five",
+                "performer": "Emil Richards"
+              },
+              {
+                "title": "Peaceful",
+                "performer": "Georgie Fame"
+              },
+              {
+                "title": "En Gång I Stockholm",
+                "performer": "Testbild!"
+              },
+              {
+                "title": "Spectre",
+                "performer": "Radiohead"
+              },
+              {
+                "title": "Waltz Bossa Nova",
+                "performer": "Ennio Morricone"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "44",
+          "date": "2016-11-01",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "She Blinded Me With Science",
+                "performer": "Thomas Dolby"
+              },
+              {
+                "title": "Space Patrol",
+                "performer": "Thomas, Peter & Mocambo Astronautic Sound Orchestra"
+              },
+              {
+                "title": "Happy Town",
+                "performer": "Popincourt"
+              },
+              {
+                "title": "Just Being Me",
+                "performer": "Myles Sanko"
+              },
+              {
+                "title": "D'you Know What I Mean?",
+                "performer": "Oasis"
+              },
+              {
+                "title": "Power In The Darkness",
+                "performer": "Tom Robinson Band"
+              },
+              {
+                "title": "The Night Is Made For Two",
+                "performer": "Robot"
+              },
+              {
+                "title": "Enemies",
+                "performer": "Rodrigo Leão & Scott Matthew"
+              },
+              {
+                "title": "You",
+                "performer": "Hooverphonic"
+              },
+              {
+                "title": "Save A Prayer",
+                "performer": "Duran Duran"
+              },
+              {
+                "title": "When I Lost You",
+                "performer": "The Yearning"
+              },
+              {
+                "title": "Animals",
+                "performer": "The Jazz Butcher"
+              },
+              {
+                "title": "Love Shadow",
+                "performer": "Fashiøn"
+              },
+              {
+                "title": "ROHK",
+                "performer": "June & The Exit Wounds"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Living In Another World",
+                "performer": "Talk Talk"
+              },
+              {
+                "title": "I Second That Emotion",
+                "performer": "Japan"
+              },
+              {
+                "title": "Set Fire To The Stars",
+                "performer": "Gruff Rhys with Video Loss"
+              },
+              {
+                "title": "House For Sale",
+                "performer": "It's Immaterial"
+              },
+              {
+                "title": "You'll Believe Me",
+                "performer": "Louis Cole"
+              },
+              {
+                "title": "Shine (Go To California)",
+                "performer": "Milkyway"
+              },
+              {
+                "title": "It Doesn't Matter Anymore",
+                "performer": "The Cyrcle"
+              },
+              {
+                "title": "Absolute Beginners",
+                "performer": "Michael C. Hall, Cristin Milioti, Michael Esper, Sophia Ann"
+              },
+              {
+                "title": "No Plan",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Work For Love",
+                "performer": "Ministry"
+              },
+              {
+                "title": "The Good Is A Big God",
+                "performer": "Domenico Lancellotti"
+              },
+              {
+                "title": "Cruel Summer",
+                "performer": "Bill Wells & Aidan Moffat"
+              },
+              {
+                "title": "Crepuscolo sul mar",
+                "performer": "Kid Loco"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Morning Girl, Later",
+                "performer": "The Neon Philharmonic"
+              },
+              {
+                "title": "Level Green",
+                "performer": "Hefner"
+              },
+              {
+                "title": "Suicide is painless (Theme from \"M.A.S.H.\")",
+                "performer": "The Mash"
+              },
+              {
+                "title": "New York Is My Destination",
+                "performer": "Suzanne Vega"
+              },
+              {
+                "title": "The More I See You",
+                "performer": "Salena Jones"
+              },
+              {
+                "title": "Boy On Space",
+                "performer": "Douglas Wood"
+              },
+              {
+                "title": "Select All Delete",
+                "performer": "John K. Samson"
+              },
+              {
+                "title": "There Is Nothing More To Say",
+                "performer": "The Millennium"
+              },
+              {
+                "title": "Taking Islands In Africa",
+                "performer": "Orwell"
+              },
+              {
+                "title": "Closer To You",
+                "performer": "Momus"
+              },
+              {
+                "title": "Nothing More",
+                "performer": "C Duncan"
+              },
+              {
+                "title": "Oh! Caroline",
+                "performer": "Matching Mole"
+              },
+              {
+                "title": "One Dream",
+                "performer": "Dream Academy"
+              },
+              {
+                "title": "Ellie's Love Theme",
+                "performer": "Isaac Hayes"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "45",
+          "date": "2016-11-08",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Stay (Harry Measlin Mix)",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Something Real Never Dies",
+                "performer": "Shane Alexander"
+              },
+              {
+                "title": "Mr. Apples",
+                "performer": "Madness"
+              },
+              {
+                "title": "Lullaby No. 2 (EP Version)",
+                "performer": "Friends Again"
+              },
+              {
+                "title": "The Glass",
+                "performer": "Michael Nau"
+              },
+              {
+                "title": "Bad News",
+                "performer": "Moon Martin"
+              },
+              {
+                "title": "The Great And Undecided",
+                "performer": "Riley Walker"
+              },
+              {
+                "title": "Sirens Of Jupiter",
+                "performer": "The Olympians"
+              },
+              {
+                "title": "Imitosis",
+                "performer": "Andrew Bird"
+              },
+              {
+                "title": "Oh Bother",
+                "performer": "Brian Jonestown Massacre"
+              },
+              {
+                "title": "Cloudy Leftovers",
+                "performer": "Palenco"
+              },
+              {
+                "title": "Don't Let Me Lose This Dream",
+                "performer": "Dusty Springfield"
+              },
+              {
+                "title": "(A Tin Can) Odyssee",
+                "performer": "Apples In Space"
+              },
+              {
+                "title": "What Becomes Of The Broken Hearted",
+                "performer": "Pugwash & Neil Hannon feat. Matt Berry"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "2-4-6-8 Motorway",
+                "performer": "Tom Robinson Band"
+              },
+              {
+                "title": "M's Collection",
+                "performer": "The Caper"
+              },
+              {
+                "title": "Going Nowhere",
+                "performer": "Oasis"
+              },
+              {
+                "title": "Goodbye Columbus",
+                "performer": "The Association"
+              },
+              {
+                "title": "Do You Need My Love",
+                "performer": "Weyes Blood"
+              },
+              {
+                "title": "I Fell",
+                "performer": "The Four Kings Cousins"
+              },
+              {
+                "title": "A New Dimension to Modern Love",
+                "performer": "Popincourt"
+              },
+              {
+                "title": "Clair",
+                "performer": "Orwell"
+              },
+              {
+                "title": "Set Fire To The Stars",
+                "performer": "Gruff Rhys"
+              },
+              {
+                "title": "Witchi Tai To",
+                "performer": "Harpers Bizarre"
+              },
+              {
+                "title": "My Other Voice",
+                "performer": "Sparks"
+              },
+              {
+                "title": "Cul-de-Sac",
+                "performer": "Komeda"
+              },
+              {
+                "title": "Kokopelli",
+                "performer": "Mild High Club"
+              },
+              {
+                "title": "Autumn Song",
+                "performer": "Luca Nieri"
+              },
+              {
+                "title": "My Life",
+                "performer": "Nelson Riddle Orchestra"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Gypsy (Early Version)",
+                "performer": "Fleetwood Mac"
+              },
+              {
+                "title": "Big Green Suitcase",
+                "performer": "Louis Cole"
+              },
+              {
+                "title": "Unfinished Sympathy (Orchestra Version)",
+                "performer": "Hooverphonic"
+              },
+              {
+                "title": "In Care Of 8675309",
+                "performer": "Lambchop"
+              },
+              {
+                "title": "Think Of Rain",
+                "performer": "The Split Level"
+              },
+              {
+                "title": "Offer",
+                "performer": "Rhonda"
+              },
+              {
+                "title": "The Man Who Fell To Earth",
+                "performer": "John Phillips"
+              },
+              {
+                "title": "Born To Be Adored",
+                "performer": "Momus"
+              },
+              {
+                "title": "Down In The Valley",
+                "performer": "Natural Calamity"
+              },
+              {
+                "title": "Slip",
+                "performer": "Travis Bretzer"
+              },
+              {
+                "title": "Baby",
+                "performer": "Ariel Pink's Haunted Graffiti"
+              },
+              {
+                "title": "You'd Better Come Home",
+                "performer": "Tony Hatch"
+              },
+              {
+                "title": "Voices",
+                "performer": "Immanu El"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "47",
+          "date": "2016-11-22",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Silent Sigh (Radio Edit)",
+                "performer": "Badly Drawn Boy"
+              },
+              {
+                "title": "Starless (M Sinclair Carbon Remix)",
+                "performer": "Starless"
+              },
+              {
+                "title": "Animal Spirit",
+                "performer": "Vulfpeck"
+              },
+              {
+                "title": "Kinda Girl",
+                "performer": "Fake Laugh"
+              },
+              {
+                "title": "Stormy",
+                "performer": "Marker Starling"
+              },
+              {
+                "title": "Sunkissed (Extended Version)",
+                "performer": "Friends Again"
+              },
+              {
+                "title": "Believe You're Mine",
+                "performer": "Nada Surf & Deutsches Filmorchester Babelsberg"
+              },
+              {
+                "title": "Marx & Engels",
+                "performer": "Belle & Sebastian"
+              },
+              {
+                "title": "A January Moon",
+                "performer": "The June Brides"
+              },
+              {
+                "title": "Can't Touch Us Now",
+                "performer": "Madness"
+              },
+              {
+                "title": "Spuren",
+                "performer": "Friedrich Sunlight"
+              },
+              {
+                "title": "Finding My Feet",
+                "performer": "Wasp"
+              },
+              {
+                "title": "Blow Away",
+                "performer": "George Harrison"
+              },
+              {
+                "title": "Get Carter",
+                "performer": "Roy Budd"
+              },
+              {
+                "title": "Memories",
+                "performer": "The Proper Ornaments"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Down Among The Dead Man (Album Version)",
+                "performer": "Flash & The Pan"
+              },
+              {
+                "title": "Melts Into Air",
+                "performer": "Ulrich Schnauss"
+              },
+              {
+                "title": "Love Survive",
+                "performer": "Michael Nau"
+              },
+              {
+                "title": "Down Waterloo Road",
+                "performer": "Jason Crest"
+              },
+              {
+                "title": "Mars",
+                "performer": "The Olympians"
+              },
+              {
+                "title": "Horsell Common And The Heat Ray (Arnd Zeigler Re-Edit)",
+                "performer": "Jeff Wayne"
+              },
+              {
+                "title": "Some Sunsick Day",
+                "performer": "Morgan Delt"
+              },
+              {
+                "title": "Angelina",
+                "performer": "The Canterbury Music Festival"
+              },
+              {
+                "title": "Relatives #2",
+                "performer": "Lambchop"
+              },
+              {
+                "title": "When Did You Stop Loving Me, When Did I Stop Loving You",
+                "performer": "Marvin Gaye"
+              },
+              {
+                "title": "You Can Feel It",
+                "performer": "Young Gun Silver Fox"
+              },
+              {
+                "title": "Champagne",
+                "performer": "Tim Gane & Sean O'Hagan"
+              },
+              {
+                "title": "Islands In The Sky",
+                "performer": "Murry Wilson"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Fool On The Hill (2009 Remaster)",
+                "performer": "The Beatles"
+              },
+              {
+                "title": "Stranger",
+                "performer": "Anthony Philips"
+              },
+              {
+                "title": "Eggplant",
+                "performer": "Michael Franks"
+              },
+              {
+                "title": "The Pulse (Album Version)",
+                "performer": "The Magic Numbers"
+              },
+              {
+                "title": "Buzzin' Fly",
+                "performer": "Tim Buckley"
+              },
+              {
+                "title": "My Autumns Done Come",
+                "performer": "Lee Hazlewood"
+              },
+              {
+                "title": "Time Moves Slow",
+                "performer": "BadBadNotGood"
+              },
+              {
+                "title": "Like Wind Blows",
+                "performer": "Natural Calamity"
+              },
+              {
+                "title": "Passing By",
+                "performer": "The Beach Boys"
+              },
+              {
+                "title": "You're Gonna Make Me Lonesome When You Go",
+                "performer": "Madeleine Peyroux"
+              },
+              {
+                "title": "Silence",
+                "performer": "Delayaman"
+              },
+              {
+                "title": "And I Love Her",
+                "performer": "Gary McFarland"
+              },
+              {
+                "title": "In Your Playground (Live Bremen Vier)",
+                "performer": "Orwell"
+              },
+              {
+                "title": "I Would Like To Get To Know You",
+                "performer": "The Going Thing"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "48",
+          "date": "2016-11-29",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "I Can't Give Everything Away",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Ask The Lord (A New Version)",
+                "performer": "Hipsway"
+              },
+              {
+                "title": "Maralou",
+                "performer": "Michael Nau"
+              },
+              {
+                "title": "Radioactivity",
+                "performer": "Fatboy Slim"
+              },
+              {
+                "title": "Far Away",
+                "performer": "Seth Swirsky"
+              },
+              {
+                "title": "Then There Were Three",
+                "performer": "Lori Cullen"
+              },
+              {
+                "title": "Essensimo",
+                "performer": "Soré"
+              },
+              {
+                "title": "The Inconsolable Jean Claude",
+                "performer": "Lake Ruth"
+              },
+              {
+                "title": "Bright Lights",
+                "performer": "The Heart Strings"
+              },
+              {
+                "title": "It's Not The End Of The World",
+                "performer": "Super Furry Animals"
+              },
+              {
+                "title": "Being Boiled",
+                "performer": "Human League"
+              },
+              {
+                "title": "Mr. White",
+                "performer": "Khruangbin"
+              },
+              {
+                "title": "Shine",
+                "performer": "Slowdive"
+              },
+              {
+                "title": "No Hollywood Ending",
+                "performer": "The Sonnets"
+              },
+              {
+                "title": "Layla (Piano Coda)",
+                "performer": "Eric Clapton"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Nineteen Hundred & Eighty Five",
+                "performer": "Paul McCartney & Wings"
+              },
+              {
+                "title": "Frank",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "title": "Drink My Rivers",
+                "performer": "Andy Shauf"
+              },
+              {
+                "title": "For Belgian Friends",
+                "performer": "The Durutti Column"
+              },
+              {
+                "title": "Christine",
+                "performer": "Soliterre"
+              },
+              {
+                "title": "Someone Like You",
+                "performer": "Mayer Hawthorne"
+              },
+              {
+                "title": "Man In The Station",
+                "performer": "Iain Matthews"
+              },
+              {
+                "title": "Energie",
+                "performer": "Jean-Philippe Goude"
+              },
+              {
+                "title": "Milk & Honey",
+                "performer": "Luca Nieri"
+              },
+              {
+                "title": "Observatory Crest",
+                "performer": "Captain Beefheart"
+              },
+              {
+                "title": "Love Will Set You Free",
+                "performer": "Carrie Cleveland"
+              },
+              {
+                "title": "Smile Meditation",
+                "performer": "Vulfpeck"
+              },
+              {
+                "title": "Melancholy Man",
+                "performer": "The Wake"
+              },
+              {
+                "title": "When I Was Young",
+                "performer": "Nada Surf & Deutsches Filmorchester Babelsberg"
+              },
+              {
+                "title": "Flying",
+                "performer": "Yonin Bayashi"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Drei nach zehn",
+                "performer": "Friedrich Sunlight"
+              },
+              {
+                "title": "Sailing Out To Sey",
+                "performer": "Matthew Halsall"
+              },
+              {
+                "title": "The Smiling Hour",
+                "performer": "Marker Starling"
+              },
+              {
+                "title": "Someday Maybe",
+                "performer": "The Sonic Executive Sessions"
+              },
+              {
+                "title": "Surf's Up",
+                "performer": "Beach Boys"
+              },
+              {
+                "title": "Starless (Cam Nisbit Remix)",
+                "performer": "Starless"
+              },
+              {
+                "title": "Gigantic",
+                "performer": "Eddi Front"
+              },
+              {
+                "title": "When The Morning Comes",
+                "performer": "Zooey"
+              },
+              {
+                "title": "Down To The Sound",
+                "performer": "Bibio"
+              },
+              {
+                "title": "Once Bittern",
+                "performer": "The Memory Band"
+              },
+              {
+                "title": "I Was The King",
+                "performer": "Alun Woodward"
+              },
+              {
+                "title": "Chord Simple",
+                "performer": "Broadcast"
+              },
+              {
+                "title": "Princess",
+                "performer": "Piero Umiliani"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "49",
+          "date": "2016-12-06",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Eanie Meany",
+                "performer": "Jim Noir"
+              },
+              {
+                "title": "Reaching For The Top",
+                "performer": "Cloudberry Jam"
+              },
+              {
+                "title": "Free Salute",
+                "performer": "Little Barrie"
+              },
+              {
+                "title": "On Dancing Hill",
+                "performer": "The Memory Band"
+              },
+              {
+                "title": "She Better Be",
+                "performer": "The Caper"
+              },
+              {
+                "title": "I Think Of You",
+                "performer": "Rodriguez"
+              },
+              {
+                "title": "Toxic Girl (Monte Carlo 1963 Version)",
+                "performer": "Kings Of Convenience"
+              },
+              {
+                "title": "Weird Turns Pro",
+                "performer": "Parker Lewis"
+              },
+              {
+                "title": "Crash",
+                "performer": "Belle & Sebastian"
+              },
+              {
+                "title": "Don't Go Yet",
+                "performer": "Lori Cullen"
+              },
+              {
+                "title": "Follow The Leader",
+                "performer": "Foxygen"
+              },
+              {
+                "title": "This World Vs. The Next World",
+                "performer": "The Music Lovers"
+              },
+              {
+                "title": "Set Sail Tomorrow",
+                "performer": "Montt Mardié"
+              },
+              {
+                "title": "La Ritournelle",
+                "performer": "Sebastien Tellier"
+              },
+              {
+                "title": "I Can't Believe This Is Happening To Me",
+                "performer": "The National Convention"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Mirror Man (Extended Version)",
+                "performer": "Human League"
+              },
+              {
+                "title": "Why Don't You Answer",
+                "performer": "Friendly Fires"
+              },
+              {
+                "title": "Parasites",
+                "performer": "Parks, Squares & Alleys"
+              },
+              {
+                "title": "Pink Frost",
+                "performer": "The Chills"
+              },
+              {
+                "title": "Ruby Rises",
+                "performer": "Oren Lavie"
+              },
+              {
+                "title": "La nuova frontiera (String Beat Version)",
+                "performer": "Piero Umiliani"
+              },
+              {
+                "title": "She Don't Come Around Here Anymore",
+                "performer": "Bill Ricchini"
+              },
+              {
+                "title": "Joyful",
+                "performer": "The Lollipop Train"
+              },
+              {
+                "title": "A Romance In Blue",
+                "performer": "Natural Yogurt Band"
+              },
+              {
+                "title": "Tea For Two",
+                "performer": "Bob Azzam"
+              },
+              {
+                "title": "Wanted To Fly And He Flew",
+                "performer": "The Heart Strings"
+              },
+              {
+                "title": "Having Fun",
+                "performer": "Jay Richford & Gary Stevan"
+              },
+              {
+                "title": "Baltimore",
+                "performer": "Nina Simone"
+              },
+              {
+                "title": "She Came Back",
+                "performer": "Soft Soul Transition"
+              },
+              {
+                "title": "Linus & Lucy",
+                "performer": "Vince Guaraldi"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "This Girl's In Love With You",
+                "performer": "Rumer"
+              },
+              {
+                "title": "Are You Lightning?",
+                "performer": "Nada Surf & Deutsches Filmorchester Babelsberg"
+              },
+              {
+                "title": "Terribly So",
+                "performer": "Howe Gelb"
+              },
+              {
+                "title": "Magical Connection",
+                "performer": "John Sebastian"
+              },
+              {
+                "title": "Mary's Prayer",
+                "performer": "The Peptides"
+              },
+              {
+                "title": "Ghost Story",
+                "performer": "Louis Cole"
+              },
+              {
+                "title": "Nubian Queen",
+                "performer": "Michael Angelo"
+              },
+              {
+                "title": "The Gentle Rain",
+                "performer": "Moody"
+              },
+              {
+                "title": "Ride The Wind",
+                "performer": "The Youngbloods"
+              },
+              {
+                "title": "Passing Through",
+                "performer": "Rare Bird"
+              },
+              {
+                "title": "The Visit",
+                "performer": "The Cyrkle"
+              },
+              {
+                "title": "Se Chiudo Gli Occhi",
+                "performer": "Luis Bacalov"
+              },
+              {
+                "title": "Lazarus (Radio Edit)",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Karolina",
+                "performer": "Soré"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "50",
+          "date": "2016-12-13",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Pop Life",
+                "performer": "Prince"
+              },
+              {
+                "title": "Any Way",
+                "performer": "Drakkar Nowhere"
+              },
+              {
+                "title": "Radio Activity",
+                "performer": "Damien Jurado & Richard"
+              },
+              {
+                "title": "Gemini Calling",
+                "performer": "The Karminsky Experience"
+              },
+              {
+                "title": "Two Entwined",
+                "performer": "Scott Matthews"
+              },
+              {
+                "title": "Hello Beach Girls",
+                "performer": "Richard Schneider Jr"
+              },
+              {
+                "title": "Lucky Radio",
+                "performer": "Samuel Purdey"
+              },
+              {
+                "title": "Aviation (EP Version)",
+                "performer": "The Last Shadow Puppets"
+              },
+              {
+                "title": "Some Part Of Me",
+                "performer": "Lori Cullen"
+              },
+              {
+                "title": "Follow The Leader",
+                "performer": "Foxygen"
+              },
+              {
+                "title": "Graduation Day",
+                "performer": "The Sesha Loop"
+              },
+              {
+                "title": "Nobody Knows",
+                "performer": "Pastor T.L. Barrett & The Youth For Christ Choir"
+              },
+              {
+                "title": "Psyche Rock (Fatboy Slim Malpaso Mix)",
+                "performer": "Pierre Henry"
+              },
+              {
+                "title": "Kolly Kibber",
+                "performer": "Peter Doherty"
+              },
+              {
+                "title": "Jaguar",
+                "performer": "John Gregory & His Orchestra"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Tempted",
+                "performer": "Squeeze"
+              },
+              {
+                "title": "The Inconsolable Jean Claude",
+                "performer": "Lake Ruth"
+              },
+              {
+                "title": "Grey Harpoon",
+                "performer": "The Coral"
+              },
+              {
+                "title": "Turn Down Day",
+                "performer": "The Cyrkle"
+              },
+              {
+                "title": "I Hope It Doesn't Come My Way (Live Bremen Vier)",
+                "performer": "The Heart"
+              },
+              {
+                "title": "The Last Ten Years",
+                "performer": "Mark Eitzel"
+              },
+              {
+                "title": "His Name Is Legs (Ladies And Gentlemen)",
+                "performer": "George Harrison"
+              },
+              {
+                "title": "Temma Harbour",
+                "performer": "The Happy Balloon"
+              },
+              {
+                "title": "Widerstehe doch der Sünde",
+                "performer": "Nicolas Godin"
+              },
+              {
+                "title": "Radio Ga Ga",
+                "performer": "Pugwash"
+              },
+              {
+                "title": "I will Lie",
+                "performer": "The Caper"
+              },
+              {
+                "title": "My Life's Arithmetic Means",
+                "performer": "The Camerawalls"
+              },
+              {
+                "title": "Life On Mars? (2016 Mix)",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Budapest By Blimp",
+                "performer": "Thomas Dolby"
+              },
+              {
+                "title": "Ask The Lord (Dub Mix)",
+                "performer": "Hipsway"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "I'm Outta Time",
+                "performer": "Oasis"
+              },
+              {
+                "title": "Café Regio's",
+                "performer": "Isaac Hayes"
+              },
+              {
+                "title": "Windmills Of Your Mind",
+                "performer": "Sting"
+              },
+              {
+                "title": "All That Glitters",
+                "performer": "Carleen Anderson"
+              },
+              {
+                "title": "Snow Starts To Fall",
+                "performer": "Mister Fusty"
+              },
+              {
+                "title": "Waves",
+                "performer": "Freddie Joachim"
+              },
+              {
+                "title": "She Does",
+                "performer": "Bell Gardens"
+              },
+              {
+                "title": "Wide Eyed And Legless",
+                "performer": "Georgie Fame"
+              },
+              {
+                "title": "Walk on By",
+                "performer": "Rumer"
+              },
+              {
+                "title": "South American Getaway",
+                "performer": "Burt Bacharach"
+              },
+              {
+                "title": "Guess I'm Dumb",
+                "performer": "Lambchop"
+              },
+              {
+                "title": "Us And Them",
+                "performer": "Pink Floyd"
+              },
+              {
+                "title": "Hands And Clouds",
+                "performer": "Andreas Vollenweider"
+              },
+              {
+                "title": "Walking In The Dark",
+                "performer": "Stefano Torossi"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "51",
+          "date": "2016-12-20",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Starman (Single Version)",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Dreams",
+                "performer": "Thomas White"
+              },
+              {
+                "title": "Bring Back The Rain",
+                "performer": "The Pippinger Flur"
+              },
+              {
+                "title": "Bahnsteig A",
+                "performer": "Friedrich Sunlight"
+              },
+              {
+                "title": "Time To Get Alone",
+                "performer": "Zooey"
+              },
+              {
+                "title": "Mind How You Go Now",
+                "performer": "The Advisory Circle"
+              },
+              {
+                "title": "Sincere Replies",
+                "performer": "Damien Jurado & Richard Swift"
+              },
+              {
+                "title": "All Is Forgotten",
+                "performer": "The Hazey Janes"
+              },
+              {
+                "title": "Chippewa",
+                "performer": "Drakkar Nowhere"
+              },
+              {
+                "title": "Tabogans",
+                "performer": "Mister Fusty"
+              },
+              {
+                "title": "35 Falcon Street",
+                "performer": "Stereophonic Space Sound Unlimited"
+              },
+              {
+                "title": "Broken",
+                "performer": "The Brigadier"
+              },
+              {
+                "title": "Weihnachten im Weltall",
+                "performer": "Erdmöbel"
+              },
+              {
+                "title": "Snow Falling Softly (Bent Fabric Mix)",
+                "performer": "Lovejoy"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Walk Out To Winter (12\" Version)",
+                "performer": "Aztec Camera"
+              },
+              {
+                "title": "That's Entertainment",
+                "performer": "Morrissey"
+              },
+              {
+                "title": "Halifax",
+                "performer": "Pete Yorn"
+              },
+              {
+                "title": "Kiki vs. Alice From The Breakers",
+                "performer": "The 1957 Tail Tin Fiasco"
+              },
+              {
+                "title": "Ha Ha Haf",
+                "performer": "Omaloma"
+              },
+              {
+                "title": "Purpoise Song",
+                "performer": "Django Django"
+              },
+              {
+                "title": "The Raven (Out-Take and Extended Jam)",
+                "performer": "Alan Parsons Project"
+              },
+              {
+                "title": "Stripping In The Sunset",
+                "performer": "Golden Chorus"
+              },
+              {
+                "title": "Let There Be Love",
+                "performer": "Oasis"
+              },
+              {
+                "title": "Flipside",
+                "performer": "Hypnotic Brass Ensemble"
+              },
+              {
+                "title": "Sunny",
+                "performer": "Georgie Fame"
+              },
+              {
+                "title": "No Other",
+                "performer": "The Golden Eaves"
+              },
+              {
+                "title": "Soul Vibrations",
+                "performer": "Dorothy Ashby"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "On Days Like These",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "A Day In The Life Of A Tree",
+                "performer": "The Fiction Aisle"
+              },
+              {
+                "title": "Lay Lady Lay",
+                "performer": "Magnet"
+              },
+              {
+                "title": "Diary",
+                "performer": "Weyes Blood"
+              },
+              {
+                "title": "Tenebrae",
+                "performer": "Ralegh Long"
+              },
+              {
+                "title": "Nightingales",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "title": "Smile",
+                "performer": "Eric Clapton"
+              },
+              {
+                "title": "As Time Goes By (Complete Vocal By Dooley Wilson)",
+                "performer": "Dooley Wilson"
+              },
+              {
+                "title": "All These Snowy Days In Fårö",
+                "performer": "Giorgio Tuma"
+              },
+              {
+                "title": "Loneliness Has Eyes (Live)",
+                "performer": "Milk"
+              },
+              {
+                "title": "Don Juan",
+                "performer": "Meilyr Jones"
+              },
+              {
+                "title": "Ping Opaque",
+                "performer": "Young Tradition"
+              },
+              {
+                "title": "Winter Rose",
+                "performer": "Fairground Attraction"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "52",
+          "date": "2016-12-27",
+          "songs": [
+            [
+              {
+                "time": "20:04",
+                "title": "Saturn and Co.",
+                "album": "Mother Town Hall",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "title": "I'm In Love",
+                "album": "Here",
+                "performer": "Teenage Fanclub"
+              },
+              {
+                "title": "I See Sadness",
+                "album": "April & I  Carousel Kites",
+                "performer": "Paul Steel"
+              },
+              {
+                "title": "M's Collection",
+                "album": "Compendium Of Games",
+                "performer": "The Caper"
+              },
+              {
+                "title": "Jupiter",
+                "performer": "Blaudzun"
+              },
+              {
+                "title": "I Can't Give Everything Away",
+                "album": "Blackstar",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Marienbad",
+                "album": "Love",
+                "performer": "Get Well Soon"
+              },
+              {
+                "title": "Come Kiss Me Vibrate And Smile",
+                "album": "The Endless More And More",
+                "performer": "The Chemistry Set"
+              },
+              {
+                "title": "Happy",
+                "album": "See How",
+                "performer": "Pete Aves"
+              },
+              {
+                "title": "In Your Eyes",
+                "album": "IV",
+                "performer": "BadBadNotGood"
+              },
+              {
+                "title": "Roma Fade",
+                "album": "Are You Serious",
+                "performer": "Andrew Bird"
+              },
+              {
+                "title": "Suddenly",
+                "album": "The End Of Comedy",
+                "performer": "Drugdealer"
+              },
+              {
+                "title": "96",
+                "album": "Lost Property",
+                "performer": "Turin Brakes"
+              },
+              {
+                "title": "The Glass",
+                "album": "Mowing",
+                "performer": "Michael Nau"
+              },
+              {
+                "title": "Higher Now",
+                "album": "Drakkar Nowhere",
+                "performer": "Drakkar Nowhere"
+              },
+              {
+                "title": "Diana By My Side",
+                "album": "The Olympians",
+                "performer": "The Olympians"
+              }
+            ],
+            [
+              {
+                "time": "21:04",
+                "title": "Viva Love",
+                "album": "The Lexicon Of Love II",
+                "performer": "ABC"
+              },
+              {
+                "title": "Holy Flame",
+                "album": "k2o",
+                "performer": "Kula Shaker"
+              },
+              {
+                "title": "Praying For Time",
+                "performer": "George Michael"
+              },
+              {
+                "title": "Catherine The Great",
+                "album": "Foreverland",
+                "performer": "Divine Comedy"
+              },
+              {
+                "title": "Ember Age",
+                "album": "Nostalgia For Infinity",
+                "performer": "Sound Of Ceres"
+              },
+              {
+                "title": "I Think I'm Dancing",
+                "album": "Melody Cycle",
+                "performer": "Jack And The '"
+              },
+              {
+                "title": "Apple Tree",
+                "album": "The Apple Tree",
+                "performer": "Hintermass"
+              },
+              {
+                "title": "Far Away",
+                "album": "Circles And Squares",
+                "performer": "Seth Swirsky"
+              },
+              {
+                "title": "Together",
+                "album": "Together",
+                "performer": "The Explorers Club"
+              },
+              {
+                "title": "Bahnsteig A",
+                "album": "live bei Bremen Vier",
+                "performer": "Friedrich Sunlight"
+              },
+              {
+                "title": "Melodie",
+                "album": "live bei Bremen Vier",
+                "performer": "Friedrich Sunlight"
+              },
+              {
+                "title": "Drei Nach Zehn",
+                "album": "live bei Bremen Vier",
+                "performer": "Friedrich Sunlight"
+              },
+              {
+                "title": "Nicht Ans Meer",
+                "album": "live bei Bremen Vier",
+                "performer": "Friedrich Sunlight"
+              },
+              {
+                "title": "Gütersloh",
+                "album": "live bei Bremen Vier",
+                "performer": "Friedrich Sunlight"
+              },
+              {
+                "title": "Born In January",
+                "performer": "Mister Fusty"
+              }
+            ],
+            [
+              {
+                "time": "22:04",
+                "title": "Cosmic Love",
+                "album": "Man About Town",
+                "performer": "Mayer Hawthorne"
+              },
+              {
+                "title": "My Last Tears Will Be A Blue Melody",
+                "album": "This Life Denied Me Your\n Love",
+                "performer": "Giorgio Tuma"
+              },
+              {
+                "title": "Set Fire To The Stars",
+                "album": "Set Fire To The Stars",
+                "performer": "Gruff Rhys"
+              },
+              {
+                "title": "Every Little Step",
+                "album": "Every Little Step",
+                "performer": "Dylan Mondegreen"
+              },
+              {
+                "title": "One More Night",
+                "album": "Love And Hate",
+                "performer": "Michael Kiwanuka"
+              },
+              {
+                "title": "Here Come The Ratting Trees",
+                "album": "Here Come The Ratting Trees",
+                "performer": "The High Llamas"
+              },
+              {
+                "title": "Summer Queen",
+                "album": "Red Bouquet Fair",
+                "performer": "The Junipers"
+              },
+              {
+                "title": "Onalaska",
+                "album": "Visions Of Us On The Land",
+                "performer": "Damien Jurado"
+              },
+              {
+                "title": "Fallin' Rain",
+                "album": "Introducing Karl Blau",
+                "performer": "Karl Blau"
+              },
+              {
+                "title": "Best Days On Earth",
+                "album": "Wild Pendulum",
+                "performer": "Trash Can Sinatras"
+              },
+              {
+                "title": "The Magician",
+                "album": "The Party",
+                "performer": "Andy Shauf"
+              },
+              {
+                "title": "Skiptracing",
+                "album": "Skiptracing",
+                "performer": "Mild High Club"
+              },
+              {
+                "title": "Vorbeija, vorbeija",
+                "album": "Wieder Ein Jahr Für Die Katze",
+                "performer": "Graf Tati"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        }
+      ]
     },
     {
       "id": "2020",
