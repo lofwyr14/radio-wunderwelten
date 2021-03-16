@@ -6344,6 +6344,7 @@
         {
           "id": "26",
           "date": "2011-06-28",
+          "checked": {"date": "2021-03-16", "user": "jg"},
           "songs": [
             [
               {
@@ -6449,7 +6450,12 @@
               {
                 "title": "Why Don't You Answer",
                 "performer": "Eberhard Schoener & Sting"
+              },
+              {
+                "title": "Long Hot Summer (Instrumental)",
+                "performer": "The Style Council"
               }
+
             ],
             [
               {
@@ -6470,7 +6476,7 @@
                 "performer": "Santana"
               },
               {
-                "title": "The Sun And The Silence",
+                "title": "The Sun And The Silence (Alternative Version)",
                 "performer": "Moi Caprice"
               },
               {
