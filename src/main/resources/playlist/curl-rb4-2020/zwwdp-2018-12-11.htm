@@ -193,44 +193,6 @@ Musik<img class="breadcrumb-img" src="/resources/bilder/mobil/bremenvier/pfeil_b
     <div id="verlauf_content">
       <div id="gebamsel_background">
         <div id="gebamsel">
-          <script type="text/javascript">
-            if (AC_FL_RunContent != 0) {
-              AC_FL_RunContent(
-                  'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0',
-                  'width', '210',
-                  'height', '115',
-                  'src', '/bremenvier/flash/gebamsel?str=%20ZEIGLER',
-                  'quality', 'high',
-                  'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
-                  'align', 'middle',
-                  'play', 'true',
-                  'loop', 'true',
-                  'scale', 'noscale',
-                  'wmode', 'window',
-                  'devicefont', 'false',
-                  'id', 'player',
-                  'bgcolor', '#F6F6F6',
-                  'name', 'player',
-                  'menu', 'true',
-                  'allowFullScreen', 'false',
-                  'allowScriptAccess', 'always',
-                  'movie', '/bremenvier/flash/gebamsel?str=%20ZEIGLER',
-                  'salign', ''
-              ); //end AC code
-            }
-          </script>
-          <noscript>
-            <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
-                    codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0"
-                    width="210" height="130" id="player" align="middle">
-              <param name="allowScriptAccess" value="always"/>
-              <param name="allowFullScreen" value="false"/>
-              <param name="movie" value="/bremenvier/flash/gebamsel.swf?str=%20ZEIGLER"/>
-              <param name="quality" value="high"/>
-              <param name="scale" value="noscale"/>
-              <param name="bgcolor" value="#F6F6F6"/>
-            </object>
-          </noscript>
           <p class="gebamsel_snippet">Zeiglers wunderbare Welt des Pop - das ist zur&uuml;cklehnen und entspannte Musik
             auf die Ohren kriegen.</p></div>
         <div id="verlauf_inner_content">
@@ -247,8 +209,9 @@ Musik<img class="breadcrumb-img" src="/resources/bilder/mobil/bremenvier/pfeil_b
                 <td class="top44_table_zelle_head">Interpret</td>
                 <td class="top44_table_zelle_head right">Titel</td>
               </tr>
-              <tr class="top44_table_line2">
-                <td class="top44_table_zelle left orange"><b></b></td>
+              <tr class="top44_table_line1">
+                <td class="top44_table_zelle left orange"><b>
+                  20 Uhr</b></td>
                 <td class="top44_table_zelle">
                   <div class="normal_link"><b>
                     David Bowie </b></a></div>
@@ -690,7 +653,6 @@ Musik<img class="breadcrumb-img" src="/resources/bilder/mobil/bremenvier/pfeil_b
   <footer class="page-footer" id="fuss">
     <div id="socialshareprivacy"></div>
     <div class="divider"></div>
-    <a href="javascript:utils.scrollTo('#mainpage');">Nach oben</a>
     <div class="divider"></div>
     <a href="http://www.radiobremen.de/bremenvier/musik/playlists/zeigler104.html">Zur klassischen Webseite</a>
     <br>
@@ -702,7 +664,6 @@ Musik<img class="breadcrumb-img" src="/resources/bilder/mobil/bremenvier/pfeil_b
     <a href="/unternehmen/kontakt/uebersicht100.html">Kontakt</a> |
     <a href="/sitemap102.html">Sitemap</a> |
     <a href="/unternehmen/technik/rssfeeds110.html">RSS</a> |
-    <a href="javascript:showcopyrights();">Bildnachweis</a>
   </footer>
   <div class="navpage menu-content">
     <ul class="menu">
@@ -1050,35 +1011,84 @@ Musik<img class="breadcrumb-img" src="/resources/bilder/mobil/bremenvier/pfeil_b
   </div>
   <div class="navigation-layer hidden"></div>
 </div>
-<script type="text/javascript">
-  (function () {
-    var services = [],
-        cookie = '',
-        disableServices = '',
-        scriptTag;
-    cookie = document.cookie;
-    disableServices = cookie.match(/disableTrackingServices=([^;]*)/);
-    if (disableServices !== null && disableServices[1]) {
-      services = JSON.parse(disableServices[1]) || [];
-    }
-    if (services.indexOf('szm') === -1) {
-      scriptTag = document.createElement('script');
-      scriptTag.type = 'text/javascript';
-      scriptTag.src = 'https://script.ioam.de/iam.js';
-      scriptTag.onload = function () {
-        var payload = {
-          'st': 'mobrabre',
-          'cp': 'rb/Mobile'
-        };
-        window.iom.c(payload, 1);
-      };
-      document.body.appendChild(scriptTag);
-    }
-  })();
-</script>
-<script id="atInternetData" type="text/json">
-{"chapter2":"playlists","chapter1":"musik","publishingDate":"2010-04-21T20:15:10","distribution":"Web","url":"http://www.radiobremen.de/bremenvier/musik/playlists/zeigler104.html","creator":"Radio Bremen","referrer":"www.radiobremen.de/bremenvier","siteId":"5","contentTitle":"Zeiglers wunderbare Welt des Pop","pageTitle":"Zeiglers wunderbare Welt des Pop - Radio Bremen","path":"/musik/playlists/","trackingCodeId":"595939","uuid":"26eb2c01-eb69-460c-8c23-01e83eb73113","objectType":"extern","sophoraId":"zeigler104"}
-
-</script>
 </body>
 </html>
+<script>
+let file="./zwwdp-2018-12-11.htm";
+let date="2018-12-11";
+
+function ISO8601_week_no(date)
+{
+  var dt = new Date(parseInt(date.substring(0, 4)),parseInt(date.substring(5, 7))-1,parseInt(date.substring(8, 10)));
+  var tdt = new Date(dt.valueOf());
+  var dayn = (dt.getDay() + 6) % 7;
+  tdt.setDate(tdt.getDate() - dayn + 3);
+  var firstThursday = tdt.valueOf();
+  tdt.setMonth(0, 1);
+  if (tdt.getDay() !== 4)
+  {
+    tdt.setMonth(0, 1 + ((4 - tdt.getDay()) + 7) % 7);
+  }
+  return "" + (1 + Math.ceil((firstThursday - tdt) / 604800000));
+}
+
+let id=ISO8601_week_no(date);
+
+class Song {
+    time;
+    title;
+    performer;
+}
+
+class SongList {
+    list = [];
+}
+
+class Episode {
+    id;
+    title;
+    date;
+    comment;
+    songs;
+}
+
+let episode = new Episode();
+episode.songs = [];
+let songs;
+document.querySelectorAll("tbody>tr").forEach(
+    row => {
+        let s = new Song();
+        s.time = row.querySelector("td:nth-child(1)").textContent.trim();
+        s.title = row.querySelector("td:nth-child(3)").textContent.trim();
+        s.performer = row.querySelector("td:nth-child(2)").textContent.trim();
+        if (!s.time) {
+            s.time = undefined;
+        }
+        if (s.time) {
+            s.time = s.time.replace(/20.*/, "20:04");
+            s.time = s.time.replace(/21.*/, "21:04");
+            s.time = s.time.replace(/22.*/, "22:04");
+            s.time = s.time.replace(/23.*/, "23:04");
+        }
+        if (s.time && s.time.trim().toUpperCase() === "ZEIT") {
+          // drop
+        } else {
+            if (s.time) {
+                songs = [];
+                episode.songs.push(songs);
+            }
+            songs.push(s);
+        }
+    }
+);
+
+episode.id = id;
+episode.date = date;
+
+let result = JSON.stringify(episode);
+
+console.info("result = ", result);
+
+document.querySelector("table").insertAdjacentHTML("beforebegin", "<textarea id='json' style='min-width: 90%; min-height: 300px'>"+result+"</textarea>");
+document.getElementById("json").select();
+</script>
