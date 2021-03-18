@@ -26,7 +26,13 @@ Immer eine Datei pro Sendung.
 
 | Name | Typ | Optional | Beschreibung |
 |---|---|---|---|
-| todo | string |
+| id | string |  | ID (z.B. KW, Monat oder bei PTW die Episode |
+| title | string | ja | Titel (Default aus Group) |
+| station | string | ja | Sender (Default aus Group) |
+| date | string | ja | Datum yyyy-mm-dd |
+| comment | string | ja | Hinweis auf Sondersendung, etc. |
+| todo | string | ja | Interner Hinweis |
+| songs | Song[] | ja | Liste der Songs |
 
 ## Song
 
