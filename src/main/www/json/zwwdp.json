@@ -47513,24 +47513,7 @@
           "id": "51",
           "date": "2018-12-18",
           "comment": "Olli Dittrich ist mit im Studio",
-          "todo": "Playlist fehlt",
-          "songs": [
-            [
-              {
-                "time": "20:04"
-              }
-            ],
-            [
-              {
-                "time": "20:04"
-              }
-            ],
-            [
-              {
-                "time": "22:04"
-              }
-            ]
-          ]
+          "todo": "Playlist fehlt"
         }
       ]
     },
