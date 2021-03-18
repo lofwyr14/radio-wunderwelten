@@ -47524,10 +47524,10 @@
       "station": "Radio Bremen 2",
       "episodes": [
     {
-      "id": "1",
+      "id": "10",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-03-05",
-      "comment": "Sendung Nummer 504",
+      "comment": "Sendung Nummer 504 - Erste Sendung auf Bremen 2",
       "songs": [
         [
           { "time":"22:04", "title": "Kids", "performer": "Young Gun Silver Fox"},
@@ -47559,7 +47559,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "11",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-03-12",
       "songs": [
@@ -47595,7 +47595,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "12",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-03-19",
       "songs": [
@@ -47632,7 +47632,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "13",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-03-26",
       "songs": [
@@ -47670,7 +47670,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "14",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-04-02",
       "songs": [
@@ -47710,7 +47710,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": "15",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-04-09",
       "songs": [
@@ -47756,7 +47756,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "16",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-04-16",
       "songs": [
@@ -47795,7 +47795,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "17",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-04-23",
       "songs": [
@@ -47832,7 +47832,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "18",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-04-30",
       "songs": [
@@ -47867,7 +47867,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": "19",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-05-07",
       "songs": [
@@ -47905,7 +47905,7 @@
       ]
     },
     {
-      "id": "11",
+      "id": "20",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-05-14",
       "songs": [
@@ -47943,7 +47943,7 @@
       ]
     },
     {
-      "id": "12",
+      "id": "22",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-05-28",
       "songs": [
@@ -47980,7 +47980,7 @@
       ]
     },
     {
-      "id": "13",
+      "id": "23",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-04",
       "songs": [
@@ -48018,7 +48018,7 @@
       ]
     },
     {
-      "id": "14",
+      "id": "24",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-11",
       "songs": [
@@ -48057,7 +48057,7 @@
       ]
     },
     {
-      "id": "15",
+      "id": "25",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-18",
       "songs": [
@@ -48092,7 +48092,7 @@
       ]
     },
     {
-      "id": "16",
+      "id": "26",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-06-25",
       "songs": [
@@ -48131,7 +48131,7 @@
       ]
     },
     {
-      "id": "17",
+      "id": "27",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-07-02",
       "songs": [
@@ -48167,7 +48167,7 @@
       ]
     },
     {
-      "id": "18",
+      "id": "28",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-07-09",
       "songs": [
@@ -48204,7 +48204,7 @@
       ]
     },
     {
-      "id": "19",
+      "id": "29",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-07-16",
       "songs": [
@@ -48240,7 +48240,7 @@
       ]
     },
     {
-      "id": "20",
+      "id": "38",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-09-17",
       "songs": [
@@ -48278,7 +48278,7 @@
       ]
     },
     {
-      "id": "21",
+      "id": "39",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-09-24",
       "songs": [
@@ -48317,7 +48317,7 @@
       ]
     },
     {
-      "id": "22",
+      "id": "40",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-10-01",
       "songs": [
@@ -48351,7 +48351,7 @@
       ]
     },
     {
-      "id": "23",
+      "id": "41",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-10-08",
       "songs": [
@@ -48391,7 +48391,7 @@
       ]
     },
     {
-      "id": "24",
+      "id": "42",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-10-15",
       "songs": [
@@ -48429,7 +48429,7 @@
       ]
     },
     {
-      "id": "25",
+      "id": "43",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-10-22",
       "songs": [
@@ -48464,7 +48464,7 @@
       ]
     },
     {
-      "id": "26",
+      "id": "44",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-10-29",
       "songs": [
@@ -48502,7 +48502,7 @@
       ]
     },
     {
-      "id": "27",
+      "id": "45",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-11-05",
       "songs": [
@@ -48539,7 +48539,7 @@
       ]
     },
     {
-      "id": "28",
+      "id": "46",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-11-12",
       "songs": [
@@ -48579,7 +48579,7 @@
       ]
     },
     {
-      "id": "29",
+      "id": "47",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-11-19",
       "songs": [
@@ -48617,7 +48617,7 @@
       ]
     },
     {
-      "id": "30",
+      "id": "48",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-11-26",
       "songs": [
@@ -48653,7 +48653,7 @@
       ]
     },
     {
-      "id": "31",
+      "id": "49",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-12-03",
       "songs": [
@@ -48691,7 +48691,7 @@
       ]
     },
     {
-      "id": "32",
+      "id": "50",
       "title": "Zeiglers wunderbare Welt des Pop",
       "date": "2020-12-10",
       "comment": "Best Of 2020",
