@@ -6513,6 +6513,7 @@
         {
           "id": "27",
           "date": "2011-07-05",
+          "checked": {"date": "2021-03-19", "user": "jg"},
           "songs": [
             [
               {
@@ -6617,7 +6618,7 @@
               },
               {
                 "title": "'Til I Die (Alternate Mix)",
-                "performer": "Beach Boys"
+                "performer": "The Beach Boys"
               },
               {
                 "title": "Flying",
@@ -6644,7 +6645,7 @@
               },
               {
                 "title": "I Need You/Isn't Life Strange/Without You",
-                "performer": "Pastors"
+                "performer": "The Pastors"
               },
               {
                 "title": "It'll Never Happen Again",
@@ -6659,11 +6660,11 @@
                 "performer": "Wings"
               },
               {
-                "title": "The Balld Of Sacco & Vanzetti",
+                "title": "The Ballad Of Sacco & Vanzetti",
                 "performer": "Scott Walker"
               },
               {
-                "title": "Matto, Caldo, Solid, Morto \n Girotondo",
+                "title": "Matto, Caldo, Solid, Morto... Girotondo",
                 "performer": "Ennio Morricone"
               },
               {
@@ -6679,7 +6680,7 @@
                 "performer": "Pat Metheny"
               },
               {
-                "title": "Harbour Mystery (live)",
+                "title": "Harbour Mystery (Live im Bremen 4 Studio)",
                 "performer": "The Superimposers"
               }
             ]
