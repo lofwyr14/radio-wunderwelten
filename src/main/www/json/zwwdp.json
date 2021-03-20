@@ -59428,6 +59428,7 @@
         {
           "id": "11",
           "date": "2021-03-18",
+          "checked": {"date": "2021-03-20", "user": "jg"},
           "songs": [
             [
               {
@@ -59444,6 +59445,11 @@
                 "time": "22:13",
                 "title": "Schutzhaft",
                 "performer": "Geschmeido"
+              },
+              {
+                "time": "22:18",
+                "title": "Be Young, Be Foolish, Be Happy",
+                "performer": "The Explorers Club"
               },
               {
                 "time": "22:21",
@@ -59520,7 +59526,7 @@
               {
                 "time": "23:16",
                 "title": "Every Other Day",
-                "performer": "Dandelion"
+                "performer": "The Dandelion"
               },
               {
                 "time": "23:20",
@@ -59545,7 +59551,7 @@
               {
                 "time": "23:37",
                 "title": "My Dream, My Adventure",
-                "performer": "Me and My Kites"
+                "performer": "Me And My Kites"
               },
               {
                 "time": "23:40",
