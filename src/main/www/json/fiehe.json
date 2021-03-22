@@ -4599,6 +4599,7 @@
     {
       "id": "8",
       "date": "2021-02-21",
+      "checked": {"date": "2021-03-22", "user": "jg"},
       "songs": [
         [
           { "time": "22:04",  "title": "Honey, Baby", "performer": "Grrrl Gang"},
@@ -4610,7 +4611,7 @@
           { "title": "Vocalize My Luv (Electric Remix)", "performer": "Jimi Tenor"},
           { "title": "Pele (MadMadMad Remix)", "performer": "IKOQWE"},
           { "title": "Bulubulu", "performer": "IKOQWE"},
-          { "title": "Dansu", "performer": "Aili x Transistorcake"},
+          { "title": "Dansu", "performer": "Aili & Transistorcake"},
           { "title": "Dry Fantasy", "performer": "Mogwai"},
           { "title": "Near Miss", "performer": "Grim Sickers feat. Scorcher"},
           { "title": "Wohin", "performer": "Monet192"},
