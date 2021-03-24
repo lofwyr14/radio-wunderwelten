@@ -4654,13 +4654,14 @@
     {
       "id": "9",
       "date": "2021-02-28",
+      "checked": {"date": "2021-03-24", "user": "jg"},
       "songs": [
         [
           { "time": "22:04",  "title": "Honey, Baby", "performer": "Grrrl Gang"},
           { "title": "Easy Way Out", "performer": "Roosevelt"},
           { "title": "We Go Party", "performer": "Mata Jones, Alfrank"},
           { "title": "Phase", "performer": "Martin Badder feat. Pablo:Rita"},
-          { "title": "Lee-Ann & Lucie", "performer": "Francois & The Atlas Mountains"},
+          { "title": "Lee-Ann & Lucie", "performer": "Frànçois & The Atlas Mountains"},
           { "title": "No Chorus", "performer": "Digga D feat. M1llionz"},
           { "title": "Seasonal FX", "performer": "Otik"},
           { "title": "Say Enough", "performer": "Calibre feat. DRS"},
@@ -4690,7 +4691,7 @@
           { "title": "3rd Party", "performer": "Otik"},
           { "title": "Airtight", "performer": "Subb-an"},
           { "title": "Streets", "performer": "RDL"},
-          { "title": "Clean Living", "performer": "Kreator"}
+          { "title": "Karmic Wheel", "performer": "Kreator"}
         ]
       ]
     },
