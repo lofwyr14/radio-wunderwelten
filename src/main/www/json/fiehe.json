@@ -4698,6 +4698,7 @@
     {
       "id": "10",
       "date": "2021-03-07",
+      "checked": {"date": "2021-03-27", "user": "jg"},
       "songs": [
         [
           { "time": "22:04",  "title": "Air Ali (Remix)", "performer": "Naya Ali feat. Connaisseur Ticaso "},
@@ -4739,8 +4740,7 @@
           { "title": "Queen Of The Night", "performer": "Teeth Agency"},
           { "title": "Pay Your Way In Pain", "performer": "St. Vincent"},
           { "title": "Heart", "performer": "The Weather Station"},
-          { "title": "High Treason", "performer": "Vapour Theories"},
-          { "title": "0594 Help", "performer": "Haich Ber Na"}
+          { "title": "High Treason", "performer": "Vapour Theories"}
         ]
       ]
     }
