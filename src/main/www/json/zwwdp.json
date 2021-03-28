@@ -7228,6 +7228,7 @@
         {
           "id": "29",
           "date": "2011-07-19",
+          "checked": {"date": "2021-03-28", "user": "jg"},
           "songs": [
             [
               {
@@ -7236,15 +7237,15 @@
                 "performer": "Everything But The Girl"
               },
               {
-                "title": "Where it all starts",
+                "title": "Where It All Starts",
                 "performer": "Thievery Corporation"
               },
               {
-                "title": "It's all history (feat. Ashley Beedle)",
+                "title": "It's All History (feat. Ashley Beedle)",
                 "performer": "The Superimposers"
               },
               {
-                "title": "The attention span of a butterfly",
+                "title": "The Attention Span of A Butterfly",
                 "performer": "Kid Loco"
               },
               {
@@ -7252,11 +7253,11 @@
                 "performer": "Clock Opera"
               },
               {
-                "title": "Date with the rain",
+                "title": "Date With The Rain",
                 "performer": "Eddie Kendricks"
               },
               {
-                "title": "A love from outer space (Tore Johansson Mix)",
+                "title": "A Love From Outer Space (UNSICHER: Tore Johansson Mix oder Standard-Version)",
                 "performer": "Tahiti 80"
               },
               {
@@ -7264,19 +7265,19 @@
                 "performer": "AM"
               },
               {
-                "title": "On and on (Live Breminale 2011)",
+                "title": "On And On (Live Breminale 2011)",
                 "performer": "Steve Cradock"
               },
               {
-                "title": "The apple (Live Breminale 2011)",
+                "title": "The Apple (Live Breminale 2011)",
                 "performer": "Steve Cradock"
               },
               {
-                "title": "Beware of falling rocks (Live Breminale 2011)",
+                "title": "Beware Of Falling Rocks (Live Breminale 2011)",
                 "performer": "Steve Cracock"
               },
               {
-                "title": "Someday man",
+                "title": "Someday Man",
                 "performer": "Pastors"
               },
               {
@@ -7284,50 +7285,50 @@
                 "performer": "Colorama"
               },
               {
-                "title": "He doesn't know why",
+                "title": "He Doesn't Know Why",
                 "performer": "Fleet Foxes"
               }
             ],
             [
               {
                 "time": "21:04",
-                "title": "The passenger",
+                "title": "The Passenger",
                 "performer": "Kid Loco"
               },
               {
-                "title": "Cracked actor",
+                "title": "Cracked Actor",
                 "performer": "David Bowie"
               },
               {
-                "title": "Shoot your dog",
+                "title": "Shoot Your Dog",
                 "performer": "Long"
               },
               {
-                "title": "The beach (Live Breminale 2011)",
+                "title": "The Beach (Live Breminale 2011)",
                 "performer": "The Superimposers"
               },
               {
-                "title": "Harbour mystery (Live Breminale 2011)",
+                "title": "Harbour Mystery (Live Breminale 2011)",
                 "performer": "The Superimposers"
               },
               {
-                "title": "Seeing is believing (Live Breminale 2011)",
+                "title": "Seeing Is Believing (Live Breminale 2011)",
                 "performer": "The Superimposers"
               },
               {
-                "title": "Would it be impossible (Live Breminale 2011)",
+                "title": "Would It Be Impossible (Live Breminale 2011)",
                 "performer": "The Superimposers"
               },
               {
-                "title": "See you",
+                "title": "See You",
                 "performer": "Depeche Mode"
               },
               {
-                "title": "Staring at the sea (Live Breminale 2011)",
+                "title": "Staring At The Sea (Live Breminale 2011)",
                 "performer": "The Blow Monkeys"
               },
               {
-                "title": "Everybody's talking (Live Breminale 2011)",
+                "title": "Everybody's Talking (Live Breminale 2011)",
                 "performer": "The Blow Monkeys"
               },
               {
@@ -7335,26 +7336,26 @@
                 "performer": "The Blow Monkeys"
               },
               {
-                "title": "Digging your Scene (Live Breminale 2011)",
+                "title": "Digging Your Scene (Live Breminale 2011)",
                 "performer": "The Blow Monkeys"
               }
             ],
             [
               {
                 "time": "22:04",
-                "title": "The last good day of the year",
+                "title": "The Last Good Day Of The Year",
                 "performer": "Costeau"
               },
               {
-                "title": "Idle I'm (Coloramas coloured in remix)",
+                "title": "Idle I'm (Coloramas Coloured In Remix)",
                 "performer": "John Stammers"
               },
               {
-                "title": "Lovely head",
+                "title": "Lovely Head",
                 "performer": "Goldfrapp"
               },
               {
-                "title": "Under my skin",
+                "title": "Under My Skin",
                 "performer": "Lozee"
               },
               {
@@ -7362,39 +7363,39 @@
                 "performer": "Holden"
               },
               {
-                "title": "Wallpaper for the soul",
+                "title": "Wallpaper For The Soul",
                 "performer": "Tahiti 80"
               },
               {
-                "title": "Nothing has been proved",
+                "title": "Nothing Has Been Proved",
                 "performer": "Dusty Springfield"
               },
               {
-                "title": "Elevator music",
+                "title": "Elevator Music – Just One Kiss",
                 "performer": "James MacDonald"
               },
               {
-                "title": "The song that no one knows",
+                "title": "The Song That No One Knows",
                 "performer": "The Magic Numbers"
               },
               {
-                "title": "Steppin out",
+                "title": "Steppin' Out",
                 "performer": "Electric Light Orchestra"
               },
               {
-                "title": "If I dream",
-                "performer": "Lem Arcon & his Orchestra"
+                "title": "If I Dream",
+                "performer": "Lem Arcon & His Orchestra"
               },
               {
-                "title": "If the stars were mine",
+                "title": "If The Stars Were Mine",
                 "performer": "Melody Gardot"
               },
               {
-                "title": "Cowboys & angels",
+                "title": "Cowboys & Angels",
                 "performer": "George Michael"
               },
               {
-                "title": "canoe",
+                "title": "NICHT GESPIELT?: Canoe",
                 "performer": "Expo"
               }
             ]
