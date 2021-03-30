@@ -7404,6 +7404,7 @@
         {
           "id": "30",
           "date": "2011-07-26",
+          "checked": {"date": "2021-03-30", "user": "jg"},
           "songs": [
             [
               {
@@ -7456,7 +7457,7 @@
                 "performer": "Apple Rabbits"
               },
               {
-                "title": "There is no tomorrow",
+                "title": "There Is No Tomorrow",
                 "performer": "The Brigadier"
               },
               {
@@ -7492,15 +7493,19 @@
               },
               {
                 "title": "Shopping (with Paul Weller)",
-                "performer": "Candie Brooker"
+                "performer": "Candie Payne"
               },
               {
-                "title": "The angler",
+                "title": "The Angler",
                 "performer": "Gary Brooker"
               },
               {
-                "title": "Party Music",
+                "title": "Romantic Lounge, Pt. 3",
                 "performer": "Piero Piccioni"
+              },
+              {
+                "title": "Alone Again (T2MM Edit)",
+                "performer": "Gilbert O'Sullivan"
               },
               {
                 "title": "Why Don't We Disappear",
@@ -7509,10 +7514,6 @@
               {
                 "title": "Doo Wop Property",
                 "performer": "The High Llamas"
-              },
-              {
-                "title": "Alone Again (T2MM Edit)",
-                "performer": "Gilbert O'Sullivan"
               },
               {
                 "title": "If You're Looking For A Way Out",
@@ -7538,7 +7539,7 @@
                 "performer": "Amy Winehouse"
               },
               {
-                "title": "Someone To Watch Over Me",
+                "title": "Someone To Watch Over Me (Demo)",
                 "performer": "Amy Winehouse"
               },
               {
@@ -7564,10 +7565,6 @@
               {
                 "title": "Smile",
                 "performer": "Nat King Cole"
-              },
-              {
-                "title": "A Dream Within A Dream",
-                "performer": "Alan Parsons Project"
               },
               {
                 "title": "I Wonder Where The Moments Go",
