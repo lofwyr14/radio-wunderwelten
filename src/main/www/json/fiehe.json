@@ -4827,7 +4827,7 @@
             ],
             [
               { "time": "00:04", "title": "Salute (Remarc Remxx)", "performer": "Danny Byrd feat. MC GQ"},
-              { "title": "Failsafe (als Vorveröffentlichung "Overvoiced mit Vogelgezwitcher und Männerstimme")", "performer": "Danny Byrd feat. London Elektricity"},
+              { "title": "Failsafe (als Vorveröffentlichung \"Overvoiced mit Vogelgezwitcher und Männerstimme\")", "performer": "Danny Byrd feat. London Elektricity"},
               { "title": "Still Non Stop", "performer": "Mr Joseph feat. T.R.A.C."},
               { "title": "Invisible Sounds (Random Movement Remix)", "performer": "T.R.A.C. feat. Level 2 & Christina Tamayo"},
               { "title": "Get Sun", "performer": "Hiatus Kaiyote feat. Arthur Verocai"},
@@ -4839,7 +4839,7 @@
               { "title": "Dr. No", "performer": "Meese X Hell"}
             ]
           ]
-        }
+        },
         {
           "id": "13",
           "date": "2021-03-28",
