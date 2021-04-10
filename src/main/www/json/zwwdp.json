@@ -65082,11 +65082,12 @@
         {
           "id": "13",
           "date": "2021-04-01",
+          "checked": {"date": "2021-04-10", "user": "jg"},
           "songs": [
             [
               {
                 "time": "22:04",
-                "title": "Fm",
+                "title": "FM",
                 "performer": "Nathan Haines with Damon Albarn"
               },
               {
@@ -65213,7 +65214,7 @@
               },
               {
                 "time": "23:51",
-                "title": "Be my Guru",
+                "title": "Be My Guru",
                 "performer": "Louise Le May"
               },
               {
