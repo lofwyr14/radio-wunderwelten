@@ -7780,6 +7780,7 @@
         {
           "id": "32",
           "date": "2011-08-09",
+          "checked": {"date": "2021-04-21", "user": "jg"},
           "songs": [
             [
               {
@@ -7796,12 +7797,16 @@
                 "performer": "Squeeze"
               },
               {
-                "title": "The Death of You And Me",
+                "title": "The Death Of You And Me",
                 "performer": "Noel Gallagher's High Flying Birds"
               },
               {
                 "title": "Her Hollow Ways",
                 "performer": "Danger Mouse & Daniele Luppi"
+              },
+              {
+                "title": "Chinatown",
+                "performer":  "Destroyer"
               },
               {
                 "title": "Spin It Around",
@@ -7812,12 +7817,16 @@
                 "performer": "Honeybus"
               },
               {
-                "title": "La Dolce Vita",
+                "title": "My Other Voice",
                 "performer": "Sparks"
               },
               {
-                "title": "Sad in One Hour",
-                "performer": "Plug49"
+                "title": "Sad In One Hour",
+                "performer": "Plus49"
+              },
+              {
+                "title": "Grand Master Duff",
+                "performer": "Duff Disco"
               },
               {
                 "title": "Starlite",
@@ -7826,10 +7835,6 @@
               {
                 "title": "Justine",
                 "performer": "The Kramford Look"
-              },
-              {
-                "title": "Grand Master Duff",
-                "performer": "Duff Disco"
               },
               {
                 "title": "Web Of Deception",
@@ -7867,7 +7872,7 @@
                 "performer": "The Superimposers"
               },
               {
-                "title": "Make the Grade",
+                "title": "Make The Grade",
                 "performer": "Jack Conte"
               },
               {
@@ -7907,7 +7912,7 @@
               },
               {
                 "title": "Night And Day",
-                "performer": "Cole Porter"
+                "performer": "Everything But The Girl"
               },
               {
                 "title": "Don't Forget The Sun",
@@ -7934,7 +7939,7 @@
                 "performer": "Brent Cash"
               },
               {
-                "title": "Mac Arthur Park",
+                "title": "Macarthur Park",
                 "performer": "Diana Ross"
               },
               {
