@@ -65084,6 +65084,7 @@
         {
           "id": "14",
           "date": "2021-04-08",
+          "checked": {"date": "2021-04-15", "user": "jg"},
           "songs": [
             [
               {
@@ -65092,55 +65093,68 @@
                 "performer": "Aztec Camera"
               },
               {
+                "time": "22:07",
                 "title": "Love Me Do",
                 "performer": "Sandie Shaw"
               },
               {
+                "time": "22:10",
                 "title": "Do You Ever Wonder?",
                 "performer": "Triptides"
               },
               {
+                "time": "22:14",
                 "title": "New Normal",
-                "performer": "Louris, Gary"
+                "performer": "Gary Louris"
               },
               {
+                "time": "22:18",
                 "title": "Flying",
                 "performer": "Orwell"
               },
               {
+                "time": "22:20",
                 "title": "Lawr Yn Y Ddinas Fawr",
                 "performer": "Carwyn Ellis & Rio 18"
               },
               {
+                "time": "22:24",
                 "title": "Some Oceans Away",
                 "performer": "Hearts Hearts"
               },
               {
+                "time": "22:30",
                 "title": "Should've Bounced",
                 "performer": "Portable Radio"
               },
               {
+                "time": "22:33",
                 "title": "When Life Has Lost Its Meaning",
                 "performer": "Jay-Jay Johanson"
               },
               {
+                "time": "22:38",
                 "title": "Colors",
                 "performer": "Black Pumas"
               },
               {
+                "time": "22:43",
                 "title": "Stranger In Paradise",
                 "performer": "Saint Etienne"
               },
               {
+                "time": "22:46",
                 "title": "Plants",
                 "performer": "Nicholas Krgovich"
               },
               {
-                "title": "Boy From Michigan",
+                "time": "22:49",
+                "title": "Boy From Michigan (Edit)",
                 "performer": "John Grant"
               },
               {
-                "title": "L'automobile",
+                "time": "22:55",
+                "title": "Velociped",
                 "performer": "Zofka"
               }
             ],
@@ -65151,50 +65165,62 @@
                 "performer": "Sinéad O'Connor"
               },
               {
+                "time": "23:07",
                 "title": "Seasons",
                 "performer": "Brianna Kocka"
               },
               {
+                "time": "23:10",
                 "title": "Holiday time",
                 "performer": "Hildegard Knef"
               },
               {
+                "time": "23:15",
                 "title": "Slip Into Something More Comfortable",
                 "performer": "Kinobe"
               },
               {
+                "time": "23:20",
                 "title": "Cassandra",
                 "performer": "Louise Le May"
               },
               {
+                "time": "23:23",
                 "title": "Footsteps",
                 "performer": "David Kitt"
               },
               {
+                "time": "23:27",
                 "title": "You're The First, The Last, My Everything",
                 "performer": "Nancy Wallace"
               },
               {
-                "title": "Who we are",
+                "time": "23:32",
+                "title": "Who We Are",
                 "performer": "Camel"
               },
               {
-                "title": "Close To You (Album version)",
+                "time": "23:39",
+                "title": "Close To You",
                 "performer": "Diana Ross"
               },
               {
-                "title": "Sofa Rockers",
+                "time": "23:43",
+                "title": "Sofa Rockers (Richard Dorfmeister Mix)",
                 "performer": "Sofa Surfers"
               },
               {
+                "time": "23:48",
                 "title": "Moon River",
                 "performer": "Sara Watkins"
               },
               {
+                "time": "23:51",
                 "title": "Kristabel",
                 "performer": "Players"
               },
               {
+                "time": "23:56",
                 "title": "Good Night",
                 "performer": "The Beatles"
               }
