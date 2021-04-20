@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # vermutlich immer um 2 erhöhen
-ID=172
+ID=174
 
 # aktuelles Jahr
 YEAR=2021
@@ -10,7 +10,9 @@ IDWEEKOFFSET=72
 # 4 = Donnerstags
 DAYOFWEEK=4
 
-URL=https://www.bremenzwei.de/sendungen/zeiglers-wunderbare-welt-des-pop-${ID}.html
+#hack
+URL=https://www.bremenzwei.de/audios/webchannel/webchannel-zeigler-pop-108.html
+#URL=https://www.bremenzwei.de/sendungen/zeiglers-wunderbare-welt-des-pop-${ID}.html
 
 function week2date () {
   local year=$1
