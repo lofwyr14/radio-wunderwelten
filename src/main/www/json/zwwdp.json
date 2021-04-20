@@ -7958,6 +7958,130 @@
           ]
         },
         {
+          "id": "33",
+          "date": "2011-08-16",
+          "checked": {"date": "2021-04-18", "user": "jg"},
+          "songs": [
+            [
+              {
+                "time": "20:04", "title": "1,000 Times", "performer": "Tahiti 80"
+              },
+              {
+                "title": "Bee Stings",  "performer": "Snippet"
+              },
+              {
+                "title": "Be My Friend Awhile",  "performer": "Pugwash"
+              },
+              {
+                "title": "Perfect Lovesong",  "performer": "The Divine Comedy"
+              },
+              {
+                "title": "Magic Love",  "performer": "Bent"
+              },
+              {
+                "title": "The Way I Feel",  "performer": "Jonathan Wilson"
+              },
+              {
+                "title": "The Way I Feel Inside",  "performer": "The Zombies"
+              },
+              {
+                "title": "Juxtaposed With U",  "performer": "Super Furry Animals"
+              },
+              {
+                "title": "Time Is Tight",  "performer": "Booker T. & The MGs"
+              },
+              {
+                "title": "Spin It Around",  "performer": "AM & Shawn Lee"
+              },
+              {
+                "title": "Kosmos",  "performer": "Paul Weller"
+              },
+              {
+                "title": "There’s Nothing In The Water We Can’t Fight",  "performer": "Cloud Control"
+              },
+              {
+                "title": "Space Oddity (Appo Remix)",  "performer": "David Bowie"
+              }
+            ],
+            [
+              {
+                "time": "21:04", "title": "Think For A Minute", "performer": "The Housemartins"
+              },
+              {
+                "title": "See You Mine (Coda)", "performer": "Pugwash"
+              },
+              {
+                "title": "Busfahrt",  "performer": "Erdmöbel"
+              },
+              {
+                "title": "Song For America",  "performer": "Destroyer"
+              },
+              {
+                "title": "Baby Now That I’ve Found You",  "performer": "The Foundations"
+              },
+              {
+                "title": "The Cat Is Missing",  "performer": "The Kramford Look"
+              },
+              {
+                "title": "Happiness (Morgan Geist's Port Authority Remix)",  "performer": "Jonathan Jeremiah"
+              },
+              {
+                "title": "New Frontier (Deepspirits So What Edit)",  "performer": "Donald Fagen"
+              },
+              {
+                "title": "La Dolce Vita",  "performer": "Sparks"
+              },
+              {
+                "title": "Smitten",  "performer": "The Simple Carnival"
+              },
+              {
+                "title": "Funky For You",  "performer": "Deadbeats"
+              },
+              {
+                "title": "Harmony Around My Table",  "performer": "Tindersticks"
+              }
+            ],
+            [
+              {
+                "time": "22:04", "title": "Alone Again (Remix)", "performer": "Gilbert O’Sullivan"
+              },
+              {
+                "title": "Friday Night", "performer": "Stuart A. Staples"
+              },
+              {
+                "title": "Moments In Love",  "performer": "The Art Of Noise"
+              },
+              {
+                "title": "Montague Terrace (In Blue)",  "performer": "Scott Walker"
+              },
+              {
+                "title": "Cologne",  "performer": "Ben Folds"
+              },
+              {
+                "title": "Make It With You (Appo Remix)",  "performer": "Bread"
+              },
+              {
+                "title": "Each And Everyone",  "performer": "Everything But The Girl"
+              },
+              {
+                "title": "Four Days",  "performer": "Pugwash"
+              },
+              {
+                "title": "It’s Your Time",  "performer": "Bergen White"
+              },
+              {
+                "title": "Gone Castaway",  "performer": "Downpilot"
+              },
+              {
+                "title": "I Don’t Want To Hear It Anymore\t",  "performer": "The Walker Brothers"
+              },
+              {
+                "title": "Summer Madness",  "performer": "Kool & The Gang"
+              }
+            ]
+          ]
+        },
+        {
           "id": "34",
           "date": "2011-08-23",
           "songs": [
@@ -65084,6 +65208,7 @@
         {
           "id": "14",
           "date": "2021-04-08",
+          "checked": {"date": "2021-04-15", "user": "jg"},
           "songs": [
             [
               {
@@ -65092,110 +65217,135 @@
                 "performer": "Aztec Camera"
               },
               {
-                "title": "Love me do",
-                "performer": "Shaw, Sandie"
+                "time": "22:07",
+                "title": "Love Me Do",
+                "performer": "Sandie Shaw"
               },
               {
-                "title": "Do you ever wonder?",
+                "time": "22:10",
+                "title": "Do You Ever Wonder?",
                 "performer": "Triptides"
               },
               {
-                "title": "New normal",
-                "performer": "Louris, Gary"
+                "time": "22:14",
+                "title": "New Normal",
+                "performer": "Gary Louris"
               },
               {
+                "time": "22:18",
                 "title": "Flying",
                 "performer": "Orwell"
               },
               {
+                "time": "22:20",
                 "title": "Lawr Yn Y Ddinas Fawr",
                 "performer": "Carwyn Ellis & Rio 18"
               },
               {
-                "title": "Some oceans away",
+                "time": "22:24",
+                "title": "Some Oceans Away",
                 "performer": "Hearts Hearts"
               },
               {
-                "title": "Should've bounced",
+                "time": "22:30",
+                "title": "Should've Bounced",
                 "performer": "Portable Radio"
               },
               {
-                "title": "When life has list its meaning",
-                "performer": "Johanson, Jay-Jay"
+                "time": "22:33",
+                "title": "When Life Has Lost Its Meaning",
+                "performer": "Jay-Jay Johanson"
               },
               {
+                "time": "22:38",
                 "title": "Colors",
                 "performer": "Black Pumas"
               },
               {
-                "title": "Stranger in paradise",
+                "time": "22:43",
+                "title": "Stranger In Paradise",
                 "performer": "Saint Etienne"
               },
               {
+                "time": "22:46",
                 "title": "Plants",
-                "performer": "Krgovich, Nicholas"
+                "performer": "Nicholas Krgovich"
               },
               {
-                "title": "Boy from Michigan",
-                "performer": "Grant, John"
+                "time": "22:49",
+                "title": "Boy From Michigan (Edit)",
+                "performer": "John Grant"
               },
               {
-                "title": "L'automobile",
+                "time": "22:55",
+                "title": "Velociped",
                 "performer": "Zofka"
               }
             ],
             [
               {
                 "time": "23:04",
-                "title": "Secret love",
-                "performer": "O'Connor, Sinéad"
+                "title": "Secret Love",
+                "performer": "Sinéad O'Connor"
               },
               {
+                "time": "23:07",
                 "title": "Seasons",
-                "performer": "Kocka, Brianna"
+                "performer": "Brianna Kocka"
               },
               {
+                "time": "23:10",
                 "title": "Holiday time",
-                "performer": "Knef, Hildegard"
+                "performer": "Hildegard Knef"
               },
               {
-                "title": "Slip into something more comfortable",
+                "time": "23:15",
+                "title": "Slip Into Something More Comfortable (Stephen Hague 2016 Mix)",
                 "performer": "Kinobe"
               },
               {
+                "time": "23:20",
                 "title": "Cassandra",
-                "performer": "Le May, Louise"
+                "performer": "Louise Le May"
               },
               {
+                "time": "23:23",
                 "title": "Footsteps",
-                "performer": "Kitt, David"
+                "performer": "David Kitt"
               },
               {
-                "title": "You're the first, the last, my everything",
-                "performer": "Wallace, Nancy"
+                "time": "23:27",
+                "title": "You're The First, The Last, My Everything",
+                "performer": "Nancy Wallace"
               },
               {
-                "title": "Who we are",
+                "time": "23:32",
+                "title": "Who We Are",
                 "performer": "Camel"
               },
               {
-                "title": "Close to you (Album version)",
-                "performer": "Ross, Diana"
+                "time": "23:39",
+                "title": "Close To You",
+                "performer": "Diana Ross"
               },
               {
-                "title": "Sofa rockers",
+                "time": "23:43",
+                "title": "Sofa Rockers (Richard Dorfmeister Mix)",
                 "performer": "Sofa Surfers"
               },
               {
-                "title": "Moon river",
-                "performer": "Watkins, Sara"
+                "time": "23:48",
+                "title": "Moon River",
+                "performer": "Sara Watkins"
               },
               {
+                "time": "23:51",
                 "title": "Kristabel",
                 "performer": "Players"
               },
               {
-                "title": "Good night",
+                "time": "23:56",
+                "title": "Good Night",
                 "performer": "The Beatles"
               }
             ]
