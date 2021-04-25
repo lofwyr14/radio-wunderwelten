@@ -4894,6 +4894,7 @@
         {
           "id": "14",
           "date": "2021-04-04",
+          "checked": {"date": "2021-04-25", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Flower Rain", "performer": "Gianni Brezzo"},
@@ -4906,12 +4907,12 @@
               { "title": "All A Bit Mad", "performer": "Wayward"},
               { "title": "Cardboard Man", "performer": "The Cool Greenhouse"},
               { "title": "Strong Feelings", "performer": "Dry Cleaning"},
-              { "title": "Little Secret (Yulia Niko Rmx)", "performer": "Quenum"},
+              { "title": "Little Secret (Yulia Niko Remix)", "performer": "Quenum"},
               { "title": "Shook", "performer": "Gullen feat. Name One"}
             ],
             [
               { "time": "23:04", "title": "Young Lies", "performer": "Poté feat. Damon Albarn"},
-              { "title": "Kasai Munene (Ekiti Sound Rmx)", "performer": "Kasai Allstars"},
+              { "title": "Kasai Munene (Ekiti Sound Remix)", "performer": "Kasai Allstars"},
               { "title": "Pele (MadMadMad Remix)", "performer": "IKOQWE"},
               { "title": "Pari Pari", "performer": "Aili & Transistorcake"},
               { "title": "Digital Illusion", "performer": "Ken Hayakawa"},
@@ -4928,10 +4929,10 @@
               { "time": "00:04", "title": "John Wick", "performer": "Dry Cleaning"},
               { "title": "Fire At Static Valley", "performer": "Godspeed You! Black Emperor"},
               { "title": "Oh Oh Yeah", "performer": "Morcheeba"},
-              { "title": "Do You Feel Like We Do", "performer": "Peter Frampton"},
+              { "title": "Do You Feel Like We Do (Live)", "performer": "Peter Frampton"},
               { "title": "Hold Tight", "performer": "Gianni Brezzo feat. Otis Junior"},
-              { "title": "Cade Voce", "performer": "Joao Selva"},
-              { "title": "Nobody Knows We Are Fun", "performer": "Chai"},
+              { "title": "Cadê Você", "performer": "João Selva"},
+              { "title": "Nobody Knows We Are Fun", "per  former": "Chai"},
               { "title": "Ponytrip", "performer": "Yanik Park"},
               { "title": "Nahuel Huapi", "performer": "Bilderbuch"},
               { "title": "Reachin", "performer": "Sophia Essél"}
