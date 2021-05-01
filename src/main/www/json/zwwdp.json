@@ -8252,6 +8252,7 @@
         {
           "id": "35",
           "date": "2011-08-30",
+          "checked": {"date": "2021-05-01", "user": "jg"},
           "songs": [
             [
               {
@@ -8410,7 +8411,7 @@
                 "performer": "Mummers"
               },
               {
-                "title": "I Love You Sleepyhead",
+                "title": "I Love You, Sleepyhead",
                 "performer": "Lanterns On The Lake"
               },
               {
@@ -8419,7 +8420,7 @@
               },
               {
                 "title": "Be My Guru",
-                "performer": "Louise LeMay"
+                "performer": "Louise Le May"
               }
             ]
           ]
@@ -65511,10 +65512,11 @@
         {
           "id":"16",
           "date":"2021-04-22",
+          "checked": {"date": "2021-04-26", "user": "jg"},
           "songs":[
             [
               {"time":"22:04","title":"Skin Deep","performer":"The Stranglers"},
-              {"time":"22:07","title":"Please Tell Me","performer":"Valérie Etienne"},
+              {"time":"22:07","title":"Please Tell Me","performer":"Colorama"},
               {"time":"22:11","title":"In The Garden","performer":"Real Estate"},
               {"time":"22:17","title":"Beaming","performer":"Vinyl Williams"},
               {"time":"22:21","title":"Craigwrong","performer":"The Emerald Isle"},
@@ -65526,24 +65528,169 @@
               {"time":"22:42","title":"In My Drunken Dreamscape","performer":"Olivier Rocabois"},
               {"time":"22:48","title":"Henry","performer":"Brandon Schott"},
               {"time":"22:51","title":"Gameplay","performer":"The Brooks"},
-              {"time":"22:55","title":"Ploy","performer":"Silvertwin"},
+              {"time":"22:55","title":"Ploy (Edit)","performer":"Silvertwin"},
               {"time":"22:59","title":"Juste Comme Ça","performer":"Fred Versailles"}
             ],
             [
               {"time":"23:04","title":"Find Somebody To Love","performer":"Dante Elephante"},
               {"time":"23:07","title":"That CanT Be","performer":"Video Age"},
-              {"time":"23:13","title":"Lazy - Es Kommen Faule Tage","performer":"Christian Günther"},
+              {"time":"23:13","title":"Lazy - Es kommen faule Tage","performer":"Christian Günther"},
               {"time":"23:15","title":"Sång För John Och Jimi","performer":"Janne Schaffer"},
               {"time":"23:20","title":"Let 'Em In","performer":"The Polyphonic Spree"},
               {"time":"23:26","title":"Next Best Thing","performer":"Floor Cry feat. Vansire"},
               {"time":"23:30","title":"Wallpaper For The Soul","performer":"Tahiti 80"},
               {"time":"23:34","title":"Impression","performer":"Ducktails"},
               {"time":"23:38","title":"We'Ve Only Just Begun","performer":"The Singers Unlimited"},
-              {"time":"23:42","title":"Sure Thing","performer":"Maston"},
+              {"time":"23:42","title":"Sure Thing (33 rpm)","performer":"Maston"},
               {"time":"23:46","title":"Beaming (Slowed Down)","performer":"Vinyl Williams"},
               {"time":"23:50","title":"Three Miles Down","performer":"Gil Scott-Heron and Brian Jackson"},
               {"time":"23:55","title":"Clair De Lune","performer":"Sébastien Tellier"},
               {"time":"23:58","title":"Good Night","performer":"The Beatles"}
+            ]
+          ]
+        },
+        {
+          "id": "17",
+          "date": "2021-04-29",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Behind The Wall Of Sleep",
+                "performer": "The Smithereens"
+              },
+              {
+                "time": "22:07",
+                "title": "Radio Ga Ga",
+                "performer": "Pugwash"
+              },
+              {
+                "time": "22:10",
+                "title": "Shades Of Blue",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "22:13",
+                "title": "In Our Dreams",
+                "performer": "Teenage Fanclub"
+              },
+              {
+                "time": "22:17",
+                "title": "Arise Sir Richard",
+                "performer": "Olivier Rocabois"
+              },
+              {
+                "time": "22:22",
+                "title": "Calling Your Name",
+                "performer": "The Autumn Defense"
+              },
+              {
+                "time": "22:26",
+                "title": "We, Us The Pharaohs",
+                "performer": "Maxwell Farrington & Le SuperHomard"
+              },
+              {
+                "time": "22:30",
+                "title": "One Last Thing",
+                "performer": "The Loch Ness Mouse"
+              },
+              {
+                "time": "22:34",
+                "title": "Pretty Girls",
+                "performer": "Ethan Gold"
+              },
+              {
+                "time": "22:46",
+                "title": "Pretty Boys",
+                "performer": "Khruangbin Paul McCartney"
+              },
+              {
+                "time": "22:52",
+                "title": "(Love Is) Thicker Than Water",
+                "performer": "Pop 4"
+              },
+              {
+                "time": "22:56",
+                "title": "Vacancy",
+                "performer": "The Coral"
+              },
+              {
+                "time": "22:58",
+                "title": "Champagne!",
+                "performer": "Tim Gane & Sean O'Hagan"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Lessons In Love",
+                "performer": "Greg Blackman"
+              },
+              {
+                "time": "23:09",
+                "title": "Rainy Night In Georgia",
+                "performer": "Tony Joe White & Boozoo Bajou"
+              },
+              {
+                "time": "23:15",
+                "title": "Never My Love",
+                "performer": "The Polyphonic Spree"
+              },
+              {
+                "time": "23:19",
+                "title": "You Don't Wanna Be My Baby",
+                "performer": "Aaron Frazer"
+              },
+              {
+                "time": "23:23",
+                "title": "Sunny Afternoon",
+                "performer": "Benny Sings"
+              },
+              {
+                "time": "23:25",
+                "title": "Stranger In Paradise",
+                "performer": "Dorothy Ashby"
+              },
+              {
+                "time": "23:30",
+                "title": "Angelino Hight",
+                "performer": "Olden Yolk"
+              },
+              {
+                "time": "23:33",
+                "title": "Only A Fool",
+                "performer": "Ducktails"
+              },
+              {
+                "time": "23:36",
+                "title": "From Paris With Love",
+                "performer": "Melody Gardot"
+              },
+              {
+                "time": "23:41",
+                "title": "Sambeven",
+                "performer": "Os Barbapapas"
+              },
+              {
+                "time": "23:43",
+                "title": "Sundown",
+                "performer": "Hannah Jadagu"
+              },
+              {
+                "time": "23:47",
+                "title": "Spooky",
+                "performer": "Cal Tjader"
+              },
+              {
+                "time": "23:55",
+                "title": "Chim Chim Cher-Ee",
+                "performer": "Turin Brakes"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
             ]
           ]
         }
