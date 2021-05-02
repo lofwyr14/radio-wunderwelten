@@ -65552,6 +65552,7 @@
         {
           "id": "17",
           "date": "2021-04-29",
+          "checked": {"date": "2021-05-02", "user": "jg"},
           "songs": [
             [
               {
@@ -65599,6 +65600,8 @@
                 "title": "Pretty Girls",
                 "performer": "Ethan Gold"
               },
+              {"time":"22:38", "title":"Beaming (Speed Up)", "performer":"Vinyl Williams"},
+              {"time":"22:42", "title":"Let There Be Music", "performer":"Rehab Sprout"},
               {
                 "time": "22:46",
                 "title": "Pretty Boys",
@@ -65680,6 +65683,11 @@
                 "time": "23:47",
                 "title": "Spooky",
                 "performer": "Cal Tjader"
+              },
+              {
+                "time": "23:51",
+                "title": "Caramel (Vietnam Rose Remix)",
+                "performer": "Suzanne Vega & Paul Nice"
               },
               {
                 "time": "23:55",
