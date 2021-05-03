@@ -4942,6 +4942,7 @@
         {
           "id": "15",
           "date": "2021-04-11",
+          "checked": {"date": "2021-04-28", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "What So You Stand For", "performer": "Low Island"},
@@ -4994,6 +4995,7 @@
         {
           "id": "16",
           "date": "2021-04-18",
+          "checked": {"date": "2021-05-03", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Heat", "performer": "Saccades"},
@@ -5003,12 +5005,12 @@
               { "title": "Talking", "performer": "London Grammar"},
               { "title": "Break", "performer": "Julia Stone"},
               { "title": "Top Ten", "performer": "Crafty 893 feat. Manga Saint Hilare"},
-              { "title": "Battle Stations (Benny Ill Rmx)", "performer": "Drumskull"},
+              { "title": "Battle Stations (Benny Ill Remix)", "performer": "Drumskull"},
               { "title": "Movement", "performer": "Modeselektor feat. Paul St Hilaire"},
               { "title": "Keller", "performer": "Modeselektor"},
               { "title": "Ascendance", "performer": "My Nu Leng & Flava D"},
-              { "title": "Highway (Kevin Haskins Dub)", "performer": "Automatic"},
-              { "title": "Megapunk (TSHA Rmx)", "performer": "Ela Minus"}
+              { "title": "Highway (Kevin Haskins Dub Remix)", "performer": "Automatic"},
+              { "title": "Megapunk (TSHA Remix)", "performer": "Ela Minus"}
             ],
             [
               { "time": "23:04", "title": "Black And White", "performer": "San Holo"},
@@ -5040,11 +5042,55 @@
               { "title": "Toxisch", "performer": "Haiyti"}
             ]
           ]
+        },
+        {
+          "id": "17",
+          "date": "2021-04-25",
+          "songs": [
+            [
+              { "time": "22:04", "title": "The End Of The World", "performer": "The Cool Greenhouse"},
+              { "title": "You Were Tryin", "performer": "Splonie"},
+              { "title": "The Princess And The Clock", "performer": "Kero Kero Bonito"},
+              { "title": "Oki", "performer": "Aili & Transistorcake"},
+              { "title": "No Shade (DJ Supa D & Mr Taffa Rmx)", "performer": "Soriyah Kelly, Baby Elz & ChynaSix"},
+              { "title": "Pantsula for Life (Floyd Lavine Re-Edit)", "performer": "Kabelo"},
+              { "title": "Fürst Von Metternich", "performer": "International Music"},
+              { "title": "Gold", "performer": "Two Medicine"},
+              { "title": "Sun In Your Eyes (Spencer Brown Rmx)", "performer": "Above & Beyond"},
+              { "title": "Take Me There", "performer": "Gardenstate & GVN"},
+              { "title": "Stamina Creux", "performer": "GLXY"}
+            ],
+            [
+              { "time": "23:04", "title": "Urlaub Von Mir", "performer": "Drangsal"},
+              { "title": "Ein Schöner Traum", "performer": "Luis Ake"},
+              { "title": "Hate Myself (Georgia Remix)", "performer": "Dodie"},
+              { "title": "Luminosa", "performer": "Anunaku"},
+              { "title": "Ninfea", "performer": "Anunaku"},
+              { "title": "Introvert", "performer": "Little Simz"},
+              { "title": "Pots N Pans", "performer": "Young Thug feat. Lil Duke & NAV"},
+              { "title": "I Ran Away", "performer": "Dinosaur Jr."},
+              { "title": "On The Road Again", "performer": "Eat"},
+              { "title": "Höhle Der Vernunft", "performer": "International Music"},
+              { "title": "Bussifame", "performer": "Dawn Richard"}
+            ],
+            [
+              { "time": "00:04", "title": "Sip", "performer": "Horrid1"},
+              { "title": "Henny & Reefer", "performer": "Chillinit"},
+              { "title": "Cherry Blossom", "performer": "AJ Tracey"},
+              { "title": "Wassup", "performer": "Cordae feat. Young Thug"},
+              { "title": "Judgement", "performer": "Bukkha"},
+              { "title": "No Prisoners", "performer": "Degs feat. Evil B, De:tune & Citrusfly"},
+              { "title": "Attune", "performer": "Alfa Mist"},
+              { "title": "Shell Star", "performer": "Dans Dans"},
+              { "title": "Californian Soil", "performer": "London Grammar"},
+              { "title": "Necklace", "performer": "Cory Hanson"},
+              { "title": "Bird Of Paradise", "performer": "Cory Hanson"},
+              { "title": "There´s A Woman", "performer": "Flyte"},
+              { "title": "Wassermann", "performer": "International Music"},
+              { "title": "Atlas Daze", "performer": "Aloa Input"}
+            ]
+          ]
         }
-
-
-
-
       ]
     }
   ]
