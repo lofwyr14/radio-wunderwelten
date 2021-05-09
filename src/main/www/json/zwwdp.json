@@ -6846,7 +6846,7 @@
               },
               {
                 "title": "Radium Smile",
-                "performer": "Louise LeMay"
+                "performer": "Louise Le May"
               },
               {
                 "title": "When The Cookie Jar Is Empty",
@@ -8808,6 +8808,7 @@
         {
           "id": "39",
           "date": "2011-09-27",
+          "checked": {"date": "2021-05-09", "user": "jg"},
           "songs": [
             [
               {
@@ -8867,7 +8868,7 @@
                 "performer": "Atlanta Rhythm Section"
               },
               {
-                "title": "Gatekeeper (Mix)",
+                "title": "Gatekeeper (Full Mix)",
                 "performer": "Feist"
               },
               {
@@ -8904,7 +8905,7 @@
               },
               {
                 "title": "L'ora dell amore",
-                "performer": "Camaleonti"
+                "performer": "I Camaleonti"
               },
               {
                 "title": "Polkadots And Moonbeams",
@@ -8916,7 +8917,7 @@
               },
               {
                 "title": "On Broadway",
-                "performer": "The BIble"
+                "performer": "The Bible"
               },
               {
                 "title": "September Nowak",
@@ -8942,6 +8943,10 @@
                 "performer": "Rare Bird"
               },
               {
+                "title": "About A Girl",
+                "performer": "Pete... (### UNKLAR, NAME NICHT VESTÄNFDLICH ###)"
+              },
+              {
                 "title": "Worry Walks Beside Me",
                 "performer": "Michael Kiwanuka"
               },
@@ -8955,7 +8960,7 @@
               },
               {
                 "title": "Cassandra",
-                "performer": "Louise LeMay"
+                "performer": "Louise Le May"
               },
               {
                 "title": "Still Fighting It",
