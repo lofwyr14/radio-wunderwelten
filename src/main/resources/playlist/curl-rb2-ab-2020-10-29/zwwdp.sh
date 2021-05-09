@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # vermutlich immer um 2 erhöhen
-ID=178
+ID=180
 
 # aktuelles Jahr
 YEAR=2021
@@ -11,7 +11,9 @@ IDWEEKOFFSET=72
 DAYOFWEEK=4
 
 #hack
+#webchannel
 URL=https://www.bremenzwei.de/audios/webchannel/webchannel-zeigler-pop-108.html
+#Sendungen
 #URL=https://www.bremenzwei.de/sendungen/zeiglers-wunderbare-welt-des-pop-${ID}.html
 
 function week2date () {
