@@ -5046,18 +5046,19 @@
         {
           "id": "17",
           "date": "2021-04-25",
+          "checked": {"date": "2021-05-18", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "The End Of The World", "performer": "The Cool Greenhouse"},
               { "title": "You Were Tryin", "performer": "Splonie"},
               { "title": "The Princess And The Clock", "performer": "Kero Kero Bonito"},
               { "title": "Oki", "performer": "Aili & Transistorcake"},
-              { "title": "No Shade (DJ Supa D & Mr Taffa Rmx)", "performer": "Soriyah Kelly, Baby Elz & ChynaSix"},
+              { "title": "No Shade (DJ Supa D & Mr Taffa Remix)", "performer": "Soriyah Kelly, Baby Elz & ChynaSix"},
               { "title": "Pantsula for Life (Floyd Lavine Re-Edit)", "performer": "Kabelo"},
               { "title": "Fürst Von Metternich", "performer": "International Music"},
               { "title": "Gold", "performer": "Two Medicine"},
-              { "title": "Sun In Your Eyes (Spencer Brown Rmx)", "performer": "Above & Beyond"},
-              { "title": "Take Me There", "performer": "Gardenstate & GVN"},
+              { "title": "Sun In Your Eyes (Spencer Brown Remix)", "performer": "Above & Beyond"},
+              { "title": "Take Me There (Extended Mix)", "performer": "Gardenstate & GVN"},
               { "title": "Stamina Creux", "performer": "GLXY"}
             ],
             [
@@ -5071,7 +5072,7 @@
               { "title": "I Ran Away", "performer": "Dinosaur Jr."},
               { "title": "On The Road Again", "performer": "Eat"},
               { "title": "Höhle Der Vernunft", "performer": "International Music"},
-              { "title": "Bussifame", "performer": "Dawn Richard"}
+              { "title": "Boomerang", "performer": "Dawn Richard"}
             ],
             [
               { "time": "00:04", "title": "Sip", "performer": "Horrid1"},
