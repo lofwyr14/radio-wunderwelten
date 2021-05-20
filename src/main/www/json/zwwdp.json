@@ -7228,7 +7228,10 @@
         {
           "id": "29",
           "date": "2011-07-19",
-          "checked": {"date": "2021-03-28", "user": "jg"},
+          "checked": {
+            "date": "2021-03-28",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -7404,7 +7407,10 @@
         {
           "id": "30",
           "date": "2011-07-26",
-          "checked": {"date": "2021-03-30", "user": "jg"},
+          "checked": {
+            "date": "2021-03-30",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -7588,7 +7594,10 @@
         {
           "id": "31",
           "date": "2011-08-02",
-          "checked": {"date": "2021-04-05", "user": "jg"},
+          "checked": {
+            "date": "2021-04-05",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -7806,7 +7815,7 @@
               },
               {
                 "title": "Chinatown",
-                "performer":  "Destroyer"
+                "performer": "Destroyer"
               },
               {
                 "title": "Spin It Around",
@@ -7960,123 +7969,166 @@
         {
           "id": "33",
           "date": "2011-08-16",
-          "checked": {"date": "2021-04-18", "user": "jg"},
+          "checked": {
+            "date": "2021-04-18",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "time": "20:04", "title": "1,000 Times", "performer": "Tahiti 80"
+                "time": "20:04",
+                "title": "1,000 Times",
+                "performer": "Tahiti 80"
               },
               {
-                "title": "Bee Stings",  "performer": "Snippet"
+                "title": "Bee Stings",
+                "performer": "Snippet"
               },
               {
-                "title": "Be My Friend Awhile",  "performer": "Pugwash"
+                "title": "Be My Friend Awhile",
+                "performer": "Pugwash"
               },
               {
-                "title": "Perfect Lovesong",  "performer": "The Divine Comedy"
+                "title": "Perfect Lovesong",
+                "performer": "The Divine Comedy"
               },
               {
-                "title": "Magic Love",  "performer": "Bent"
+                "title": "Magic Love",
+                "performer": "Bent"
               },
               {
-                "title": "The Way I Feel",  "performer": "Jonathan Wilson"
+                "title": "The Way I Feel",
+                "performer": "Jonathan Wilson"
               },
               {
-                "title": "The Way I Feel Inside",  "performer": "The Zombies"
+                "title": "The Way I Feel Inside",
+                "performer": "The Zombies"
               },
               {
-                "title": "Juxtaposed With U",  "performer": "Super Furry Animals"
+                "title": "Juxtaposed With U",
+                "performer": "Super Furry Animals"
               },
               {
-                "title": "Time Is Tight",  "performer": "Booker T. & The MGs"
+                "title": "Time Is Tight",
+                "performer": "Booker T. & The MGs"
               },
               {
-                "title": "Spin It Around",  "performer": "AM & Shawn Lee"
+                "title": "Spin It Around",
+                "performer": "AM & Shawn Lee"
               },
               {
-                "title": "Kosmos",  "performer": "Paul Weller"
+                "title": "Kosmos",
+                "performer": "Paul Weller"
               },
               {
-                "title": "There’s Nothing In The Water We Can’t Fight",  "performer": "Cloud Control"
+                "title": "There’s Nothing In The Water We Can’t Fight",
+                "performer": "Cloud Control"
               },
               {
-                "title": "Space Oddity (Appo Remix)",  "performer": "David Bowie"
+                "title": "Space Oddity (Appo Remix)",
+                "performer": "David Bowie"
               }
             ],
             [
               {
-                "time": "21:04", "title": "Think For A Minute", "performer": "The Housemartins"
+                "time": "21:04",
+                "title": "Think For A Minute",
+                "performer": "The Housemartins"
               },
               {
-                "title": "See You Mine (Coda)", "performer": "Pugwash"
+                "title": "See You Mine (Coda)",
+                "performer": "Pugwash"
               },
               {
-                "title": "Busfahrt",  "performer": "Erdmöbel"
+                "title": "Busfahrt",
+                "performer": "Erdmöbel"
               },
               {
-                "title": "Song For America",  "performer": "Destroyer"
+                "title": "Song For America",
+                "performer": "Destroyer"
               },
               {
-                "title": "Baby Now That I’ve Found You",  "performer": "The Foundations"
+                "title": "Baby Now That I’ve Found You",
+                "performer": "The Foundations"
               },
               {
-                "title": "The Cat Is Missing",  "performer": "The Kramford Look"
+                "title": "The Cat Is Missing",
+                "performer": "The Kramford Look"
               },
               {
-                "title": "Happiness (Morgan Geist's Port Authority Remix)",  "performer": "Jonathan Jeremiah"
+                "title": "Happiness (Morgan Geist's Port Authority Remix)",
+                "performer": "Jonathan Jeremiah"
               },
               {
-                "title": "New Frontier (Deepspirits So What Edit)",  "performer": "Donald Fagen"
+                "title": "New Frontier (Deepspirits So What Edit)",
+                "performer": "Donald Fagen"
               },
               {
-                "title": "La Dolce Vita",  "performer": "Sparks"
+                "title": "La Dolce Vita",
+                "performer": "Sparks"
               },
               {
-                "title": "Smitten",  "performer": "The Simple Carnival"
+                "title": "Smitten",
+                "performer": "The Simple Carnival"
               },
               {
-                "title": "Funky For You",  "performer": "Deadbeats"
+                "title": "Funky For You",
+                "performer": "Deadbeats"
               },
               {
-                "title": "Harmony Around My Table",  "performer": "Tindersticks"
+                "title": "Harmony Around My Table",
+                "performer": "Tindersticks"
               }
             ],
             [
               {
-                "time": "22:04", "title": "Alone Again (Remix)", "performer": "Gilbert O’Sullivan"
+                "time": "22:04",
+                "title": "Alone Again (Remix)",
+                "performer": "Gilbert O’Sullivan"
               },
               {
-                "title": "Friday Night", "performer": "Stuart A. Staples"
+                "title": "Friday Night",
+                "performer": "Stuart A. Staples"
               },
               {
-                "title": "Moments In Love",  "performer": "The Art Of Noise"
+                "title": "Moments In Love",
+                "performer": "The Art Of Noise"
               },
               {
-                "title": "Montague Terrace (In Blue)",  "performer": "Scott Walker"
+                "title": "Montague Terrace (In Blue)",
+                "performer": "Scott Walker"
               },
               {
-                "title": "Cologne",  "performer": "Ben Folds"
+                "title": "Cologne",
+                "performer": "Ben Folds"
               },
               {
-                "title": "Make It With You (Appo Remix)",  "performer": "Bread"
+                "title": "Make It With You (Appo Remix)",
+                "performer": "Bread"
               },
               {
-                "title": "Each And Everyone",  "performer": "Everything But The Girl"
+                "title": "Each And Everyone",
+                "performer": "Everything But The Girl"
               },
               {
-                "title": "Four Days",  "performer": "Pugwash"
+                "title": "Four Days",
+                "performer": "Pugwash"
               },
               {
-                "title": "It’s Your Time",  "performer": "Bergen White"
+                "title": "It’s Your Time",
+                "performer": "Bergen White"
               },
               {
-                "title": "Gone Castaway",  "performer": "Downpilot"
+                "title": "Gone Castaway",
+                "performer": "Downpilot"
               },
               {
-                "title": "I Don’t Want To Hear It Anymore\t",  "performer": "The Walker Brothers"
+                "title": "I Don’t Want To Hear It Anymore\t",
+                "performer": "The Walker Brothers"
               },
               {
-                "title": "Summer Madness",  "performer": "Kool & The Gang"
+                "title": "Summer Madness",
+                "performer": "Kool & The Gang"
               }
             ]
           ]
@@ -8084,7 +8136,10 @@
         {
           "id": "34",
           "date": "2011-08-23",
-          "checked": {"date": "2021-04-20", "user": "jg"},
+          "checked": {
+            "date": "2021-04-20",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -8094,7 +8149,7 @@
               },
               {
                 "performer": "Luke Leighfield",
-                "title": "By my Side"
+                "title": "By My Side"
               },
               {
                 "performer": "Pugwash",
@@ -8102,7 +8157,7 @@
               },
               {
                 "performer": "Rufus Wainwright",
-                "title": "Cigarettes And Coholate Milk"
+                "title": "Cigarettes And Chocolate Milk"
               },
               {
                 "performer": "Mayer Hawthorne",
@@ -8168,7 +8223,7 @@
                 "title": "Keep On Trying"
               },
               {
-                "performer": "Pete Kuzma (Sunny Side 6)",
+                "performer": "Pete Kuzma",
                 "title": "High And Dry"
               },
               {
@@ -8199,12 +8254,12 @@
                 "title": "High"
               },
               {
-                "performer": "Distortions Pop",
-                "title": "Equilibriums"
-              },
-              {
                 "performer": "The National Convention",
                 "title": "I Can't Believe This Is Happening To Me"
+              },
+              {
+                "performer": "Distortions Pop",
+                "title": "Equilibriums"
               },
               {
                 "performer": "The Sandpipers",
@@ -8220,11 +8275,11 @@
               },
               {
                 "performer": "Orwell",
-                "title": "In Your Playground (unplugged RB4)"
+                "title": "In Your Playground (Unplugged Radio Bremen 4)"
               },
               {
                 "performer": "Orwell",
-                "title": "Cars And Girls (unplugged RB4)"
+                "title": "Cars And Girls (Unplugged Radio Bremen 4)"
               },
               {
                 "performer": "Malcolm Ross",
@@ -8252,7 +8307,10 @@
         {
           "id": "35",
           "date": "2011-08-30",
-          "checked": {"date": "2021-05-01", "user": "jg"},
+          "checked": {
+            "date": "2021-05-01",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -8428,7 +8486,10 @@
         {
           "id": "37",
           "date": "2011-09-13",
-          "checked": {"date": "2021-05-05", "user": "jg"},
+          "checked": {
+            "date": "2021-05-05",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -8612,7 +8673,10 @@
         {
           "id": "38",
           "date": "2011-09-20",
-          "checked": {"date": "2021-05-07", "user": "jg"},
+          "checked": {
+            "date": "2021-05-07",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -8808,7 +8872,10 @@
         {
           "id": "39",
           "date": "2011-09-27",
-          "checked": {"date": "2021-05-09", "user": "jg"},
+          "checked": {
+            "date": "2021-05-09",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -12702,14 +12769,19 @@
           "id": "14",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-04-15",
+          "checked": {
+            "date": "2021-05-09",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "I.G.Y. (International Geophysical Year)",
                 "performer": "Donald Fagen"
               },
               {
-                "title": "Good vibrations",
+                "title": "Good Vibrations",
                 "performer": "Psychic TV"
               },
               {
@@ -12717,7 +12789,7 @@
                 "performer": "Gary Numan"
               },
               {
-                "title": "Can we still be friends",
+                "title": "Can We Still Be Friends",
                 "performer": "Robert Palmer"
               },
               {
@@ -12729,49 +12801,57 @@
                 "performer": "Spearmint"
               },
               {
-                "title": "What now our love",
+                "title": "What Now Our Love",
                 "performer": "Pizzicato Five"
               },
               {
-                "title": "Yesterday once more",
+                "title": "Yesterday Once More",
                 "performer": "Cinerama"
               },
               {
-                "title": "Fading again",
+                "title": "Fading Again",
                 "performer": "Seth Swirsky"
               },
               {
-                "title": "Watching the detectives",
+                "title": "Wild Wood (Unplugged Bremen Vier 1994)",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "Hung Up (Unplugged Bremen Vier 1994)",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "Watching The Detectives",
                 "performer": "Elvis Costello"
               },
               {
-                "title": "Main title sequence",
+                "title": "Main Title Sequence",
                 "performer": "Morgan Delt"
               },
               {
-                "title": "Elegy for a lost summer",
+                "title": "Elegy For A Lost Summer",
                 "performer": "Anne Clark"
               },
               {
-                "title": "1 2 3 of me",
+                "title": "1 2 3 Of Me",
                 "performer": "Black Moth Super Rainbow"
               }
             ],
             [
               {
-                "title": "What if",
-                "performer": "Lightning Seeds"
+                "title": "What If...",
+                "performer": "The Lightning Seeds"
               },
               {
-                "title": "Miss Van Houten's coffee shoppe",
+                "title": "Miss Van Houten's Coffee Shoppe",
                 "performer": "Martin Newell"
               },
               {
-                "title": "Digging your Scene",
+                "title": "Digging Your Scene (Acoustic)",
                 "performer": "The Blow Monkeys"
               },
               {
-                "title": "Vapour trail",
+                "title": "Vapour Trail",
                 "performer": "Ride"
               },
               {
@@ -12779,24 +12859,24 @@
                 "performer": "The Psychedelic Furs"
               },
               {
-                "title": "Birds in Cages",
+                "title": "Birds In Cages",
                 "performer": "Eggstone"
               },
               {
-                "title": "She won't look at me",
+                "title": "She Won't Look At Me",
                 "performer": "The Simple Carnival"
               },
               {
                 "title": "Guten Flug!",
-                "performer": "Infried Hoffmann & Orchester"
+                "performer": "Ingfried Hoffmann & Orchester"
               },
               {
-                "title": "The passing bell",
+                "title": "The Passing Bell",
                 "performer": "The High Llamas"
               },
               {
-                "title": "Happy heart",
-                "performer": "Nick de Caro and Orchestra"
+                "title": "Happy Heart",
+                "performer": "Nick De Caro And Orchestra"
               },
               {
                 "title": "Sunny",
@@ -12807,21 +12887,21 @@
                 "performer": "Terry Callier"
               },
               {
-                "title": "Love shadow",
+                "title": "Love Shadow",
                 "performer": "Fashiøn"
               },
               {
-                "title": "La long de la rivière tendre",
+                "title": "Le long de la rivière tendre",
                 "performer": "Sebastien Tellier"
               }
             ],
             [
               {
-                "title": "Abandoned luncheonette",
+                "title": "Abandoned Luncheonette",
                 "performer": "Hall & Oates"
               },
               {
-                "title": "Blue roses",
+                "title": "Blue Roses",
                 "performer": "Prefab Sprout"
               },
               {
@@ -12833,7 +12913,7 @@
                 "performer": "Harmonic 33"
               },
               {
-                "title": "It's a joke",
+                "title": "It's A Joke",
                 "performer": "Daniel Carlson"
               },
               {
@@ -12841,35 +12921,35 @@
                 "performer": "Fireflies"
               },
               {
-                "title": "Silly bird",
+                "title": "Silly Bird",
                 "performer": "The Pearlfishers"
               },
               {
-                "title": "Playground love",
+                "title": "Playground Love (Vibraphone Version)",
                 "performer": "Air"
               },
               {
-                "title": "Caroline, no",
-                "performer": "Nick de Caro and Orchestra"
+                "title": "Caroline, No",
+                "performer": "Nick De Caro And Orchestra"
               },
               {
-                "title": "At the chime of a city clock",
+                "title": "At The Chime Of A City Clock",
                 "performer": "Nick Drake"
               },
               {
-                "title": "Private investigations",
+                "title": "Private Investigations",
                 "performer": "Dire Straits"
               },
               {
-                "title": "The look of love",
+                "title": "The Look Of Love",
                 "performer": "Nina Simone"
               },
               {
-                "title": "Smile (though your heart is aching)",
+                "title": "Smile (Though Your Heart Is Aching) (Live At Ling Beach Arena, California / 1974)",
                 "performer": "Eric Clapton"
               },
               {
-                "title": "Man under the sea",
+                "title": "Man Under The Sea",
                 "performer": "Patrick Watson"
               }
             ]
@@ -12879,18 +12959,22 @@
           "id": "15",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-04-22",
+          "checked": {
+            "date": "2021-05-11",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Lust for life",
+                "title": "Lust For Life",
                 "performer": "Iggy Pop"
               },
               {
-                "title": "Blues and trouble",
+                "title": "Blues And Trouble",
                 "performer": "Geraint Watkins"
               },
               {
-                "title": "In the morning",
+                "title": "In The mMrning",
                 "performer": "The Coral"
               },
               {
@@ -12898,27 +12982,27 @@
                 "performer": "Aztec Camera"
               },
               {
-                "title": "Wondrous place",
+                "title": "Wondrous Place",
                 "performer": "Stone Foundation"
               },
               {
-                "title": "Ghost town",
+                "title": "Ghost Town (Extended Version)",
                 "performer": "The Specials"
               },
               {
-                "title": "As seasons go",
+                "title": "As Seasons Go",
                 "performer": "The Brights"
               },
               {
-                "title": "Cigarettes & alcohol",
+                "title": "Cigarettes & Alcohol",
                 "performer": "Oasis"
               },
               {
                 "title": "Picture",
-                "performer": "Red Button"
+                "performer": "The Red Button"
               },
               {
-                "title": "The bitterest pill (I ever had to swallow",
+                "title": "The Bitterest Pill (I Ever Had To Swallow",
                 "performer": "The Jam"
               },
               {
@@ -12926,29 +13010,29 @@
                 "performer": "Erdmöbel"
               },
               {
-                "title": "Theme for a South Herts Symphony",
+                "title": "Theme For A South Herts Symphony",
                 "performer": "Andy Lewis"
               },
               {
-                "title": "Preben goes to Acapulco",
+                "title": "Preben Goes To Acapulco",
                 "performer": "Todd Terje"
               }
             ],
             [
               {
-                "title": "Work to do",
+                "title": "Work To Do",
                 "performer": "Average White Band"
               },
               {
-                "title": "Cracked actor",
+                "title": "Cracked Actor",
                 "performer": "David Bowie"
               },
               {
-                "title": "Bremen is my name",
+                "title": "Bremen Is My Name",
                 "performer": "The Temple Cloud Country Club"
               },
               {
-                "title": "China doll",
+                "title": "China Doll",
                 "performer": "Julian Cope"
               },
               {
@@ -12956,23 +13040,27 @@
                 "performer": "SOHN"
               },
               {
-                "title": "Move in a little closer",
+                "title": "Supreme Evil",
+                "performer": "Mashup: ELO vs. The Supremes"
+              },
+              {
+                "title": "Move In A Little Closer",
                 "performer": "Harmony Grass"
               },
               {
-                "title": "Don't cry Baby",
+                "title": "Don't Cry Baby",
                 "performer": "Koushik & Dudley Perkins"
               },
               {
-                "title": "How long?",
+                "title": "How Long?",
                 "performer": "Special People Club"
               },
               {
-                "title": "Hardly there",
+                "title": "Hardly There",
                 "performer": "My Sad Captains"
               },
               {
-                "title": "Leisure suit Preben",
+                "title": "Leisure Suit Preben",
                 "performer": "Todd Terje"
               },
               {
@@ -12980,29 +13068,29 @@
                 "performer": "Outfit"
               },
               {
-                "title": "Goin' out of my head",
+                "title": "Goin' Out Of My Head",
                 "performer": "George Saxon"
               }
             ],
             [
               {
-                "title": "Wear your love like heaven",
+                "title": "Wear Your Love Like Heaven",
                 "performer": "You Said Saturday"
               },
               {
-                "title": "It's too late",
+                "title": "It's Too Late",
                 "performer": "Carole King"
               },
               {
-                "title": "Dear my friend",
+                "title": "Dear My Friend",
                 "performer": "Brent Cash"
               },
               {
-                "title": "Blue butterfly",
+                "title": "Blue Butterfly",
                 "performer": "Cloud Eleven"
               },
               {
-                "title": "Candle in the wind",
+                "title": "Candle In The Wind",
                 "performer": "Ed Sheeran"
               },
               {
@@ -13010,28 +13098,32 @@
                 "performer": "Paul Carrack"
               },
               {
-                "title": "We've only just begun",
+                "title": "Wonderful Telephone Line",
+                "performer": "Mashup: ELO vs. Oasis"
+              },
+              {
+                "title": "We've Only Just Begun",
                 "performer": "The Explorers Club"
               },
               {
-                "title": "Always something there to remind me",
+                "title": "Always Something There To Remind Me",
                 "performer": "Patti LaBelle & The Bluebelles"
               },
               {
-                "title": "A house is not a home",
+                "title": "A House Is Not A Home",
                 "performer": "Mavis Staples"
               },
               {
-                "title": "Silent spot",
+                "title": "Silent Spot",
                 "performer": "Laetitia Sadier"
               },
               {
-                "title": "Johnny and Mary",
-                "performer": "Todd Terje"
+                "title": "Johnny And Mary",
+                "performer": "Todd Terje feat. Bryan Ferry"
               },
               {
                 "title": "Träume (orig: Melodie für Jessica)",
-                "performer": "FranÛoise Hardy"
+                "performer": "Françoise Hardy"
               },
               {
                 "title": "Blue Bolero",
@@ -13044,10 +13136,14 @@
           "id": "16",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-04-29",
+          "checked": {
+            "date": "2021-05-16",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Ship of fools",
+                "title": "Ship Of Fools",
                 "performer": "World Party"
               },
               {
@@ -13055,23 +13151,23 @@
                 "performer": "Ben Folds Five"
               },
               {
-                "title": "Shelter song",
+                "title": "Shelter Song",
                 "performer": "Temples"
               },
               {
-                "title": "I wanna be loved",
+                "title": "I Wanna Be Loved",
                 "performer": "Green"
               },
               {
-                "title": "Elephant days",
+                "title": "Elephant Days",
                 "performer": "Outfit"
               },
               {
-                "title": "Nothing has been proved",
+                "title": "Nothing Has Been Proved",
                 "performer": "Dusty Springfield"
               },
               {
-                "title": "I love you",
+                "title": "I Love You",
                 "performer": "Woodkid"
               },
               {
@@ -13079,25 +13175,25 @@
                 "performer": "The Red Button"
               },
               {
-                "title": "It's still love",
+                "title": "It's Still Love",
                 "performer": "Seth Swirsky"
               },
               {
-                "title": "Getting away with it",
+                "title": "Getting Away With It (Extended Mix)",
                 "performer": "Electronic"
               },
               {
-                "title": "Mistakes of my youth",
+                "title": "Mistakes Of My Youth",
                 "performer": "Eels"
               },
               {
-                "title": "Like a sundae",
+                "title": "Like A Sundae",
                 "performer": "Black Moth Super Rainbow"
               }
             ],
             [
               {
-                "title": "All of my heart",
+                "title": "All Of My Heart",
                 "performer": "ABC"
               },
               {
@@ -13105,7 +13201,7 @@
                 "performer": "Tokyo's Coolest Combo"
               },
               {
-                "title": "Make me believe",
+                "title": "Make Me Believe",
                 "performer": "Archie James Cavanough"
               },
               {
@@ -13113,7 +13209,7 @@
                 "performer": "The Electric Peanut Butter Company"
               },
               {
-                "title": "Brand new toy",
+                "title": "Brand New Toy",
                 "performer": "Paul Weller"
               },
               {
@@ -13121,15 +13217,15 @@
                 "performer": "Josh Rouse"
               },
               {
-                "title": "Sentimental lady",
-                "performer": "Autumn Defense"
+                "title": "Sentimental Lady",
+                "performer": "The Autumn Defense"
               },
               {
-                "title": "Pillar to post",
+                "title": "Pillar To Post",
                 "performer": "Aztec Camera"
               },
               {
-                "title": "It's your time",
+                "title": "It's Your Time",
                 "performer": "Bergen White"
               },
               {
@@ -13137,19 +13233,19 @@
                 "performer": "Roy Budd"
               },
               {
-                "title": "Fire in my heart",
+                "title": "Fire In My Heart",
                 "performer": "Miles Kane"
               },
               {
-                "title": "Auscultation to the nation",
+                "title": "Auscultation To The Nation",
                 "performer": "Laetitia Sadier"
               },
               {
-                "title": "Baby, I love you",
+                "title": "Baby, I Love You",
                 "performer": "The  Ramones"
               },
               {
-                "title": "What a fool believes",
+                "title": "What A Fool Believes",
                 "performer": "The Simple Carnival"
               }
             ],
@@ -13159,55 +13255,55 @@
                 "performer": "Jimmy Webb & The Webb Brothers"
               },
               {
-                "title": "I've got the feelin'",
+                "title": "I've Got The Feelin'",
                 "performer": "James Walsh Gypsy Band"
               },
               {
-                "title": "Partners in crime",
+                "title": "Partners In Crime",
                 "performer": "Rupert Holmes"
               },
               {
-                "title": "Night time stars",
+                "title": "Night Time Stars",
                 "performer": "Joseph Nicoletti"
               },
               {
-                "title": "Handbags and gladrags",
+                "title": "Handbags And Gladrags",
                 "performer": "Chris Farlowe"
               },
               {
-                "title": "Fly me to the moon (In other words)",
+                "title": "Fly Me To The Moon (In Other Words)",
                 "performer": "Julie London"
               },
               {
-                "title": "Bow out",
+                "title": "Bow Out",
                 "performer": "Eels"
               },
               {
-                "title": "Funky chimes",
+                "title": "Funky Chimes",
                 "performer": "Francis Coppieters"
               },
               {
-                "title": "Don't make promises you can't keep",
+                "title": "Don't Make Promises You Can't Keep",
                 "performer": "The Phoenix Foundation"
               },
               {
-                "title": "Watching the wheels",
+                "title": "Watching The Wheels",
                 "performer": "Rachel Brown"
               },
               {
-                "title": "This house is empty now",
+                "title": "This House Is Empty Now",
                 "performer": "Elvis Costello"
               },
               {
-                "title": "In the garden",
+                "title": "In The Garden",
                 "performer": "Heidi Happy"
               },
               {
-                "title": "Here & elsewhere",
+                "title": "Here & Elsewhere",
                 "performer": "My Sad Captains"
               },
               {
-                "title": "Fade away",
+                "title": "Fade Away",
                 "performer": "Todd Rundgren"
               },
               {
@@ -63102,7 +63198,7 @@
               {
                 "time": "22:48",
                 "title": "Please Tell Me",
-                "performer": "Valérie Etienne"
+                "performer": "Colorama"
               },
               {
                 "time": "22:50",
@@ -64910,7 +65006,10 @@
         {
           "id": "12",
           "date": "2021-03-25",
-          "checked": {"date": "2021-03-27", "user": "jg"},
+          "checked": {
+            "date": "2021-03-27",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -65066,7 +65165,10 @@
         {
           "id": "13",
           "date": "2021-04-01",
-          "checked": {"date": "2021-04-10", "user": "jg"},
+          "checked": {
+            "date": "2021-04-10",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -65217,7 +65319,10 @@
         {
           "id": "14",
           "date": "2021-04-08",
-          "checked": {"date": "2021-04-15", "user": "jg"},
+          "checked": {
+            "date": "2021-04-15",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -65363,7 +65468,10 @@
         {
           "id": "15",
           "date": "2021-04-15",
-          "checked": {"date": "2021-04-22", "user": "jg"},
+          "checked": {
+            "date": "2021-04-22",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -65517,49 +65625,171 @@
           ]
         },
         {
-          "id":"16",
-          "date":"2021-04-22",
-          "checked": {"date": "2021-04-26", "user": "jg"},
-          "songs":[
+          "id": "16",
+          "date": "2021-04-22",
+          "checked": {
+            "date": "2021-04-26",
+            "user": "jg"
+          },
+          "songs": [
             [
-              {"time":"22:04","title":"Skin Deep","performer":"The Stranglers"},
-              {"time":"22:07","title":"Please Tell Me","performer":"Colorama"},
-              {"time":"22:11","title":"In The Garden","performer":"Real Estate"},
-              {"time":"22:17","title":"Beaming","performer":"Vinyl Williams"},
-              {"time":"22:21","title":"Craigwrong","performer":"The Emerald Isle"},
-              {"time":"22:24","title":"Situation Inconceivable","performer":"Portable Radio"},
-              {"time":"22:28","title":"Good Start","performer":"Maxwell Farrington & Le SuperHomard"},
-              {"time":"22:33","title":"Sure Thing","performer":"Maston"},
-              {"time":"22:35","title":"Down In The Seine","performer":"The Style Council"},
-              {"time":"22:39","title":"Es ist nett, nett zu sein","performer":"Die Liga der gewöhnlichen Gentlemen"},
-              {"time":"22:42","title":"In My Drunken Dreamscape","performer":"Olivier Rocabois"},
-              {"time":"22:48","title":"Henry","performer":"Brandon Schott"},
-              {"time":"22:51","title":"Gameplay","performer":"The Brooks"},
-              {"time":"22:55","title":"Ploy (Edit)","performer":"Silvertwin"},
-              {"time":"22:59","title":"Juste Comme Ça","performer":"Fred Versailles"}
+              {
+                "time": "22:04",
+                "title": "Skin Deep",
+                "performer": "The Stranglers"
+              },
+              {
+                "time": "22:07",
+                "title": "Please Tell Me",
+                "performer": "Colorama"
+              },
+              {
+                "time": "22:11",
+                "title": "In The Garden",
+                "performer": "Real Estate"
+              },
+              {
+                "time": "22:17",
+                "title": "Beaming",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "22:21",
+                "title": "Craigwrong",
+                "performer": "The Emerald Isle"
+              },
+              {
+                "time": "22:24",
+                "title": "Situation Inconceivable",
+                "performer": "Portable Radio"
+              },
+              {
+                "time": "22:28",
+                "title": "Good Start",
+                "performer": "Maxwell Farrington & Le SuperHomard"
+              },
+              {
+                "time": "22:33",
+                "title": "Sure Thing",
+                "performer": "Maston"
+              },
+              {
+                "time": "22:35",
+                "title": "Down In The Seine",
+                "performer": "The Style Council"
+              },
+              {
+                "time": "22:39",
+                "title": "Es ist nett, nett zu sein",
+                "performer": "Die Liga der gewöhnlichen Gentlemen"
+              },
+              {
+                "time": "22:42",
+                "title": "In My Drunken Dreamscape",
+                "performer": "Olivier Rocabois"
+              },
+              {
+                "time": "22:48",
+                "title": "Henry",
+                "performer": "Brandon Schott"
+              },
+              {
+                "time": "22:51",
+                "title": "Gameplay",
+                "performer": "The Brooks"
+              },
+              {
+                "time": "22:55",
+                "title": "Ploy (Edit)",
+                "performer": "Silvertwin"
+              },
+              {
+                "time": "22:59",
+                "title": "Juste Comme Ça",
+                "performer": "Fred Versailles"
+              }
             ],
             [
-              {"time":"23:04","title":"Find Somebody To Love","performer":"Dante Elephante"},
-              {"time":"23:07","title":"That CanT Be","performer":"Video Age"},
-              {"time":"23:13","title":"Lazy - Es kommen faule Tage","performer":"Christian Günther"},
-              {"time":"23:15","title":"Sång För John Och Jimi","performer":"Janne Schaffer"},
-              {"time":"23:20","title":"Let 'Em In","performer":"The Polyphonic Spree"},
-              {"time":"23:26","title":"Next Best Thing","performer":"Floor Cry feat. Vansire"},
-              {"time":"23:30","title":"Wallpaper For The Soul","performer":"Tahiti 80"},
-              {"time":"23:34","title":"Impression","performer":"Ducktails"},
-              {"time":"23:38","title":"We'Ve Only Just Begun","performer":"The Singers Unlimited"},
-              {"time":"23:42","title":"Sure Thing (33 rpm)","performer":"Maston"},
-              {"time":"23:46","title":"Beaming (Slowed Down)","performer":"Vinyl Williams"},
-              {"time":"23:50","title":"Three Miles Down","performer":"Gil Scott-Heron and Brian Jackson"},
-              {"time":"23:55","title":"Clair De Lune","performer":"Sébastien Tellier"},
-              {"time":"23:58","title":"Good Night","performer":"The Beatles"}
+              {
+                "time": "23:04",
+                "title": "Find Somebody To Love",
+                "performer": "Dante Elephante"
+              },
+              {
+                "time": "23:07",
+                "title": "That CanT Be",
+                "performer": "Video Age"
+              },
+              {
+                "time": "23:13",
+                "title": "Lazy - Es kommen faule Tage",
+                "performer": "Christian Günther"
+              },
+              {
+                "time": "23:15",
+                "title": "Sång För John Och Jimi",
+                "performer": "Janne Schaffer"
+              },
+              {
+                "time": "23:20",
+                "title": "Let 'Em In",
+                "performer": "The Polyphonic Spree"
+              },
+              {
+                "time": "23:26",
+                "title": "Next Best Thing",
+                "performer": "Floor Cry feat. Vansire"
+              },
+              {
+                "time": "23:30",
+                "title": "Wallpaper For The Soul",
+                "performer": "Tahiti 80"
+              },
+              {
+                "time": "23:34",
+                "title": "Impression",
+                "performer": "Ducktails"
+              },
+              {
+                "time": "23:38",
+                "title": "We'Ve Only Just Begun",
+                "performer": "The Singers Unlimited"
+              },
+              {
+                "time": "23:42",
+                "title": "Sure Thing (33 rpm)",
+                "performer": "Maston"
+              },
+              {
+                "time": "23:46",
+                "title": "Beaming (Slowed Down)",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "23:50",
+                "title": "Three Miles Down",
+                "performer": "Gil Scott-Heron and Brian Jackson"
+              },
+              {
+                "time": "23:55",
+                "title": "Clair De Lune",
+                "performer": "Sébastien Tellier"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
             ]
           ]
         },
         {
           "id": "17",
           "date": "2021-04-29",
-          "checked": {"date": "2021-05-02", "user": "jg"},
+          "checked": {
+            "date": "2021-05-02",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -65607,8 +65837,16 @@
                 "title": "Pretty Girls",
                 "performer": "Ethan Gold"
               },
-              {"time":"22:38", "title":"Beaming (Speed Up)", "performer":"Vinyl Williams"},
-              {"time":"22:42", "title":"Let There Be Music", "performer":"Rehab Sprout"},
+              {
+                "time": "22:38",
+                "title": "Beaming (Speed Up)",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "22:42",
+                "title": "Let There Be Music",
+                "performer": "Rehab Sprout"
+              },
               {
                 "time": "22:46",
                 "title": "Pretty Boys",
