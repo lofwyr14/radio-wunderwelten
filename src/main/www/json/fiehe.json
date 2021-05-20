@@ -5095,6 +5095,7 @@
         {
           "id": "18",
           "date": "2021-05-02",
+          "checked": {"date": "2021-05-20", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Smile", "performer": "Elastica"},
@@ -5136,6 +5137,58 @@
               { "title": "Coasting", "performer": "Alfa Mist"},
               { "title": "Scatching At The Lid", "performer": "Piroshka"},
               { "title": "Everything Is Falling Apart", "performer": "Teenage Fanclub"}
+            ]
+          ]
+        },
+        {
+          "id": "19",
+          "date": "2021-05-09",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Got To Get Up (Just 4 U Mix)", "performer": "Kriston"},
+              { "title": "Watch Out!", "performer": "India Jordan"},
+              { "title": "Take Me There", "performer": "Gardenstate & GVN"},
+              { "title": "Yurican Soul", "performer": "Monki feat. Rosemarie Wilson"},
+              { "title": "Enough Is Enough", "performer": "Soul Clap"},
+              { "title": "Mollyduker", "performer": "Good Morning"},
+              { "title": "Hu-Man", "performer": "Greentea Peng"},
+              { "title": "Leave Me", "performer": "Peach Tree Rascals"},
+              { "title": "Justice (Get Up, Stand Up)", "performer": "Nakkia Gold, Wiz Khalifa, Bob Marley & The Wailers"},
+              { "title": "G.S.K.", "performer": "Squid"},
+              { "title": "Paddling", "performer": "Squid"},
+              { "title": "Calling All Enthusiasts", "performer": "Radio 4"},
+              { "title": "Wichtig", "performer": "Die Sterne"}
+            ],
+            [
+              { "time": "23:04", "title": "Side Of The Step", "performer": "Paper Pabs x Bossman Birdie x Milli Major"},
+              { "title": "Nah Dran", "performer": "Aaron Grav"},
+              { "title": "Tränen Lügen Nicht (Intro)", "performer": "Michael Holm"},
+              { "title": "What We Do", "performer": "KO"},
+              { "title": "Relax", "performer": "Rejjie Snow feat. Grouptherapy. & Cam O'bi"},
+              { "title": "Interlude", "performer": "J. Cole"},
+              { "title": "Woman", "performer": "Little Simz feat. Cleo"},
+              { "title": "I Will Praise You", "performer": "Natalie Bergman"},
+              { "title": "Wanowan Efem", "performer": "Asa Moto"},
+              { "title": "I'm In Love With A German Filmstar", "performer": "Moscoman feat. Xen"},
+              { "title": "1234", "performer": "Matthew Dekay"},
+              { "title": "L Foot, Right", "performer": "Dreamcastmoe"},
+              { "title": "Messenger Lines", "performer": "Dote"},
+              { "title": "Real Insight", "performer": "Neumatic Parlo"}
+            ],
+            [
+              { "time": "00:04", "title": "Everlasting", "performer": "Technimatic"},
+              { "title": "Yasukuni", "performer": "Lenzman"},
+              { "title": "Get That Feeling", "performer": "PFM"},
+              { "title": "Hayling (Remix)", "performer": "Deadline"},
+              { "title": "Lightning Strike", "performer": "KTM"},
+              { "title": "Sol", "performer": "Timma T"},
+              { "title": "Agave Harvest", "performer": "Manuel Darquart"},
+              { "title": "A Hero’s Death (Soulwax Rmx)", "performer": "Fontaines D.C."},
+              { "title": "Wot? Woo-ha! (Captain Sensible Vs Eve Vs Busta)", "performer": "Nid & Sancy"},
+              { "title": "Pamphlets", "performer": "Squid"},
+              { "title": "Peel St.", "performer": "Squid"},
+              { "title": "Water In The Well (Live)", "performer": "Shame"},
+              { "title": "Tatort", "performer": "Klaus Doldinger"}
             ]
           ]
         }
