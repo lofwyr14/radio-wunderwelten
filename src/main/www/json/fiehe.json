@@ -5143,12 +5143,13 @@
         {
           "id": "19",
           "date": "2021-05-09",
+          "checked": {"date": "2021-05-25", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Got To Get Up (Just 4 U Mix)", "performer": "Kriston"},
               { "title": "Watch Out!", "performer": "India Jordan"},
               { "title": "Take Me There", "performer": "Gardenstate & GVN"},
-              { "title": "Yurican Soul", "performer": "Monki feat. Rosemarie Wilson"},
+              { "title": "Yurican Soul (Extended)", "performer": "Monki feat. Rosemarie Wilson"},
               { "title": "Enough Is Enough", "performer": "Soul Clap"},
               { "title": "Mollyduker", "performer": "Good Morning"},
               { "title": "Hu-Man", "performer": "Greentea Peng"},
@@ -5189,6 +5190,55 @@
               { "title": "Peel St.", "performer": "Squid"},
               { "title": "Water In The Well (Live)", "performer": "Shame"},
               { "title": "Tatort", "performer": "Klaus Doldinger"}
+            ]
+          ]
+        },
+        {
+          "id": "20",
+          "date": "2021-05-16",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Love Is", "performer": "Danny B"},
+              { "title": "Bad To Me", "performer": "Hybrid Minds feat. Grace Grundy"},
+              { "title": "Schirokko", "performer": "Klaus Doldinger´s Passport"},
+              { "title": "Losin´", "performer": "Jeff Özdemir & ZAP"},
+              { "title": "Beyond The Rainbow Tunnel", "performer": "Marinero"},
+              { "title": "Pray", "performer": "Joe Armon-Jones"},
+              { "title": "Handmade", "performer": "Klaus Doldinger´s Passport"},
+              { "title": "All A Bit Mad", "performer": "Wayward"},
+              { "title": "End", "performer": "Chai"},
+              { "title": "Alte Fotos", "performer": "Maurice Summen"},
+              { "title": "Mathar", "performer": "Dave Pike Set"},
+              { "title": "Cosmic Fringes", "performer": "Paul Weller"},
+              { "title": "Boomerang", "performer": "Dawn Richard"}
+            ],
+            [
+              { "time": "23:04", "title": "Mein Ding", "performer": "Udo Lindenberg"},
+              { "title": "Locura", "performer": "Juan Wauters"},
+              { "title": "Dancer In The Dark", "performer": "Current Joys"},
+              { "title": "Bury Me Alive", "performer": "Magic Island"},
+              { "title": "Infinite Galaxy", "performer": "Zone+"},
+              { "title": "Mission FM", "performer": "Seb Zito"},
+              { "title": "Project Bunker (live)", "performer": "PVA"},
+              { "title": "Hustle", "performer": "Sons Of Kemet feat. Kojey Radical"},
+              { "title": "Stay For Long", "performer": "WheelUp feat. Brint Story"},
+              { "title": "My Crown", "performer": "Black Attack"},
+              { "title": "Uranus", "performer": "Klaus Doldinger´s Passport"},
+              { "title": "Hey Man", "performer": "Brodka"}
+            ],
+            [
+              { "time": "00:04", "title": "Er Wollte Nach London", "performer": "Udo Lindenberg & Das Panik Orchester"},
+              { "title": "Louise", "performer": "The Black Keys"},
+              { "title": "I Will Turn Your Money Green", "performer": "Alex Chilton"},
+              { "title": "Daddy´s Home", "performer": "St. Vincent"},
+              { "title": "Tatort", "performer": "Klaus Doldinger´s Passport"},
+              { "title": "Hexensabatt", "performer": "Klaus Doldinger´s Passport"},
+              { "title": "Shady", "performer": "Alfie Templeman"},
+              { "title": "Kotti Bizarre (Antitheater)", "performer": "Mathias Modica"},
+              { "title": "Nights In Havana", "performer": "Blue Lab Beats"},
+              { "title": "G.S.K.", "performer": "Squid"},
+              { "title": "Let.Go.My.Hand", "performer": "J.Cole, Bas & 6Lack"},
+              { "title": "Devil Don´t Get Me", "performer": "Doldinger´s Motherhood feat. Udo Lindenberg"}
             ]
           ]
         }
