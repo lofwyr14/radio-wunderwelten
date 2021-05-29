@@ -5196,6 +5196,8 @@
         {
           "id": "20",
           "date": "2021-05-16",
+          "checked": {"date": "2021-05-29", "user": "jg"},
+          "comment": "Der Greis ist heiß",
           "songs": [
             [
               { "time": "22:04", "title": "Love Is", "performer": "Danny B"},
@@ -5219,7 +5221,7 @@
               { "title": "Bury Me Alive", "performer": "Magic Island"},
               { "title": "Infinite Galaxy", "performer": "Zone+"},
               { "title": "Mission FM", "performer": "Seb Zito"},
-              { "title": "Project Bunker (live)", "performer": "PVA"},
+              { "title": "Project Bunker (Live)", "performer": "PVA"},
               { "title": "Hustle", "performer": "Sons Of Kemet feat. Kojey Radical"},
               { "title": "Stay For Long", "performer": "WheelUp feat. Brint Story"},
               { "title": "My Crown", "performer": "Black Attack"},
@@ -5242,7 +5244,6 @@
             ]
           ]
         }
-
       ]
     }
   ]
