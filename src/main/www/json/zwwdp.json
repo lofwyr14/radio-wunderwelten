@@ -66253,6 +66253,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "21",
+          "date": "2021-05-27",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Club 27",
+                "performer": "Thees Uhlmann"
+              },
+              {
+                "time": "22:09",
+                "title": "Night Boat To Cairo",
+                "performer": "Madness"
+              },
+              {
+                "time": "22:17",
+                "title": "Concorde",
+                "performer": "Melby"
+              },
+              {
+                "time": "22:20",
+                "title": "Walking In The Sun At Midnight",
+                "performer": "NAH..."
+              },
+              {
+                "time": "22:23",
+                "title": "Decapitated",
+                "performer": "The Candle Thieves"
+              },
+              {
+                "time": "22:25",
+                "title": "Lose Your Cool",
+                "performer": "The Candle Thieves"
+              },
+              {
+                "time": "22:26",
+                "title": "Phantasie",
+                "performer": "Panamaformat"
+              },
+              {
+                "time": "22:33",
+                "title": "Moving Canvas",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "22:35",
+                "title": "Console Majick",
+                "performer": "Rory More"
+              },
+              {
+                "time": "22:39",
+                "title": "Musique De Yacht",
+                "performer": "Garçon de Plage"
+              },
+              {
+                "time": "22:44",
+                "title": "Sad",
+                "performer": "Elton (vs. Pnau) John"
+              },
+              {
+                "time": "22:49",
+                "title": "Santa Monica",
+                "performer": "Bubble Tea and Cigarettes"
+              },
+              {
+                "time": "22:54",
+                "title": "Impression",
+                "performer": "Sugar Candy Mountain"
+              },
+              {
+                "time": "22:58",
+                "title": "Green Onions",
+                "performer": "Booker T. & The M.G.'s"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Maybe I'm Amazed",
+                "performer": "Anderson, Carleen, Weller, Paul"
+              },
+              {
+                "time": "23:08",
+                "title": "Just The Way You Are",
+                "performer": "Twinset"
+              },
+              {
+                "time": "23:13",
+                "title": "On Dreams That Are Sent By God",
+                "performer": "Sons of Raphael"
+              },
+              {
+                "time": "23:16",
+                "title": "Dawn Pretend",
+                "performer": "Damien Jurado"
+              },
+              {
+                "time": "23:20",
+                "title": "Cruel",
+                "performer": "Thomas Dolby"
+              },
+              {
+                "time": "23:23",
+                "title": "Thinking Like A River",
+                "performer": "Babe Rainbow"
+              },
+              {
+                "time": "23:26",
+                "title": "Memento Mori",
+                "performer": "Sven Wunder"
+              },
+              {
+                "time": "23:30",
+                "title": "All You Gotta Do Is Wait",
+                "performer": "John Moods"
+              },
+              {
+                "time": "23:35",
+                "title": "Cha Cha Cha",
+                "performer": "Purple Submarine Orchestra"
+              },
+              {
+                "time": "23:39",
+                "title": "My Fair Lady",
+                "performer": "The Bird And The Bee"
+              },
+              {
+                "time": "23:43",
+                "title": "Horizon",
+                "performer": "Misha Panfilov Sound Combo"
+              },
+              {
+                "time": "23:47",
+                "title": "Sunny Afternoon",
+                "performer": "Benny Sings"
+              },
+              {
+                "time": "23:56",
+                "title": "Lady Madonna",
+                "performer": "Cal Tjader"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
