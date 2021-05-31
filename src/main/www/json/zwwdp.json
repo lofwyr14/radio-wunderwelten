@@ -13320,14 +13320,19 @@
           "id": "17",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-05-06",
+          "checked": {
+            "date": "2021-05-30",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Mahalia",
                 "performer": "The Bible!"
               },
               {
-                "title": "Fly baby fly",
+                "title": "Fly Baby Fly",
                 "performer": "The High Llamas"
               },
               {
@@ -13339,15 +13344,15 @@
                 "performer": "Wally Badarou"
               },
               {
-                "title": "You picked me",
+                "title": "You Picked Me",
                 "performer": "A Fine Frenzy"
               },
               {
-                "title": "Senses working overtime",
+                "title": "Senses Working Overtime",
                 "performer": "XTC"
               },
               {
-                "title": "Ghosts in the machine",
+                "title": "Ghosts In The Machine",
                 "performer": "Death And Vanilla"
               },
               {
@@ -13359,15 +13364,15 @@
                 "performer": "Two Sunsets"
               },
               {
-                "title": "Slipping away",
+                "title": "Slipping Away",
                 "performer": "Julian Dawson and The Flood"
               },
               {
-                "title": "Main title: Looking for Lazlo",
+                "title": "Main title: Looking For Lazlo",
                 "performer": "Rory More"
               },
               {
-                "title": "Undercover angel",
+                "title": "Undercover Angel",
                 "performer": "Alan O'Day"
               },
               {
@@ -13375,29 +13380,30 @@
                 "performer": "Fireflies"
               },
               {
-                "title": "Try again",
+                "title": "Try Again",
                 "performer": "The Candle Thieves"
               }
             ],
             [
               {
-                "title": "World shut your mouth",
+                "time": "21:04",
+                "title": "World Shut Your Mouth",
                 "performer": "Julian Cope"
               },
               {
-                "title": "So you say you lost your Baby",
+                "title": "So You Say You Lost Your Baby",
                 "performer": "Death In Vegas"
               },
               {
-                "title": "Come as you are",
+                "title": "Come As You Are",
                 "performer": "Bebo Best & The Super Lounge Orchestra"
               },
               {
-                "title": "Ease yourself and glide",
+                "title": "Ease Yourself And Glide",
                 "performer": "Parsley Sound"
               },
               {
-                "title": "Me and my arrow",
+                "title": "Me And My Arrow",
                 "performer": "The Simple Carnival"
               },
               {
@@ -13405,11 +13411,11 @@
                 "performer": "The Red Button"
               },
               {
-                "title": "More than I can say",
-                "performer": "Linus of Hollywood"
+                "title": "More Than I Can Say",
+                "performer": "Linus Of Hollywood"
               },
               {
-                "title": "There's nothing like this",
+                "title": "There's Nothing Like This",
                 "performer": "Omar"
               },
               {
@@ -13425,11 +13431,11 @@
                 "performer": "Turin Brakes"
               },
               {
-                "title": "The letter",
+                "title": "The Letter",
                 "performer": "The Arbors"
               },
               {
-                "title": "A grand love theme",
+                "title": "A Grand Love Theme",
                 "performer": "Kid Loco"
               },
               {
@@ -13439,11 +13445,12 @@
             ],
             [
               {
-                "title": "Sky holds the sun",
+                "time": "22:04",
+                "title": "Sky Holds The Sun",
                 "performer": "The Bees"
               },
               {
-                "title": "Sign your Name",
+                "title": "Sign Your Name",
                 "performer": "John Newman"
               },
               {
@@ -13455,15 +13462,15 @@
                 "performer": "La Buena Vida"
               },
               {
-                "title": "Hocusing for beginners",
+                "title": "Hocusing For Beginners",
                 "performer": "Advisory Circle"
               },
               {
-                "title": "Bless you",
+                "title": "Bless You",
                 "performer": "Steve Easton"
               },
               {
-                "title": "Mind games",
+                "title": "Mind Games",
                 "performer": "Joy T. Barnum"
               },
               {
@@ -13487,7 +13494,7 @@
                 "performer": "Andrew Ashong"
               },
               {
-                "title": "Where everybody knows your Name",
+                "title": "Where Everybody Knows Your Name",
                 "performer": "Foy Vance"
               },
               {
@@ -66390,6 +66397,11 @@
                 "time": "23:47",
                 "title": "Sunny Afternoon",
                 "performer": "Benny Sings"
+              },
+              {
+                "time": "23:50",
+                "title": "Bach Ze (Live im Radio Bremen Studio)",
+                "performer": "The High Llamas"
               },
               {
                 "time": "23:56",
