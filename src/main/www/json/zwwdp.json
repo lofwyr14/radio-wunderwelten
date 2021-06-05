@@ -66422,6 +66422,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "22",
+          "date": "2021-06-03",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Frühling Im Herbst",
+                "performer": "Bazooka Cain"
+              },
+              {
+                "time": "22:08",
+                "title": "It's Different For Girls",
+                "performer": "Joe Jackson"
+              },
+              {
+                "time": "22:12",
+                "title": "Good Start",
+                "performer": "Maxwell Farrington & Le SuperHomard"
+              },
+              {
+                "time": "22:15",
+                "title": "Strange Illusions",
+                "performer": "The Coral"
+              },
+              {
+                "time": "22:18",
+                "title": "Pep Talk",
+                "performer": "The Candle Thieves"
+              },
+              {
+                "time": "22:19",
+                "title": "La Genèse",
+                "performer": "Perilymph"
+              },
+              {
+                "time": "22:26",
+                "title": "Sole Mio",
+                "performer": "Concrete Jane"
+              },
+              {
+                "time": "22:32",
+                "title": "Dressing Up Box",
+                "performer": "The Fernweh"
+              },
+              {
+                "time": "22:35",
+                "title": "Rollin'",
+                "performer": "The High Llamas"
+              },
+              {
+                "time": "22:39",
+                "title": "Can't Carry On",
+                "performer": "Gruff Rhys"
+              },
+              {
+                "time": "22:43",
+                "title": "Markers Of Beautiful Memories",
+                "performer": "The Camerawalls"
+              },
+              {
+                "time": "22:46",
+                "title": "I Just Want To Be Your Everything",
+                "performer": "Greg Pope"
+              },
+              {
+                "time": "22:50",
+                "title": "Melody Cycle #1",
+                "performer": "Jack and The'"
+              },
+              {
+                "time": "22:54",
+                "title": "Go Downstairs To The Blue Moon, Buy Some Fried Chicken",
+                "performer": "Bubble Tea and Cigarettes"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Your Song",
+                "performer": "Billy Paul"
+              },
+              {
+                "time": "23:11",
+                "title": "Alone",
+                "performer": "Matt Berry"
+              },
+              {
+                "time": "23:15",
+                "title": "Uncle Albert/Admiral Halsey",
+                "performer": "Bebopalula"
+              },
+              {
+                "time": "23:19",
+                "title": "Summer Soft",
+                "performer": "The Swingle Singers"
+              },
+              {
+                "time": "23:25",
+                "title": "Bad Heart",
+                "performer": "Nicholas Krgovich"
+              },
+              {
+                "time": "23:28",
+                "title": "Miss My Baby",
+                "performer": "Michael Seyer"
+              },
+              {
+                "time": "23:32",
+                "title": "Qachina",
+                "performer": "Damien Jurado"
+              },
+              {
+                "time": "23:36",
+                "title": "Incredible",
+                "performer": "The Candle Thieves"
+              },
+              {
+                "time": "23:37",
+                "title": "Airwaves",
+                "performer": "Thomas Dolby"
+              },
+              {
+                "time": "23:42",
+                "title": "Stella Maris",
+                "performer": "Sven Libaek and his Orchestra"
+              },
+              {
+                "time": "23:47",
+                "title": "Something Ferral",
+                "performer": "Alpha"
+              },
+              {
+                "time": "23:51",
+                "title": "Cherry Blossom Girl",
+                "performer": "Fireflies"
+              },
+              {
+                "time": "23:55",
+                "title": "Far From You",
+                "performer": "Bill Wells and Aidan Moffat"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
