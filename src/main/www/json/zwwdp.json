@@ -13508,22 +13508,27 @@
           "id": "18",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-05-20",
+          "checked": {
+            "date": "2021-06-05",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Reconnection",
                 "performer": "Mamas Gun"
               },
               {
-                "title": "Wearing the changes",
+                "title": "Wearing The Changes",
                 "performer": "Bart Davenport"
               },
               {
-                "title": "There's always someone cooler than you",
-                "performer": "Ben  Folds"
+                "title": "There's Always Someone Cooler Than You",
+                "performer": "Ben Folds"
               },
               {
-                "title": "Welcome to the boomtown",
+                "title": "Welcome To The Boomtown",
                 "performer": "David + David"
               },
               {
@@ -13531,11 +13536,11 @@
                 "performer": "Del Shannon"
               },
               {
-                "title": "Honey be good",
+                "title": "Honey Be Good",
                 "performer": "The Bible"
               },
               {
-                "title": "American interior",
+                "title": "American Interior",
                 "performer": "Gruff Rhys"
               },
               {
@@ -13543,15 +13548,15 @@
                 "performer": "Brian Protheroe"
               },
               {
-                "title": "Baby come back",
+                "title": "Baby Come Back",
                 "performer": "Player"
               },
               {
-                "title": "Fox's wedding",
-                "performer": "Hong Kong in the 60s"
+                "title": "Fox's Wedding",
+                "performer": "Hong Kong In The 60s"
               },
               {
-                "title": "These days I'm tired",
+                "title": "These Days I'm Tired",
                 "performer": "Ocean Colour Scene"
               },
               {
@@ -13559,13 +13564,14 @@
                 "performer": "My Sad Captains"
               },
               {
-                "title": "Excerpt from Tubular Bells",
-                "performer": "Mike  Oldfield"
+                "title": "Excerpt From Tubular Bells",
+                "performer": "Mike Oldfield"
               }
             ],
             [
               {
-                "title": "Too young to die",
+                "time": "21:04",
+                "title": "Too Young To Die",
                 "performer": "Jamiroquai"
               },
               {
@@ -13573,15 +13579,15 @@
                 "performer": "Izit"
               },
               {
-                "title": "Mind how you go now",
+                "title": "Mind How You Go Now",
                 "performer": "The Advisory Circle"
               },
               {
-                "title": "Only one in your love",
+                "title": "Only One In Your Love",
                 "performer": "Botany 5"
               },
               {
-                "title": "I'm a troubled man",
+                "title": "I'm A Troubled Man",
                 "performer": "Prefab Sprout"
               },
               {
@@ -13593,23 +13599,23 @@
                 "performer": "Bill Pritchard"
               },
               {
-                "title": "Misty atoll",
+                "title": "Misty Stoll",
                 "performer": "Roy More"
               },
               {
-                "title": "The things we do for love",
-                "performer": "10cc (Ten cc)"
+                "title": "The Things We Do For Love",
+                "performer": "10cc"
               },
               {
-                "title": "Perfect lovesong",
+                "title": "Perfect Lovesong",
                 "performer": "Philip Sheppard"
               },
               {
-                "title": "Stars make progress",
+                "title": "Stars Make Progress",
                 "performer": "Thirteen Senses"
               },
               {
-                "title": "Lotta love",
+                "title": "Lotta Love",
                 "performer": "Nicolette Larson"
               },
               {
@@ -13619,11 +13625,12 @@
             ],
             [
               {
-                "title": "The nightwatchman",
+                "time": "22:04",
+                "title": "The Nightwatchman",
                 "performer": "The  Duckworth Lewis Method"
               },
               {
-                "title": "The other side",
+                "title": "The Other Side",
                 "performer": "Roddy Frame"
               },
               {
@@ -13635,35 +13642,35 @@
                 "performer": "Fireflies"
               },
               {
-                "title": "An hour before the light",
-                "performer": "The  Clientele"
+                "title": "An Hour Before The Light",
+                "performer": "The Clientele"
               },
               {
-                "title": "Shoot me down",
-                "performer": "Everything But the Girl"
+                "title": "Shoot Me Down",
+                "performer": "Everything But The Girl"
               },
               {
-                "title": "Dime bag conspiracy",
+                "title": "Dime Bag Conspiracy",
                 "performer": "Lord Newborn & The Magic Skulls"
               },
               {
-                "title": "The art",
+                "title": "The Art",
                 "performer": "Mamas Gun"
               },
               {
-                "title": "Bach ze",
+                "title": "Bach Ze",
                 "performer": "High Llamas"
               },
               {
-                "title": "Hot dreams",
+                "title": "Hot Dreams",
                 "performer": "Timber Timbre"
               },
               {
-                "title": "I love you",
-                "performer": "Nicky Hopkins"
+                "title": "I Love You",
+                "performer": "Climax Blues Band"
               },
               {
-                "title": "Do I love you?",
+                "title": "Do I Love You?",
                 "performer": "Aztec Camera"
               },
               {
