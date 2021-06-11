@@ -13688,30 +13688,35 @@
           "id": "19",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-05-27",
+          "checked": {
+            "date": "2021-06-07",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Girls & boys",
                 "performer": "Blur"
               },
               {
-                "title": "Hanging around",
+                "title": "Hanging Around",
                 "performer": "The Stranglers"
               },
               {
-                "title": "Summer clothes",
+                "title": "Summer Clothes",
                 "performer": "Coloma"
               },
               {
-                "title": "Gold of my life",
+                "title": "Gold Of My life",
                 "performer": "Mixed Emotions"
               },
               {
-                "title": "Liberty (is where we'll be)",
-                "performer": "Rhys,Gruff"
+                "title": "Liberty (Is Where We'll Be)",
+                "performer": "Gruff Rhys"
               },
               {
-                "title": "Dust in the circuits",
+                "title": "Dust In The Circuits",
                 "performer": "Bart Davenport"
               },
               {
@@ -13719,23 +13724,23 @@
                 "performer": "Bill Pritchard"
               },
               {
-                "title": "On a string",
+                "title": "On A String",
                 "performer": "Mamas Gun"
               },
               {
                 "title": "Heavenly",
-                "performer": "Linus of Hollywood"
+                "performer": "Linus Of Hollywood"
               },
               {
                 "title": "Gangsters",
                 "performer": "The Specials"
               },
               {
-                "title": "Rainy day dog",
+                "title": "Rainy Day Dog",
                 "performer": "Lord Newborn & The Magic Skulls"
               },
               {
-                "title": "How we used to live",
+                "title": "How We Used To Live",
                 "performer": "Saint Etienne"
               },
               {
@@ -13745,6 +13750,7 @@
             ],
             [
               {
+                "time": "21:04",
                 "title": "Ding A Dong",
                 "performer": "Edwyn Collins"
               },
@@ -13753,12 +13759,24 @@
                 "performer": "Bill Pritchard"
               },
               {
-                "title": "Take 1 mit Bill Pritchard",
-                "performer": "ZwWdP"
+                "title": "We Were Lovers (Live Unplugged Bremen 4)",
+                "performer": "Bill Pritchard"
               },
               {
-                "title": "Take 2 mit Bill Pritchard",
-                "performer": "ZwWdP"
+                "title": "Angelique (Live Unplugged Bremen 4)",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "title": "Truly Blue (Live Unplugged Bremen 4)",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "title": "Romance Sans Paroles (Live Unplugged Bremen 4)",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "title": "Curly ('The Move' Cover, Live Unplugged Bremen 4)",
+                "performer": "Bill Pritchard"
               },
               {
                 "title": "Chances",
@@ -13769,45 +13787,50 @@
                 "performer": "The Beta Band"
               },
               {
-                "title": "Still I dream of it",
+                "title": "Still I dream Of It",
                 "performer": "Ed Harcourt"
+              },
+              {
+                "title": "Circles",
+                "performer": "Dario Piana"
               }
             ],
             [
               {
-                "title": "I'm not in love",
+                "time": "22:04",
+                "title": "I'm Not In Love",
                 "performer": "Fun Lovin' Criminals"
               },
               {
-                "title": "You've lost me there",
+                "title": "You've Lost Me There",
                 "performer": "Cardinal"
               },
               {
-                "title": "About a girl",
+                "title": "About A Girl",
                 "performer": "Pete Aves"
               },
               {
-                "title": "I'm the man that will find you",
+                "title": "I'm The Man That Will Find You",
                 "performer": "Connan Mockasin"
               },
               {
-                "title": "Sketches of Spain",
+                "title": "Sketches Of Spain",
                 "performer": "The Nits"
               },
               {
-                "title": "Ocean house",
+                "title": "Ocean House",
                 "performer": "Parsley Sound"
               },
               {
-                "title": "Western skies",
+                "title": "Western Skies (Live)",
                 "performer": "Roddy Frame"
               },
               {
-                "title": "Where are we now",
+                "title": "Where Are We Now",
                 "performer": "Villagers"
               },
               {
-                "title": "Ain't gonna come till I'm ready",
+                "title": "Ain't Gonna Come Till I'm Ready",
                 "performer": "World Party"
               },
               {
@@ -13815,15 +13838,15 @@
                 "performer": "The Dining Rooms"
               },
               {
-                "title": "Lonely press play",
+                "title": "Lonely Press Play",
                 "performer": "Damon Albarn"
               },
               {
-                "title": "A love of your own",
+                "title": "A Love Of Your Own",
                 "performer": "Ned Doheny"
               },
               {
-                "title": "Born to be adored",
+                "title": "Born To Be Adored",
                 "performer": "Momus"
               },
               {
@@ -13837,18 +13860,23 @@
           "id": "20",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-06-03",
+          "checked": {
+            "date": "2021-06-10",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Think for a minute",
+                "time": "20:04",
+                "title": "Think For A Minute",
                 "performer": "The Housemartins"
               },
               {
-                "title": "Nobody in the world",
+                "title": "Nobody In The World",
                 "performer": "Tony Christie"
               },
               {
-                "title": "I could not care less",
+                "title": "I Could Not Care Less",
                 "performer": "Apple Rabbits"
               },
               {
@@ -13856,7 +13884,7 @@
                 "performer": "Camera Obscura"
               },
               {
-                "title": "The girl with the smile",
+                "title": "The Girl With The Smile",
                 "performer": "Allen Clapp"
               },
               {
@@ -13880,41 +13908,42 @@
                 "performer": "Thirteen Senses"
               },
               {
-                "title": "The hairstyle of the devil",
+                "title": "The Hairstyle Of The Devil",
                 "performer": "Momus"
               },
               {
-                "title": "Syncopated motion",
+                "title": "Syncopated Motion",
                 "performer": "Eddie Warner"
               },
               {
-                "title": "Heaven's hotel",
+                "title": "Heaven's Hotel",
                 "performer": "Colorama"
               }
             ],
             [
               {
-                "title": "Tower of love",
+                "time": "2!:04",
+                "title": "Tower Of Love",
                 "performer": "Jim Noir"
               },
               {
-                "title": "Witchi tai to",
+                "title": "Witchi Tai To",
                 "performer": "Harper's Bizarre"
               },
               {
-                "title": "These days nothing but sunshine",
+                "title": "These Days Nothing But Sunshine",
                 "performer": "The Clientele"
               },
               {
-                "title": "Untitled duet #3",
+                "title": "Untitled Duet #3",
                 "performer": "Softlightes"
               },
               {
-                "title": "Dry the rain",
+                "title": "Dry The Rain",
                 "performer": "The Beta Band"
               },
               {
-                "title": "You're the first, the last, my everything",
+                "title": "You're The First, The Last, My Everything",
                 "performer": "Nancy Wallace"
               },
               {
@@ -13922,15 +13951,15 @@
                 "performer": "Saint Etienne"
               },
               {
-                "title": "Sugar insides",
+                "title": "Sugar Insides",
                 "performer": "Gruff Rhys"
               },
               {
-                "title": "In the dutch mountains",
+                "title": "In The Dutch Mountains",
                 "performer": "The Nits"
               },
               {
-                "title": "Confessions of a pop group",
+                "title": "Confessions Of A Pop Group",
                 "performer": "The Style Council"
               },
               {
@@ -13939,7 +13968,7 @@
               },
               {
                 "title": "Satellite",
-                "performer": "The Milk and Honey Band"
+                "performer": "The Milk And Honey Band"
               },
               {
                 "title": "Salsoul Hustle",
@@ -13948,11 +13977,12 @@
             ],
             [
               {
-                "title": "Funny how love is",
+                "time": "22:04",
+                "title": "Funny How Love Is",
                 "performer": "Fine Young Cannibals"
               },
               {
-                "title": "Under your charms",
+                "title": "Under Your Charms",
                 "performer": "Josh Rouse"
               },
               {
@@ -13960,23 +13990,23 @@
                 "performer": "The National Convention"
               },
               {
-                "title": "Singing to the sunshine",
+                "title": "Singing To The Sunshine",
                 "performer": "Cardinal"
               },
               {
-                "title": "Far away",
+                "title": "Far Away",
                 "performer": "Cranes"
               },
               {
-                "title": "Covers been blown",
+                "title": "Covers Been Blown",
                 "performer": "Alpha"
               },
               {
-                "title": "Moments in love",
+                "title": "Moments In Love ('Live At The End Of A Century'-Version)",
                 "performer": "The Art Of Noise"
               },
               {
-                "title": "Breakfast at Tiffany's",
+                "title": "Breakfast At Tiffany's",
                 "performer": "Henry Mancini"
               },
               {
@@ -13984,19 +14014,19 @@
                 "performer": "Alex Miles"
               },
               {
-                "title": "Hiding away",
+                "title": "Hiding Away",
                 "performer": "Fireflies"
               },
               {
-                "title": "Whistle of a distant train",
+                "title": "Whistle Of A Distant Train",
                 "performer": "Ed Harcourt"
               },
               {
-                "title": "Masked moods",
+                "title": "Masked Moods",
                 "performer": "Blue Rondo"
               },
               {
-                "title": "Hymn for him",
+                "title": "Hymn For Him",
                 "performer": "Georgie Fame"
               }
             ]
