@@ -66614,6 +66614,10 @@
         {
           "id": "23",
           "date": "2021-06-10",
+          "checked": {
+            "date": "2021-06-13",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -66657,7 +66661,7 @@
                 "performer": "Hubert Lenoir"
               },
               {
-                "time": "22:32",
+                "time": "22:31",
                 "title": "Waterways",
                 "performer": "Ole Johannes Åleskjær"
               },
@@ -66719,6 +66723,11 @@
                 "performer": "Mottron"
               },
               {
+                "time": "23:23",
+                "title": "Billy",
+                "performer": "John Grant"
+              },
+              {
                 "time": "23:27",
                 "title": "Right",
                 "performer": "Khruangbin"
@@ -66740,12 +66749,17 @@
               },
               {
                 "time": "23:43",
-                "title": "Playground Love",
+                "title": "Playground Love (KCRW LA Radio Jan 2000)",
                 "performer": "Air"
               },
               {
+                "time": "23:48",
+                "title": "Nachtflug (Eine kleine Stadtmusik)",
+                "performer": "Roettger/Goldstein"
+              },
+              {
                 "time": "23:52",
-                "title": "Where Are You?",
+                "title": "Where Are You? (The Astronaut's Wife) - Remixed And Remastered",
                 "performer": "Goldstoned"
               },
               {
