@@ -5290,7 +5290,56 @@
               { "title": "", "performer": "Adrian Lux feat. Lune"}
             ]
           ]
+        },
+        {
+          "id": "22",
+          "date": "2021-05-30",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Pray", "performer": "Joe Armon-Jones"},
+              { "title": "Pardon Me", "performer": "Evidence"},
+              { "title": "Movie", "performer": "Blxst & Bino Rideaux"},
+              { "title": "Yves Klein Blue", "performer": "Sweatson Klank"},
+              { "title": "Tunis Dream", "performer": "Anchorsong"},
+              { "title": "Walk With Me", "performer": "The Black Keys"},
+              { "title": "Going Down South (Remix)", "performer": "R.L.Burnside"},
+              { "title": "Live Forever", "performer": "Junior Sanchez & Todd Terry"},
+              { "title": "Come Back Around", "performer": "Eli & Fur"},
+              { "title": "Easy To Love", "performer": "Sam Evian"},
+              { "title": "Revolition", "performer": "Sons Of Raphael"},
+              { "title": "Be My Baby", "performer": "Andy Kim"},
+              { "title": "Moving Out", "performer": "Dayglow"}
+            ],
+            [
+              { "time": "23:04", "title": "Valleys", "performer": "Working Men´s Club "},
+              { "title": "Kreatur Der Nacht", "performer": "Solomun feat. Isolation Berlin"},
+              { "title": "Artistic Statement", "performer": "Rakom"},
+              { "title": "Talks (DJ Dairy Rmx)", "performer": "PVA"},
+              { "title": "X (Paranoid London Rmx)", "performer": "Working Men´s Club"},
+              { "title": "Swooning", "performer": "No Kill"},
+              { "title": "Pool Song", "performer": "Lea Porcelain"},
+              { "title": "An American Dream", "performer": "Love & Rockets"},
+              { "title": "American Honey", "performer": "Current Joys"},
+              { "title": "Prayer", "performer": "DMX"},
+              { "title": "Take Control", "performer": "DMX feat. Snoop Dogg"},
+              { "title": "Homesickness", "performer": "Easy Life"}
+            ],
+            [
+              { "time": "00:04", "title": "Skeletons", "performer": "Easy Life"},
+              { "title": "Dream Girl Concept", "performer": "Cartel Madras"},
+              { "title": "Realität", "performer": "Die Lieferanten"},
+              { "title": "Sensing Not Seeing", "performer": "John Carroll Kirby"},
+              { "title": "There´s Enough", "performer": "Conclave"},
+              { "title": "Forces Of Nature (Radio Slave 'New Age Of Love' Remix Part I)", "performer": "Amberoom"},
+              { "title": "Black Rainbow", "performer": "Koreless"},
+              { "title": "Diamond Stuff", "performer": "Black Midi"},
+              { "title": "Dethroned", "performer": "Black Mide"},
+              { "title": "No Road Without A Turn", "performer": "Mano Le Tough"},
+              { "title": "Ode To Friendship (Delone Rmx)", "performer": "Soul&"}
+            ]
+          ]
         }
+
 
       ]
     }
