@@ -14036,10 +14036,15 @@
           "id": "21",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-06-10",
+          "checked": {
+            "date": "2021-06-18",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "This charming man",
+                "time": "20:04",
+                "title": "This Charming Man",
                 "performer": "The Smiths"
               },
               {
@@ -14047,11 +14052,11 @@
                 "performer": "Duran Duran"
               },
               {
-                "title": "Gold of my life",
+                "title": "Gold Of My Life",
                 "performer": "Mixed Emotions"
               },
               {
-                "title": "Got to get you into my life",
+                "title": "Got To Get You Into My life",
                 "performer": "Ben From Corduroy"
               },
               {
@@ -14059,11 +14064,11 @@
                 "performer": "Black Twig"
               },
               {
-                "title": "It's different for Girls",
+                "title": "It's Different For Girls",
                 "performer": "Joe Jackson"
               },
               {
-                "title": "Space, he called from the kitchen",
+                "title": "Space, He Called From The Kitchen (12 Inch Mix)",
                 "performer": "It's Immaterial"
               },
               {
@@ -14075,37 +14080,38 @@
                 "performer": "The Voluntary Butler Scheme"
               },
               {
-                "title": "You showed me",
+                "title": "You Showed Me",
                 "performer": "The Turtles"
               },
               {
-                "title": "Save your kisses for me",
+                "title": "Save Your Kisses For Me",
                 "performer": "Kenickie"
               },
               {
-                "title": "Only when I'm with you",
+                "title": "Only When I'm With You",
                 "performer": "Samuel Purdey"
               },
               {
-                "title": "Exus trek",
+                "title": "Exus Trek",
                 "performer": "Luther Ingram Orchestra"
               },
               {
-                "title": "A fifth of Beethoven",
+                "title": "A Fifth Of Beethoven",
                 "performer": "The Walter Murphy Band"
               }
             ],
             [
               {
+                "time": "21:04",
                 "title": "My Girl",
                 "performer": "Chilliwack"
               },
               {
-                "title": "Live forever",
+                "title": "Live Forever",
                 "performer": "Oasis"
               },
               {
-                "title": "5.01 AM (The pros & cons of hitchhiking - Part 10)",
+                "title": "5.01 AM (The Pros & Cons Of Hitchhiking - Part 10)",
                 "performer": "Roger Waters"
               },
               {
@@ -14113,7 +14119,7 @@
                 "performer": "Paul Weller"
               },
               {
-                "title": "I'm comin' to the best part of my life",
+                "title": "I'm Comin' To The Best Part Of My Life",
                 "performer": "Roger Nichols & The Small Circle Of Fri"
               },
               {
@@ -14125,7 +14131,7 @@
                 "performer": "The Upsetters"
               },
               {
-                "title": "Too late to turn back now",
+                "title": "Too Late To Turn Back Now",
                 "performer": "Cornelius Brothers & Sister Rose"
               },
               {
@@ -14133,19 +14139,19 @@
                 "performer": "Mamas Gun"
               },
               {
-                "title": "Take up a course in happiness",
+                "title": "Take Up A Course In Happiness",
                 "performer": "Stevie Wonder"
               },
               {
-                "title": "Cynical eye",
+                "title": "Cynical Eye",
                 "performer": "Fritz Doddy"
               },
               {
-                "title": "All kinds of everything",
+                "title": "All Kinds Of Everything",
                 "performer": "Terry Hall & Sinead O'Connor"
               },
               {
-                "title": "Nobody has to know",
+                "title": "Nobody Has To Know",
                 "performer": "Spain"
               },
               {
@@ -14155,7 +14161,8 @@
             ],
             [
               {
-                "title": "Suicide is painless",
+                "time": "22:04",
+                "title": "Suicide Is Painless",
                 "performer": "Grady Tate"
               },
               {
@@ -14167,7 +14174,7 @@
                 "performer": "Echostream"
               },
               {
-                "title": "Goin' out of my head",
+                "title": "Goin' Out Of My Head",
                 "performer": "Frank Sinatra"
               },
               {
@@ -14175,11 +14182,11 @@
                 "performer": "Ramsey Lewis"
               },
               {
-                "title": "The boom boom bap",
+                "title": "The Boom Boom Bap",
                 "performer": "Scritti Politti"
               },
               {
-                "title": "How does it make you feel",
+                "title": "How Does It mMke You Feel",
                 "performer": "Air"
               },
               {
@@ -14195,15 +14202,15 @@
                 "performer": "The Night Strings"
               },
               {
-                "title": "Master plan",
+                "title": "Master Plan",
                 "performer": "Nightmares On Wax"
               },
               {
-                "title": "Slip into something",
+                "title": "Slip Into Something",
                 "performer": "Kinobe"
               },
               {
-                "title": "A brief history",
+                "title": "A Brief History",
                 "performer": "Thirteen Senses"
               },
               {
