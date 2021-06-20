@@ -14224,6 +14224,11 @@
           "id": "22",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-06-17",
+          "comment": "WM 2014 Fußballsong-Special",
+          "checked": {
+            "date": "2021-06-20",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -14288,7 +14293,7 @@
               },
               {
                 "title": "On The Ball",
-                "performer": "John Schroeder Orchestra"
+                "performer": "The John Schroeder Orchestra"
               }
             ],
             [
@@ -14333,7 +14338,7 @@
                 "performer": "Frank Schöbel"
               },
               {
-                "title": "Alltogethernow 2004",
+                "title": "All Together Now 2004",
                 "performer": "The Farm"
               },
               {
@@ -14349,16 +14354,16 @@
                 "performer": "Fat Les"
               },
               {
-                "title": "WM-Sieg 1974",
-                "performer": "Heribert Fassbender, Oskar Klose"
-              },
-              {
                 "title": "Hocus Pocus World Cup 2010",
                 "performer": "Focus"
               },
               {
-                "title": "Arakatuba",
-                "performer": "Pelé remixed by Ballistic Brothers"
+                "title": "WM-Sieg 1974",
+                "performer": "Heribert Fassbender, Oskar Klose"
+              },
+              {
+                "title": "Pelé",
+                "performer": "Arakatuba & The Ballistic Brothers"
               }
             ],
             [
@@ -14379,6 +14384,10 @@
                 "performer": "Edi Finger"
               },
               {
+                "title": "Zweiter",
+                "performer": "Plus49"
+              },
+              {
                 "title": "Kloppo! Kloppo! Kloppo!",
                 "performer": "This Week's Special Guest Stars"
               },
@@ -14387,16 +14396,12 @@
                 "performer": "Terry Venables"
               },
               {
-                "title": "Zweiter",
-                "performer": "Plus49"
+                "title": "Du bist das Glück",
+                "performer": "Franz Beckenbauer"
               },
               {
                 "title": "Uli Hoeneß ist böse",
                 "performer": "Interlude"
-              },
-              {
-                "title": "Du bist das Glück",
-                "performer": "Franz Beckenbauer"
               },
               {
                 "title": "You'll Never Walk Alone",
@@ -14407,6 +14412,10 @@
                 "performer": "Joint Venture"
               },
               {
+                "title": "When Georgie Died",
+                "performer": "Louis Philippe"
+              },
+              {
                 "title": "Aufgeregter Reporter",
                 "performer": "Interlude"
               },
@@ -14415,12 +14424,12 @@
                 "performer": "Epilog"
               },
               {
-                "title": "When Georgie Died",
-                "performer": "Louis Philippe"
-              },
-              {
                 "title": "World Cup Argentina",
                 "performer": "Ennio Morricone"
+              },
+              {
+                "title": "Epilogue",
+                "performer": "Dimitri From Paris"
               }
             ]
           ]
