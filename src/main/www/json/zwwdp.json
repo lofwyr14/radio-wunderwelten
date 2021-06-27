@@ -66935,6 +66935,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "25",
+          "date": "2021-06-24",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "We'll Be The Summer",
+                "performer": "The Pearlfishers"
+              },
+              {
+                "time": "22:07",
+                "title": "Neighbourhood",
+                "performer": "Space"
+              },
+              {
+                "time": "22:10",
+                "title": "Beaming",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "22:14",
+                "title": "Now She Knows She's Wrong",
+                "performer": "Jellyfish"
+              },
+              {
+                "time": "22:17",
+                "title": "Memory Of A Free Festival",
+                "performer": "David Bowie"
+              },
+              {
+                "time": "22:22",
+                "title": "Yes Sir, I Can Boogie",
+                "performer": "The Fratellis"
+              },
+              {
+                "time": "22:26",
+                "title": "Planet Claire",
+                "performer": "Les Deux Love Orchestra"
+              },
+              {
+                "time": "22:31",
+                "title": "Neverland",
+                "performer": "YMB"
+              },
+              {
+                "time": "22:36",
+                "title": "Songbird (Demo)",
+                "performer": "Oasis"
+              },
+              {
+                "time": "22:40",
+                "title": "The Dying Of The Light",
+                "performer": "Noel Gallagher's High Flying Birds"
+              },
+              {
+                "time": "22:45",
+                "title": "Gentle On My Mind",
+                "performer": "Dylan Leblanc"
+              },
+              {
+                "time": "22:49",
+                "title": "Since I Left You",
+                "performer": "The Avalanches"
+              },
+              {
+                "time": "22:55",
+                "title": "Salad Bar",
+                "performer": "The Zenmenn"
+              },
+              {
+                "time": "22:59",
+                "title": "The Return Of The Los Palmas 7",
+                "performer": "Madness"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "The Chauffeur",
+                "performer": "Duran Duran"
+              },
+              {
+                "time": "23:10",
+                "title": "When Did You Stop Loving Me, When Did I Stop Loving You",
+                "performer": "Marvin Gaye"
+              },
+              {
+                "time": "23:16",
+                "title": "Stevie's Room",
+                "performer": "Mocky"
+              },
+              {
+                "time": "23:20",
+                "title": "Garçon Manqué",
+                "performer": "Maston"
+              },
+              {
+                "time": "23:22",
+                "title": "This Masquerade",
+                "performer": "George Benson & DJ E.A.S.E."
+              },
+              {
+                "time": "23:26",
+                "title": "Feeling Good",
+                "performer": "Pat Bowie"
+              },
+              {
+                "time": "23:31",
+                "title": "Aquarius",
+                "performer": "Sound Foundation"
+              },
+              {
+                "time": "23:37",
+                "title": "Under The Warm Sun",
+                "performer": "A Girl Called Eddy"
+              },
+              {
+                "time": "23:40",
+                "title": "Cosmorama",
+                "performer": "Beautify Junkyards"
+              },
+              {
+                "time": "23:43",
+                "title": "We'Ll Find A Place",
+                "performer": "Swing Out Sister"
+              },
+              {
+                "time": "23:48",
+                "title": "Golden Lady",
+                "performer": "Lambchop"
+              },
+              {
+                "time": "23:55",
+                "title": "Summer In The City",
+                "performer": "Eels"
+              },
+              {
+                "time": "23:57",
+                "title": "Evelyne",
+                "performer": "Jean-Claude Vannier et son Orchestre"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
