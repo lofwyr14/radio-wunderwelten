@@ -14438,9 +14438,14 @@
           "id": "23",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-06-24",
+          "checked": {
+            "date": "2021-06-27",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Shake It Up",
                 "performer": "The Cars"
               },
@@ -14485,6 +14490,10 @@
                 "performer": "The Soundcarriers"
               },
               {
+                "title": "More Today Than Yesterday",
+                "performer": "The Spiral Starecase"
+              },
+              {
                 "title": "Perdido",
                 "performer": "Dr. John"
               },
@@ -14495,6 +14504,7 @@
             ],
             [
               {
+                "time": "21:04",
                 "title": "Never Let Her Slip Away",
                 "performer": "Andrew Gold"
               },
@@ -14512,7 +14522,7 @@
               },
               {
                 "title": "I'm A Man",
-                "performer": "Spencer Davis Group"
+                "performer": "The Spencer Davis Group"
               },
               {
                 "title": "Yesterday's News",
@@ -14553,11 +14563,12 @@
             ],
             [
               {
+                "time": "22:04",
                 "title": "Night And Day",
                 "performer": "Everything But The Girl"
               },
               {
-                "title": "Oh Patti!",
+                "title": "Oh Patti (Don't Feel Sorry For Loverboy)",
                 "performer": "Scritti Politti"
               },
               {
