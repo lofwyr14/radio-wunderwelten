@@ -66939,6 +66939,10 @@
         {
           "id": "25",
           "date": "2021-06-24",
+          "checked": {
+            "date": "2021-06-28",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -66998,7 +67002,7 @@
               },
               {
                 "time": "22:49",
-                "title": "Since I Left You",
+                "title": "Since I Left You (Stereolab Remix)",
                 "performer": "The Avalanches"
               },
               {
@@ -67035,8 +67039,8 @@
               },
               {
                 "time": "23:22",
-                "title": "This Masquerade",
-                "performer": "George Benson & DJ E.A.S.E."
+                "title": "This Masquerade (Nightmares On Wax JJP Mix)",
+                "performer": "George Benson"
               },
               {
                 "time": "23:26",
@@ -67070,7 +67074,7 @@
               },
               {
                 "time": "23:55",
-                "title": "Summer In The City",
+                "title": "Summer In The City (Live at Kexp, Seattle, 2011)",
                 "performer": "Eels"
               },
               {
