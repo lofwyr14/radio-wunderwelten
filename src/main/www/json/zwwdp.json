@@ -14626,10 +14626,14 @@
           "id": "24",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-07-01",
+          "checked": {
+            "date": "2021-07-01",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Eanie meanie (Eanie meany)",
+                "title": "Eanie Meany (Fatboy Slim Remix - Radio Edit)",
                 "performer": "Jim Noir"
               },
               {
@@ -14637,19 +14641,19 @@
                 "performer": "The Vals"
               },
               {
-                "title": "Daydream [live",
+                "title": "Daydream (Live)",
                 "performer": "Paul Weller"
               },
               {
-                "title": "I saw you heavenly Girl",
+                "title": "I Saw You Heavenly Girl",
                 "performer": "Co-Pilgrim"
               },
               {
-                "title": "I'll keep on joking",
+                "title": "I'll Keep On Joking",
                 "performer": "BMX Bandits"
               },
               {
-                "title": "I get the message",
+                "title": "I Get The Message",
                 "performer": "Ivy"
               },
               {
@@ -14661,15 +14665,15 @@
                 "performer": "David T. Walker"
               },
               {
-                "title": "Still knocking at the door",
+                "title": "Still Knocking At The Door",
                 "performer": "Papercuts"
               },
               {
-                "title": "Together in electric dreams",
+                "title": "Together In Electric Dreams",
                 "performer": "The Voluntary Butler Scheme"
               },
               {
-                "title": "Tryouts for the human race",
+                "title": "Tryouts For The Human Race",
                 "performer": "Sparks"
               },
               {
@@ -14677,12 +14681,12 @@
                 "performer": "Air"
               },
               {
-                "title": "So beguiled",
+                "title": "So Beguiled",
                 "performer": "The Soundcarriers"
               },
               {
                 "title": "Flash",
-                "performer": "Marquis of Kensington"
+                "performer": "Marquis Of Kensington"
               }
             ],
             [
@@ -14692,10 +14696,10 @@
               },
               {
                 "title": "Shang",
-                "performer": "House of Hiss"
+                "performer": "House Of Hiss"
               },
               {
-                "title": "Honey trap",
+                "title": "Honey Trap",
                 "performer": "J-Walk"
               },
               {
@@ -14703,11 +14707,11 @@
                 "performer": "Shack"
               },
               {
-                "title": "Get it up for love",
+                "title": "Get It Up For Love",
                 "performer": "Ned Doheny"
               },
               {
-                "title": "You keep me hangin' on",
+                "title": "You Keep Me Hangin' On",
                 "performer": "Madness"
               },
               {
@@ -14715,11 +14719,11 @@
                 "performer": "Spunk"
               },
               {
-                "title": "Happy",
+                "title": "Happy (King Of Nowhere Remix)",
                 "performer": "Brookville"
               },
               {
-                "title": "How blue",
+                "title": "How Blue",
                 "performer": "Bleu"
               },
               {
@@ -14727,7 +14731,7 @@
                 "performer": "Diethelm - Famulari"
               },
               {
-                "title": "Cold moments",
+                "title": "Cold Moments",
                 "performer": "Paul Weller"
               },
               {
@@ -14741,23 +14745,23 @@
                 "performer": "Wanda Rivera"
               },
               {
-                "title": "Takin' it back",
+                "title": "Takin' It Back",
                 "performer": "Toto"
               },
               {
-                "title": "To the end",
+                "title": "To The End",
                 "performer": "Blur"
               },
               {
-                "title": "Hundreds of sparrows",
+                "title": "Hundreds Of Sparrows",
                 "performer": "Sparklehorse"
               },
               {
-                "title": "The worst that could happen",
+                "title": "The Worst That Could Happen",
                 "performer": "The 5th Dimension"
               },
               {
-                "title": "Sorcerer's delight",
+                "title": "Sorcerer's Delight",
                 "performer": "Michael Angelo"
               },
               {
@@ -14765,19 +14769,19 @@
                 "performer": "Elevator Suite"
               },
               {
-                "title": "The whole point II",
-                "performer": "Style Council"
+                "title": "The Whole Point II",
+                "performer": "THe Style Council"
               },
               {
-                "title": "Flying thru Canyons",
+                "title": "Flying Thru Canyons",
                 "performer": "Jason Lytle"
               },
               {
-                "title": "Slow hot wind",
+                "title": "Slow Hot Wind",
                 "performer": "Sarah Vaughan"
               },
               {
-                "title": "Your sweet love",
+                "title": "Your Sweet Love",
                 "performer": "Lee Hazlewood"
               },
               {
@@ -14785,16 +14789,20 @@
                 "performer": "The Divine Comedy"
               },
               {
-                "title": "Waiting for you to come",
+                "title": "Waiting For You To Come",
                 "performer": "Spain"
               },
               {
-                "title": "The Paris match",
+                "title": "The Paris Match",
                 "performer": "Kristyna Myles"
               },
               {
                 "title": "Flucht",
                 "performer": "Martin Böttcher"
+              },
+              {
+                "title": "UNBEKANNTER TITEL",
+                "performer": "UNBEKANNT"
               }
             ]
           ]
