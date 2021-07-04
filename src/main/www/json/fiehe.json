@@ -5340,7 +5340,55 @@
               { "title": "Ode To Friendship (Delone Rmx)", "performer": "Soul&"}
             ]
           ]
+        },
+        {
+          "id": "23",
+          "date": "2021-06-06",
+          "songs": [
+            [
+              { "time": "22:04", "title": "This Sound", "performer": "Greentea Peng"},
+              { "title": "Jimtastic Blues", "performer": "Greentea Peng"},
+              { "title": "Be Careful", "performer": "Greentea Peng"},
+              { "title": "Space Flute", "performer": "Mick Woods"},
+              { "title": "Cold Nights In The 61", "performer": "Bugzy Malone"},
+              { "title": "Spectre", "performer": "Emma-Jean Thackray"},
+              { "title": "Stave Hill", "performer": "Dampé"},
+              { "title": "Baby", "performer": "Baltra"},
+              { "title": "Hope You´re Doin´ Better", "performer": "MNDSGN"},
+              { "title": "Dawn Patrol", "performer": "Rose City Band"},
+              { "title": "Summer Of 99", "performer": "ViVii"}
+            ],
+            [
+              { "time": "23:04", "title": "Something About You", "performer": "Eyedress feat. Dent May"},
+              { "title": "Song For Europe", "performer": "Nicolette"},
+              { "title": "Fugeez Or Not? (Ready Or Not) (DJ Zinc Rmx)", "performer": "Fugees VS DJ Zinc"},
+              { "title": "313", "performer": "Need For Mirrors"},
+              { "title": "Meditation", "performer": "Greentea Peng"},
+              { "title": "The Hearse", "performer": "Mustafa"},
+              { "title": "New Day", "performer": "Night Beats"},
+              { "title": "Revolution", "performer": "Night Beats"},
+              { "title": "Hey Man", "performer": "Brodka"},
+              { "title": "Shadow", "performer": "Night Beats"},
+              { "title": "Spirit In The Sky", "performer": "Norman Greenbaum"},
+              { "title": "Bittersweet Demons", "performer": "The Murlocs"}
+            ],
+            [
+              { "time": "23:04", "title": "Pause Play", "performer": "Hawel/McPhail"},
+              { "title": "Play The Greatest Hits", "performer": "Wolf Alice"},
+              { "title": "Damaged Goods", "performer": "La Roux"},
+              { "title": "How Can I Make It Ok?", "performer": "Wolf Alice"},
+              { "title": "Bisous", "performer": "Darjeeling"},
+              { "title": "Genuine Hesitation", "performer": "Matthew E. White"},
+              { "title": "Family Dinner", "performer": "Robbing Millions"},
+              { "title": "Perfect Girl", "performer": "KUOKO"},
+              { "title": "Be Sweet", "performer": "Japanese Breakfast"},
+              { "title": "Moon", "performer": "Bachelor"},
+              { "title": "Swooning", "performer": "No Kill"},
+              { "title": "Shiva With Dustpan", "performer": "Ryley Walker"}
+            ]
+          ]
         }
+
 
 
       ]
