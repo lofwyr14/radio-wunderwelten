@@ -14811,46 +14811,55 @@
           "id": "25",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-07-15",
+          "checked": {
+            "date": "2021-07-04",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Clear skies ever closer",
+                "time": "20:04",
+                "title": "Clear Skies Ever Closer",
                 "performer": "Cherry Ghost"
               },
               {
-                "title": "This is the day",
+                "title": "This Is The Day",
                 "performer": "The The"
               },
               {
-                "title": "Uncertain smile",
+                "title": "Uncertain Smile",
                 "performer": "The The"
               },
               {
-                "title": "Love entropy",
+                "title": "Love Entropy",
                 "performer": "Colorama"
               },
               {
-                "title": "I get the sweetest feeling",
+                "title": "Clear Skies Ever Closer",
+                "performer": "Cherry Ghost"
+              },
+              {
+                "title": "I Get the Sweetest Feeling",
                 "performer": "Erma Franklin"
               },
               {
-                "title": "Teenage kicks",
+                "title": "Teenage Kicks",
                 "performer": "Seabear"
               },
               {
-                "title": "Family affair",
+                "title": "Family Affair",
                 "performer": "The Generation Gap"
               },
               {
-                "title": "Curtains",
+                "title": "Curtains!?",
                 "performer": "Timber Timbre"
               },
               {
-                "title": "Don't kill it Carol",
+                "title": "Don't Kill It Carol",
                 "performer": "Manfred Mann's Earth Band"
               },
               {
-                "title": "Walking after you",
+                "title": "Walking After You",
                 "performer": "Foo Fighters"
               },
               {
@@ -14858,17 +14867,18 @@
                 "performer": "Jean-Luc Ponty"
               },
               {
-                "title": "Sound and vision",
+                "title": "Sound And Vision",
                 "performer": "The Sea And Cake"
               }
             ],
             [
               {
-                "title": "The word girl (flesh and blood)",
+                "time": "21:04",
+                "title": "The Word Girl (Flesh And Blood)",
                 "performer": "Scritti Politti"
               },
               {
-                "title": "Where do the girls of the summer go",
+                "title": "Where Do The Girls Of The Summer Go",
                 "performer": "Mark Eric"
               },
               {
@@ -14876,39 +14886,39 @@
                 "performer": "Colorama"
               },
               {
-                "title": "Pink Panther",
+                "title": "The Pink Panther Thme (Mixed)",
                 "performer": "The Alan Tew Orchestra"
               },
               {
-                "title": "Grew into something new",
+                "title": "Grew Into Something New",
                 "performer": "Co-Pilgrim"
               },
               {
-                "title": "Time of the season",
+                "title": "Time Of The Season",
                 "performer": "Paul Weller"
               },
               {
-                "title": "Empty ring",
+                "title": "Empty Ring",
                 "performer": "Paul Weller"
               },
               {
-                "title": "Romantic attitude",
-                "performer": "John Fitch and Associates"
+                "title": "Romantic Attitude",
+                "performer": "John Fitch And Associates"
               },
               {
                 "title": "Diggers",
                 "performer": "Bitter Ruin"
               },
               {
-                "title": "Just hang on",
+                "title": "Just Hang On",
                 "performer": "Expo"
               },
               {
-                "title": "I'm Mandy fly me",
+                "title": "I'm Mandy Fly Me",
                 "performer": "10cc"
               },
               {
-                "title": "Bye bye cellphone",
+                "title": "Bye Bye Cellphone",
                 "performer": "1973"
               },
               {
@@ -14926,27 +14936,28 @@
             ],
             [
               {
-                "title": "I ain't gonna be the first to cry",
+                "time": "22:04",
+                "title": "I Ain't Gonna Be The First To Cry",
                 "performer": "Bob Moses"
               },
               {
-                "title": "Nubian queen",
+                "title": "Nubian Queen",
                 "performer": "Michael Angelo"
               },
               {
-                "title": "Easter morgning",
+                "title": "Easter Morgning",
                 "performer": "Papercuts"
               },
               {
-                "title": "Have a balloon",
+                "title": "Have A Balloon",
                 "performer": "Little Tornados"
               },
               {
-                "title": "Fools in love",
+                "title": "Fools In Love",
                 "performer": "Inara George"
               },
               {
-                "title": "God give me strength",
+                "title": "God Give Me Strength",
                 "performer": "Elvis Costello & Burt Bacharach"
               },
               {
@@ -14958,19 +14969,19 @@
                 "performer": "Kishi Bashi"
               },
               {
-                "title": "My autumn's done come",
+                "title": "My Autumn's Done Come",
                 "performer": "Lee Hazlewood"
               },
               {
-                "title": "Hot dreams",
+                "title": "Hot Dreams",
                 "performer": "Timber Timbre"
               },
               {
-                "title": "We're not alone",
+                "title": "We're Not Alone",
                 "performer": "J-Walk"
               },
               {
-                "title": "Time folks",
+                "title": "Time Folks",
                 "performer": "Colorama"
               }
             ]
