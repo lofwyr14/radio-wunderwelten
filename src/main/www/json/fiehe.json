@@ -5373,7 +5373,7 @@
               { "title": "Bittersweet Demons", "performer": "The Murlocs"}
             ],
             [
-              { "time": "23:04", "title": "Pause Play", "performer": "Hawel/McPhail"},
+              { "time": "00:04", "title": "Pause Play", "performer": "Hawel/McPhail"},
               { "title": "Play The Greatest Hits", "performer": "Wolf Alice"},
               { "title": "Damaged Goods", "performer": "La Roux"},
               { "title": "How Can I Make It Ok?", "performer": "Wolf Alice"},
@@ -5387,10 +5387,54 @@
               { "title": "Shiva With Dustpan", "performer": "Ryley Walker"}
             ]
           ]
+        },
+        {
+          "id": "24",
+          "date": "2021-06-13",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Free Again", "performer": "DJ Zinc"},
+              { "title": "Come On", "performer": "Seb Zito"},
+              { "title": "The Flight", "performer": "My Nu Leng feat. Dismantle"},
+              { "title": "Lucid Dream", "performer": "ASC"},
+              { "title": "Slow Down", "performer": "ASC"},
+              { "title": "Yours", "performer": "King GIzzard & The Lizard Wizard"},
+              { "title": "Golf Girl", "performer": "Caravan"},
+              { "title": "Womb", "performer": "Scuba + DOMiNii"},
+              { "title": "Wishful Thinking VIP", "performer": "Vaccine"},
+              { "title": "Brügge", "performer": "Tom Taschenmesser"},
+              { "title": "Dichter", "performer": "Layla"}
+            ],
+            [
+              { "time": "23:04", "title": "Creamy", "performer": "Layla"},
+              { "title": "Picasso", "performer": "Migos & Future"},
+              { "title": "Pots N Pans", "performer": "Young Thug feat. Lil Duke & NAV"},
+              { "title": "Sleeping Tiger On The Bund", "performer": "Mindy Meng Wang & Tom Shiel"},
+              { "title": "Weiße Steppe", "performer": "Vaovao"},
+              { "title": "Lawmaker", "performer": "Darkside"},
+              { "title": "Dansu", "performer": "Aili & Transistorcake"},
+              { "title": "Lost Again (Extended Dance Version)", "performer": "Yello"},
+              { "title": "Thrill (Did They Hear Me Calling) (Egyptian Lover Remix)", "performer": "Future Islands"},
+              { "title": "Night Light", "performer": "Cold Cave"},
+              { "title": "Mädchen Sind Die Schönsten Jungs", "performer": "Drangsal"},
+              { "title": "He´s A Woman", "performer": "Jeff Özdemir With Knarf Rellöm & DJ Patex"},
+              { "title": "Truth Interlude", "performer": "Mndsgn"}
+            ],
+            [
+              { "time": "00:04", "title": "St. Tropez", "performer": "Wein & Haschisch"},
+              { "title": "Bevor Du Aufstehst", "performer": "Der Frühling"},
+              { "title": "Genuine Hesitation", "performer": "Matthew E. White"},
+              { "title": "Do The Strand", "performer": "Bryan Ferry"},
+              { "title": "Hallo", "performer": "Balbina"},
+              { "title": "Interior People", "performer": "King Gizzard & The Lizard Wizard"},
+              { "title": "On (Elkka Rmx)", "performer": "Kelly Lee Owens"},
+              { "title": "Let The Music Take Control", "performer": "Waifs & Strays"},
+              { "title": "Down The Line", "performer": "Sleater-Kinney"},
+              { "title": "The News", "performer": "Twisk"},
+              { "title": "High And Low", "performer": "Telquist"}
+            ]
+          ]
         }
-
-
-
       ]
     }
   ]
