@@ -5344,6 +5344,7 @@
         {
           "id": "23",
           "date": "2021-06-06",
+          "checked": { "date": "2021-07-07", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "This Sound", "performer": "Greentea Peng"},
@@ -5361,7 +5362,7 @@
             [
               { "time": "23:04", "title": "Something About You", "performer": "Eyedress feat. Dent May"},
               { "title": "Song For Europe", "performer": "Nicolette"},
-              { "title": "Fugeez Or Not? (Ready Or Not) (DJ Zinc Rmx)", "performer": "Fugees VS DJ Zinc"},
+              { "title": "Fugeez Or Not? (Ready Or Not) (DJ Zinc Remix)", "performer": "Fugees VS DJ Zinc"},
               { "title": "313", "performer": "Need For Mirrors"},
               { "title": "Meditation", "performer": "Greentea Peng"},
               { "title": "The Hearse", "performer": "Mustafa"},
@@ -5370,7 +5371,7 @@
               { "title": "Hey Man", "performer": "Brodka"},
               { "title": "Shadow", "performer": "Night Beats"},
               { "title": "Spirit In The Sky", "performer": "Norman Greenbaum"},
-              { "title": "Bittersweet Demons", "performer": "The Murlocs"}
+              { "title": "Eating At You", "performer": "The Murlocs"}
             ],
             [
               { "time": "00:04", "title": "Pause Play", "performer": "Hawel/McPhail"},
@@ -5378,7 +5379,7 @@
               { "title": "Damaged Goods", "performer": "La Roux"},
               { "title": "How Can I Make It Ok?", "performer": "Wolf Alice"},
               { "title": "Bisous", "performer": "Darjeeling"},
-              { "title": "Genuine Hesitation", "performer": "Matthew E. White"},
+              { "title": "Genuine Hesitation (Edit)", "performer": "Matthew E. White"},
               { "title": "Family Dinner", "performer": "Robbing Millions"},
               { "title": "Perfect Girl", "performer": "KUOKO"},
               { "title": "Be Sweet", "performer": "Japanese Breakfast"},
