@@ -5486,8 +5486,58 @@
               { "title": "Camera", "performer": "Robbing Millions"}
             ]
           ]
+        },
+        {
+          "id": "26",
+          "date": "2021-06-27",
+          "songs": [
+            [
+              { "time": "22:04", "title": "One Time´s Got No Case", "performer": "Sir Mix-A-Lot"},
+              { "title": "Disco Pantz", "performer": "Rejjie Snow feat. Tinashe & grouptherapy"},
+              { "title": "Soundgasm", "performer": "Rema"},
+              { "title": "Tempo", "performer": "Nasaya & Maro"},
+              { "title": "Life Dilemma", "performer": "Who Else & Albuquerque"},
+              { "title": "Strawberry", "performer": "Doss"},
+              { "title": "Head Cheerleader", "performer": "Pom Pom Squad"},
+              { "title": "You're Not Real You're Just A Ghost", "performer": "Sophia Bel"},
+              { "title": "Chaise Longue", "performer": "Wet Leg"},
+              { "title": "The End Of The World", "performer": "The Cool Greenhouse"},
+              { "title": "Television", "performer": "The Lounge Society"},
+              { "title": "It´s My Dog, Maestro", "performer": "Eton Crop"},
+              { "title": "Keep It Together", "performer": "Pip Blom"},
+              { "title": "Making Friends Is Easy", "performer": "Kuoko"},
+              { "title": "F*ck Your Choices", "performer": "Mykki Blanco"}
+            ],
+            [
+              { "time": "23:04", "title": "A Different You", "performer": "TOMÁ feat. I Am Tim"},
+              { "title": "Unfold You", "performer": "Rostam"},
+              { "title": "Rumours", "performer": "Kings Of Convenience"},
+              { "title": "Right", "performer": "Khruangbin"},
+              { "title": "Free Ride", "performer": "Mykki Blanco"},
+              { "title": "Nabi", "performer": "Peggy Gou feat. OHHYUK"},
+              { "title": "Mystery Girl", "performer": "Mystery"},
+              { "title": "Love Me", "performer": "Mykki Blanco feat. Jamila Woods & Jay Cue"},
+              { "title": "Lesson´s Learned", "performer": "Joeski"},
+              { "title": "Breaking My Mind", "performer": "Kiimi"},
+              { "title": "Black Star Dancing", "performer": "Noel Gallagher´s High Flying Birds"}
+            ],
+            [
+              { "time": "00:04", "title": "Touch The Skies", "performer": "Pink Turns Blue"},
+              { "title": "Burn The Heather", "performer": "The Lounge Society"},
+              { "title": "G.S.K.", "performer": "Squid"},
+              { "title": "Modern Wank", "performer": "DJ Y"},
+              { "title": "Slow Down", "performer": "ASC"},
+              { "title": "Lucid Dream", "performer": "ASC"},
+              { "title": "Smile & Wave", "performer": "Inja"},
+              { "title": "Falling", "performer": "Sl8r, Slay & Chimpo"},
+              { "title": "In My Prime", "performer": "Mieux"},
+              { "title": "Rapido", "performer": "Amenazzy, Farruko, Myke Towers & Rochy RD"},
+              { "title": "Rise", "performer": "Conclave"},
+              { "title": "Mind The Gap", "performer": "Twisk"},
+              { "title": "Camera", "performer": "Robbing Millions"}
+            ]
+          ]
         }
-
       ]
     }
   ]
