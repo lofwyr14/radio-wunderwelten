@@ -5491,6 +5491,7 @@
         {
           "id": "26",
           "date": "2021-06-27",
+          "checked": { "date": "2021-07-18", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Space", "performer": "Biome "},
@@ -5515,8 +5516,8 @@
               { "title": "4am (Park End Refix)", "performer": "Low End Activist"},
               { "title": "Pass", "performer": "Squirrel Flower"},
               { "title": "Imminent Shadow", "performer": "Spencer Cullum"},
-              { "title": "Visions", "performer": "Jose Gonzalez"},
-              { "title": "Love Is The Key", "performer": "Cedric Burnside"}
+              { "title": "Head On", "performer": "Jose Gonzalez"},
+              { "title": "You Really Love Me", "performer": "Cedric Burnside"}
             ],
             [
               { "time": "00:04",  "title": "Animal Noises", "performer": "Beabadoobee"},
@@ -5524,13 +5525,13 @@
               { "title": "Jubilee Horns", "performer": "John Carroll Kirby"},
               { "title": "Bonjour Klaus", "performer": "Jeff Özdemir & Daniel Raymond Gahn"},
               { "title": "Alternate Looking Glass", "performer": "Tristan Arp"},
-              { "title": "Work (It) Out", "performer": "Baltra"},
+              { "title": "Work (It) Out (Extended Mix)", "performer": "Baltra"},
               { "title": "Fuck Your Choices", "performer": "Mykki Blanco"},
               { "title": "Body Mind Spirit", "performer": "Abase X Zeitgeist feat. Dumama"},
               { "title": "Bicycles", "performer": "Just Wondering"},
               { "title": "I Can´t Move", "performer": "Eli & Fur"},
               { "title": "Hold On", "performer": "Ilan Blackstone"},
-              { "title": "Gemini And Leo", "performer": "Helado Negro"},
+              { "title": "Gemini And Leo (Radio Edit)", "performer": "Helado Negro"},
               { "title": "Cheers", "performer": "Faye Webster"}
             ]
           ]
