@@ -5588,7 +5588,52 @@
               { "title": "All Night", "performer": "Chance The Rapper"}
             ]
           ]
+        },
+        {
+          "id": "28",
+          "date": "2021-07-11",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Yesteryear", "performer": "DJ Stix"},
+              { "title": "Back On My Griz", "performer": "Beat Merchants & T.R.A.C."},
+              { "title": "Tobacco Road", "performer": "Eric Burdon Declares WAR"},
+              { "title": "Mirrors", "performer": "Rejjie Snow & Snoh Aalegra & Cam O´bi"},
+              { "title": "Dungeon Master", "performer": "Stimulator Jones"},
+              { "title": "Beach Time Baybee", "performer": "TrommelTobi"},
+              { "title": "When There´s Love Around", "performer": "Kiefer"},
+              { "title": "Margaritas", "performer": "Alex Mayr"},
+              { "title": "I Had 1680 Wives", "performer": "The Sound Of Money"},
+              { "title": "Männer Mit Schönen Haaren", "performer": "Die Liga Der Gewöhnlichen Gentlemen"}
+            ],
+            [
+              { "time": "23:04", "title": "Every", "performer": "Redlight"},
+              { "title": "Sleeping On Your Dreams", "performer": "BluePrint"},
+              { "title": "Imaginary", "performer": "FRS"},
+              { "title": "Vibe Science", "performer": "Sonny Ism"},
+              { "title": "Don´t Go Puttin Wishes In My Head", "performer": "Torres"},
+              { "title": "Personality Girlfriend", "performer": "Desperate Journalist"},
+              { "title": "Control (Johnny Aux Rmx)", "performer": "Alinka"},
+              { "title": "Something Else (What Goes Around)", "performer": "Fuckpony AKA Jay Haze"},
+              { "title": "Quartz (Lawrence Rmx)", "performer": "Lauren Ritter"},
+              { "title": "Over U", "performer": "Caro"},
+              { "title": "Big Moonlight (Ookii Gekkou)", "performer": "Vanishing Twin"},
+              { "title": "Witness Protection", "performer": "Suuns"}
+            ],
+            [
+              { "time": "00:04", "title": "Reminisce", "performer": "Unglued"},
+              { "title": "Don´t Hate My High", "performer": "Fox feat. Biome"},
+              { "title": "Love Is An Aching Tooth", "performer": "The Darker The Shadow The Brighter The Light"},
+              { "title": "Evolving", "performer": "Duskee & Sl8r"},
+              { "title": "Shellshock", "performer": "Koreless"},
+              { "title": "Spring Walks In The Bird Park", "performer": "Metra Vestlud"},
+              { "title": "Bathwater", "performer": "The Goon Sax"},
+              { "title": "Weekend Run", "performer": "Unknown Mortal Orchestra"},
+              { "title": "Klassenerhalt", "performer": "Hardtwald & MB Valent"},
+              { "title": "Come Alive", "performer": "B Young"}
+            ]
+          ]
         }
+
       ]
     }
   ]
