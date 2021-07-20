@@ -5535,6 +5535,59 @@
               { "title": "Cheers", "performer": "Faye Webster"}
             ]
           ]
+        },
+        {
+          "id": "27",
+          "date": "2021-07-04",
+          "checked": { "date": "2021-07-20", "user": "jg"},
+          "moderator": "Tilmann Köllner",
+          "songs": [
+            [
+              { "time": "22:04", "title": "It´s Not My Choice", "performer": "Mykki Blanco feat. Blood Orange"},
+              { "title": "1000 Nights", "performer": "JayKae feat. Jorjja Smith"},
+              { "title": "Bad Medicine", "performer": "FLORE"},
+              { "title": "Mask Off", "performer": "Future"},
+              { "title": "WILSHIRE", "performer": "Tyler, The Creator"},
+              { "title": "Weekend Run", "performer": "Unknown Mortal Orchestra"},
+              { "title": "Wasting Time", "performer": "Brent Faiyaz feat. Drake"},
+              { "title": "Incapable (The Reflex Revision)", "performer": "Róisín Murphy"},
+              { "title": "Get Sun", "performer": "Hiatus Kaiyote"},
+              { "title": "Blood And Marrow", "performer": "Hiatus Kaiyote"}
+            ],
+            [
+              { "time": "23:04", "title": "Blue Banisters", "performer": "Lana Del Rey"},
+              { "title": "Skeletons", "performer": "Easy Life"},
+              { "title": "Wildfires", "performer": "Sault"},
+              { "title": "Bitter Streets", "performer": "Sault"},
+              { "title": "Strangers", "performer": "Roosevelt"},
+              { "title": "Sad But True (Live)", "performer": "Sam Fender"},
+              { "title": "Is It True", "performer": "Tame Impala"},
+              { "title": "Treibsand", "performer": "DXVE"},
+              { "title": "Come Down", "performer": "Anderson. Paak feat. T.I."},
+              { "title": "Waking Up", "performer": "Django Django feat. Charlotte Gainsbourg"},
+              { "title": "Don´t Be Afraid", "performer": "Diplo, Damian Lazarus & Jungle"},
+              { "title": "Head Cheerleader", "performer": "Pom Pom Squad"},
+              { "title": "Hazy Days", "performer": "Amilli"},
+              { "title": "Disco Pantz", "performer": "Rejjie Snow & Tinashe"}
+            ],
+            [
+              { "time": "00:04", "title": "i'm Sorry, Are You?", "performer": "Leepa"},
+              { "title": "L.OST", "performer": "Von Wegen Lisbeth"},
+              { "title": "Stronger", "performer": "Janelle Monáe"},
+              { "title": "Colors", "performer": "Black Pumas"},
+              { "title": "Feel Good", "performer": "Chet Faker"},
+              { "title": "Nabi", "performer": "Peggy Gou feat. OHHYUK"},
+              { "title": "PAC-TIVE", "performer": "Yaeji feat. DiAN"},
+              { "title": "Amsterdam", "performer": "Nothing But Thieves"},
+              { "title": "Free", "performer": "Parcels"},
+              { "title": "Diana (You Don´t Even Know)", "performer": "Fred Again"},
+              { "title": "All I Need", "performer": "Jayda G"},
+              { "title": "How Can I Make It Ok?", "performer": "Wolf Alice"},
+              { "title": "Insomnia", "performer": "RIN feat. Giant Rooks"},
+              { "title": "Break On Through", "performer": "The Doors"},
+              { "title": "All Night", "performer": "Chance The Rapper"}
+            ]
+          ]
         }
       ]
     }
