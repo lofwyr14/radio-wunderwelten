@@ -14991,9 +14991,14 @@
           "id": "26",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-07-22",
+          "checked": {
+            "date": "2021-07-25",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Beggin'",
                 "performer": "Timebox"
               },
@@ -15002,11 +15007,11 @@
                 "performer": "Mamas Gun"
               },
               {
-                "title": "The whole of the moon",
+                "title": "The Whole Of The Moon",
                 "performer": "The Waterboys"
               },
               {
-                "title": "The politics of dancing",
+                "title": "The Politics of Dancing",
                 "performer": "Re-Flex"
               },
               {
@@ -15018,23 +15023,23 @@
                 "performer": "Martin Newell"
               },
               {
-                "title": "See you in September",
+                "title": "See You In September",
                 "performer": "The Symbols"
               },
               {
-                "title": "Let the silence hold you",
+                "title": "Let The Silence Hold You",
                 "performer": "Stephen Emmer"
               },
               {
-                "title": "Taking back my time",
+                "title": "Taking Back My Time",
                 "performer": "Stephen Emmer"
               },
               {
-                "title": "It don't matter",
+                "title": "It Don't Matter",
                 "performer": "Donavon Frankenreiter"
               },
               {
-                "title": "Wishing well",
+                "title": "Wishing Well",
                 "performer": "Dylan Mondegreen"
               },
               {
@@ -15042,41 +15047,46 @@
                 "performer": "Flash & The Pan"
               },
               {
-                "title": "So beguiled",
+                "title": "So Beguiled",
                 "performer": "The Soundcarriers"
+              },
+              {
+                "title": "One Of These Days",
+                "performer": "Pink FLoyd"
               }
             ],
             [
               {
+                "time": "21:04",
                 "title": "Mr. Wonderful",
                 "performer": "John Waite"
               },
               {
-                "title": "End of the summer on Bookbinder Road",
+                "title": "End Of The Summer On Bookbinder Road",
                 "performer": "Cocoanut Groove"
               },
               {
-                "title": "After thoughts",
+                "title": "After Thoughts",
                 "performer": "Oddisee"
               },
               {
-                "title": "Long after tonite's candles are blown",
+                "title": "Long After Tonite's Candles Are Blown",
                 "performer": "Comet Gain"
               },
               {
-                "title": "Everyday is new",
+                "title": "Everyday Is New",
                 "performer": "Tanita Tikaram"
               },
               {
-                "title": "Clear skies ever closer",
+                "title": "Clear Skies Ever Closer",
                 "performer": "Cherry Ghost"
               },
               {
-                "title": "When the world is running down",
+                "title": "When The World Is Running Down",
                 "performer": "On"
               },
               {
-                "title": "Invisible sun",
+                "title": "Invisible Sun",
                 "performer": "The Police"
               },
               {
@@ -15088,41 +15098,50 @@
                 "performer": "Twinset"
               },
               {
-                "title": "Now you're not here",
+                "title": "Now You're Not Here",
                 "performer": "Swing Out Sister"
+              },
+              {
+                "title": "Musclebound",
+                "performer": "Spandau Ballet"
+              },
+              {
+                "title": "A Go-Go Dancer",
+                "performer": "The Ventures"
               }
             ],
             [
               {
-                "title": "Eye in the sky",
+                "time": "22:04",
+                "title": "Eye In The Sky",
                 "performer": "The Alan Parsons Project"
               },
               {
-                "title": "I surrender",
+                "title": "I Surrender",
                 "performer": "David Sylvian"
               },
               {
-                "title": "Still thinking of you",
+                "title": "Still Thinking Of You",
                 "performer": "Steve Parks"
               },
               {
-                "title": "Hey you",
+                "title": "Hey You",
                 "performer": "The Engineers"
               },
               {
-                "title": "Chord simple",
+                "title": "Chord Simple",
                 "performer": "Broadcast"
               },
               {
-                "title": "The saddest boy in town",
+                "title": "The Saddest Boy In Town",
                 "performer": "National Convention"
               },
               {
-                "title": "I'm not in love",
+                "title": "I'm Mot In Love",
                 "performer": "10cc"
               },
               {
-                "title": "(I always kill) the things I love",
+                "title": "(I Always Kill) The Things I Love",
                 "performer": "The Real Tuesday Weld"
               },
               {
@@ -15134,11 +15153,11 @@
                 "performer": "Morrissey"
               },
               {
-                "title": "A time for us",
+                "title": "A Time For Us",
                 "performer": "Joe Pass"
               },
               {
-                "title": "Live for life",
+                "title": "Live For Life",
                 "performer": "The Mystic Moods Orchestra"
               }
             ]
