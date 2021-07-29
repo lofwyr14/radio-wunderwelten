@@ -15167,10 +15167,15 @@
           "id": "28",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-07-29",
+          "checked": {
+            "date": "2021-07-21",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Clear the air",
+                "time": "20:04",
+                "title": "Clear The Air",
                 "performer": "Jacco Gardner"
               },
               {
@@ -15178,11 +15183,11 @@
                 "performer": "The The"
               },
               {
-                "title": "Trouble in mind",
+                "title": "Trouble In Mind",
                 "performer": "Erland & The Carnival"
               },
               {
-                "title": "Saturday in the park",
+                "title": "Saturday In The Park",
                 "performer": "Chicago"
               },
               {
@@ -15190,15 +15195,15 @@
                 "performer": "Chicago"
               },
               {
-                "title": "Don't forget the sun",
+                "title": "Don't Forget The Sun",
                 "performer": "The Explorers Club"
               },
               {
-                "title": "The world could turn",
+                "title": "The World Could Turn",
                 "performer": "Cherry Ghost"
               },
               {
-                "title": "Everything infinite",
+                "title": "Everything Infinite",
                 "performer": "Wunder Wunder"
               },
               {
@@ -15206,37 +15211,38 @@
                 "performer": "Erlend Øye"
               },
               {
-                "title": "Stone love",
+                "title": "Stone Love",
                 "performer": "Mick Ronson"
               },
               {
-                "title": "Liberty (is where we'll be)",
+                "title": "Liberty (Is Where We'll Be)",
                 "performer": "Gruff Rhys"
               },
               {
-                "title": "Let me go",
+                "title": "Let Me Go",
                 "performer": "Heaven 17"
               },
               {
-                "title": "Being boiled",
+                "title": "Being Boiled",
                 "performer": "Human League"
               }
             ],
             [
               {
-                "title": "Gatekeeper",
+                "time": "21:04",
+                "title": "Gatekeeper (Full Mix)",
                 "performer": "Feist"
               },
               {
-                "title": "It doesn't have to be this way",
+                "title": "It Doesn't Have To Be This Way",
                 "performer": "The Blow Monkeys"
               },
               {
-                "title": "How much I really loved you",
+                "title": "How Much I Really Loved You",
                 "performer": "June & The Exit Wounds"
               },
               {
-                "title": "Above the clouds",
+                "title": "Above The Clouds",
                 "performer": "Paul Weller"
               },
               {
@@ -15244,41 +15250,46 @@
                 "performer": "Prefab Sprout"
               },
               {
-                "title": "Microscopic view",
+                "title": "Microscopic View",
                 "performer": "Pernice Brothers"
               },
               {
-                "title": "What becomes of the broken hearted",
+                "title": "What Becomes Of The Broken Hearted",
                 "performer": "Pugwash & Neil Hannon feat. Matt Berry"
               },
               {
-                "title": "Sous  les rayons du soleil",
+                "title": "Sous les rayons du soleil",
                 "performer": "Sébastien Tellier"
               },
               {
-                "title": "(You're gonna) hurt yourself",
+                "title": "(You're Gonna) Hurt Yourself",
                 "performer": "Frankie Valli"
               },
               {
-                "title": "Time folks",
+                "title": "Time Folks",
                 "performer": "Colorama"
               },
               {
-                "title": "I know about it",
+                "title": "I Know About It",
                 "performer": "Micromars"
               },
               {
-                "title": "Walking in the sun",
+                "title": "Walking In The Sun",
                 "performer": "The Zombies"
               },
               {
-                "title": "Mick's up",
+                "title": "Mick's Up",
                 "performer": "The Style Council"
+              },
+              {
+                "title": "Down With The Lights",
+                "performer": "Neil He"
               }
             ],
             [
               {
-                "title": "Erland& The Carnival - Quiet Love",
+                "time": "22:04",
+                "title": "Quiet Love",
                 "performer": "Erland & The Carnival"
               },
               {
@@ -15290,15 +15301,15 @@
                 "performer": "Wallace Collection"
               },
               {
-                "title": "Have a balloon",
+                "title": "Have A Balloon",
                 "performer": "Little Tornados"
               },
               {
-                "title": "Unguarded moment",
+                "title": "Unguarded Moment",
                 "performer": "The National Jazz Trio Of Scotland"
               },
               {
-                "title": "Don't leave me here alone",
+                "title": "Don't Leave Me Here Alone",
                 "performer": "Cherry Ghost"
               },
               {
@@ -15310,15 +15321,15 @@
                 "performer": "Matching Mole"
               },
               {
-                "title": "Reports from the heart",
+                "title": "Reports From The Heart",
                 "performer": "Winston Tong"
               },
               {
-                "title": "To a flame",
+                "title": "To A Flame",
                 "performer": "Hubert Laws & Bob Mann"
               },
               {
-                "title": "Blown away",
+                "title": "Blown Away",
                 "performer": "Stephen Emmer"
               },
               {
@@ -15326,7 +15337,7 @@
                 "performer": "Blueboy"
               },
               {
-                "title": "The night and I are still so young",
+                "title": "The Night And I Are Still So Young",
                 "performer": "The Heavy Blinkers"
               }
             ]
