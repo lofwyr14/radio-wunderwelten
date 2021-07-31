@@ -15347,9 +15347,15 @@
           "id": "29",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-08-05",
+          "date": "2014-07-29",
+          "checked": {
+            "date": "2021-07-31",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "1,000 Times",
                 "performer": "Tahiti 80"
               },
@@ -15366,7 +15372,7 @@
                 "performer": "J-Walk"
               },
               {
-                "title": "Uncertain Smile (12 Version)",
+                "title": "Uncertain Smile (Original 7\" Version 1982)",
                 "performer": "The The"
               },
               {
@@ -15402,12 +15408,13 @@
                 "performer": "Terry Hall"
               },
               {
-                "title": "Stories",
-                "performer": "Chakachas"
+                "title": "Let 'Em In",
+                "performer": "Wings"
               }
             ],
             [
               {
+                "time": "21:04",
                 "title": "Good Morning Judge",
                 "performer": "10 cc"
               },
@@ -15462,10 +15469,15 @@
               {
                 "title": "Forest Loop",
                 "performer": "Koushik"
+              },
+              {
+                "title": "Café de Flore",
+                "performer": "Doctor Rockit"
               }
             ],
             [
               {
+                "time": "22:04",
                 "title": "Sad Is The Way That I Feel",
                 "performer": "Mark Eric"
               },
