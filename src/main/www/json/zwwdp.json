@@ -15347,7 +15347,6 @@
           "id": "29",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-08-05",
-          "date": "2014-07-29",
           "checked": {
             "date": "2021-07-31",
             "user": "jg"
@@ -15540,9 +15539,14 @@
           "id": "30",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-08-12",
+          "checked": {
+            "date": "2021-08-01",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Up On The Downside",
                 "performer": "Ocean Colour Scene"
               },
@@ -15555,8 +15559,12 @@
                 "performer": "Mull Historical Society"
               },
               {
-                "title": "Goodbye\tMoon Martin",
-                "performer": "MY Sad Captains"
+                "title": "Goodbye",
+                "performer": "My Sad Captains"
+              },
+              {
+                "title": "Bad News",
+                "performer": "Moon Martin"
               },
               {
                 "title": "Love Don't Live Here Anymore (Extended)",
@@ -15589,18 +15597,11 @@
               {
                 "title": "Like Home",
                 "performer": "Musée Mecanique"
-              },
-              {
-                "title": "Mercury Girl",
-                "performer": "The Cleaners From Venus"
-              },
-              {
-                "title": "My Sweet Summer Suite",
-                "performer": "Love Unlimited Orchestra"
               }
             ],
             [
               {
+                "time": "21:04",
                 "title": "My Sharona",
                 "performer": "The Knack"
               },
@@ -15613,7 +15614,7 @@
                 "performer": "Morrissey"
               },
               {
-                "title": "To The Band (Stereo)",
+                "title": "Listen To The Band (Single Version)",
                 "performer": "The Monkeys"
               },
               {
@@ -15626,7 +15627,7 @@
               },
               {
                 "title": "Watch The Flowers Grow",
-                "performer": "Wonder Who?"
+                "performer": "The Wonder Who"
               },
               {
                 "title": "San José",
@@ -15659,6 +15660,7 @@
             ],
             [
               {
+                "time": "22:04",
                 "title": "She's Always A Woman",
                 "performer": "Fyfe Dangerfield"
               },
@@ -15705,14 +15707,6 @@
               {
                 "title": "Myrtle & Rose",
                 "performer": "Lloyd Cole"
-              },
-              {
-                "title": "My Way",
-                "performer": "Sammy Davis Jr."
-              },
-              {
-                "title": "Forever",
-                "performer": "Pete Drake"
               }
             ]
           ]
