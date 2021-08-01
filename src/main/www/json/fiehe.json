@@ -5633,8 +5633,56 @@
               { "title": "Come Alive", "performer": "B Young"}
             ]
           ]
+        },
+        {
+          "id": "29",
+          "date": "2021-07-18",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Pray", "performer": "Joe Armon-Jones"},
+              { "title": "When There´s Love Around", "performer": "Kiefer"},
+              { "title": "The Essence", "performer": "Stimulator Jones"},
+              { "title": "How Much You Care", "performer": "Stimulator Jones"},
+              { "title": "lowin Gold", "performer": "Stimulator Jones"},
+              { "title": "Street Nigga", "performer": "YG´Z"},
+              { "title": "Disco Pantz", "performer": "Rejjie Snow, Tinashe & grouptherapy"},
+              { "title": "Say Something", "performer": "Emma-Jean Thackray"},
+              { "title": "Alpha Rhythm", "performer": "Sonny Ism"},
+              { "title": "Liebe", "performer": "Luis Ake"},
+              { "title": "Gucci", "performer": "Richie Blacker"},
+              { "title": "Rotmilan", "performer": "Luis Ake"},
+              { "title": "U Can Dance", "performer": "TrommelTobi"}
+            ],
+            [
+              { "time": "23:04", "title": "Utopia", "performer": "Desperate Journalist"},
+              { "title": "Alone Tonight", "performer": "Flawless Issues"},
+              { "title": "Verschwende Deine Zeit", "performer": "Edwin Rosen"},
+              { "title": "Rote Lippen", "performer": "Levin Goes Lightly"},
+              { "title": "Dangerous Days", "performer": "Zola Jesus"},
+              { "title": "Don´t Go Puttin Wishes In My Head", "performer": "Torres"},
+              { "title": "Outer Station Support", "performer": "Amtrac"},
+              { "title": "Audre", "performer": "NOVAA"},
+              { "title": "Oh Me Oh My", "performer": "Chet Faker"},
+              { "title": "Saul", "performer": "The Liminanas & Laurent Garnier"},
+              { "title": "Alien Love Call", "performer": "Turnstile & Blood Orange"},
+              { "title": "Wasting Time", "performer": "Brent Faiyaz feat. Drake"}
+            ],
+            [
+              { "time": "00:04", "title": "If Anything", "performer": "John Glacier"},
+              { "title": "On And On", "performer": "Rejjie Snow & Cam O'bi"},
+              { "title": "Imagine", "performer": "Common feat. PJ"},
+              { "title": "Ein Schöner Traum", "performer": "Luis Ake"},
+              { "title": "Antibodies (Tensnake Disco Mix)", "performer": "Tensnake feat. Cara Melin"},
+              { "title": "Bevor Du Aufstehst", "performer": "Der Frühling"},
+              { "title": "Er Ist Wieder Da", "performer": "Marion Maerz"},
+              { "title": "Gottes Wille", "performer": "Die Selektion"},
+              { "title": "SSS", "performer": "Edwin Rosen"},
+              { "title": "The Raven", "performer": "The Alan Parsons Project"},
+              { "title": "Kirby", "performer": "Robert Dietz"},
+              { "title": "Over & Out", "performer": "BluePrint"}
+            ]
+          ]
         }
-
       ]
     }
   ]
