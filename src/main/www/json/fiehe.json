@@ -5682,6 +5682,54 @@
               { "title": "Over & Out", "performer": "BluePrint"}
             ]
           ]
+        },
+        {
+          "id": "30",
+          "date": "2021-07-25",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Ecosse", "performer": "Ewan McVicar"},
+              { "title": "Imaginary", "performer": "FRS"},
+              { "title": "Kiss The Corners", "performer": "Torres"},
+              { "title": "Birchgrove Pleasure Gardens", "performer": "Maroki"},
+              { "title": "Midi Ceremony", "performer": "Amtrac"},
+              { "title": "Deep Blue", "performer": "Donkey Kid"},
+              { "title": "Aye Aye Mi Mi", "performer": "Mano Le Tough"},
+              { "title": "Rights", "performer": "Anika"},
+              { "title": "World On Fire", "performer": "The KVB"},
+              { "title": "Toast", "performer": "Pond"},
+              { "title": "Fear & Loathing", "performer": "Cartel Madras"},
+              { "title": "September 13th (DJ Nativesun Rmx)", "performer": "Yaya Bey"},
+              { "title": "Icy Altitudes", "performer": "Stimulator Jones"}
+            ],
+            [
+              { "time": "23:04", "title": "Born Again", "performer": "Leon Bridges & Robert Glasper"},
+              { "title": "Stay High Again…..", "performer": "Brittany Howard, Fred Again & Joy Anonymous"},
+              { "title": "Sun", "performer": "Emma-Jean Thackray"},
+              { "title": "Golden Green", "performer": "Emma-Jean Thackray"},
+              { "title": "Remember This Picture", "performer": "Kiefer"},
+              { "title": "In The Fire", "performer": "Dave feat. Fredo"},
+              { "title": "Three Rivers", "performer": "Dave"},
+              { "title": "Topboys", "performer": "Symba"},
+              { "title": "Spectre", "performer": "Emma-Jean Thackray"},
+              { "title": "Have You Been Tried In The Fire", "performer": "The Florida Masss Choir"},
+              { "title": "System", "performer": "Dave feat. Wizkid"}
+            ],
+            [
+              { "time": "00:04", "title": "Come Alive", "performer": "B Young"},
+              { "title": "Tango", "performer": "Rodrigo Amarante"},
+              { "title": "Juno", "performer": "Parra For Cuva"},
+              { "title": "Help Yo Self (Atjazz Rmx)", "performer": "Jitwam & Teymori"},
+              { "title": "Just Chillin`", "performer": "Fox feat. Blind Mic"},
+              { "title": "Back On My Griz", "performer": "Beat Merchants & T.R.A.C."},
+              { "title": "Reach Out", "performer": "Inja feat. Charlotte Haining"},
+              { "title": "Way Back When", "performer": "Unglued feat. Esther Durin"},
+              { "title": "Wanderratte", "performer": "Sofia Portanet"},
+              { "title": "Nightlite", "performer": "Bonobo feat. Bajka"},
+              { "title": "Der Anfang Vom Ende", "performer": "Lyschko"},
+              { "title": "Nikki Swango", "performer": "Fluppe"}
+            ]
+          ]
         }
       ]
     }
