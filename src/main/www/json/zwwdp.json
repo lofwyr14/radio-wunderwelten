@@ -15715,9 +15715,14 @@
           "id": "31",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-08-19",
+          "checked": {
+            "date": "2021-08-06",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "One Headlight",
                 "performer": "Wallflowers"
               },
@@ -15772,14 +15777,11 @@
               {
                 "title": "Spooky",
                 "performer": "Gary Walker & The Rain"
-              },
-              {
-                "title": "Drums à GoGo",
-                "performer": "Sandy Nelson"
               }
             ],
             [
               {
+                "time": "21:04",
                 "title": "Rip It Up",
                 "performer": "Orange Juice"
               },
@@ -15828,16 +15830,17 @@
                 "performer": "The 5th Dimension"
               },
               {
-                "title": "Freelove (Bertrand Burgalat Version)",
-                "performer": "Depeche Mode"
-              },
-              {
                 "title": "Seven Nation Army (Instrumental)",
                 "performer": "The Dynamics"
+              },
+              {
+                "title": "I Have Seen",
+                "performer": "Zero 7"
               }
             ],
             [
               {
+                "time": "22:04",
                 "title": "All The World Loves Lovers",
                 "performer": "Prefab Sprout"
               },
@@ -15854,7 +15857,7 @@
                 "performer": "The Monkees"
               },
               {
-                "title": "My My Time Flies",
+                "title": "My! My! Time Flies!",
                 "performer": "Enya"
               },
               {
@@ -15891,7 +15894,11 @@
               },
               {
                 "title": "Bridgestones Revisited",
-                "performer": "Montgolfier Brothers"
+                "performer": "The Montgolfier Brothers"
+              },
+              {
+                "title": "Camilla",
+                "performer": "The Art Of Noise"
               }
             ]
           ]
