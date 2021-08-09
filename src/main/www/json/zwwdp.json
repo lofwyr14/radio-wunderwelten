@@ -15907,14 +15907,19 @@
           "id": "32",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-08-26",
+          "checked": {
+            "date": "2021-08-09",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "She blinded me with science",
+                "time": "02:04",
+                "title": "She Blinded Me With Science",
                 "performer": "Dolby Thomas"
               },
               {
-                "title": "Like home",
+                "title": "Like Home",
                 "performer": "Musée Mécanique"
               },
               {
@@ -15922,11 +15927,11 @@
                 "performer": "Jon Brooks & Sean O'Hagan"
               },
               {
-                "title": "Pass the vibes",
+                "title": "Pass The Vibes",
                 "performer": "Definition Of Sound"
               },
               {
-                "title": "There's always summer",
+                "title": "There's Always Summer",
                 "performer": "Nick + Noah"
               },
               {
@@ -15934,41 +15939,42 @@
                 "performer": "Wunder Wunder"
               },
               {
-                "title": "Quiet part of town",
+                "title": "Quiet Part Of Town",
                 "performer": "The Vals"
               },
               {
-                "title": "Smells like teen spirit",
+                "title": "Smells Like Teen Spirit",
                 "performer": "Pleasure Beach"
               },
               {
-                "title": "Hungry a long time",
+                "title": "Hungry A Long Time",
                 "performer": "Donovan Blanc"
               },
               {
-                "title": "Knowing me, knowing you",
-                "performer": "Wondermints,The"
+                "title": "Knowing Me, Knowing You",
+                "performer": "The Wondermints"
               },
               {
                 "title": "W.E.E.K.E.N.D. (Weekend)",
                 "performer": "Arling & Cameron"
               },
               {
-                "title": "Knight moves",
+                "title": "Knight Moves",
                 "performer": "Chilly Gonzales"
               },
               {
-                "title": "Show me the way",
+                "title": "Show Me The Way",
                 "performer": "Peter Frampton"
               }
             ],
             [
               {
-                "title": "World shut your mouth",
+                "time": "21:04",
+                "title": "World Shut Your Mouth",
                 "performer": "Julian Cope"
               },
               {
-                "title": "I'm free",
+                "title": "I'm Free",
                 "performer": "The Soup Dragons"
               },
               {
@@ -15976,31 +15982,31 @@
                 "performer": "Los Angeles"
               },
               {
-                "title": "Knock on wood",
+                "title": "Knock On Wood",
                 "performer": "Harpers Bizarre"
               },
               {
-                "title": "Summer clothes",
+                "title": "Summer Clothes",
                 "performer": "Coloma"
               },
               {
-                "title": "Midnight hours",
+                "title": "Midnight Hours",
                 "performer": "Wunder Wunder"
               },
               {
-                "title": "King of a rainy country",
+                "title": "King Of A Rainy Country",
                 "performer": "Liberty Horses"
               },
               {
-                "title": "The ones in your dreams",
+                "title": "The Ones In Your Dreams",
                 "performer": "Donavon Frankenreiter"
               },
               {
-                "title": "I didn't really listen",
+                "title": "I Didn't Really Listen",
                 "performer": "AM & Shawn Lee"
               },
               {
-                "title": "Heat exchange",
+                "title": "Heat Exchange",
                 "performer": "The Electric Cinema"
               },
               {
@@ -16008,7 +16014,7 @@
                 "performer": "Little Tornados"
               },
               {
-                "title": "Partie G: Survol de l'Amérique AUS: A@rosuite",
+                "title": "Partie G: Survol de l'Amérique",
                 "performer": "Alexander von Mehren"
               },
               {
@@ -16016,33 +16022,34 @@
                 "performer": "Martine Girault"
               },
               {
-                "title": "No tears to cry",
+                "title": "No Tears To Cry (Leo Zero Remix)",
                 "performer": "Paul Weller"
               },
               {
-                "title": "Certain shades of limelight",
+                "title": "Certain Shades Of limelight",
                 "performer": "Swing Out Sister"
               }
             ],
             [
               {
-                "title": "Turn on your radio",
+                "time": "22:04",
+                "title": "Turn On Your Radio",
                 "performer": "Harry Nilsson"
               },
               {
-                "title": "I don't want to know",
+                "title": "I Don't Want To Know",
                 "performer": "The Swell Season"
               },
               {
-                "title": "Knee deep at the NPL",
+                "title": "Knee Deep At The NPL",
                 "performer": "Camera Obscura"
               },
               {
-                "title": "My funny Valentine",
+                "title": "My Funny Valentine",
                 "performer": "Frankie Valli"
               },
               {
-                "title": "Know how",
+                "title": "Know How",
                 "performer": "Kings Of Convenience"
               },
               {
@@ -16050,19 +16057,19 @@
                 "performer": "The Superimposers"
               },
               {
-                "title": "Say it isn't so",
+                "title": "Say It Isn't So",
                 "performer": "Dylan Mondegreen"
               },
               {
-                "title": "Indoor-outdoor girl",
+                "title": "Indoor-Outdoor Girl",
                 "performer": "Bernard Ebbinghouse"
               },
               {
-                "title": "Knives of summertime",
+                "title": "Knives Of Summertime",
                 "performer": "Sparklehorse"
               },
               {
-                "title": "Ain't no Sunshine",
+                "title": "Ain't No Sunshine",
                 "performer": "Atlas"
               },
               {
@@ -16070,11 +16077,11 @@
                 "performer": "Blueboy"
               },
               {
-                "title": "Getting out",
+                "title": "Getting Out",
                 "performer": "The National Jazz Trio Of Scotland"
               },
               {
-                "title": "Weather storm",
+                "title": "Weather Storm",
                 "performer": "Craig Armstrong"
               },
               {
