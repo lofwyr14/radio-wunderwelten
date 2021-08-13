@@ -15914,7 +15914,7 @@
           "songs": [
             [
               {
-                "time": "02:04",
+                "time": "20:04",
                 "title": "She Blinded Me With Science",
                 "performer": "Dolby Thomas"
               },
@@ -16095,14 +16095,19 @@
           "id": "33",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-09-02",
+          "checked": {
+            "date": "2021-08-13",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Harvest for the world",
+                "time": "20:04",
+                "title": "Harvest For The World",
                 "performer": "The Isley Brothers"
               },
               {
-                "title": "I made this tape for you",
+                "title": "I Made This Tape For You",
                 "performer": "Wild Honey"
               },
               {
@@ -16110,7 +16115,7 @@
                 "performer": "The Magic Numbers"
               },
               {
-                "title": "What goes up",
+                "title": "What Goes Up",
                 "performer": "The Clientele"
               },
               {
@@ -16118,7 +16123,7 @@
                 "performer": "Jon Brooks & Sean O'Hagan"
               },
               {
-                "title": "Tainted love",
+                "title": "Tainted Love",
                 "performer": "Ruth Swann"
               },
               {
@@ -16130,15 +16135,15 @@
                 "performer": "Geschmeido"
               },
               {
-                "title": "Kung fu fighting",
+                "title": "Kung Fu Fighting",
                 "performer": "Erdmöbel"
               },
               {
-                "title": "Now you see everything",
+                "title": "Now You See Everything",
                 "performer": "Stephen Steinbrink"
               },
               {
-                "title": "Up, up and away",
+                "title": "Up, Up And Away",
                 "performer": "The 5th Dimension"
               },
               {
@@ -16146,17 +16151,26 @@
                 "performer": "The Electric Indian"
               },
               {
-                "title": "Number six",
+                "title": "Number Six",
                 "performer": "Bruce Foxton"
               },
               {
-                "title": "Lover, don't let me down",
+                "title": "Lover, Don't Let Me Down",
                 "performer": "Fauna Flora"
               }
             ],
             [
               {
-                "title": "An Englishman in New York",
+                "time": "21:04",
+                "title": "When The World Is Running Down, You Make The Best Of What's Still Around",
+                "performer": "The Police
+              },
+              {
+                "title": "Stellify",
+                "performer": "Ian Brown"
+              },
+              {
+                "title": "An Englishman In New York",
                 "performer": "Godley & Creme"
               },
               {
@@ -16164,49 +16178,50 @@
                 "performer": "Musée Mécanique"
               },
               {
-                "title": "Seeing is believing",
+                "title": "Seeing Is Believing",
                 "performer": "The Superimposers"
               },
               {
-                "title": "I was a persian fly",
+                "title": "I Was A Persian Fly",
                 "performer": "Jerry Allen"
               },
               {
-                "title": "Moonage daydream",
+                "title": "Moonage Daydream",
                 "performer": "David Bowie"
               },
               {
-                "title": "Love tonight",
+                "title": "Love Tonight",
                 "performer": "The Fraternal Order Of The All"
               },
               {
-                "title": "Peasant wine",
+                "title": "Peasant Wine",
                 "performer": "Earthly Circuits"
               },
               {
-                "title": "There's a bird",
+                "title": "There's A Bird",
                 "performer": "The John Steel Singers"
               },
               {
-                "title": "Walking in the rain",
+                "title": "Walking In The Rain",
                 "performer": "Flash And The Pan"
               },
               {
-                "title": "Ship in a bottle",
+                "title": "Ship In A Bottle",
                 "performer": "Oliver Downes"
               },
               {
-                "title": "In 2000 years from now when we're all still around",
+                "title": "In 2000 Years From Now When We're All Still Around",
                 "performer": "The Glamorous Life Savers"
               }
             ],
             [
               {
-                "title": "Close to the sun",
+                "time": "22:04",
+                "title": "Close To The Sun",
                 "performer": "Stereo Venus"
               },
               {
-                "title": "Telephone line",
+                "title": "Telephone Line",
                 "performer": "Electric Light Orchestra"
               },
               {
@@ -16214,11 +16229,11 @@
                 "performer": "Nick + Noah"
               },
               {
-                "title": "Soul searching",
+                "title": "Soul Searching",
                 "performer": "Average White Band"
               },
               {
-                "title": "A simple armature of your ideal world",
+                "title": "A Simple Armature Of Your Ideal World",
                 "performer": "Stephen Steinbrink"
               },
               {
@@ -16226,15 +16241,15 @@
                 "performer": "Blueboy"
               },
               {
-                "title": "Rare species",
-                "performer": "National Jazz Trio Of Scotland,The"
+                "title": "Rare Species",
+                "performer": "The National Jazz Trio Of Scotland"
               },
               {
-                "title": "A wish we spoke",
+                "title": "A Wish We Spoke",
                 "performer": "Musée Mécanique"
               },
               {
-                "title": "Moon on your pyjamas",
+                "title": "Moon On Your Pyjamas",
                 "performer": "Paul Weller"
               },
               {
@@ -16250,7 +16265,7 @@
                 "performer": "José Feliciano"
               },
               {
-                "title": "Hurry to me",
+                "title": "Hurry To Me",
                 "performer": "The Sandpipers"
               }
             ]
