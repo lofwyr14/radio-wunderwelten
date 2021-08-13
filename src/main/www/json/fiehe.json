@@ -5730,6 +5730,55 @@
               { "title": "Nikki Swango", "performer": "Fluppe"}
             ]
           ]
+        },
+        {
+          "id": "31",
+          "date": "2021-08-01",
+          "songs": [
+            [
+              { "time": "22:04", "title": "New You", "performer": "My Bloody Valentine"},
+              { "title": "VO", "performer": "Pirsohka"},
+              { "title": "Trust", "performer": "Saoirse"},
+              { "title": "Gliding Future", "performer": "DC Salas"},
+              { "title": "With You", "performer": "Paris Green"},
+              { "title": "Emperor Machine", "performer": "A Certain Ratio Vs Andrew Meecham"},
+              { "title": "Finger Pies", "performer": "Anika"},
+              { "title": "Me Myself And Dollar Hell", "performer": "Mild High Club"},
+              { "title": "Emotion", "performer": "Molly Burch feat. Wild Nothing"},
+              { "title": "Umweg", "performer": "Luis Ake"},
+              { "title": "Back To Your Roots 2021", "performer": "Jonny L Vs Friction"},
+              { "title": "Delivery", "performer": "Command Strange feat. T.R.A.C. & Christina Tamayo"}
+            ],
+            [
+              { "time": "23:04", "title": "Ppl Say", "performer": "Peyton"},
+              { "title": "System", "performer": "Dave feat. Wizkid"},
+              { "title": "Distant", "performer": "B Young"},
+              { "title": "Killer Lover Boy", "performer": "SEB"},
+              { "title": "My Future", "performer": "Billie Eilish"},
+              { "title": "Daniel*", "performer": "SEB"},
+              { "title": "Sapphire Eyes", "performer": "Wayward"},
+              { "title": "Spinnin", "performer": "LMajor"},
+              { "title": "Key Activation", "performer": "Docor Jeep"},
+              { "title": "In My Prime", "performer": "Mieux feat. Cadell"},
+              { "title": "Pump Fake (Roska Rmx)", "performer": "Flowdan"},
+              { "title": "If Anything", "performer": "John Glacier"},
+              { "title": "No", "performer": "Robag Wruhme"},
+              { "title": "Calipso", "performer": "Affkt"}
+            ],
+            [
+              { "time": "00:04", "title": "I´m Waiting For The Man", "performer": "Matt Berninger"},
+              { "title": "Animal", "performer": "Lump"},
+              { "title": "Gamma Ray", "performer": "Lump"},
+              { "title": "Waitin´ For The Bus", "performer": "ZZ Top"},
+              { "title": "Heartache In Blue", "performer": "ZZ Top"},
+              { "title": "Big Leap", "performer": "Torres"},
+              { "title": "Billie Bossa Nova", "performer": "Billie Eilish"},
+              { "title": "Venus", "performer": "Emma-Jean Thackray"},
+              { "title": "It´s The Sun", "performer": "The Polyphonic Spree"},
+              { "title": "Family", "performer": "Jordan Rakei"},
+              { "title": "All My Friends (RC Big Hug Rmx)", "performer": "Roland Clark"}
+            ]
+          ]
         }
       ]
     }
