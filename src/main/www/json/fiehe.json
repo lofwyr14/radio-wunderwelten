@@ -5687,6 +5687,7 @@
         {
           "id": "30",
           "date": "2021-07-25",
+          "checked": { "date": "2021-08-20", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Ecosse", "performer": "Ewan McVicar"},
@@ -5700,7 +5701,7 @@
               { "title": "World On Fire", "performer": "The KVB"},
               { "title": "Toast", "performer": "Pond"},
               { "title": "Fear & Loathing", "performer": "Cartel Madras"},
-              { "title": "September 13th (DJ Nativesun Rmx)", "performer": "Yaya Bey"},
+              { "title": "September 13th (DJ Nativesun Remix)", "performer": "Yaya Bey"},
               { "title": "Icy Altitudes", "performer": "Stimulator Jones"}
             ],
             [
@@ -5708,7 +5709,7 @@
               { "title": "Stay High Again…..", "performer": "Brittany Howard, Fred Again & Joy Anonymous"},
               { "title": "Sun", "performer": "Emma-Jean Thackray"},
               { "title": "Golden Green", "performer": "Emma-Jean Thackray"},
-              { "title": "Remember This Picture", "performer": "Kiefer"},
+              { "title": "I Remember This Picture", "performer": "Kiefer"},
               { "title": "In The Fire", "performer": "Dave feat. Fredo"},
               { "title": "Three Rivers", "performer": "Dave"},
               { "title": "Topboys", "performer": "Symba"},
@@ -5720,9 +5721,9 @@
               { "time": "00:04", "title": "Come Alive", "performer": "B Young"},
               { "title": "Tango", "performer": "Rodrigo Amarante"},
               { "title": "Juno", "performer": "Parra For Cuva"},
-              { "title": "Help Yo Self (Atjazz Rmx)", "performer": "Jitwam & Teymori"},
+              { "title": "Help Yo Self (Atjazz Remix)", "performer": "Jitwam & Teymori"},
               { "title": "Just Chillin`", "performer": "Fox feat. Blind Mic"},
-              { "title": "Back On My Griz", "performer": "Beat Merchants & T.R.A.C."},
+              { "title": "Back On My Griz (Extended Mix)", "performer": "Beat Merchants & T.R.A.C."},
               { "title": "Reach Out", "performer": "Inja feat. Charlotte Haining"},
               { "title": "Way Back When", "performer": "Unglued feat. Esther Durin"},
               { "title": "Wanderratte", "performer": "Sofia Portanet"},
