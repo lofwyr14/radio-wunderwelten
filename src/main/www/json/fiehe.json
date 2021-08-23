@@ -5736,6 +5736,7 @@
         {
           "id": "31",
           "date": "2021-08-01",
+          "checked": { "date": "2021-08-21", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "New You", "performer": "My Bloody Valentine"},
@@ -5743,7 +5744,7 @@
               { "title": "Trust", "performer": "Saoirse"},
               { "title": "Gliding Future", "performer": "DC Salas"},
               { "title": "With You", "performer": "Paris Green"},
-              { "title": "Emperor Machine", "performer": "A Certain Ratio Vs Andrew Meecham"},
+              { "title": "Musik Kontrol", "performer": "A Certain Ratio vs Massey"},
               { "title": "Finger Pies", "performer": "Anika"},
               { "title": "Me Myself And Dollar Hell", "performer": "Mild High Club"},
               { "title": "Emotion", "performer": "Molly Burch feat. Wild Nothing"},
@@ -5762,7 +5763,7 @@
               { "title": "Spinnin", "performer": "LMajor"},
               { "title": "Key Activation", "performer": "Docor Jeep"},
               { "title": "In My Prime", "performer": "Mieux feat. Cadell"},
-              { "title": "Pump Fake (Roska Rmx)", "performer": "Flowdan"},
+              { "title": "Pump Fake (Roska Remix)", "performer": "Flowdan"},
               { "title": "If Anything", "performer": "John Glacier"},
               { "title": "No", "performer": "Robag Wruhme"},
               { "title": "Calipso", "performer": "Affkt"}
@@ -5778,7 +5779,7 @@
               { "title": "Venus", "performer": "Emma-Jean Thackray"},
               { "title": "It´s The Sun", "performer": "The Polyphonic Spree"},
               { "title": "Family", "performer": "Jordan Rakei"},
-              { "title": "All My Friends (RC Big Hug Rmx)", "performer": "Roland Clark"}
+              { "title": "All My Friends (RC Big Hug Remix)", "performer": "Roland Clark"}
             ]
           ]
         }
