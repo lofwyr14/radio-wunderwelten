@@ -16275,9 +16275,14 @@
           "id": "34",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-09-09",
+          "checked": {
+            "date": "2021-08-15",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "From the floorboards up",
                 "performer": "Paul Weller"
               },
@@ -16298,11 +16303,11 @@
                 "performer": "The Magic Numbers"
               },
               {
-                "title": "I am Joan",
+                "title": "I Am Joan",
                 "performer": "Erland & The Carnival"
               },
               {
-                "title": "Waiting for a train",
+                "title": "Waiting For A Train (Maxi-Single-Version)",
                 "performer": "Flash & The Pan"
               },
               {
@@ -16322,7 +16327,7 @@
                 "performer": "Wild Honey"
               },
               {
-                "title": "Remind me",
+                "title": "Remind Me (Someone Else's Radio Remix)",
                 "performer": "Röyksopp"
               },
               {
@@ -16336,6 +16341,7 @@
             ],
             [
               {
+                "time": "21:04",
                 "title": "Steppin' out",
                 "performer": "Joe Jackson"
               },
@@ -16356,7 +16362,7 @@
                 "performer": "Kings Of Convenience"
               },
               {
-                "title": "The stroll",
+                "title": "Los Cuevos Pablo",
                 "performer": "The James Taylor Quartet"
               },
               {
@@ -16452,30 +16458,35 @@
           "id": "35",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-09-16",
+          "checked": {
+            "date": "2021-08-25",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Are you trying to be lonely?",
+                "time": "20:04",
+                "title": "Are You Trying To Be Lonely?",
                 "performer": "Andy Lewis & Paul Weller"
               },
               {
-                "title": "It's nice to be nice",
+                "title": "It's Nice To Be Nice",
                 "performer": "Pugwash"
               },
               {
-                "title": "I fall",
+                "title": "I Fall",
                 "performer": "The Vals"
               },
               {
-                "title": "Stop me",
+                "title": "Stop Me",
                 "performer": "Mark Ronson"
               },
               {
-                "title": "Work for love",
+                "title": "Work For Love",
                 "performer": "Ministry"
               },
               {
-                "title": "Give me just a little more time",
+                "title": "Give Me Just A Little More Time",
                 "performer": "Chairmen Of The Board"
               },
               {
@@ -16483,28 +16494,28 @@
                 "performer": "The John Steel Singers"
               },
               {
-                "title": "Summer triptych",
+                "title": "Summer Triptych",
                 "performer": "Simian Ghost"
               },
               {
-                "title": "Dirty laundry",
+                "title": "Dirty Laundry",
                 "performer": "Don Henley"
               },
               {
-                "title": "Number six",
+                "title": "Number Six",
                 "performer": "Bruce Foxton"
               },
               {
-                "title": "Who are you",
+                "title": "Who Are You",
                 "performer": "The Who"
               },
               {
-                "title": "Summer nightrunner",
+                "title": "Summer Nightrunner",
                 "performer": "A Gap Between"
               },
               {
-                "title": "What goes up",
-                "performer": "Alan Parsons Project"
+                "title": "What Goes Up",
+                "performer": "The Alan Parsons Project"
               },
               {
                 "title": "Waterloo Parade",
@@ -16513,11 +16524,12 @@
             ],
             [
               {
-                "title": "The night",
+                "time": "21:04",
+                "title": "The Night",
                 "performer": "Frankie Valli & The Four Seasons"
               },
               {
-                "title": "Talking back to the night",
+                "title": "Talking Back To The Night",
                 "performer": "Steve Winwood"
               },
               {
@@ -16525,11 +16537,11 @@
                 "performer": "The Vals"
               },
               {
-                "title": "Bellamy only dreams (Bremen Vier-Unplugged Session 2014)",
+                "title": "Bellamy Only Dreams (Bremen Vier-Unplugged Session 2014)",
                 "performer": "The Vals"
               },
               {
-                "title": "Where do we go from here (Bremen Vier-Unplugged Session 2014)",
+                "title": "Where Do We Go From Here (Bremen Vier-Unplugged Session 2014)",
                 "performer": "The Vals"
               },
               {
@@ -16537,15 +16549,15 @@
                 "performer": "Martin Carr"
               },
               {
-                "title": "A rock in may",
+                "title": "A Rock In May",
                 "performer": "The High Llamas"
               },
               {
-                "title": "Quiet part of town (Bremen Vier-Unplugged Session 2014)",
+                "title": "Quiet Part Of Town (Bremen Vier-Unplugged Session 2014)",
                 "performer": "The Vals"
               },
               {
-                "title": "Things will always be the same (Bremen Vier-Unplugged Session 2014)",
+                "title": "Things Will Always Be The Same (Bremen Vier-Unplugged Session 2014)",
                 "performer": "The Vals"
               },
               {
@@ -16557,13 +16569,14 @@
                 "performer": "Stephen Steinbrink"
               },
               {
-                "title": "Stream of stars",
+                "title": "Stream Of Stars",
                 "performer": "Jeff Lynne"
               }
             ],
             [
               {
-                "title": "Walking in the wind",
+                "time": "22:04",
+                "title": "Walking In The Wind",
                 "performer": "Traffic"
               },
               {
@@ -16575,7 +16588,7 @@
                 "performer": "Ollano"
               },
               {
-                "title": "Reflections after Jane",
+                "title": "Reflections After Jane",
                 "performer": "The Clientele"
               },
               {
@@ -16591,15 +16604,15 @@
                 "performer": "Candie Payne & Paul Weller"
               },
               {
-                "title": "Let's go out tonight",
+                "title": "Let's Go Out Tonight",
                 "performer": "The Blue Nile"
               },
               {
-                "title": "Think of me",
+                "title": "Think Of Me",
                 "performer": "Tomorrow's World"
               },
               {
-                "title": "Smiling sweetly",
+                "title": "Smiling Sweetly",
                 "performer": "Malcolm Ross"
               },
               {
@@ -16611,11 +16624,11 @@
                 "performer": "Parker Lewis"
               },
               {
-                "title": "Wild world",
+                "title": "Wild World",
                 "performer": "The Pastors"
               },
               {
-                "title": "Indoor-outdoor girl",
+                "title": "Indoor-Outdoor Girl",
                 "performer": "Bernard Ebbinghouse"
               }
             ]
