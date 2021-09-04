@@ -5880,6 +5880,53 @@
               { "title": "Fire", "performer": "Jungle"}
             ]
           ]
+        },
+        {
+          "id": "34",
+          "date": "2021-08-22",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Sommer", "performer": "Luis Ake "},
+              { "title": "Body Journey", "performer": "Maruwa"},
+              { "title": "Que Calor!", "performer": "The Liminanas & Laurent Garnier feat. Edi Pistolas"},
+              { "title": "Alpha", "performer": "Michael Mayer"},
+              { "title": "Tribeca", "performer": "James Bangura"},
+              { "title": "Distant Lights", "performer": "Burial"},
+              { "title": "Sparko", "performer": "Joy Orbison feat. Herron"},
+              { "title": "Swing", "performer": "Jose Gonzalez"},
+              { "title": "Dominoes", "performer": "Lorde"},
+              { "title": "Froth Sipping", "performer": "Joy Orbison"},
+              { "title": "Better", "performer": "Joy Orbison (w/ léa sen)"},
+              { "title": "Rock The Boat", "performer": "Aaliyah"},
+              { "title": "I Remember This Picture", "performer": "Kiefer"}
+            ],
+            [
+              { "time": "23:04", "title": "Fordissimo", "performer": "Newmen"},
+              { "title": "Phase One Million", "performer": "Vanishing Twin"},
+              { "title": "So We Won’t Forget (Mang Dynasty Version)", "performer": "Khruangbin"},
+              { "title": "Hot Like Fire (Timbaland´s Groove Mix)", "performer": "Aaliyah"},
+              { "title": "Truth Or Dare (LSDXOXO Remix)", "performer": "Kelela"},
+              { "title": "Fenix (Kolombo Remix)", "performer": "Kaiq"},
+              { "title": "Something Got Me", "performer": "Zero T & Aaliyah Esprit"},
+              { "title": "Rotation", "performer": "Ebhoni"},
+              { "title": "Ppl Say", "performer": "Peyton"},
+              { "title": "Mombasa", "performer": "Deafheaven"},
+              { "title": "Sevier", "performer": "The Joy Formidable"}
+            ],
+            [
+              { "time": "00:04", "title": "Shellstar", "performer": "Deafheaven"},
+              { "title": "Deny", "performer": "Leoniden feat. Ilgen Nur "},
+              { "title": "Easy To Love", "performer": "Sam Evian"},
+              { "title": "Virtual Reality", "performer": "Burkini Beach"},
+              { "title": "Renegade", "performer": "Big Red Machine feat. Taylor Swift"},
+              { "title": "Morning Sun", "performer": "M.Byrd"},
+              { "title": "Orion", "performer": "M.Byrd"},
+              { "title": "Für Immer", "performer": "Die Kerzen"},
+              { "title": "On My Mind", "performer": "Roosevelt"},
+              { "title": "Gay Dreams To Cme True", "performer": "Planningtorock"},
+              { "title": "Departure (Mark Slees Acid Test Flight)", "performer": "Adisyn"}
+            ]
+          ]
         }
       ]
     }
