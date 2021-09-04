@@ -5786,6 +5786,7 @@
         {
           "id": "32",
           "date": "2021-08-08",
+          "checked": { "date": "2021-09-04", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Over U", "performer": "Caro"},
@@ -5820,14 +5821,14 @@
               { "title": "Zukunft", "performer": "Fibel"},
               { "title": "Redrum", "performer": "Paris Green"},
               { "title": "Don´t Stand Still", "performer": "Maniqin"},
-              { "title": "The Weight Of Uncertainty (I.Cube Rmx)", "performer": "DC Salas"},
+              { "title": "The Weight Of Uncertainty (I:Cube Remix)", "performer": "DC Salas"},
               { "title": "Energy Flash", "performer": "Joey Beltram"},
               { "title": "Take Your Lady", "performer": "Sworn Virgins"},
               { "title": "Fading Away", "performer": "Sally Shapiro"},
               { "title": "Only One", "performer": "Machinedrum feat. Angelica Bess"},
-              { "title": "Hold On (Georgia Anne Muldrow Rmx)", "performer": "Little Dragon"},
+              { "title": "Hold On (Georgia Anne Muldrow Remix)", "performer": "Little Dragon"},
               { "title": "Pond House", "performer": "Saint Etienne"},
-              { "title": "Back To Your Roots 2021", "performer": "Jonny L Vs Friction"}
+              { "title": "Back To Your Roots 2021", "performer": "Jonny L vs Friction"}
             ]
           ]
         },
