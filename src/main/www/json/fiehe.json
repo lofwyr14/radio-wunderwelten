@@ -5835,6 +5835,7 @@
         {
           "id": "33",
           "date": "2021-08-15",
+          "checked": { "date": "2021-09-11", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "K.", "performer": "Cigarettes After Sex"},
@@ -5868,12 +5869,12 @@
             ],
             [
               { "time": "00:04", "title": "Terrible Thing ", "performer": "The Killers"},
-              { "title": "My Sweet Lord", "performer": "George Harrison"},
+              { "title": "My Sweet Lord (2020 Mix)", "performer": "George Harrison"},
               { "title": "Insel Der Verlassenheit", "performer": "International Music"},
               { "title": "Here Comes The Sun*The Inner Light (Transition)", "performer": "The Beatles"},
               { "title": "Invisible Door", "performer": "Trupa Trupa"},
               { "title": "Isn´t It A Pity", "performer": "George Harrison"},
-              { "title": "Somewhere", "performer": "Black Marble"},
+              { "title": "Somewhere (Radio Edit)", "performer": "Black Marble"},
               { "title": "Waxman", "performer": "Ty Segall"},
               { "title": "C´mon Everybody", "performer": "UFO"},
               { "title": "Summertime Blues", "performer": "Blue Cheer"},
