@@ -5933,6 +5933,7 @@
         {
           "id": "35",
           "date": "2021-08-29",
+          "checked": {"date": "2021-09-25", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Birchgrove Pleasure Gardens", "performer": "Maroki"},
@@ -5958,14 +5959,14 @@
               { "title": "How Bout Dat", "performer": "The Bug feat. FFSYTHO"},
               { "title": "Banana Clip", "performer": "Namasenda feat. Mowalola"},
               { "title": "Can´t Let You Do This", "performer": "Mark Hawkins"},
-              { "title": "All My Friends (RC Big Hug Rmx)", "performer": "Roland Clark"},
-              { "title": "Love Talk (Jon Dixon Rmx)", "performer": "DJ One Five"},
+              { "title": "All My Friends (RC Big Hug Remix)", "performer": "Roland Clark"},
+              { "title": "Love Talk (Jon Dixon Remix)", "performer": "DJ One Five"},
               { "title": "Crybaby", "performer": "Kiefer"},
               { "title": "Good Wind", "performer": "Steve Gunn"}
             ],
             [
               { "time": "00:04", "title": "Big Star", "performer": "Lorde"},
-              { "title": "Close (Buscabulla Rmx)", "performer": "Ela Minus feat. Helado Negro"},
+              { "title": "Close (Buscabulla Remix)", "performer": "Ela Minus feat. Helado Negro"},
               { "title": "Hide Me Here", "performer": "caro♡"},
               { "title": "A Cat", "performer": "Devendra Banhart & Noah Georgeson"},
               { "title": "Whats App", "performer": "Duval Timothy"},
