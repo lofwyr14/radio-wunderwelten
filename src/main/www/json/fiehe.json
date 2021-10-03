@@ -5984,6 +5984,7 @@
         {
           "id": "36",
           "date": "2021-09-05",
+          "checked": {"date": "2021-09-21", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Leave It", "performer": "Quickly, Quickly"},
@@ -6031,6 +6032,7 @@
         {
           "id": "37",
           "date": "2021-09-12",
+          "checked": {"date": "2021-10-03", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Sommer", "performer": "Luis Ake"},
@@ -6062,14 +6064,14 @@
               { "time": "00:04", "title": "Je Rentrais Par Le Bois…...BB", "performer": "The Liminanas & Laurent Garnier"},
               { "title": "Que Calor!", "performer": "The Liminanas feat. Edi Pistolas"},
               { "title": "Juliette Dans La Caravanne", "performer": "The Liminanas & Laurent Garnier"},
-              { "title": "Juliette", "performer": "The Liminanas & Laurent Garnier"},
+              { "title": "Ne gâche pas l'aventure humaine", "performer": "The Liminanas & Laurent Garnier"},
               { "title": "All I Need Is You Tonight", "performer": "MNNQNS"},
               { "title": "Drop", "performer": "Spencer"},
               { "title": "Verschwende Deine Zeit", "performer": "Edwin Rosen"},
               { "title": "Ich Weiß", "performer": "Zahlaza"},
               { "title": "Dreams Of Flying", "performer": "The Bevis Frond"},
               { "title": "Blowin´ In The Wind", "performer": "Tessa Rose Jackson & Someone"},
-              { "title": "Mountain", "performer": "M.Byrd"}
+              { "title": "Morning Sun", "performer": "M.Byrd"}
             ]
           ]
         }

@@ -16283,7 +16283,7 @@
             [
               {
                 "time": "20:04",
-                "title": "From the floorboards up",
+                "title": "From The floorboards up",
                 "performer": "Paul Weller"
               },
               {
@@ -16641,6 +16641,7 @@
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Beat surrender",
                 "performer": "The Jam"
               },
@@ -16689,7 +16690,7 @@
                 "performer": "The High Llamas"
               },
               {
-                "title": "Give me just a little more time",
+                "title": "Give Me Just A Little More Time (Tom Moulton Remix)",
                 "performer": "Chairmen Of The Board"
               },
               {
@@ -16699,10 +16700,15 @@
               {
                 "title": "Bring down the birds",
                 "performer": "Herbie Hancock"
+              },
+              {
+                "title": "Strictly Bongo",
+                "performer": "Bent"
               }
             ],
             [
               {
+                "time": "21:04",
                 "title": "If you don't love me",
                 "performer": "Prefab Sprout"
               },
@@ -16715,7 +16721,7 @@
                 "performer": "Comet Gain"
               },
               {
-                "title": "La Ritournelle",
+                "title": "La Ritournelle (Mr. Dan's Magic Wand Mix)",
                 "performer": "Sébastien Tellier"
               },
               {
@@ -16753,8 +16759,9 @@
             ],
             [
               {
-                "title": "Danger Mouse & Daniele Luppi",
-                "performer": "Season's trees"
+                "time": "22:04",
+                "title": "Season's Trees",
+                "performer": "Danger Mouse & Daniele Luppi"
               },
               {
                 "title": "Pugwash",
@@ -16818,6 +16825,7 @@
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Blister In The Sun",
                 "performer": "Violent Femmes"
               },
@@ -16866,20 +16874,13 @@
                 "performer": "Mamas Gun"
               },
               {
-                "title": "Forever Home",
-                "performer": "Luca Nieri"
-              },
-              {
                 "title": "Serious",
                 "performer": "Duran Duran"
-              },
-              {
-                "title": "With You",
-                "performer": "Mikael Delta"
               }
             ],
             [
               {
+                "time": "21:04",
                 "title": "Streets Of Your Town",
                 "performer": "The Go-Betweens"
               },
@@ -16934,6 +16935,7 @@
             ],
             [
               {
+                "time": "22:04",
                 "title": "Walk On By",
                 "performer": "Frankie Valli"
               },
@@ -16955,7 +16957,7 @@
               },
               {
                 "title": "Under My Skin",
-                "performer": "Lozee"
+                "performer": "LoZee"
               },
               {
                 "title": "My Sweet Lord",
@@ -16970,12 +16972,12 @@
                 "performer": "Stevie Wonder"
               },
               {
-                "title": "Guess I'm Dumb",
-                "performer": "Lambchop"
-              },
-              {
                 "title": "The Unspoken",
                 "performer": "Roberto Pascucci"
+              },
+              {
+                "title": "Guess I'm Dumb",
+                "performer": "Lambchop"
               },
               {
                 "title": "The End Of The Innocence",
@@ -17531,6 +17533,10 @@
               {
                 "title": "Ignorance is bliss",
                 "performer": "Alan Parsons"
+              },
+              {
+                "title": "Camilla",
+                "performer": "The Art Of Noise"
               }
             ]
           ]
@@ -17591,7 +17597,7 @@
               },
               {
                 "title": "God only knows",
-                "performer": "Brian Wilson & various artists"
+                "performer": "Brian Wilson & Friends"
               },
               {
                 "title": "Give it away",
@@ -17608,7 +17614,7 @@
                 "performer": "Benjamin Clementine"
               },
               {
-                "title": "Bring on the night - When the world is running down",
+                "title": "Bring On The Night / When The World Is Running Down",
                 "performer": "Sting"
               },
               {
@@ -17636,7 +17642,7 @@
                 "performer": "Coldplay"
               },
               {
-                "title": "Wichita lineman",
+                "title": "Wichita Lineman (AOL Session)",
                 "performer": "Glen Campbell"
               },
               {
@@ -17654,7 +17660,7 @@
                 "performer": "Pat Metheny"
               },
               {
-                "title": "Moving the river",
+                "title": "Moving The River (Acoustic)",
                 "performer": "Prefab Sprout"
               },
               {
@@ -17678,16 +17684,16 @@
                 "performer": "Ennio Morricone"
               },
               {
-                "title": "I second that emotion",
+                "title": "I Second That Emotion (12\" Version",
                 "performer": "Japan"
               },
               {
-                "title": "Bahnhof",
+                "title": "Bahnhof (Orwell Remix)",
                 "performer": "Alexander von Mehren"
               },
               {
-                "title": "Quiet village",
-                "performer": "MartinDenny"
+                "title": "Quiet Village",
+                "performer": "Martin Denny"
               },
               {
                 "title": "Wot's... uh the deal?",
