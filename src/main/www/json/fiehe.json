@@ -6074,6 +6074,105 @@
               { "title": "Morning Sun", "performer": "M.Byrd"}
             ]
           ]
+        },
+        {
+          "id": "38",
+          "date": "2021-09-19",
+          "songs": [
+            [
+              { "time": "22:04", "title": "You Can Do It", "performer": "Caribou"},
+              { "title": "Mind Games", "performer": "Shire T"},
+              { "title": "P + R", "performer": "L´Eclair"},
+              { "title": "Talks (DJ Dairy´s Buffer Shuffler Rmx)", "performer": "PVA"},
+              { "title": "Dark Days", "performer": "Yard Act"},
+              { "title": "Get Ready", "performer": "Rare Earth"},
+              { "title": "Someone Else", "performer": "Colleen Green"},
+              { "title": "Unguarded", "performer": "Jordan Rakei"},
+              { "title": "Vuka", "performer": "Demure"},
+              { "title": "Rogue Waves", "performer": "Moor Mother"},
+              { "title": "Made A Circle", "performer": "Moor Mother feat. Nappy Nina & Maassai & Antonia Gabriela & Orion Sun"},
+              { "title": "Sad Song 77", "performer": "caro♡"},
+              { "title": "Free C Roy", "performer": "K-Trap"},
+              { "title": "Fighting", "performer": "K-Trap"},
+              { "title": "Whatchu Doin Later", "performer": "Park Hye Jin"},
+              { "title": "Spanish On The Beach", "performer": "Andy Shauf"}
+            ],
+            [
+              { "time": "23:04", "title": "Blumen", "performer": "Luis Ake"},
+              { "title": "Switchways", "performer": "Otik"},
+              { "title": "Perfectly You", "performer": "Ronan"},
+              { "title": "Figueroa", "performer": "Machinedrum"},
+              { "title": "Merchant Blessings (DJ Marky Rmx)", "performer": "Makoto feat. MC Conrad"},
+              { "title": "Contradictions", "performer": "Thala"},
+              { "title": "Me Myself And Dollar Hell", "performer": "Mild High Club"},
+              { "title": "Dieterich Buxtehude", "performer": "Spencer Cullum"},
+              { "title": "Lost In The Citadel", "performer": "Lil Nas X"},
+              { "title": "Stranger Still", "performer": "Vetive"}
+            ],
+            [
+              { "time": "00:04", "title": "Umweg", "performer": "Luis Ake"},
+              { "title": "R U Still Well", "performer": "Finn"},
+              { "title": "Cluster Fink", "performer": "Adam Pits"},
+              { "title": "The Overload", "performer": "Yard Act"},
+              { "title": "The End Of The World", "performer": "The Cool Greenhouse"},
+              { "title": "Nikki Swango", "performer": "Fluppe"},
+              { "title": "Kalt Und Weiß", "performer": "Stefanie Schrank"},
+              { "title": "Flirren", "performer": "Levin Goes Lightly"},
+              { "title": "Never Had It Better", "performer": "Matthew E. White"},
+              { "title": "The Trilogy", "performer": "Suuns"},
+              { "title": "Earthling", "performer": "HearThuG"},
+              { "title": "Trifecta", "performer": "Otik"}
+            ]
+          ]
+        },
+        {
+          "id": "39",
+          "date": "2021-09-26",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Megumi The Milkyway Above", "performer": "Connan Mockasin"},
+              { "title": "Cabin Fever", "performer": "Jaden"},
+              { "title": "We Better Make A Move", "performer": "Finn"},
+              { "title": "Sometimes Always", "performer": "The Jesus And Mary Chain"},
+              { "title": "Contradictions", "performer": "Thala"},
+              { "title": "The End Of The World", "performer": "The Cool Greenhouse"},
+              { "title": "Do You Think I´m Special", "performer": "DAMEFRISØR"},
+              { "title": "Industry Baby", "performer": "Lil Nas X feat. Jack Harlow"},
+              { "title": "Faith Healer", "performer": "The Bollock Brothers"},
+              { "title": "Wer Macht Die Arbeit", "performer": "Salvage Art"},
+              { "title": "Neigt Eure Köpfe", "performer": "Das Bierbeben"},
+              { "title": "Jugend Ohne Gott Gegen Faschismus", "performer": "Tocotronic"},
+              { "title": "Masterplan", "performer": "The Majans"}
+            ],
+            [
+              { "time": "23:04", "title": "Sommer", "performer": "Luis Ake"},
+              { "title": "Stay", "performer": "Jay De Lys"},
+              { "title": "Liebhaber", "performer": "Levin Goes Lightly"},
+              { "title": "Heroes", "performer": "David Bowie"},
+              { "title": "America´s Cup", "performer": "Pond"},
+              { "title": "Priestess", "performer": "Pumarosa"},
+              { "title": "The Black Angel´s Death Song", "performer": "Fountaines D.C"},
+              { "title": "This Enchanted", "performer": "Hatchie"},
+              { "title": "Mangrove", "performer": "Moor Mother feat. Elucid & Antonia Gabriela"},
+              { "title": "Walk Alone", "performer": "The Kii feat. Kelvyn Colt"},
+              { "title": "Pick ´n´ Mix", "performer": "K-Trap"},
+              { "title": "Maths", "performer": "K-Trap & DoRoad"},
+              { "title": "Mir San A Bayrische Band", "performer": "Spider Murphy Gang"}
+            ],
+            [
+              { "time": "00:04", "title": "Fantasy pt. 2 (Bolt Cutters A Jenny)", "performer": "Chrissy"},
+              { "title": "The Whistle Song (Re-Directed)", "performer": "Frankie Knuckles"},
+              { "title": "Wie Fühlst Du Dich", "performer": "Salvage Art"},
+              { "title": "Somethinggreater", "performer": "Parcels"},
+              { "title": "Love Me Like Sugar", "performer": "Sweet Crisis"},
+              { "title": "U&ME", "performer": "alt-J"},
+              { "title": "Jiva Juluka", "performer": "Moonchild Sanelly"},
+              { "title": "Asylum", "performer": "Lubelski"},
+              { "title": "Pink Lunettes", "performer": "Pond"},
+              { "title": "Escalate", "performer": "Ben Böhmer feat. Jonah"},
+              { "title": "Der Haifisch Die Zähne", "performer": "Dÿse"}
+            ]
+          ]
         }
       ]
     }
