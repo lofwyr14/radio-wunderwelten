@@ -6078,12 +6078,13 @@
         {
           "id": "38",
           "date": "2021-09-19",
+          "checked": {"date": "2021-10-10", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "You Can Do It", "performer": "Caribou"},
               { "title": "Mind Games", "performer": "Shire T"},
               { "title": "P + R", "performer": "L´Eclair"},
-              { "title": "Talks (DJ Dairy´s Buffer Shuffler Rmx)", "performer": "PVA"},
+              { "title": "Talks (DJ Dairy´s Buffer Shuffler Remix)", "performer": "PVA"},
               { "title": "Dark Days", "performer": "Yard Act"},
               { "title": "Get Ready", "performer": "Rare Earth"},
               { "title": "Someone Else", "performer": "Colleen Green"},
@@ -6128,6 +6129,7 @@
         {
           "id": "39",
           "date": "2021-09-26",
+          "checked": {"date": "2021-11-07", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Megumi The Milkyway Above", "performer": "Connan Mockasin"},
@@ -6152,9 +6154,8 @@
               { "title": "America´s Cup", "performer": "Pond"},
               { "title": "Priestess", "performer": "Pumarosa"},
               { "title": "The Black Angel´s Death Song", "performer": "Fountaines D.C"},
-              { "title": "This Enchanted", "performer": "Hatchie"},
-              { "title": "Mangrove", "performer": "Moor Mother feat. Elucid & Antonia Gabriela"},
               { "title": "Walk Alone", "performer": "The Kii feat. Kelvyn Colt"},
+              { "title": "Mangrove", "performer": "Moor Mother feat. Elucid & Antonia Gabriela"},
               { "title": "Pick ´n´ Mix", "performer": "K-Trap"},
               { "title": "Maths", "performer": "K-Trap & DoRoad"},
               { "title": "Mir San A Bayrische Band", "performer": "Spider Murphy Gang"}
@@ -6166,6 +6167,7 @@
               { "title": "Somethinggreater", "performer": "Parcels"},
               { "title": "Love Me Like Sugar", "performer": "Sweet Crisis"},
               { "title": "U&ME", "performer": "alt-J"},
+              { "title": "This Enchanted", "performer": "Hatchie"},
               { "title": "Jiva Juluka", "performer": "Moonchild Sanelly"},
               { "title": "Asylum", "performer": "Lubelski"},
               { "title": "Pink Lunettes", "performer": "Pond"},
