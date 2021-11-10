@@ -6226,6 +6226,53 @@
               { "title": "Drilling Company", "performer": "Felix"}
             ]
           ]
+        },
+        {
+          "id": "41",
+          "date": "2021-10-10",
+          "songs": [
+            [
+              { "time": "22:04", "title": "The Heat (Radio Mix)", "performer": "Marlon Hoffstadt aka DJ Daddy Trance"},
+              { "title": "Chapstick", "performer": "Coin"},
+              { "title": "Walking At A Downtown Pace", "performer": "Parquet Courts"},
+              { "title": "Microdosing", "performer": "UNIIQU3"},
+              { "title": "Self Love", "performer": "wasgehtchloe feat. Reflectionz"},
+              { "title": "Just Sculpted Air Pressure", "performer": "Third Son"},
+              { "title": "Living Other Lives", "performer": "Efterklang"},
+              { "title": "Love Will Tear Us Apart", "performer": "Joy Division"},
+              { "title": "Anima", "performer": "Dinner"},
+              { "title": "It Only Gets Worse, I Promise", "performer": "Ekkstacy"},
+              { "title": "Restore Us", "performer": "Permafrost"},
+              { "title": "Pari Pari (Shubostar Remix)", "performer": "Aili & Transistorcake"},
+              { "title": "Belorama", "performer": "Etherwood"}
+            ],
+            [
+              { "time": "23:04", "title": "Talks (DJ Dairy Rmx)", "performer": "PVA"},
+              { "title": "Keep On Believing (Spaventi Mix)", "performer": "HAAi"},
+              { "title": "The Doll", "performer": "Audiobooks"},
+              { "title": "Unité", "performer": "The KVB"},
+              { "title": "Lost", "performer": "IAMI"},
+              { "title": "Love Divide", "performer": "Ross From Friends"},
+              { "title": "Native Soul", "performer": "Teenage Dreams"},
+              { "title": "Devlin feat. Jme, Frisco, Syer B, Lewi ", "performer": "Next Breed"},
+              { "title": "Dissy", "performer": "Tunichtgut"},
+              { "title": "Dissy", "performer": "Drag & Drop"},
+              { "title": "Blue Ridge", "performer": "Chorusing"},
+              { "title": "Beyond Beliefs (Extended Remix)", "performer": "Ben Böhmer"}
+            ],
+            [
+              { "time": "00:04", "title": "Solarised (Extended Rework)", "performer": "Jane Weaver"},
+              { "title": "What You Need (Tensnake Rmx)", "performer": "NTEIBINT feat. Matina Sous Peau"},
+              { "title": "ASC", "performer": "Lucid Dream"},
+              { "title": "Otik", "performer": "Switchways"},
+              { "title": "Homecoming (LTJ Bukem Remix)", "performer": "Above & Beyond"},
+              { "title": "Talk Meaning", "performer": "BadBadNotGood"},
+              { "title": "Am Ende Zählst Nur Du", "performer": "Isolation Berlin"},
+              { "title": "Say What You Will", "performer": "James Blake"},
+              { "title": "Enfant Terrible", "performer": "Isolation Berlin"},
+              { "title": "Frozen", "performer": "James Blake feat. JID & SwaVay"}
+            ]
+          ]
         }
       ]
     }
