@@ -6179,6 +6179,7 @@
         {
           "id": "40",
           "date": "2021-10-03",
+          "checked": {"date": "2021-11-10", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Send Me", "performer": "Tirzah"},
@@ -6200,7 +6201,7 @@
             [
               { "time": "23:04", "title": "Liebhaber", "performer": "Levin Goes Lightly"},
               { "title": "Private Probleme", "performer": "Isolation Berlin"},
-              { "title": "Down & Dirty (Mr Dan Rmx)", "performer": "A Certain Ratio"},
+              { "title": "Down & Dirty (Mr Dan Remix)", "performer": "A Certain Ratio"},
               { "title": "Doolally", "performer": "Skream"},
               { "title": "Keiner Da", "performer": "st.raumen feat. Gudrun Gut"},
               { "title": "1:2", "performer": "Cindy"},
