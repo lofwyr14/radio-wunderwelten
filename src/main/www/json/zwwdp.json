@@ -67652,6 +67652,141 @@
               }
             ]
           ]
+        },
+        {
+          "id": "42",
+          "date": "2021-10-21",
+          "songs": [
+            [
+              {
+                "time": "22:048",
+                "title": "A Matter Of Life & Love",
+                "performer": "Skinny Lister"
+              },
+              {
+                "time": "22:11",
+                "title": "Primavera",
+                "performer": "Aaron Joseph Russo"
+              },
+              {
+                "time": "22:14",
+                "title": "I Would Sing Along",
+                "performer": "Karen Peris"
+              },
+              {
+                "time": "22:18",
+                "title": "Reckenfeld",
+                "performer": "The Fisherman and his Soul feat. Tenant From Zero & Estella Rosa"
+              },
+              {
+                "time": "22:22",
+                "title": "Pass Away",
+                "performer": "Tonstartssbandht"
+              },
+              {
+                "time": "22:31",
+                "title": "The New York City Beat",
+                "performer": "George Begbie & Anthony Rochester"
+              },
+              {
+                "time": "22:34",
+                "title": "Echoes Of Joy",
+                "performer": "Stone Foundation"
+              },
+              {
+                "time": "22:38",
+                "title": "The Tipping Point",
+                "performer": "Tears For Fears"
+              },
+              {
+                "time": "22:42",
+                "title": "The Tipping Point",
+                "performer": "George Harrison"
+              },
+              {
+                "time": "22:48",
+                "title": "Visions",
+                "performer": "José González"
+              },
+              {
+                "time": "22:52",
+                "title": "Send Me A Letter",
+                "performer": "Ablebody feat. Sean Nicholas Savage"
+              },
+              {
+                "time": "22:57",
+                "title": "Black Vinyl",
+                "performer": "Spearmint"
+              },
+              {
+                "time": "22:59",
+                "title": "Soul Limbo",
+                "performer": "Booker T. & The M.G.'s"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Right",
+                "performer": "David Bowie"
+              },
+              {
+                "time": "23:08",
+                "title": "Re:Enter Bloom Lagoon, Pt. 1",
+                "performer": "Kainalu"
+              },
+              {
+                "time": "23:11",
+                "title": "Telephone Line",
+                "performer": "Dirk Darmstaedter"
+              },
+              {
+                "time": "23:16",
+                "title": "Shores",
+                "performer": "Shannon Lay"
+              },
+              {
+                "time": "23:20",
+                "title": "Aline",
+                "performer": "Jarvis Cocker"
+              },
+              {
+                "time": "23:23",
+                "title": "Family Affair",
+                "performer": "Studio Rio Sly & The Family Stone"
+              },
+              {
+                "time": "23:27",
+                "title": "Casita",
+                "performer": "Kaina"
+              },
+              {
+                "time": "23:31",
+                "title": "The Sand",
+                "performer": "Larry Rose Band"
+              },
+              {
+                "time": "23:37",
+                "title": "Main Theme. Aus: The Adventures Of Robinson Crusoe (Tv Film, 1965)",
+                "performer": "Gian Piero Reverberi Franco London Orchestra"
+              },
+              {
+                "time": "23:39",
+                "title": "Start Again",
+                "performer": "Teitur"
+              },
+              {
+                "time": "23:56",
+                "title": "Hush",
+                "performer": "Jellyfish"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
