@@ -6324,6 +6324,109 @@
               { "title": "Cold Turkey", "performer": "John Lennon/Plastic Ono Band"}
             ]
           ]
+        },
+        {
+          "id": "43",
+          "date": "2021-10-24",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Bell My Buzzer", "performer": "Sentinel 793"},
+              { "title": "Finale", "performer": "Vaovao"},
+              { "title": "Soulo", "performer": "Otik"},
+              { "title": "Big Up", "performer": "Spektralsound"},
+              { "title": "Fog", "performer": "Danny Goliger feat. Michael Fam"},
+              { "title": "Paradise Delay", "performer": "Marteria & DJ Koze"},
+              { "title": "Immer Weiter", "performer": "Denis"},
+              { "title": "Said And Done", "performer": "Low Hum"},
+              { "title": "You´re Not Rolling", "performer": "K1 N15"},
+              { "title": "Fighting", "performer": "K-Trap"},
+              { "title": "Eternity (Leaf Mix)", "performer": "Seagoth"},
+              { "title": "Invocation", "performer": "Glok"}
+            ],
+            [
+              { "time": "23:04", "title": "Lava Lamp Pisco", "performer": "Psychedelic Porn Crumpets"},
+              { "title": "American Woman", "performer": "The Guess Who"},
+              { "title": "Black Widow Spider", "performer": "Parquet Courts"},
+              { "title": "Stoned And Starving", "performer": "Parquet Courts"},
+              { "title": "Too Many Creeps", "performer": "Bush Tetras"},
+              { "title": "Plant Life", "performer": "Parquet Courts"},
+              { "title": "Doers", "performer": "Bodega"},
+              { "title": "Zoom Out", "performer": "Parquet Courts"},
+              { "title": "It´s Too Late To Go To Bed    ", "performer": "The Parrots"},
+              { "title": "Talisa", "performer": "Daniele Luppi & Parquet Courts feat. Karen O"},
+              { "title": "Geschichten", "performer": "Levin Goes Lightly"},
+              { "title": "Liebhaber", "performer": "Levin Goes Lightly"},
+              { "title": "Just a Little (Daniel Neuland & Vom Feisten Remix)", "performer": "Daniel Levak"},
+              { "title": "Hocus Pocus", "performer": "Clinic"}
+            ],
+            [
+              { "time": "00:04", "title": "Inna Circle", "performer": "Anz"},
+              { "title": "Last Before Lights", "performer": "Anz"},
+              { "title": "Olha O Robot", "performer": "Silvestre"},
+              { "title": "Revellers", "performer": "Ross From Friends"},
+              { "title": "Spirit X", "performer": "Alewya"},
+              { "title": "Back & Forth", "performer": "DJ Rap"},
+              { "title": "Finish Him", "performer": "Namasenda feat. Joey Labeija"},
+              { "title": "Midnight In My Head", "performer": "Dinner"},
+              { "title": "Never Know", "performer": "Sam Evian"},
+              { "title": "Lazy Eyes And Dune  ", "performer": "La Luz"},
+              { "title": "The Devil´s In The Details", "performer": "My Morning Jacket"},
+              { "title": "Umami & Lime   ", "performer": "Salomea"}
+            ]
+          ]
+        },
+        {
+          "id": "44",
+          "date": "2021-10-31",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Strodes At The Hospital", "performer": "John Carpenter, Cody Carpenter & Daniel Davies"},
+              { "title": "Lonely Sirens (London Elektricity VIP)", "performer": "London Elektricity feat. Elsa Esmeralda"},
+              { "title": "Steel", "performer": "Namasenda feat. Hannah Diamond"},
+              { "title": "Harmonia´s Dream", "performer": "The War On Drugs"},
+              { "title": "Friends Around Us (Lounge Society Remix)", "performer": "A Certain Ratio"},
+              { "title": "Culture Jam", "performer": "Matrefakt feat. Eva"},
+              { "title": "The First Step", "performer": "DJ Abilities"},
+              { "title": "General Hospital", "performer": "Dr. Octagon"},
+              { "title": "Need", "performer": "Maya Jane Coles"},
+              { "title": "Sweat Forever", "performer": "Lily Konigsberg"},
+              { "title": "Break It Off", "performer": "PinkPantheress"},
+              { "title": "Circles", "performer": "Adam F"},
+              { "title": "My Coo Ca Choo  ", "performer": "Alvin Stardust"},
+              { "title": "Goodbye Ghost", "performer": "La Luz"},
+              { "title": "Human Fly", "performer": "The Cramps"}
+            ],
+            [
+              { "time": "23:04", "title": "Schneller Als Die Felings", "performer": "Denis"},
+              { "title": "Surrender (Palms Trax Remix)", "performer": "Tseba feat. Pricie"},
+              { "title": "Moon", "performer": "Sly Alone feat. Haiyti"},
+              { "title": "Digital Franchise", "performer": "SectorSept"},
+              { "title": "Keiner Da", "performer": "st.raumen feat. Gudrun Gut  "},
+              { "title": "The Invaders (Intro)", "performer": "William Woodsun  & David Vincent   "},
+              { "title": "Cleo", "performer": "Shygirl"},
+              { "title": "The Fate Of The World On Our Shoulders", "performer": "Cradle Of Filth"},
+              { "title": "Existential Terror", "performer": "Cradle Of Filth"},
+              { "title": "Run To You", "performer": "Maya Jane Coles feat. Claudia Kane"},
+              { "title": "Always In Love (Skream Rmx)", "performer": "A Certain Ratio"},
+              { "title": "Is Vic There?", "performer": "Department S"},
+              { "title": "Geschichten", "performer": "Levin Goes Lightly"},
+              { "title": "Realise", "performer": "Lone"}
+            ],
+            [
+              { "time": "00:04", "title": "Bleiben", "performer": "Vaovao"},
+              { "title": "I Mingle (Luciano Rmx)", "performer": "Mosey"},
+              { "title": "Fleek", "performer": "No-e"},
+              { "title": "Kitty Kat", "performer": "Megan Thee Stallion    "},
+              { "title": "Ghost", "performer": "Bad With Phones"},
+              { "title": "If I Could Breathe Underwater", "performer": "Marissa Nadler feat. Mary Lattimore     "},
+              { "title": "Drugs N Hella Melodies", "performer": "Don Toliver feat. Kali Uchis"},
+              { "title": "Easy To Love", "performer": "Sam Evian"},
+              { "title": "Fanfare – Fire Poem", "performer": "Arthur Brown"},
+              { "title": "Fire", "performer": "Arthur Brown"},
+              { "title": "3D Warrior", "performer": "Nightmares On Wax"},
+              { "title": "Drac´s Back", "performer": "The Bollock Brothers"}
+            ]
+          ]
         }
       ]
     }
