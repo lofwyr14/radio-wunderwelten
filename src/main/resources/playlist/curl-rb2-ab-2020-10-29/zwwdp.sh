@@ -1,12 +1,12 @@
 #! /bin/bash
 
 # vermutlich immer um 2 erhöhen
-ID=194
+ID=214
 
 # aktuelles Jahr
 YEAR=2021
 # muss jedes Jahr und beim Ausfall einer Sendung angepasst werden
-IDWEEKOFFSET=72
+IDWEEKOFFSET=66
 # 4 = Donnerstags
 DAYOFWEEK=4
 
@@ -53,6 +53,8 @@ echo "Ermittlelte Kalenderwoche: $WEEK"
 DATE=$(week2date ${YEAR} ${WEEK} ${DAYOFWEEK})
 echo "Ermittleltes Datum:        $DATE"
 HTML=zwwdp-${DATE}.html
+
+#exit
 
 echo "Lade URL ${URL}"
 curl -o ${HTML} ${URL}

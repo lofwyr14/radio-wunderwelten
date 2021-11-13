@@ -17714,6 +17714,10 @@
           "id": "42",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-11-11",
+          "checked": {
+            "date": "2021-10-14",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -17791,10 +17795,6 @@
                 "performer": "Fatboy Slim"
               },
               {
-                "title": "Aérosuite",
-                "performer": "Alexander von Mehren"
-              },
-              {
                 "title": "Jesse James symphony",
                 "performer": "Prefab Sprout"
               },
@@ -17803,7 +17803,7 @@
                 "performer": "Prefab Sprout"
               },
               {
-                "title": "Aérosuite",
+                "title": "Aérosuite (Sean O'Hagen Remix - The House That Jack Built)",
                 "performer": "Alexander von Mehren"
               },
               {
@@ -17853,7 +17853,7 @@
                 "performer": "Kate Bush"
               },
               {
-                "title": "Holes in my shoes",
+                "title": "Holes In My Shoes (Carry On Version)",
                 "performer": "Stephen Duffy"
               },
               {
@@ -17898,7 +17898,7 @@
         {
           "id": "43",
           "title": "Zeiglers wunderbare Welt des Pop",
-          "date": "2014-11-18",
+          "date": "2014-11-25",
           "songs": [
             [
               {
@@ -17950,6 +17950,10 @@
                 "performer": "Danny Wilson"
               },
               {
+                "title": "Face Your Hunters",
+                "performer": "Dan MacCormack"
+              },
+              {
                 "title": "Video killed the radio star",
                 "performer": "Pomplamoose"
               },
@@ -17960,7 +17964,7 @@
             ],
             [
               {
-                "title": "Standing in the light",
+                "title": "Standing In The Light (Extended Version)",
                 "performer": "Level 42"
               },
               {
@@ -18010,6 +18014,7 @@
             ],
             [
               {
+                "time": "22:04",
                 "title": "Falling asleep",
                 "performer": "The Clientele"
               },
@@ -18030,7 +18035,7 @@
                 "performer": "Supertramp"
               },
               {
-                "title": "I'm not gonna miss you",
+                "title": "I'm Not Gonna Miss You (Nashville Radio Single Version)",
                 "performer": "Glen Campbell"
               },
               {
@@ -67187,6 +67192,461 @@
               },
               {
                 "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "38",
+          "date": "2021-09-23",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Piggyback",
+                "performer": "Nick Corbin"
+              },
+              {
+                "time": "22:08",
+                "title": "Reason To Be",
+                "performer": "Joseph Malik & Niki King"
+              },
+              {
+                "time": "22:12",
+                "title": "Anxious Eyes",
+                "performer": "Scuba Dvala"
+              },
+              {
+                "time": "22:16",
+                "title": "Witches",
+                "performer": "Alice Phoebe Lou"
+              },
+              {
+                "time": "22:20",
+                "title": "Nackt Und Einsam",
+                "performer": "Moritz Krämer"
+              },
+              {
+                "time": "22:23",
+                "title": "Journey To You",
+                "performer": "The Blow Monkeys"
+              },
+              {
+                "time": "22:27",
+                "title": "Dancing In The Dark",
+                "performer": "Benny Sings"
+              },
+              {
+                "time": "22:32",
+                "title": "Wishing (If I Had A Photograph Of You)",
+                "performer": "Nouvelle Vague"
+              },
+              {
+                "time": "22:35",
+                "title": "Spring",
+                "performer": "Breathe Panel"
+              },
+              {
+                "time": "22:38",
+                "title": "Drifting",
+                "performer": "Oslo Oscillator"
+              },
+              {
+                "time": "22:42",
+                "title": "Tears Of A Crown",
+                "performer": "Joel Culpepper"
+              },
+              {
+                "time": "22:45",
+                "title": "The Trip",
+                "performer": "Derya Yildirim & Grup Simsek"
+              },
+              {
+                "time": "22:50",
+                "title": "I Won't Let You Down",
+                "performer": "Curtis Harding"
+              },
+              {
+                "time": "22:55",
+                "title": "The Other Side Of Grey",
+                "performer": "The Hepburns feat. Estella Rosa"
+              },
+              {
+                "time": "22:58",
+                "title": "Chito's Song",
+                "performer": "Cochemea"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "I Don't Want To Fight Anymore",
+                "performer": "Silvertwin"
+              },
+              {
+                "time": "23:08",
+                "title": "Unweaving The Rainbow Forever",
+                "performer": "Feng Suave"
+              },
+              {
+                "time": "23:11",
+                "title": "Back To Oz",
+                "performer": "Sufjan Stevens & Angelo de Augustine"
+              },
+              {
+                "time": "23:16",
+                "title": "So Simpatico",
+                "performer": "Villagers"
+              },
+              {
+                "time": "23:22",
+                "title": "Spanish On The Beach",
+                "performer": "Andy Shauf"
+              },
+              {
+                "time": "23:25",
+                "title": "Playground Love",
+                "performer": "Lo Moon"
+              },
+              {
+                "time": "23:28",
+                "title": "Shrine",
+                "performer": "Swum"
+              },
+              {
+                "time": "23:32",
+                "title": "Wishful Thinking",
+                "performer": "Mocky"
+              },
+              {
+                "time": "23:35",
+                "title": "All These Changes",
+                "performer": "Nick Hakim"
+              },
+              {
+                "time": "23:40",
+                "title": "See Mitten Im Wald",
+                "performer": "Wolfgang Müller"
+              },
+              {
+                "time": "23:43",
+                "title": "L'Eau Bleue",
+                "performer": "Maston with L'Eclair"
+              },
+              {
+                "time": "23:48",
+                "title": "Gentle on my Mind",
+                "performer": "The Colorist Orchestra & Howe Gelb"
+              },
+              {
+                "time": "23:52",
+                "title": "Love Will Work it out",
+                "performer": "Durand Jones & The Indications"
+              },
+              {
+                "time": "23:56",
+                "title": "Til I Die",
+                "performer": "The Beach Boys"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "39",
+          "date": "2021-09-30",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Sunny Afternoon",
+                "performer": "Benny Sings"
+              },
+              {
+                "time": "22:07",
+                "title": "Don't Let It Get You Down",
+                "performer": "Miles Kane"
+              },
+              {
+                "time": "22:12",
+                "title": "Dionysian State",
+                "performer": "Mild High Club"
+              },
+              {
+                "time": "22:14",
+                "title": "T. V. Age",
+                "performer": "Joe Jackson"
+              },
+              {
+                "time": "22:18",
+                "title": "Oh Dove",
+                "performer": "Men I Trust"
+              },
+              {
+                "time": "22:21",
+                "title": "Marabous",
+                "performer": "Eggstone"
+              },
+              {
+                "time": "22:26",
+                "title": "You Got It All Wrong",
+                "performer": "theCatherines"
+              },
+              {
+                "time": "22:31",
+                "title": "Fruit Sandwich",
+                "performer": "Aaron Russo"
+              },
+              {
+                "time": "22:35",
+                "title": "Rosemary Jane",
+                "performer": "Chris Free"
+              },
+              {
+                "time": "22:39",
+                "title": "Elegy For Love",
+                "performer": "Kit Sebastian"
+              },
+              {
+                "time": "22:42",
+                "title": "Faith In Time",
+                "performer": "Fallows, Glenn / Treffel, Mark"
+              },
+              {
+                "time": "22:47",
+                "title": "You Should Be Dancing",
+                "performer": "Dee Gees"
+              },
+              {
+                "time": "22:51",
+                "title": "Family",
+                "performer": "Jordan Rakei"
+              },
+              {
+                "time": "22:55",
+                "title": "Strawberry Milkshake",
+                "performer": "Rosemary Fairweather"
+              },
+              {
+                "time": "22:59",
+                "title": "57 Lashes Of The Mallet",
+                "performer": "The Natural Yogurt Band"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Rollercoaster Ride",
+                "performer": "The Whitest Boy Alive"
+              },
+              {
+                "time": "23:07",
+                "title": "Music Again",
+                "performer": "Saint Etienne"
+              },
+              {
+                "time": "23:10",
+                "title": "Plenty More Fish In C",
+                "performer": "Pete Aves"
+              },
+              {
+                "time": "23:13",
+                "title": "I'Ll Follow The Sun",
+                "performer": "Margarita Dreams"
+              },
+              {
+                "time": "23:15",
+                "title": "Reflections",
+                "performer": "Bill Conti"
+              },
+              {
+                "time": "23:18",
+                "title": "Dôme Du Goûter",
+                "performer": "Friedrich Sunlight"
+              },
+              {
+                "time": "23:24",
+                "title": "Dirty Trip",
+                "performer": "Brian Reitzell"
+              },
+              {
+                "time": "23:31",
+                "title": "Long Slow Suicide",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "time": "23:35",
+                "title": "Seasons In The Sun",
+                "performer": "The Beach Boys"
+              },
+              {
+                "time": "23:40",
+                "title": "Rainmaker",
+                "performer": "John Carroll Kirby"
+              },
+              {
+                "time": "23:45",
+                "title": "Holy Rivers",
+                "performer": "The Soundcarriers"
+              },
+              {
+                "time": "23:51",
+                "title": "Soirée",
+                "performer": "Bill Evans"
+              },
+              {
+                "time": "23:56",
+                "title": "Solo Tú",
+                "performer": "Los Retros"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "41",
+          "date": "2021-10-14",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "I.G.Y (What A Beautiful World)",
+                "performer": "Howard Jones"
+              },
+              {
+                "time": "22:09",
+                "title": "Yalvarma",
+                "performer": "Kit Sebastian"
+              },
+              {
+                "time": "22:15",
+                "title": "Royal Morning Blue",
+                "performer": "Damon Albarn"
+              },
+              {
+                "time": "22:18",
+                "title": "Alameda Apartments",
+                "performer": "Neal Francis"
+              },
+              {
+                "time": "22:23",
+                "title": "Lazy Susan",
+                "performer": "Spearmint"
+              },
+              {
+                "time": "22:25",
+                "title": "Alla Prima",
+                "performer": "Sven Wunder"
+              },
+              {
+                "time": "22:28",
+                "title": "Why Are You Hiding Away?",
+                "performer": "Dan Croll"
+              },
+              {
+                "time": "22:33",
+                "title": "Positive Vibrations",
+                "performer": "Meets on Beat"
+              },
+              {
+                "time": "22:37",
+                "title": "Somewhere In Chicago",
+                "performer": "Strand Of Oaks"
+              },
+              {
+                "time": "22:40",
+                "title": "Olá!",
+                "performer": "Carwyn Ellis & Rio 18"
+              },
+              {
+                "time": "22:44",
+                "title": "Powerless",
+                "performer": "Balthazar"
+              },
+              {
+                "time": "22:49",
+                "title": "Lady Macbeth In Chains",
+                "performer": "Sufjan Stevens & Angelo de Augustine"
+              },
+              {
+                "time": "22:52",
+                "title": "Smoking Grass",
+                "performer": "The Dream Eating Freakshow"
+              },
+              {
+                "time": "22:56",
+                "title": "Time Storm",
+                "performer": "The Blow Monkeys"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Dub Be Good To Me (Just Be Good To Me)",
+                "performer": "The Ting Tings"
+              },
+              {
+                "time": "23:07",
+                "title": "Glad Times",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "23:12",
+                "title": "Be My Guru",
+                "performer": "Louise Le May"
+              },
+              {
+                "time": "23:15",
+                "title": "Flying (Beatles Cover/ Mastered)",
+                "performer": "Olivier Rocabois"
+              },
+              {
+                "time": "23:19",
+                "title": "Presidential Suite",
+                "performer": "Super Furry Animals"
+              },
+              {
+                "time": "23:23",
+                "title": "Natten",
+                "performer": "Bremer/McCoy"
+              },
+              {
+                "time": "23:30",
+                "title": "Jaywalker",
+                "performer": "Andy Shauf"
+              },
+              {
+                "time": "23:33",
+                "title": "A House In Provence",
+                "performer": "Gary Olson"
+              },
+              {
+                "time": "23:37",
+                "title": "Hold Out",
+                "performer": "Always You"
+              },
+              {
+                "time": "23:41",
+                "title": "Feel Better",
+                "performer": "Homeshake"
+              },
+              {
+                "time": "23:45",
+                "title": "Bikini Girls",
+                "performer": "Sven Libaek"
+              },
+              {
+                "time": "23:47",
+                "title": "Satin Curtains",
+                "performer": "Molly Lewis"
+              },
+              {
+                "time": "23:53",
+                "title": "How Was Your Day",
+                "performer": "Nina Savary"
+              },
+              {
+                "time": "23:57",
                 "title": "Good Night",
                 "performer": "The Beatles"
               }
