@@ -6247,14 +6247,14 @@
               { "title": "Belorama", "performer": "Etherwood"}
             ],
             [
-              { "time": "23:04", "title": "Talks (DJ Dairy Rmx)", "performer": "PVA"},
+              { "time": "23:04", "title": "Talks (DJ Dairy Remix)", "performer": "PVA"},
               { "title": "Keep On Believing (Spaventi Mix)", "performer": "HAAi"},
               { "title": "The Doll", "performer": "Audiobooks"},
               { "title": "Unité", "performer": "The KVB"},
               { "title": "Lost", "performer": "IAMI"},
               { "title": "Love Divide", "performer": "Ross From Friends"},
               { "title": "Native Soul", "performer": "Teenage Dreams"},
-              { "title": "Devlin feat. Jme, Frisco, Syer B, Lewi ", "performer": "Next Breed"},
+              { "title": "Devlin feat. Jme, Frisco, Syer B, Lewi", "performer": "Next Breed"},
               { "title": "Dissy", "performer": "Tunichtgut"},
               { "title": "Dissy", "performer": "Drag & Drop"},
               { "title": "Blue Ridge", "performer": "Chorusing"},
@@ -6262,7 +6262,7 @@
             ],
             [
               { "time": "00:04", "title": "Solarised (Extended Rework)", "performer": "Jane Weaver"},
-              { "title": "What You Need (Tensnake Rmx)", "performer": "NTEIBINT feat. Matina Sous Peau"},
+              { "title": "What You Need (Tensnake Remix)", "performer": "NTEIBINT feat. Matina Sous Peau"},
               { "title": "ASC", "performer": "Lucid Dream"},
               { "title": "Otik", "performer": "Switchways"},
               { "title": "Homecoming (LTJ Bukem Remix)", "performer": "Above & Beyond"},
@@ -6271,6 +6271,56 @@
               { "title": "Say What You Will", "performer": "James Blake"},
               { "title": "Enfant Terrible", "performer": "Isolation Berlin"},
               { "title": "Frozen", "performer": "James Blake feat. JID & SwaVay"}
+            ]
+          ]
+        },
+        {
+          "id": "42",
+          "date": "2021-10-17",
+          "songs": [
+            [
+              { "time": "22:04", "title": "All Wordz Are Made Up", "performer": "The Voidz"},
+              { "title": "Walking At A Downtown Pace", "performer": "Parquet Courts"},
+              { "title": "Dig A Ditch (Compact Disk Dummies Remix)", "performer": "Millionaire"},
+              { "title": "Play", "performer": "Alewya"},
+              { "title": "wyd", "performer": "Remi Wolf"},
+              { "title": "Demon", "performer": "Moonchild Sanelly feat. Sad Night Dynamite"},
+              { "title": "Strawberry", "performer": "Doss"},
+              { "title": "Death (XIII)", "performer": "Julia Shapiro"},
+              { "title": "Need", "performer": "Maya Jane Coles"},
+              { "title": "Recognise", "performer": "Disclosure DJ Kicks/Arfa&Joe"},
+              { "title": "I Must Apologise", "performer": "Pink Pantheress"},
+              { "title": "Gold Soul", "performer": "Nectax"},
+              { "title": "Haneke´d", "performer": "John"},
+              { "title": "Grab The Phone", "performer": "Porches"}
+            ],
+            [
+              { "time": "23:04", "title": "Lava Lamp Pisco", "performer": "Psychedelic Porn Crumpets"},
+              { "title": "Pari Pari (Shubostar Remix)", "performer": "Aili & Transistorcake"},
+              { "title": "Unveiling The Secret", "performer": "Psyche"},
+              { "title": "Fog", "performer": "Danny Goliger"},
+              { "title": "Inlove2", "performer": "Lone"},
+              { "title": "Castle Life", "performer": "Lala Lala"},
+              { "title": "Ich Tauche Auf", "performer": "Tocotronic & Soap&Skin"},
+              { "title": "Christine", "performer": "Ozark Henry"},
+              { "title": "Material World", "performer": "Hayden Thorpe"},
+              { "title": "Paul´s", "performer": "Cid Rim"},
+              { "title": "I Don´t Think We Should Wait", "performer": "Sir Was"}
+            ],
+            [
+              { "time": "00:04", "title": "Place Of Light", "performer": "Brain Ticket"},
+              { "title": "Black Sand", "performer": "Brain Ticket"},
+              { "title": "MMM Skyscaper I Love You", "performer": "Underworld"},
+              { "title": "Flowers Must Die", "performer": "Ash Ra Tempel"},
+              { "title": "Afri Cola Rausch Spot", "performer": "Charles Wilp"},
+              { "title": "Rausch", "performer": "Timothy Leary"},
+              { "title": "Bei Tim", "performer": "Gilles Zeitschiff"},
+              { "title": "Cocain Sex (Turbo Lust Mix)", "performer": "Renegade Soundwave"},
+              { "title": "Rausch", "performer": "Helene Fischer"},
+              { "title": "Mein Herz In Deinem Hirn", "performer": "Kay Shanghai"},
+              { "title": "Vom Teufel Besessen", "performer": "Lyrical Poetry"},
+              { "title": "The Root", "performer": "Rausch"},
+              { "title": "Cold Turkey", "performer": "John Lennon/Plastic Ono Band"}
             ]
           ]
         }
