@@ -6278,6 +6278,8 @@
         {
           "id": "42",
           "date": "2021-10-17",
+          "checked": {"date": "2021-11-14", "user": "jg"},
+          "comment": "Rausch-Collage",
           "songs": [
             [
               { "time": "22:04", "title": "All Wordz Are Made Up", "performer": "The Voidz"},
@@ -6304,14 +6306,14 @@
               { "title": "Castle Life", "performer": "Lala Lala"},
               { "title": "Ich Tauche Auf", "performer": "Tocotronic & Soap&Skin"},
               { "title": "Christine", "performer": "Ozark Henry"},
-              { "title": "Material World", "performer": "Hayden Thorpe"},
+              { "title": "The Universe Is Always Right", "performer": "Hayden Thorpe"},
               { "title": "Paul´s", "performer": "Cid Rim"},
               { "title": "I Don´t Think We Should Wait", "performer": "Sir Was"}
             ],
             [
-              { "time": "00:04", "title": "Place Of Light", "performer": "Brain Ticket"},
-              { "title": "Black Sand", "performer": "Brain Ticket"},
-              { "title": "MMM Skyscaper I Love You", "performer": "Underworld"},
+              { "time": "00:04", "title": "Black Sand", "performer": "Brain Ticket"},
+              { "title": "Place Of Light", "performer": "Brain Ticket"},
+              { "title": "Mmm... Skyscaper I Love You", "performer": "Underworld"},
               { "title": "Flowers Must Die", "performer": "Ash Ra Tempel"},
               { "title": "Afri Cola Rausch Spot", "performer": "Charles Wilp"},
               { "title": "Rausch", "performer": "Timothy Leary"},
@@ -6321,7 +6323,7 @@
               { "title": "Mein Herz In Deinem Hirn", "performer": "Kay Shanghai"},
               { "title": "Vom Teufel Besessen", "performer": "Lyrical Poetry"},
               { "title": "The Root", "performer": "Rausch"},
-              { "title": "Cold Turkey", "performer": "John Lennon/Plastic Ono Band"}
+              { "title": "Cold Turkey (Take 1 / Out-Take / Ultimate Mix)", "performer": "John Lennon/Plastic Ono Band"}
             ]
           ]
         },
