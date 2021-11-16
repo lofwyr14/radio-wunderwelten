@@ -67201,6 +67201,10 @@
         {
           "id": "38",
           "date": "2021-09-23",
+          "checked": {
+            "date": "2021-11-16",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -67225,7 +67229,7 @@
               },
               {
                 "time": "22:20",
-                "title": "Nackt Und Einsam",
+                "title": "Nackt und einsam",
                 "performer": "Moritz Krämer"
               },
               {
@@ -67327,27 +67331,27 @@
               },
               {
                 "time": "23:40",
-                "title": "See Mitten Im Wald",
+                "title": "See mitten im Wald",
                 "performer": "Wolfgang Müller"
               },
               {
                 "time": "23:43",
                 "title": "L'Eau Bleue",
-                "performer": "Maston with L'Eclair"
+                "performer": "Maston With L'Eclair"
               },
               {
                 "time": "23:48",
-                "title": "Gentle on my Mind",
+                "title": "Gentle On My Mind",
                 "performer": "The Colorist Orchestra & Howe Gelb"
               },
               {
                 "time": "23:52",
-                "title": "Love Will Work it out",
+                "title": "Love Will Work It Out",
                 "performer": "Durand Jones & The Indications"
               },
               {
                 "time": "23:56",
-                "title": "Til I Die",
+                "title": "Til I Die (Long Version With Alternate Lyrics)",
                 "performer": "The Beach Boys"
               }
             ]
