@@ -67360,6 +67360,10 @@
         {
           "id": "39",
           "date": "2021-09-30",
+          "checked": {
+            "date": "2021-11-16",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -67415,7 +67419,7 @@
               {
                 "time": "22:42",
                 "title": "Faith In Time",
-                "performer": "Fallows, Glenn / Treffel, Mark"
+                "performer": "Glenn Fallows / Mark Treffel"
               },
               {
                 "time": "22:47",
@@ -67456,7 +67460,7 @@
               },
               {
                 "time": "23:13",
-                "title": "I'Ll Follow The Sun",
+                "title": "I'll Follow The Sun",
                 "performer": "Margarita Dreams"
               },
               {
@@ -67472,7 +67476,7 @@
               {
                 "time": "23:24",
                 "title": "Dirty Trip",
-                "performer": "Brian Reitzell"
+                "performer": "Air"
               },
               {
                 "time": "23:31",
@@ -67483,6 +67487,11 @@
                 "time": "23:35",
                 "title": "Seasons In The Sun",
                 "performer": "The Beach Boys"
+              },
+              {
+                "time": "23:36",
+                "title": "Till I Die (Beach Boys Cover)",
+                "performer": "THOMAS ???? - ???? - Arnd Fragen"
               },
               {
                 "time": "23:40",
