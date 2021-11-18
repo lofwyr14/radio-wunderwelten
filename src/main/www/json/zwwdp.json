@@ -67519,6 +67519,10 @@
         {
           "id": "41",
           "date": "2021-10-14",
+          "checked": {
+            "date": "2021-11-18",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -67573,7 +67577,7 @@
               },
               {
                 "time": "22:44",
-                "title": "Powerless",
+                "title": "Powerless (Send Castle Tapes Version)",
                 "performer": "Balthazar"
               },
               {
@@ -67652,6 +67656,11 @@
                 "time": "23:47",
                 "title": "Satin Curtains",
                 "performer": "Molly Lewis"
+              },
+              {
+                "time": "23:50",
+                "title": "Goodbye",
+                "performer": "The Fisherman And His Soul"
               },
               {
                 "time": "23:53",
