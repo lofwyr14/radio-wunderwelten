@@ -67678,10 +67678,19 @@
         {
           "id": "42",
           "date": "2021-10-21",
+          "checked": {
+            "date": "2021-11-20",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "time": "22:048",
+                "time": "22:04",
+                "title": "Shout To The Top",
+                "performer": "Steve White & Os Spoilers"
+              },
+              {
+                "time": "22:08",
                 "title": "A Matter Of Life & Love",
                 "performer": "Skinny Lister"
               },
@@ -67697,8 +67706,8 @@
               },
               {
                 "time": "22:18",
-                "title": "Reckenfeld",
-                "performer": "The Fisherman and his Soul feat. Tenant From Zero & Estella Rosa"
+                "title": "Reckenfeld (Always You Remix)",
+                "performer": "The Fisherman And His Soul"
               },
               {
                 "time": "22:22",
@@ -67722,7 +67731,7 @@
               },
               {
                 "time": "22:42",
-                "title": "The Tipping Point",
+                "title": "His Name Is Legs (Ladies And Gentleman)",
                 "performer": "George Harrison"
               },
               {
@@ -67774,7 +67783,7 @@
               },
               {
                 "time": "23:23",
-                "title": "Family Affair",
+                "title": "Family Affair (Studio Rio Version)",
                 "performer": "Studio Rio Sly & The Family Stone"
               },
               {
@@ -67789,13 +67798,18 @@
               },
               {
                 "time": "23:37",
-                "title": "Main Theme. Aus: The Adventures Of Robinson Crusoe (Tv Film, 1965)",
-                "performer": "Gian Piero Reverberi Franco London Orchestra"
+                "title": "The Adventures Of Robinson Crusoe",
+                "performer": "Robert Mellin, Gian Piero Reverberi & Franco London Orchestra"
               },
               {
                 "time": "23:39",
                 "title": "Start Again",
                 "performer": "Teitur"
+              },
+              {
+                "time": "23:46",
+                "title": "Dead Of The Night",
+                "performer": "Sondre Lerche"
               },
               {
                 "time": "23:56",
