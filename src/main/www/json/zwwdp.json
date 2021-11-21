@@ -67827,6 +67827,10 @@
         {
           "id": "43",
           "date": "2021-10-28",
+          "checked": {
+            "date": "2021-11-21",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -67893,8 +67897,8 @@
             [
               {
                 "time": "23:04",
-                "title": "Venceremos (We Will Win)",
-                "performer": "Tracey Thorn & Claudia Figueroa Working Week feat. Robert Wyatt"
+                "title": "Venceremos - We Will Win (7\" Bossa Version)",
+                "performer": "Working Week feat. Tracey Thorn & Claudia Figueroa & Robert Wyatt"
               },
               {
                 "time": "23:08",
@@ -67914,7 +67918,7 @@
               {
                 "time": "23:20",
                 "title": "Liz",
-                "performer": "Bubble Tea and Cigarettes"
+                "performer": "Bubble Tea And Cigarettes"
               },
               {
                 "time": "23:25",
@@ -67938,12 +67942,12 @@
               },
               {
                 "time": "23:47",
-                "title": "End of the Game",
+                "title": "End Of The Game",
                 "performer": "Pat Metheny Group"
               },
               {
                 "time": "23:52",
-                "title": "Don´t Follow me",
+                "title": "Don´t Follow Me",
                 "performer": "Abi Farrell"
               },
               {
