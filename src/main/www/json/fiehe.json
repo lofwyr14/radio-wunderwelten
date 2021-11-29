@@ -6330,10 +6330,14 @@
         {
           "id": "43",
           "date": "2021-10-24",
+          "checked": {
+            "date": "2021-11-29",
+            "user": "jg"
+          },
           "songs": [
             [
-              { "time": "22:04", "title": "Bell My Buzzer", "performer": "Sentinel 793"},
-              { "title": "Finale", "performer": "Vaovao"},
+              { "time": "22:04", "title": "Own Your Regrets", "performer": "Sentinel 793"},
+              { "title": "Flattermann", "performer": "Vaovao"},
               { "title": "Soulo", "performer": "Otik"},
               { "title": "Big Up", "performer": "Spektralsound"},
               { "title": "Fog", "performer": "Danny Goliger feat. Michael Fam"},
