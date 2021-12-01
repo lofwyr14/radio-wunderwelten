@@ -6,7 +6,7 @@ ID=222
 # aktuelles Jahr
 YEAR=2021
 # muss jedes Jahr und beim Ausfall einer Sendung angepasst werden
-IDWEEKOFFSET=66
+IDWEEKOFFSET=64
 # 4 = Donnerstags
 DAYOFWEEK=4
 
