@@ -6384,14 +6384,18 @@
         {
           "id": "44",
           "date": "2021-10-31",
+          "checked": {
+            "date": "2021-12-02",
+            "user": "jg"
+          },
           "songs": [
             [
               { "time": "22:04", "title": "Strodes At The Hospital", "performer": "John Carpenter, Cody Carpenter & Daniel Davies"},
               { "title": "Lonely Sirens (London Elektricity VIP)", "performer": "London Elektricity feat. Elsa Esmeralda"},
               { "title": "Steel", "performer": "Namasenda feat. Hannah Diamond"},
               { "title": "Harmonia´s Dream", "performer": "The War On Drugs"},
-              { "title": "Friends Around Us (Lounge Society Remix)", "performer": "A Certain Ratio"},
-              { "title": "Culture Jam", "performer": "Matrefakt feat. Eva"},
+              { "title": "Friends Around Us (The Lounge Society Remix)", "performer": "A Certain Ratio"},
+              { "title": "You", "performer": "Matrefakt feat. Eva"},
               { "title": "The First Step", "performer": "DJ Abilities"},
               { "title": "General Hospital", "performer": "Dr. Octagon"},
               { "title": "Need", "performer": "Maya Jane Coles"},
@@ -6399,27 +6403,27 @@
               { "title": "Break It Off", "performer": "PinkPantheress"},
               { "title": "Circles", "performer": "Adam F"},
               { "title": "My Coo Ca Choo  ", "performer": "Alvin Stardust"},
-              { "title": "Goodbye Ghost", "performer": "La Luz"},
-              { "title": "Human Fly", "performer": "The Cramps"}
+              { "title": "Goodbye Ghost", "performer": "La Luz"}
             ],
             [
-              { "time": "23:04", "title": "Schneller Als Die Felings", "performer": "Denis"},
+              { "time": "23:04", "title": "Human Fly", "performer": "The Cramps"},
+              { "title": "Schneller Als Die Felings", "performer": "Denis"},
               { "title": "Surrender (Palms Trax Remix)", "performer": "Tseba feat. Pricie"},
               { "title": "Moon", "performer": "Sly Alone feat. Haiyti"},
               { "title": "Digital Franchise", "performer": "SectorSept"},
-              { "title": "Keiner Da", "performer": "st.raumen feat. Gudrun Gut  "},
-              { "title": "The Invaders (Intro)", "performer": "William Woodsun  & David Vincent   "},
+              { "title": "Keiner Da", "performer": "st.raumen feat. Gudrun Gut"},
+              { "title": "The Invaders (Intro)", "performer": "William Woodson & David Vincent"},
               { "title": "Cleo", "performer": "Shygirl"},
               { "title": "The Fate Of The World On Our Shoulders", "performer": "Cradle Of Filth"},
               { "title": "Existential Terror", "performer": "Cradle Of Filth"},
               { "title": "Run To You", "performer": "Maya Jane Coles feat. Claudia Kane"},
               { "title": "Always In Love (Skream Rmx)", "performer": "A Certain Ratio"},
-              { "title": "Is Vic There?", "performer": "Department S"},
-              { "title": "Geschichten", "performer": "Levin Goes Lightly"},
-              { "title": "Realise", "performer": "Lone"}
+              { "title": "Is Vic There? (French Version)", "performer": "Department S"},
+              { "title": "Geschichten", "performer": "Levin Goes Lightly"}
             ],
             [
-              { "time": "00:04", "title": "Bleiben", "performer": "Vaovao"},
+              { "time": "00:04","title": "Realise", "performer": "Lone"},
+              { "title": "Bleiben", "performer": "Vaovao"},
               { "title": "I Mingle (Luciano Rmx)", "performer": "Mosey"},
               { "title": "Fleek", "performer": "No-e"},
               { "title": "Kitty Kat", "performer": "Megan Thee Stallion    "},
