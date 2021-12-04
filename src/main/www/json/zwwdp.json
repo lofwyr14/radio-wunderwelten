@@ -68120,11 +68120,15 @@
         {
           "id": "45",
           "date": "2021-11-11",
+          "checked": {
+            "date": "2021-11-03",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
-                "title": "One Thing Leads To Another",
+                "title": "One Thing Leads To Another (Extended Version)",
                 "performer": "The Fixx"
               },
               {
@@ -68174,7 +68178,7 @@
               },
               {
                 "time": "22:46",
-                "title": "Uncertain Smile",
+                "title": "Uncertain Smile (Live)",
                 "performer": "The The"
               },
               {
@@ -68221,7 +68225,7 @@
               },
               {
                 "time": "23:27",
-                "title": "We Can't Stop What's Coming",
+                "title": "We Can't Stop What's Coming (Live)",
                 "performer": "The The"
               },
               {
@@ -68243,6 +68247,11 @@
                 "time": "23:45",
                 "title": "Gently The Day: Theme From \"The Persuaders\"",
                 "performer": "Luna Twist"
+              },
+              {
+                "time": "23:49",
+                "title": "God Only Knows",
+                "performer": "Scary Pockets feat. Pomplamoose & Nataly Dawn"
               },
               {
                 "time": "23:53",
