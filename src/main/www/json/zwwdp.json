@@ -68584,6 +68584,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "48",
+          "date": "2021-12-02",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Dreams",
+                "performer": "Scary Pockets feat. Elise Trouw"
+              },
+              {
+                "time": "22:08",
+                "title": "Where Is Da Luv?",
+                "performer": "Boulevards"
+              },
+              {
+                "time": "22:12",
+                "title": "Play It Cool",
+                "performer": "Penelope Isles"
+              },
+              {
+                "time": "22:16",
+                "title": "Winter Comes",
+                "performer": "Alexander von Mehren"
+              },
+              {
+                "time": "22:19",
+                "title": "A Year Or So",
+                "performer": "C Duncan"
+              },
+              {
+                "time": "22:22",
+                "title": "Jürgen Meyer (Radio Edit)",
+                "performer": "Frollein Smilla"
+              },
+              {
+                "time": "22:26",
+                "title": "Trouble Around You",
+                "performer": "Mitchell Adam Johnson"
+              },
+              {
+                "time": "22:32",
+                "title": "A Dull Boy",
+                "performer": "Papercuts"
+              },
+              {
+                "time": "22:36",
+                "title": "See You Around",
+                "performer": "The Hepburns feat. Estella Rosa"
+              },
+              {
+                "time": "22:38",
+                "title": "Mary Mind",
+                "performer": "Lucky Lo"
+              },
+              {
+                "time": "22:42",
+                "title": "Nachbarn",
+                "performer": "Moritz Krämer"
+              },
+              {
+                "time": "22:47",
+                "title": "So Slowly",
+                "performer": "Beirut"
+              },
+              {
+                "time": "22:50",
+                "title": "Chase Theme Nº 1",
+                "performer": "Maston"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "What The World Needs Now Is Love",
+                "performer": "Chicago"
+              },
+              {
+                "time": "23:08",
+                "title": "A Time For...",
+                "performer": "Lack Of Afro feat. Wayne Gidden"
+              },
+              {
+                "time": "23:12",
+                "title": "All My Life",
+                "performer": "Michael Kiwanuka"
+              },
+              {
+                "time": "23:18",
+                "title": "Here We Go Again",
+                "performer": "SwuM & Jinsang"
+              },
+              {
+                "time": "23:20",
+                "title": "Anybody Can Be In Love",
+                "performer": "Kaina"
+              },
+              {
+                "time": "23:23",
+                "title": "Family",
+                "performer": "Jordan Rakei"
+              },
+              {
+                "time": "23:27",
+                "title": "Waiting",
+                "performer": "Cascadeur"
+              },
+              {
+                "time": "23:33",
+                "title": "Telephone #2",
+                "performer": "Nick Wheeldon"
+              },
+              {
+                "time": "23:35",
+                "title": "Lady Day",
+                "performer": "Richard Swift"
+              },
+              {
+                "time": "23:38",
+                "title": "Vinternatt",
+                "performer": "Ekkolodd"
+              },
+              {
+                "time": "23:42",
+                "title": "Never Be Another You",
+                "performer": "Shaina Shepherd"
+              },
+              {
+                "time": "23:47",
+                "title": "Roadworm",
+                "performer": "Carl Schilde"
+              },
+              {
+                "time": "23:51",
+                "title": "Aquarius Song",
+                "performer": "Joseph Malik"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
