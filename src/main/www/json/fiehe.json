@@ -6441,6 +6441,10 @@
         {
           "id": "45",
           "date": "2021-11-07",
+          "checked": {
+            "date": "2021-12-09",
+            "user": "jg"
+          },
           "songs": [
             [
               { "time": "22:04", "title": "Sweat Forever", "performer": "Lily Konigsberg"},
@@ -6461,8 +6465,8 @@
               { "title": "Alone", "performer": "Lily Konigsberg"},
               { "title": "So Low", "performer": "Curtis Harding"},
               { "title": "Cold Dice", "performer": "Garcia Peoples"},
-              { "title": "Between The Lines", "performer": "Aminé    "},
-              { "title": "Sh!t2Luz", "performer": "Aminé     "},
+              { "title": "Between The Lines", "performer": "Aminé"},
+              { "title": "Sh!t2Luz", "performer": "Aminé"},
               { "title": "Polite (Mura Masa Rmx)", "performer": "Erika De Casier"},
               { "title": "Sad Song 77", "performer": "caro♡     "},
               { "title": "*", "performer": "Namasenda feat. Oklou"},
@@ -6482,7 +6486,7 @@
               { "title": "Twitch", "performer": "Trupa Trupa"},
               { "title": "Gutter", "performer": "Hana Vu"},
               { "title": "Cell (Gerd Janson Dance Dub) ", "performer": "Newmen"},
-              { "title": "Only Love (LP Giobbi Rmx)", "performer": "Tycho & Benjamin Gibbard"}
+              { "title": "Only Love (LP Giobbi Remix)", "performer": "Tycho & Benjamin Gibbard"}
             ]
           ]
         },
