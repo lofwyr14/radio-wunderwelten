@@ -6509,7 +6509,7 @@
             ],
             [
               { "time": "23:04", "title": "Yoga", "performer": "Bbno$ feat. Rebecca Black"},
-              { "title": "Dig A Ditch (Compact Disk Dummies Rmx)", "performer": "Millionaire"},
+              { "title": "Dig A Ditch (Compact Disk Dummies Remix)", "performer": "Millionaire"},
               { "title": "Rave Girl", "performer": "Yulia Niko"},
               { "title": "A Howling Wind", "performer": "Eris Drew"},
               { "title": "Alpha", "performer": "Michael Mayer"},
@@ -6534,7 +6534,8 @@
               { "title": "More Cycles", "performer": "Aesop Rock & Blockhead "}
             ]
           ]
-        },{
+        },
+        {
           "id": "47",
           "date": "2021-11-21",
           "songs": [
@@ -6581,6 +6582,52 @@
               { "title": "Ethiopia", "performer": "Alewya"},
               { "title": "This Journey VIP", "performer": "Blackdown"},
               { "title": "ukd", "performer": "Blackdown"}
+            ]
+          ]
+        },
+        {
+          "id": "48",
+          "date": "2021-11-28",
+          "songs": [
+            [
+              { "time": "22:04", "title": "The Ballad Of Geraldine", "performer": "Donovan"},
+              { "title": "Saltspring", "performer": "Ada Lea"},
+              { "title": "Bout", "performer": "SectorSept"},
+              { "title": "badmomz.", "performer": "badmomzjay"},
+              { "title": "Glo BB", "performer": "Marry Droppinz & Danny Goliger"},
+              { "title": "Close", "performer": "Because Of Art feat. Ayah Marar"},
+              { "title": "Illusion Of Time", "performer": "S.P.Y."},
+              { "title": "Weeping Song", "performer": "Nell & The Flaming Lips"},
+              { "title": "Tommy", "performer": "Claud"},
+              { "title": "Nil By Mouth", "performer": "Dean Blunt"},
+              { "title": "Ten Feet Tall", "performer": "Charlie Hickey"},
+              { "title": "Inner Labyrinth", "performer": "YokoO & Atish"},
+              { "title": "Rotmilan", "performer": "Dominik Eulberg"}
+            ],
+            [
+              { "time": "23:04", "title": "Rotmilan", "performer": " Luis Ake"},
+              { "title": "Better Than That (Hannah Diamond & caro♡ Rmx)", "performer": "Erika De Casier"},
+              { "title": "Save me", "performer": "Cooly G feat. Marcus Damon"},
+              { "title": "Payday", "performer": "Yard Act"},
+              { "title": "Schwänze Seit Der Schulzeit", "performer": "Kay Shanghai"},
+              { "title": "Fog", "performer": "Danny Goliger feat. Michael Fam"},
+              { "title": "Go With It", "performer": "Yosh"},
+              { "title": "Future", "performer": "The KVB"},
+              { "title": "Just When I Thought", "performer": "Julie Doiron"},
+              { "title": "This Time", "performer": "Nina Kraviz"}
+            ],
+            [
+              { "time": "00:04", "title": "Girl In Amber", "performer": "Nell & The Flaming Lips"},
+              { "title": "Right Here", "performer": "Blaq Jerzee feat. Gyakie"},
+              { "title": "Prada", "performer": "Arca"},
+              { "title": "Si Llego", "performer": "Xenia Rubinos"},
+              { "title": "Wenn Sich Der Abend Legt", "performer": "Karwendel"},
+              { "title": "Say Something", "performer": "Emma Jean Thackray"},
+              { "title": "Do You Even Care Anymore", "performer": "Wajatta"},
+              { "title": "Dancing With The Devil (DJ Minx Rmx)", "performer": "Kevin Knapp"},
+              { "title": "Strange Loop", "performer": "Loew"},
+              { "title": "Florence & Selena", "performer": "Riki"},
+              { "title": "Hold On Tight", "performer": "A Place To Bury Strangers"}
             ]
           ]
         }
