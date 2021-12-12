@@ -68742,11 +68742,15 @@
         {
           "id": "49",
           "date": "2021-12-09",
+          "checked": {
+            "date": "2021-12-12",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
-                "title": "Der Große Dezember",
+                "title": "Der große Dezember",
                 "performer": "Erdmöbel"
               },
               {
@@ -68771,7 +68775,7 @@
               },
               {
                 "time": "22:21",
-                "title": "Kokomo, In",
+                "title": "Kokomo, IN",
                 "performer": "Japanese Breakfast"
               },
               {
@@ -68786,7 +68790,7 @@
               },
               {
                 "time": "22:31",
-                "title": "Drown my Heart",
+                "title": "Drown My Heart",
                 "performer": "DJ Snatch and Blacksoul"
               },
               {
@@ -68806,7 +68810,7 @@
               },
               {
                 "time": "22:47",
-                "title": "The best Mistake",
+                "title": "The Best Mistake",
                 "performer": "The Devine Comedy"
               },
               {
@@ -68858,7 +68862,7 @@
               },
               {
                 "time": "23:30",
-                "title": "You'Re The Only Woman",
+                "title": "You're The Only Woman",
                 "performer": "David Pack"
               },
               {
@@ -68883,7 +68887,7 @@
               },
               {
                 "time": "23:50",
-                "title": "Justify me",
+                "title": "Justify Me (North Street West 'Take 1' Re-Dub)",
                 "performer": "Steven Christie feat. Joseph Malik"
               },
               {
