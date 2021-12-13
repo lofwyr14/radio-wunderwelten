@@ -6493,6 +6493,10 @@
         {
           "id": "46",
           "date": "2021-11-14",
+          "checked": {
+            "date": "2021-12-13",
+            "user": "jg"
+          },
           "songs": [
             [
               { "time": "22:04", "title": "Go Down", "performer": "Dennis Cruz feat. Lee Scratch Perry"},
@@ -6524,14 +6528,15 @@
               { "time": "00:04", "title": "Who´ll Stop The Rain", "performer": "Creedence Clearwater"},
               { "title": "Sunfair Sundown", "performer": "Courtney Barnett"},
               { "title": "Counterfeiter", "performer": "Endless Boogie"},
-              { "title": "Better Than That (Hannah Diamond & caro♡ Rmx)", "performer": "Erika De Casier"},
+              { "title": "Better Than That (Hannah Diamond & caro♡ Remix)", "performer": "Erika De Casier"},
               { "title": "Sad Song 77", "performer": "caro♡"},
-              { "title": "Rote Riesen Schlafen Nicht", "performer": "Girlwoman"},
+              { "title": "Rote Riesen schlafen nicht", "performer": "Girlwoman"},
               { "title": "Life In The Petri Dish", "performer": "Rudolf C"},
               { "title": "B£E", "performer": "Space Afrika feat. Blackhaine"},
               { "title": "Reset Walking", "performer": "Martyn & Duval Timothy"},
               { "title": "Remarkably", "performer": "Wiki"},
-              { "title": "More Cycles", "performer": "Aesop Rock & Blockhead "}
+              { "title": "More Cycles", "performer": "Aesop Rock & Blockhead "},
+              { "title": "Jazz Hands", "performer": "Aesop Rock & Blockhead "}
             ]
           ]
         },
