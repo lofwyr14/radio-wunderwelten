@@ -6535,8 +6535,8 @@
               { "title": "B£E", "performer": "Space Afrika feat. Blackhaine"},
               { "title": "Reset Walking", "performer": "Martyn & Duval Timothy"},
               { "title": "Remarkably", "performer": "Wiki"},
-              { "title": "More Cycles", "performer": "Aesop Rock & Blockhead "},
-              { "title": "Jazz Hands", "performer": "Aesop Rock & Blockhead "}
+              { "title": "More Cycles", "performer": "Aesop Rock & Blockhead"},
+              { "title": "Jazz Hands", "performer": "Aesop Rock & Blockhead"}
             ]
           ]
         },
@@ -6549,7 +6549,7 @@
               { "title": "Save Me", "performer": "Cooly G feat. Marcus Damon"},
               { "title": "Rosewood", "performer": "Bonobo"},
               { "title": "Running Out Of Time", "performer": "Hard Feelings"},
-              { "title": "Better Man (drwn. Rmx)", "performer": "Long Tall Jefferson"},
+              { "title": "Better Man (DRWN. Remix)", "performer": "Long Tall Jefferson"},
               { "title": "Memory Sketch", "performer": "Future Beat Alliance"},
               { "title": "Viktor", "performer": "Riki"},
               { "title": "Once Twice Melody", "performer": "Beach House"},
@@ -6558,26 +6558,26 @@
               { "title": "Wiggle", "performer": "DJ Wiggle"}
             ],
             [
-              { "time": "23:04", "title": "Get Familiar (Paul White Rmx)", "performer": "Bullion"},
+              { "time": "23:04", "title": "Get Familiar", "performer": "Bullion"},
               { "title": "Ny Interlude", "performer": "Space Afrika"},
               { "title": "Broken Homes", "performer": "Wu-Lu"},
               { "title": "Paradise Mode", "performer": "Otik"},
               { "title": "Ignore The Echo", "performer": "Mozey"},
               { "title": "Autumn Days", "performer": "Zar, Duskee, Visionobi & Phoebe Freya"},
               { "title": "Oshun", "performer": "Illmatika, Sherone Knigth, Maverick Soul"},
-              { "title": "Buss The Red", "performer": " P Money & Whiney"},
+              { "title": "Buss The Red", "performer": "P Money & Whiney"},
               { "title": "Cashed Out Stoner", "performer": "Chillinit feat. Izzy Gibbs"},
               { "title": "Do It For", "performer": "KO & DA"},
               { "title": "Polarsommer", "performer": "Aaron Grav"},
               { "title": "Be A Hoe/Break A Hoe", "performer": "Shirin David & Kitty Kat"},
               { "title": "Mind Control", "performer": "Compa"},
-              { "title": "Money Can´t Buy", "performer": "D-Block Europe feat. Young Adz "},
+              { "title": "Money Can´t Buy", "performer": "D-Block Europe feat. Young Adz"},
               { "title": "Blood Diamonds", "performer": "D-Block Europe"}
             ],
             [
               { "time": "00:04", "title": "Such A Beaty", "performer": "GIO"},
               { "title": "Do You Do You", "performer": "Jessica Winter"},
-              { "title": "Unité  ", "performer": "The KVB"},
+              { "title": "Unité", "performer": "The KVB"},
               { "title": "See You Shout", "performer": "Kraków Loves Adana"},
               { "title": "Stabilise", "performer": "Nilüfer Yanya"},
               { "title": "Gloria Marsden", "performer": "Toby Jenkins"},
@@ -6633,6 +6633,50 @@
               { "title": "Strange Loop", "performer": "Loew"},
               { "title": "Florence & Selena", "performer": "Riki"},
               { "title": "Hold On Tight", "performer": "A Place To Bury Strangers"}
+            ]
+          ]
+        },
+        {
+          "id": "49",
+          "date": "2021-12-05",
+          "songs": [
+            [
+              { "time": "22:04", "title": "It´s Too Late Now", "performer": "Birds Of Passage"},
+              { "title": "She Is The Daylight", "performer": "Flying Saucer Attack"},
+              { "title": "Perfect", "performer": "Lingby"},
+              { "title": "We Ain´t Just", "performer": "KO"},
+              { "title": "Jati", "performer": "Bodhi"},
+              { "title": "Tjomme (DJ Koze Rmx)", "performer": "Gonzalez"},
+              { "title": "Save Me", "performer": "Cooly G feat. Marcus Damon  "},
+              { "title": "q.e.p.d", "performer": "DJ Python"},
+              { "title": "Luna Llena", "performer": "Arca"},
+              { "title": "Machote", "performer": "Arca"},
+              { "title": "Cleo", "performer": "Shygirl"}
+            ],
+            [
+              { "time": "23:04", "title": "Long Train Runnin´", "performer": "The Doobie Brothers"},
+              { "title": "Lonely Nights", "performer": "Leisure"},
+              { "title": "Believe", "performer": "Maktub"},
+              { "title": "Blossoms", "performer": "Carolina Lee"},
+              { "title": "Somethin´ More Than This", "performer": "Wajatta"},
+              { "title": "Screwdriver", "performer": "Above&Beyond"},
+              { "title": "Bruise", "performer": "HVOB"},
+              { "title": "Face Your Fate", "performer": "Jackmaster & Keith Tucker feat. Blak Tony"},
+              { "title": "Tip Trip (Trip To The Tip)  ", "performer": "Hen Ogledd"},
+              { "title": "Mahfudzot", "performer": "Dea"}
+            ],
+            [
+              { "time": "00:04", "title": "Memory Sketch", "performer": "Future Beat Alliance"},
+              { "title": "Cantaloupe Melon", "performer": "Daily Thompson"},
+              { "title": "Too Late Now", "performer": "Wet Leg"},
+              { "title": "My Spirit Is Broken", "performer": "Champs"},
+              { "title": "All About Love", "performer": "Finn & India Jordan"},
+              { "title": "Strangeness", "performer": "Hammer"},
+              { "title": "Hip Teens Don´t Wear Blue Jeans  ", "performer": "Frank Popp Ensemble"},
+              { "title": "Hip Teens Don´t Wear Blue Jeans  ", "performer": "Love Machine"},
+              { "title": "Shout Shout", "performer": "Aurora Dee Raynes"},
+              { "title": "Daylight", "performer": "Laura Lee & The Jettes"},
+              { "title": "Left Outside Alone", "performer": "Jaakko Eino Kalevi"}
             ]
           ]
         }
