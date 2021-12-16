@@ -6543,6 +6543,7 @@
         {
           "id": "47",
           "date": "2021-11-21",
+          "checked": {"date": "2021-12-16", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Illusion Of Time", "performer": "Laraaji"},
@@ -6571,7 +6572,7 @@
               { "title": "Polarsommer", "performer": "Aaron Grav"},
               { "title": "Be A Hoe/Break A Hoe", "performer": "Shirin David & Kitty Kat"},
               { "title": "Mind Control", "performer": "Compa"},
-              { "title": "Money Can´t Buy", "performer": "D-Block Europe feat. Young Adz"},
+              { "title": "Money Can´t Buy Heart", "performer": "D-Block Europe feat. Young Adz"},
               { "title": "Blood Diamonds", "performer": "D-Block Europe"}
             ],
             [
@@ -6586,7 +6587,7 @@
               { "title": "Loving Clav", "performer": "Eris Drew"},
               { "title": "Ethiopia", "performer": "Alewya"},
               { "title": "This Journey VIP", "performer": "Blackdown"},
-              { "title": "ukd", "performer": "Blackdown"}
+              { "title": "UKD", "performer": "Blackdown"}
             ]
           ]
         },
