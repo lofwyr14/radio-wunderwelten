@@ -68906,6 +68906,10 @@
         {
           "id": "50",
           "date": "2021-12-16",
+          "checked": {
+            "date": "2021-12-18",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -68960,7 +68964,7 @@
               },
               {
                 "time": "22:46",
-                "title": "Whenthe Magic Goes Wrong",
+                "title": "When The Magic Goes Wrong",
                 "performer": "The Toni Tubna Trio"
               },
               {
@@ -68980,7 +68984,7 @@
               },
               {
                 "time": "22:59",
-                "title": "Der Magische Kraken",
+                "title": "Der magische Kraken",
                 "performer": "Hamburg Spinners"
               }
             ],
@@ -69032,7 +69036,7 @@
               },
               {
                 "time": "23:38",
-                "title": "Klar Zur Wende",
+                "title": "Klar zur Wende",
                 "performer": "Hamburg Spinners"
               },
               {
@@ -69042,8 +69046,13 @@
               },
               {
                 "time": "23:47",
-                "title": "Fly Me To The Moon",
-                "performer": "Gregory Porter"
+                "title": "Fly Me To The Moon (In Other Words)",
+                "performer": "Gregory Porter & Julie London"
+              },
+              {
+                "time": "23:50",
+                "title": "Symphony In Cellophane",
+                "performer": "The Cleaners From Venus"
               },
               {
                 "time": "23:53",
