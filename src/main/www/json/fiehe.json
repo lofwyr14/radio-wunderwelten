@@ -6594,6 +6594,7 @@
         {
           "id": "48",
           "date": "2021-11-28",
+          "checked": {"date": "2021-12-19", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "The Ballad Of Geraldine", "performer": "Donovan"},
@@ -6607,12 +6608,12 @@
               { "title": "Tommy", "performer": "Claud"},
               { "title": "Nil By Mouth", "performer": "Dean Blunt"},
               { "title": "Ten Feet Tall", "performer": "Charlie Hickey"},
-              { "title": "Inner Labyrinth", "performer": "YokoO & Atish"},
-              { "title": "Rotmilan", "performer": "Dominik Eulberg"}
+              { "title": "Inner Labyrinth", "performer": "YokoO & Atish"}
             ],
             [
-              { "time": "23:04", "title": "Rotmilan", "performer": " Luis Ake"},
-              { "title": "Better Than That (Hannah Diamond & caro♡ Rmx)", "performer": "Erika De Casier"},
+              { "time": "23:04", "title": "Rotmilan", "performer": "Dominik Eulberg"},
+              { "title": "Rotmilan", "performer": "Luis Ake"},
+              { "title": "Better Than That (Hannah Diamond & caro♡ Remix)", "performer": "Erika De Casier"},
               { "title": "Save me", "performer": "Cooly G feat. Marcus Damon"},
               { "title": "Payday", "performer": "Yard Act"},
               { "title": "Schwänze Seit Der Schulzeit", "performer": "Kay Shanghai"},
@@ -6627,10 +6628,10 @@
               { "title": "Right Here", "performer": "Blaq Jerzee feat. Gyakie"},
               { "title": "Prada", "performer": "Arca"},
               { "title": "Si Llego", "performer": "Xenia Rubinos"},
-              { "title": "Wenn Sich Der Abend Legt", "performer": "Karwendel"},
+              { "title": "Wenn sich der Abend legt", "performer": "Karwendel"},
               { "title": "Say Something", "performer": "Emma Jean Thackray"},
-              { "title": "Do You Even Care Anymore", "performer": "Wajatta"},
-              { "title": "Dancing With The Devil (DJ Minx Rmx)", "performer": "Kevin Knapp"},
+              { "title": "Do You Even Care Anymore?", "performer": "Wajatta"},
+              { "title": "Dancing With The Devil (DJ Minx Remix)", "performer": "Kevin Knapp"},
               { "title": "Strange Loop", "performer": "Loew"},
               { "title": "Florence & Selena", "performer": "Riki"},
               { "title": "Hold On Tight", "performer": "A Place To Bury Strangers"}
@@ -6647,7 +6648,7 @@
               { "title": "Perfect", "performer": "Lingby"},
               { "title": "We Ain´t Just", "performer": "KO"},
               { "title": "Jati", "performer": "Bodhi"},
-              { "title": "Tjomme (DJ Koze Rmx)", "performer": "Gonzalez"},
+              { "title": "Tjomme (DJ Koze Remix)", "performer": "Gonzalez"},
               { "title": "Save Me", "performer": "Cooly G feat. Marcus Damon  "},
               { "title": "q.e.p.d", "performer": "DJ Python"},
               { "title": "Luna Llena", "performer": "Arca"},
