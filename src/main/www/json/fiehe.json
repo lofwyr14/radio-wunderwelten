@@ -6681,6 +6681,98 @@
               { "title": "Left Outside Alone", "performer": "Jaakko Eino Kalevi"}
             ]
           ]
+        },
+        {
+          "id": "50",
+          "date": "2021-12-12",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Nowhere", "performer": "Teen Daze"},
+              { "title": "Daisy", "performer": "Ross From Friends"},
+              { "title": "In A Distance", "performer": "KMRU"},
+              { "title": "Talking", "performer": "KO"},
+              { "title": "Jumpman", "performer": "Slim Typical feat. Sleazy & Black Josh"},
+              { "title": "Meanwhile", "performer": "Midlake"},
+              { "title": "Milky Way", "performer": "D3070"},
+              { "title": "Imagination Of Ourselves", "performer": "Blue Veil"},
+              { "title": "Perfectly You", "performer": "Ronan"},
+              { "title": "Falling 4 You", "performer": "Nalan"},
+              { "title": "Fade", "performer": "Aeon Station"},
+              { "title": "Translation", "performer": "Teen Daze"}
+            ],
+            [
+              { "time": "23:04", "title": "Cobalan", "performer": "Blutch"},
+              { "title": "Fog", "performer": "Danny Goliger feat. Michael Fam"},
+              { "title": "Half A Lover", "performer": "Rhi & Telemachus"},
+              { "title": "Bed Of Tears", "performer": "Nalan"},
+              { "title": "Welcome Back", "performer": "Neil Young & Crazy Horse"},
+              { "title": "Morning Sun", "performer": "M.Byrd"},
+              { "title": "Capture Casa", "performer": "HVOB"},
+              { "title": "Summer", "performer": "Jaden"}
+            ],
+            [
+              { "time": "00:04", "title": "Between The Lines", "performer": "Amine"},
+              { "title": "The World Is Waiting", "performer": "Gerry Love"},
+              { "title": "Arbolita", "performer": "Wargirl"},
+              { "title": "Payday", "performer": "Yard Act"},
+              { "title": "Sad Paradise", "performer": "Black Doldrums"},
+              { "title": " World On Fire", "performer": "The KVB"},
+              { "title": "Me Persigue", "performer": "Sei Still"},
+              { "title": "Liebhaber", "performer": "Levin Goes Lightly"},
+              { "title": "The End Of The World", "performer": "The Cool Greenhouse"},
+              { "title": "Do You Think I´m Special", "performer": "DAMEFRISØR"},
+              { "title": "Well Rested", "performer": "Kero Kero Bonito"},
+              { "title": "You Need It", "performer": "Pirate Copy feat. Hattie Snooks"},
+              { "title": "Seaty Betty", "performer": "Emmet Read"}
+            ]
+          ]
+        },
+        {
+          "id": "51",
+          "date": "2021-12-19",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Noise Call And Response II", "performer": "Rival Consoles"},
+              { "title": "Keys To Creation", "performer": "Irreversible Entanglements"},
+              { "title": "Feels Like A War", "performer": "Sola"},
+              { "title": "Generation", "performer": "Jeshi"},
+              { "title": "Tide Of Trepidation", "performer": "e.s.t."},
+              { "title": "Luis", "performer": "JASSS"},
+              { "title": "Wocky", "performer": "Chucky73"},
+              { "title": "Warm Words In A Cold World", "performer": "Rick Ross feat. Wale & Future"},
+              { "title": "Nouveau Niveau", "performer": "Marieme"},
+              { "title": "Don´t", "performer": "Sleaford Mods"},
+              { "title": "Hibiscus  ", "performer": "Tibasko"}
+            ],
+            [
+              { "time": "23:04", "title": "Once Upon A Midnight", "performer": "Abdullah Ibrahim"},
+              { "title": "Canyon (Waiting Alive In A Canyon)", "performer": "John Carroll Kirby"},
+              { "title": "Live O´ Reality", "performer": "Loose"},
+              { "title": "Araba", "performer": "Ebow"},
+              { "title": "Money On My Head", "performer": "KO"},
+              { "title": "Salvation", "performer": "Rae & Christian"},
+              { "title": "Different Tongues", "performer": "Senseless Things"},
+              { "title": "Be Mine, Pt. 1", "performer": "Nalan"},
+              { "title": "Song For Europe", "performer": "Nicolette"},
+              { "title": "Falling 4 You", "performer": "Nalan"},
+              { "title": "The Open", "performer": "Viridity"},
+              { "title": "How Many Times", "performer": "Paul T & Edward Oberon feat. Riya"}
+            ],
+            [
+              { "time": "00:04", "title": "A Minor Story", "performer": "Pieter De Graaf"},
+              { "title": "Berduxa", "performer": "Nils Frahm"},
+              { "title": "Body", "performer": "Emma Ruth Rundle"},
+              { "title": "Sinister", "performer": "Cordae feat. Lil Wayne"},
+              { "title": "Kein Weg Zu Weit", "performer": "Luis Ake"},
+              { "title": "Zakochany Czlowiek, Roy Molloy", "performer": "Better Person feat. Roy Molloy"},
+              { "title": "Irresistible", "performer": "Stephanie"},
+              { "title": "Sara Jo", "performer": "Alex Cameron"},
+              { "title": "Florence & Selena", "performer": "Riki"},
+              { "title": "Calofornia", "performer": "DC Gore"},
+              { "title": "Half A Heart", "performer": "Steve Marcus"},
+              { "title": "Baker Street", "performer": "Gerry Rafferty"}
+            ]
+          ]
         }
       ]
     }
