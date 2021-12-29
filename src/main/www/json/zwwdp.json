@@ -69066,6 +69066,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "51",
+          "date": "2021-12-23",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Club 27",
+                "performer": "Thees Uhlmann"
+              },
+              {
+                "time": "22:09",
+                "title": "Family",
+                "performer": "Jordan Rakei"
+              },
+              {
+                "time": "22:13",
+                "title": "All My Favorite Songs",
+                "performer": "Weezer"
+              },
+              {
+                "time": "22:17",
+                "title": "Ar Ôl Y Glaw",
+                "performer": "Carwyn Ellis & Rio 18"
+              },
+              {
+                "time": "22:21",
+                "title": "Glad Times",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "22:24",
+                "title": "Numbers",
+                "performer": "Castilho"
+              },
+              {
+                "time": "22:27",
+                "title": "The End Away",
+                "performer": "Tenant From Zero"
+              },
+              {
+                "time": "22:34",
+                "title": "The Knockout Artist",
+                "performer": "Cathal Coughlan"
+              },
+              {
+                "time": "22:37",
+                "title": "New Normal",
+                "performer": "Gary Louris"
+              },
+              {
+                "time": "22:41",
+                "title": "Time Storm",
+                "performer": "The Blow Monkeys"
+              },
+              {
+                "time": "22:45",
+                "title": "Beaming",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "22:49",
+                "title": "Royal Morning Blue",
+                "performer": "Damon Albarn"
+              },
+              {
+                "time": "22:51",
+                "title": "Nuestra Victoria",
+                "performer": "Marinero"
+              },
+              {
+                "time": "22:58",
+                "title": "Der Magische Kraken",
+                "performer": "Hamburg Spinners"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "I Wear Shades",
+                "performer": "Late Runner"
+              },
+              {
+                "time": "23:09",
+                "title": "Deep Blue View",
+                "performer": "Jim Noir"
+              },
+              {
+                "time": "23:16",
+                "title": "Just The Right Song",
+                "performer": "Vansire"
+              },
+              {
+                "time": "23:19",
+                "title": "Hate Is Coming Back",
+                "performer": "Zwanie Jonson"
+              },
+              {
+                "time": "23:22",
+                "title": "Reckenfeld",
+                "performer": "The Fisherman and his Soul feat. Tenant From Zero & Estella Rosa"
+              },
+              {
+                "time": "23:27",
+                "title": "Unweaving The Rainbow Forever",
+                "performer": "Feng Suave"
+              },
+              {
+                "time": "23:32",
+                "title": "Cherry Plum",
+                "performer": "etc. Astronauts"
+              },
+              {
+                "time": "23:35",
+                "title": "In My Head",
+                "performer": "Gazelle & The Bear"
+              },
+              {
+                "time": "23:40",
+                "title": "Violet Rain",
+                "performer": "Harpooner"
+              },
+              {
+                "time": "23:44",
+                "title": "Go Back",
+                "performer": "The Death of Pop"
+              },
+              {
+                "time": "23:46",
+                "title": "La La Land",
+                "performer": "Daniel Mason"
+              },
+              {
+                "time": "23:53",
+                "title": "Lathered In Gold",
+                "performer": "Brijean"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
