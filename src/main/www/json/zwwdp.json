@@ -69243,11 +69243,6 @@
               },
               {
                 "time": "22:16",
-                "title": "Comingback",
-                "performer": "Parcels"
-              },
-              {
-                "time": "22:16",
                 "title": "Bird With A Broken Wing",
                 "performer": "Weezer"
               },
@@ -69362,6 +69357,151 @@
                 "time": "23:54",
                 "title": "Wishful Thinking",
                 "performer": "Mocky"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "1",
+          "date": "2022-01-06",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "This Will Be Our Year",
+                "performer": "Tim Christensen And The Damn Crystals"
+              },
+              {
+                "time": "22:07",
+                "title": "Mini",
+                "performer": "Corduroy"
+              },
+              {
+                "time": "22:11",
+                "title": "Foolish Enough",
+                "performer": "Geoffrey O'Connor feat. Laura Jean"
+              },
+              {
+                "time": "22:14",
+                "title": "Our Dream",
+                "performer": "Andrew Gabbard"
+              },
+              {
+                "time": "22:17",
+                "title": "1 2 B Like U",
+                "performer": "DiCE_NZ"
+              },
+              {
+                "time": "22:23",
+                "title": "Far Away",
+                "performer": "Seth Swirsky"
+              },
+              {
+                "time": "22:26",
+                "title": "Rollin'",
+                "performer": "The High Llamas"
+              },
+              {
+                "time": "22:32",
+                "title": "Travelogue",
+                "performer": "Frank LoCrasto"
+              },
+              {
+                "time": "22:37",
+                "title": "You Put My Love Out The Door",
+                "performer": "The Polyphonic Spree"
+              },
+              {
+                "time": "22:40",
+                "title": "Kiss Me More",
+                "performer": "Sondre Lerche"
+              },
+              {
+                "time": "22:43",
+                "title": "Boy Boredom",
+                "performer": "Cosma Joy"
+              },
+              {
+                "time": "22:46",
+                "title": "Good Wine",
+                "performer": "Azekel"
+              },
+              {
+                "time": "22:50",
+                "title": "Wings",
+                "performer": "So!YoON! mit Phum Viphurit"
+              },
+              {
+                "time": "22:55",
+                "title": "Checking Out",
+                "performer": "The Aluminum Group"
+              },
+              {
+                "time": "22:59",
+                "title": "Magneto",
+                "performer": "Ducktails"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "I Wear Shades",
+                "performer": "Late Runner"
+              },
+              {
+                "time": "23:08",
+                "title": "Dreams / Just The Two Of Us - Mashup",
+                "performer": "Scary Pockets feat. Leone"
+              },
+              {
+                "time": "23:12",
+                "title": "Wild Wood",
+                "performer": "Paul Weller feat. Celeste with Jules Buckley & The BBC Symphony Orchestra"
+              },
+              {
+                "time": "23:17",
+                "title": "It's A Very Deep Sea",
+                "performer": "Paul Weller with Jules Buckley & The BBC Symphony Orchestra"
+              },
+              {
+                "time": "23:22",
+                "title": "Wading In Waist-High Water",
+                "performer": "Fleet Foxes"
+              },
+              {
+                "time": "23:24",
+                "title": "The Wedding Song",
+                "performer": "C Duncan"
+              },
+              {
+                "time": "23:27",
+                "title": "That Bluebird Of Summer",
+                "performer": "The Surf Symphony"
+              },
+              {
+                "time": "23:34",
+                "title": "Yes",
+                "performer": "Novelty Island"
+              },
+              {
+                "time": "23:40",
+                "title": "Early Morning Freakbeat",
+                "performer": "Orange Crate Art"
+              },
+              {
+                "time": "23:44",
+                "title": "Conversational",
+                "performer": "Dominique Leone"
+              },
+              {
+                "time": "23:54",
+                "title": "Down With Another One",
+                "performer": "William Fitzsimmons"
               },
               {
                 "time": "23:57",
