@@ -6777,6 +6777,50 @@
               { "title": "Baker Street", "performer": "Gerry Rafferty"}
             ]
           ]
+        },
+        {
+          "id": "52",
+          "date": "2021-12-26",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Reachin", "performer": "Essel"},
+              { "title": "Dig A Ditch (Compact Disk Dummies Rmx)", "performer": "Millionaire"},
+              { "title": "Dead Awake", "performer": "Black Doldrums"},
+              { "title": "Que Calor!", "performer": "The Liminanas & Laurent Garnier"},
+              { "title": "Second Home", "performer": "Mt. Mountain"},
+              { "title": "Bruise", "performer": "HVOB"},
+              { "title": "Sommer", "performer": "Luis Ake"},
+              { "title": "Watch Out!", "performer": "India Jordan"},
+              { "title": "Step In", "performer": "Cedric Burnside"},
+              { "title": "Invisible Sounds (Random Movement Remix)", "performer": "T.R.A.C. feat. Level2 & Christina Tamayo"},
+              { "title": "How Much You Care", "performer": "Stimulator Jones"}
+            ],
+            [
+              { "time": "23:04", "title": "Blowin Gold", "performer": "Stimulator Jones"},
+              { "title": "Sad Song 77", "performer": "caro♡"},
+              { "title": "Woman", "performer": "Little Simz feat. Cleo Sol"},
+              { "title": "Talks (DJ Dairy´s Buffer Shuffler Remix)", "performer": "PVA"},
+              { "title": "Keiner Da", "performer": "st.raumen feat. Gudrun Gut"},
+              { "title": "Heute", "performer": "Vomit Heat With International Music"},
+              { "title": "Need", "performer": "Maya Jane Coles"},
+              { "title": "Liebhaber", "performer": "Levin Goes Lightly"},
+              { "title": "Pari Pari (Shubostar Remix)", "performer": "Aili & Transistorcake"},
+              { "title": "Unveiling The Secret", "performer": "Psyche"},
+              { "title": "Imaginary Number", "performer": "FRS"}
+            ],
+            [
+              { "time": "00:04", "title": "Movement 1", "performer": "Floating Points, Pharoah Sanders & The London Symphony Orchestra"},
+              { "title": "Brügge", "performer": "Tom Taschenmesser"},
+              { "title": "American Honey", "performer": "Current Joy"},
+              { "title": "Renegade", "performer": "Big Red Machine feat. Taylor Swift"},
+              { "title": "Space", "performer": "El-B"},
+              { "title": "Joy Of Pain", "performer": "Mr. Sosa"},
+              { "title": "Lucid Dream", "performer": "ASC"},
+              { "title": "Break It Off", "performer": "Pink Pantheress"},
+              { "title": "Pamphlets", "performer": "Squid"},
+              { "title": "The End Of The World", "performer": "The Cool Greenhouse"}
+            ]
+          ]
         }
       ]
     }
