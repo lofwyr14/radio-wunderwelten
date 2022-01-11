@@ -6781,11 +6781,12 @@
         {
           "id": "52",
           "date": "2021-12-26",
+          "checked": {"date": "2022-01-10", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Reachin", "performer": "Essel"},
-              { "title": "Dig A Ditch (Compact Disk Dummies Rmx)", "performer": "Millionaire"},
-              { "title": "Dead Awake", "performer": "Black Doldrums"},
+              { "title": "Dig A Ditch (Compact Disk Dummies Remix)", "performer": "Millionaire"},
+              { "title": "Sad Paradise", "performer": "Black Doldrums"},
               { "title": "Que Calor!", "performer": "The Liminanas & Laurent Garnier"},
               { "title": "Second Home", "performer": "Mt. Mountain"},
               { "title": "Bruise", "performer": "HVOB"},
