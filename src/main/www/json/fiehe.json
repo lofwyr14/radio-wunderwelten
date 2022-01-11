@@ -1778,7 +1778,7 @@
         }
       ]
   },
-  {
+    {
   "id": "2020",
   "episodes": [
     {
@@ -3327,7 +3327,7 @@
           { "title": "Spiral Era (Prins Thomas Remix)", "performer": "Jaga Jazzist"}
         ],
         [
-          {  "time": "23:04", "title": "Back And Again", "performer": "Moscoman"},
+          { "time": "23:04", "title": "Back And Again", "performer": "Moscoman"},
           { "title": "Walk It Off", "performer": "!!! (chk chk chk) feat. Meah Pace"},
           { "title": "Soft Fruit", "performer": "Global Charming"},
           { "title": "The Deep", "performer": "Someone"},
@@ -4276,7 +4276,7 @@
           { "title": "Wedding In Berlin", "performer": "Pet Shop Boys"}
         ],
         [
-          { "time": "23:04",  "title": "Chemz", "performer": "Burial"},
+          { "time": "23:04", "title": "Chemz", "performer": "Burial"},
           { "title": "The Age Of Love (New Age Mix)", "performer": "Age Of Love"},
           { "title": "I Can´t Sleep", "performer": "Poor Stacy feat. Iann Dior"},
           { "title": "Knockin On Mine", "performer": "Paul Westerberg"},
@@ -6820,6 +6820,56 @@
               { "title": "Break It Off", "performer": "Pink Pantheress"},
               { "title": "Pamphlets", "performer": "Squid"},
               { "title": "The End Of The World", "performer": "The Cool Greenhouse"}
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2022",
+      "episodes": [
+        {
+          "id": "1",
+          "date": "2022-01-02",
+          "songs": [
+            [
+              { "time": "23:04", "title": "Song 1", "performer": "DJ Krush"},
+              { "title": "Be Careful", "performer": "Greentea Peng"},
+              { "title": "Sleeping Tiger On The Bund", "performer": "Mindy Meng Wang & Tim Shiel"},
+              { "title": "Tortenarchiv", "performer": "Vomit Heat with International Music"},
+              { "title": "Finger Pies", "performer": "Anika"},
+              { "title": "Feeling Invincible", "performer": "Jason Sparks"},
+              { "title": "Tender", "performer": "Elliott"},
+              { "title": "Birchgrove Leasure Gardens", "performer": "Maroki"},
+              { "title": "Dark Gethsemane (Edit)", "performer": "Burial"},
+              { "title": "Raver", "performer": "Burial"},
+              { "title": "Mandala Acid", "performer": "Juliet Sikora & Tini Gessler"},
+              { "title": "Gypsy", "performer": "Uriah Heep"}
+            ],
+            [
+              { "time": "00:04", "title": "Walking At A Downtown Pace", "performer": "Parquet Courts"},
+              { "title": "Strong Feelings", "performer": "Dry Cleaning"},
+              { "title": "Voice Mail", "performer": "DJ Wiggle"},
+              { "title": "Dichter", "performer": "Layla"},
+              { "title": "Unknown Title", "performer": "Rose"},
+              { "title": "Designer", "performer": "Rose"},
+              { "title": "Walking On The Moon", "performer": "Zustra"},
+              { "title": "All The Way", "performer": " LeCiel"},
+              { "title": "These Things Will Come To Be", "performer": "DJ Seinfeld"},
+              { "title": "Transsib", "performer": "Natasha Bai"},
+              { "title": "Make It Work", "performer": "Stekl"}
+            ],
+            [
+              { "time": "00:04", "title": "Island In The Sun", "performer": "Paloma & The Matches"},
+              { "title": "Lazy Eyes And Dune", "performer": "La Luz"},
+              { "title": "Die Realität", "performer": "Die Lieferanten"},
+              { "title": "Cheetah", "performer": "Jimmy Edgar feat. Semma"},
+              { "title": "Swimming (Edit)", "performer": "Teen Daze"},
+              { "title": "Save Me", "performer": "Cooly G feat. Marcus Damon"},
+              { "title": "NDA´s", "performer": "Shirin David & Shindy"},
+              { "title": "Cringe", "performer": "Dissy"},
+              { "title": "Der Anfang Vom Ende", "performer": "Lyschko"},
+              { "title": "Cowboys In Africa", "performer": "Bush Tetras"}
             ]
           ]
         }
