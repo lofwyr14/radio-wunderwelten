@@ -69376,7 +69376,7 @@
       "station": "Radio Bremen 2",
       "episodes": [
         {
-          "id": "53",
+          "id": "1",
           "date": "2022-01-06",
           "checked": {
             "date": "2022-01-08",
@@ -69525,6 +69525,161 @@
                 "time": "23:54",
                 "title": "Down With Another One (Oehl Remix)",
                 "performer": "William Fitzsimmons"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "date": "2022-01-13",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Now That You Want Me Back",
+                "performer": "Stone Foundation & Melba Moore"
+              },
+              {
+                "time": "22:08",
+                "title": "Going To A Go-Go",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "22:13",
+                "title": "Fyodor Dormant",
+                "performer": "Beirut"
+              },
+              {
+                "time": "22:15",
+                "title": "Blinded By The Light",
+                "performer": "Scary Pockets feat. Therese Curatolo & Swatkins"
+              },
+              {
+                "time": "22:19",
+                "title": "Come Back To Earth",
+                "performer": "Mac Miller"
+              },
+              {
+                "time": "22:22",
+                "title": "Warning Signs",
+                "performer": "Blue States"
+              },
+              {
+                "time": "22:26",
+                "title": "Johanna's Calls",
+                "performer": "Paul Sinwill"
+              },
+              {
+                "time": "22:32",
+                "title": "It Was Raining",
+                "performer": "Mellow"
+              },
+              {
+                "time": "22:36",
+                "title": "Pirates",
+                "performer": "Spoon and the Forkestra"
+              },
+              {
+                "time": "22:39",
+                "title": "Are You Happy?",
+                "performer": "Oscar Lang"
+              },
+              {
+                "time": "22:42",
+                "title": "Unseasonably Sad",
+                "performer": "The Heavy Blinkers"
+              },
+              {
+                "time": "22:45",
+                "title": "I'm Only Sleeping",
+                "performer": "The Beatles"
+              },
+              {
+                "time": "22:48",
+                "title": "Daylight Star",
+                "performer": "Sun Cutter"
+              },
+              {
+                "time": "22:53",
+                "title": "Too Good To Be True",
+                "performer": "Tom Robinson Band"
+              },
+              {
+                "time": "22:56",
+                "title": "A New Wig For Me",
+                "performer": "Bent"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Craigwrong",
+                "performer": "The Emerald Isle"
+              },
+              {
+                "time": "23:07",
+                "title": "Qachina",
+                "performer": "Damien Jurado"
+              },
+              {
+                "time": "23:11",
+                "title": "Funny Girl",
+                "performer": "Father John Misty"
+              },
+              {
+                "time": "23:14",
+                "title": "Let 'Em In",
+                "performer": "The Polyphonic Spree"
+              },
+              {
+                "time": "23:20",
+                "title": "Over",
+                "performer": "Mayer Hawthorne"
+              },
+              {
+                "time": "23:23",
+                "title": "Everybody's Got To Learn Sometime",
+                "performer": "Till Brönner"
+              },
+              {
+                "time": "23:27",
+                "title": "Rocket Love",
+                "performer": "Sophie Milman"
+              },
+              {
+                "time": "23:33",
+                "title": "Tuesday Heartbreak",
+                "performer": "Stevie Wonder"
+              },
+              {
+                "time": "23:35",
+                "title": "Straight 'til Sunrise",
+                "performer": "Barry Adamson"
+              },
+              {
+                "time": "23:41",
+                "title": "Yellow Flowers",
+                "performer": "Alfie Templeman"
+              },
+              {
+                "time": "23:44",
+                "title": "Seasons",
+                "performer": "Pete Jolly"
+              },
+              {
+                "time": "23:49",
+                "title": "Slowdance",
+                "performer": "Mndsgn"
+              },
+              {
+                "time": "23:54",
+                "title": "Portrait",
+                "performer": "Euchan Chon"
               },
               {
                 "time": "23:57",
