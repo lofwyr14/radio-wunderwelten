@@ -6873,7 +6873,51 @@
               { "title": "Cowboys In Africa", "performer": "Bush Tetras"}
             ]
           ]
+        },
+        {
+          "id": "2",
+          "date": "2022-01-09",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Never Forget My Baby (Jaakko Eino Kalevi Rmx)", "performer": "Ultraflex"},
+              { "title": "Didn´t We Have A Time", "performer": "North Mississippi Allstars"},
+              { "title": "Will You Be (CFCF Remix)", "performer": "Baltra"},
+              { "title": "Pushin P", "performer": "Gunna & Future feat. Young Thug"},
+              { "title": "Man In The Mirror", "performer": "A Boogie Wit Da Hoodie"},
+              { "title": "Harlem", "performer": "Abiodun Oyewole"},
+              { "title": "Odyssey", "performer": "Killa Beez feat. Isaac Hayes"},
+              { "title": "Know This Baby", "performer": "LeCiel"},
+              { "title": "Embodiment", "performer": "Sis"},
+              { "title": "Happy New Year", "performer": "Let´s Eat Grandma"}
+            ],
+            [
+              { "time": "23:04", "title": "Do You Do You", "performer": "Jessica Winter"},
+              { "title": "Just One Second (Apex Remix)", "performer": "London Elektricity feat. Elsa Esmeralda"},
+              { "title": "Sophie´s Tale", "performer": "Mitekiss feat. Milo Merah"},
+              { "title": "Flip The Narrative", "performer": "LTJ Bukem"},
+              { "title": "Pari Pari (Shubostar Remix)", "performer": "Aili & TRansistorcake"},
+              { "title": "I Want To Dance (Jex Opolis ´99 Mix)", "performer": "Digital Ivan"},
+              { "title": "The Dream", "performer": "Splonie"},
+              { "title": "Beg!", "performer": "Vero"},
+              { "title": "Dark Days", "performer": "Yard Act"},
+              { "title": "Payday", "performer": "Yard Act"},
+              { "title": "Fatso", "performer": "Warmduscher"}
+            ],
+            [
+              { "time": "00:04", "title": "Do You Think I´m Special", "performer": "DAMEFRISØR"},
+              { "title": "Peanuts", "performer": "Yard Act"},
+              { "title": "How Do I Make You Love Me?", "performer": "The Weeknd"},
+              { "title": "Take My Breath", "performer": "The Weeknd"},
+              { "title": "Finally I Understand (Sharda Remix)", "performer": "Charli XCX Vs Sharda"},
+              { "title": "Watch Out!", "performer": "India Jordan"},
+              { "title": "King Of The Beats", "performer": "Amazon II (Aphrodite)"},
+              { "title": "Wayfaring Stranger (Burial Remix)", "performer": "Jamie Woon"},
+              { "title": "Strange Neighbourhood", "performer": "Burial"},
+              { "title": "Antidawn", "performer": "Burial"}
+            ]
+          ]
         }
+
       ]
     }
   ]
