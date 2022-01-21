@@ -6877,21 +6877,22 @@
         {
           "id": "2",
           "date": "2022-01-09",
+          "checked": {"date": "2022-01-20", "user": "jg"},
           "songs": [
             [
-              { "time": "22:04", "title": "Never Forget My Baby (Jaakko Eino Kalevi Rmx)", "performer": "Ultraflex"},
+              { "time": "22:04", "title": "Never Forget My Baby (Jaakko Eino Kalevi Pastoral Rodeo Remix)", "performer": "Ultraflex"},
               { "title": "Didn´t We Have A Time", "performer": "North Mississippi Allstars"},
               { "title": "Will You Be (CFCF Remix)", "performer": "Baltra"},
-              { "title": "Pushin P", "performer": "Gunna & Future feat. Young Thug"},
               { "title": "Man In The Mirror", "performer": "A Boogie Wit Da Hoodie"},
+              { "title": "Pushin P", "performer": "Gunna & Future feat. Young Thug"},
               { "title": "Harlem", "performer": "Abiodun Oyewole"},
               { "title": "Odyssey", "performer": "Killa Beez feat. Isaac Hayes"},
               { "title": "Know This Baby", "performer": "LeCiel"},
-              { "title": "Embodiment", "performer": "Sis"},
-              { "title": "Happy New Year", "performer": "Let´s Eat Grandma"}
+              { "title": "Embodiment", "performer": "Sis"}
             ],
             [
-              { "time": "23:04", "title": "Do You Do You", "performer": "Jessica Winter"},
+              { "time": "23:04", "title": "Happy New Year", "performer": "Let´s Eat Grandma"},
+              { "title": "Do You Do You", "performer": "Jessica Winter"},
               { "title": "Just One Second (Apex Remix)", "performer": "London Elektricity feat. Elsa Esmeralda"},
               { "title": "Sophie´s Tale", "performer": "Mitekiss feat. Milo Merah"},
               { "title": "Flip The Narrative", "performer": "LTJ Bukem"},
@@ -6900,11 +6901,11 @@
               { "title": "The Dream", "performer": "Splonie"},
               { "title": "Beg!", "performer": "Vero"},
               { "title": "Dark Days", "performer": "Yard Act"},
-              { "title": "Payday", "performer": "Yard Act"},
-              { "title": "Fatso", "performer": "Warmduscher"}
+              { "title": "Payday", "performer": "Yard Act"}
             ],
             [
-              { "time": "00:04", "title": "Do You Think I´m Special", "performer": "DAMEFRISØR"},
+              { "time": "00:04", "title": "Fatso", "performer": "Warmduscher"},
+              { "title": "Do You Think I´m Special", "performer": "DAMEFRISØR"},
               { "title": "Peanuts", "performer": "Yard Act"},
               { "title": "How Do I Make You Love Me?", "performer": "The Weeknd"},
               { "title": "Take My Breath", "performer": "The Weeknd"},
@@ -6917,7 +6918,6 @@
             ]
           ]
         }
-
       ]
     }
   ]
