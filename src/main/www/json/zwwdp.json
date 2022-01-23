@@ -13507,6 +13507,61 @@
         {
           "id": "18",
           "title": "Zeiglers wunderbare Welt des Pop",
+          "date": "2014-05-13",
+          "songs": [
+            [
+              { "time": "20:04","title": "Saturday In The Park", "performer": "Chicago"},
+              { "title": "Looking For Atlantis (Extended Version)", "performer": "Prefab Sprout"},
+              { "title": "Threes", "performer": "My Sad Captains"},
+              { "title": "On Broadway", "performer": "The Bible"},
+              { "title": "Undercover Angel", "performer": "Joe Giddings"},
+              { "title": "You Are The Music", "performer": "Mamas Gun"},
+              { "title": "The Ghost Of Rockschool", "performer": "Belle & Sebastian"},
+              { "title": "Without Your Light", "performer": "Barzin"},
+              { "title": "Postcard", "performer": "Roddy Frame"},
+              { "title": "Where Is It", "performer": "The New Tigers"},
+              { "title": "Spring’s Near", "performer": "Parsley Sounds"},
+              { "title": "Miss Modular", "performer": "Stereolab"},
+              { "title": "Cookie Bay", "performer": "High Llamas"},
+              { "title": "Free At Last", "performer": "Rory More"}
+            ],
+            [
+              { "time": "21:04","title": "Beautiful Love", "performer": "Julian Cope"},
+              { "title": "Every Day I Fall In Love Again", "performer": "Linus Of Hollywood"},
+              { "title": "If Paradise Is Half As Nice", "performer": "Aztec Camera"},
+              { "title": "Everything Is Ending", "performer": "Fireflies"},
+              { "title": "Stray Cat Strut", "performer": "The Stray Cats"},
+              { "title": "Really Really Weird", "performer": "The Simple Carnival"},
+              { "title": "Good Day Sunshine / Got To Get You Into My Live", "performer": "The Arbors"},
+              { "title": "I Want To Pick You Up", "performer": "Beach Boys"},
+              { "title": "Curtains", "performer": "Timber Timbre"},
+              { "title": "Ganges Delta", "performer": "Okko"},
+              { "title": "Temma Harbour", "performer": "Philamore Lincoln"},
+              { "title": "Don’t You Know", "performer": "Jan Hammer Group"},
+              { "title": "Buddha", "performer": "Pete Aves"},
+              { "title": "The Downtown Lights", "performer": "Blue Nile"},
+              { "title": "Between Circles", "performer": "Death And Vanilla"}
+            ],
+            [
+              { "time": "22:04","title": "We Make It Look So Easy", "performer": "Mamas Gun"},
+              { "title": "The Pulse", "performer": "Magic Numbers"},
+              { "title": "By The Time I Get To Phoenix", "performer": "Jimmy Webb"},
+              { "title": "All The While", "performer": "Barzin"},
+              { "title": "Back To Black", "performer": "Rival Sons"},
+              { "title": "Spring Isn’t Fair", "performer": "Bertrand Burgalat"},
+              { "title": "The Other Side", "performer": "Roddy Frame"},
+              { "title": "Travelin’", "performer": "Esquivel"},
+              { "title": "The Last Good Day Of The Year", "performer": "Cousteau"},
+              { "title": "Down By The River", "performer": "Roy Buchanan"},
+              { "title": "Charmed Life", "performer": "The Divine Comedy"},
+              { "title": "Wasted Time", "performer": "The Eagles"},
+              { "title": "Piano Song", "performer": "Scott Matthews"}
+            ]
+          ]
+        },
+        {
+          "id": "19",
+          "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-05-20",
           "checked": {
             "date": "2021-06-05",
@@ -13685,7 +13740,7 @@
           ]
         },
         {
-          "id": "19",
+          "id": "20",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-05-27",
           "checked": {
@@ -13857,7 +13912,7 @@
           ]
         },
         {
-          "id": "20",
+          "id": "21",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-06-03",
           "checked": {
@@ -14033,7 +14088,7 @@
           ]
         },
         {
-          "id": "21",
+          "id": "22",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-06-10",
           "checked": {
@@ -14221,7 +14276,7 @@
           ]
         },
         {
-          "id": "22",
+          "id": "23",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-06-17",
           "comment": "WM 2014 Fußballsong-Special",
@@ -14435,7 +14490,7 @@
           ]
         },
         {
-          "id": "23",
+          "id": "24",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-06-24",
           "checked": {
@@ -14623,7 +14678,7 @@
           ]
         },
         {
-          "id": "24",
+          "id": "25",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-07-01",
           "checked": {
@@ -14808,7 +14863,7 @@
           ]
         },
         {
-          "id": "25",
+          "id": "26",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-07-15",
           "checked": {
@@ -14988,7 +15043,7 @@
           ]
         },
         {
-          "id": "26",
+          "id": "27",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-07-22",
           "checked": {
