@@ -13508,6 +13508,10 @@
           "id": "18",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-05-13",
+          "checked": {
+            "date": "2022-01-25",
+            "user": "jg"
+          },
           "songs": [
             [
               { "time": "20:04","title": "Saturday In The Park", "performer": "Chicago"},
@@ -13528,13 +13532,13 @@
             [
               { "time": "21:04","title": "Beautiful Love", "performer": "Julian Cope"},
               { "title": "Every Day I Fall In Love Again", "performer": "Linus Of Hollywood"},
-              { "title": "If Paradise Is Half As Nice", "performer": "Aztec Camera"},
+              { "title": "(If Paradise Is) Half As Nice", "performer": "Aztec Camera"},
               { "title": "Everything Is Ending", "performer": "Fireflies"},
               { "title": "Stray Cat Strut", "performer": "The Stray Cats"},
               { "title": "Really Really Weird", "performer": "The Simple Carnival"},
               { "title": "Good Day Sunshine / Got To Get You Into My Live", "performer": "The Arbors"},
-              { "title": "I Want To Pick You Up", "performer": "Beach Boys"},
-              { "title": "Curtains", "performer": "Timber Timbre"},
+              { "title": "I Want To Pick You Up", "performer": "The Beach Boys"},
+              { "title": "Curtains!?", "performer": "Timber Timbre"},
               { "title": "Ganges Delta", "performer": "Okko"},
               { "title": "Temma Harbour", "performer": "Philamore Lincoln"},
               { "title": "Don’t You Know", "performer": "Jan Hammer Group"},
