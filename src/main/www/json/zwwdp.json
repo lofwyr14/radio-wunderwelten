@@ -69901,6 +69901,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "4",
+          "date": "2022-01-27",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Still On Fire",
+                "performer": "Aztec Camera"
+              },
+              {
+                "time": "22:08",
+                "title": "Up In Smoke",
+                "performer": "Ceramic Animal"
+              },
+              {
+                "time": "22:12",
+                "title": "Stepping Out Of Your Shadow",
+                "performer": "Abi Farrell"
+              },
+              {
+                "time": "22:15",
+                "title": "Private Revolution",
+                "performer": "World Party"
+              },
+              {
+                "time": "22:19",
+                "title": "Stumbling Bee",
+                "performer": "Eels"
+              },
+              {
+                "time": "22:23",
+                "title": "You'll Never Get To Heaven",
+                "performer": "Cal Tjader"
+              },
+              {
+                "time": "22:26",
+                "title": "21St Century Hobby",
+                "performer": "Oscar Lang"
+              },
+              {
+                "time": "22:32",
+                "title": "Waving Flags",
+                "performer": "British Sea Power"
+              },
+              {
+                "time": "22:36",
+                "title": "Fear There & Everywhere",
+                "performer": "Archive"
+              },
+              {
+                "time": "22:41",
+                "title": "Magic Time",
+                "performer": "The Ballroom"
+              },
+              {
+                "time": "22:43",
+                "title": "Traffic",
+                "performer": "Senator"
+              },
+              {
+                "time": "22:47",
+                "title": "Sentiment D'Absence",
+                "performer": "Romano Bianchi"
+              },
+              {
+                "time": "22:50",
+                "title": "Subterranean Homesick Alien",
+                "performer": "Radiohead"
+              },
+              {
+                "time": "22:56",
+                "title": "Atlantic",
+                "performer": "The Aluminum Group"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Dreams",
+                "performer": "Richie Havens"
+              },
+              {
+                "time": "23:09",
+                "title": "Party For One",
+                "performer": "Mamas Gun"
+              },
+              {
+                "time": "23:14",
+                "title": "Sloth And Chunk (In The Man From Comet)",
+                "performer": "Blue States"
+              },
+              {
+                "time": "23:17",
+                "title": "Alluvium",
+                "performer": "C Duncan"
+              },
+              {
+                "time": "23:21",
+                "title": "Turns Out I'm Sentimental After All",
+                "performer": "Sondre Lerche"
+              },
+              {
+                "time": "23:24",
+                "title": "Wrong Space, Wrong Time",
+                "performer": "Jeff Phelps"
+              },
+              {
+                "time": "23:30",
+                "title": "Do You Feel It Working?",
+                "performer": "Maston with L'Eclair"
+              },
+              {
+                "time": "23:34",
+                "title": "99 Glimpses",
+                "performer": "Sofie"
+              },
+              {
+                "time": "23:38",
+                "title": "Both Sides Of The Blade",
+                "performer": "Tindersticks"
+              },
+              {
+                "time": "23:42",
+                "title": "Ranch",
+                "performer": "Alpha"
+              },
+              {
+                "time": "23:43",
+                "title": "Unplug The World",
+                "performer": "Goldstoned"
+              },
+              {
+                "time": "23:48",
+                "title": "Ambiente",
+                "performer": "Kruder & Dorfmeister"
+              },
+              {
+                "time": "23:54",
+                "title": "Tragedy",
+                "performer": "Paul McCartney & Wings"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
