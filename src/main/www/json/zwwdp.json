@@ -69747,6 +69747,160 @@
               }
             ]
           ]
+        },
+        {
+          "id": "3",
+          "date": "2022-01-20",
+          "checked": {
+            "date": "2022-01-29",
+            "user": "jg"
+          },
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "My Sharona",
+                "performer": "Papik"
+              },
+              {
+                "time": "22:07",
+                "title": "Golden Ways",
+                "performer": "Caramel (Alexander von Mehren Remix)"
+              },
+              {
+                "time": "22:11",
+                "title": "Cut",
+                "performer": "Sondre Lerche"
+              },
+              {
+                "time": "22:16",
+                "title": "Holy Scroller",
+                "performer": "Nolan Potter"
+              },
+              {
+                "time": "22:22",
+                "title": "Last One To Make It",
+                "performer": "Goldstoned"
+              },
+              {
+                "time": "22:26",
+                "title": "Paddy Mcaloon",
+                "performer": "Sean Macreavy"
+              },
+              {
+                "time": "22:31",
+                "title": "Cruel",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "time": "22:35",
+                "title": "Rose Pink Cadillac",
+                "performer": "Dope Lemon"
+              },
+              {
+                "time": "22:40",
+                "title": "Ade",
+                "performer": "Lina Maly & Moritz Krämer"
+              },
+              {
+                "time": "22:43",
+                "title": "You'll Find Me, Beija Flor",
+                "performer": "Butter Bath & Hector Gachan"
+              },
+              {
+                "time": "22:49",
+                "title": "Conversation Piece",
+                "performer": "David Bowie"
+              },
+              {
+                "time": "22:52",
+                "title": "A White Actor (These Walls Have Ears)",
+                "performer": "The Fisherman And His Soul"
+              },
+              {
+                "time": "22:55",
+                "title": "Our House",
+                "performer": "The Head And The Heart"
+              },
+              {
+                "time": "22:59",
+                "title": "You'Ve Got What It Takes (Instrumental)",
+                "performer": "Les Hurdle"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Patience (Cool Wave Mix)",
+                "performer": "Sixth Finger feat. Dew"
+              },
+              {
+                "time": "23:09",
+                "title": "Seabird",
+                "performer": "Marissa Nadler"
+              },
+              {
+                "time": "23:13",
+                "title": "Footsteps",
+                "performer": "Paul Sinwill"
+              },
+              {
+                "time": "23:17",
+                "title": "I Will Survive",
+                "performer": "Scary Pocketsfeat. Mario Jose"
+              },
+              {
+                "time": "23:20",
+                "title": "Black Man",
+                "performer": "Stevie Wonder"
+              },
+              {
+                "time": "23:28",
+                "title": "I Was Spinning",
+                "performer": "Andrew Carroll"
+              },
+              {
+                "time": "23:32",
+                "title": "The Last Signal",
+                "performer": "Eileen Gogan & Sean O'Hagan"
+              },
+              {
+                "time": "23:34",
+                "title": "Dream Dancing",
+                "performer": "Mr. And Mrs. Muffins feat. Alessandra Rose"
+              },
+              {
+                "time": "23:38",
+                "title": "Holy-Hole-In-The-Doughnut (Zeigler Mix)",
+                "performer": "Nelson Riddle"
+              },
+              {
+                "time": "23:41",
+                "title": "Something Feral",
+                "performer": "Alpha feat. Jakeoat"
+              },
+              {
+                "time": "23:45",
+                "title": "Strange",
+                "performer": "Celeste"
+              },
+              {
+                "time": "23:49",
+                "title": "The Land, The Sea, The Sky",
+                "performer": "Peter Lacey"
+              },
+              {
+                "time": "23:55",
+                "title": "Arnd Walks Home After The Show",
+                "performer": "The Fisherman And His Soul"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
