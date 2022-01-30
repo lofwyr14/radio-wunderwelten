@@ -69905,6 +69905,10 @@
         {
           "id": "4",
           "date": "2022-01-27",
+          "checked": {
+            "date": "2022-01-30",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -69934,7 +69938,7 @@
               },
               {
                 "time": "22:23",
-                "title": "You'll Never Get To Heaven",
+                "title": "You'll Never Get To Heaven (If You Break My Heart)",
                 "performer": "Cal Tjader"
               },
               {
