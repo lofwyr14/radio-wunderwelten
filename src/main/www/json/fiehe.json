@@ -2271,7 +2271,7 @@
           { "time":"22:04","title": "Heather", "performer": "Billy Cobham"},
           { "title": "Above The Rainbow", "performer": "McCoy Tyner"},
           { "title": "Born To Lose", "performer": "U.S. Girls"},
-          { "title": "Psalm                                     ", "performer": "John Coltrane                                    "},
+          { "title": "Psalm", "performer": "John Coltrane"},
           { "title": "Rio", "performer": "Lee Morgan"},
           { "title": "Sunny´s Time", "performer": "Caribou"},
           { "title": "Get Me Some", "performer": "TOKiMONSTA  feat. Drew Love"},
@@ -6915,6 +6915,51 @@
               { "title": "Wayfaring Stranger (Burial Remix)", "performer": "Jamie Woon"},
               { "title": "Strange Neighbourhood", "performer": "Burial"},
               { "title": "Antidawn", "performer": "Burial"}
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "date": "2022-01-16",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Heute", "performer": "Vomit Heat with International Music"},
+              { "title": "Dozy", "performer": "Need For Mirrors"},
+              { "title": "Keep Up", "performer": "Alix Perez & DLR & SP:MC"},
+              { "title": "Breaking News", "performer": "Winslow feat. T.R.A.C."},
+              { "title": "Flip The Narrative", "performer": "LTJ Bukem"},
+              { "title": "Vega", "performer": "Logistics"},
+              { "title": "Somewhere", "performer": "Grafix feat. Reiki Ruawei"},
+              { "title": "C´mon People", "performer": "Richard Ashcroft feat. Liam Gallagher"},
+              { "title": "The Line Is A Curve", "performer": "Kae Tempest feat. Kevin Abstract"},
+              { "title": "Would You Believe (Sebra Cruz Remix)", "performer": "Catz `N Dogz feat. Jono McCleery"},
+              { "title": "Love Boat", "performer": "MDM Factory"},
+              { "title": "Cannibal Capitol", "performer": "Guerilla Toss"},
+              { "title": "Changing Times", "performer": "Joint4nine"}
+            ],
+            [
+              { "time": "23:04", "title": "Jackie Down The Line", "performer": "Fontaines D.C."},
+              { "title": "Illumination", "performer": "Pugilist"},
+              { "title": "Fog", "performer": "Danny Goliger feat. Michael Fam"},
+              { "title": "Pulses Of Light", "performer": "DJ Counselling"},
+              { "title": "Otomo", "performer": "Bonobo feat. O´Flynn"},
+              { "title": "Gold", "performer": "Two Medicine"},
+              { "title": "Man In The Mirror", "performer": "A Boogie Wit Da Hoodie"},
+              { "title": "Cassandra", "performer": "Garcia Peoples"},
+              { "title": "Grandier", "performer": "Fazer"},
+              { "title": "Minneapolis", "performer": "JuJu Rogers feat. Mick Jenkins"},
+              { "title": "Holiday From Reality", "performer": "Poppy Ajudha"}
+            ],
+            [
+              { "time": "00:04", "title": "Wired", "performer": "Isoscope"},
+              { "title": "Do It All Night (Honey Dijon Remix)", "performer": "DJ Minx"},
+              { "title": "Teamwork (Clyde Rouge Remix)", "performer": "Kolombo & Fran Bortolossi"},
+              { "title": "Angel", "performer": "DJ Python"},
+              { "title": "Walls Of The Universe (Khotin Remix)", "performer": "Guerilla Toss"},
+              { "title": "Killing", "performer": "Helmut"},
+              { "title": "Momma´s Hood", "performer": "Cordae"},
+              { "title": "Bethel Woods", "performer": "Midlake"},
+              { "title": "Thick As A Brick", "performer": "Jethro Tull"}
             ]
           ]
         }
