@@ -17958,18 +17958,23 @@
           "id": "43",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-11-25",
+          "checked": {
+            "date": "2022-01-31",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Uh huh oh yeh",
+                "time": "20:04",
+                "title": "Uh Huh Oh Yeh! (Always There To Fool You)",
                 "performer": "Paul Weller"
               },
               {
-                "title": "The Broadway jets",
+                "title": "The Broadway Jets",
                 "performer": "Jim Noir"
               },
               {
-                "title": "Wanna be on your mind",
+                "title": "Wanna Be On Your Mind",
                 "performer": "Valerie June"
               },
               {
@@ -17977,31 +17982,31 @@
                 "performer": "Andy Burrows"
               },
               {
-                "title": "The last love letter",
+                "title": "The Last Love Letter",
                 "performer": "Comet Gain"
               },
               {
-                "title": "Black hole sun",
+                "title": "Black Hole Sun",
                 "performer": "Soundgarden"
               },
               {
-                "title": "U bring me vibes",
+                "title": "U Bring Me Vibes",
                 "performer": "Only Child"
               },
               {
-                "title": "You've got nothing to lose",
+                "title": "You've Got Nothing To Lose",
                 "performer": "Michael Kiwanuka"
               },
               {
-                "title": "All the while",
+                "title": "All The While",
                 "performer": "Barzin"
               },
               {
-                "title": "With a little help from my friends",
+                "title": "With A Little Help From My Friends",
                 "performer": "The Young Idea"
               },
               {
-                "title": "Buffalo nickel",
+                "title": "Buffalo Nickel",
                 "performer": "Allah-Las"
               },
               {
@@ -18013,16 +18018,17 @@
                 "performer": "Dan MacCormack"
               },
               {
-                "title": "Video killed the radio star",
+                "title": "Video Killed The Radio Star",
                 "performer": "Pomplamoose"
               },
               {
-                "title": "Forward to the past",
+                "title": "Forward To The Past",
                 "performer": "Shawn Lee"
               }
             ],
             [
               {
+                "time": "21:04",
                 "title": "Standing In The Light (Extended Version)",
                 "performer": "Level 42"
               },
@@ -18031,19 +18037,19 @@
                 "performer": "Tosca"
               },
               {
-                "title": "I wouldn't want to be like you",
+                "title": "I Wouldn't Want To Be Like You",
                 "performer": "The Alan Parsons Project"
               },
               {
                 "title": "Uh-Huh",
-                "performer": "Milt Jackson with the Ray Brown Big Band"
+                "performer": "Milt Jackson with The Ray Brown Big Band"
               },
               {
-                "title": "Crease in his hat",
+                "title": "Crease In His Hat",
                 "performer": "The Kane Gang"
               },
               {
-                "title": "Everyone needs love",
+                "title": "Everyone Needs Love",
                 "performer": "Foxygen"
               },
               {
@@ -18055,15 +18061,15 @@
                 "performer": "Erdmöbel"
               },
               {
-                "title": "Pizza and pinball",
+                "title": "Pizza And Pinball",
                 "performer": "Rumer"
               },
               {
-                "title": "Listen to what the man said",
+                "title": "Listen To What The Man Said",
                 "performer": "Wings"
               },
               {
-                "title": "Let 'em in",
+                "title": "Let 'em In",
                 "performer": "Wings"
               },
               {
@@ -18074,23 +18080,23 @@
             [
               {
                 "time": "22:04",
-                "title": "Falling asleep",
+                "title": "Falling Asleep",
                 "performer": "The Clientele"
               },
               {
-                "title": "Girl, you'll be a woman soon",
+                "title": "Girl, You'll Be A Woman Soon",
                 "performer": "Neil Diamond"
               },
               {
-                "title": "Darker side of sunshine",
+                "title": "Darker Side Of Sunshine",
                 "performer": "Bell Gardens"
               },
               {
-                "title": "Nine times the colour red",
+                "title": "Nine Times The Colour Red",
                 "performer": "The Coral"
               },
               {
-                "title": "Hide in your shell",
+                "title": "Hide In Your Shell",
                 "performer": "Supertramp"
               },
               {
@@ -18098,15 +18104,15 @@
                 "performer": "Glen Campbell"
               },
               {
-                "title": "Try though we might",
+                "title": "Try Though We Might",
                 "performer": "Von Spar"
               },
               {
-                "title": "God only knows",
+                "title": "God Only Knows",
                 "performer": "Joe Henry"
               },
               {
-                "title": "September in the rain",
+                "title": "September In The Rain",
                 "performer": "Robert Wyatt"
               },
               {
@@ -18114,7 +18120,7 @@
                 "performer": "Martin Denny"
               },
               {
-                "title": "The ugly and the beautiful",
+                "title": "The Ugly And The Beautiful",
                 "performer": "The Real Tuesday Weld"
               },
               {
