@@ -70065,6 +70065,10 @@
         {
           "id": "5",
           "date": "2022-02-03",
+          "checked": {
+            "date": "2022-02-06",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -70115,7 +70119,7 @@
               {
                 "time": "22:39",
                 "title": "Minimalist Life",
-                "performer": "Jack and The'"
+                "performer": "Jack And The'"
               },
               {
                 "time": "22:42",
@@ -70191,7 +70195,7 @@
               },
               {
                 "time": "23:36",
-                "title": "Transatlantic Flight",
+                "title": "Transatlantic Flight (Live At Roy Thomson Hall)",
                 "performer": "Leif Vollebekk"
               },
               {
