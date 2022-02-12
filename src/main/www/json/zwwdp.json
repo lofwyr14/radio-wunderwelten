@@ -70236,6 +70236,166 @@
               }
             ]
           ]
+        },
+        {
+          "id": "6",
+          "date": "2022-02-10",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "#9 Dream",
+                "performer": "José González"
+              },
+              {
+                "time": "22:10",
+                "title": "Fly Too",
+                "performer": "Ginger Root"
+              },
+              {
+                "time": "22:14",
+                "title": "Allhallowtide",
+                "performer": "The Monochrome Set"
+              },
+              {
+                "time": "22:17",
+                "title": "Softly",
+                "performer": "Arlo Parks"
+              },
+              {
+                "time": "22:22",
+                "title": "All That You Wanted",
+                "performer": "Benny Sings"
+              },
+              {
+                "time": "22:24",
+                "title": "Sunny",
+                "performer": "Kid Loco"
+              },
+              {
+                "time": "22:27",
+                "title": "All Souls Hill",
+                "performer": "The Waterboys"
+              },
+              {
+                "time": "22:32",
+                "title": "Keep It Up",
+                "performer": "Rex Orange County"
+              },
+              {
+                "time": "22:35",
+                "title": "Probable Cause",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "22:40",
+                "title": "Supermond",
+                "performer": "Erdmöbel"
+              },
+              {
+                "time": "22:43",
+                "title": "Mama Tried",
+                "performer": "Eli \"Paperboy\" Reed"
+              },
+              {
+                "time": "22:46",
+                "title": "You Are On My Mind",
+                "performer": "Chicago"
+              },
+              {
+                "time": "22:49",
+                "title": "Good To Hear That You'Re Okay",
+                "performer": "theCatherines"
+              },
+              {
+                "time": "22:52",
+                "title": "Anthill",
+                "performer": "Scuba Dvala"
+              },
+              {
+                "time": "22:57",
+                "title": "Egyptian Reggae",
+                "performer": "Jonathan Richman & The Modern Lovers"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Appetite",
+                "performer": "Papik & Sarah Jane Morris"
+              },
+              {
+                "time": "23:08",
+                "title": "When You Stole The Sun From The Sky",
+                "performer": "Mamas Gun"
+              },
+              {
+                "time": "23:12",
+                "title": "Smile Now, Cry Later",
+                "performer": "The Shacks"
+              },
+              {
+                "time": "23:15",
+                "title": "Me Singing",
+                "performer": "Julian Cope"
+              },
+              {
+                "time": "23:19",
+                "title": "Raining In My Heart",
+                "performer": "Gregory Porter & The Royal Philharmonic Orchestra Buddy Holly"
+              },
+              {
+                "time": "23:21",
+                "title": "We Have All The Time In The World",
+                "performer": "David Arnold feat. Iggy Pop"
+              },
+              {
+                "time": "23:25",
+                "title": "Love Is A Beautiful Thing",
+                "performer": "Vulfpeck feat. Theo Katzman & Monica Martin"
+              },
+              {
+                "time": "23:31",
+                "title": "Catnip Dreams",
+                "performer": "Aleksi Heinola and Teemu Åkerblom Greg Foat"
+              },
+              {
+                "time": "23:36",
+                "title": "Windmills Of Your Mind",
+                "performer": "The Manhattans"
+              },
+              {
+                "time": "23:39",
+                "title": "Company",
+                "performer": "Strawberry Guy"
+              },
+              {
+                "time": "23:42",
+                "title": "Suicide Is Painless (Demo)",
+                "performer": "Jay-Jay Johanson"
+              },
+              {
+                "time": "23:46",
+                "title": "Wishing Well",
+                "performer": "Phantom Planet"
+              },
+              {
+                "time": "23:51",
+                "title": "A Good Fool",
+                "performer": "Michael Seyer"
+              },
+              {
+                "time": "23:55",
+                "title": "Hotel Capri",
+                "performer": "Ohm Guru"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
