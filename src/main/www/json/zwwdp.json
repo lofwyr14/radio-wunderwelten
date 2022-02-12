@@ -18142,18 +18142,23 @@
           "id": "44",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-12-02",
+          "checked": {
+            "date": "2022-02-12",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Absolute beginners",
+                "time": "20:04",
+                "title": "Absolute Beginners",
                 "performer": "David Bowie"
               },
               {
-                "title": "The lone ranger",
+                "title": "The Lone Ranger",
                 "performer": "Quantum Jump"
               },
               {
-                "title": "The pieces",
+                "title": "The Pieces",
                 "performer": "Slow Club"
               },
               {
@@ -18161,19 +18166,19 @@
                 "performer": "Bertrand Burgalat"
               },
               {
-                "title": "Let 'em in",
+                "title": "Let 'em In",
                 "performer": "Dr. John"
               },
               {
-                "title": "In the heat of the moment",
+                "title": "In The Heat Of The Moment",
                 "performer": "Noel Gallagher's High Flying Birds"
               },
               {
-                "title": "Make me do it again",
+                "title": "Make Me Do It Again",
                 "performer": "Jim Noir"
               },
               {
-                "title": "Theme from Gameplan",
+                "title": "Theme From Gameplan",
                 "performer": "The Dandelion Set"
               },
               {
@@ -18181,15 +18186,15 @@
                 "performer": "Françoise Hardy"
               },
               {
-                "title": "Never really knew",
+                "title": "Never Really Knew",
                 "performer": "Simian Ghost"
               },
               {
-                "title": "Get to love you",
+                "title": "Get To Love You",
                 "performer": "Cow"
               },
               {
-                "title": "The butterfly collector",
+                "title": "The Butterfly Collector",
                 "performer": "The Jam"
               },
               {
@@ -18197,17 +18202,22 @@
                 "performer": "Jonathan Jeremiah"
               },
               {
-                "title": "Made to grow old",
+                "title": "Made To Grow Old",
                 "performer": "A Toys Orchestra"
               },
               {
                 "title": "Yemeni Jade",
                 "performer": "Allah-Las"
+              },
+              {
+                "title": "E.V.A.",
+                "performer": "Jean-Jacques Perrey"
               }
             ],
             [
               {
-                "title": "Hey nineteen",
+                "time": "21:04",
+                "title": "Hey Nineteen",
                 "performer": "Steely Dan"
               },
               {
@@ -18215,11 +18225,11 @@
                 "performer": "Santana"
               },
               {
-                "title": "Pining moon",
+                "title": "Pining Moon",
                 "performer": "Chopstick & Johnjon"
               },
               {
-                "title": "Brother, brother",
+                "title": "Brother, Brother",
                 "performer": "The Kane Gang"
               },
               {
@@ -18227,19 +18237,19 @@
                 "performer": "Thievery Corporation"
               },
               {
-                "title": "Pride before a fall",
+                "title": "Pride Before A Fall",
                 "performer": "The Church"
               },
               {
-                "title": "The fall",
+                "title": "The Fall",
                 "performer": "Rhye"
               },
               {
-                "title": "Careless whisper",
+                "title": "Careless Whisper",
                 "performer": "Get Well Soon"
               },
               {
-                "title": "I'm still free",
+                "title": "I'm Still Free",
                 "performer": "Spain"
               },
               {
@@ -18247,7 +18257,7 @@
                 "performer": "Vampire Weekend"
               },
               {
-                "title": "Across the universe",
+                "title": "Across The Universe",
                 "performer": "Phosphorescent"
               },
               {
@@ -18259,17 +18269,18 @@
                 "performer": "June & The Exit Wounds"
               },
               {
-                "title": "Duvet days",
+                "title": "Duvet Days",
                 "performer": "Von Spar"
               }
             ],
             [
               {
-                "title": "And I love him",
+                "time": "23:04",
+                "title": "And I Love Him",
                 "performer": "Esther Phillips"
               },
               {
-                "title": "Move with the season",
+                "title": "Move With The Season (Beyond The Wizard's Sleeve Reanimation)",
                 "performer": "Temples"
               },
               {
@@ -18277,11 +18288,11 @@
                 "performer": "Bell Gardens"
               },
               {
-                "title": "Imaginary seas",
+                "title": "Imaginary Seas",
                 "performer": "Cleaners From Venus"
               },
               {
-                "title": "Simple man",
+                "title": "Simple Man",
                 "performer": "Fireflies"
               },
               {
@@ -18293,11 +18304,11 @@
                 "performer": "Rumer"
               },
               {
-                "title": "Some things come from nothing",
+                "title": "Some Things Come From Nothing",
                 "performer": "Super Furry Animals"
               },
               {
-                "title": "Strange magic",
+                "title": "Strange Magic",
                 "performer": "Electric Light Orchestra"
               },
               {
@@ -18305,15 +18316,15 @@
                 "performer": "Mister Fusty"
               },
               {
-                "title": "(If you don't want my love) Give it back - Excuse me",
+                "title": "(If You Don't Want My Love) Give It Back - Excuse Me",
                 "performer": "Lee Roberts"
               },
               {
-                "title": "Rocket man",
+                "title": "Rocket Man",
                 "performer": "Get Well Soon"
               },
               {
-                "title": "Cool out",
+                "title": "Cool Out",
                 "performer": "Leroy Hutson"
               }
             ]
