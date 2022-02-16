@@ -18507,10 +18507,15 @@
           "id": "46",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2014-12-30",
+          "checked": {
+            "date": "2022-02-16",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Lust for life",
+                "time": "20:04",
+                "title": "Lust For life",
                 "performer": "Iggy Pop"
               },
               {
@@ -18522,7 +18527,7 @@
                 "performer": "The Pearlfishers"
               },
               {
-                "title": "Echoes of summer",
+                "title": "Echoes Of Summer",
                 "performer": "The Vals"
               },
               {
@@ -18530,7 +18535,7 @@
                 "performer": "The Vals"
               },
               {
-                "title": "You're the first, the last, my everything",
+                "title": "You're The First, The Last, My Everything",
                 "performer": "Nancy Wallace"
               },
               {
@@ -18542,7 +18547,7 @@
                 "performer": "Trio Valore"
               },
               {
-                "title": "Loving, sacred loving",
+                "title": "Loving, Sacred Loving",
                 "performer": "The End"
               },
               {
@@ -18550,45 +18555,46 @@
                 "performer": "1973"
               },
               {
-                "title": "November tale",
+                "title": "November Tale",
                 "performer": "The Waterboys"
               },
               {
-                "title": "Moonlight feels right",
+                "title": "Moonlight Feels Right",
                 "performer": "Starbuck"
               },
               {
-                "title": "17 over you",
+                "title": "17 Over You",
                 "performer": "The Sonic Executive Sessions"
               },
               {
-                "title": "(You're gonna) hurt yourself",
+                "title": "(You're Gonna) Hurt Yourself",
                 "performer": "Frankie Valli"
               },
               {
-                "title": "Fly me to the moon",
+                "title": "Fly Me To The Moon",
                 "performer": "Groove Armada"
               }
             ],
             [
               {
-                "title": "Days that are over",
+                "time": "21:04",
+                "title": "Days That Are Over",
                 "performer": "Sondre Lerche"
               },
               {
-                "title": "There's nothing like this",
+                "title": "There's Nothing Like This",
                 "performer": "Omar"
               },
               {
-                "title": "Honour & moogswings",
+                "title": "Honour & Moogswings",
                 "performer": "Jim Noir"
               },
               {
-                "title": "Thank you",
+                "title": "Thank You",
                 "performer": "The Pale Fountains"
               },
               {
-                "title": "Come away",
+                "title": "Come Away",
                 "performer": "Miles Tackett"
               },
               {
@@ -18596,27 +18602,27 @@
                 "performer": "Garbage"
               },
               {
-                "title": "Interplanetary spaceliner",
+                "title": "Interplanetary Spaceliner",
                 "performer": "Sterling Roswell"
               },
               {
-                "title": "The same love that made me laugh",
+                "title": "The Same Love That Made Me Laugh",
                 "performer": "Ashley Thomas"
               },
               {
-                "title": "Chamber of reflection",
+                "title": "Chamber Of Reflection",
                 "performer": "Mac DeMarco"
               },
               {
-                "title": "Game over",
+                "title": "Game Over",
                 "performer": "Daley"
               },
               {
-                "title": "In your car",
-                "performer": "Georg Levin,"
+                "title": "In Your Car",
+                "performer": "Georg Levin"
               },
               {
-                "title": "El gato",
+                "title": "El Gato",
                 "performer": "Daily Planet"
               },
               {
@@ -18624,21 +18630,22 @@
                 "performer": "She & Him"
               },
               {
-                "title": "Sounds like winter",
+                "title": "Sounds Like Winter",
                 "performer": "The Echoes"
               }
             ],
             [
               {
+                "time": "22:04",
                 "title": "Sunny",
                 "performer": "The Walker Brothers"
               },
               {
-                "title": "Can't smile without you",
+                "title": "Can't Smile Without You",
                 "performer": "The Carpenters"
               },
               {
-                "title": "Caroline no",
+                "title": "Caroline No",
                 "performer": "The Beach Boys"
               },
               {
@@ -18646,15 +18653,15 @@
                 "performer": "Prefab Sprout"
               },
               {
-                "title": "Across the universe",
+                "title": "Across The Universe",
                 "performer": "Fiona Apple"
               },
               {
-                "title": "Cherry blossom girl",
+                "title": "Cherry Blossom Girl",
                 "performer": "Fireflies"
               },
               {
-                "title": "Emotional song no. 1",
+                "title": "Emotional Song No. 1",
                 "performer": "Anthony Rochester"
               },
               {
@@ -18662,19 +18669,19 @@
                 "performer": "Jellyfish"
               },
               {
-                "title": "Let's go away for a while",
+                "title": "Let's Go Away For A While",
                 "performer": "The Beach Boys"
               },
               {
-                "title": "Let's hope nobody finds us",
+                "title": "Let's Hope Nobody Finds Us",
                 "performer": "Lewis Taylor"
               },
               {
-                "title": "A house is not a home",
+                "title": "A House Is Not A Home",
                 "performer": "Burt F. Bacharach"
               },
               {
-                "title": "This girl's in love with you",
+                "title": "This Girl's In Love With You",
                 "performer": "She & Him"
               },
               {
@@ -18682,7 +18689,7 @@
                 "performer": "Arbouretum"
               },
               {
-                "title": "Cool out",
+                "title": "Cool Out",
                 "performer": "Leroy Hutson"
               }
             ]
