@@ -18705,60 +18705,74 @@
           "id": "2",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2015-01-06",
+          "checked": {
+            "date": "2022-02-17",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "The way",
+                "time": "20:04",
+                "title": "The Way",
                 "performer": "Fastball"
               },
               {
-                "title": "If you decide",
+                "title": "If You Decide",
                 "performer": "We Are Catchers"
               },
               {
-                "title": "If only",
+                "title": "If Only",
                 "performer": "Snow White Blackbird"
               },
               {
-                "title": "You're going to live",
+                "title": "You're Going To Live",
                 "performer": "The Real Tuesday Weld"
               },
               {
-                "title": "Break in the weather",
+                "title": "Break In The Weather",
                 "performer": "Stephen Emmer"
               },
               {
-                "title": "You're the only woman (You and I)",
+                "title": "You're The Only Woman (You And I)",
                 "performer": "Ambrosia"
               },
               {
-                "title": "Brighter than sunshine",
+                "title": "Brighter Than Sunshine",
                 "performer": "Aqualung"
               },
               {
-                "title": "Linus and Lucy",
+                "title": "Linus And Lucy",
                 "performer": "Vince Guaraldi Trio"
               },
               {
-                "title": "Moonlight feels right",
+                "title": "Moonlight Feels Right",
                 "performer": "Yukihiro Takahashi"
               },
               {
-                "title": "Winter sun",
+                "title": "Winter Sun",
                 "performer": "AM & Shawn Lee"
               },
               {
-                "title": "Walk out to winter",
+                "title": "Walk Out To Winter (Extended Version)",
                 "performer": "Aztec Camera"
               },
               {
                 "title": "Islands",
                 "performer": "Ralegh Long"
+              },
+              {
+                "title": "Mellow (Part 1)",
+                "performer": "Mellow"
               }
             ],
             [
               {
-                "title": "Baby come back",
+                "time": "21:04",
+                "title": "Chimes",
+                "performer": "Bart Davenport"
+              },
+              {
+                "title": "Baby Come Back",
                 "performer": "Bleu"
               },
               {
@@ -18766,15 +18780,15 @@
                 "performer": "Erdmöbel"
               },
               {
-                "title": "Walking after you",
+                "title": "Walking After You",
                 "performer": "Foo Fighters"
               },
               {
-                "title": "Don't change your plans",
+                "title": "Don't Change Your Plans",
                 "performer": "Ben Folds Five"
               },
               {
-                "title": "Dickheads abound",
+                "title": "Dickheads Abound",
                 "performer": "The Phoenix Foundation"
               },
               {
@@ -18782,7 +18796,7 @@
                 "performer": "Ultravox"
               },
               {
-                "title": "Snowman's land",
+                "title": "Snowman's Land",
                 "performer": "Zack Laurence"
               },
               {
@@ -18794,11 +18808,11 @@
                 "performer": "Trio Valore"
               },
               {
-                "title": "You do something to me",
+                "title": "You Do Something To Me",
                 "performer": "Paul Weller"
               },
               {
-                "title": "Don't wait too Long",
+                "title": "Don't Wait Too Long",
                 "performer": "Medeleine Peyroux"
               },
               {
@@ -18808,15 +18822,16 @@
             ],
             [
               {
-                "title": "You don't have to say you love me",
+                "time": "23:04",
+                "title": "You Don't Have To Say You Love Me",
                 "performer": "Dusty Springfield"
               },
               {
-                "title": "Untouchable",
+                "title": "Untouchable (Live)",
                 "performer": "Stephen Emmer"
               },
               {
-                "title": "Would you like to take a walk? (Sump'n good 'll come from th",
+                "title": "Would You Like To Take A Walk? (Sump'n Good'll Come From That",
                 "performer": "She & Him"
               },
               {
@@ -18824,7 +18839,7 @@
                 "performer": "The Sonic Executive Sessions"
               },
               {
-                "title": "Moments in love (Beaten",
+                "title": "Moments in love - Beaten",
                 "performer": "The Art Of Noise"
               },
               {
@@ -18832,35 +18847,35 @@
                 "performer": "Nick + Noah"
               },
               {
-                "title": "Changing of the guard",
+                "title": "Changing Of The Guard",
                 "performer": "The Style Council"
               },
               {
-                "title": "Fly me to the moon",
+                "title": "Fly Me To The Moon",
                 "performer": "Groove Armada"
               },
               {
-                "title": "Wives and Lovers",
+                "title": "Wives And Lovers",
                 "performer": "Jean 'Toots' Thielemans"
               },
               {
-                "title": "Private investigations",
+                "title": "Private Investigations",
                 "performer": "Dire Straits"
               },
               {
-                "title": "Doo wop in Harlem",
+                "title": "Doo-Wop In Harlem",
                 "performer": "Prefab Sprout"
+              },
+              {
+                "title": "All That I Can Say",
+                "performer": "Gretchen Parlato"
               },
               {
                 "title": "Paris Match",
                 "performer": "Style Council"
               },
               {
-                "title": "All that I can say",
-                "performer": "Gretchen Parlato"
-              },
-              {
-                "title": "Cool out",
+                "title": "Cool Out",
                 "performer": "Leroy Hutson"
               }
             ]
