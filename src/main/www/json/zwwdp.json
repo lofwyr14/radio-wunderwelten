@@ -18831,7 +18831,7 @@
                 "performer": "Stephen Emmer"
               },
               {
-                "title": "Would You Like To Take A Walk? (Sump'n Good'll Come From That",
+                "title": "Would You Like To Take A Walk? (Sump'n Good'll Come From That)",
                 "performer": "She & Him"
               },
               {
@@ -18885,9 +18885,14 @@
           "id": "3",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2015-01-13",
+          "checked": {
+            "date": "2022-02-20",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Room Service",
                 "performer": "Fischer Z"
               },
@@ -18896,7 +18901,7 @@
                 "performer": "Divine Comedy"
               },
               {
-                "title": "Space (12 Version)",
+                "title": "Space, He Called From The Kitchen (12 Version)",
                 "performer": "It's Immaterial"
               },
               {
@@ -18938,6 +18943,7 @@
             ],
             [
               {
+                "time": "21:04",
                 "title": "Embarrassment",
                 "performer": "Madness"
               },
@@ -18954,6 +18960,10 @@
                 "performer": "Temple Cloud Country Club"
               },
               {
+                "title": "You & Me Song",
+                "performer": "The Wannadies"
+              },
+              {
                 "title": "You're The Best Find",
                 "performer": "Stuntmen"
               },
@@ -18966,7 +18976,7 @@
                 "performer": "Eels"
               },
               {
-                "title": "H.I.M.",
+                "title": "HLM",
                 "performer": "Moderato"
               },
               {
@@ -18992,7 +19002,8 @@
             ],
             [
               {
-                "title": "Brown Baby",
+                "time": "22:04",
+                "title": "Brown Baby (Alternate Version)",
                 "performer": "Diana Ross"
               },
               {
@@ -19034,6 +19045,10 @@
               {
                 "title": "Go Away Boy",
                 "performer": "The Pearlfishers"
+              },
+              {
+                "title": "Lujon",
+                "performer": "Henry Mancini"
               },
               {
                 "title": "Everybody's Got To Learn Sometimes",
