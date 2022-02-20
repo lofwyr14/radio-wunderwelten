@@ -70433,6 +70433,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "7",
+          "date": "2022-02-17",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Monday Morning 5:19",
+                "performer": "Rialto"
+              },
+              {
+                "time": "22:08",
+                "title": "Waves",
+                "performer": "The Soundcarriers"
+              },
+              {
+                "time": "22:12",
+                "title": "Now The Holiday's Over",
+                "performer": "The Hit Parade"
+              },
+              {
+                "time": "22:15",
+                "title": "Lost In The Sound",
+                "performer": "Tahiti 80"
+              },
+              {
+                "time": "22:19",
+                "title": "One Day",
+                "performer": "FredAtlast"
+              },
+              {
+                "time": "22:23",
+                "title": "Energie",
+                "performer": "Jean-Philippe Goude"
+              },
+              {
+                "time": "22:27",
+                "title": "Sun Outside My Window",
+                "performer": "Strawberry Guy"
+              },
+              {
+                "time": "22:32",
+                "title": "It's Been A Little Heavy Lately",
+                "performer": "Joesef"
+              },
+              {
+                "time": "22:35",
+                "title": "Lucky Ones",
+                "performer": "Castilho"
+              },
+              {
+                "time": "22:38",
+                "title": "So Pure",
+                "performer": "Kitty Liv & Nick Corbin Phono 48 feat. Laville"
+              },
+              {
+                "time": "22:43",
+                "title": "Keep Me Hangin'",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "22:47",
+                "title": "Bless My Soul",
+                "performer": "Shawn Lee & The Angels Of Libra"
+              },
+              {
+                "time": "22:52",
+                "title": "Good Love",
+                "performer": "Mamas Gun"
+              },
+              {
+                "time": "22:55",
+                "title": "Coming Back",
+                "performer": "Smoove feat. Jess Roberts"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Being Boring",
+                "performer": "Bernhard Eder"
+              },
+              {
+                "time": "23:08",
+                "title": "Little Earl",
+                "performer": "The Delines"
+              },
+              {
+                "time": "23:12",
+                "title": "Perfect Lovesong 2021",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "time": "23:15",
+                "title": "Stop",
+                "performer": "Lo Moon"
+              },
+              {
+                "time": "23:21",
+                "title": "Stop And Listen",
+                "performer": "Patti Drew"
+              },
+              {
+                "time": "23:23",
+                "title": "Flipside",
+                "performer": "Leisure"
+              },
+              {
+                "time": "23:27",
+                "title": "The Fox And The Pearl",
+                "performer": "Mr. and Mrs. Muffins feat. Melvin Knight"
+              },
+              {
+                "time": "23:31",
+                "title": "Out Of The Blue - Main Theme",
+                "performer": "theCatherines"
+              },
+              {
+                "time": "23:35",
+                "title": "Fear Of Flying",
+                "performer": "Mordecai Smyth"
+              },
+              {
+                "time": "23:39",
+                "title": "Shine On You Crazy Diamond",
+                "performer": "Christy Moore"
+              },
+              {
+                "time": "23:45",
+                "title": "Deacon Blues",
+                "performer": "Bill Callahan & Bonnie \"Prince\" Billy feat. Bill MacKay"
+              },
+              {
+                "time": "23:52",
+                "title": "Always On My Mind",
+                "performer": "Tex Crick"
+              },
+              {
+                "time": "23:55",
+                "title": "Moon River",
+                "performer": "Tanya Donelly"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
