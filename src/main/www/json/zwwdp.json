@@ -18835,11 +18835,11 @@
                 "performer": "She & Him"
               },
               {
-                "title": "Coming undone",
+                "title": "Coming Undone",
                 "performer": "The Sonic Executive Sessions"
               },
               {
-                "title": "Moments in love - Beaten",
+                "title": "Moments In Love - Beaten",
                 "performer": "The Art Of Noise"
               },
               {
@@ -19055,7 +19055,7 @@
                 "performer": "The Korgis"
               },
               {
-                "title": "Section 37 (You're golden)",
+                "title": "You're Golden",
                 "performer": "The Polyphonic Spree"
               },
               {
@@ -70277,6 +70277,10 @@
         {
           "id": "6",
           "date": "2022-02-10",
+          "checked": {
+            "date": "2022-02-13",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -70437,6 +70441,10 @@
         {
           "id": "7",
           "date": "2022-02-17",
+          "checked": {
+            "date": "2022-02-20",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -70487,7 +70495,7 @@
               {
                 "time": "22:38",
                 "title": "So Pure",
-                "performer": "Kitty Liv & Nick Corbin Phono 48 feat. Laville"
+                "performer": "Phono 48 feat. Laville, Kitty Liv & Nick Corbin"
               },
               {
                 "time": "22:43",
