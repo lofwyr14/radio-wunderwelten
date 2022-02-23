@@ -19073,9 +19073,14 @@
           "id": "4",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2015-01-20",
+          "checked": {
+            "date": "2022-02-23",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Don't Stop Believin'",
                 "performer": "Journey"
               },
@@ -19128,7 +19133,7 @@
                 "performer": "Squeeze"
               },
               {
-                "title": "Wishing On A Star",
+                "title": "Wishing On A Star (Single Version)",
                 "performer": "Paul Weller"
               },
               {
@@ -19138,11 +19143,12 @@
             ],
             [
               {
+                "time": "21:04",
                 "title": "The Scientist",
                 "performer": "Coldplay"
               },
               {
-                "title": "Livin' Thing",
+                "title": "Livin' Thing (New Version)",
                 "performer": "The Beautiful South"
               },
               {
@@ -19196,16 +19202,17 @@
             ],
             [
               {
+                "time": "22:04",
                 "title": "As",
                 "performer": "Stevie Wonder"
               },
               {
-                "title": "Moonlight Feels Right",
+                "title": "Moonlight Feels Right 2014",
                 "performer": "Bruce Blackman"
               },
               {
                 "title": "Highwayman",
-                "performer": "Jimmy Layne Webb"
+                "performer": "Jimmy Webb"
               },
               {
                 "title": "Let's Dance",
