@@ -70598,6 +70598,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "8",
+          "date": "2022-02-24",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "See You There",
+                "performer": "Andy Lewis feat. Lynda Lawrence"
+              },
+              {
+                "time": "22:07",
+                "title": "The Sun",
+                "performer": "Myd feat. Jawny"
+              },
+              {
+                "time": "22:10",
+                "title": "Numbers",
+                "performer": "Castilho"
+              },
+              {
+                "time": "22:13",
+                "title": "My Baby Just Cares For Me",
+                "performer": "HONNE Nina Simone"
+              },
+              {
+                "time": "22:17",
+                "title": "Keep It Up",
+                "performer": "Rex Orange County"
+              },
+              {
+                "time": "22:20",
+                "title": "Turn",
+                "performer": "Boulevards"
+              },
+              {
+                "time": "22:24",
+                "title": "Q4",
+                "performer": "Father John Misty"
+              },
+              {
+                "time": "22:30",
+                "title": "She Wants To See You Cry",
+                "performer": "Nature TV"
+              },
+              {
+                "time": "22:34",
+                "title": "Why Do I Always Fail To Win",
+                "performer": "Subterfuge"
+              },
+              {
+                "time": "22:38",
+                "title": "White Hood",
+                "performer": "Matt Berry"
+              },
+              {
+                "time": "22:42",
+                "title": "Thames",
+                "performer": "Garden Gate"
+              },
+              {
+                "time": "22:45",
+                "title": "Souvenir",
+                "performer": "Shawn Lee & The Angels Of Libra"
+              },
+              {
+                "time": "22:49",
+                "title": "Be My Valentine",
+                "performer": "Anthony Rochester & Marcus Campbell"
+              },
+              {
+                "time": "22:53",
+                "title": "Drowning In Plain Sight",
+                "performer": "The Delines"
+              },
+              {
+                "time": "22:58",
+                "title": "One Mint Julep",
+                "performer": "Ray Charles"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "The Ladder",
+                "performer": "Röyksopp"
+              },
+              {
+                "time": "23:10",
+                "title": "Jacob Rose",
+                "performer": "Andy Shauf"
+              },
+              {
+                "time": "23:13",
+                "title": "L'Opium",
+                "performer": "Athanase Granson"
+              },
+              {
+                "time": "23:16",
+                "title": "Espresso",
+                "performer": "Aaron Joseph Russo"
+              },
+              {
+                "time": "23:21",
+                "title": "Closest Thing To Heaven",
+                "performer": "The Kane Gang"
+              },
+              {
+                "time": "23:25",
+                "title": "Everglow National",
+                "performer": "Golden Retriever"
+              },
+              {
+                "time": "23:28",
+                "title": "Stay Home With Me",
+                "performer": "J. Lloyd"
+              },
+              {
+                "time": "23:30",
+                "title": "Bane",
+                "performer": "Alt-J"
+              },
+              {
+                "time": "23:35",
+                "title": "Suicide Is Painless (Theme From \"M.A.S.H.\")",
+                "performer": "Pizzicato One (feat. Roger Nichols & The Small Circle Of Friends)"
+              },
+              {
+                "time": "23:39",
+                "title": "Homburg",
+                "performer": "Procol Harum & Rob Keyloch"
+              },
+              {
+                "time": "23:53",
+                "title": "Rodeo",
+                "performer": "Bruno Nicolai"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
