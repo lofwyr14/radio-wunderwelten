@@ -70602,6 +70602,10 @@
         {
           "id": "8",
           "date": "2022-02-24",
+          "checked": {
+            "date": "2022-02-27",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -70621,8 +70625,8 @@
               },
               {
                 "time": "22:13",
-                "title": "My Baby Just Cares For Me",
-                "performer": "HONNE Nina Simone"
+                "title": "My Baby Just Cares For Me (HONNE Remix)",
+                "performer": "Nina Simone"
               },
               {
                 "time": "22:17",
@@ -70728,13 +70732,18 @@
               },
               {
                 "time": "23:39",
-                "title": "Homburg",
+                "title": "Homburg (50th Anniversary Full Length Stereo)",
                 "performer": "Procol Harum & Rob Keyloch"
+              },
+              {
+                "time": "23:47",
+                "title": "Dreamland",
+                "performer": "Amos Lee"
               },
               {
                 "time": "23:53",
                 "title": "Rodeo",
-                "performer": "Bruno Nicolai"
+                "performer": "Bruno Nicolai / Ennio Morricone"
               },
               {
                 "time": "23:57",
