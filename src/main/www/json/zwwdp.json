@@ -26310,9 +26310,15 @@
           "id": "1",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2016-01-05",
+          "checked": {
+            "date": "2022-02-27",
+            "user": "jg"
+          },
+
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Billy",
                 "performer": "Prefab Sprout"
               },
@@ -26333,12 +26339,12 @@
                 "performer": "The Jack Moves"
               },
               {
-                "title": "Spooky (Loopin Trippy Breaks ReDub)",
-                "performer": "Dusty Springfield"
-              },
-              {
                 "title": "Chasing The Tail Of A Dream",
                 "performer": "The Coral"
+              },
+              {
+                "title": "Spooky (Loopin Trippy Breaks ReDub)",
+                "performer": "Dusty Springfield"
               },
               {
                 "title": "Grey Lanes",
@@ -26353,12 +26359,12 @@
                 "performer": "Paul Steel"
               },
               {
-                "title": "Last Time Forever",
-                "performer": "Squeeze"
-              },
-              {
                 "title": "Blown Rose",
                 "performer": "Blossoms"
+              },
+              {
+                "title": "Last Time Forever",
+                "performer": "Squeeze"
               },
               {
                 "title": "Spring Breathes",
@@ -26371,6 +26377,7 @@
             ],
             [
               {
+                "time": "21:04",
                 "title": "On And On",
                 "performer": "Steve Cradock"
               },
@@ -26388,7 +26395,7 @@
               },
               {
                 "title": "Coming Back",
-                "performer": "Jess Roberts"
+                "performer": "Smoove feat. Jess Roberts"
               },
               {
                 "title": "White Gloves",
@@ -26411,20 +26418,8 @@
                 "performer": "David Bowie"
               },
               {
-                "title": "Into The Light",
-                "performer": "Sundowners"
-              },
-              {
-                "title": "A Promise Kept",
+                "title": "A Promise Kept (HINWEIS: Lied später umbenannt in 'Major Seventh')",
                 "performer": "The Fiction Aisle"
-              },
-              {
-                "title": "Each & Everyone",
-                "performer": "The Fiction Aisle"
-              },
-              {
-                "title": "Essensimo",
-                "performer": "Soré"
               },
               {
                 "title": "Solid Gold (Instrumental)",
@@ -26433,6 +26428,7 @@
             ],
             [
               {
+                "time": "22:04",
                 "title": "If He Ever Should Leave You",
                 "performer": "Tom Jones"
               },
@@ -26445,20 +26441,24 @@
                 "performer": "Joel Sarakula"
               },
               {
-                "title": "Games Without Frontieres (DB Remix)",
+                "title": "Games Without Frontieres (Massive/DB Mix)",
                 "performer": "Peter Gabriel"
               },
               {
-                "title": "What A Wonderful World",
-                "performer": "Shawn Lee's Ping Pong Orch."
+                "title": "Spectre",
+                "performer": "Radiohead"
               },
               {
-                "title": "Suzanne",
-                "performer": "Gary McFarland"
+                "title": "What A Wonderful World",
+                "performer": "Shawn Lee's Ping Pong Orchestra"
               },
               {
                 "title": "I Can't Go For That",
                 "performer": "Rumer"
+              },
+              {
+                "title": "Suzanne",
+                "performer": "Gary McFarland"
               },
               {
                 "title": "Lose That Way",
