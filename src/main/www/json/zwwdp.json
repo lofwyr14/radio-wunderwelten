@@ -70755,6 +70755,10 @@
         {
           "id": "9",
           "date": "2022-03-03",
+          "checked": {
+            "date": "2022-03-05",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -70788,6 +70792,11 @@
                 "performer": "White Lies"
               },
               {
+                "time": "22:30",
+                "title": "The Secret",
+                "performer": "Pau"
+              },
+              {
                 "time": "22:34",
                 "title": "Two Satellites",
                 "performer": "Someone feat. C. Duncan"
@@ -70815,7 +70824,7 @@
               {
                 "time": "22:56",
                 "title": "The Metropolis",
-                "performer": "Mr. and Mrs. Muffins"
+                "performer": "Mr. And Mrs. Muffins"
               },
               {
                 "time": "22:58",
@@ -70841,7 +70850,7 @@
               },
               {
                 "time": "23:17",
-                "title": "Snø",
+                "title": "Snø (Vil Fale Over Snø Som Har Falt)",
                 "performer": "Sapphire & Steel"
               },
               {
@@ -70856,12 +70865,12 @@
               },
               {
                 "time": "23:30",
-                "title": "Wild Is The Wind",
+                "title": "Wild Is The Wind (Live At Town Hall)",
                 "performer": "Nina Simone"
               },
               {
                 "time": "23:33",
-                "title": "Lover, You ShouldVe Come Over",
+                "title": "Lover, You Should've Come Over",
                 "performer": "Jordan Rakei"
               },
               {
@@ -70873,6 +70882,11 @@
                 "time": "23:40",
                 "title": "I'd Be Happy",
                 "performer": "Swing Out Sister"
+              },
+              {
+                "time": "23:44",
+                "title": "You Showed Me",
+                "performer": "Vinyl Williams"
               },
               {
                 "time": "23:47",
