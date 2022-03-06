@@ -26486,9 +26486,14 @@
           "id": "3",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2016-01-19",
+          "checked": {
+            "date": "2022-03-06",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Face The Face",
                 "performer": "Pete Townsend"
               },
@@ -26513,12 +26518,12 @@
                 "performer": "Midlake"
               },
               {
-                "title": "Duet (feat. Felicia Douglass)",
-                "performer": "Diane Coffee"
-              },
-              {
                 "title": "Doublin' Down",
                 "performer": "The Jack Moves"
+              },
+              {
+                "title": "Duet (feat. Felicia Douglass)",
+                "performer": "Diane Coffee"
               },
               {
                 "title": "Blue",
@@ -26537,21 +26542,18 @@
                 "performer": "Khruangbin"
               },
               {
-                "title": "Feels Like Something",
-                "performer": "The Brigadier"
-              },
-              {
                 "title": "Time (Clock of the Heart) [Blank & Jones so80s Extended Reconstruction]",
                 "performer": "Culture Club"
               }
             ],
             [
               {
+                "time": "21:04",
                 "title": "Northern Soul",
                 "performer": "Joel Sarakula"
               },
               {
-                "title": "Serious",
+                "title": "Serious (Single Edit)",
                 "performer": "Duran Duran"
               },
               {
@@ -26575,12 +26577,12 @@
                 "performer": "Cosmic Rough Riders"
               },
               {
-                "title": "Melody In High Feedback Tones",
-                "performer": "Cavern Of Anti Matter"
+                "title": "Say Say Say (2015 Remix)",
+                "performer": "Paul Mc Cartney & Michael Jackson"
               },
               {
-                "title": "Say Say Say (2015 Remix)",
-                "performer": "Paul Mc Cartney and Michael Jackson"
+                "title": "Melody In High Feedback Tones",
+                "performer": "Cavern Of Anti Matter"
               },
               {
                 "title": "Shark Ridden Waters",
@@ -26595,8 +26597,8 @@
                 "performer": "Hawkwind"
               },
               {
-                "title": "Rose Hip November",
-                "performer": "Beautify Junkyards"
+                "title": "Feels Like Something",
+                "performer": "The Brigadier"
               },
               {
                 "title": "Sky High",
@@ -26605,6 +26607,7 @@
             ],
             [
               {
+                "time": "22:04",
                 "title": "Wide Eyed And Legless",
                 "performer": "Georgie Fame"
               },
@@ -26651,10 +26654,6 @@
               {
                 "title": "Stormy",
                 "performer": "Blossoms"
-              },
-              {
-                "title": "Antartica Starts Here",
-                "performer": "John Cale"
               },
               {
                 "title": "Presentation Piece #1",
