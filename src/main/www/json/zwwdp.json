@@ -26616,7 +26616,7 @@
                 "performer": "Karminsky Experience"
               },
               {
-                "title": "Wichita Lineman",
+                "title": "Wichita Lineman (Live At RAK)",
                 "performer": "Villagers"
               },
               {
@@ -26666,9 +26666,14 @@
           "id": "4",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2016-01-26",
+          "checked": {
+            "date": "2022-03-08",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "The Changingman",
                 "performer": "Paul Weller"
               },
@@ -26697,7 +26702,7 @@
                 "performer": "Bill Pritchard"
               },
               {
-                "title": "When Love Breaks Down",
+                "title": "When Love Breaks Down (Single Version)",
                 "performer": "Prefab Sprout"
               },
               {
@@ -26731,6 +26736,7 @@
             ],
             [
               {
+                "time": "21:04",
                 "title": "Steam",
                 "performer": "Peter Gabriel"
               },
@@ -26739,7 +26745,7 @@
                 "performer": "The Smoke"
               },
               {
-                "title": "Hey There Look At You, Unravelling",
+                "title": "Hey There Look At You, Unravelling (Wonderfulsound Remix)",
                 "performer": "Coco Steel & Lovebomb"
               },
               {
@@ -26785,6 +26791,7 @@
             ],
             [
               {
+                "time": "22:04",
                 "title": "Are You Going Out Tonight",
                 "performer": "Joel Sarakula"
               },
@@ -26813,7 +26820,7 @@
                 "performer": "Benjamin Biolay & Chiara Mastroianni"
               },
               {
-                "title": "Set The Tigers Free",
+                "title": "Set The Tigers Free (Live At RAK)",
                 "performer": "Villagers"
               },
               {
