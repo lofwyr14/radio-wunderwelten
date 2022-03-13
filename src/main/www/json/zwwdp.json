@@ -70951,6 +70951,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "10",
+          "date": "2022-03-10",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Airport",
+                "performer": "The Motors"
+              },
+              {
+                "time": "22:08",
+                "title": "Heaven",
+                "performer": "C Duncan"
+              },
+              {
+                "time": "22:12",
+                "title": "Long, Long, Long Time",
+                "performer": "Tears For Fears"
+              },
+              {
+                "time": "22:16",
+                "title": "To The Wild",
+                "performer": "Ruhmer"
+              },
+              {
+                "time": "22:20",
+                "title": "The Mauritian Badminton Doubles Champion, 1973",
+                "performer": "Hamis Hawk"
+              },
+              {
+                "time": "22:23",
+                "title": "Missing You",
+                "performer": "Robert Cotter"
+              },
+              {
+                "time": "22:27",
+                "title": "Adult Rock",
+                "performer": "Ducktails"
+              },
+              {
+                "time": "22:30",
+                "title": "Light A Fire",
+                "performer": "Modern Studies"
+              },
+              {
+                "time": "22:33",
+                "title": "Stop",
+                "performer": "Lo Moon"
+              },
+              {
+                "time": "22:38",
+                "title": "Dreaming Of 4000",
+                "performer": "Electric Light Orchestra"
+              },
+              {
+                "time": "22:45",
+                "title": "Search For Inner Self",
+                "performer": "Jon Lucien"
+              },
+              {
+                "time": "22:48",
+                "title": "Glide",
+                "performer": "Mocky"
+              },
+              {
+                "time": "22:52",
+                "title": "Cool Coronas",
+                "performer": "Prins Thomas feat. John Carroll Kirby"
+              },
+              {
+                "time": "22:57",
+                "title": "Theme From Gameplan",
+                "performer": "The Dandelion Set"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "You'Re Gonna Make Me Lonesome When You Go",
+                "performer": "Madeleine Peyroux"
+              },
+              {
+                "time": "23:07",
+                "title": "I Love You",
+                "performer": "Joe Mubare"
+              },
+              {
+                "time": "23:11",
+                "title": "Good Times",
+                "performer": "Minden"
+              },
+              {
+                "time": "23:14",
+                "title": "Stormy",
+                "performer": "Bobbie Gentry"
+              },
+              {
+                "time": "23:17",
+                "title": "You'Re The Best Find",
+                "performer": "Stuntmen"
+              },
+              {
+                "time": "23:22",
+                "title": "Byzantium",
+                "performer": "The Aluminum Group"
+              },
+              {
+                "time": "23:25",
+                "title": "Hold On (I Feel Our Love Is Changing)",
+                "performer": "B. B. King"
+              },
+              {
+                "time": "23:30",
+                "title": "Cry Baby Cry",
+                "performer": "Ramsey Lewis"
+              },
+              {
+                "time": "23:33",
+                "title": "I'Ve Been Dreaming Of",
+                "performer": "J. Lloyd"
+              },
+              {
+                "time": "23:36",
+                "title": "Lujon",
+                "performer": "Dan Fontaine & His Orchestra"
+              },
+              {
+                "time": "23:40",
+                "title": "(L'Été Indien) Indian Summer",
+                "performer": "Nancy Sinatra & Lee Hazlewood"
+              },
+              {
+                "time": "23:44",
+                "title": "The Chauffeur",
+                "performer": "Duran Duran"
+              },
+              {
+                "time": "23:53",
+                "title": "Arnd Walks Home After The Show",
+                "performer": "The Fisherman and his Soul"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
