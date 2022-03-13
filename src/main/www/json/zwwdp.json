@@ -26854,9 +26854,14 @@
           "id": "5",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2016-02-02",
+          "checked": {
+            "date": "2022-03-13",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "Are Friends Electric?",
                 "performer": "Tubeway Army"
               },
@@ -26865,7 +26870,7 @@
                 "performer": "The B-52's"
               },
               {
-                "title": "Saturn and Co",
+                "title": "Saturn And Co",
                 "performer": "Bill Pritchard"
               },
               {
@@ -26877,15 +26882,15 @@
                 "performer": "The Fiction Aisle"
               },
               {
-                "title": "Silent to The Dark II",
+                "title": "Silent To The Dark II",
                 "performer": "The Electric Soft Parade"
               },
               {
-                "title": "Cradle to the grave",
+                "title": "Cradle To The Grave",
                 "performer": "Squeeze"
               },
               {
-                "title": "Aquarius - Let the Sunshine In (The Flesh Failures)",
+                "title": "Aquarius - Let The Sunshine In (The Flesh Failures)",
                 "performer": "The 5th Dimension"
               },
               {
@@ -26893,7 +26898,7 @@
                 "performer": "The Coral"
               },
               {
-                "title": "Tears of a Clown",
+                "title": "Tears Of A Clown",
                 "performer": "The Merton Parkas"
               },
               {
@@ -26901,8 +26906,12 @@
                 "performer": "Bloc Party"
               },
               {
-                "title": "Here Come the Rattling Trees",
+                "title": "Here Come The Rattling Trees",
                 "performer": "The High Llamas"
+              },
+              {
+                "title": "I See Sadness",
+                "performer": "Paul Steel"
               },
               {
                 "title": "The Way I Feel Inside",
@@ -26911,7 +26920,8 @@
             ],
             [
               {
-                "title": "Cars and Girls",
+                "time": "21:04",
+                "title": "Cars And Girls",
                 "performer": "Prefab Sprout"
               },
               {
@@ -26919,7 +26929,15 @@
                 "performer": "Turin Brakes"
               },
               {
-                "title": "Another Brick in the Wall (Part 1)",
+                "title": "Another Brick In The Wall (Part 1)",
+                "performer": "Pink Floyd"
+              },
+              {
+                "title": "The Happiest Days Of Our Lives",
+                "performer": "Pink Floyd"
+              },
+              {
+                "title": "Another Brick In The Wall (Part 2)",
                 "performer": "Pink Floyd"
               },
               {
@@ -26927,7 +26945,7 @@
                 "performer": "Joel Sarakula"
               },
               {
-                "title": "The World Is Hollow and I Touched the Sky",
+                "title": "The World Is Hollow And I Touched The Sky",
                 "performer": "The Chemistry Set"
               },
               {
@@ -26947,6 +26965,10 @@
                 "performer": "Ben Folds Five"
               },
               {
+                "title": "Starman",
+                "performer": "Milky Edwards And The Chamberlings"
+              },
+              {
                 "title": "Get Back",
                 "performer": "Gary McFarland"
               },
@@ -26957,15 +26979,16 @@
             ],
             [
               {
-                "title": "Do nothing",
+                "time": "22:04",
+                "title": "Do Nothing",
                 "performer": "The Specials"
               },
               {
-                "title": "Each & Every One",
-                "performer": "Everything But the Girl"
+                "title": "Each & Every One (Home Demo)",
+                "performer": "Everything But The Girl"
               },
               {
-                "title": "Everything I am Is Yours",
+                "title": "Everything I Am Is Yours (LIve At RAK)",
                 "performer": "Villagers"
               },
               {
@@ -26981,6 +27004,10 @@
                 "performer": "Ennio Morricone"
               },
               {
+                "title": "Solitude",
+                "performer": "Braden Nelson feat. Samantha Lee"
+              },
+              {
                 "title": "Another Week",
                 "performer": "Daniel Carlson"
               },
@@ -26989,11 +27016,19 @@
                 "performer": "C. Duncan"
               },
               {
-                "title": "Sweet Thing - Candidate - Sweet Thing Reprise",
+                "title": "Sweet Thing",
                 "performer": "David Bowie"
               },
               {
-                "title": "Now you're Not Here",
+                "title": "Candidate",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Sweet Thing (Reprise)",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Now You're Not Here",
                 "performer": "Swing Out Sister"
               },
               {
@@ -27002,7 +27037,7 @@
               },
               {
                 "title": "Good Night",
-                "performer": "The Moog Beatles"
+                "performer": "Marty Gold / The Moog Beatles"
               }
             ]
           ]
