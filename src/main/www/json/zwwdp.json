@@ -70955,6 +70955,10 @@
         {
           "id": "10",
           "date": "2022-03-10",
+          "checked": {
+            "date": "2022-03-14",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -71009,7 +71013,7 @@
               },
               {
                 "time": "22:45",
-                "title": "Search For Inner Self",
+                "title": "Search For The Inner Self",
                 "performer": "Jon Lucien"
               },
               {
@@ -71090,9 +71094,14 @@
                 "performer": "Duran Duran"
               },
               {
+                "time": "23:49",
+                "title": "God Complex",
+                "performer": "Gentle Party"
+              },
+              {
                 "time": "23:53",
                 "title": "Arnd Walks Home After The Show",
-                "performer": "The Fisherman and his Soul"
+                "performer": "The Fisherman And His Soul"
               },
               {
                 "time": "23:57",
