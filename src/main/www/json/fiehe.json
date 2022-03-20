@@ -6968,6 +6968,7 @@
         {
           "id": "4",
           "date": "2022-01-23",
+          "checked": {"date": "2022-03-20", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Heute", "performer": "Vomit Heat with International Music"},
@@ -7007,7 +7008,7 @@
               { "title": "Ride", "performer": "Mr. Sosa"},
               { "title": "Like A Dog", "performer": "Reptaliens"},
               { "title": "Machina", "performer": "Boy Harsher"},
-              { "title": "Nightlight", "performer": "Cold Cave"},
+              { "title": "Night Light", "performer": "Cold Cave"},
               { "title": "Sad Paradise", "performer": "Black Doldrums"},
               { "title": "The Incident", "performer": "Yard Act"},
               { "title": "Archive Material", "performer": "Silverbacks"}
