@@ -6921,6 +6921,7 @@
         {
           "id": "3",
           "date": "2022-01-16",
+          "checked": {"date": "2022-03-19", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Heute", "performer": "Vomit Heat with International Music"},
@@ -6931,7 +6932,7 @@
               { "title": "Vega", "performer": "Logistics"},
               { "title": "Somewhere", "performer": "Grafix feat. Reiki Ruawei"},
               { "title": "C´mon People", "performer": "Richard Ashcroft feat. Liam Gallagher"},
-              { "title": "The Line Is A Curve", "performer": "Kae Tempest feat. Kevin Abstract"},
+              { "title": "More Pressure", "performer": "Kae Tempest feat. Kevin Abstract"},
               { "title": "Would You Believe (Sebra Cruz Remix)", "performer": "Catz `N Dogz feat. Jono McCleery"},
               { "title": "Love Boat", "performer": "MDM Factory"},
               { "title": "Cannibal Capitol", "performer": "Guerilla Toss"},
@@ -6948,7 +6949,8 @@
               { "title": "Cassandra", "performer": "Garcia Peoples"},
               { "title": "Grandier", "performer": "Fazer"},
               { "title": "Minneapolis", "performer": "JuJu Rogers feat. Mick Jenkins"},
-              { "title": "Holiday From Reality", "performer": "Poppy Ajudha"}
+              { "title": "Holiday From Reality", "performer": "Poppy Ajudha"},
+              { "title": "Rite Of Passage", "performer": "Manuel Tur"}
             ],
             [
               { "time": "00:04", "title": "Wired", "performer": "Isoscope"},
@@ -6959,7 +6961,7 @@
               { "title": "Killing", "performer": "Helmut"},
               { "title": "Momma´s Hood", "performer": "Cordae"},
               { "title": "Bethel Woods", "performer": "Midlake"},
-              { "title": "Thick As A Brick", "performer": "Jethro Tull"}
+              { "title": "Really Don't Mind / See There A Son Is Born (Thick As A Brick (Pt. 1))", "performer": "Jethro Tull"}
             ]
           ]
         },
@@ -6971,15 +6973,15 @@
               { "time": "22:04", "title": "Heute", "performer": "Vomit Heat with International Music"},
               { "title": "Glauben", "performer": "Kratzen"},
               { "title": "Far", "performer": "Potter Payper"},
-              { "title": "Skurr", "performer": "Horrid1 & Savo    "},
+              { "title": "Skurr", "performer": "Horrid1 & Savo"},
               { "title": "Happy Slap", "performer": "Kilo Jugg"},
-              { "title": "Wildest", "performer": "Horrid1 & Savo "},
+              { "title": "Wildest", "performer": "Horrid1 & Savo"},
               { "title": "Darjeeling", "performer": "FKA Twigs feat. Jorja Smith & Unknown T"},
               { "title": "Taid", "performer": "Alex Jones"},
               { "title": "Schwarzhalstaucher", "performer": "Dominik Eulberg"},
               { "title": "Friends Ahga", "performer": "Jana Horn"},
               { "title": "Performance", "performer": "Modern Nature"},
-              { "title": "Cobalan ", "performer": "Blutch"}
+              { "title": "Cobalan", "performer": "Blutch"}
             ],
             [
               { "time": "23:04", "title": "Tell Me", "performer": "T. Williams"},
@@ -6998,7 +7000,7 @@
               { "time": "00:04", "title": "Honda", "performer": "FKA Twigs feat. Pa Salieu"},
               { "title": "Ready", "performer": "Horrid1 & Savo feat. Black Haze"},
               { "title": "What Am I Gonna Do", "performer": "DOTT"},
-              { "title": "Close", "performer": " Because Of Art feat. Ayah Marar"},
+              { "title": "Close", "performer": "Because Of Art feat. Ayah Marar"},
               { "title": "River", "performer": "Blutch"},
               { "title": "Sour", "performer": "Yatuza"},
               { "title": "Blips", "performer": "Alix Perez & DLR"},
