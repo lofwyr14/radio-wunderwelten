@@ -7018,6 +7018,7 @@
         {
           "id": "5",
           "date": "2022-01-30",
+          "checked": {"date": "2022-03-24", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Postman", "performer": "Toro Y Moi"},
@@ -7053,8 +7054,8 @@
               { "title": "Der Mieter (Version)", "performer": "Toto Belmont & Messer"},
               { "title": "Don´t Stop", "performer": "&on&on"},
               { "title": "Lolytrance (Pluck Version)", "performer": "Antigone"},
-              { "title": "Nie Wieder Krieg", "performer": "Tocotronic"},
-              { "title": "Ich Hasse Es Hier", "performer": "Tocotronic"}
+              { "title": "Nie wieder Krieg", "performer": "Tocotronic"},
+              { "title": "Ich hasse es hier", "performer": "Tocotronic"}
             ]
           ]
         },
