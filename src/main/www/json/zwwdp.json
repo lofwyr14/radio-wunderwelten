@@ -71269,6 +71269,146 @@
               }
             ]
           ]
+        },
+        {
+          "id": "12",
+          "date": "2022-03-24",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Pi",
+                "performer": "Ginger Root"
+              },
+              {
+                "time": "22:06",
+                "title": "Got To Get You Into My Life",
+                "performer": "Cliff Bennett & The Rebel Rousers"
+              },
+              {
+                "time": "22:09",
+                "title": "Lloyd, I'm Ready To Be Heartbroken",
+                "performer": "Camera Obscura"
+              },
+              {
+                "time": "22:13",
+                "title": "I'Ve Had Enough I'm Out",
+                "performer": "The Boo Radleys"
+              },
+              {
+                "time": "22:16",
+                "title": "Everything At The End Of Everything",
+                "performer": "My Sad Captains"
+              },
+              {
+                "time": "22:20",
+                "title": "Have Fun Tonight",
+                "performer": "Paper Satellites"
+              },
+              {
+                "time": "22:25",
+                "title": "My Name Is Jack",
+                "performer": "Pizzicato Five"
+              },
+              {
+                "time": "22:31",
+                "title": "Sun Goes Down",
+                "performer": "Joel Sarakula"
+              },
+              {
+                "time": "22:41",
+                "title": "Golden Rope",
+                "performer": "Bulgarian Cartrader"
+              },
+              {
+                "time": "22:44",
+                "title": "Kind Of A Nice Time",
+                "performer": "Vansire"
+              },
+              {
+                "time": "22:48",
+                "title": "Amazing",
+                "performer": "Rex Orange County"
+              },
+              {
+                "time": "22:51",
+                "title": "It Happens All The Time",
+                "performer": "Paul Cherry"
+              },
+              {
+                "time": "22:56",
+                "title": "St. Tropez",
+                "performer": "Buhai"
+              },
+              {
+                "time": "22:59",
+                "title": "Bikini Fantasy",
+                "performer": "Alex Puddu"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "You Keep Me Hanging On",
+                "performer": "Lamont Dozier feat. Rumer"
+              },
+              {
+                "time": "23:08",
+                "title": "Why Are You Hiding Away?",
+                "performer": "Dan Croll"
+              },
+              {
+                "time": "23:11",
+                "title": "Music",
+                "performer": "Cleo Sol"
+              },
+              {
+                "time": "23:17",
+                "title": "Berwick Street Blue",
+                "performer": "Wyllowe"
+              },
+              {
+                "time": "23:21",
+                "title": "Anchor The Clouds",
+                "performer": "Butter Bath"
+              },
+              {
+                "time": "23:28",
+                "title": "Goodbye Mr. Blue",
+                "performer": "Father John Misty"
+              },
+              {
+                "time": "23:34",
+                "title": "Seagulls On A Frozen Lake",
+                "performer": "The Hepburns feat. Estella Rosa"
+              },
+              {
+                "time": "23:37",
+                "title": "Open A Window",
+                "performer": "The Creator Rex Orange County x Tyler"
+              },
+              {
+                "time": "23:41",
+                "title": "Feast Of Carrion",
+                "performer": "Midlake"
+              },
+              {
+                "time": "23:45",
+                "title": "Moment In Paradise",
+                "performer": "Electric Light Orchestra"
+              },
+              {
+                "time": "23:56",
+                "title": "Such A Night",
+                "performer": "Dr. John"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
