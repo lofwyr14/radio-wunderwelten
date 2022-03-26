@@ -7062,12 +7062,13 @@
         {
           "id": "6",
           "date": "2022-02-06",
+          "checked": {"date": "2022-03-26", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Winged (Aurora Halal Remix)", "performer": "Priori"},
               { "title": "No More Kissing In The Rain", "performer": "Trentemøller"},
               { "title": "The Truth", "performer": "I Like Trains"},
-              { "title": "Siyobonga", "performer": "Scratcha DVA feat. DemiMa"},
+              { "title": "Siyobonga (Extended Version)", "performer": "Scratcha DVA feat. DemiMa"},
               { "title": "TMMD (IMMMD)", "performer": "DJ Python"},
               { "title": "Last Home (DJ Nature Remix)", "performer": "Typesun"},
               { "title": "Champion", "performer": "Warpaint"},
@@ -7078,7 +7079,7 @@
             ],
             [
               { "time": "23:04", "title": "Mineral Mine", "performer": "Adam Pits"},
-              { "title": "Cooly G DJ Mix", "performer": "Fuzzy Logik/Cooly G/ Audio Halls Beat  Vs Cooly G"},
+              { "title": "Cooly G DJ Mix", "performer": "Fuzzy Logik/Cooly G/ Audio Halls Beat vs Cooly G"},
               { "title": "Agression", "performer": "KTM"},
               { "title": "Veil Of White", "performer": "Trentemøller"},
               { "title": "Eyes Alive", "performer": "HVOB"},
