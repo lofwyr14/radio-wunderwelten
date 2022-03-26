@@ -71273,6 +71273,10 @@
         {
           "id": "12",
           "date": "2022-03-24",
+          "checked": {
+            "date": "2022-03-26",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -71314,6 +71318,11 @@
                 "time": "22:31",
                 "title": "Sun Goes Down",
                 "performer": "Joel Sarakula"
+              },
+              {
+                "time": "22:35",
+                "title": "Family Affair (Reflex Revision Remix)",
+                "performer": "Sly & The Family Stone"
               },
               {
                 "time": "22:41",
@@ -71373,6 +71382,11 @@
                 "performer": "Butter Bath"
               },
               {
+                "time": "23:24",
+                "title": "Countryside",
+                "performer": "Marco Odino"
+              },
+              {
                 "time": "23:28",
                 "title": "Goodbye Mr. Blue",
                 "performer": "Father John Misty"
@@ -71385,7 +71399,7 @@
               {
                 "time": "23:37",
                 "title": "Open A Window",
-                "performer": "The Creator Rex Orange County x Tyler"
+                "performer": "Rex Orange County feat. Tyler, The Creator "
               },
               {
                 "time": "23:41",
@@ -71396,6 +71410,11 @@
                 "time": "23:45",
                 "title": "Moment In Paradise",
                 "performer": "Electric Light Orchestra"
+              },
+              {
+                "time": "23:49",
+                "title": "Ghosts Of Belgravia",
+                "performer": "Mister Fusty"
               },
               {
                 "time": "23:56",
