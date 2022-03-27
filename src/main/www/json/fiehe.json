@@ -7109,6 +7109,7 @@
         {
           "id": "7",
           "date": "2022-02-13",
+          "checked": {"date": "2022-03-27", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Dead Or Alive", "performer": "Trentemøller"},
@@ -7137,12 +7138,10 @@
               { "title": "Sugar Hiccub", "performer": "Cocteau Twins"},
               { "title": "Vertigo", "performer": "Edwin Rosen"},
               { "title": "Far Away", "performer": "Trupa Trupa"},
-              { "title": "Little Things", "performer": "Big Thief"},
-              { "title": "On Fye", "performer": "The Simps"},
-              { "title": "Come Back To Surprise", "performer": "Permafrost"}
+              { "title": "Little Things", "performer": "Big Thief"}
             ],
             [
-              { "time": "00:04", "title": "The Fool", "performer": "Big Thief"},
+              { "time": "00:04", "title": "Blurred View", "performer": "Big Thief"},
               { "title": "Back2Back", "performer": "PR Sad & Dopesmoke"},
               { "title": "#6", "performer": "Hoodblaq"},
               { "title": "Gaza", "performer": "TS Lagga"},
