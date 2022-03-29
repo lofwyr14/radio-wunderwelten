@@ -7161,9 +7161,10 @@
         {
           "id": "8",
           "date": "2022-02-20",
+          "checked": {"date": "2022-03-29", "user": "jg"},
           "songs": [
             [
-              { "time": "22:04", "title": "Lieder Aus Der Kurve", "performer": "Emscherkurve 77"},
+              { "time": "22:04", "title": "Lieder aus der Kurve", "performer": "Emscherkurve 77"},
               { "title": "Shine", "performer": "Robert Glasper, D Smoke, Tiffany Gouche"},
               { "title": "#1", "performer": "Fatima & Joe Armon-Jones"},
               { "title": "3D Warrior (Mala´s Souljah VIP Remix)", "performer": "Nightmares On Wax"},
@@ -7176,7 +7177,7 @@
             ],
             [
               { "time": "23:04", "title": "Tohuwabohu", "performer": "Swutscher"},
-              { "title": "Sugar Slip", "performer": "Leon Vynehall"},
+              { "title": "Sugar Slip (The Lick)", "performer": "Leon Vynehall"},
               { "title": "Flep", "performer": "Mitekiss"},
               { "title": "See You", "performer": "Dejector & Kloyd"},
               { "title": "Reapers", "performer": "Metropolitan Soul Museum"},
