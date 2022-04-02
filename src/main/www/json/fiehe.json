@@ -7252,6 +7252,7 @@
         {
           "id": "10",
           "date": "2022-03-06",
+          "checked": {"date": "2022-04-02", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Love Is", "performer": "Danny B"},
@@ -7376,7 +7377,7 @@
               { "title": "Strip Club", "performer": "Moonchild Sanelly feat. Ghetts"},
               { "title": "Come By The River (Om Unit Remix)", "performer": "The Science"},
               { "title": "Open Ya Mind", "performer": "Cypress Hill"},
-              { "title": "Japan", "performer": "Bodysync feat. Devin Morrison      "},
+              { "title": "Japan", "performer": "Bodysync feat. Devin Morrison"},
               { "title": "Isla", "performer": "Tibi Dabo"},
               { "title": "Hard Drive Gold (Maya Jane Coles Remix)", "performer": "alt-J"},
               { "title": "Tides Confusion", "performer": "Blue States"},
