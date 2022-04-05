@@ -7388,6 +7388,54 @@
               { "title": "Explorer", "performer": "Makoto feat. Degs"}
             ]
           ]
+        },
+        {
+          "id": "13",
+          "date": "2022-03-27",
+          "songs": [
+            [
+              { "time": "22:04", "title": "You Drive Away", "performer": "Ocean Colour Scene"},
+              { "title": "Waiting On A War", "performer": "Foo Fighters"},
+              { "title": "Close", "performer": "Because Of Art feat. Ayah Marar"},
+              { "title": "Pinky Ring", "performer": "Joy Orbison"},
+              { "title": "Joy Of Pain", "performer": "Mr. Sosa"},
+              { "title": "Flowers In Bloom", "performer": "Mr. Sosa"},
+              { "title": "Come With Me", "performer": "Cypress Hill"},
+              { "title": "Worst Comes To Worst", "performer": "Denzel Curry"},
+              { "title": "Terno", "performer": "Fooks Nihil"},
+              { "title": "Passersby", "performer": "Quilt"},
+              { "title": "Behind Your Eyes", "performer": "Ghost Woman"},
+              { "title": "Dirty", "performer": "Rema"},
+              { "title": "Sete", "performer": "Blond:ish, Francis Mercier & Amadou&Mariam"}
+            ],
+            [
+              { "time": "23:04", "title": "Frankie", "performer": "Barrie"},
+              { "title": "Widow", "performer": "Working Men´s Club"},
+              { "title": "Divine Intervention", "performer": "PVA"},
+              { "title": "Cry Mfer", "performer": "My Idea"},
+              { "title": "I Raise You (The Price Of Your Head)", "performer": "Folly Group"},
+              { "title": "Paying The Price", "performer": "Folly Group"},
+              { "title": "The Counting Tune", "performer": "Technicolour"},
+              { "title": "Hit That", "performer": "Dynamite MC feat. Danny Byrd"},
+              { "title": "Love The Way", "performer": "Lally & Lens"},
+              { "title": "Stayed The Same", "performer": "Alix Perez feat. Verbz"},
+              { "title": "Bulerias", "performer": "Rosalia"},
+              { "title": "My Home Is My Heart", "performer": "Get Well Soon"},
+              { "title": "Brooklyn Ballers", "performer": "Jitwam"}
+            ],
+            [
+              { "time": "00:04", "title": "The Lightning I, II", "performer": "Arcade Fire"},
+              { "title": "Mystery", "performer": "Donatello"},
+              { "title": "Take Over Fjorden", "performer": "Prins Thomas"},
+              { "title": "Immunity", "performer": "Kasablanca"},
+              { "title": "Lodger", "performer": "Papercuts"},
+              { "title": "Dematerialize", "performer": "Vomit Heat"},
+              { "title": "Chamed", "performer": "Stella"},
+              { "title": "Lawn", "performer": "Aldous Harding"},
+              { "title": "Zukunft", "performer": "Dissy"},
+              { "title": "Arbeit", "performer": "Dissy"}
+            ]
+          ]
         }
       ]
     }
