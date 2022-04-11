@@ -71432,6 +71432,10 @@
         {
           "id": "14",
           "date": "2022-04-07",
+          "checked": {
+            "date": "2022-04-11",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -71446,7 +71450,7 @@
               },
               {
                 "time": "22:10",
-                "title": "Where Do We Stand",
+                "title": "Where Do We Stand (Radio Edit)",
                 "performer": "Myles Sanko"
               },
               {
@@ -71501,7 +71505,7 @@
               },
               {
                 "time": "22:57",
-                "title": "Spring",
+                "title": "Spring (Instrumental)",
                 "performer": "Saint Etienne"
               }
             ],
@@ -71524,7 +71528,7 @@
               {
                 "time": "23:15",
                 "title": "I'm Mandy Fly Me",
-                "performer": "10cc (Ten cc)"
+                "performer": "10cc"
               },
               {
                 "time": "23:21",
@@ -71547,6 +71551,11 @@
                 "performer": "Mamas Gun"
               },
               {
+                "time": "23:35",
+                "title": "Cypress Lane",
+                "performer": "Marco Odino"
+              },
+              {
                 "time": "23:38",
                 "title": "Dear Prudence",
                 "performer": "Casey Mecija"
@@ -71560,6 +71569,11 @@
                 "time": "23:46",
                 "title": "Easy Listeners",
                 "performer": "Bart Davenport"
+              },
+              {
+                "time": "23:49",
+                "title": "A Tune For Jack",
+                "performer": "Lemon Jelly"
               },
               {
                 "time": "23:55",
