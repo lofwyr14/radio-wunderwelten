@@ -7346,11 +7346,12 @@
         {
           "id": "12",
           "date": "2022-03-20",
+          "checked": {"date": "2022-04-20", "user": "jg"},
           "songs": [
             [
-              { "time": "22:04", "title": "The Prisoner (Eight By Ten) ", "performer": "Spring"},
+              { "time": "22:04", "title": "The Prisoner (Eight By Ten)", "performer": "Spring"},
               { "title": "Picture Window", "performer": "Kristine Leschper"},
-              { "title": "El Invento (Sofia Kourtesis Remix) ", "performer": "Jose Gonzalez"},
+              { "title": "El Invento (Sofia Kourtesis Remix)", "performer": "Jose Gonzalez"},
               { "title": "FYN", "performer": "Rema feat. AJ Tracey"},
               { "title": "Siyobonga (Extended Version)", "performer": "Scratcha DVA feat. DemiMa"},
               { "title": "Home Maker (Edit)", "performer": "Sudan Archives"},
@@ -7358,7 +7359,7 @@
               { "title": "Mirror", "performer": "Cristina Lazic"},
               { "title": "The Edge", "performer": "Cut_"},
               { "title": "Rock & Roll Alchemy", "performer": "Peter Doherty & Frederic Lo"},
-              { "title": "You Can´t Keep It From Me Forever", "performer": "Peter Doherty & Frederic Lo"}
+              { "title": "Yes I Wear A Mask", "performer": "Peter Doherty & Frederic Lo"}
             ],
             [
               { "time": "23:04", "title": "Night Off", "performer": "Annie Hamilton"},
@@ -7369,7 +7370,7 @@
               { "title": "Wait For It", "performer": "Ilyes"},
               { "title": "Baby", "performer": "Charli XCX"},
               { "title": "Shy", "performer": "Ebow"},
-              { "title": "Love Again", "performer": "Girls Of The Internet"},
+              { "title": "Love Again (Long Version)", "performer": "Girls Of The Internet"},
               { "title": "Dawning", "performer": "Midlake"},
               { "title": "Wait A Little Longer", "performer": "Jerry Leger"}
             ],
