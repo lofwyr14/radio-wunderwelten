@@ -7393,6 +7393,7 @@
         {
           "id": "13",
           "date": "2022-03-27",
+          "checked": {"date": "2022-04-22", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "You Drive Away", "performer": "Ocean Colour Scene"},
@@ -7412,8 +7413,8 @@
             [
               { "time": "23:04", "title": "Frankie", "performer": "Barrie"},
               { "title": "Widow", "performer": "Working Men´s Club"},
-              { "title": "Divine Intervention", "performer": "PVA"},
               { "title": "Cry Mfer", "performer": "My Idea"},
+              { "title": "Divine Intervention", "performer": "PVA"},
               { "title": "I Raise You (The Price Of Your Head)", "performer": "Folly Group"},
               { "title": "Paying The Price", "performer": "Folly Group"},
               { "title": "The Counting Tune", "performer": "Technicolour"},
@@ -7425,16 +7426,18 @@
               { "title": "Brooklyn Ballers", "performer": "Jitwam"}
             ],
             [
-              { "time": "00:04", "title": "The Lightning I, II", "performer": "Arcade Fire"},
+              { "time": "00:04", "title": "The Lightning I", "performer": "Arcade Fire"},
+              { "title": "The Lightning II", "performer": "Arcade Fire"},
               { "title": "Mystery", "performer": "Donatello"},
               { "title": "Take Over Fjorden", "performer": "Prins Thomas"},
-              { "title": "Immunity", "performer": "Kasablanca"},
+              { "title": "Immunity (Extended Mix)", "performer": "Kasablanca"},
               { "title": "Lodger", "performer": "Papercuts"},
               { "title": "Dematerialize", "performer": "Vomit Heat"},
-              { "title": "Chamed", "performer": "Stella"},
+              { "title": "Charmed", "performer": "Stella"},
               { "title": "Lawn", "performer": "Aldous Harding"},
               { "title": "Zukunft", "performer": "Dissy"},
-              { "title": "Arbeit", "performer": "Dissy"}
+              { "title": "Arbeit", "performer": "Dissy"},
+              { "title": "Drag & Drop", "performer": "Dissy"}
             ]
           ]
         },
