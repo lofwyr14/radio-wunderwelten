@@ -7537,7 +7537,7 @@
           "date": "2022-04-17",
           "songs": [
             [
-              { "title": "Two Folk Songs - 1st", "performer": "Pat Metheny"},
+              { "time": "22:04", "title": "Two Folk Songs - 1st", "performer": "Pat Metheny"},
               { "title": "Bergauf", "performer": "Bilderbuch"},
               { "title": "Healing", "performer": "Fabrice Lig feat. Ann Saunderson"},
               { "title": "Ceci N´est Pas Un Cliche", "performer": "Charlotte Ardigery & Boris Pupul"},
@@ -7550,7 +7550,7 @@
               { "title": "Spirit In The Sky", "performer": "Norman Greenbaum"}
             ],
             [
-              { "title": "A View With A Room", "performer": "Trisha Clowes feat. Chris Montague, Ross Stanley & James Maddren"},
+              { "time": "23:04", "title": "A View With A Room", "performer": "Trisha Clowes feat. Chris Montague, Ross Stanley & James Maddren"},
               { "title": "Mimosa Dub", "performer": "James Burton"},
               { "title": "Say The Word", "performer": "Kurt Vile"},
               { "title": "Best Night", "performer": "The War On Drugs"},
@@ -7564,7 +7564,7 @@
               { "title": "Just Reward", "performer": "Ziplokk"}
             ],
             [
-              { "title": "Nowhere", "performer": "Teendaze"},
+              { "time": "00:04", "title": "Nowhere", "performer": "Teendaze"},
               { "title": "Rise", "performer": "Jon Gurd"},
               { "title": "The Track", "performer": "Fabrice Lig"},
               { "title": "Poisonous (Giant Swan Remix)", "performer": "Hercules & Love Affair"},
