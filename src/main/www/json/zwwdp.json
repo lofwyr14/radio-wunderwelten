@@ -71591,6 +71591,10 @@
         {
           "id": "15",
           "date": "2022-04-14",
+          "checked": {
+            "date": "2022-04-30",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -71617,6 +71621,11 @@
                 "time": "22:19",
                 "title": "Vivienne",
                 "performer": "Vansire & Munya"
+              },
+              {
+                "time": "22:22",
+                "title": "Here We Go Again",
+                "performer": "The Waterboys"
               },
               {
                 "time": "22:25",
@@ -71727,6 +71736,16 @@
               },
               {
                 "time": "23:46",
+                "title": "BH",
+                "performer": "Sophia Blenda"
+              },
+              {
+                "time": "23:49",
+                "title": "Broken Sleep",
+                "performer": "The Soundcarriers"
+              },
+              {
+                "time": "23:53",
                 "title": "Emmanuel's Mood",
                 "performer": "Emmanuel Riggins"
               },
