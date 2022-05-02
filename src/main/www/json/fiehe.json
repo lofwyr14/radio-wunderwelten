@@ -7578,6 +7578,55 @@
               { "title": "Mount Airy Hill (Way Gone)", "performer": "Kurt Vile"}
             ]
           ]
+        },
+        {
+          "id": "17",
+          "date": "2022-04-24",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Cry Mfer", "performer": "My Idea"},
+              { "title": "Sadie Sorceress", "performer": "King Gizzard & The Lizard Wizard"},
+              { "title": "Breakout", "performer": "Mugwump"},
+              { "title": "A Howling Wind", "performer": "Eris Drew"},
+              { "title": "Where My Sisters At", "performer": "Lauren Ritter, Tenesha The Wordsmith"},
+              { "title": "Connected Beings (Jazzanove Remix)", "performer": "Kid Fonque &Jonny Miller feat. ASAP Shembe"},
+              { "title": "I Love You", "performer": "Fontaines D.C."},
+              { "title": "Endgame", "performer": "The Clockworks"},
+              { "title": "Wild Eyed & Loathsome  ", "performer": "Crows"},
+              { "title": "One Da", "performer": "Because Of Art"},
+              { "title": "Hilf Dem Widerstand", "performer": "JETZT!"}
+            ],
+            [
+              { "time": "23:04", "title": "Playgod", "performer": "Poppy Ajudha"},
+              { "title": "Giving The World Away", "performer": "Hatchie"},
+              { "title": "Back Together Again (East Village Dub)", "performer": "Inner City"},
+              { "title": "She Loves Me (godmode Nuptial Remix)  ", "performer": "DJ Seinfeld"},
+              { "title": "Game Over", "performer": "Triple One"},
+              { "title": "The Invaders (Trailer)", "performer": "William Conrad"},
+              { "title": "Patterns", "performer": "Invadhertz"},
+              { "title": "Evershifting", "performer": "Motiv feat. Zoe Kypri"},
+              { "title": "Day & Night", "performer": "Simple Souls"},
+              { "title": "Faith Healer", "performer": "Udo Dirkschneider"},
+              { "title": "Whole Lotta Love", "performer": "Led Zeppelin"},
+              { "title": "Skinty Fia", "performer": "Fontaines D.C."},
+              { "title": "Crutch", "performer": "My Idea"}
+            ],
+            [
+              { "time": "00:04", "title": "Baby I´m The Man", "performer": "My Idea"},
+              { "title": "Now We Are", "performer": "Sublime feat. Ellivia"},
+              { "title": "Red Room (Ki Pharao Basement Edit)", "performer": "Hiatus Kaiyote"},
+              { "title": "I Still Do", "performer": "Danth & KARLY"},
+              { "title": "4D", "performer": "Eugénie"},
+              { "title": "Dreamin Of The Past", "performer": "Pusha T fea. Kanye West"},
+              { "title": "Holiday From Reality", "performer": "Poppy Ajudha"},
+              { "title": "Kush Kween", "performer": "Hollie Cook feat. Jah9"},
+              { "title": "Presumtuous", "performer": "King Gizzard & The Lizard Wizard"},
+              { "title": "Six Day War", "performer": "Colonel Bagshot  "},
+              { "title": "Six Days", "performer": "DJ Shadow"},
+              { "title": "Just So You Remember", "performer": "Pusha T"},
+              { "title": "Jesus On A Wire", "performer": " Kurt Vile feat. Cate Le Bon"}
+            ]
+          ]
         }
       ]
     }
