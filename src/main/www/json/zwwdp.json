@@ -72041,6 +72041,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "18",
+          "date": "2022-05-05",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "You'Ve Got A Habit Of Leaving",
+                "performer": "David Bowie"
+              },
+              {
+                "time": "22:07",
+                "title": "Corporate Sunset",
+                "performer": "JB Dunckel"
+              },
+              {
+                "time": "22:13",
+                "title": "New Days",
+                "performer": "The Lickerish Quartet"
+              },
+              {
+                "time": "22:18",
+                "title": "Who Are You Now?",
+                "performer": "Jim Noir"
+              },
+              {
+                "time": "22:21",
+                "title": "Orange Blood",
+                "performer": "Mt. Joy"
+              },
+              {
+                "time": "22:25",
+                "title": "Shock The Monkey",
+                "performer": "Peter Gabriel"
+              },
+              {
+                "time": "22:31",
+                "title": "Beherbergungsverbot",
+                "performer": "Erdmöbel"
+              },
+              {
+                "time": "22:35",
+                "title": "Man In The Station",
+                "performer": "Ian Matthews"
+              },
+              {
+                "time": "22:39",
+                "title": "7 Minutes",
+                "performer": "The Komets"
+              },
+              {
+                "time": "22:42",
+                "title": "Different Sounds",
+                "performer": "Fantastic Something"
+              },
+              {
+                "time": "22:47",
+                "title": "Take The Shine",
+                "performer": "Dawn Patrol"
+              },
+              {
+                "time": "22:50",
+                "title": "Carla",
+                "performer": "Shawn Lee"
+              },
+              {
+                "time": "22:54",
+                "title": "Aquarius",
+                "performer": "George Shearing"
+              },
+              {
+                "time": "22:58",
+                "title": "Voyeurs In The Dark",
+                "performer": "Barzin"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "What Becomes Of The Broken Hearted",
+                "performer": "Colin Blunstone"
+              },
+              {
+                "time": "23:07",
+                "title": "Everything That's Good In Life",
+                "performer": "William Stuckey"
+              },
+              {
+                "time": "23:12",
+                "title": "Come Along",
+                "performer": "CoCo"
+              },
+              {
+                "time": "23:16",
+                "title": "Orange Skies",
+                "performer": "Love"
+              },
+              {
+                "time": "23:19",
+                "title": "Baby Blue",
+                "performer": "Aaron Joseph Russo"
+              },
+              {
+                "time": "23:25",
+                "title": "The World Spins On",
+                "performer": "Dylan Mondegreen"
+              },
+              {
+                "time": "23:29",
+                "title": "Repettos For You My Lord",
+                "performer": "John Carroll Kirby"
+              },
+              {
+                "time": "23:33",
+                "title": "Let It Bleed (Fog Iggy)",
+                "performer": "Spiritualized"
+              },
+              {
+                "time": "23:38",
+                "title": "Just To Be A Part",
+                "performer": "Julia Jacklin"
+              },
+              {
+                "time": "23:41",
+                "title": "The 59Th Street Bridge Song",
+                "performer": "Harpers Bizarre"
+              },
+              {
+                "time": "23:44",
+                "title": "Sad Dream",
+                "performer": "Matt Maltese"
+              },
+              {
+                "time": "23:47",
+                "title": "Love Is The Tune",
+                "performer": "Mary Lattimore"
+              },
+              {
+                "time": "23:51",
+                "title": "Going Out Of My Head",
+                "performer": "Mario Biondi"
+              },
+              {
+                "time": "23:54",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              },
+              {
+                "time": "23:58",
+                "title": "Wives And Lovers",
+                "performer": "Rumer"
+              }
+            ]
+          ]
         }
       ]
     }
