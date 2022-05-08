@@ -26486,6 +26486,10 @@
           "id": "2",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2016-01-12",
+          "checked": {
+            "date": "2022-05-08",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -26498,28 +26502,21 @@
                 "performer": "The The"
               },
               {
-                "title": "Way Down Now",
-                "performer": "World Party"
+                "title": "Life On Mars? (2003 Ken Scott Remix)",
+                "performer": "David Bowie"
               },
+
               {
                 "title": "Whatever",
                 "performer": "Oasis"
-              },
-              {
-                "title": "Saturn & Co.",
-                "performer": "Bill Pritchard"
               },
               {
                 "title": "Hold Me Now",
                 "performer": "Polyphonic Spree"
               },
               {
-                "title": "Life On Mars (2003 Ken Scott Remix)",
-                "performer": "David Bowie"
-              },
-              {
-                "title": "Messages (Greg Wilson Re-Edit)",
-                "performer": "OMD"
+                "title": "Saturn & Co.",
+                "performer": "Bill Pritchard"
               },
               {
                 "title": "E.V.A.",
@@ -26530,12 +26527,16 @@
                 "performer": "Ralph Myerz & The Jack Herren Band"
               },
               {
+                "title": "The Man Who Sold The World",
+                "performer": "David Bowie"
+              },
+              {
                 "title": "Cracked Actor",
                 "performer": "David Bowie"
               },
               {
-                "title": "The Man Who Sold The World",
-                "performer": "David Bowie"
+                "title": "Messages (Greg Wilson Re-Edit)",
+                "performer": "OMD"
               },
               {
                 "title": "E.N.D.",
@@ -26569,10 +26570,6 @@
                 "performer": "The Fiction Aisle"
               },
               {
-                "title": "All The Young Dudes",
-                "performer": "David Bowie"
-              },
-              {
                 "title": "The Whole Of The Moon (Piano Demo)",
                 "performer": "Waterboys"
               },
@@ -26581,20 +26578,16 @@
                 "performer": "Midlake"
               },
               {
-                "title": "Phoenix (Weller/Kybert Remix)",
-                "performer": "Paul Weller"
-              },
-              {
-                "title": "Mr. White",
-                "performer": "Khruangbin"
+                "title": "All The Young Dudes",
+                "performer": "David Bowie"
               },
               {
                 "title": "Always Crashing In The Same Car",
                 "performer": "David Bowie"
               },
               {
-                "title": "All You Need Is Love",
-                "performer": "Ben From Corduroy"
+                "title": "Phoenix (Weller/Kybert Remix)",
+                "performer": "Paul Weller"
               },
               {
                 "title": "Green Onions",
@@ -26612,6 +26605,10 @@
                 "performer": "Fleetwood Mac"
               },
               {
+                "title": "The London Boys (New Version)",
+                "performer": "David Bowie"
+              },
+              {
                 "title": "Another One",
                 "performer": "Mac DeMarco"
               },
@@ -26622,10 +26619,6 @@
               {
                 "title": "Any Other Mirror",
                 "performer": "Bill Wells & Aidan Moffat"
-              },
-              {
-                "title": "The London Boys (New Version)",
-                "performer": "David Bowie"
               },
               {
                 "title": "Home",
@@ -26640,28 +26633,16 @@
                 "performer": "David Bowie"
               },
               {
-                "title": "Waltz For Koop",
-                "performer": "Koop"
-              },
-              {
-                "title": "Fallen Snow",
-                "performer": "Louis Philippe"
+                "title": "Rock’n Roll Suicide",
+                "performer": "David Bowie"
               },
               {
                 "title": "Kyrie",
                 "performer": "James Taylor Quartet"
               },
               {
-                "title": "Rock’n Roll Suicide",
-                "performer": "David Bowie"
-              },
-              {
                 "title": "Gold For The Price Of Silver (Erot Collaboration)",
                 "performer": "Kings Of Convenience"
-              },
-              {
-                "title": "Goodnight",
-                "performer": "The Moog Beatles"
               }
             ]
           ]
