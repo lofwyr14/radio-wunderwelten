@@ -7627,6 +7627,52 @@
               { "title": "Jesus On A Wire", "performer": " Kurt Vile feat. Cate Le Bon"}
             ]
           ]
+        },
+        {
+          "id": "18",
+          "date": "2022-05-01",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Tongpo", "performer": "Action Bronson feat. Conway The Machine"},
+              { "title": "Call Me Crazy", "performer": "Bushwick Bill"},
+              { "title": "Panama Canal", "performer": "!!! feat. Meah Pace"},
+              { "title": "Holistic", "performer": "Dälek"},
+              { "title": "Flag", "performer": "Benefits"},
+              { "title": "Friday Suspense", "performer": "Jigsaw Mind"},
+              { "title": "Erment (Fonzo Remix)", "performer": "SPD"},
+              { "title": "Cabin Fever", "performer": "Jaden"},
+              { "title": "Goes by So Fast", "performer": "Toro Y Moi"},
+              { "title": "Magazine", "performer": "Toro Y Moi"},
+              { "title": "Postman", "performer": "Toro Y Moi"},
+              { "title": "Impossible", "performer": "Röyksopp feat. Alison Goldfrapp"},
+              { "title": "Africa On My Mind (Franz Matthews Remix)", "performer": "Left Of Manila"},
+              { "title": "Where You Are", "performer": "Pink Pantheress feat. Willow"}
+            ],
+            [
+              { "time": "23:04", "title": "Akt Dit", "performer": "Dungen"},
+              { "title": "Pyramids In The Clouds", "performer": "Melody´s Echo Chamber"},
+              { "title": "Ich Sing Für Dich", "performer": "Jochen Distelmeyer"},
+              { "title": "Veronica Pass (Sally Shapiro Remix)", "performer": "R.Missing"},
+              { "title": "Moves", "performer": "Sukie Waterhouse"},
+              { "title": "Get Back Mamma", "performer": "Suzie Quatro"},
+              { "title": "Data Dump", "performer": "DJ Bowlcut"},
+              { "title": "Drop", "performer": "Murder He Wrote"},
+              { "title": "Bmore Baby", "performer": "Closet Yi"},
+              { "title": "Speedboat", "performer": "Moreish Idles"},
+              { "title": "Paris", "performer": "Fluppe"},
+              { "title": "Alte Leute", "performer": "ZweiLaster"}
+            ],
+            [
+              { "time": "00:04", "title": "Don´t Stop", "performer": "Die P"},
+              { "title": "Satz:Ebene", "performer": "Klaus Schulze"},
+              { "title": "Die Dry", "performer": "Isuzu"},
+              { "title": "Autobahn (Edit)", "performer": "Kraftwerk"},
+              { "title": "Osiris – Pt. 1", "performer": "Klaus Schulze"},
+              { "title": "Tim Bleibt Bei Uns", "performer": "Sternenmädchen"},
+              { "title": "Give Peace A Chance", "performer": "John Lennon/Plastic Ono Band"},
+              { "title": "Lunar Jungle", "performer": "Rambal Cochet"}
+            ]
+          ]
         }
       ]
     }
