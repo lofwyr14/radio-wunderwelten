@@ -27211,14 +27211,19 @@
           "id": "7",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2016-02-16",
+          "checked": {
+            "date": "2022-05-11",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Reconnection",
+                "time": "20:04",
+                "title": "Reconnection (Radio Edit)",
                 "performer": "Mamas Gun"
               },
               {
-                "title": "Saturn and Co.",
+                "title": "Saturn And Co.",
                 "performer": "Bill Pritchard"
               },
               {
@@ -27226,7 +27231,11 @@
                 "performer": "Jochen Distelmeyer"
               },
               {
-                "title": "Warm circuitry",
+                "title": "I See Sadness",
+                "performer": "Paul Steel"
+              },
+              {
+                "title": "Warm Circuitry",
                 "performer": "The Loch Ness Mouse feat. Anne Lise Frøkedal"
               },
               {
@@ -27238,7 +27247,7 @@
                 "performer": "Moonshoes"
               },
               {
-                "title": "What does it mean now?",
+                "title": "What Does It Mean Now?",
                 "performer": "World Party"
               },
               {
@@ -27246,7 +27255,7 @@
                 "performer": "Ephemerals"
               },
               {
-                "title": "Work to do",
+                "title": "Work To Do",
                 "performer": "Mayer Hawthorne"
               },
               {
@@ -27254,7 +27263,7 @@
                 "performer": "John Howard & The Night Mail"
               },
               {
-                "title": "Skyline blue",
+                "title": "Skyline Blue",
                 "performer": "Joel Sarakula"
               },
               {
@@ -27268,6 +27277,7 @@
             ],
             [
               {
+                "time": "21:04",
                 "title": "Pickepackevoll (Zeiglers wunderbare Welt des Fußballs-Song)",
                 "performer": "The Vals"
               },
@@ -27276,19 +27286,19 @@
                 "performer": "Paul Weller"
               },
               {
-                "title": "Pirate dial",
+                "title": "Pirate Dial",
                 "performer": "M. Ward"
               },
               {
-                "title": "I don't care how long it takes",
+                "title": "I Don't Care How Long It Takes",
                 "performer": "Attacco Decente"
               },
               {
-                "title": "Bang bang",
+                "title": "Bang Bang",
                 "performer": "Pizzicato One"
               },
               {
-                "title": "Ghost town",
+                "title": "Ghost Town (Extended Version)",
                 "performer": "The Specials"
               },
               {
@@ -27296,65 +27306,70 @@
                 "performer": "Daniel Carlson"
               },
               {
-                "title": "Brother, you must walk your path alone",
+                "title": "Brother, You Must Walk Your Path Alone",
                 "performer": "The Electric Soft Parade"
               },
               {
-                "title": "Cool story bro",
+                "title": "Cool Story Bro (Single Version)",
                 "performer": "Octopuses"
               },
               {
-                "title": "This wreckage",
+                "title": "This Wreckage",
                 "performer": "Gary Numan"
               },
               {
-                "title": "Hand of winter",
-                "performer": "Sound of Ceres"
+                "title": "Hand Of Winter",
+                "performer": "Sound Of Ceres"
               },
               {
-                "title": "Money don't matter 2 night",
+                "title": "Money Don't Matter 2 Night",
                 "performer": "The Loch Ness Mouse"
               },
               {
-                "title": "How he entered",
+                "title": "How He Entered",
                 "performer": "Tindersticks"
+              },
+              {
+                "title": "Here Come The Rattling Trees",
+                "performer": "The High Llamas"
               }
             ],
             [
               {
+                "time": "22:04",
                 "title": "Conversation Piece",
                 "performer": "David Bowie"
               },
               {
-                "title": "Bet your life",
+                "title": "Bet Your Life",
                 "performer": "Paul Carrack"
               },
               {
-                "title": "A salty dog",
+                "title": "A Salty Dog",
                 "performer": "Procol Harum"
               },
               {
-                "title": "Follow me",
+                "title": "Follow Me",
                 "performer": "Tindersticks"
               },
               {
-                "title": "Suicide is painless",
+                "title": "Suicide Is Painless",
                 "performer": "Grady Tate"
               },
               {
-                "title": "I recall",
+                "title": "I Recall",
                 "performer": "Andre Solomko"
               },
               {
-                "title": "Save you",
+                "title": "Save You",
                 "performer": "Turin Brakes"
               },
               {
-                "title": "Oslo",
+                "title": "Oslo (Ruf Dug Remix)",
                 "performer": "Nev Cottee"
               },
               {
-                "title": "Birth of the flower",
+                "title": "Birth Of The Flower (Seagreen)",
                 "performer": "Candy Claws"
               },
               {
@@ -27362,19 +27377,19 @@
                 "performer": "Prefab Sprout"
               },
               {
-                "title": "River of dream",
-                "performer": "Don Tiare and his Orchestra"
+                "title": "River Of Dream",
+                "performer": "Don Tiare And His Orchestra"
               },
               {
-                "title": "I just can't give you up",
+                "title": "I Just Can't Give You Up",
                 "performer": "Average White Band"
               },
               {
-                "title": "Emotional song no. 1",
+                "title": "Emotional Song No. 1",
                 "performer": "Anthony Rochester"
               },
               {
-                "title": "Black sand and white stars",
+                "title": "Black Sand And White Stars",
                 "performer": "The Night Strings feat. Homer Dennison"
               },
               {
@@ -28292,11 +28307,12 @@
           "songs": [
             [
               {
-                "title": "China doll",
+                "time": "20:04",
+                "title": "China Doll",
                 "performer": "Julian Cope"
               },
               {
-                "title": "Every little step",
+                "title": "Every Little Step",
                 "performer": "Dylan Mondegreen"
               },
               {
@@ -28304,15 +28320,15 @@
                 "performer": "James"
               },
               {
-                "title": "My face for the world to see",
+                "title": "My Face For The World To See",
                 "performer": "Trembling Blue Stars"
               },
               {
-                "title": "Call of the void",
+                "title": "Call Of The Void",
                 "performer": "Great Pagans"
               },
               {
-                "title": "Still quietly in Bloom",
+                "title": "Still Quietly In Bloom",
                 "performer": "A Novel Resort"
               },
               {
@@ -28324,11 +28340,11 @@
                 "performer": "Poirot"
               },
               {
-                "title": "Good fight fighting",
+                "title": "Good Fight Fighting",
                 "performer": "The Very Most"
               },
               {
-                "title": "Melody in high feedback tones",
+                "title": "Melody In High Feedback Tones",
                 "performer": "Cavern Of Anti-Matter"
               },
               {
@@ -28340,7 +28356,7 @@
                 "performer": "Fugu"
               },
               {
-                "title": "Bumpin' on sunset",
+                "title": "Bumpin' On Sunset",
                 "performer": "Leon Lowman"
               },
               {
@@ -28350,15 +28366,16 @@
             ],
             [
               {
-                "title": "If I could only be sure",
+                "time": "21:04",
+                "title": "If I Could Only Be Sure",
                 "performer": "Nolan Porter"
               },
               {
-                "title": "A lover's concerto",
+                "title": "A Lover's Concerto",
                 "performer": "The Supremes"
               },
               {
-                "title": "I think I'm dancing",
+                "title": "I Think I'm Dancing",
                 "performer": "Jack and The '"
               },
               {
@@ -28366,24 +28383,32 @@
                 "performer": "Modular"
               },
               {
-                "title": "Release from the centre of your heart",
+                "title": "Show Me Love",
+                "performer": "Ephemerals"
+              },
+              {
+                "title": "Release From The Centre Of Your Heart",
                 "performer": "Laetitia Sadier"
               },
               {
-                "title": "Believe you're mine",
+                "title": "Believe You're Mine",
                 "performer": "Nada Surf"
               },
               {
-                "title": "Certain surprise",
+                "title": "Certain Surprise",
                 "performer": "Sabrina Dinan"
               },
               {
                 "title": "Kingfisher",
-                "performer": "Sound of Ceres"
+                "performer": "Sound Of Ceres"
               },
               {
-                "title": "Look to the sky",
+                "title": "Look To The Sky",
                 "performer": "The Chemistry Set"
+              },
+              {
+                "title": "She's Leaving Home (Fritz Doddy Remix)",
+                "performer": "The Beatles"
               },
               {
                 "title": "Chocolates",
@@ -28396,23 +28421,28 @@
               {
                 "title": "La niña fantástica",
                 "performer": "Modular"
+              },
+              {
+                "title": "Groovin' With Mr. Bloe",
+                "performer": "Robert Johnson And Punchdrunks"
               }
             ],
             [
               {
-                "title": "If you wanna sing out, sing out",
+                "time": "22:04",
+                "title": "If You Wanna Sing Out, Sing Out",
                 "performer": "Cat Stevens"
               },
               {
-                "title": "Everyday is new",
+                "title": "Everyday Is New",
                 "performer": "Tanita Tikaram"
               },
               {
-                "title": "My last tears will be a blue melody",
+                "title": "My Last >Tears Will Be A Blue Melody",
                 "performer": "Giorgio Tuma"
               },
               {
-                "title": "Markers of beautiful memories",
+                "title": "Markers Of Beautiful Memories",
                 "performer": "The Camerawalls"
               },
               {
@@ -28420,7 +28450,7 @@
                 "performer": "Trash Can Sinatras"
               },
               {
-                "title": "Feeling good",
+                "title": "Feeling Good (Live)",
                 "performer": "Eels"
               },
               {
@@ -28428,36 +28458,40 @@
                 "performer": "Colin Blunstone"
               },
               {
-                "title": "Feelin' groovy",
-                "performer": "The Gunter Kallmann Chorus"
+                "title": "Fifty-Ninth Street Bridge Song (Feelin' Groovy)",
+                "performer": "The Gunter Kallmann Choir"
               },
               {
-                "title": "So, so Long",
+                "title": "So, So Long",
                 "performer": "Michael Nau"
               },
               {
-                "title": "Dawn mists",
+                "title": "Dawn Mists",
                 "performer": "Stringtronics"
               },
               {
-                "title": "Think of rain",
+                "title": "Think Of Rain",
                 "performer": "Margo Guryan"
               },
               {
-                "title": "(I can't seem) To make you mine",
+                "title": "(I Can't Seem) To Make You Mine",
                 "performer": "The Clientele"
               },
               {
-                "title": "I'm in you",
+                "title": "I'm In You",
                 "performer": "Peter Frampton"
               },
               {
-                "title": "Please, please, please, let me get what I want",
+                "title": "Please, Please, Please, Let Me Get What I Want",
                 "performer": "She & Him"
               },
               {
-                "title": "Good night",
+                "title": "Good Night",
                 "performer": "The Beatles"
+              },
+              {
+                "title": "Over The River",
+                "performer": "The High Llamas"
               }
             ]
           ]
