@@ -28500,9 +28500,14 @@
           "id": "15",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2016-04-12",
+          "checked": {
+            "date": "2022-05-15",
+            "user": "jg"
+          },
           "songs": [
             [
               {
+                "time": "20:04",
                 "title": "The Shock Of The Lightning",
                 "performer": "Oasis"
               },
@@ -28535,36 +28540,29 @@
                 "performer": "Paul Steel"
               },
               {
-                "title": "Do What Everybody Else Does",
+                "title": "Do What Everybody Else Does (Early Edit)",
                 "performer": "Paul Steel"
               },
               {
-                "title": "How To Recognise A Work of Art",
+                "title": "How To Recognise A Work Of Art",
                 "performer": "Meilyr Jones"
               },
               {
-                "title": "Coconut Grove",
-                "performer": "Paul Weller"
+                "title": "Northern Soul",
+                "performer": "Joel Sarakula"
               },
               {
                 "title": "How Beautiful You Are",
                 "performer": "The Cure"
               },
               {
-                "title": "What Do You Think Of It So Far?",
-                "performer": "Nik Kershaw"
-              },
-              {
                 "title": "Soul Love",
                 "performer": "David Bowie"
-              },
-              {
-                "title": "These Boots Are Made For Walking",
-                "performer": "Billy Strange"
               }
             ],
             [
               {
+                "time": "21:04",
                 "title": "Mr. Wonderful",
                 "performer": "John Waite"
               },
@@ -28605,7 +28603,7 @@
                 "performer": "Andrew Bird"
               },
               {
-                "title": "Don't Break My Heart",
+                "title": "Don't Break My Heart (12\" Version)",
                 "performer": "U.B.40"
               },
               {
@@ -28623,6 +28621,7 @@
             ],
             [
               {
+                "time": "22:04",
                 "title": "Cosmic Love",
                 "performer": "Mayer Hawthorne"
               },
@@ -28651,11 +28650,7 @@
                 "performer": "The High Llamas"
               },
               {
-                "title": "Plain As Your Exes Can See",
-                "performer": "Jim Sullivan"
-              },
-              {
-                "title": "Plain As Your Exes Can See",
+                "title": "Plain As Your Eyes Can See",
                 "performer": "Jim Sullivan"
               },
               {
