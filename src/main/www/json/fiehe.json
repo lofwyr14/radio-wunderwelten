@@ -7673,6 +7673,57 @@
               { "title": "Lunar Jungle", "performer": "Rambal Cochet"}
             ]
           ]
+        },
+        {
+          "id": "19",
+          "date": "2022-05-08",
+          "songs": [
+            [
+              { "time": "22:04", "title": "I´m Over You", "performer": "Vomit Heat"},
+              { "title": "In Flight", "performer": "Sunflower Bean"},
+              { "title": "Unified", "performer": "Richie Blacker"},
+              { "title": "Am Kanal", "performer": "Perel"},
+              { "title": "East N East", "performer": "Palmskin Productions"},
+              { "title": "Afterdrop", "performer": "Palmskin Productions"},
+              { "title": "A Little Bit (More)", "performer": "!!!"},
+              { "title": "Blenda", "performer": "Charlotte Ardigery & Bolis Pupul"},
+              { "title": "Heaven Can Wait", "performer": "Organ Tapes"},
+              { "title": "Dragging My Life Into A Dream", "performer": "Girlpool"},
+              { "title": "Jealousy", "performer": "George Riley"},
+              { "title": "Comfy Place", "performer": "Shoko Igarashi "},
+              { "title": "The Ladder", "performer": "Röyksopp"}
+            ],
+            [
+              { "time": "23:04", "title": "Speedboat", "performer": "Moreish Idles"},
+              { "title": "Hysterie + Abfall", "performer": "Lyschko"},
+              { "title": "Ain´t No Thief", "performer": "Viagra Boys"},
+              { "title": "Friday Suspense", "performer": "Jigsaw Mind"},
+              { "title": "The Weather Was Everywhere", "performer": "Third Son"},
+              { "title": "Lykke", "performer": "SUCHI"},
+              { "title": "B2 (Debba Remix)", "performer": "SPD"},
+              { "title": "Concrete Blossom", "performer": "Jurango"},
+              { "title": "Made Of Gold", "performer": "Ibeyi feat. Pa Salieu"},
+              { "title": "Rise Above", "performer": "Ibeyi feat. BERWYN"},
+              { "title": "Dua Lipa", "performer": "Jack Harlow"},
+              { "title": "Europa", "performer": "Die Nerven"},
+              { "title": "Black And White (Nils Hoffmann Remix) ", "performer": "San Holo"}
+            ],
+            [
+              { "time": "00:04", "title": "New Yu", "performer": "My Bloody Valentine"},
+              { "title": "Coincidences", "performer": "Vomit Heat"},
+              { "title": "Leere", "performer": "Vomit Heat feat. Stella Sommer"},
+              { "title": "Dive Deep", "performer": "Rolling Blackouts Coastal Fever"},
+              { "title": "Smilers Strange Politely", "performer": "The Stroppies"},
+              { "title": "Overcast", "performer": "WilmaVritra"},
+              { "title": "Crying For Help", "performer": "Sharna Bass"},
+              { "title": "South", "performer": "Wu-Lu feat. Lex Amor"},
+              { "title": "Sycophantic Maniac", "performer": "Gallegos"},
+              { "title": "Fiorucci Made Me Hardcore", "performer": "Barry Can´t Swim"},
+              { "title": "Country Star", "performer": "Girlpool"},
+              { "title": "Rockstar", "performer": "Momma"},
+              { "title": "We Find Ourselves", "performer": "Joda"}
+            ]
+          ]
         }
       ]
     }
