@@ -28688,18 +28688,23 @@
           "id": "16",
           "title": "Zeiglers wunderbare Welt des Pop",
           "date": "2016-04-19",
+          "checked": {
+            "date": "2022-05-19",
+            "user": "jg"
+          },
           "songs": [
             [
               {
-                "title": "Hot hot hot!!!",
+                "time": "20:04",
+                "title": "Hot Hot Hot!!!",
                 "performer": "The Cure"
               },
               {
-                "title": "My life's arithmetic means",
+                "title": "My Life's Arithmetic Means",
                 "performer": "The Camerawalls"
               },
               {
-                "title": "The pop kids",
+                "title": "The Pop Kids",
                 "performer": "Pet Shop Boys"
               },
               {
@@ -28707,7 +28712,7 @@
                 "performer": "The Feeling"
               },
               {
-                "title": "Breakfast in bed",
+                "title": "Breakfast In Bed",
                 "performer": "Mayer Hawthorne"
               },
               {
@@ -28715,11 +28720,11 @@
                 "performer": "Kakkmaddafakka"
               },
               {
-                "title": "Waiting for a train",
+                "title": "Waiting Aor A Train",
                 "performer": "Flash And The Pan"
               },
               {
-                "title": "Ghost that burned your house down",
+                "title": "Ghost That Burned Your House Down",
                 "performer": "Cold Crows Dead"
               },
               {
@@ -28727,15 +28732,15 @@
                 "performer": "Meilyr Jones"
               },
               {
-                "title": "I can change",
-                "performer": "Primal Scream featuring Haim"
+                "title": "I Can Change",
+                "performer": "Primal Scream feat. Haim"
               },
               {
-                "title": "Cat people",
+                "title": "Cat People (Extended Australian 12\" Edit)",
                 "performer": "David Bowie"
               },
               {
-                "title": "Boys keep swinging",
+                "title": "Boys Keep Swinging",
                 "performer": "The Associates"
               },
               {
@@ -28745,23 +28750,24 @@
             ],
             [
               {
-                "title": "Nobody's fool",
+                "time": "21:04",
+                "title": "Nobody's Fool",
                 "performer": "Haircut One Hundred"
               },
               {
-                "title": "Look to the sky",
+                "title": "Look To The Sky",
                 "performer": "The Chemistry Set"
               },
               {
-                "title": "Over the river",
+                "title": "Over The River",
                 "performer": "The High Llamas"
               },
               {
-                "title": "Wichita lineman",
+                "title": "Wichita Lineman",
                 "performer": "Reg Presley"
               },
               {
-                "title": "Bumpin' on sunset",
+                "title": "Bumpin' On Sunset",
                 "performer": "Leon Lowman"
               },
               {
@@ -28769,19 +28775,19 @@
                 "performer": "Paul Weller"
               },
               {
-                "title": "Sadie and the fat man",
+                "title": "Sadie And The Fat Man",
                 "performer": "Benjamin Dean Wilson"
               },
               {
-                "title": "You'll be the first to know",
+                "title": "You'll Be The First To Know",
                 "performer": "Tropic"
               },
               {
-                "title": "Can you tell me how to get to Sesame Street?",
+                "title": "Can You Tell Me How To Get To Sesame Street?",
                 "performer": "The Free Design"
               },
               {
-                "title": "My ever changing moods",
+                "title": "My Ever Changing Moods",
                 "performer": "Jacksoul"
               },
               {
@@ -28795,19 +28801,20 @@
             ],
             [
               {
-                "title": "Eye in the sky",
+                "time": "22:04",
+                "title": "Eye In The Sky",
                 "performer": "The Alan Parsons Project"
               },
               {
-                "title": "Sunday morning",
+                "title": "Sunday Morning",
                 "performer": "James"
               },
               {
-                "title": "I'm outta time",
+                "title": "I'm Outta Time",
                 "performer": "Oasis"
               },
               {
-                "title": "There will be time",
+                "title": "There Will Be Time",
                 "performer": "The Engineers"
               },
               {
@@ -28815,23 +28822,23 @@
                 "performer": "The Free French"
               },
               {
-                "title": "Lillies of the valley",
+                "title": "Lillies Of The Valley",
                 "performer": "Jun Miyake"
               },
               {
-                "title": "Light years",
+                "title": "Light Years (Longer Tha Our Mind)",
                 "performer": "Calm"
               },
               {
-                "title": "Theme from Exorcist",
+                "title": "Theme From Exorcist",
                 "performer": "Ensemble"
               },
               {
-                "title": "New piece of paper",
+                "title": "New Piece Of Paper",
                 "performer": "Element Of Crime"
               },
               {
-                "title": "Birds of prey",
+                "title": "Birds Of Prey",
                 "performer": "Kaada"
               },
               {
@@ -28839,11 +28846,11 @@
                 "performer": "Jim Sullivan"
               },
               {
-                "title": "Walk on by",
+                "title": "Walk On By",
                 "performer": "The Jazz Crusaders"
               },
               {
-                "title": "Good night",
+                "title": "Good Night",
                 "performer": "The Beatles"
               }
             ]
