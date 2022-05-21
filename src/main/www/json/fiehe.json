@@ -7536,6 +7536,7 @@
         {
           "id": "16",
           "date": "2022-04-17",
+          "checked": {"date": "2022-05-21", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Two Folk Songs - 1st", "performer": "Pat Metheny"},
@@ -7543,7 +7544,7 @@
               { "title": "Healing", "performer": "Fabrice Lig feat. Ann Saunderson"},
               { "title": "Ceci N´est Pas Un Cliche", "performer": "Charlotte Ardigery & Boris Pupul"},
               { "title": "Softened Thoughts", "performer": "Brijean"},
-              { "title": "Hymne Der Melancholischen Programmierer", "performer": "Sankt Otten"},
+              { "title": "Hymne der melancholischen Programmierer", "performer": "Sankt Otten"},
               { "title": "Corporate Sunset", "performer": "JB Dunckel"},
               { "title": "Apollonian Herat", "performer": "Pulse Park"},
               { "title": "Fear Of The Dawn", "performer": "Jack White"},
@@ -7565,10 +7566,10 @@
               { "title": "Just Reward", "performer": "Ziplokk"}
             ],
             [
-              { "time": "00:04", "title": "Nowhere", "performer": "Teendaze"},
+              { "time": "00:04", "title": "Nowhere", "performer": "Teen Daze"},
               { "title": "Rise", "performer": "Jon Gurd"},
               { "title": "The Track", "performer": "Fabrice Lig"},
-              { "title": "Poisonous (Giant Swan Remix)", "performer": "Hercules & Love Affair"},
+              { "title": "Poisonous Storytelling (Giant Swan Remix)", "performer": "Hercules & Love Affair"},
               { "title": "Im Tunnel", "performer": "Die Arbeit"},
               { "title": "Train Yard", "performer": "Sl8r"},
               { "title": "Cry Mfer", "performer": "My Idea"},
