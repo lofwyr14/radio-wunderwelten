@@ -72259,11 +72259,15 @@
         {
           "id": "18",
           "date": "2022-05-05",
+          "checked": {
+            "date": "2022-05-22",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
-                "title": "You'Ve Got A Habit Of Leaving",
+                "title": "You'Ve Got A Habit Of Leaving (Radio Edit)",
                 "performer": "David Bowie"
               },
               {
@@ -72288,7 +72292,7 @@
               },
               {
                 "time": "22:25",
-                "title": "Shock The Monkey",
+                "title": "Shock The Monkey (SPEZIALVERSION?)",
                 "performer": "Peter Gabriel"
               },
               {
@@ -72380,7 +72384,7 @@
               },
               {
                 "time": "23:41",
-                "title": "The 59Th Street Bridge Song",
+                "title": "The 59th Street Bridge Song",
                 "performer": "Harpers Bizarre"
               },
               {
@@ -72402,11 +72406,6 @@
                 "time": "23:54",
                 "title": "Good Night",
                 "performer": "The Beatles"
-              },
-              {
-                "time": "23:58",
-                "title": "Wives And Lovers",
-                "performer": "Rumer"
               }
             ]
           ]
