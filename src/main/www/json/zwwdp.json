@@ -72110,6 +72110,10 @@
         {
           "id": "17",
           "date": "2022-04-28",
+          "checked": {
+            "date": "2022-05-22",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -72119,8 +72123,8 @@
               },
               {
                 "time": "22:08",
-                "title": "Can We Still Be Friends",
-                "performer": "Daryl Hall / Todd Rundgren"
+                "title": "Can We Still Be Friends (Live From Daryl's House)",
+                "performer": "Daryl Hall feat. Todd Rundgren"
               },
               {
                 "time": "22:12",
@@ -72154,7 +72158,7 @@
               },
               {
                 "time": "22:36",
-                "title": "So Weit Von Mir",
+                "title": "So weit von mir",
                 "performer": "Herr Wade"
               },
               {
@@ -72169,7 +72173,7 @@
               },
               {
                 "time": "22.48",
-                "title": "Wir sind nicht das Volk",
+                "title": "Wir sind nicht das Volk (Lass sie rein)",
                 "performer": "Erdmöbel"
               },
               {
@@ -72216,8 +72220,8 @@
               },
               {
                 "time": "23:30",
-                "title": "Der Winter Ist Vorbei",
-                "performer": "Otto Von Bismarck"
+                "title": "Der Winter ist vorbei",
+                "performer": "Otto von Bismarck"
               },
               {
                 "time": "23:34",
@@ -72248,11 +72252,6 @@
                 "time": "23:54",
                 "title": "Good Night",
                 "performer": "The Beatles"
-              },
-              {
-                "time": "23:57",
-                "title": "Baby Blue",
-                "performer": "Aaron Joseph Russo"
               }
             ]
           ]
