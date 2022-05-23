@@ -7725,7 +7725,53 @@
               { "title": "We Find Ourselves", "performer": "Joda"}
             ]
           ]
+        },
+        {
+          "id": "20",
+          "date": "2022-05-15",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Lieder Aus der Kurve", "performer": "Emscherkurve 77"},
+              { "title": "I Like You", "performer": "DC Gore"},
+              { "title": "That Love Affair", "performer": "Sublime"},
+              { "title": "Neon Rats", "performer": "Moderat"},
+              { "title": "Es Regnet Hirn", "performer": "OK Kid"},
+              { "title": "Reprise", "performer": "Yaya Bey"},
+              { "title": "Sea Glass", "performer": "Palmskin Productions"},
+              { "title": "Die Hard", "performer": "Kendrick Lamar feat. Blxst & Amanda Reifer"},
+              { "title": "Dog Food", "performer": "IDK feat. Kaytranada"},
+              { "title": "Pick Your Poison", "performer": "Blxst feat. Grandmaster Vic"},
+              { "title": "Chazzy Don´t Mind", "performer": "Kurt Vile"},
+              { "title": "Be With You", "performer": "Brendan Coleman"}
+            ],
+            [
+              { "time": "23:04", "title": "A Coat Of Butterflies", "performer": "Kevin Morby"},
+              { "title": "Hallelujah", "performer": "Jeff Buckley"},
+              { "title": "Altar", "performer": "Warpaint"},
+              { "title": "I Want To Be (HAAi Remix)", "performer": "Believe"},
+              { "title": "This Can´t Be Everything", "performer": "Phantoms"},
+              { "title": "Baby, We´re Ascending", "performer": "HAAi feat. Jon Hopkins"},
+              { "title": "Drum Glow", "performer": "Moderat"},
+              { "title": "Shelter", "performer": "Jabru"},
+              { "title": "Secret Service", "performer": "Leikeli47"},
+              { "title": "Purple Hearts", "performer": "Kendrick Lamar feat. Summer Walker & Ghostface Killah"}
+            ],
+            [
+              { "time": "00:04", "title": "Trance", "performer": "Bloodflowers"},
+              { "title": "I´m Over You", "performer": "Vomit Heat"},
+              { "title": "Unified", "performer": "Richie Blacker"},
+              { "title": "Echoes From Fujiyama ", "performer": "Fabrice Lig"},
+              { "title": "Good Love", "performer": " The Black Keys feat. Billy F Gibbons"},
+              { "title": "Step In", "performer": "Cederic Burnside"},
+              { "title": "Dream Girl Evil", "performer": "Florence + The Machine"},
+              { "title": "Choreomania", "performer": "Florence + The Machine"},
+              { "title": "Sauce Brazil", "performer": "Nikitch & Kuna Maze"},
+              { "title": "Piano Skank", "performer": "Ahadadream"},
+              { "title": "Under The Sky", "performer": "Dana Gavanski"}
+            ]
+          ]
         }
+
       ]
     }
   ]
