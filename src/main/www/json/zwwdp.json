@@ -72567,6 +72567,10 @@
         {
           "id": "20",
           "date": "2022-05-19",
+          "checked": {
+            "date": "2022-05-25",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -72591,7 +72595,7 @@
               },
               {
                 "time": "22:18",
-                "title": "Von innne aus Teig",
+                "title": "Von innnen aus Teig",
                 "performer": "Herr Wade"
               },
               {
@@ -72611,7 +72615,7 @@
               },
               {
                 "time": "22:35",
-                "title": "If They'Re Shooting At You",
+                "title": "If They're Shooting At You",
                 "performer": "Belle And Sebastian"
               },
               {
@@ -72642,7 +72646,7 @@
               {
                 "time": "22:58",
                 "title": "Humpty Dumpty",
-                "performer": "Placebo"
+                "performer": "Marc Moulin"
               }
             ],
             [
