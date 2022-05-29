@@ -7633,6 +7633,7 @@
         {
           "id": "18",
           "date": "2022-05-01",
+          "checked": {"date": "2022-05-29", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Tongpo", "performer": "Action Bronson feat. Conway The Machine"},
@@ -7653,7 +7654,7 @@
             [
               { "time": "23:04", "title": "Akt Dit", "performer": "Dungen"},
               { "title": "Pyramids In The Clouds", "performer": "Melody´s Echo Chamber"},
-              { "title": "Ich Sing Für Dich", "performer": "Jochen Distelmeyer"},
+              { "title": "Ich sing für dich", "performer": "Jochen Distelmeyer"},
               { "title": "Veronica Pass (Sally Shapiro Remix)", "performer": "R.Missing"},
               { "title": "Moves", "performer": "Sukie Waterhouse"},
               { "title": "Get Back Mamma", "performer": "Suzie Quatro"},
@@ -7671,7 +7672,7 @@
               { "title": "Autobahn (Edit)", "performer": "Kraftwerk"},
               { "title": "Osiris – Pt. 1", "performer": "Klaus Schulze"},
               { "title": "Tim Bleibt Bei Uns", "performer": "Sternenmädchen"},
-              { "title": "Give Peace A Chance", "performer": "John Lennon/Plastic Ono Band"},
+              { "title": "Give Peace A Chance", "performer": "ohn Lennon & Yoko Ono With The Plastic Ono Band"},
               { "title": "Lunar Jungle", "performer": "Rambal Cochet"}
             ]
           ]
