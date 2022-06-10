@@ -72858,7 +72858,7 @@
               {
                 "time": "23:44",
                 "title": "Yellowed Golden Wedding Photo",
-                "performer": "The Fisherman and his Soul"
+                "performer": "The Fisherman And His Soul"
               },
               {
                 "time": "23:48",
@@ -72872,6 +72872,156 @@
               },
               {
                 "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "23",
+          "date": "2022-06-09",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Kind Of A Nice Time",
+                "performer": "Vansire"
+              },
+              {
+                "time": "22:07",
+                "title": "Fast Lane",
+                "performer": "Ralph TV"
+              },
+              {
+                "time": "22:11",
+                "title": "Up For Grabs",
+                "performer": "Turin Brakes"
+              },
+              {
+                "time": "22:15",
+                "title": "The Getaway",
+                "performer": "The Afghan Whigs"
+              },
+              {
+                "time": "22:18",
+                "title": "Santa Barbara",
+                "performer": "Benny Sings feat. Nataly Dawn"
+              },
+              {
+                "time": "22:22",
+                "title": "Fly Too",
+                "performer": "Ginger Root"
+              },
+              {
+                "time": "22:26",
+                "title": "I'll Be Your Friend",
+                "performer": "EchoWave"
+              },
+              {
+                "time": "22:31",
+                "title": "New Days",
+                "performer": "The Lickerish Quartet"
+              },
+              {
+                "time": "22:37",
+                "title": "Strange Journey",
+                "performer": "Martin Carr"
+              },
+              {
+                "time": "22:43",
+                "title": "Das Vakuum",
+                "performer": "Erdmöbel"
+              },
+              {
+                "time": "22:46",
+                "title": "It's Me & You",
+                "performer": "Tokyo Tea Room"
+              },
+              {
+                "time": "22:50",
+                "title": "Another Dream",
+                "performer": "Triptides"
+              },
+              {
+                "time": "22:52",
+                "title": "Take My Fantasy",
+                "performer": "The Saxophones"
+              },
+              {
+                "time": "22:57",
+                "title": "Roller 2",
+                "performer": "Forever Pavot"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Make A Picture",
+                "performer": "Andrew Bird"
+              },
+              {
+                "time": "23:08",
+                "title": "The Road To The Hills",
+                "performer": "Project Gemini"
+              },
+              {
+                "time": "23:11",
+                "title": "Leap",
+                "performer": "Bubble Tea and Cigarettes"
+              },
+              {
+                "time": "23:16",
+                "title": "Love Will Light Your Dreams",
+                "performer": "Stimulator Jones"
+              },
+              {
+                "time": "23:20",
+                "title": "Tarot",
+                "performer": "Garden Gate"
+              },
+              {
+                "time": "23:27",
+                "title": "Dangerous High",
+                "performer": "Pomona Dream"
+              },
+              {
+                "time": "23:31",
+                "title": "Wait Too Long",
+                "performer": "Turnover"
+              },
+              {
+                "time": "23:36",
+                "title": "Florentine",
+                "performer": "Nik Ritchie feat. Ginger Root & Fat Night"
+              },
+              {
+                "time": "23:39",
+                "title": "The Glare",
+                "performer": "Sound of Ceres"
+              },
+              {
+                "time": "23:43",
+                "title": "Lost My Love",
+                "performer": "Jazzanova feat. Jean Haefeli"
+              },
+              {
+                "time": "23:47",
+                "title": "Show Me That You Care",
+                "performer": "Butter Bath"
+              },
+              {
+                "time": "23:51",
+                "title": "Carefree",
+                "performer": "Den Dala"
+              },
+              {
+                "time": "23:56",
+                "title": "Be With Me",
+                "performer": "Brandon Coleman"
+              },
+              {
+                "time": "23:59",
                 "title": "Good Night",
                 "performer": "The Beatles"
               }
