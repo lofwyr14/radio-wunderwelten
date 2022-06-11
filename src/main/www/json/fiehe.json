@@ -7779,9 +7779,10 @@
         {
           "id": "21",
           "date": "2022-05-22",
+          "checked": {"date": "2022-06-11", "user": "jg"},
           "songs": [
             [
-              { "title": "Breathing", "performer": "They Hate Change"},
+              { "time": "22:04", "title": "Breathing", "performer": "They Hate Change"},
               { "title": "Lazy Saturday", "performer": "Motiv & Surreal feat. Salem Focus"},
               { "title": "The Friday Feels", "performer": "Unkoded"},
               { "title": "Music (Peshay Rework)", "performer": "LTJ Bukem"},
@@ -7792,10 +7793,10 @@
               { "title": "Exist", "performer": "Annie Hamilton"},
               { "title": "Neon Cheap", "performer": "Methyl Ethel"},
               { "title": "Der hier wird wehtun", "performer": "Husten"},
-              { "title": "Vertigo (Luis Ake Remix)", "performer": "Edwin Rosen"}
+              { "title": "Vertigo (Luis Ake's Trance Atlantic Remix)", "performer": "Edwin Rosen"}
             ],
             [
-              { "title": "Sommer", "performer": "Luis Ake"},
+              { "time": "23:04", "title": "Sommer", "performer": "Luis Ake"},
               { "title": "Unified", "performer": "Richie Blacker"},
               { "title": "ATB", "performer": "DJ Ferrari"},
               { "title": "In For The Kill (Skream Vs Foamo Remix)", "performer": "La Roux"},
@@ -7808,11 +7809,11 @@
               { "title": "How Do We Merge Everything Into One", "performer": "Gabe & Jude"}
             ],
             [
-              { "title": "Radiowaving (Alternative Version)", "performer": "Traynor"},
+              { "time": "00:04", "title": "Radiowaving (Alternative Version)", "performer": "Traynor"},
               { "title": "Spinning Globe", "performer": "The Fear Ratio feat. King Kashmere"},
               { "title": "Wrong For It", "performer": "Obongjayar feat. Nubya Garcia"},
               { "title": "LL Cool J", "performer": "Leikeli47"},
-              { "title": "Rebirth Of Slick", "performer": "Digable Planets"},
+              { "title": "Rebirth Of Slick (Cool Like Dat)", "performer": "Digable Planets"},
               { "title": "Chung Kuo", "performer": "Vangelis"},
               { "title": "Sleeping Tiger On The Bund", "performer": "Mindy Meng Wang & Tim Shiel"},
               { "title": "Heaven Inverted", "performer": "Tim Shiel"},
