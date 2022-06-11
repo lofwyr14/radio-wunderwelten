@@ -72890,6 +72890,10 @@
         {
           "id": "23",
           "date": "2022-06-09",
+          "checked": {
+            "date": "2022-06-11",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -72954,7 +72958,7 @@
               },
               {
                 "time": "22:52",
-                "title": "Take My Fantasy",
+                "title": "Take My Fantasy (Maston Remix)",
                 "performer": "The Saxophones"
               },
               {
@@ -72988,6 +72992,11 @@
                 "time": "23:20",
                 "title": "Tarot",
                 "performer": "Garden Gate"
+              },
+              {
+                "time": "23:23",
+                "title": "Shoot Out",
+                "performer": "Jim Noir"
               },
               {
                 "time": "23:27",
