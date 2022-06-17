@@ -7867,6 +7867,54 @@
               { "title": "The Code", "performer": "IDK feat. Mike Dimes"}
             ]
           ]
+        },
+        {
+          "id": "23",
+          "date": "2022-06-05",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Summer Love", "performer": "Futurebae"},
+              { "title": "3210", "performer": "Jeshi"},
+              { "title": "Flep VIP", "performer": "Mitekiss feat. Manga Saint Hilare"},
+              { "title": "Gwaan So", "performer": "Yoshino feat. Tikiman"},
+              { "title": "Easy Riding (Dubvisionist´s Echo Beach Remix)", "performer": "Automat"},
+              { "title": "A Love So True", "performer": "Prayer"},
+              { "title": "Tulip", "performer": "Garneau & Max Ulis"},
+              { "title": "Mirror In The Sky", "performer": "Peaking Lights"},
+              { "title": "Coloured Tongues", "performer": "Wet Satin"},
+              { "title": "Clear", "performer": "Dehd"},
+              { "title": "No Dither", "performer": "Holodrum"},
+              { "title": "Wolk", "performer": "Dans Dans"}
+            ],
+            [
+              { "time": "23:04", "title": "Moon After Moon", "performer": "WhoMadeWho"},
+              { "title": "Ain´t Got Nobody", "performer": "Sisy Ey"},
+              { "title": "Champion", "performer": "Warpaint"},
+              { "title": "Blind Walk", "performer": "Infant Finches"},
+              { "title": "Wine & Spirits", "performer": "070 Shake"},
+              { "title": "Hang A Cross On Me", "performer": "Pond"},
+              { "title": "Loaded", "performer": "Primal Scream"},
+              { "title": "Cleverest", "performer": "Mugwump"},
+              { "title": "1989", "performer": "Aitch"},
+              { "title": "Everybody´s Free (Paul Oakenfold Remix)", "performer": "Rozalla & Dave Ralph"},
+              { "title": "Climax", "performer": "Hannah Laing"},
+              { "title": "Hold", "performer": "Dehd"}
+            ],
+            [
+              { "time": "00:04", "title": "Punk Rock Loser", "performer": "Viagra Boys"},
+              { "title": "Adore Me", "performer": "Black Lizard"},
+              { "title": "Hysterie + Abfall", "performer": "Lyschko"},
+              { "title": "Broken", "performer": "The Haunted Youth"},
+              { "title": "Lumens (Trentemöller Remix)", "performer": "The KVB"},
+              { "title": "Option 8", "performer": "Horsegirl"},
+              { "title": "Leere", "performer": "Vomit Heat feat. Stella Sommer"},
+              { "title": "Sci-Fi Immune", "performer": "Infant Finches"},
+              { "title": "No Need To Hide", "performer": "Drens"},
+              { "title": "Rose", "performer": "Jetzt!"},
+              { "title": "Zurück zu mIr", "performer": "Jochen Distelmeyer"},
+              { "title": "All The Good Times", "performer": "Angel Olsen"}
+            ]
+          ]
         }
       ]
     }
