@@ -1,12 +1,12 @@
 #! /bin/bash
 
 # vermutlich immer um 2 erhöhen
-ID=284
+ID=282
 
 # aktuelles Jahr
 YEAR=2022
 # muss jedes Jahr und beim Ausfall einer Sendung angepasst werden
-IDWEEKOFFSET=119
+IDWEEKOFFSET=117
 # 4 = Donnerstags
 DAYOFWEEK=4
 

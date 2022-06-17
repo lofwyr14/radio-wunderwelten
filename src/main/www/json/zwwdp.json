@@ -73045,6 +73045,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "24",
+          "date": "2022-06-16",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "The Logical Song",
+                "performer": "Pomplamoose"
+              },
+              {
+                "time": "22:08",
+                "title": "Lick Your Wounds",
+                "performer": "Lawrence Arabia"
+              },
+              {
+                "time": "22:12",
+                "title": "Wind",
+                "performer": "Healing Potpourri"
+              },
+              {
+                "time": "22:15",
+                "title": "Lavender Girl",
+                "performer": "Caamp"
+              },
+              {
+                "time": "22:19",
+                "title": "Bring On The Night (Live From Hong Kong)",
+                "performer": "The Police"
+              },
+              {
+                "time": "22:25",
+                "title": "Comes In Waves",
+                "performer": "Dawes"
+              },
+              {
+                "time": "22:32",
+                "title": "Ebony Mcqueen",
+                "performer": "Dave Stewart"
+              },
+              {
+                "time": "22:35",
+                "title": "All My Pretty Dresses",
+                "performer": "Destroyer"
+              },
+              {
+                "time": "22:40",
+                "title": "I'd Like To Make My Exit With Panache",
+                "performer": "Olivier Rocabois"
+              },
+              {
+                "time": "22:43",
+                "title": "Bathroom Light",
+                "performer": "Mt. Joy"
+              },
+              {
+                "time": "22:47",
+                "title": "Peg (Reflex Revision Remix)",
+                "performer": "Steely Dan"
+              },
+              {
+                "time": "22:54",
+                "title": "Dugout",
+                "performer": "The Backseat Lovers"
+              },
+              {
+                "time": "22:59",
+                "title": "Beatmaker",
+                "performer": "Matt Berry"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "This Is The Lost Generation",
+                "performer": "The Lost Generation"
+              },
+              {
+                "time": "23:08",
+                "title": "Shock!!!",
+                "performer": "YMB"
+              },
+              {
+                "time": "23:12",
+                "title": "I'm Not In Love",
+                "performer": "Camera Obscura"
+              },
+              {
+                "time": "23:16",
+                "title": "Universal Credit",
+                "performer": "Margot"
+              },
+              {
+                "time": "23:22",
+                "title": "Make A Wish",
+                "performer": "Joey Dosik"
+              },
+              {
+                "time": "23:25",
+                "title": "Go Downstairs To The Blue Moon, Buy Some Fried Chicken",
+                "performer": "Bubble Tea and Cigarettes"
+              },
+              {
+                "time": "23:32",
+                "title": "The Thing You Love",
+                "performer": "Boo Hewerdine"
+              },
+              {
+                "time": "23:35",
+                "title": "Mosaic",
+                "performer": "Sven Wunder"
+              },
+              {
+                "time": "23:38",
+                "title": "A Moment Of Mystery",
+                "performer": "FKJ feat. Toro Y Moi"
+              },
+              {
+                "time": "23:42",
+                "title": "Dunes",
+                "performer": "Modern Nature"
+              },
+              {
+                "time": "23:45",
+                "title": "The Midwife Cycles Home",
+                "performer": "The Light Music Company"
+              },
+              {
+                "time": "23:49",
+                "title": "Nothing To Lose",
+                "performer": "Andrew Kamen"
+              },
+              {
+                "time": "23:52",
+                "title": "The Train",
+                "performer": "Frank Sinatra"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
