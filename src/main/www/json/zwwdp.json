@@ -73194,6 +73194,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "25",
+          "date": "2022-06-23",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Diamond In The Dark",
+                "performer": "Liam Gallagher"
+              },
+              {
+                "time": "22:08",
+                "title": "Madison",
+                "performer": "Drugdealer"
+              },
+              {
+                "time": "22:12",
+                "title": "West Side Jet",
+                "performer": "Young Gun Silver Fox"
+              },
+              {
+                "time": "22:16",
+                "title": "Little Miss",
+                "performer": "Will Joseph Cook"
+              },
+              {
+                "time": "22:23",
+                "title": "Bare Wood Aisles",
+                "performer": "Neon Waltz"
+              },
+              {
+                "time": "22:27",
+                "title": "One Morning",
+                "performer": "Dave Stewart"
+              },
+              {
+                "time": "22:31",
+                "title": "Wind",
+                "performer": "Healing Potpourri"
+              },
+              {
+                "time": "22:35",
+                "title": "Lucky",
+                "performer": "Jonathan Jeremiah"
+              },
+              {
+                "time": "22:39",
+                "title": "I'm Your Puppet",
+                "performer": "Joe Pernice"
+              },
+              {
+                "time": "22:45",
+                "title": "Beatmaker",
+                "performer": "Doris"
+              },
+              {
+                "time": "22:49",
+                "title": "Sipping On The Sweet Nectar",
+                "performer": "Unbekannt"
+              },
+              {
+                "time": "22:54",
+                "title": "Unsung",
+                "performer": "Lydia Persaud"
+              },
+              {
+                "time": "22:57",
+                "title": "Tarot",
+                "performer": "Garden Gate"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Ride Like The Wind",
+                "performer": "Benny Sings"
+              },
+              {
+                "time": "23:07",
+                "title": "Falls On Me",
+                "performer": "Sylvie"
+              },
+              {
+                "time": "23:12",
+                "title": "Guardians Of Eden",
+                "performer": "Wax Machine"
+              },
+              {
+                "time": "23:16",
+                "title": "Pool House",
+                "performer": "The Backseat Lovers"
+              },
+              {
+                "time": "23:21",
+                "title": "Buddy's Rendezvous",
+                "performer": "Lana del Rey"
+              },
+              {
+                "time": "23:26",
+                "title": "Felicia",
+                "performer": "Kolumbo"
+              },
+              {
+                "time": "23:32",
+                "title": "Underlands",
+                "performer": "Andrew Bird"
+              },
+              {
+                "time": "23:35",
+                "title": "Cochineal",
+                "performer": "Steve Cradock"
+              },
+              {
+                "time": "23:39",
+                "title": "Slow Hot Wind",
+                "performer": "Penny Goodwin"
+              },
+              {
+                "time": "23:43",
+                "title": "Morning",
+                "performer": "Fazer"
+              },
+              {
+                "time": "23:47",
+                "title": "Perfect Specimens",
+                "performer": "Lawrence Arabia"
+              },
+              {
+                "time": "23:50",
+                "title": "5 AM Empanada With You",
+                "performer": "Bubble Tea and Cigarettes"
+              },
+              {
+                "time": "23:52",
+                "title": "Beautiful Second Hand Man",
+                "performer": "Ginette Reno"
+              },
+              {
+                "time": "23:54",
+                "title": "Carousel",
+                "performer": "Donna Blue"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
