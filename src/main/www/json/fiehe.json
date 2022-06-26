@@ -7916,6 +7916,51 @@
               { "title": "All The Good Times", "performer": "Angel Olsen"}
             ]
           ]
+        },
+        {
+          "id": "24",
+          "date": "2022-06-12",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Eden Portal", "performer": "Otik"},
+              { "title": "Skylines", "performer": "Otik"},
+              { "title": "Overknight´s A Weekend", "performer": "Andrew Tuttle feat. Steve Gunn & Michael A. Muller"},
+              { "title": "New Skin Care", "performer": "Minikingz"},
+              { "title": "Running", "performer": "Prayer"},
+              { "title": "The Failure Of Stiff, Tailored Friends", "performer": "Yoo Doo Right"},
+              { "title": "Structural Index (The KVB After-Hours Version)", "performer": "The KVB"},
+              { "title": "Traum Für Alle", "performer": "Flying Moon In Space"},
+              { "title": "Hallogallo (Stephen Morris & Gabe Gurnsey Remix)", "performer": "NEU!"},
+              { "title": "Buddy X (Honey Dijon Remix)", "performer": "Neneh Cherry"}
+            ],
+            [
+              { "time": "23:04", "title": "Demon", "performer": "Moonchild Sanelly feat. Sad Night Dynamite"},
+              { "title": "1 Big Dark Room", "performer": "My Nu Leng"},
+              { "title": "Talk Shows", "performer": "Low Hummer"},
+              { "title": "Toki Doki", "performer": "Aili"},
+              { "title": "California", "performer": "Bonny Light Horseman"},
+              { "title": "Stell dir vor, ich komme an die Macht, und es langweilt mich", "performer": "JETZT!"},
+              { "title": "Crystal Ball", "performer": "Jasmyn"},
+              { "title": "Low Profile (Pride Remix)", "performer": "Nakkia Gold"},
+              { "title": "We Will F*k You Up (Gerd Janson Remix)", "performer": "Crazy P"},
+              { "title": "Push", "performer": "Gabe Gurnsey"},
+              { "title": "Shutter", "performer": "Because Of Art"},
+              { "title": "Globe", "performer": "Pale Blue Eyes"}
+            ],
+            [
+              { "time": "00:04", "title": "Sliding Through Our Fingers", "performer": "Kuedo"},
+              { "title": "Entoure", "performer": "Anthony Naples & DJ Python"},
+              { "title": "a1 (uu004)", "performer": "Unknown"},
+              { "title": "Earth Mover", "performer": "Sister Zo"},
+              { "title": "Unlocked", "performer": "Herman"},
+              { "title": "Covivi", "performer": "Moonchild Sanelly feat. Theology HD"},
+              { "title": "Buffalo Stance", "performer": "Neneh Cherry & Robyn feat. Mapei"},
+              { "title": "One", "performer": "Hercules & Love Affair feat. Anohni"},
+              { "title": "Detektive (Factory Flooor Remix)  ", "performer": "Messer"},
+              { "title": "Venomous Dogma", "performer": "Fantastic Negrito"},
+              { "title": "Hilf dem Widerstand", "performer": "JETZT!"}
+            ]
+          ]
         }
       ]
     }
