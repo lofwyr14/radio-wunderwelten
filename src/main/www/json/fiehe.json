@@ -7872,6 +7872,7 @@
         {
           "id": "23",
           "date": "2022-06-05",
+          "checked": {"date": "2022-07-02", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Summer Love", "performer": "Futurebae"},
@@ -7895,9 +7896,9 @@
               { "title": "Wine & Spirits", "performer": "070 Shake"},
               { "title": "Hang A Cross On Me", "performer": "Pond"},
               { "title": "Loaded", "performer": "Primal Scream"},
-              { "title": "Cleverest", "performer": "Mugwump"},
+              { "title": "Cleverest (Extended Version)", "performer": "Mugwump"},
               { "title": "1989", "performer": "Aitch"},
-              { "title": "Everybody´s Free (Paul Oakenfold Remix)", "performer": "Rozalla & Dave Ralph"},
+              { "title": "Everybody´s Free (Paul Oakenfold Nu Rave Remix)", "performer": "Rozalla & Dave Ralph"},
               { "title": "Climax", "performer": "Hannah Laing"},
               { "title": "Hold", "performer": "Dehd"}
             ],
