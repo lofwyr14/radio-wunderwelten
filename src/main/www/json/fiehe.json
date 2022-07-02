@@ -7962,6 +7962,56 @@
               { "title": "Hilf dem Widerstand", "performer": "JETZT!"}
             ]
           ]
+        },
+        {
+          "id": "25",
+          "date": "2022-06-19",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Consciousness", "performer": "Chase & Status"},
+              { "title": "432", "performer": "Beat Merchants"},
+              { "title": "Where´s This Love", "performer": "Joy Club"},
+              { "title": "Koyo Koyo (V.B. Kühl Remix)", "performer": "Rabii Harnoune & V.B. Kühl"},
+              { "title": "Real LOve", "performer": "Whitney"},
+              { "title": "Sideways", "performer": "Flasher"},
+              { "title": "Sticky", "performer": "Drake"},
+              { "title": "Durch Flowerz", "performer": "Skream"},
+              { "title": "Ghosts (Daniel Avery Remix)", "performer": "Rone"},
+              { "title": "Beating In Time", "performer": "Baby Strange"},
+              { "title": "Don´t Press Me", "performer": "Dry Cleaning"},
+              { "title": "Talk Shows", "performer": "Low Humme"},
+              { "title": "Untethered", "performer": "PVA"},
+              { "title": "Suspect", "performer": "Rosa Anschütz"}
+            ],
+            [
+              { "time": "23:04", "title": "Wake Me Up", "performer": "Foals"},
+              { "title": "Cicada Rhythm (Prins Thomas Remix)", "performer": "Bottler"},
+              { "title": "Massive", "performer": "Drake"},
+              { "title": "Big Daddy Ya", "performer": "Yaya Bey"},
+              { "title": "Montara", "performer": "Kiefer"},
+              { "title": "Dexter´s Breakfast", "performer": "Henry Keen ft. Ben Hadwen"},
+              { "title": "Lost Stars", "performer": "Whknws."},
+              { "title": "Love Will Light Your Dreams", "performer": "Stimulator Jones"},
+              { "title": "The Room", "performer": "Flying Lotus feat. Devon Tracey"},
+              { "title": "Poisonous Storytelling", "performer": "Hercules & Love Affair & Anohni"},
+              { "title": "Chick", "performer": "Sam Taylor"}
+            ],
+            [
+              { "time": "00:04", "title": "Bring It", "performer": "Akumen"},
+              { "title": "This Can´t Be Everything", "performer": "Phantoms"},
+              { "title": "Voicemail", "performer": "Bloomsday"},
+              { "title": "Heavy Heart", "performer": "Bartees Strange"},
+              { "title": "Where I´ll Stand", "performer": "The Dream Syndicate"},
+              { "title": "Wait", "performer": "Air Waves"},
+              { "title": "Damage", "performer": "Flasher"},
+              { "title": "My Other People", "performer": "TV Priest"},
+              { "title": "Mirrors", "performer": "Just Mustard"},
+              { "title": "Heatseeker", "performer": "Zanshin"},
+              { "title": "Hold You (Fours Mix)", "performer": "Herve & Solante"},
+              { "title": "Things U Do", "performer": "DJ Swagger"},
+              { "title": "Sliding Through Our Fingers", "performer": "Kuedo"}
+            ]
+          ]
         }
       ]
     }
