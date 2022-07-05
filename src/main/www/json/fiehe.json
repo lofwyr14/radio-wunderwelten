@@ -8012,6 +8012,51 @@
               { "title": "Sliding Through Our Fingers", "performer": "Kuedo"}
             ]
           ]
+        },
+        {
+          "id": "26",
+          "date": "2022-06-26",
+          "songs": [
+            [
+              { "title": "Arrowhead (Prins Thomas Remix)", "performer": "Mouth Water"},
+              { "title": "Fides", "performer": "Layla Benitez"},
+              { "title": "Ashes Of Snow (Clive Henry Remix)", "performer": "Parallells"},
+              { "title": "Tou", "performer": "Naima Bock"},
+              { "title": "Rise", "performer": "Hyetal"},
+              { "title": "Too Far", "performer": "Obli"},
+              { "title": "The Spirit", "performer": "DJ Wiggle"},
+              { "title": "Infinity", "performer": "Minru"},
+              { "title": "Healing", "performer": "Jozef K feat. Jade Parker"},
+              { "title": "On The Edge", "performer": "Automatic"}
+            ],
+            [
+              { "title": "It´s About Being Free, Really", "performer": "The Brian Jonestown Massacre"},
+              { "title": "Beyond Frames", "performer": "Holy Ship"},
+              { "title": "U", "performer": "Soccer Mommy"},
+              { "title": "Bones", "performer": "Soccer Mommy"},
+              { "title": "Silk Chiffon", "performer": "MUNA feat. Phoebe Bridgers"},
+              { "title": "Baker Miller Pink", "performer": "Sofie Royer"},
+              { "title": "Words", "performer": "F.R. David"},
+              { "title": "Shape Of Your Heart", "performer": "Joda"},
+              { "title": "Baby, I Had An Abortion", "performer": "Petrol Girls"},
+              { "title": "Spacetime Fairytale", "performer": "Regina Spektor"},
+              { "title": "Hockstrecksprünge", "performer": "Hinterlandgang"}
+            ],
+            [
+              { "title": "DL4V", "performer": "Nemzzz"},
+              { "title": "Tectonic (FAUZIA Remix)", "performer": "Tirzah"},
+              { "title": "Yebo Teacher (Extended)", "performer": "Moonchild Sanelly"},
+              { "title": "Dololo (instrumantal)", "performer": "Breaka"},
+              { "title": "My Moment", "performer": "Chinonegro"},
+              { "title": "Love Grows (Where My Rosemary Goes)", "performer": "Edison Lighthouse"},
+              { "title": "Fire", "performer": "The Crazy World Of Arthur Brown"},
+              { "title": "Fire", "performer": "The Prodigy"},
+              { "title": "Fire", "performer": "Lizzy Mercier Descloux"},
+              { "title": "Tomorrow Night", "performer": "Atomic Rooster"},
+              { "title": "Coffin Confession", "performer": "Arthur Brown With Rik Patten"},
+              { "title": "Going Down", "performer": "Arthur Brown With Rik Patten"}
+            ]
+          ]
         }
       ]
     }
