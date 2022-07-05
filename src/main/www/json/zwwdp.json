@@ -73343,6 +73343,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "26",
+          "date": "2022-06-30",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "West Side Jet",
+                "performer": "Young Gun Silver Fox"
+              },
+              {
+                "time": "22:08",
+                "title": "Is It Easy",
+                "performer": "Echo Frame"
+              },
+              {
+                "time": "22:12",
+                "title": "Vegetable Soup",
+                "performer": "Ponte Pilas"
+              },
+              {
+                "time": "22:15",
+                "title": "Sledgehammer",
+                "performer": "Scary Pockets feat. Ben Barnes"
+              },
+              {
+                "time": "22:18",
+                "title": "Lucky",
+                "performer": "Jonathan Jeremiah"
+              },
+              {
+                "time": "22:21",
+                "title": "Colour me with your Love",
+                "performer": "Hague & White"
+              },
+              {
+                "time": "22:25",
+                "title": "Ein Leben in rot mit purpurnen Blitzen",
+                "performer": "Die Liga der gewöhnlichen Gentlemen"
+              },
+              {
+                "time": "22:30",
+                "title": "Can't Stop The World",
+                "performer": "Timmy Sean"
+              },
+              {
+                "time": "22:33",
+                "title": "Everything Is Permanent",
+                "performer": "Dawes"
+              },
+              {
+                "time": "22:39",
+                "title": "Orange Blood",
+                "performer": "Mt. Joy"
+              },
+              {
+                "time": "22:43",
+                "title": "Seasons In The Sun",
+                "performer": "The Beach Boys"
+              },
+              {
+                "time": "22:47",
+                "title": "Real Love",
+                "performer": "Whitney"
+              },
+              {
+                "time": "22:55",
+                "title": "There Must Be A Catch",
+                "performer": "Cormac O Caoimh"
+              },
+              {
+                "time": "22:58",
+                "title": "Sun-Kissed",
+                "performer": "Sven Wunder"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "I Say A Little Prayer",
+                "performer": "Aretha Franklin"
+              },
+              {
+                "time": "23:08",
+                "title": "Open Window",
+                "performer": "Warhaus"
+              },
+              {
+                "time": "23:13",
+                "title": "Moon Sails",
+                "performer": "Rachael Dadd"
+              },
+              {
+                "time": "23:17",
+                "title": "Last Tango In Paris",
+                "performer": "Herb Alpert And The T.J.B."
+              },
+              {
+                "time": "23:20",
+                "title": "Annie's Song",
+                "performer": "Abby Gundersen & William Fitzsimmons"
+              },
+              {
+                "time": "23:23",
+                "title": "Blackbird",
+                "performer": "Harper's Bizarre"
+              },
+              {
+                "time": "23:27",
+                "title": "Police Dog Blues (Radio Edit)",
+                "performer": "Lambchop"
+              },
+              {
+                "time": "23:31",
+                "title": "Right Down Here",
+                "performer": "Asha Puthli"
+              },
+              {
+                "time": "23:34",
+                "title": "Sunray Venus",
+                "performer": "Sound Of Ceres"
+              },
+              {
+                "time": "23:37",
+                "title": "Mystermoogs",
+                "performer": "Jim Noir"
+              },
+              {
+                "time": "23:41",
+                "title": "Falling",
+                "performer": "Moon Panda"
+              },
+              {
+                "time": "23:45",
+                "title": "Toxic Blood",
+                "performer": "District Five"
+              },
+              {
+                "time": "23:50",
+                "title": "Alone Again, Naturally",
+                "performer": "Vulfmon, Monica MArtin & Hailey Niswanger"
+              },
+              {
+                "time": "23:54",
+                "title": "Something",
+                "performer": "Bobby Forrester"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
