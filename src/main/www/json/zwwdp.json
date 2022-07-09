@@ -73347,6 +73347,10 @@
         {
           "id": "26",
           "date": "2022-06-30",
+          "checked": {
+            "date": "2022-07-09",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -73381,7 +73385,7 @@
               },
               {
                 "time": "22:25",
-                "title": "Ein Leben in rot mit purpurnen Blitzen",
+                "title": "Ein Leben in rot mit purpurnen Blitzen (Neuer Mix)",
                 "performer": "Die Liga der gewöhnlichen Gentlemen"
               },
               {
@@ -73408,6 +73412,11 @@
                 "time": "22:47",
                 "title": "Real Love",
                 "performer": "Whitney"
+              },
+              {
+                "time": "22:50",
+                "title": "The Summer At The Sawmill",
+                "performer": "The Loch Ness Mouse"
               },
               {
                 "time": "22:55",
@@ -73439,7 +73448,7 @@
               {
                 "time": "23:17",
                 "title": "Last Tango In Paris",
-                "performer": "Herb Alpert And The T.J.B."
+                "performer": "Herb Alpert And The Tijuana Brass"
               },
               {
                 "time": "23:20",
