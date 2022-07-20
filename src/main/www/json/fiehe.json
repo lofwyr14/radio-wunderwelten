@@ -7921,6 +7921,7 @@
         {
           "id": "24",
           "date": "2022-06-12",
+          "checked": {"date": "2022-07-20", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Eden Portal", "performer": "Otik"},
@@ -7941,7 +7942,7 @@
               { "title": "Toki Doki", "performer": "Aili"},
               { "title": "California", "performer": "Bonny Light Horseman"},
               { "title": "Stell dir vor, ich komme an die Macht, und es langweilt mich", "performer": "JETZT!"},
-              { "title": "Crystal Ball", "performer": "Jasmyn"},
+              { "title": "Green Nature", "performer": "Jasmyn"},
               { "title": "Low Profile (Pride Remix)", "performer": "Nakkia Gold"},
               { "title": "We Will F*k You Up (Gerd Janson Remix)", "performer": "Crazy P"},
               { "title": "Push", "performer": "Gabe Gurnsey"},
