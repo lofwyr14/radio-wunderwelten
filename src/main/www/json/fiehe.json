@@ -7973,10 +7973,10 @@
               { "title": "432", "performer": "Beat Merchants"},
               { "title": "Where´s This Love", "performer": "Joy Club"},
               { "title": "Koyo Koyo (V.B. Kühl Remix)", "performer": "Rabii Harnoune & V.B. Kühl"},
-              { "title": "Real LOve", "performer": "Whitney"},
+              { "title": "Real Love", "performer": "Whitney"},
               { "title": "Sideways", "performer": "Flasher"},
               { "title": "Sticky", "performer": "Drake"},
-              { "title": "Durch Flowerz", "performer": "Skream"},
+              { "title": "Dutch Flowerz", "performer": "Skream"},
               { "title": "Ghosts (Daniel Avery Remix)", "performer": "Rone"},
               { "title": "Beating In Time", "performer": "Baby Strange"},
               { "title": "Don´t Press Me", "performer": "Dry Cleaning"},
@@ -8056,6 +8056,49 @@
               { "title": "Tomorrow Night", "performer": "Atomic Rooster"},
               { "title": "Coffin Confession", "performer": "Arthur Brown With Rik Patten"},
               { "title": "Going Down", "performer": "Arthur Brown With Rik Patten"}
+            ]
+          ]
+        },
+        {
+          "id": "30",
+          "date": "2022-07-24",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Carry On", "performer": "Crosby, Stills, Nash & Young"},
+              { "title": "Summer Is Calling (Matt B House Mix)", "performer": "The Group"},
+              { "title": "Kite Day", "performer": "DJ Counselling"},
+              { "title": "Do 2 U", "performer": "Heron Flow"},
+              { "title": "Little Things", "performer": "dBridge"},
+              { "title": "Waiting To Go", "performer": "DRS, Duskee & Disrupta"},
+              { "title": "Fantasy", "performer": "James Last"},
+              { "title": "Zipcodes", "performer": "Joey Bada$$"},
+              { "title": "Aquamarine", "performer": "Danger Mouse & Black Thought feat. Michael Kiwanuka"},
+              { "title": "Do You", "performer": "Ghost Woman"},
+              { "title": "Summer Dream", "performer": "Bonny Light Horseman"},
+              { "title": "RU Ready", "performer": "Dreamcastmoe"}
+            ],
+            [
+              { "time": "23:04", "title": "UFObird  ", "performer": "Spacemoth"},
+              { "title": "Dirty Hugs (Richard Sen Remix)", "performer": "Glok"},
+              { "title": "Valleys", "performer": "Working Men´s Club"},
+              { "title": "Ploy", "performer": "Working Men´s Club"},
+              { "title": "Too Late Now (Soulwax Remix)", "performer": "Wet Leg"},
+              { "title": "Hero Man", "performer": "PVA"},
+              { "title": "Microdosing (Conducta Remix)", "performer": "UNIIQU3"},
+              { "title": "Six Hills", "performer": "Lewsberg"},
+              { "title": "I Like You", "performer": "DC Gore"},
+              { "title": "Keep It Goin´ On", "performer": "Blade"}
+            ],
+            [
+              { "time": "00:04", "title": "The Slow Grinder", "performer": "Pretty Lightning"},
+              { "title": "Lovedance", "performer": "Steven Simpson "},
+              { "title": "Moss", "performer": "Vertical Cat"},
+              { "title": "Meli (II)", "performer": "Bicep"},
+              { "title": "Tanz mit mir", "performer": "Jochen Distelmeyer"},
+              { "title": "Comes In Waves", "performer": "Dawes"},
+              { "title": "I´ve Got You Surrounded (With My Love)", "performer": "Jack White"},
+              { "title": "Bayern", "performer": "Wenn einer lügt dann wir"},
+              { "title": "N.Y.C.A.W.", "performer": "Gwenno"}
             ]
           ]
         }
