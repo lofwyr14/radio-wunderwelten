@@ -73511,6 +73511,10 @@
         {
           "id": "27",
           "date": "2022-07-07",
+          "checked": {
+            "date": "2022-07-10",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -73619,6 +73623,11 @@
                 "time": "23:24",
                 "title": "Space",
                 "performer": "JB Dunckel feat. Heather d'Angelo"
+              },
+              {
+                "time": "23:27",
+                "title": "Make It Alright",
+                "performer": "Zablon"
               },
               {
                 "time": "23:33",
