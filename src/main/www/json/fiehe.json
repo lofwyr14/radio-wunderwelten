@@ -7967,6 +7967,7 @@
         {
           "id": "25",
           "date": "2022-06-19",
+          "checked": {"date": "2022-08-06", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Consciousness", "performer": "Chase & Status"},
@@ -7990,8 +7991,8 @@
               { "title": "Massive", "performer": "Drake"},
               { "title": "Big Daddy Ya", "performer": "Yaya Bey"},
               { "title": "Montara", "performer": "Kiefer"},
-              { "title": "Dexter´s Breakfast", "performer": "Henry Keen ft. Ben Hadwen"},
-              { "title": "Lost Stars", "performer": "Whknws."},
+              { "title": "Dexter´s Breakfast", "performer": "Henry Keen feat. Ben Hadwen"},
+              { "title": "Loststars", "performer": "Whknws."},
               { "title": "Love Will Light Your Dreams", "performer": "Stimulator Jones"},
               { "title": "The Room", "performer": "Flying Lotus feat. Devon Tracey"},
               { "title": "Poisonous Storytelling", "performer": "Hercules & Love Affair & Anohni"},
@@ -8008,7 +8009,7 @@
               { "title": "My Other People", "performer": "TV Priest"},
               { "title": "Mirrors", "performer": "Just Mustard"},
               { "title": "Heatseeker", "performer": "Zanshin"},
-              { "title": "Hold You (Fours Mix)", "performer": "Herve & Solante"},
+              { "title": "Hold You (Twos Mix)", "performer": "Herve & Solante"},
               { "title": "Things U Do", "performer": "DJ Swagger"},
               { "title": "Sliding Through Our Fingers", "performer": "Kuedo"}
             ]
