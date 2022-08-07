@@ -8018,12 +8018,13 @@
         {
           "id": "26",
           "date": "2022-06-26",
+          "checked": {"date": "2022-08-07", "user": "jg"},
           "songs": [
             [
-              { "title": "Arrowhead (Prins Thomas Remix)", "performer": "Mouth Water"},
+              { "time": "22:04", "title": "Arrowhead (Prins Thomas Diskomiks)", "performer": "Mouth Water"},
               { "title": "Fides", "performer": "Layla Benitez"},
               { "title": "Ashes Of Snow (Clive Henry Remix)", "performer": "Parallells"},
-              { "title": "Tou", "performer": "Naima Bock"},
+              { "title": "Toll", "performer": "Naima Bock"},
               { "title": "Rise", "performer": "Hyetal"},
               { "title": "Too Far", "performer": "Obli"},
               { "title": "The Spirit", "performer": "DJ Wiggle"},
@@ -8032,9 +8033,9 @@
               { "title": "On The Edge", "performer": "Automatic"}
             ],
             [
-              { "title": "It´s About Being Free, Really", "performer": "The Brian Jonestown Massacre"},
+              { "time": "23:04", "title": "It´s About Being Free, Really", "performer": "The Brian Jonestown Massacre"},
               { "title": "Beyond Frames", "performer": "Holy Ship"},
-              { "title": "U", "performer": "Soccer Mommy"},
+              { "title": "With U", "performer": "Soccer Mommy"},
               { "title": "Bones", "performer": "Soccer Mommy"},
               { "title": "Silk Chiffon", "performer": "MUNA feat. Phoebe Bridgers"},
               { "title": "Baker Miller Pink", "performer": "Sofie Royer"},
@@ -8045,18 +8046,18 @@
               { "title": "Hockstrecksprünge", "performer": "Hinterlandgang"}
             ],
             [
-              { "title": "DL4V", "performer": "Nemzzz"},
+              { "time": "00:04", "title": "DL4V", "performer": "Nemzzz"},
               { "title": "Tectonic (FAUZIA Remix)", "performer": "Tirzah"},
-              { "title": "Yebo Teacher (Extended)", "performer": "Moonchild Sanelly"},
-              { "title": "Dololo (instrumantal)", "performer": "Breaka"},
+              { "title": "Yebo Teacher (Extended Version)", "performer": "Moonchild Sanelly"},
+              { "title": "Dololo (Instrumantal Mix)", "performer": "Breaka"},
               { "title": "My Moment", "performer": "Chinonegro"},
               { "title": "Love Grows (Where My Rosemary Goes)", "performer": "Edison Lighthouse"},
               { "title": "Fire", "performer": "The Crazy World Of Arthur Brown"},
               { "title": "Fire", "performer": "The Prodigy"},
               { "title": "Fire", "performer": "Lizzy Mercier Descloux"},
               { "title": "Tomorrow Night", "performer": "Atomic Rooster"},
-              { "title": "Coffin Confession", "performer": "Arthur Brown With Rik Patten"},
-              { "title": "Going Down", "performer": "Arthur Brown With Rik Patten"}
+              { "title": "Coffin Confession", "performer": "Arthur Brown with Rik Patten"},
+              { "title": "Going Down", "performer": "Arthur Brown with Rik Patten"}
             ]
           ]
         },
