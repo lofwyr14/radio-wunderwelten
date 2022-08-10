@@ -8103,6 +8103,53 @@
               { "title": "N.Y.C.A.W.", "performer": "Gwenno"}
             ]
           ]
+        },
+        {
+          "id": "31",
+          "date": "2022-07-31",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Time Glide", "performer": "Kuedo"},
+              { "title": "What It Is", "performer": "Joe Armon-Jones & Mala"},
+              { "title": "Pressurelicious", "performer": "Megan Thee Stallion feat. Future"},
+              { "title": "Behind The Sun", "performer": "Odesza"},
+              { "title": "Move On", "performer": "Satin Jackets feat. Panama"},
+              { "title": "Cozy", "performer": "Beyonce"},
+              { "title": "Alien Superstar", "performer": "Beyonce"},
+              { "title": "Wish I Was Dead", "performer": "Ekkstacy"},
+              { "title": "Purple Haze", "performer": "The Cure"},
+              { "title": "Nightclub Marilyn", "performer": "Acid Klaus"},
+              { "title": "Glauben", "performer": "Kratzen"},
+              { "title": "No Cover", "performer": "Will Miles"},
+              { "title": "Do 2 U", "performer": "Heron Flow"}
+            ],
+            [
+              { "time": "23:04", "title": "Troglodyte", "performer": "Viagra Boys"},
+              { "title": "Cut", "performer": "Working Men´s Club"},
+              { "title": "Crash This Car", "performer": "Silverclub"},
+              { "title": "Where´s This Love", "performer": "Joy Club"},
+              { "title": "Do It To Me", "performer": "Splonie"},
+              { "title": "Kid With A Lion´s Heart", "performer": "Linguistics"},
+              { "title": "Televised", "performer": "Subten, Harry Shotta & Eloquin"},
+              { "title": "Asking For You", "performer": "Spacemoth"},
+              { "title": "Crossing At The Shallow", "performer": "Sam Prekop & John McEntire"},
+              { "title": "This Time (Four Tet Remix)", "performer": "Nina Kraviz"}
+            ],
+            [
+              { "time": "00:04", "title": "Negative Returns (Four Tet Remix)", "performer": "Krust"},
+              { "title": "Nichoho", "performer": "Seba"},
+              { "title": "Coochie", "performer": "Shygirl"},
+              { "title": "I Like You", "performer": "DC Gore"},
+              { "title": "Turn Me On", "performer": "Dinner"},
+              { "title": "Freight", "performer": "Earth Boys"},
+              { "title": "All Power Must Remain Hidden", "performer": "Wilder Maker"},
+              { "title": "Loecher im Himmel", "performer": "Shatten"},
+              { "title": "Will und kann nicht mehr", "performer": "Love A"},
+              { "title": "Fairy Rust", "performer": "Wombo"},
+              { "title": "Nietzsche On The Beach", "performer": "DC Gore"},
+              { "title": "Losing Touch", "performer": "Patrick Holland"}
+            ]
+          ]
         }
       ]
     }
