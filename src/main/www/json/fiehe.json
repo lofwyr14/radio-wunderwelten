@@ -8150,6 +8150,54 @@
               { "title": "Losing Touch", "performer": "Patrick Holland"}
             ]
           ]
+        },
+        {
+          "id": "32",
+          "date": "2022-08-07",
+          "songs": [
+            [
+              { "time": "22:04", "title": "DNA", "performer": "AB, DA"},
+              { "title": "Billie Eilish", "performer": "Amani White"},
+              { "title": "Breathe", "performer": "IDK feat. Kaytranada"},
+              { "title": "Taco", "performer": "IDK feat. Kaytranada"},
+              { "title": "Twin Flame", "performer": "Kaytranada & Anderson .Paak"},
+              { "title": "The City Never Sleeps", "performer": "EL-B"},
+              { "title": "Nightclub Marilyn", "performer": "Acid Klaus"},
+              { "title": "Ebeneezer Goode", "performer": "The Shamen"},
+              { "title": "Vertigo", "performer": "ANOTR x Abel Balder"},
+              { "title": "Everything Goes My Way (Anna Prior Remix)", "performer": "Metronomy"},
+              { "title": "Featured Singer", "performer": "Cheekface"},
+              { "title": "O Anna", "performer": "Wilder Maker feat. Adam Duritz"},
+              { "title": "Anna Calls From The Arctic", "performer": "Dry Cleaning"},
+              { "title": "Little Gem", "performer": "Pale Blue Eyes"}
+            ],
+            [
+              { "time": "23:04", "title": "Walk Walk", "performer": "Sylvie Kreusch"},
+              { "title": "Good Dancers", "performer": "The Sleepy Jackson"},
+              { "title": "Angelo", "performer": "Brijean"},
+              { "title": "Danford (Gavin Boyce Remix)", "performer": "La Deep"},
+              { "title": "The Mistake (Tensnake Remix)", "performer": "Steve Mill feat. Geraldine"},
+              { "title": "Dark Days", "performer": "Yard Act"},
+              { "title": "Mine (LP Version)", "performer": "Gustaf"},
+              { "title": "Let The Lights On", "performer": "Sorry"},
+              { "title": "Something Less Affected", "performer": "ACUA"},
+              { "title": "The Moor", "performer": "Blackberries"}
+            ],
+            [
+              { "time": "00:04", "title": "Crossing At The Shallow", "performer": "Sam Prekop & John McEntire"},
+              { "title": "Feeling The Effects (Of Saturday Night)", "performer": "Fujiya & Miyagi"},
+              { "title": "Different Directions", "performer": "Satin Jackets feat. Ivy Falls"},
+              { "title": "Wide Awake", "performer": "Odesza feat. Charlie Houston"},
+              { "title": "New To You", "performer": "Calvin Harris feat. Normani, Tinashe & Offset"},
+              { "title": "Wind", "performer": "Healing Potpourri"},
+              { "title": "Need Love", "performer": "Club Angel"},
+              { "title": "Flep VIP", "performer": "Mitekiss feat. Manga Saint Hilare"},
+              { "title": "Unknown Title", "performer": "Seba"},
+              { "title": "Open", "performer": "Shadow Child & Diana Miro"},
+              { "title": "Humanity", "performer": "Paul Roux"},
+              { "title": "Muscle Memory", "performer": "Art Moore"}
+            ]
+          ]
         }
       ]
     }
