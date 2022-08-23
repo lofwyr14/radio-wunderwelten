@@ -8198,6 +8198,54 @@
               { "title": "Muscle Memory", "performer": "Art Moore"}
             ]
           ]
+        },
+        {
+          "id": "33",
+          "date": "2022-08-14",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Fuse", "performer": "Hudson Mohawke"},
+              { "title": "Channeler", "performer": "Otik"},
+              { "title": "Pianos Raining Down (Jungle Mix)", "performer": "4 AM Crew"},
+              { "title": "Where´s This Love", "performer": "Joyclub"},
+              { "title": "Something To Give", "performer": "Achingdrum"},
+              { "title": "Exile", "performer": "Bonnie Light Horseman"},
+              { "title": "Mango Feedback", "performer": "Four Tet"},
+              { "title": "Nightclub Marilyn (Room 1)", "performer": "Acid Klaus feat. Lieselot Elzinga"},
+              { "title": "Hot Gossip", "performer": "Regularfantasy"},
+              { "title": "Pressurelicious", "performer": "Megan Thee Stallion feat. Future"},
+              { "title": "No Matter Which Direction I´m Going In, I Never Chase These Hoes", "performer": "$uicide Boy$"},
+              { "title": "Swamp Bitches", "performer": "Doechii feat. Rico Nasty"}
+            ],
+            [
+              { "time": "23:04", "title": "Don´t Press Me", "performer": "Dry Cleaning"},
+              { "title": "Stars", "performer": "Famous"},
+              { "title": "Is It Supposed", "performer": "Hudson Mohawke"},
+              { "title": "This Can´t Be Everything", "performer": "Phantoms"},
+              { "title": "Black Widow Spider", "performer": "Parquet Courts"},
+              { "title": "Italienischer Sommertraum/Stevie Storm", "performer": "Gerhard Müller//Harry Merry"},
+              { "title": "A Foul Form", "performer": "Thee Oh Sees"},
+              { "title": "Without A Trace", "performer": "The Black Angels"},
+              { "title": "Book", "performer": "Gustaf"},
+              { "title": "Featured Singer", "performer": "Cheekface"},
+              { "title": "Dance Forever", "performer": "Hudson Mohawke"},
+              { "title": "Chef´s Kiss", "performer": "Maximum Flavour"},
+              { "title": "Toxic Kisses", "performer": "Baby´s Beserk"}
+            ],
+            [
+              { "time": "00:04", "title": "Hustle", "performer": "Sons Of Kemet feat. Kojey Radical"},
+              { "title": "Georgetown", "performer": "Loyle Carner"},
+              { "title": "Belize", "performer": "Danger Mouse & Black Thought feat. MF Doom"},
+              { "title": "But My Sister", "performer": "Jaydonclover feat. Bel Cobain"},
+              { "title": "Summer", "performer": "DRS, Tyler Daley & Dogger"},
+              { "title": "Butterfly Effect (Nu:Tone Remix)", "performer": "GLXY feat. Hugh Hardie & Visionobi"},
+              { "title": "New Day", "performer": "GLXY"},
+              { "title": "Sorm Queen", "performer": "Grace Cummings"},
+              { "title": "The Game", "performer": "Sports Team"},
+              { "title": "Hammerschläge, Hinterköpfe", "performer": "Muff Potter"},
+              { "title": "Pamphlets", "performer": "Squid"}
+            ]
+          ]
         }
       ]
     }
