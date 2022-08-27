@@ -73666,6 +73666,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "34",
+          "date": "2022-08-25",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "(Love Is) Alive In My Heart",
+                "performer": "Andy Lewis feat. Keni Burke"
+              },
+              {
+                "time": "22:07",
+                "title": "Material",
+                "performer": "Marxist Love Disco Ensemble"
+              },
+              {
+                "time": "22:12",
+                "title": "Meek & Moody",
+                "performer": "Silvertwin"
+              },
+              {
+                "time": "22:14",
+                "title": "Blue Anchor Bay",
+                "performer": "Gilbert O'Sullivan"
+              },
+              {
+                "time": "22:18",
+                "title": "Truly Good",
+                "performer": "Healing Potpourri"
+              },
+              {
+                "time": "22:21",
+                "title": "Away",
+                "performer": "Any Version Of Me"
+              },
+              {
+                "time": "22:24",
+                "title": "Karaoke",
+                "performer": "Cass McCombs"
+              },
+              {
+                "time": "22:28",
+                "title": "City Dog",
+                "performer": "Josh Rouse"
+              },
+              {
+                "time": "22:33",
+                "title": "Edge Of The Edge",
+                "performer": "Panda Bear & Sonic Boom"
+              },
+              {
+                "time": "22:37",
+                "title": "Light Lab",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "time": "22:42",
+                "title": "50",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "time": "22:48",
+                "title": "Word On A Wing",
+                "performer": "Dana Gavanski"
+              },
+              {
+                "time": "22:54",
+                "title": "City Girl",
+                "performer": "Rachel Love"
+              },
+              {
+                "time": "22:57",
+                "title": "Vibe Sharp",
+                "performer": "Glenn Fallows & Mark Treffel"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Once In A While",
+                "performer": "Alon Tayar"
+              },
+              {
+                "time": "23:07",
+                "title": "I Just Wasn't Made For These Times",
+                "performer": "Jim James"
+              },
+              {
+                "time": "23:12",
+                "title": "Fool",
+                "performer": "Jonny Kosmo"
+              },
+              {
+                "time": "23:15",
+                "title": "Wait Too Long",
+                "performer": "Turnover"
+              },
+              {
+                "time": "23:20",
+                "title": "Rendezvous",
+                "performer": "The Natural Yogurt Band"
+              },
+              {
+                "time": "23:24",
+                "title": "Solsbury Hill",
+                "performer": "William Fitzsimmons"
+              },
+              {
+                "time": "23:30",
+                "title": "New Year's Resolution",
+                "performer": "Tutankhamun"
+              },
+              {
+                "time": "23:34",
+                "title": "A Sound Rings True",
+                "performer": "Dylan Mondegreen"
+              },
+              {
+                "time": "23:38",
+                "title": "Sayonara",
+                "performer": "Yuma Abe"
+              },
+              {
+                "time": "23:42",
+                "title": "Whoever",
+                "performer": "Lewis Taylor"
+              },
+              {
+                "time": "23:46",
+                "title": "Final Hour",
+                "performer": "Lewis Taylor"
+              },
+              {
+                "time": "23:52",
+                "title": "I Am In Love",
+                "performer": "Jim Noir"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
