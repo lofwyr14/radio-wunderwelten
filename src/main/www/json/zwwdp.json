@@ -73670,6 +73670,10 @@
         {
           "id": "34",
           "date": "2022-08-25",
+          "checked": {
+            "date": "2022-08-27",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -73756,7 +73760,7 @@
               },
               {
                 "time": "23:12",
-                "title": "Fool",
+                "title": "Fool's Gold",
                 "performer": "Jonny Kosmo"
               },
               {
