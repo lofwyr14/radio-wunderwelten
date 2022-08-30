@@ -8248,6 +8248,54 @@
               { "title": "Pamphlets", "performer": "Squid"}
             ]
           ]
+        },
+        {
+          "id": "34",
+          "date": "2022-08-21",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Squelch", "performer": "K-Lone"},
+              { "title": "Channeler", "performer": "Otik"},
+              { "title": "New Being", "performer": "Binary State"},
+              { "title": "Glauben", "performer": "Kratzen"},
+              { "title": "1989", "performer": "Aitch"},
+              { "title": "Dead In The Eye", "performer": " P Money & Whiney feat. Example"},
+              { "title": "Remember", "performer": "Friction"},
+              { "title": "Replic*nt", "performer": "Grey"},
+              { "title": "Nice While It Lasted", "performer": "Famous"},
+              { "title": "Dirty Water", "performer": "Marbled Eye"},
+              { "title": "Overdrive", "performer": "Bodysync feat. Kotomi"},
+              { "title": "Deedee", "performer": "Blendelux"},
+              { "title": "They Quiet The Room", "performer": "Skullcrusher"}
+            ],
+            [
+              { "time": "23:04", "title": "Pearls", "performer": "Esches"},
+              { "title": "Wake Up Song", "performer": "Sunfear"},
+              { "title": "Symbiosis", "performer": "Downstairs J"},
+              { "title": "Fuego", "performer": "Aitch"},
+              { "title": "Bruk N Bass", "performer": "Oliver Night"},
+              { "title": "Imani", "performer": "Limoux"},
+              { "title": "Fools", "performer": "Imaginary Number II"},
+              { "title": "15 Minutes", "performer": "CoN&KwAkE"},
+              { "title": "Dream Another", "performer": "Makaya McCraven"},
+              { "title": "Benighted Enlightened", "performer": "Nana Lourdes"},
+              { "title": "Rush", "performer": "Minimal Schlager"},
+              { "title": "Uncivil Jungle", "performer": "Riot Code"},
+              { "title": "Cardboard Man", "performer": "The Cool Greenhouse"},
+              { "title": "The End Of The World", "performer": "The Cool Greenhouse"}
+            ],
+            [
+              { "time": "00:04", "title": "Hard Rock Potato", "performer": "The Cool Greenhouse"},
+              { "title": "Into The Silence", "performer": "Anders Trentemøller feat. DiSA"},
+              { "title": "Cold Wind", "performer": "Ruby Goon"},
+              { "title": "Rückwärts", "performer": "Blackberries"},
+              { "title": "Reise", "performer": "Kratzen"},
+              { "title": "The Get Go", "performer": "New Young Pony Club"},
+              { "title": "Leisureplex", "performer": "Drua"},
+              { "title": "Hard To be Funky", "performer": "Hot Chip feat. Lou Hayter"},
+              { "title": "Amorpha", "performer": "Bitchin Bajas"}
+            ]
+          ]
         }
       ]
     }
