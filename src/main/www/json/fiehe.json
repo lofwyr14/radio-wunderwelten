@@ -8108,6 +8108,7 @@
         {
           "id": "31",
           "date": "2022-07-31",
+          "checked": {"date": "2022-08-30", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Time Glide", "performer": "Kuedo"},
@@ -8119,7 +8120,7 @@
               { "title": "Alien Superstar", "performer": "Beyonce"},
               { "title": "Wish I Was Dead", "performer": "Ekkstacy"},
               { "title": "Purple Haze", "performer": "The Cure"},
-              { "title": "Nightclub Marilyn", "performer": "Acid Klaus"},
+              { "title": "Nightclub Marilyn (Room 1)", "performer": "Acid Klaus feat. Lieselot Elzinga"},
               { "title": "Glauben", "performer": "Kratzen"},
               { "title": "No Cover", "performer": "Will Miles"},
               { "title": "Do 2 U", "performer": "Heron Flow"}
@@ -8139,7 +8140,7 @@
             [
               { "time": "00:04", "title": "Negative Returns (Four Tet Remix)", "performer": "Krust"},
               { "title": "Nichoho", "performer": "Seba"},
-              { "title": "Coochie", "performer": "Shygirl"},
+              { "title": "Coochie (A Bedtime Story)", "performer": "Shygirl"},
               { "title": "I Like You", "performer": "DC Gore"},
               { "title": "Turn Me On", "performer": "Dinner"},
               { "title": "Freight", "performer": "Earth Boys"},
