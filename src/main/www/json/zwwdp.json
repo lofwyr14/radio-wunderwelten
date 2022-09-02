@@ -73815,6 +73815,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "35",
+          "date": "2022-09-01",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "All Your Love",
+                "performer": "Nathan Johnston & The Angels Of Libra"
+              },
+              {
+                "time": "22:09",
+                "title": "Easy Does It",
+                "performer": "Marlon Williams"
+              },
+              {
+                "time": "22:13",
+                "title": "It Ain't Lost",
+                "performer": "Silvertwin"
+              },
+              {
+                "time": "22:16",
+                "title": "Brand New Power",
+                "performer": "Ruby Goon"
+              },
+              {
+                "time": "22:20",
+                "title": "New Earth",
+                "performer": "Cass McCombs"
+              },
+              {
+                "time": "22:24",
+                "title": "Burning",
+                "performer": "Yeah Yeah Yeahs"
+              },
+              {
+                "time": "22:28",
+                "title": "Myself In The Way",
+                "performer": "Turnover feat. Brendan Yates"
+              },
+              {
+                "time": "22:33",
+                "title": "Regnet Svikter Aldri",
+                "performer": "Svart Fredag"
+              },
+              {
+                "time": "22:37",
+                "title": "A Last Hooray",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "time": "22:49",
+                "title": "Blue",
+                "performer": "Whitney"
+              },
+              {
+                "time": "22:52",
+                "title": "Tainted Love",
+                "performer": "Scary Pockets feat. David Simmons Jr."
+              },
+              {
+                "time": "22:56",
+                "title": "Doobie (What A Feeling)",
+                "performer": "Phileas"
+              },
+              {
+                "time": "22:59",
+                "title": "Take Me To A Higher Place",
+                "performer": "Vulfmon feat. Mocky"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Queen Of Wands",
+                "performer": "Kainalu"
+              },
+              {
+                "time": "23:07",
+                "title": "Once In A While",
+                "performer": "Alon Tayar"
+              },
+              {
+                "time": "23:10",
+                "title": "Someone To Love",
+                "performer": "Drugdealer"
+              },
+              {
+                "time": "23:14",
+                "title": "Actress",
+                "performer": "Jim James"
+              },
+              {
+                "time": "23:18",
+                "title": "Moon Sails",
+                "performer": "Rachael Dadd"
+              },
+              {
+                "time": "23:23",
+                "title": "So There",
+                "performer": "Lambchop"
+              },
+              {
+                "time": "23:32",
+                "title": "Summer Air Buzz",
+                "performer": "carina feat. Bel Cobain"
+              },
+              {
+                "time": "23:36",
+                "title": "Emmanuelle On The Sea",
+                "performer": "Serge Gainsbourg"
+              },
+              {
+                "time": "23:39",
+                "title": "Les Regards Étrangers",
+                "performer": "Feutre"
+              },
+              {
+                "time": "23:42",
+                "title": "Life In Mono",
+                "performer": "Mono"
+              },
+              {
+                "time": "23:46",
+                "title": "A Picture Of You",
+                "performer": "The John Schroeder Orchestra"
+              },
+              {
+                "time": "23:50",
+                "title": "Honey (Stereo Mix)",
+                "performer": "Steve Yeager"
+              },
+              {
+                "time": "23:55",
+                "title": "Summer Madness",
+                "performer": "Kool & The Gang"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
