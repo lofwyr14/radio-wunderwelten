@@ -8156,6 +8156,7 @@
         {
           "id": "32",
           "date": "2022-08-07",
+          "checked": {"date": "2022-09-03", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "DNA", "performer": "AB, DA"},
@@ -8164,8 +8165,8 @@
               { "title": "Taco", "performer": "IDK feat. Kaytranada"},
               { "title": "Twin Flame", "performer": "Kaytranada & Anderson .Paak"},
               { "title": "The City Never Sleeps", "performer": "EL-B"},
-              { "title": "Nightclub Marilyn", "performer": "Acid Klaus"},
-              { "title": "Ebeneezer Goode", "performer": "The Shamen"},
+              { "title": "Nightclub Marilyn (Room 1)", "performer": "Acid Klaus feat. Lieselot Elzinga"},
+              { "title": "Ebeneezer Goode (Beat Edit)", "performer": "The Shamen"},
               { "title": "Vertigo", "performer": "ANOTR x Abel Balder"},
               { "title": "Everything Goes My Way (Anna Prior Remix)", "performer": "Metronomy"},
               { "title": "Featured Singer", "performer": "Cheekface"},
@@ -8194,7 +8195,7 @@
               { "title": "Wind", "performer": "Healing Potpourri"},
               { "title": "Need Love", "performer": "Club Angel"},
               { "title": "Flep VIP", "performer": "Mitekiss feat. Manga Saint Hilare"},
-              { "title": "Unknown Title", "performer": "Seba"},
+              { "title": "Vanity", "performer": "Seba"},
               { "title": "Open", "performer": "Shadow Child & Diana Miro"},
               { "title": "Humanity", "performer": "Paul Roux"},
               { "title": "Muscle Memory", "performer": "Art Moore"}
