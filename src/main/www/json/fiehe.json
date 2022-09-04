@@ -8205,11 +8205,13 @@
         {
           "id": "33",
           "date": "2022-08-14",
+          "checked": {"date": "2022-09-04", "user": "jg"},
+          "comment": "Haldern Pop Festival 2022",
           "songs": [
             [
               { "time": "22:04", "title": "Fuse", "performer": "Hudson Mohawke"},
               { "title": "Channeler", "performer": "Otik"},
-              { "title": "Pianos Raining Down (Jungle Mix)", "performer": "4 AM Crew"},
+              { "title": "Pianos Raining Down (Jungle Mix)", "performer": "4 AM Kru"},
               { "title": "Where´s This Love", "performer": "Joyclub"},
               { "title": "Something To Give", "performer": "Achingdrum"},
               { "title": "Exile", "performer": "Bonnie Light Horseman"},
