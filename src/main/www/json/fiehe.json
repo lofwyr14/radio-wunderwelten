@@ -8257,22 +8257,23 @@
           "date": "2022-08-21",
           "songs": [
             [
-              { "time": "22:04", "title": "Squelch", "performer": "K-Lone"},
+              { "time": "22:04", "title": "Time Glide", "performer": "Kuedo"},
+              { "title": "Squelch", "performer": "K-Lone"},
               { "title": "Channeler", "performer": "Otik"},
               { "title": "New Being", "performer": "Binary State"},
               { "title": "Glauben", "performer": "Kratzen"},
               { "title": "1989", "performer": "Aitch"},
               { "title": "Dead In The Eye", "performer": " P Money & Whiney feat. Example"},
               { "title": "Remember", "performer": "Friction"},
-              { "title": "Replic*nt", "performer": "Grey"},
+              { "title": "Replic*nt", "performer": "Grey Man"},
               { "title": "Nice While It Lasted", "performer": "Famous"},
               { "title": "Dirty Water", "performer": "Marbled Eye"},
               { "title": "Overdrive", "performer": "Bodysync feat. Kotomi"},
-              { "title": "Deedee", "performer": "Blendelux"},
-              { "title": "They Quiet The Room", "performer": "Skullcrusher"}
+              { "title": "Deedee", "performer": "Blendelux"}
             ],
             [
-              { "time": "23:04", "title": "Pearls", "performer": "Esches"},
+              { "time": "23:04", "title": "They Quiet The Room", "performer": "Skullcrusher"},
+              { "title": "Pearls", "performer": "Esches"},
               { "title": "Wake Up Song", "performer": "Sunfear"},
               { "title": "Symbiosis", "performer": "Downstairs J"},
               { "title": "Fuego", "performer": "Aitch"},
@@ -8297,6 +8298,56 @@
               { "title": "Leisureplex", "performer": "Drua"},
               { "title": "Hard To be Funky", "performer": "Hot Chip feat. Lou Hayter"},
               { "title": "Amorpha", "performer": "Bitchin Bajas"}
+            ]
+          ]
+        },
+        {
+          "id": "35",
+          "date": "2022-08-28",
+          "songs": [
+            [
+              { "time": "22:04", "title": "In A Minute, Sublime", "performer": "Methyl Ethel"},
+              { "title": "Restricted Account", "performer": "Stella Donnelly"},
+              { "title": "Alone", "performer": "NXXXXXS feat. Bitsu"},
+              { "title": "DNA", "performer": "AB / DA"},
+              { "title": "Spirit", "performer": "Dubrunner feat. Breaka"},
+              { "title": "Birchgrove Pleasure Gardens", "performer": "Maroki"},
+              { "title": "She Takes Me Over (Knopha Remix)", "performer": "Michael Cignarale"},
+              { "title": "Country", "performer": "Blaue Blume"},
+              { "title": "Echo Party", "performer": "Sylvan Esso"},
+              { "title": "Life Goes On", "performer": "Ezra Collective feat. Sampa The Great"},
+              { "title": "Future Toyi Toyi (DJ Stingray Remix)", "performer": "Keleketla"},
+              { "title": "Somene To Love", "performer": "Drugdealer"},
+              { "title": "Memory", "performer": "Whitney"}
+            ],
+            [
+              { "time": "23:04", "title": "Still In LOve", "performer": "Eyedress"},
+              { "title": "Full Time Lover", "performer": "Eyedress feat."},
+              { "title": "Safe With You", "performer": "Eyedress feat. Zeroh & Gonjasufi"},
+              { "title": "Automaton", "performer": "Automatic"},
+              { "title": "Berlin Ist Keine Stadt", "performer": "Betterov"},
+              { "title": "Bad Dad", "performer": "PVA"},
+              { "title": "Satellites", "performer": "My NU Leng"},
+              { "title": "Generation Game", "performer": "The Lounge Society"},
+              { "title": "Super Trouper", "performer": "The Manana People"},
+              { "title": "Shape Of Your Heart", "performer": "Joda"},
+              { "title": "Move On", "performer": "Satin Jackets & Panama"},
+              { "title": "Airplanes", "performer": "Busty And The Bass feat. Cadence Weapon"}
+            ],
+            [
+              { "time": "00:04", "title": "Dim Sum (Kevin Sharkey Remix)", "performer": "Jah Wobble & Family feat. GZ Tian"},
+              { "title": "J.LO", "performer": "Skuff Barbie"},
+              { "title": "Mulena (Tornado Wallace Remix)", "performer": "Hammer & Kilimanjaro"},
+              { "title": "New Being", "performer": "Binary State"},
+              { "title": "The Journey", "performer": "John B feat. Code 64"},
+              { "title": "Remember", "performer": "Friction"},
+              { "title": "Run The Sketch", "performer": "Trex"},
+              { "title": "I Was Neon", "performer": "Julia Jacklin"},
+              { "title": "W.A.M.", "performer": "Moreish Idols"},
+              { "title": "Blood Money", "performer": "The Lounge Society"},
+              { "title": "Fremd", "performer": "Lyschko feat. Drangsal"},
+              { "title": "I Want To Die In Your Arms", "performer": "Ekkstacy"},
+              { "title": "Don´t Forget Me", "performer": "Jay Medvedeva"}
             ]
           ]
         }
