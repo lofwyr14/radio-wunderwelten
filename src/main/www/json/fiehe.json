@@ -8255,6 +8255,7 @@
         {
           "id": "34",
           "date": "2022-08-21",
+          "checked": {"date": "2022-09-11", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Time Glide", "performer": "Kuedo"},
@@ -8280,16 +8281,16 @@
               { "title": "Bruk N Bass", "performer": "Oliver Night"},
               { "title": "Imani", "performer": "Limoux"},
               { "title": "Fools", "performer": "Imaginary Number II"},
-              { "title": "15 Minutes", "performer": "CoN&KwAkE"},
+              { "title": "15 Minutes", "performer": "CoN & KwAkE"},
               { "title": "Dream Another", "performer": "Makaya McCraven"},
               { "title": "Benighted Enlightened", "performer": "Nana Lourdes"},
               { "title": "Rush", "performer": "Minimal Schlager"},
-              { "title": "Uncivil Jungle", "performer": "Riot Code"},
-              { "title": "Cardboard Man", "performer": "The Cool Greenhouse"},
-              { "title": "The End Of The World", "performer": "The Cool Greenhouse"}
+              { "title": "Uncivil Jungle", "performer": "Riot Code"}
             ],
             [
-              { "time": "00:04", "title": "Hard Rock Potato", "performer": "The Cool Greenhouse"},
+              { "time": "00:04", "title": "Cardboard Man", "performer": "The Cool Greenhouse"},
+              { "title": "The End Of The World", "performer": "The Cool Greenhouse"},
+              { "title": "Hard Rock Potato", "performer": "The Cool Greenhouse"},
               { "title": "Into The Silence", "performer": "Anders Trentemøller feat. DiSA"},
               { "title": "Cold Wind", "performer": "Ruby Goon"},
               { "title": "Rückwärts", "performer": "Blackberries"},
