@@ -73979,6 +73979,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "36",
+          "date": "2022-09-08",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Air",
+                "performer": "C Duncan"
+              },
+              {
+                "time": "22:08",
+                "title": "Motley Face",
+                "performer": "Conner O'Kane"
+              },
+              {
+                "time": "22:11",
+                "title": "Henry Miller's Flat",
+                "performer": "Josh Rouse"
+              },
+              {
+                "time": "22:14",
+                "title": "Fireworks",
+                "performer": "Healing Potpourri"
+              },
+              {
+                "time": "22:17",
+                "title": "Jubilee Line",
+                "performer": "The Cleaners From Venus"
+              },
+              {
+                "time": "22:21",
+                "title": "Ameland",
+                "performer": "Oldfellow's Casino"
+              },
+              {
+                "time": "22:27",
+                "title": "There'd Better Be A Mirrorball",
+                "performer": "Arctic Monkeys"
+              },
+              {
+                "time": "22:32",
+                "title": "You Could Do Better",
+                "performer": "Lack Of Afro feat. Camila Recchio & Wax"
+              },
+              {
+                "time": "22:34",
+                "title": "Memory",
+                "performer": "Whitney"
+              },
+              {
+                "time": "22:38",
+                "title": "Saturdays",
+                "performer": "Broken Bells"
+              },
+              {
+                "time": "22:42",
+                "title": "Cam",
+                "performer": "Stanley"
+              },
+              {
+                "time": "22:46",
+                "title": "Bitte sag nicht",
+                "performer": "Herr Wade"
+              },
+              {
+                "time": "22:50",
+                "title": "Nur Ketchup",
+                "performer": "Herr Wade"
+              },
+              {
+                "time": "22:53",
+                "title": "Alpha Centauri",
+                "performer": "Ronald Langestraat"
+              },
+              {
+                "time": "22:57",
+                "title": "Good Intentions",
+                "performer": "Shallow"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Visions",
+                "performer": "José González"
+              },
+              {
+                "time": "23:07",
+                "title": "Feeling In The Air",
+                "performer": "PWNT"
+              },
+              {
+                "time": "23:10",
+                "title": "Getting High",
+                "performer": "Andrew Gabbard"
+              },
+              {
+                "time": "23:13",
+                "title": "Let It Happen",
+                "performer": "Louis Cole"
+              },
+              {
+                "time": "23:20",
+                "title": "I Am So Happy With My Little Dog",
+                "performer": "Shabason & Krgovich"
+              },
+              {
+                "time": "23:24",
+                "title": "I Knew It",
+                "performer": "Soyuz"
+              },
+              {
+                "time": "23:29",
+                "title": "Cartoon Babylon",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "time": "23:33",
+                "title": "Matter",
+                "performer": "Melt Trio"
+              },
+              {
+                "time": "23:38",
+                "title": "Moments In Love",
+                "performer": "The Art Of Noise"
+              },
+              {
+                "time": "23:43",
+                "title": "There´s Nothing But Pleasure",
+                "performer": "Bubble Tea and Cigarettes"
+              },
+              {
+                "time": "23:53",
+                "title": "Amy's Theme",
+                "performer": "Pete Jolly"
+              },
+              {
+                "time": "23:56",
+                "title": "Til I Die",
+                "performer": "The Beach Boys"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
