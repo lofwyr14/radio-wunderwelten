@@ -73819,11 +73819,15 @@
         {
           "id": "35",
           "date": "2022-09-01",
+          "checked": {
+            "date": "2022-09-12",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
-                "title": "All Your Love",
+                "title": "All Your Love (Extended Version)",
                 "performer": "Nathan Johnston & The Angels Of Libra"
               },
               {
@@ -73865,6 +73869,16 @@
                 "time": "22:37",
                 "title": "A Last Hooray",
                 "performer": "Daniel Carlson"
+              },
+              {
+                "time": "22:42",
+                "title": "Suicide Is Panless (M.A.S.H. Theme) - Instrumental",
+                "performer": "This Weeks Special Guests (Daniel Carlson)"
+              },
+              {
+                "time": "22:46",
+                "title": "I'm Tight",
+                "performer": "Louis Cole"
               },
               {
                 "time": "22:49",
@@ -73919,6 +73933,11 @@
                 "performer": "Lambchop"
               },
               {
+                "time": "23:29",
+                "title": "Nur Ketchup",
+                "performer": "Herr Wade"
+              },
+              {
                 "time": "23:32",
                 "title": "Summer Air Buzz",
                 "performer": "carina feat. Bel Cobain"
@@ -73946,7 +73965,7 @@
               {
                 "time": "23:50",
                 "title": "Honey (Stereo Mix)",
-                "performer": "Steve Yeager"
+                "performer": "Steve Yeager / Sanders Moore Project"
               },
               {
                 "time": "23:55",
