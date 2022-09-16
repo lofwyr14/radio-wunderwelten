@@ -74129,6 +74129,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "37",
+          "date": "2022-09-15",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Groovy Times",
+                "performer": "Alan Price"
+              },
+              {
+                "time": "22:10",
+                "title": "Bell Toll",
+                "performer": "C Duncan"
+              },
+              {
+                "time": "22:13",
+                "title": "Aftershook",
+                "performer": "Frankie Cosmos"
+              },
+              {
+                "time": "22:17",
+                "title": "Good Intentions",
+                "performer": "Shallow"
+              },
+              {
+                "time": "22:19",
+                "title": "Youngblood",
+                "performer": "Jonathan Jeremiah"
+              },
+              {
+                "time": "22:23",
+                "title": "Falling Down",
+                "performer": "PWNT"
+              },
+              {
+                "time": "22:25",
+                "title": "Butterflies",
+                "performer": "Winona Forever"
+              },
+              {
+                "time": "22:28",
+                "title": "Leichtes Spiel",
+                "performer": "Otto Von Bismarck"
+              },
+              {
+                "time": "22:32",
+                "title": "Easy Does It",
+                "performer": "Marlon Williams"
+              },
+              {
+                "time": "22:36",
+                "title": "That's L.A.",
+                "performer": "Bret Mckenzie"
+              },
+              {
+                "time": "22:40",
+                "title": "Name Tag",
+                "performer": "Stanley"
+              },
+              {
+                "time": "22:49",
+                "title": "Drum Fish",
+                "performer": "Foulard"
+              },
+              {
+                "time": "22:53",
+                "title": "Good Vibrations (2021 Stereo Mix)",
+                "performer": "The Beach Boys"
+              },
+              {
+                "time": "22:56",
+                "title": "Tojo",
+                "performer": "Kokoroko"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "You Make My Dreams (Come True)",
+                "performer": "Scary Pockets feat. Jennah Bell"
+              },
+              {
+                "time": "23:07",
+                "title": "Piece By Piece",
+                "performer": "John Martyn"
+              },
+              {
+                "time": "23:11",
+                "title": "Empty Beach",
+                "performer": "CoCo"
+              },
+              {
+                "time": "23:16",
+                "title": "He Asked Me To Quit Smoking",
+                "performer": "Bubble Tea and Cigarettes"
+              },
+              {
+                "time": "23:19",
+                "title": "Summer Madness",
+                "performer": "Khruangbin"
+              },
+              {
+                "time": "23:22",
+                "title": "Out There",
+                "performer": "Swing Out Sister"
+              },
+              {
+                "time": "23:27",
+                "title": "You On My Mind",
+                "performer": "Swing Out Sister"
+              },
+              {
+                "time": "23:31",
+                "title": "Mountains Made Of Clouds",
+                "performer": "Turnover"
+              },
+              {
+                "time": "23:36",
+                "title": "American Cement",
+                "performer": "Blue Wilson"
+              },
+              {
+                "time": "23:40",
+                "title": "County Lines",
+                "performer": "Whitney"
+              },
+              {
+                "time": "23:43",
+                "title": "Sunshine Sometime",
+                "performer": "Paul McCartney"
+              },
+              {
+                "time": "23:52",
+                "title": "Please",
+                "performer": "Lewis Taylor"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
