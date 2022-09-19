@@ -8351,6 +8351,103 @@
               { "title": "Don´t Forget Me", "performer": "Jay Medvedeva"}
             ]
           ]
+        },
+        {
+          "id": "36",
+          "date": "2022-09-04",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Try Another Time", "performer": "Eyedress & The Drums"},
+              { "title": "I Want  Die In Your Arms", "performer": "Ekkstacy"},
+              { "title": "Under Northern Sky", "performer": "Pale Blue Eyes"},
+              { "title": "Unity", "performer": "Röyksopp feat. Karen Harding"},
+              { "title": "NBPQ (top)", "performer": "Sudan Archives"},
+              { "title": "Delhi Birds", "performer": "Stain & Zed Bias"},
+              { "title": "Soothsayer", "performer": "Downstairs J"},
+              { "title": "Truce", "performer": "Sohn"},
+              { "title": "My Stranger", "performer": "Marina Allen"},
+              { "title": "Temple Of Broken Dreams", "performer": "Ezra Furman"},
+              { "title": "Foul Weather Jacket Drawing", "performer": "Marina Allen"},
+              { "title": "The Roof", "performer": "Air Waves feat. Luke Temple & Rina Mushonga"}
+            ],
+            [
+              { "time": "23:04", "title": "Ebeneezer Good", "performer": "The Shamen"},
+              { "title": "Nightclub Marilyn (Room 1)", "performer": "Acid Klaus feat. Lieselot Elzinga"},
+              { "title": "Euro Disco Weapon", "performer": "Mark Mackenzie"},
+              { "title": "Raptyouare", "performer": "The Shamen"},
+              { "title": "Ten Eight Seven", "performer": "Interplanetary Criminal & DJ Cosworth"},
+              { "title": "Evacuation Procedures", "performer": "Pinz & Pelz"},
+              { "title": "Speedy Gs", "performer": "DJ Q & Finn"},
+              { "title": "Schritt Für Schritt", "performer": "Yael"},
+              { "title": "Remains", "performer": "The Lounge Society"},
+              { "title": "Firestarter (Andy C Remix)", "performer": "Prodigy"},
+              { "title": "TV Flicker", "performer": "Pale Blue Eyes"},
+              { "title": "Ich will nicht mehr mein Sklave sein", "performer": "Muff Potter"},
+              { "title": "Hot Gossip", "performer": "Regularfantasy"}
+            ],
+            [
+              { "time": "00:04", "title": "A Love So True", "performer": "Prayer"},
+              { "title": "Governor´s Bay", "performer": "Om Unit"},
+              { "title": "Pianos Raining Down (Jungle Mix)", "performer": "4am Krew"},
+              { "title": "Liberation", "performer": "Om Unit"},
+              { "title": "Springdub Meditation", "performer": "Om Unit"},
+              { "title": "Cosmic Joke (Peaking Lights Remix)", "performer": "Al Lover"},
+              { "title": "Mind Rinse", "performer": "Goose Down"},
+              { "title": "In The Air Tonight", "performer": "DJ Cam"},
+              { "title": "Antigravity", "performer": "Sohn"},
+              { "title": "I Won´t", "performer": "Sohn"},
+              { "title": "December Forever", "performer": "Living Hour"},
+              { "title": "Trouble", "performer": "Dead Rabbits"},
+              { "title": "Overfree", "performer": "Jonathan Kaspar"}
+            ]
+          ]
+        },
+        {
+          "id": "37",
+          "date": "2022-09-11",
+          "songs": [
+            [
+              { "time": "22:04", "title": "I Had The Best Of Times", "performer": "I.Jordan"},
+              { "title": "The Spectacle", "performer": "I Like Trains"},
+              { "title": "Miracles", "performer": "Joshwa"},
+              { "title": "Twitchin´ In The Kitchen (Red Axes Rmx)", "performer": "Warmduscher"},
+              { "title": "Pulse VI", "performer": "Kerala Dust"},
+              { "title": "Music Is Blue", "performer": "Cass McCombs"},
+              { "title": "Gary Ashby", "performer": "Dry Cleaning"},
+              { "title": "Nike", "performer": "Shygirl"},
+              { "title": "Constrictor", "performer": "Florentino feat. BAMBII & KD ONE"},
+              { "title": "Paris Dub 1", "performer": "Paranoid London feat. Paris Brightledge"},
+              { "title": "Blessings", "performer": "Gabe Gurnsey"},
+              { "title": "Reset", "performer": "Massimiliano Pagliara  feat. Fort Romeau & Coloray"}
+            ],
+            [
+              { "time": "23:04", "title": "21 Nächte Wach", "performer": "Edwin Rosen"},
+              { "title": "Wait", "performer": "Air Waves"},
+              { "title": "Sing It Like We Used To", "performer": "Pale Blue Eyes"},
+              { "title": "Glauben", "performer": "Kratzen"},
+              { "title": "I´m Over You", "performer": "Vomit Heat"},
+              { "title": "Hallogallo (Stephen Morris & Gabe Gurnsey Remix)", "performer": "NEU!"},
+              { "title": "Big Moon Lake", "performer": "Life"},
+              { "title": "Do You Think I´m Special", "performer": "Damefrisör"},
+              { "title": "Don´t Go Back", "performer": "Marlon Williams"},
+              { "title": "Thinking Of Nina", "performer": "Marlon Williams"},
+              { "title": "Stoned Love", "performer": "Son Little"},
+              { "title": "IDGAF", "performer": "Sampa The Great feat. Kojey Radical"}
+            ],
+            [
+              { "time": "00:04", "title": "Hustle", "performer": "Sons Of Kemet feat. Kojey Radical"},
+              { "title": "Can I Live?", "performer": "Sampa The Great feat. Witch"},
+              { "title": "Reprise", "performer": "Yaya Bey"},
+              { "title": "Martin", "performer": "CoN & KwAkE"},
+              { "title": "ChevyS10", "performer": "Sudan Archives"},
+              { "title": "Sweet Day", "performer": "DJ Q & Todd Edwards"},
+              { "title": "Setting Sun", "performer": "George FitzGerald"},
+              { "title": "I´ll Make You See God", "performer": "The Afghan Whigs"},
+              { "title": "Tangerine", "performer": "Melting Palms"},
+              { "title": "Im Glück (The National Remix)", "performer": "NEU!"},
+              { "title": "Free Today", "performer": "Albertine Sarges"}
+            ]
+          ]
         }
       ]
     }
