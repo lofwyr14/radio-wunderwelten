@@ -8305,6 +8305,7 @@
         {
           "id": "35",
           "date": "2022-08-28",
+          "checked": {"date": "2022-09-19", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "In A Minute, Sublime", "performer": "Methyl Ethel"},
@@ -8322,13 +8323,13 @@
               { "title": "Memory", "performer": "Whitney"}
             ],
             [
-              { "time": "23:04", "title": "Still In LOve", "performer": "Eyedress"},
-              { "title": "Full Time Lover", "performer": "Eyedress feat."},
+              { "time": "23:04", "title": "Full Time Lover", "performer": "Eyedress feat. Elvia"},
+              { "title": "Spaghetti", "performer": "Eyedress feat. Homeshake"},
               { "title": "Safe With You", "performer": "Eyedress feat. Zeroh & Gonjasufi"},
               { "title": "Automaton", "performer": "Automatic"},
               { "title": "Berlin Ist Keine Stadt", "performer": "Betterov"},
               { "title": "Bad Dad", "performer": "PVA"},
-              { "title": "Satellites", "performer": "My NU Leng"},
+              { "title": "Satellites", "performer": "My Nu Leng"},
               { "title": "Generation Game", "performer": "The Lounge Society"},
               { "title": "Super Trouper", "performer": "The Manana People"},
               { "title": "Shape Of Your Heart", "performer": "Joda"},
@@ -8340,11 +8341,10 @@
               { "title": "J.LO", "performer": "Skuff Barbie"},
               { "title": "Mulena (Tornado Wallace Remix)", "performer": "Hammer & Kilimanjaro"},
               { "title": "New Being", "performer": "Binary State"},
-              { "title": "The Journey", "performer": "John B feat. Code 64"},
+              { "title": "The Journey (Metrik Remix)", "performer": "John B feat. Code 64"},
               { "title": "Remember", "performer": "Friction"},
               { "title": "Run The Sketch", "performer": "Trex"},
               { "title": "I Was Neon", "performer": "Julia Jacklin"},
-              { "title": "W.A.M.", "performer": "Moreish Idols"},
               { "title": "Blood Money", "performer": "The Lounge Society"},
               { "title": "Fremd", "performer": "Lyschko feat. Drangsal"},
               { "title": "I Want To Die In Your Arms", "performer": "Ekkstacy"},
