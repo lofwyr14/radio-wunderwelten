@@ -73983,6 +73983,10 @@
         {
           "id": "36",
           "date": "2022-09-08",
+          "checked": {
+            "date": "2022-09-21",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -74104,7 +74108,7 @@
               },
               {
                 "time": "23:38",
-                "title": "Moments In Love",
+                "title": "Moments In Love (Live in Tokyo, 1986)",
                 "performer": "The Art Of Noise"
               },
               {
@@ -74119,7 +74123,7 @@
               },
               {
                 "time": "23:56",
-                "title": "Til I Die",
+                "title": "'Til I Die",
                 "performer": "The Beach Boys"
               },
               {
