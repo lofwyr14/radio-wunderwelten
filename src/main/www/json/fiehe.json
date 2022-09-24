@@ -8355,13 +8355,14 @@
         {
           "id": "36",
           "date": "2022-09-04",
+          "checked": {"date": "2022-09-24", "user": "jg"},
           "songs": [
             [
-              { "time": "22:04", "title": "Try Another Time", "performer": "Eyedress & The Drums"},
-              { "title": "I Want  Die In Your Arms", "performer": "Ekkstacy"},
+              { "time": "22:04", "title": "Reward", "performer": "Eyedress & The Drums"},
+              { "title": "I Want To Die In Your Arms", "performer": "Ekkstacy"},
               { "title": "Under Northern Sky", "performer": "Pale Blue Eyes"},
               { "title": "Unity", "performer": "Röyksopp feat. Karen Harding"},
-              { "title": "NBPQ (top)", "performer": "Sudan Archives"},
+              { "title": "NBPQ (Topless)", "performer": "Sudan Archives"},
               { "title": "Delhi Birds", "performer": "Stain & Zed Bias"},
               { "title": "Soothsayer", "performer": "Downstairs J"},
               { "title": "Truce", "performer": "Sohn"},
@@ -8371,9 +8372,9 @@
               { "title": "The Roof", "performer": "Air Waves feat. Luke Temple & Rina Mushonga"}
             ],
             [
-              { "time": "23:04", "title": "Ebeneezer Good", "performer": "The Shamen"},
+              { "time": "23:04", "title": "Ebeneezer Good (Beat Edit)", "performer": "The Shamen"},
               { "title": "Nightclub Marilyn (Room 1)", "performer": "Acid Klaus feat. Lieselot Elzinga"},
-              { "title": "Euro Disco Weapon", "performer": "Mark Mackenzie"},
+              { "title": "Euro Disco Weapon (Extended Mix)", "performer": "Mark Mackenzie"},
               { "title": "Raptyouare", "performer": "The Shamen"},
               { "title": "Ten Eight Seven", "performer": "Interplanetary Criminal & DJ Cosworth"},
               { "title": "Evacuation Procedures", "performer": "Pinz & Pelz"},
@@ -8388,7 +8389,7 @@
             [
               { "time": "00:04", "title": "A Love So True", "performer": "Prayer"},
               { "title": "Governor´s Bay", "performer": "Om Unit"},
-              { "title": "Pianos Raining Down (Jungle Mix)", "performer": "4am Krew"},
+              { "title": "Pianos Raining Down (Jungle Mix)", "performer": "4AM Kru"},
               { "title": "Liberation", "performer": "Om Unit"},
               { "title": "Springdub Meditation", "performer": "Om Unit"},
               { "title": "Cosmic Joke (Peaking Lights Remix)", "performer": "Al Lover"},
