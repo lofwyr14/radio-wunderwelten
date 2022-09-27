@@ -8411,7 +8411,7 @@
               { "time": "22:04", "title": "I Had The Best Of Times", "performer": "I.Jordan"},
               { "title": "The Spectacle", "performer": "I Like Trains"},
               { "title": "Miracles", "performer": "Joshwa"},
-              { "title": "Twitchin´ In The Kitchen (Red Axes Rmx)", "performer": "Warmduscher"},
+              { "title": "Twitchin´ In The Kitchen (Red Axes Remix)", "performer": "Warmduscher"},
               { "title": "Pulse VI", "performer": "Kerala Dust"},
               { "title": "Music Is Blue", "performer": "Cass McCombs"},
               { "title": "Gary Ashby", "performer": "Dry Cleaning"},
@@ -8433,11 +8433,11 @@
               { "title": "Don´t Go Back", "performer": "Marlon Williams"},
               { "title": "Thinking Of Nina", "performer": "Marlon Williams"},
               { "title": "Stoned Love", "performer": "Son Little"},
-              { "title": "IDGAF", "performer": "Sampa The Great feat. Kojey Radical"}
+              { "title": "IDGAF", "performer": "Sampa The Great feat. Kojey Radical"},
+              { "title": "Hustle", "performer": "Sons Of Kemet feat. Kojey Radical"}
             ],
             [
-              { "time": "00:04", "title": "Hustle", "performer": "Sons Of Kemet feat. Kojey Radical"},
-              { "title": "Can I Live?", "performer": "Sampa The Great feat. Witch"},
+              { "time": "00:04", "title": "Can I Live?", "performer": "Sampa The Great feat. Witch"},
               { "title": "Reprise", "performer": "Yaya Bey"},
               { "title": "Martin", "performer": "CoN & KwAkE"},
               { "title": "ChevyS10", "performer": "Sudan Archives"},
@@ -8447,6 +8447,53 @@
               { "title": "Tangerine", "performer": "Melting Palms"},
               { "title": "Im Glück (The National Remix)", "performer": "NEU!"},
               { "title": "Free Today", "performer": "Albertine Sarges"}
+            ]
+          ]
+        },
+        {
+          "id": "38",
+          "date": "2022-09-18",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Black Condolences", "performer": "The Mars Volta"},
+              { "title": "Off Goes The Light", "performer": "Bibio"},
+              { "title": "Jennifer Pastoral", "performer": "Jennifer Vanilla"},
+              { "title": "Mind 2 Lips", "performer": "Lyzza"},
+              { "title": "Call Me", "performer": "Bamao Yendé"},
+              { "title": "Twirl", "performer": "Whitney"},
+              { "title": "Kiss You", "performer": "Ela Minus & DJ Python"},
+              { "title": "Momentum", "performer": "Skalpel"},
+              { "title": "Halloween", "performer": "wavvyboi"},
+              { "title": "Bet", "performer": "Snarky Puppy"},
+              { "title": "Much More", "performer": "Dreamcastmoe"}
+            ],
+            [
+              { "time": "23:04", "title": "War", "performer": "Josh Gregg"},
+              { "title": "You Remind Me", "performer": "Gabe Gurnsey"},
+              { "title": "Bunker", "performer": "PVA"},
+              { "title": "All These Things", "performer": "The Mysterines"},
+              { "title": "OMW", "performer": "Isaiah"},
+              { "title": "Lothlorien", "performer": "Bo Hansson"},
+              { "title": "Breaks Em Down", "performer": "Peanut Butter Wolf"},
+              { "title": "Tokyo Blunts", "performer": "Pink Siifu & Real Bad Man feat. Armand Hammer & Conquest Tony Phillips"},
+              { "title": "More Love", "performer": "Wheel Up feat. Kaidi Tatham & Brint Story"},
+              { "title": "FYT", "performer": "Danny Goliger"},
+              { "title": "Du fehlst mir", "performer": "Moritz Ley"},
+              { "title": "L.O.V.E", "performer": "Blue Hawaii"}
+            ],
+            [
+              { "time": "00:04", "title": "Washed Away", "performer": "Kelela"},
+              { "title": "Midhaven", "performer": "Solo & Blades"},
+              { "title": "Dancing In The Shadows", "performer": "TSHA feat. Clementine Douglas"},
+              { "title": "Gleich hinter Krefeld", "performer": "Die Sterne"},
+              { "title": "Super (Mogwai Remix)", "performer": "NEU!"},
+              { "title": "Hymne der melancholischen Programmierer", "performer": "Sankt Otten"},
+              { "title": "Glauben", "performer": "Kratzen"},
+              { "title": "Six Hills", "performer": "Lewsberg"},
+              { "title": "Zeit der Hyänen", "performer": "Kowalski"},
+              { "title": "This Thing Called Life", "performer": "Sleepy Tom"},
+              { "title": "Hey Now", "performer": "The Deepshakerz, Nhan Solo & DJ Vine"},
+              { "title": "Pool Room", "performer": "Guchon"}
             ]
           ]
         }
