@@ -74296,6 +74296,10 @@
         {
           "id": "38",
           "date": "2022-09-22",
+          "checked": {
+            "date": "2022-09-28",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -74355,8 +74359,8 @@
               },
               {
                 "time": "22:46",
-                "title": "Can´t get You Out Of My Head",
-                "performer": "Lisbon Kid feat Loretta Heywood"
+                "title": "Can´t Get You Out Of My Head",
+                "performer": "Lisbon Kid feat. Loretta Heywood"
               },
               {
                 "time": "22:52",
@@ -74377,7 +74381,7 @@
               },
               {
                 "time": "23:08",
-                "title": "Walk On By",
+                "title": "Walk On By (Live)",
                 "performer": "Kool & The Gang"
               },
               {
@@ -74427,7 +74431,7 @@
               },
               {
                 "time": "23:55",
-                "title": "Blackbird",
+                "title": "Blackbird (Live at the Universal Amphitheatre)",
                 "performer": "Stills & Nash Crosby"
               },
               {
