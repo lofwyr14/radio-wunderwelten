@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # vermutlich immer um 2 erhöhen
-ID=300
+ID=302
 
 # aktuelles Jahr
 YEAR=2022
