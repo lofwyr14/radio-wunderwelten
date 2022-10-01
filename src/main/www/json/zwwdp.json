@@ -74445,6 +74445,10 @@
         {
           "id": "39",
           "date": "2022-09-29",
+          "checked": {
+            "date": "2022-10-01",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -74566,7 +74570,7 @@
               },
               {
                 "time": "23:44",
-                "title": "Now You'Re Not Here",
+                "title": "Now You're Not Here (Vocal Mix)",
                 "performer": "Swing Out Sister"
               },
               {
