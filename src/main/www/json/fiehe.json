@@ -8454,6 +8454,7 @@
         {
           "id": "38",
           "date": "2022-09-18",
+          "checked": {"date": "2022-10-20", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Black Condolences", "performer": "The Mars Volta"},
@@ -8484,7 +8485,7 @@
             ],
             [
               { "time": "00:04", "title": "Washed Away", "performer": "Kelela"},
-              { "title": "Midhaven", "performer": "Solo & Blades"},
+              { "title": "Midhaven (Bass Nuum Mix)", "performer": "Solo & Blades"},
               { "title": "Dancing In The Shadows", "performer": "TSHA feat. Clementine Douglas"},
               { "title": "Gleich hinter Krefeld", "performer": "Die Sterne"},
               { "title": "Super (Mogwai Remix)", "performer": "NEU!"},
@@ -8493,7 +8494,7 @@
               { "title": "Six Hills", "performer": "Lewsberg"},
               { "title": "Zeit der Hyänen", "performer": "Kowalski"},
               { "title": "This Thing Called Life", "performer": "Sleepy Tom"},
-              { "title": "Hey Now", "performer": "The Deepshakerz, Nhan Solo & DJ Vine"},
+              { "title": "Hey Now (Extended Mix)", "performer": "The Deepshakerz, Nhan Solo & DJ Vine"},
               { "title": "Pool Room", "performer": "Guchon"}
             ]
           ]
