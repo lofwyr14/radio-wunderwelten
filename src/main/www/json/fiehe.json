@@ -8498,6 +8498,51 @@
               { "title": "Pool Room", "performer": "Guchon"}
             ]
           ]
+        },
+        {
+          "id": "38",
+          "date": "2022-09-25",
+          "songs": [
+            [
+              { "time": "22:04", "title": "C´mon You Know", "performer": "Liam Gallagher"},
+              { "title": "Talk Shows", "performer": "Low Hummer"},
+              { "title": "Men With Shifty Eyes", "performer": "Lawn Chair"},
+              { "title": "Sharks", "performer": "Brockhoff"},
+              { "title": "Necklace", "performer": "Donkey Kid"},
+              { "title": "Hard Rock Potato", "performer": "The Cool Greenhouse"},
+              { "title": "Asia Box", "performer": "Nashi44"},
+              { "title": "Dorfstrasse", "performer": "Hinterlandgang"},
+              { "title": "Seerosenräuber", "performer": "Fluppe"},
+              { "title": "Crash Course", "performer": "Blue DeTiger & Biig Piig"},
+              { "title": "Sleepless", "performer": "Avaion, PaulWetz & Nu Aspect"}
+            ],
+            [
+              { "time": "23:04", "title": "Shape Of Your Heart", "performer": "Joda"},
+              { "title": "Hysterie + Abfall", "performer": "Lyschko"},
+              { "title": "Schlüsselkind", "performer": "Rauchen"},
+              { "title": "Summer Of The Shark", "performer": "Ditz"},
+              { "title": "Bugs", "performer": "cumgirl8"},
+              { "title": "Sag Schon", "performer": "Kerfor"},
+              { "title": "You Won´t See Me Before I Come Back", "performer": "The Bad Plus"},
+              { "title": "The Longing", "performer": "Tamino"},
+              { "title": "Fascination", "performer": "Tamino"},
+              { "title": "Postkarten", "performer": "Steintor Herrenchor"},
+              { "title": "Teil Dieser Band", "performer": "Kraftklub"},
+              { "title": "Feedback", "performer": "Henry Franklin, Adrian Younge, Ali Shaheed Muhammad"}
+            ],
+            [
+              { "time": "00:04", "title": "Bill Is Dead", "performer": "The Fall"},
+              { "title": "Monks In A Club", "performer": "Superpitcher Meets Repeat Orchestra"},
+              { "title": "Clocks", "performer": "Jesus On Extasy"},
+              { "title": "Radio Ready", "performer": "Stone"},
+              { "title": "Unten", "performer": "Kratzen"},
+              { "title": "Glauben", "performer": "Kratzen"},
+              { "title": "I Want To Die In Your Arms", "performer": "Ekkstacy"},
+              { "title": "Nothing Left To Lose", "performer": "Powerplush"},
+              { "title": "Too Late For Edelweiss", "performer": "The Tallest Man On Earth"},
+              { "title": "Flamingo", "performer": "Tim Burgess"}
+            ]
+          ]
         }
       ]
     }
