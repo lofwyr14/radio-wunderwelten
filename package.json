@@ -20,7 +20,7 @@
   "author": "",
   "license": "Apache 2.0",
   "dependencies": {
-    "bootstrap": "^5.2.0",
+    "bootstrap": "^5.2.2",
     "font-awesome": "4.7.0"
   },
   "devDependencies": {
