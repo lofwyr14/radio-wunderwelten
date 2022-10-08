@@ -74595,6 +74595,150 @@
               }
             ]
           ]
+        },
+        {
+          "id": "40",
+          "date": "2022-10-06",
+          "checked": {
+            "date": "2022-10-08",
+            "user": "jg"
+          },
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Pop Muzik (78 Demo)",
+                "performer": "M"
+              },
+              {
+                "time": "22:07",
+                "title": "Up For Grabs",
+                "performer": "Turin Brakes"
+              },
+              {
+                "time": "22:12",
+                "title": "September (Reflux Revision Remix)",
+                "performer": "Earth, Wind & FIre"
+              },
+              {
+                "time": "22:19",
+                "title": "Rolling Back",
+                "performer": "Young Gun Silver Fox"
+              },
+              {
+                "time": "22:23",
+                "title": "Brumaire",
+                "performer": "Marxist Love Disco Ensemble"
+              },
+              {
+                "time": "22:28",
+                "title": "In Flames",
+                "performer": "The Afghan Whigs"
+              },
+              {
+                "time": "22:33",
+                "title": "Imaginary West",
+                "performer": "The Cleaners From Venus"
+              },
+              {
+                "time": "22:36",
+                "title": "Gummy",
+                "performer": "Will Joseph Cook x Tessa Violet"
+              },
+              {
+                "time": "22:39",
+                "title": "Tune To Green",
+                "performer": "The Loch Ness Mouse"
+              },
+              {
+                "time": "22:43",
+                "title": "Little Black Boxes",
+                "performer": "Lambchop"
+              },
+              {
+                "time": "22:48",
+                "title": "You And Me Song (Lounge Version)",
+                "performer": "The Wannadies"
+              },
+              {
+                "time": "22:52",
+                "title": "Precious Star",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "22:58",
+                "title": "Walk In The Night",
+                "performer": "Junior Walker & The All Stars"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Tea And Toast",
+                "performer": "Alpha"
+              },
+              {
+                "time": "23:07",
+                "title": "(You're Gonna) Hurt Yourself",
+                "performer": "Frankie Valli"
+              },
+              {
+                "time": "23:10",
+                "title": "Leech!",
+                "performer": "Ruby Goon"
+              },
+              {
+                "time": "23:15",
+                "title": "Us And Them",
+                "performer": "Pink Floyd"
+              },
+              {
+                "time": "23:23",
+                "title": "Bach Ze (Live bei Bremen Vier)",
+                "performer": "The High Llamas"
+              },
+              {
+                "time": "23:29",
+                "title": "Cry Baby Cry",
+                "performer": "Ramsey Lewis"
+              },
+              {
+                "time": "23:33",
+                "title": "Saltwater",
+                "performer": "Dent May"
+              },
+              {
+                "time": "23:35",
+                "title": "Feeling Bad Forsyth Street",
+                "performer": "Sofie Royer"
+              },
+              {
+                "time": "23:39",
+                "title": "The Darling Of Bloomsbury",
+                "performer": "The Cleaners From Venus"
+              },
+              {
+                "time": "23:42",
+                "title": "The Young Ones",
+                "performer": "The Real Tuesday Weld"
+              },
+              {
+                "time": "23:45",
+                "title": "Clouds Across The Moon",
+                "performer": "Ely Bruna"
+              },
+              {
+                "time": "23:50",
+                "title": "All I Want",
+                "performer": "PWNT"
+              },
+              {
+                "time": "23:54",
+                "title": "I Feel For You",
+                "performer": "Angela Galuppo"
+              }
+            ]
+          ]
         }
       ]
     }
