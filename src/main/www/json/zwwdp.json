@@ -74739,6 +74739,136 @@
               }
             ]
           ]
+        },
+        {
+          "id": "41",
+          "date": "2022-10-13",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Rock The Casbah",
+                "performer": "The Clash"
+              },
+              {
+                "time": "22:11",
+                "title": "Birth Of An Accidental Hipster",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "22:15",
+                "title": "Dust",
+                "performer": "Marxist Love Disco Ensemble"
+              },
+              {
+                "time": "22:19",
+                "title": "Cochineal",
+                "performer": "Steve Cradock"
+              },
+              {
+                "time": "22:23",
+                "title": "The Thin Wall",
+                "performer": "Ultravox"
+              },
+              {
+                "time": "22:30",
+                "title": "I'm A Man",
+                "performer": "The Wannadies"
+              },
+              {
+                "time": "22:32",
+                "title": "The Joy Of Living",
+                "performer": "Blueboy"
+              },
+              {
+                "time": "22:37",
+                "title": "Wear Your Love Like Heaven",
+                "performer": "The Cherry Bluestorms"
+              },
+              {
+                "time": "22:40",
+                "title": "Goodmood",
+                "performer": "Nabes"
+              },
+              {
+                "time": "22:44",
+                "title": "City Dog",
+                "performer": "Josh Rouse"
+              },
+              {
+                "time": "22:47",
+                "title": "Best Damn Day",
+                "performer": "The Jordan"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "I Put A Spell On You",
+                "performer": "Creedence Clearwater Revival"
+              },
+              {
+                "time": "23:08",
+                "title": "Erased By Sunlight",
+                "performer": "GoGo Penguin"
+              },
+              {
+                "time": "23:13",
+                "title": "Labyrinth",
+                "performer": "Jay-Jay Johanson"
+              },
+              {
+                "time": "23:17",
+                "title": "Joy Road",
+                "performer": "The Lyman Woodard Organization"
+              },
+              {
+                "time": "23:22",
+                "title": "Destiny Around The Corner",
+                "performer": "De-Phazz"
+              },
+              {
+                "time": "23:26",
+                "title": "Aus Und Vorbei",
+                "performer": "Panta Rhei"
+              },
+              {
+                "time": "23:32",
+                "title": "Septemberliebe",
+                "performer": "Holger Biege"
+              },
+              {
+                "time": "23:36",
+                "title": "Good Times",
+                "performer": "Ely Bruna feat. Wendy Lewis"
+              },
+              {
+                "time": "23:39",
+                "title": "Budapest By Blimp",
+                "performer": "Thomas Dolby"
+              },
+              {
+                "time": "23:48",
+                "title": "The Rose You Kept",
+                "performer": "Daniele Luppi & Greg Gonzalez"
+              },
+              {
+                "time": "23:53",
+                "title": "American Cement",
+                "performer": "Blue Wilson"
+              },
+              {
+                "time": "23:57",
+                "title": "Blackbird Day",
+                "performer": "The Real Tuesday Weld"
+              },
+              {
+                "time": "23:59",
+                "title": "Good night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
