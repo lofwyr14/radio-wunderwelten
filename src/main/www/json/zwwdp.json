@@ -74743,12 +74743,21 @@
         {
           "id": "41",
           "date": "2022-10-13",
+          "checked": {
+            "date": "2022-10-21",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
                 "title": "Rock The Casbah",
                 "performer": "The Clash"
+              },
+              {
+                "time": "22:08",
+                "title": "Weirdo",
+                "performer": "Jim Noir"
               },
               {
                 "time": "22:11",
@@ -74799,6 +74808,21 @@
                 "time": "22:47",
                 "title": "Best Damn Day",
                 "performer": "The Jordan"
+              },
+              {
+                "time": "22:50",
+                "title": "Almost Gospel",
+                "performer": "The Loch Ness Mouse"
+              },
+              {
+                "time": "22:53",
+                "title": "Room 23",
+                "performer": "The Loch Ness Mouse"
+              },
+              {
+                "time": "22:56",
+                "title": "25 Or 6 TO 4",
+                "performer": "Pacifika"
               }
             ],
             [
@@ -74861,10 +74885,145 @@
                 "time": "23:57",
                 "title": "Blackbird Day",
                 "performer": "The Real Tuesday Weld"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "42",
+          "date": "2022-10-20",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "No Tears To Cry",
+                "performer": "Paul Weller"
               },
               {
-                "time": "23:59",
-                "title": "Good night",
+                "time": "22:08",
+                "title": "Flutter",
+                "performer": "Mocky"
+              },
+              {
+                "time": "22:11",
+                "title": "Tragic",
+                "performer": "Joel Sarakula"
+              },
+              {
+                "time": "22:15",
+                "title": "Out Of Town",
+                "performer": "Frank Popp Ensemble feat. Jesper Munk"
+              },
+              {
+                "time": "22:20",
+                "title": "Small Scale",
+                "performer": "The Loch Ness Mouse"
+              },
+              {
+                "time": "22:24",
+                "title": "Desire",
+                "performer": "Warhaus"
+              },
+              {
+                "time": "22:27",
+                "title": "Magic Rising",
+                "performer": "Tim Burgess"
+              },
+              {
+                "time": "22:33",
+                "title": "Emily",
+                "performer": "Ryan Lerman feat. Jake Sherman"
+              },
+              {
+                "time": "22:36",
+                "title": "Diamond Violence",
+                "performer": "Marker Starling"
+              },
+              {
+                "time": "22:42",
+                "title": "Everybody's Onto Something New",
+                "performer": "Silvertwin"
+              },
+              {
+                "time": "22:45",
+                "title": "Further Down The Road",
+                "performer": "Sylvie"
+              },
+              {
+                "time": "22:49",
+                "title": "Hopeless",
+                "performer": "Sweet Baboo"
+              },
+              {
+                "time": "22:54",
+                "title": "Omen",
+                "performer": "CoCo"
+              },
+              {
+                "time": "22:57",
+                "title": "High Tide, Storm Rising",
+                "performer": "Skinshape"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Will You Follow Me Home",
+                "performer": "Meg Baird"
+              },
+              {
+                "time": "23:09",
+                "title": "Spinning The Wheel",
+                "performer": "George Michael"
+              },
+              {
+                "time": "23:15",
+                "title": "Lobbo",
+                "performer": "Vieux Farka Touré & Khruangbin"
+              },
+              {
+                "time": "23:20",
+                "title": "Girl",
+                "performer": "Men I Trust"
+              },
+              {
+                "time": "23:23",
+                "title": "Centric",
+                "performer": "Gianni Brezzo"
+              },
+              {
+                "time": "23:26",
+                "title": "Body Paint",
+                "performer": "Arctic Monkeys"
+              },
+              {
+                "time": "23:32",
+                "title": "What A Fool Believes",
+                "performer": "Scary Pockets feat. Swatkins"
+              },
+              {
+                "time": "23:36",
+                "title": "Grapevine",
+                "performer": "Weyes Blood"
+              },
+              {
+                "time": "23:41",
+                "title": "Stars At Noon",
+                "performer": "Tindersticks"
+              },
+              {
+                "time": "23:44",
+                "title": "September Sun",
+                "performer": "September Sun"
+              },
+              {
+                "time": "23:53",
+                "title": "Spree",
+                "performer": "Steve Yeager"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
                 "performer": "The Beatles"
               }
             ]
