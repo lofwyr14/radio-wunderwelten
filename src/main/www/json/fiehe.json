@@ -8454,7 +8454,7 @@
         {
           "id": "38",
           "date": "2022-09-18",
-          "checked": {"date": "2022-10-20", "user": "jg"},
+          "checked": {"date": "2022-10-02", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Black Condolences", "performer": "The Mars Volta"},
@@ -8500,8 +8500,10 @@
           ]
         },
         {
-          "id": "38",
+          "id": "39",
           "date": "2022-09-25",
+          "checked": {"date": "2022-10-22", "user": "jg"},
+          "comment": "Reeperbahn Festival 2022 – Ich geh' nachts die Straßen lang, einfach so, weil ich's kann",
           "songs": [
             [
               { "time": "22:04", "title": "C´mon You Know", "performer": "Liam Gallagher"},
@@ -8514,11 +8516,11 @@
               { "title": "Dorfstrasse", "performer": "Hinterlandgang"},
               { "title": "Seerosenräuber", "performer": "Fluppe"},
               { "title": "Crash Course", "performer": "Blue DeTiger & Biig Piig"},
-              { "title": "Sleepless", "performer": "Avaion, PaulWetz & Nu Aspect"}
+              { "title": "Sleepless", "performer": "Avaion, PaulWetz & Nu Aspect"},
+              { "title": "Shape Of Your Heart", "performer": "Joda"}
             ],
             [
-              { "time": "23:04", "title": "Shape Of Your Heart", "performer": "Joda"},
-              { "title": "Hysterie + Abfall", "performer": "Lyschko"},
+              { "time": "23:04", "title": "Hysterie + Abfall", "performer": "Lyschko"},
               { "title": "Schlüsselkind", "performer": "Rauchen"},
               { "title": "Summer Of The Shark", "performer": "Ditz"},
               { "title": "Bugs", "performer": "cumgirl8"},
@@ -8533,13 +8535,13 @@
             [
               { "time": "00:04", "title": "Bill Is Dead", "performer": "The Fall"},
               { "title": "Monks In A Club", "performer": "Superpitcher Meets Repeat Orchestra"},
-              { "title": "Clocks", "performer": "Jesus On Extasy"},
+              { "title": "Lost In Time", "performer": "Jesus On Extasy"},
               { "title": "Radio Ready", "performer": "Stone"},
               { "title": "Unten", "performer": "Kratzen"},
               { "title": "Glauben", "performer": "Kratzen"},
               { "title": "I Want To Die In Your Arms", "performer": "Ekkstacy"},
               { "title": "Nothing Left To Lose", "performer": "Powerplush"},
-              { "title": "Too Late For Edelweiss", "performer": "The Tallest Man On Earth"},
+              { "title": "För Sent för Edelweiss", "performer": "The Tallest Man On Earth"},
               { "title": "Flamingo", "performer": "Tim Burgess"}
             ]
           ]
