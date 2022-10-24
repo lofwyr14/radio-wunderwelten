@@ -8545,7 +8545,48 @@
               { "title": "Flamingo", "performer": "Tim Burgess"}
             ]
           ]
+        },
+        {
+          "id": "42",
+          "date": "2021-10-16",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Where´s This Love", "performer": "Joy Club"},
+              { "title": "Make Ya Mind Up", "performer": "Dreamcastmoe"},
+              { "title": "507 Miles High (IG Culture Remix)", "performer": "Nikitch & Kuna Maze"},
+              { "title": "Hard Rock Potato", "performer": "The Cool Greenhouse"},
+              { "title": "Untethered", "performer": "PVA"},
+              { "title": "Palm", "performer": "Dans Dans"},
+              { "title": "Lavendeltreppen", "performer": "Düsseldorf Düsterboys"},
+              { "title": "Extra Sleeve", "performer": "K-Trap feat. Headi One"},
+              { "title": "Alone", "performer": "NXXXXXS  feat. Bitsu"}
+            ],
+            [
+              { "time": "23:04", "title": "860", "performer": "Fracture feat. Eastman"},
+              { "title": "All In Time", "performer": "Third Son feat. Tush"},
+              { "title": "Unreal", "performer": "Liza Dries"},
+              { "title": "Seventh String", "performer": "Makaya McCraven"},
+              { "title": "Flood", "performer": "M.Byrd"},
+              { "title": "No Decent Shoes For Rain", "performer": "Dry Cleaning"},
+              { "title": "Torrid Zone", "performer": "Nucleus"},
+              { "title": "Fleez Dad", "performer": "Yeah Yeah Yeahs"},
+              { "title": "Whips Off Holly", "performer": "The Black LIps"}
+            ],
+            [
+              { "time": "00:04", "title": "Pari Pari (Shubostar Remix)", "performer": "Aili & Transistorcake"},
+              { "title": "Future Plan I (Betonkust Remix)", "performer": "Transistorcake"},
+              { "title": "Bad Dad", "performer": "PVA"},
+              { "title": "Popstar", "performer": "Art Alfie"},
+              { "title": "Der Letzte Traum", "performer": "Fehlfarben"},
+              { "title": "Raised On Tapes", "performer": "Settle Down"},
+              { "title": "Bonjour Tristesse (Luis Ake Remix)", "performer": "Salo"},
+              { "title": "Fisch", "performer": "Düsseldorf Düsterboys"},
+              { "title": "I Can See You", "performer": "Sophia Kennedy"},
+              { "title": "The Title", "performer": "Makaya McCraven"}
+            ]
+          ]
         }
+
       ]
     }
   ]
