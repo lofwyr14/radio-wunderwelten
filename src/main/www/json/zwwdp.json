@@ -75041,12 +75041,16 @@
         {
           "id": "43",
           "date": "2022-10-27",
+          "checked": {
+            "date": "2022-10-29",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
                 "title": "The Good Times",
-                "performer": "Paul Heaton + Jacqui Abbott"
+                "performer": "Paul Heaton & Jacqui Abbott"
               },
               {
                 "time": "22:08",
@@ -75079,6 +75083,11 @@
                 "performer": "The New Lines"
               },
               {
+                "time": "22:31",
+                "title": "You Can Make The Summer Come Alive",
+                "performer": "The Loch Ness Mouse"
+              },
+              {
                 "time": "22:34",
                 "title": "Lass sie an",
                 "performer": "Herr Wade"
@@ -75105,7 +75114,7 @@
               },
               {
                 "time": "22:51",
-                "title": "Take Me Avalon I'm Young",
+                "title": "Take Me Avalon I'm Young (Live At The BBC)",
                 "performer": "Pond"
               },
               {
@@ -75152,7 +75161,7 @@
               },
               {
                 "time": "23:30",
-                "title": "Stars At Noon",
+                "title": "Stars At Noon (Instrumental)",
                 "performer": "Tindersticks"
               },
               {
@@ -75184,11 +75193,6 @@
                 "time": "23:55",
                 "title": "For Carrol",
                 "performer": "Alina Bzhezhinska & HipHarpCollective"
-              },
-              {
-                "time": "23:58",
-                "title": "Good Night",
-                "performer": "The Beatles"
               }
             ]
           ]
