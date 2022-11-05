@@ -8549,6 +8549,7 @@
         {
           "id": "42",
           "date": "2021-10-16",
+          "comment": "Das Hotel im Niemandsland",
           "songs": [
             [
               { "time": "22:04", "title": "Where´s This Love", "performer": "Joy Club"},
@@ -8585,8 +8586,52 @@
               { "title": "The Title", "performer": "Makaya McCraven"}
             ]
           ]
+        },
+        {
+          "id": "43",
+          "date": "2022-1023",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Happy Ending", "performer": "Kelela"},
+              { "title": "All In Time", "performer": "Third Son feat. Tush"},
+              { "title": "Troopa", "performer": "O´ Flynn & Frazer Ray"},
+              { "title": "Vigil (Human Movement Remix)", "performer": "Golden Features"},
+              { "title": "Dreamers", "performer": "GLXY"},
+              { "title": "August Rush", "performer": "Arp Nova & Silence Groove"},
+              { "title": "Radiance", "performer": "Arp Nova & Silence Groove"},
+              { "title": "War Drum Riddim", "performer": "Degs & Hugh Hardie"},
+              { "title": "Mista", "performer": "Wiki & Subjxct 5  "},
+              { "title": "First Bird", "performer": "Bill Callahan"},
+              { "title": "S.O.L", "performer": "Bibio feat. Olivier St. Louis"}
+            ],
+            [
+              { "time": "23:04", "title": "Holsten", "performer": "O´Flynn & Frazer Ray"},
+              { "title": "Too Little Too Late (Little Late Mix)", "performer": "Joris Voorn & Underworld"},
+              { "title": "Reinvention (Alan Dixon Remix) ", "performer": "Moscoman feat. Zoot Woman"},
+              { "title": "Hysterie + Abfall", "performer": "Lyschko"},
+              { "title": "This Is Energy", "performer": "Red Lorry Yellow Lorry"},
+              { "title": "Tennis", "performer": "Courting"},
+              { "title": "9 to 5", "performer": "Joyeria"},
+              { "title": "Lavender Haze", "performer": "Taylor Swift"},
+              { "title": "Microman", "performer": "Florence Besch"},
+              { "title": "And Then She Kissed Her", "performer": "Philipp Boa & The Voodoo Club"},
+              { "title": "Waiting (Paul Woolford x Special Request Rework) ", "performer": "The Maghreban feat. Omar"}
+            ],
+            [
+              { "time": "00:04", "title": "Way To Say Goodbye", "performer": "Aoife Nessa Frances"},
+              { "title": "Sylvie", "performer": "Sylvie"},
+              { "title": "The Car", "performer": "Arctic Monkeys"},
+              { "title": "Homerton", "performer": "Loyle Carner, JNR Williams & Olivia Dean"},
+              { "title": "Mmm...Skyscraper I Love You", "performer": "Underworld"},
+              { "title": "Suspicious Minds", "performer": "Elvis Presley"},
+              { "title": "Fire", "performer": "Robert Gordon with Link Wray & Bruce Springsteen"},
+              { "title": "I Want To Be Free", "performer": "Robert Gordon with Link WRay"},
+              { "title": "Love My Baby", "performer": "Robert Gordon with Chris Spedding"},
+              { "title": "Fun City", "performer": "Tuff Darts"},
+              { "title": "Streetlands", "performer": "Burial"}
+            ]
+          ]
         }
-
       ]
     }
   ]
