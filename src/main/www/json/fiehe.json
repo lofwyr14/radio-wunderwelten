@@ -8589,7 +8589,7 @@
         },
         {
           "id": "43",
-          "date": "2022-1023",
+          "date": "2022-10-23",
           "songs": [
             [
               { "time": "22:04", "title": "Happy Ending", "performer": "Kelela"},
@@ -8629,6 +8629,54 @@
               { "title": "Love My Baby", "performer": "Robert Gordon with Chris Spedding"},
               { "title": "Fun City", "performer": "Tuff Darts"},
               { "title": "Streetlands", "performer": "Burial"}
+            ]
+          ]
+        },
+        {
+          "id": "44",
+          "date": "2022-10-30",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Where I Go", "performer": "NxWorries, Knowledge, Anderson.Paak & H.E.R."},
+              { "title": "Why Not Jungle", "performer": "Skalpel"},
+              { "title": "U Already Know", "performer": "Kiefer & Braxton Cook"},
+              { "title": "Remember Circles Are Better Than Lines", "performer": "Sarathy Korwar feat. Photay"},
+              { "title": "Simultaneous", "performer": "ARZ"},
+              { "title": "Roads", "performer": "Kenzo Str8Drop"},
+              { "title": "Golden Goal", "performer": "K-Trap feat. LD"},
+              { "title": "Who Wanna", "performer": "K-Trap feat. Krept & Konan"},
+              { "title": "Satyr", "performer": "O´Flynn & Frazer Ray"},
+              { "title": "After The Storm (Gene Tellem Remix)", "performer": "Barbie Bertisch"},
+              { "title": "Elliott", "performer": "Zeitgeist Freedom Energy Exchange"},
+              { "title": "Alpha Juno Love", "performer": "The Chord Memory Club"},
+              { "title": "Die Schlesischen Weber", "performer": "David J Kirchner"}
+            ],
+            [
+              { "time": "23:04", "title": "Reset", "performer": "Massimiliano Pagliara feat. Fort Romeau & Coloray"},
+              { "title": "Underdog", "performer": "Love MachineJoyeria"},
+              { "title": "Performance Review", "performer": "Joyeria"},
+              { "title": "Grapevine", "performer": "Weyes Blood"},
+              { "title": "War In Peace", "performer": "Skip Spence"},
+              { "title": "Sunshine Of Yur Love", "performer": "Cream"},
+              { "title": "RAM (Skee Mask Remix)", "performer": "Priciples Of Geometry"},
+              { "title": "Puddles", "performer": "GLXY"},
+              { "title": "Can´t Take It", "performer": "Arp Nova & Silence Groove"},
+              { "title": "Organic Chemistry", "performer": "Social Sport"},
+              { "title": "Equator", "performer": "Solah"}
+            ],
+            [
+              { "time": "00:04", "title": "Hysterie + Abfall", "performer": "Lyschko"},
+              { "title": "Hard Livin´", "performer": "The Men"},
+              { "title": "Country Life", "performer": "Master Peace"},
+              { "title": "(Herman´s) House", "performer": "Special Interest"},
+              { "title": "Twitchin´ In The Kitchen (Red Axes Rmx)", "performer": "Warmduscher"},
+              { "title": "Train Ride To The Middle East (Marvin & Guy Remix)", "performer": "SHMLSS"},
+              { "title": "Stumpwork", "performer": "Dry Cleaning"},
+              { "title": "Abend", "performer": "Lyschko"},
+              { "title": "Waiting On A Train", "performer": "A Certain Ratio feat. Ellen Beth Abdi & Chunky"},
+              { "title": "The Room", "performer": "The Orielles"},
+              { "title": "Medal Heads (Peshay Remix)", "performer": "Brainwaltzera"},
+              { "title": "Street Knowledge", "performer": "Dismantle"}
             ]
           ]
         }
