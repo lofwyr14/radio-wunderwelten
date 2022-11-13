@@ -8548,7 +8548,8 @@
         },
         {
           "id": "42",
-          "date": "2021-10-16",
+          "date": "2022-10-16",
+          "checked": {"date": "2022-11-13", "user": "jg"},
           "comment": "Das Hotel im Niemandsland",
           "songs": [
             [
@@ -8578,9 +8579,10 @@
               { "title": "Future Plan I (Betonkust Remix)", "performer": "Transistorcake"},
               { "title": "Bad Dad", "performer": "PVA"},
               { "title": "Popstar", "performer": "Art Alfie"},
-              { "title": "Der Letzte Traum", "performer": "Fehlfarben"},
+              { "title": "Der letzte Traum", "performer": "Fehlfarben"},
               { "title": "Raised On Tapes", "performer": "Settle Down"},
-              { "title": "Bonjour Tristesse (Luis Ake Remix)", "performer": "Salo"},
+              { "title": "Bonjour Tristesse (Luis Ake's Tour de Trance Remix)", "performer": "Salò"},
+              { "title": "I Lost My Head", "performer": "The Cool Greenhouse"},
               { "title": "Fisch", "performer": "Düsseldorf Düsterboys"},
               { "title": "I Can See You", "performer": "Sophia Kennedy"},
               { "title": "The Title", "performer": "Makaya McCraven"}
