@@ -8592,6 +8592,7 @@
         {
           "id": "43",
           "date": "2022-10-23",
+          "checked": {"date": "2022-11-15", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Happy Ending", "performer": "Kelela"},
@@ -8627,7 +8628,7 @@
               { "title": "Mmm...Skyscraper I Love You", "performer": "Underworld"},
               { "title": "Suspicious Minds", "performer": "Elvis Presley"},
               { "title": "Fire", "performer": "Robert Gordon with Link Wray & Bruce Springsteen"},
-              { "title": "I Want To Be Free", "performer": "Robert Gordon with Link WRay"},
+              { "title": "I Want To Be Free", "performer": "Robert Gordon with Link Wray"},
               { "title": "Love My Baby", "performer": "Robert Gordon with Chris Spedding"},
               { "title": "Fun City", "performer": "Tuff Darts"},
               { "title": "Streetlands", "performer": "Burial"}
@@ -8671,7 +8672,7 @@
               { "title": "Hard Livin´", "performer": "The Men"},
               { "title": "Country Life", "performer": "Master Peace"},
               { "title": "(Herman´s) House", "performer": "Special Interest"},
-              { "title": "Twitchin´ In The Kitchen (Red Axes Rmx)", "performer": "Warmduscher"},
+              { "title": "Twitchin´ In The Kitchen (Red Axes Remix)", "performer": "Warmduscher"},
               { "title": "Train Ride To The Middle East (Marvin & Guy Remix)", "performer": "SHMLSS"},
               { "title": "Stumpwork", "performer": "Dry Cleaning"},
               { "title": "Abend", "performer": "Lyschko"},
