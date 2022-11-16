@@ -8682,6 +8682,50 @@
               { "title": "Street Knowledge", "performer": "Dismantle"}
             ]
           ]
+        },
+        {
+          "id": "45",
+          "date": "2022-11-06",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Whistle", "performer": "Brintex Collective"},
+              { "title": "Lost", "performer": "Saphira"},
+              { "title": "Cost Price", "performer": "Tennis Pagan"},
+              { "title": "Evry", "performer": "Idea Therapy"},
+              { "title": "Back Home", "performer": "Ibrahim Maalouf feat. JP Cooper"},
+              { "title": "Contrast", "performer": "Amtrac feat. Reva DeVito"},
+              { "title": "Wanted Competition", "performer": "Kristin Velvet"},
+              { "title": "Fizzy (Felix Dickinson Remix)", "performer": "AshRR"},
+              { "title": "Get Unjaded", "performer": "The Cool Greenhouse"},
+              { "title": "Performance Review", "performer": "Joyeria"},
+              { "title": "Teen Rebel", "performer": "The Haunted Youth"}
+            ],
+            [
+              { "time": "23:04", "title": "I Think I´m In Love With Living Again", "performer": "Crypticz"},
+              { "title": "Plastic Future", "performer": "Gold Panda"},
+              { "title": "First Aid Kit", "performer": "Fracture"},
+              { "title": "Ley Yeux Orange", "performer": "Blutch"},
+              { "title": "(unconditional love)", "performer": "Superparka"},
+              { "title": "Lounge II", "performer": "96 Back"},
+              { "title": "Warm (Remix)", "performer": "K-Trap feat. Skepta"},
+              { "title": "On BS", "performer": "Drake & 21 Savage"},
+              { "title": "Unknown Title", "performer": "John Paul"},
+              { "title": "False Apologies", "performer": "Meryl Streek"},
+              { "title": "Hard To Get", "performer": "Jesse Bru"}
+            ],
+            [
+              { "time": "00:04", "title": "Dub That Chord", "performer": "Kelvin Belton"},
+              { "title": "Everybody Knows", "performer": "Dumbo Tracks with Markus Acher"},
+              { "title": "Sidewinder (Claude Cooper Remix)", "performer": "Andy Bell"},
+              { "title": "Astroturf", "performer": "King Gizzard & The Lizard Wizard"},
+              { "title": "Belonging", "performer": "Ezra Collective"},
+              { "title": "She Calls The Tune (Acoustic Version)", "performer": "Andy Bell"},
+              { "title": "Irty Hugs (Richard Sen Remix)", "performer": "Glok (Andy Bell)"},
+              { "title": "Popstar", "performer": "Art Alfie"},
+              { "title": "Horizon", "performer": "Damefrisör"},
+              { "title": "Peeling", "performer": "LIV Alma"}
+            ]
+          ]
         }
       ]
     }
