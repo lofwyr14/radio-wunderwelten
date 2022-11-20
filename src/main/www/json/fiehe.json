@@ -8638,6 +8638,7 @@
         {
           "id": "44",
           "date": "2022-10-30",
+          "checked": {"date": "2022-11-20", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Where I Go", "performer": "NxWorries, Knowledge, Anderson.Paak & H.E.R."},
@@ -8650,13 +8651,13 @@
               { "title": "Who Wanna", "performer": "K-Trap feat. Krept & Konan"},
               { "title": "Satyr", "performer": "O´Flynn & Frazer Ray"},
               { "title": "After The Storm (Gene Tellem Remix)", "performer": "Barbie Bertisch"},
-              { "title": "Elliott", "performer": "Zeitgeist Freedom Energy Exchange"},
-              { "title": "Alpha Juno Love", "performer": "The Chord Memory Club"},
-              { "title": "Die Schlesischen Weber", "performer": "David J Kirchner"}
+              { "title": "Cybernetic", "performer": "Zeitgeist Freedom Energy Exchange"},
+              { "title": "Accroche-Toi à Ton Amour", "performer": "The Chord Memory Club"},
+              { "title": "Die Schlesischen Weber", "performer": "David J. Kirchner"}
             ],
             [
               { "time": "23:04", "title": "Reset", "performer": "Massimiliano Pagliara feat. Fort Romeau & Coloray"},
-              { "title": "Underdog", "performer": "Love MachineJoyeria"},
+              { "title": "Underdog", "performer": "Love Machine"},
               { "title": "Performance Review", "performer": "Joyeria"},
               { "title": "Grapevine", "performer": "Weyes Blood"},
               { "title": "War In Peace", "performer": "Skip Spence"},
@@ -8678,7 +8679,7 @@
               { "title": "Abend", "performer": "Lyschko"},
               { "title": "Waiting On A Train", "performer": "A Certain Ratio feat. Ellen Beth Abdi & Chunky"},
               { "title": "The Room", "performer": "The Orielles"},
-              { "title": "Medal Heads (Peshay Remix)", "performer": "Brainwaltzera"},
+              { "title": "Medal Headz [G.B.D.F.] (Peshay Remix)", "performer": "Brainwaltzera"},
               { "title": "Street Knowledge", "performer": "Dismantle"}
             ]
           ]
