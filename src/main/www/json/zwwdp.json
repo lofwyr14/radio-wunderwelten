@@ -75359,8 +75359,17 @@
         {
           "id": "45",
           "date": "2022-11-10",
+          "checked": {
+            "date": "2022-11-22",
+            "user": "jg"
+          },
           "songs": [
             [
+              {
+                "time": "22:04",
+                "title": "The Summer At The Sawmill",
+                "performer": "The Loch Ness Mouse"
+              },
               {
                 "time": "22:08",
                 "title": "Out In The Dust",
@@ -75378,7 +75387,7 @@
               },
               {
                 "time": "22:19",
-                "title": "Pretty Boy",
+                "title": "Pretty Boy (Radio Edit)",
                 "performer": "Noel Gallagher's High Flying Bird"
               },
               {
@@ -75450,7 +75459,7 @@
               },
               {
                 "time": "23:20",
-                "title": "The Savignyplatz",
+                "title": "The Savignyplatz (Simple Song About Hope And Self-Doubt In Times Of Restricted Travel)",
                 "performer": "The Loch Ness Mouse"
               },
               {
