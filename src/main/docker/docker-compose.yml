@@ -1,6 +1,6 @@
 version: "3"
 services:
-  apache-astro-dev:
+  apache-radio-dev:
     build: apache-radio-dev
     ports:
       - "80:80"
