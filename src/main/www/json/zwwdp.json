@@ -75663,6 +75663,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "47",
+          "date": "2022-11-24",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "But Sundays Are The Best",
+                "performer": "theCatherines"
+              },
+              {
+                "time": "22:08",
+                "title": "The Late",
+                "performer": "Eggstone"
+              },
+              {
+                "time": "22:12",
+                "title": "Lonely Town",
+                "performer": "Joel Sarakula"
+              },
+              {
+                "time": "22:15",
+                "title": "Carousel Of Time",
+                "performer": "Adrian Knight"
+              },
+              {
+                "time": "22:19",
+                "title": "Colourblind",
+                "performer": "Dirk Darmstaedter"
+              },
+              {
+                "time": "22:24",
+                "title": "Open Window",
+                "performer": "Warhaus"
+              },
+              {
+                "time": "22:31",
+                "title": "Do It Now (Somehow)",
+                "performer": "Dead Star Talk"
+              },
+              {
+                "time": "22:34",
+                "title": "Joe",
+                "performer": "Joesef"
+              },
+              {
+                "time": "22:38",
+                "title": "Like The Old Days",
+                "performer": "Barry Can't Swim"
+              },
+              {
+                "time": "22:42",
+                "title": "The World",
+                "performer": "Benny Sings"
+              },
+              {
+                "time": "22:45",
+                "title": "One Night With The Valet",
+                "performer": "Tennis"
+              },
+              {
+                "time": "22:48",
+                "title": "Annie Hall",
+                "performer": "Pavo Pavo"
+              },
+              {
+                "time": "22:52",
+                "title": "Every Cross To Bear",
+                "performer": "The Fernweh"
+              },
+              {
+                "time": "22:55",
+                "title": "Turn The Key",
+                "performer": "Dungeon of Skeletons"
+              },
+              {
+                "time": "22:58",
+                "title": "Latin Dynamite",
+                "performer": "The Kevin Fingier Collective"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "Easier In Heaven",
+                "performer": "Dandelion feat. Matty & Kaan"
+              },
+              {
+                "time": "23:07",
+                "title": "They Long To Be Close To You",
+                "performer": "Friedrich Liechtenstein"
+              },
+              {
+                "time": "23:12",
+                "title": "Out Of My Mind",
+                "performer": "The Zenmenn & John Moods"
+              },
+              {
+                "time": "23:18",
+                "title": "Train To Imagination",
+                "performer": "Fabiano do Nascimento feat. Vittor Santos e Orquestra"
+              },
+              {
+                "time": "23:21",
+                "title": "Wasted On You",
+                "performer": "Andy Shauf"
+              },
+              {
+                "time": "23:25",
+                "title": "It's Not Just Me, It's Everybody",
+                "performer": "Weyes Blood"
+              },
+              {
+                "time": "23:33",
+                "title": "Tonight",
+                "performer": "Beachpeople"
+              },
+              {
+                "time": "23:35",
+                "title": "Forest Elf",
+                "performer": "MGMT"
+              },
+              {
+                "time": "23:39",
+                "title": "Something That Is Gone (Something Is Gone)",
+                "performer": "The Waterboys"
+              },
+              {
+                "time": "23:42",
+                "title": "Forevermore",
+                "performer": "Andy Crofts & Le SuperHomard"
+              },
+              {
+                "time": "23:44",
+                "title": "Bored Of God / Orlando",
+                "performer": "Turnover"
+              },
+              {
+                "time": "23:49",
+                "title": "Theme For Lazarus",
+                "performer": "Skinshape"
+              },
+              {
+                "time": "23:53",
+                "title": "Let 'em In",
+                "performer": "Patti Austin"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
