@@ -75513,6 +75513,10 @@
         {
           "id": "46",
           "date": "2022-11-17",
+          "checked": {
+            "date": "2022-11-24",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -75557,12 +75561,12 @@
               },
               {
                 "time": "22:37",
-                "title": "Nothing New Under The Sun",
+                "title": "Nothing New Under The Sun (Radio Edit)",
                 "performer": "Robi Mitch"
               },
               {
                 "time": "22:41",
-                "title": "Famous",
+                "title": "Famous (The Reflex Revision)",
                 "performer": "Parcels"
               },
               {
@@ -75640,7 +75644,7 @@
               {
                 "time": "23:45",
                 "title": "Fireflies",
-                "performer": ""
+                "performer": "Garden Gate"
               },
               {
                 "time": "23:50",
