@@ -8696,16 +8696,17 @@
               { "title": "Back Home", "performer": "Ibrahim Maalouf feat. JP Cooper"},
               { "title": "Contrast", "performer": "Amtrac feat. Reva DeVito"},
               { "title": "Wanted Competition", "performer": "Kristin Velvet"},
-              { "title": "Fizzy (Felix Dickinson Remix)", "performer": "AshRR"},
+              { "title": "War On The Bullshit (Revive)", "performer": "Ashley Beedle"},
               { "title": "Get Unjaded", "performer": "The Cool Greenhouse"},
               { "title": "Performance Review", "performer": "Joyeria"},
-              { "title": "Teen Rebel", "performer": "The Haunted Youth"}
+              { "title": "Teen Rebel", "performer": "The Haunted Youth"},
+              { "title": "Who Knew All Those Years Ago It Would Come To This...", "performer": "Crypticz"}
             ],
             [
               { "time": "23:04", "title": "I Think I´m In Love With Living Again", "performer": "Crypticz"},
               { "title": "Plastic Future", "performer": "Gold Panda"},
               { "title": "First Aid Kit", "performer": "Fracture"},
-              { "title": "Ley Yeux Orange", "performer": "Blutch"},
+              { "title": "Yesterday (Dylan Dylan Remix)", "performer": "Blutch"},
               { "title": "(unconditional love)", "performer": "Superparka"},
               { "title": "Lounge II", "performer": "96 Back"},
               { "title": "Warm (Remix)", "performer": "K-Trap feat. Skepta"},
@@ -8725,6 +8726,52 @@
               { "title": "Popstar", "performer": "Art Alfie"},
               { "title": "Horizon", "performer": "Damefrisör"},
               { "title": "Peeling", "performer": "LIV Alma"}
+            ]
+          ]
+        },
+        {
+          "id": "46",
+          "date": "2022-11-13",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Get Inspired", "performer": "Genesis Owusu"},
+              { "title": "Six Hills", "performer": "Lewsberg"},
+              { "title": "Get Unjaded", "performer": "The Cool Geenhouse"},
+              { "title": "Weltareh (Prins Thomas Miks Del I - Vokal Versjon)", "performer": "Freeform Five feat. Juldeh Camara"},
+              { "title": "Bem Vindo", "performer": "Batida feat. DJ Satellite"},
+              { "title": "The Three Rooms Of Nightclub Marilyn", "performer": "Acid Klaus feat. Lieselot Elzinga"},
+              { "title": "Dirty Rat", "performer": "Orbital feat. Sleaford Mods"},
+              { "title": "Astromech", "performer": "Mia Mendi"},
+              { "title": "Recession Proof", "performer": "NAS"},
+              { "title": "My Birdman", "performer": "Christine And the Queens"},
+              { "title": "Place", "performer": "Headie One, Pajel & Dezzie"},
+              { "title": "Mathematician/Blackout", "performer": "CEO Trayle"}
+            ],
+            [
+              { "time": "23:04", "title": "Untethered", "performer": "PVA"},
+              { "title": "Make It Right", "performer": "The Deepshakerz"},
+              { "title": "Hard Rock Potato", "performer": "The Cool Greenhouse"},
+              { "title": "Dabke", "performer": "Ay Huncho & Nasa Nova "},
+              { "title": "Ya Mahla", "performer": "Acid Arab feat. Wael Alkak"},
+              { "title": "Watch With Mother", "performer": "Girls In Synthesis"},
+              { "title": "The Three Rooms Of Nightclub Marilyn", "performer": "Acid Klaus feat. Lieselot Elzinga "},
+              { "title": "2 Close", "performer": "Pool"},
+              { "title": "Ma Bien Aimee Bye Bye", "performer": "Christine And The Queens"},
+              { "title": "Make Them Watch", "performer": "Parallel"},
+              { "title": "Alles OK", "performer": "Love Machine"}
+            ],
+            [
+              { "time": "00:04", "title": "Slow Dancin´", "performer": "Scout Gillett"},
+              { "title": "Dirty Knees", "performer": "Ray Baxter"},
+              { "title": "Hurry On Sundown", "performer": "Hawkwind"},
+              { "title": "Love Will Tear Us Apart", "performer": "William Fitzsimmons"},
+              { "title": "Sensational", "performer": "Portland"},
+              { "title": "Idol; RE-run ", "performer": "Westerman"},
+              { "title": "Firebabe", "performer": "Stormzy"},
+              { "title": "Looking For Love", "performer": "Christine And The Queens"},
+              { "title": "Musicians", "performer": "The Cool Greenhouse"},
+              { "title": "Feel Me (Yuksek Extended Remix)", "performer": "Simon Says"},
+              { "title": "H2O", "performer": "Alex Jones"}
             ]
           ]
         }
