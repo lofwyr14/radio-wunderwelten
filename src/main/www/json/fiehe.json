@@ -8775,6 +8775,51 @@
               { "title": "H2O", "performer": "Alex Jones"}
             ]
           ]
+        },
+        {
+          "id": "47",
+          "date": "2022-11-20",
+          "songs": [
+            [
+              { "time": "22:04", "title": "New Being", "performer": "Binary State"},
+              { "title": "Rave I Didn´t Know Was The Last", "performer": "Bop & Subwave"},
+              { "title": "Love You", "performer": "Luuk Van Dijk feat. Dawn Richards  "},
+              { "title": "Exit (Machinedrum Remix)", "performer": "Mouth Water"},
+              { "title": "Waiting To Go", "performer": "DRS feat. Duskee & Disrupta"},
+              { "title": "Picture Disc", "performer": "BCee & T.R.A.C"},
+              { "title": "O.B.F.C", "performer": "Chavinsky & Ell Murphy"},
+              { "title": "Move Rework", "performer": "Kae Tempest feat. Kojey Radical"},
+              { "title": "Naturally Conspiring", "performer": "Badge Epoque Ensemble & Lammping feat. Boldy James"},
+              { "title": "Yesterday", "performer": "Peach Tree Rascals"},
+              { "title": "Hobo Hula", "performer": "Tim Love Lee"},
+              { "title": "United Woman Of The World", "performer": "Nina Hagen feat. Lene Lovich & Liz Mitchell  "}
+            ],
+            [
+              { "time": "23:04", "title": "Living Loving Maid", "performer": "Led Zeppelin"},
+              { "title": "Simmer Down", "performer": "Foushee"},
+              { "title": "Kaputtes Gerät", "performer": "Paula Paula"},
+              { "title": "Norbert Hat Angst", "performer": "Dyse"},
+              { "title": "Bad Clubs Bad Drugs Bad People", "performer": "Acid Klaus"},
+              { "title": "Eveybody", "performer": "Honey Dijon feat. Pabllo Vittar & Urias"},
+              { "title": "Work", "performer": "Honey Dijon feat. Dave Giles II, Cor.Ece & Mike Dunn"},
+              { "title": "Afro Dizzy", "performer": "A Certain Ratio feat. Ellen Beth Abdi"},
+              { "title": "Through The Night (Extended Mix)", "performer": "Robin M x Réve  "},
+              { "title": "Fantasy", "performer": "Turnover"},
+              { "title": "Queen In The River", "performer": "Turnover"},
+              { "title": "Los Chivcos Tristes", "performer": "Hermanos Gutierrez"},
+              { "title": "It´s Like A Secret", "performer": "Skullcrusher"}
+            ],
+            [
+              { "time": "00:04", "title": "Der Wagen", "performer": "Walter Wegmüller"},
+              { "title": "Mini Swipe", "performer": "Cloud Management"},
+              { "title": "Love Without Illusion", "performer": "Pleasure Pool"},
+              { "title": "Deep Well", "performer": "Albertine Sarges feat. Kat Frankie"},
+              { "title": "Ketamine", "performer": "Mykki Blanco feat. Slug Christ"},
+              { "title": "Twin Flame", "performer": "Weyes Blood"},
+              { "title": "Chevrolet", "performer": "Neil Young & Crazy Horse"},
+              { "title": "Ballerins (Norah)", "performer": "Veps"}
+            ]
+          ]
         }
       ]
     }
