@@ -8687,6 +8687,7 @@
         {
           "id": "45",
           "date": "2022-11-06",
+          "checked": {"date": "2022-11-29", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Whistle", "performer": "Brintex Collective"},
@@ -8716,13 +8717,13 @@
               { "title": "Hard To Get", "performer": "Jesse Bru"}
             ],
             [
-              { "time": "00:04", "title": "Dub That Chord", "performer": "Kelvin Belton"},
-              { "title": "Everybody Knows", "performer": "Dumbo Tracks with Markus Acher"},
-              { "title": "Sidewinder (Claude Cooper Remix)", "performer": "Andy Bell"},
+              { "time": "00:04", "title": "Make It Right", "performer": "Backup Plan"},
+              { "title": "Everybody Knows (Markus Acher Vocal Version)", "performer": "Dumbo Tracks with The Notwistr"},
+              { "title": "Sidewinder (Claude Cooper Remix) (Instrumental)", "performer": "Andy Bell"},
               { "title": "Astroturf", "performer": "King Gizzard & The Lizard Wizard"},
               { "title": "Belonging", "performer": "Ezra Collective"},
               { "title": "She Calls The Tune (Acoustic Version)", "performer": "Andy Bell"},
-              { "title": "Irty Hugs (Richard Sen Remix)", "performer": "Glok (Andy Bell)"},
+              { "title": "Dirty Hugs (Richard Sen Remix)", "performer": "Glok"},
               { "title": "Popstar", "performer": "Art Alfie"},
               { "title": "Horizon", "performer": "Damefrisör"},
               { "title": "Peeling", "performer": "LIV Alma"}
