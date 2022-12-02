@@ -75822,6 +75822,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "48",
+          "date": "2022-12-01",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Changes",
+                "performer": "David Bowie"
+              },
+              {
+                "time": "22:08",
+                "title": "My Favourite Part Of You",
+                "performer": "Louis Philippe"
+              },
+              {
+                "time": "22:12",
+                "title": "Über das grau",
+                "performer": "Flo Mega & The Ruffcats"
+              },
+              {
+                "time": "22:15",
+                "title": "Wasted On You",
+                "performer": "Andy Shauf"
+              },
+              {
+                "time": "22:19",
+                "title": "Diamond Wave",
+                "performer": "Ron Sexsmith"
+              },
+              {
+                "time": "22:22",
+                "title": "Edge Of The Edge",
+                "performer": "Panda Bear & Sonic Boom"
+              },
+              {
+                "time": "22:27",
+                "title": "Every Cross To Bear",
+                "performer": "The Fernweh"
+              },
+              {
+                "time": "22:31",
+                "title": "Godiva Girl",
+                "performer": "Todd Rundgren feat. The Roots"
+              },
+              {
+                "time": "22:36",
+                "title": "Love My Shadow",
+                "performer": "Joel Sarakula"
+              },
+              {
+                "time": "22:40",
+                "title": "Institute",
+                "performer": "Alpha"
+              },
+              {
+                "time": "22:44",
+                "title": "Untitled Song",
+                "performer": "Birds Whirly"
+              },
+              {
+                "time": "22:48",
+                "title": "False Memory",
+                "performer": "Lambda77"
+              },
+              {
+                "time": "22:53",
+                "title": "Tender Years",
+                "performer": "Robert Forster"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Baby, Now That I've Found You",
+                "performer": "Lana Cantrell"
+              },
+              {
+                "time": "23:06",
+                "title": "We Have All The Time In The World",
+                "performer": "Friedrich Liechtenstein"
+              },
+              {
+                "time": "23:11",
+                "title": "Just Come Home With Me Tonight",
+                "performer": "Joesef"
+              },
+              {
+                "time": "23:14",
+                "title": "These Are The Good Old Days",
+                "performer": "Courtney Marie Andrews"
+              },
+              {
+                "time": "23:17",
+                "title": "Hotel Bar",
+                "performer": "Tindersticks"
+              },
+              {
+                "time": "23:22",
+                "title": "Lousiana Fall",
+                "performer": "Will & James Ragar"
+              },
+              {
+                "time": "23:26",
+                "title": "Haunted",
+                "performer": "Eloise feat. Andy Crofts"
+              },
+              {
+                "time": "23:33",
+                "title": "Everlasting Mind",
+                "performer": "Chocolat & The Mattson 2"
+              },
+              {
+                "time": "23:38",
+                "title": "Word On A Wing (Moonage Daydream Mix)",
+                "performer": "David Bowie"
+              },
+              {
+                "time": "23:43",
+                "title": "Stars Like Eyes",
+                "performer": "Adrian Knight"
+              },
+              {
+                "time": "23:48",
+                "title": "Whoville",
+                "performer": "The Creator Tyler"
+              },
+              {
+                "time": "23:51",
+                "title": "Tears Of Change",
+                "performer": "Turnover"
+              },
+              {
+                "time": "23:55",
+                "title": "Dream Life",
+                "performer": "Joel Sarakula"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
