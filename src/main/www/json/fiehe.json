@@ -8733,6 +8733,7 @@
         {
           "id": "46",
           "date": "2022-11-13",
+          "checked": {"date": "2022-12-03", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Get Inspired", "performer": "Genesis Owusu"},
@@ -8740,17 +8741,17 @@
               { "title": "Get Unjaded", "performer": "The Cool Geenhouse"},
               { "title": "Weltareh (Prins Thomas Miks Del I - Vokal Versjon)", "performer": "Freeform Five feat. Juldeh Camara"},
               { "title": "Bem Vindo", "performer": "Batida feat. DJ Satellite"},
-              { "title": "The Three Rooms Of Nightclub Marilyn", "performer": "Acid Klaus feat. Lieselot Elzinga"},
+              { "title": "Bad Club Bad Drugs Bad People", "performer": "Acid Klaus"},
               { "title": "Dirty Rat", "performer": "Orbital feat. Sleaford Mods"},
               { "title": "Astromech", "performer": "Mia Mendi"},
               { "title": "Recession Proof", "performer": "NAS"},
               { "title": "My Birdman", "performer": "Christine And the Queens"},
               { "title": "Place", "performer": "Headie One, Pajel & Dezzie"},
-              { "title": "Mathematician/Blackout", "performer": "CEO Trayle"}
+              { "title": "Pass It On", "performer": "CEO Trayle"}
             ],
             [
               { "time": "23:04", "title": "Untethered", "performer": "PVA"},
-              { "title": "Make It Right", "performer": "The Deepshakerz"},
+              { "title": "Make It Right (Extended Mix)", "performer": "The Deepshakerz"},
               { "title": "Hard Rock Potato", "performer": "The Cool Greenhouse"},
               { "title": "Dabke", "performer": "Ay Huncho & Nasa Nova "},
               { "title": "Ya Mahla", "performer": "Acid Arab feat. Wael Alkak"},
@@ -8758,11 +8759,11 @@
               { "title": "The Three Rooms Of Nightclub Marilyn", "performer": "Acid Klaus feat. Lieselot Elzinga "},
               { "title": "2 Close", "performer": "Pool"},
               { "title": "Ma Bien Aimee Bye Bye", "performer": "Christine And The Queens"},
-              { "title": "Make Them Watch", "performer": "Parallel"},
-              { "title": "Alles OK", "performer": "Love Machine"}
+              { "title": "Make Them Watch", "performer": "Parallel"}
             ],
             [
-              { "time": "00:04", "title": "Slow Dancin´", "performer": "Scout Gillett"},
+              { "time": "00:04", "title": "Alles OK", "performer": "Love Machine"},
+              { "title": "Slow Dancin´", "performer": "Scout Gillett"},
               { "title": "Dirty Knees", "performer": "Ray Baxter"},
               { "title": "Hurry On Sundown", "performer": "Hawkwind"},
               { "title": "Love Will Tear Us Apart", "performer": "William Fitzsimmons"},
@@ -8772,7 +8773,7 @@
               { "title": "Looking For Love", "performer": "Christine And The Queens"},
               { "title": "Musicians", "performer": "The Cool Greenhouse"},
               { "title": "Feel Me (Yuksek Extended Remix)", "performer": "Simon Says"},
-              { "title": "H2O", "performer": "Alex Jones"}
+              { "title": "It Happended Just Once", "performer": "Buridan"}
             ]
           ]
         },
