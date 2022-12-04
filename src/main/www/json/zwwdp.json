@@ -75826,11 +75826,15 @@
         {
           "id": "48",
           "date": "2022-12-01",
+          "checked": {
+            "date": "2022-12-04",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
-                "title": "Changes",
+                "title": "Changes (2021 Alternative Mix)",
                 "performer": "David Bowie"
               },
               {
@@ -75840,7 +75844,7 @@
               },
               {
                 "time": "22:12",
-                "title": "Über das grau",
+                "title": "Über das Grau",
                 "performer": "Flo Mega & The Ruffcats"
               },
               {
@@ -75880,8 +75884,8 @@
               },
               {
                 "time": "22:44",
-                "title": "Untitled Song",
-                "performer": "Birds Whirly"
+                "title": "\"Untitled Song\"",
+                "performer": "The Whirly Byrds"
               },
               {
                 "time": "22:48",
@@ -75948,7 +75952,7 @@
               {
                 "time": "23:48",
                 "title": "Whoville",
-                "performer": "The Creator Tyler"
+                "performer": "Tyler, The Creator"
               },
               {
                 "time": "23:51",
