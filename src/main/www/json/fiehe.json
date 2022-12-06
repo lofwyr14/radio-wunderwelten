@@ -8773,13 +8773,14 @@
               { "title": "Looking For Love", "performer": "Christine And The Queens"},
               { "title": "Musicians", "performer": "The Cool Greenhouse"},
               { "title": "Feel Me (Yuksek Extended Remix)", "performer": "Simon Says"},
-              { "title": "It Happended Just Once", "performer": "Buridan"}
+              { "title": "It Happened Just Once", "performer": "Buridan"}
             ]
           ]
         },
         {
           "id": "47",
           "date": "2022-11-20",
+          "checked": {"date": "2022-12-06", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "New Being", "performer": "Binary State"},
@@ -8796,18 +8797,18 @@
               { "title": "United Woman Of The World", "performer": "Nina Hagen feat. Lene Lovich & Liz Mitchell  "}
             ],
             [
-              { "time": "23:04", "title": "Living Loving Maid", "performer": "Led Zeppelin"},
+              { "time": "23:04", "title": "Living Loving Maid (She's Just A Woman)", "performer": "Led Zeppelin"},
               { "title": "Simmer Down", "performer": "Foushee"},
               { "title": "Kaputtes Gerät", "performer": "Paula Paula"},
-              { "title": "Norbert Hat Angst", "performer": "Dyse"},
+              { "title": "Norbert hat Angst (Single Edit)", "performer": "Dÿse"},
               { "title": "Bad Clubs Bad Drugs Bad People", "performer": "Acid Klaus"},
               { "title": "Eveybody", "performer": "Honey Dijon feat. Pabllo Vittar & Urias"},
               { "title": "Work", "performer": "Honey Dijon feat. Dave Giles II, Cor.Ece & Mike Dunn"},
               { "title": "Afro Dizzy", "performer": "A Certain Ratio feat. Ellen Beth Abdi"},
-              { "title": "Through The Night (Extended Mix)", "performer": "Robin M x Réve  "},
+              { "title": "Through The Night (Extended Mix)", "performer": "Robin M x Réve"},
               { "title": "Fantasy", "performer": "Turnover"},
               { "title": "Queen In The River", "performer": "Turnover"},
-              { "title": "Los Chivcos Tristes", "performer": "Hermanos Gutierrez"},
+              { "title": "Los Chicos Tristes", "performer": "Hermanos Gutiérrez"},
               { "title": "It´s Like A Secret", "performer": "Skullcrusher"}
             ],
             [
