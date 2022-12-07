@@ -8822,6 +8822,50 @@
               { "title": "Ballerins (Norah)", "performer": "Veps"}
             ]
           ]
+        },
+        {
+          "id": "48",
+          "date": "2022-11-27",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Untruth", "performer": "Hammock"},
+              { "title": "De Se Trouver", "performer": "Ellinor Jackson"},
+              { "title": "Don´t Worry (Lost Desert Remix)", "performer": "Satin Jackets"},
+              { "title": "Don´t Let Go", "performer": "Supershy"},
+              { "title": "Wood", "performer": "Timothy Duval feat. Yu Su"},
+              { "title": "Enter The Day", "performer": "Patrick Wolf"},
+              { "title": "It´s Not Just Me, It´s Everybody", "performer": "Weyes Blood"},
+              { "title": "Close To You", "performer": "Carpenters"},
+              { "title": "This Is What I Mean", "performer": "Stormzy"},
+              { "title": "Take Losses", "performer": "Meekz"},
+              { "title": "Stream Of Consciousness", "performer": "Lola Young"}
+            ],
+            [
+              { "time": "23:04", "title": "Masimbabele", "performer": "Unknown Cases feat. Reebop Kwaku Baah"},
+              { "title": "Weltareh (Prins Thomas Remix)", "performer": "Freeform Five feat. Juldeh Camara"},
+              { "title": "Perspex Sex (Ewan´s Hi-Energy Mix)", "performer": "Freeform Five"},
+              { "title": "Want My Love", "performer": "Mineo"},
+              { "title": "Void", "performer": "Crystal Glass"},
+              { "title": "Easy Now I´ve Got You", "performer": "TelemanRozi Plain"},
+              { "title": "Help", "performer": "Rozi Plain"},
+              { "title": "Pass It On", "performer": "CEO Trayle"},
+              { "title": "Closed Curtains", "performer": "CEO Trayle"},
+              { "title": "Prune", "performer": "Dukwa"}
+            ],
+            [
+              { "time": "00:04", "title": "Fire + Water", "performer": "Stormzy"},
+              { "title": "Performance Review", "performer": "Joyeria"},
+              { "title": "A Single Thunder In November", "performer": "Stella Sommer"},
+              { "title": "Losing", "performer": "Marianne Faithful"},
+              { "title": "Euphoric Rush", "performer": "Bop & Subwave"},
+              { "title": "Cosmos", "performer": "Mountain"},
+              { "title": "Cafe Spaghetti", "performer": "Axel Bomann"},
+              { "title": "Crazy That You Love (El-B Remix)", "performer": "Aurora Dee Raynes"},
+              { "title": "Bubbly", "performer": "Sister Zo"},
+              { "title": "The Planets", "performer": "E-Freq"},
+              { "title": "Feedback", "performer": "Luke Noa"}
+            ]
+          ]
         }
       ]
     }
