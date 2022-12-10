@@ -75975,11 +75975,15 @@
         {
           "id": "49",
           "date": "2022-12-08",
+          "checked": {
+            "date": "2022-12-10",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
-                "title": "Kooks",
+                "title": "Kooks (BOWPROMO Mix; 2022 Remaster)",
                 "performer": "David Bowie"
               },
               {
@@ -76035,7 +76039,7 @@
               {
                 "time": "22:46",
                 "title": "I'm In Love",
-                "performer": "Trumpets of Consciousness"
+                "performer": "Trumpets Of Consciousness"
               },
               {
                 "time": "22:54",
@@ -76066,7 +76070,7 @@
               },
               {
                 "time": "23:18",
-                "title": "Here",
+                "title": "Here (Peel Dream Magazine Remix)",
                 "performer": "Healing Potpourri"
               },
               {
@@ -76102,7 +76106,7 @@
               {
                 "time": "23:47",
                 "title": "Annie's Song",
-                "performer": "Gundersen, Abby, Fitzsimmons, William"
+                "performer": "William Fitzsimmons"
               },
               {
                 "time": "23:51",
