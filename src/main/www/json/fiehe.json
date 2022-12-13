@@ -8828,11 +8828,11 @@
           "date": "2022-11-27",
           "songs": [
             [
-              { "time": "22:04", "title": "Untruth", "performer": "Hammock"},
+              { "time": "22:04", "title": "UnTruth", "performer": "Hammock"},
               { "title": "De Se Trouver", "performer": "Ellinor Jackson"},
               { "title": "Don´t Worry (Lost Desert Remix)", "performer": "Satin Jackets"},
               { "title": "Don´t Let Go", "performer": "Supershy"},
-              { "title": "Wood", "performer": "Timothy Duval feat. Yu Su"},
+              { "title": "Wood", "performer": "Duval Timothy feat. Yu Su"},
               { "title": "Enter The Day", "performer": "Patrick Wolf"},
               { "title": "It´s Not Just Me, It´s Everybody", "performer": "Weyes Blood"},
               { "title": "Close To You", "performer": "Carpenters"},
@@ -8841,9 +8841,10 @@
               { "title": "Stream Of Consciousness", "performer": "Lola Young"}
             ],
             [
-              { "time": "23:04", "title": "Masimbabele", "performer": "Unknown Cases feat. Reebop Kwaku Baah"},
+              { "time": "23:04", "title": "Silkworm", "performer": "Cameo Blush"},
+              { "title": "Masimbabele", "performer": "Unknown Cases feat. Reebop Kwaku Baah"},
               { "title": "Weltareh (Prins Thomas Remix)", "performer": "Freeform Five feat. Juldeh Camara"},
-              { "title": "Perspex Sex (Ewan´s Hi-Energy Mix)", "performer": "Freeform Five"},
+              { "title": "Perspex Sex (Ewan´s HI-NRG Remix)", "performer": "Freeform Five"},
               { "title": "Want My Love", "performer": "Mineo"},
               { "title": "Void", "performer": "Crystal Glass"},
               { "title": "Easy Now I´ve Got You", "performer": "TelemanRozi Plain"},
@@ -8864,6 +8865,51 @@
               { "title": "Bubbly", "performer": "Sister Zo"},
               { "title": "The Planets", "performer": "E-Freq"},
               { "title": "Feedback", "performer": "Luke Noa"}
+            ]
+          ]
+        },
+        {
+          "id": "49",
+          "date": "2022-12-04",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Instagram Caption", "performer": "Meekz"},
+              { "title": "ME N U", "performer": "OddKitOut"},
+              { "title": "Dann mit der Pumpgun 2.0", "performer": "Haftbefehl, Azad, Kool Savas & Bazzazian"},
+              { "title": "Embers Reign", "performer": "DRS & Calibre"},
+              { "title": "Return Of The Gobble", "performer": "Luuk Van Dijk"},
+              { "title": "Miete Strom Gas (Patric Catani & Chris Imler Remix )", "performer": "Die Türen"},
+              { "title": "Abeokuta", "performer": "Ki!"},
+              { "title": "Last One", "performer": "Bakey"},
+              { "title": "Isola (Locked Groove Remix)", "performer": "Lo Straquen"},
+              { "title": "Neighbourhood (Steve Gurley Remix)", "performer": "Zed Bias"},
+              { "title": "In The Thick Of It", "performer": "Will Sheff & Okkervil River"},
+              { "title": "Twin Flame", "performer": "Weyes Blood"}
+            ],
+            [
+              { "time": "23:04", "title": "Macho City", "performer": "Steve Miller Band"},
+              { "title": "Love Without Illusion", "performer": "Pleasure Pool"},
+              { "title": "Cosmoposition", "performer": "Cloud Management"},
+              { "title": "Wild Mountain Honey", "performer": "Steve Miller Band"},
+              { "title": "Gloss", "performer": "Laundromat"},
+              { "title": "Daddy´s Gone", "performer": "Bye Beneco"},
+              { "title": "City Of Synths", "performer": "Leftfield"},
+              { "title": "Dirty Rat", "performer": "Orbital feat. Sleaford Mods"},
+              { "title": "Become The Lies", "performer": "The Soft Moon"}
+            ],
+            [
+              { "time": "22:04", "title": "Miete Strom Gas (T.Raumschmiere Remix)", "performer": "Die Türen"},
+              { "title": "Lift You Hands (Prayer Mix)", "performer": "AndileAndy"},
+              { "title": "Snooze", "performer": "Mavi Phoenix"},
+              { "title": "Offline", "performer": "The Planetoids"},
+              { "title": "I Don´t Mind", "performer": "Kislo feat. Bailey"},
+              { "title": "Don´t Let Go", "performer": "Supershy"},
+              { "title": "Soldissimo (EDC Remix)", "performer": "Air"},
+              { "title": "Sack Voller Drogen (A JD Twitch Remix)", "performer": "We Smile"},
+              { "title": "Hard Rock Potato", "performer": "The Cool Greenhouse"},
+              { "title": "Streiflicht", "performer": "Neufundland"},
+              { "title": "Feedback", "performer": "Luke Noa"},
+              { "title": "Abend", "performer": "Lyschko"}
             ]
           ]
         }
