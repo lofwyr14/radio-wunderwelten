@@ -8826,6 +8826,7 @@
         {
           "id": "48",
           "date": "2022-11-27",
+          "checked": {"date": "2022-12-14", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "UnTruth", "performer": "Hammock"},
@@ -8847,10 +8848,10 @@
               { "title": "Perspex Sex (Ewan´s HI-NRG Remix)", "performer": "Freeform Five"},
               { "title": "Want My Love", "performer": "Mineo"},
               { "title": "Void", "performer": "Crystal Glass"},
-              { "title": "Easy Now I´ve Got You", "performer": "TelemanRozi Plain"},
+              { "title": "Easy Now I´ve Got You", "performer": "Teleman"},
               { "title": "Help", "performer": "Rozi Plain"},
-              { "title": "Pass It On", "performer": "CEO Trayle"},
               { "title": "Closed Curtains", "performer": "CEO Trayle"},
+              { "title": "Pass It On", "performer": "CEO Trayle"},
               { "title": "Prune", "performer": "Dukwa"}
             ],
             [
