@@ -76125,6 +76125,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "50",
+          "date": "2022-12-15",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Leaving Home",
+                "performer": "International Pony"
+              },
+              {
+                "time": "22:07",
+                "title": "Diamond Violence",
+                "performer": "Marker Starling"
+              },
+              {
+                "time": "22:13",
+                "title": "Uncle Albert / Admiral Halsey",
+                "performer": "Paul & Linda McCartney"
+              },
+              {
+                "time": "22:18",
+                "title": "Sugar Pills",
+                "performer": "The Very Most feat. Sally Jati"
+              },
+              {
+                "time": "22:21",
+                "title": "Food For Thought",
+                "performer": "Squeeze"
+              },
+              {
+                "time": "22:26",
+                "title": "Horticulture",
+                "performer": "Sweet Baboo"
+              },
+              {
+                "time": "22:32",
+                "title": "Three Lions (It's Coming Home For Christmas)",
+                "performer": "Skinner & The Lightning Seeds Baddil"
+              },
+              {
+                "time": "22:36",
+                "title": "Christmas Anyway",
+                "performer": "Stars"
+              },
+              {
+                "time": "22:41",
+                "title": "Happy Endings",
+                "performer": "The Real Tuesday Weld"
+              },
+              {
+                "time": "22:44",
+                "title": "If You Love Her",
+                "performer": "Tokyo Tea Room"
+              },
+              {
+                "time": "22:47",
+                "title": "In The Morning",
+                "performer": "Carmy Love"
+              },
+              {
+                "time": "22:50",
+                "title": "Stressgummies",
+                "performer": "Layten Kramer"
+              },
+              {
+                "time": "22:55",
+                "title": "Earworm",
+                "performer": "Vulfpeck & Vulf feat. Vulfmon"
+              },
+              {
+                "time": "22:57",
+                "title": "Aquatic Sunrise",
+                "performer": "Rude Jude feat. Rafe Dickie"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "How Come U Don't Call Me Anymore",
+                "performer": "Scary Pockets feat. Hunter"
+              },
+              {
+                "time": "23:08",
+                "title": "Am I Really Here",
+                "performer": "Moonlight"
+              },
+              {
+                "time": "23:13",
+                "title": "Die Weihnachtsdämonen",
+                "performer": "Erdmöbel"
+              },
+              {
+                "time": "23:17",
+                "title": "Just The Way You Are",
+                "performer": "Till Brönner"
+              },
+              {
+                "time": "23:22",
+                "title": "When You Are Far Away",
+                "performer": "The Clear"
+              },
+              {
+                "time": "23:25",
+                "title": "River Man",
+                "performer": "Chrissie Hynde & The Valve Bone Woe Ensemble"
+              },
+              {
+                "time": "23:32",
+                "title": "Hello It's Me",
+                "performer": "Nazz"
+              },
+              {
+                "time": "23:35",
+                "title": "If I Could",
+                "performer": "Ben Reed & Miranda Reed"
+              },
+              {
+                "time": "23:38",
+                "title": "Swinging Christingle",
+                "performer": "The Light Music Company"
+              },
+              {
+                "time": "23:42",
+                "title": "Eversince",
+                "performer": "Caroline now!"
+              },
+              {
+                "time": "23:45",
+                "title": "Bagel Boy",
+                "performer": "The Brothers Nylon"
+              },
+              {
+                "time": "23:50",
+                "title": "Thank You For Making Me Beg",
+                "performer": "The Apartments"
+              },
+              {
+                "time": "23:54",
+                "title": "Love Theme",
+                "performer": "BMX Bandits"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
