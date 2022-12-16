@@ -8872,6 +8872,7 @@
         {
           "id": "49",
           "date": "2022-12-04",
+          "checked": {"date": "2022-12-16", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Instagram Caption", "performer": "Meekz"},
@@ -8883,7 +8884,7 @@
               { "title": "Abeokuta", "performer": "Ki!"},
               { "title": "Last One", "performer": "Bakey"},
               { "title": "Isola (Locked Groove Remix)", "performer": "Lo Straquen"},
-              { "title": "Neighbourhood (Steve Gurley Remix)", "performer": "Zed Bias"},
+              { "title": "Neighbourhood (Steve Gurley Vocal Mix)", "performer": "Zed Bias"},
               { "title": "In The Thick Of It", "performer": "Will Sheff & Okkervil River"},
               { "title": "Twin Flame", "performer": "Weyes Blood"}
             ],
@@ -8900,13 +8901,13 @@
             ],
             [
               { "time": "22:04", "title": "Miete Strom Gas (T.Raumschmiere Remix)", "performer": "Die Türen"},
-              { "title": "Lift You Hands (Prayer Mix)", "performer": "AndileAndy"},
+              { "title": "Lift You Hands (Dub Mix)", "performer": "AndileAndy"},
               { "title": "Snooze", "performer": "Mavi Phoenix"},
               { "title": "Offline", "performer": "The Planetoids"},
               { "title": "I Don´t Mind", "performer": "Kislo feat. Bailey"},
               { "title": "Don´t Let Go", "performer": "Supershy"},
               { "title": "Soldissimo (EDC Remix)", "performer": "Air"},
-              { "title": "Sack Voller Drogen (A JD Twitch Remix)", "performer": "We Smile"},
+              { "title": "Sack voller Drogen (A JD Twitch Remix)", "performer": "We Smile"},
               { "title": "Hard Rock Potato", "performer": "The Cool Greenhouse"},
               { "title": "Streiflicht", "performer": "Neufundland"},
               { "title": "Feedback", "performer": "Luke Noa"},
