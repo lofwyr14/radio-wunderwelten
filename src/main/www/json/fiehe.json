@@ -8914,6 +8914,53 @@
               { "title": "Abend", "performer": "Lyschko"}
             ]
           ]
+        },
+        {
+          "id": "50",
+          "date": "2022-12-11",
+          "songs": [
+            [
+              { "time": "22:04", "title": "This Can´t Be Everything", "performer": "Phantoms"},
+              { "title": "Time Glide", "performer": "Kuedo"},
+              { "title": "Stardust", "performer": "MRK1"},
+              { "title": "Cockney Violin", "performer": "Caspa"},
+              { "title": "Rolling", "performer": "K-Trap"},
+              { "title": "Gaia", "performer": "Dark0"},
+              { "title": "Low", "performer": "SZA"},
+              { "title": "Good Days", "performer": "SZA"},
+              { "title": "Flood", "performer": "M.Byrd"},
+              { "title": "Harmonia´s Dream", "performer": "The War On Drugs"},
+              { "title": "P-Funk Maniac", "performer": "Morton & Laaf"},
+              { "title": "Letter Of Apology", "performer": "Wilder Maker"},
+              { "title": "Respirando", "performer": "Mochakk"}
+            ],
+            [
+              { "time": "23:04", "title": "Wings (I Won´t Let You Down)", "performer": "Armand Van Helden & Karen Harding"},
+              { "title": "Daddy´s Gone", "performer": "Bye Beneco"},
+              { "title": "Well Rested", "performer": "Kero Kero Benito"},
+              { "title": "Modern Nature", "performer": "Pleasure Pool"},
+              { "title": "Stamp You Out", "performer": "Ist Ist"},
+              { "title": "Behind These Walls", "performer": "The Boysox"},
+              { "title": "Five Thousand Policemen", "performer": "Philip Catherine"},
+              { "title": "Sunset", "performer": "Caroline Polachek"},
+              { "title": "Where´s My Girl", "performer": "The Bollock Brothers"},
+              { "title": "Get With You Tonight (Jay Vegas Disco Dub Edit)", "performer": "Mark Knight & Lukas Setto"},
+              { "title": "Cry Mfer", "performer": "My Idea"},
+              { "title": "DNA", "performer": "AB + DA"}
+            ],
+            [
+              { "time": "00:04", "title": "Mother India", "performer": "Fun-Da-ental"},
+              { "title": "Lavendeltreppen", "performer": "The Düsseldorf Düsterboys"},
+              { "title": "Mourning Tune", "performer": "Need For Mirrors"},
+              { "title": "Dreamers", "performer": "GLXY"},
+              { "title": "True Entertainment", "performer": "Dutch Uncles"},
+              { "title": "Küss mich noch mal", "performer": "Die Kerzen"},
+              { "title": "Fascination", "performer": "Tamino"},
+              { "title": "Children Of The Empire", "performer": "Weyes Blood"},
+              { "title": "Freefall", "performer": "Maya Jane Coles feat. Movie Knox"},
+              { "title": "Pistol", "performer": "Cigarettes After Sex"}
+            ]
+          ]
         }
       ]
     }
