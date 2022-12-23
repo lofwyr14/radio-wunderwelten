@@ -76279,6 +76279,141 @@
               }
             ]
           ]
+        },
+        {
+          "id": "51",
+          "date": "2022-12-22",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "A Girl Called Johnny",
+                "performer": "The Waterboys"
+              },
+              {
+                "time": "22:08",
+                "title": "About You",
+                "performer": "The 1975"
+              },
+              {
+                "time": "22:12",
+                "title": "Every Time",
+                "performer": "Seth Swirsky"
+              },
+              {
+                "time": "22:15",
+                "title": "Three Lions",
+                "performer": "Skinner & Lightning Seeds Baddiel"
+              },
+              {
+                "time": "22:20",
+                "title": "I See Sadness",
+                "performer": "Paul Steel"
+              },
+              {
+                "time": "22:25",
+                "title": "Wasted On You",
+                "performer": "Andy Shauf"
+              },
+              {
+                "time": "22:30",
+                "title": "Experience",
+                "performer": "Marker Starling"
+              },
+              {
+                "time": "22:35",
+                "title": "I'm Here To Keep You Warm",
+                "performer": "theCatherines"
+              },
+              {
+                "time": "22:39",
+                "title": "Im Weihnachtsbaum",
+                "performer": "Herr Wade"
+              },
+              {
+                "time": "22:42",
+                "title": "Eyez",
+                "performer": "The Arcs"
+              },
+              {
+                "time": "22:46",
+                "title": "Hopeless",
+                "performer": "Sweet Baboo"
+              },
+              {
+                "time": "22:50",
+                "title": "Andy Warhol",
+                "performer": "Dana Gillespie"
+              },
+              {
+                "time": "22:54",
+                "title": "Eye To Eye",
+                "performer": "Layten Kramer"
+              },
+              {
+                "time": "22:57",
+                "title": "Sleigh Ride Dub",
+                "performer": "Mato vs Santa Claus"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Nightingales",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "time": "23:10",
+                "title": "Levitation",
+                "performer": "Urbs"
+              },
+              {
+                "time": "23:16",
+                "title": "Monologue",
+                "performer": "Noriko Miyamoto & Isao Suzuki"
+              },
+              {
+                "time": "23:21",
+                "title": "Crazy Days",
+                "performer": "Forest"
+              },
+              {
+                "time": "23:27",
+                "title": "Black Bird Morning",
+                "performer": "The Real Tuesday Weld"
+              },
+              {
+                "time": "23:31",
+                "title": "You Are The Sunshine Of My Life",
+                "performer": "The Gentle Rain"
+              },
+              {
+                "time": "23:35",
+                "title": "Black Shadow",
+                "performer": "Mark Duval And His Orchestra"
+              },
+              {
+                "time": "23:39",
+                "title": "River Man",
+                "performer": "The Swingle Singers"
+              },
+              {
+                "time": "23:43",
+                "title": "Spark On Boxing Day",
+                "performer": "The Fisherman And His Soul feat. Ed Ling"
+              },
+              {
+                "time": "23:52",
+                "title": "Time",
+                "performer": "Mike Massé feat. Ken Benson"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
