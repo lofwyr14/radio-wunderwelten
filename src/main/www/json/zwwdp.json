@@ -76168,7 +76168,7 @@
               {
                 "time": "22:32",
                 "title": "Three Lions (It's Coming Home For Christmas)",
-                "performer": "Skinner & The Lightning Seeds Baddil"
+                "performer": "Baddiel, Skinner & The Lightning Seeds"
               },
               {
                 "time": "22:36",
@@ -76283,6 +76283,10 @@
         {
           "id": "51",
           "date": "2022-12-22",
+          "checked": {
+            "date": "2022-12-30",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -76302,8 +76306,8 @@
               },
               {
                 "time": "22:15",
-                "title": "Three Lions",
-                "performer": "Skinner & Lightning Seeds Baddiel"
+                "title": "Three Lions (It's Coming Home For Christmas)",
+                "performer": "Baddiel, Skinner & The Lightning Seeds"
               },
               {
                 "time": "22:20",
@@ -76401,6 +76405,11 @@
                 "time": "23:43",
                 "title": "Spark On Boxing Day",
                 "performer": "The Fisherman And His Soul feat. Ed Ling"
+              },
+              {
+                "time": "23:49",
+                "title": "Christmas Tears",
+                "performer": "D/troit"
               },
               {
                 "time": "23:52",
