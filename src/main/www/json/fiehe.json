@@ -8963,6 +8963,49 @@
               { "title": "Pistol", "performer": "Cigarettes After Sex"}
             ]
           ]
+        },
+        {
+          "id": "51",
+          "date": "2022-12-18",
+          "songs": [
+            [
+              { "title": "New Being", "performer": "Binary State"},
+              { "title": "Where´s This Love", "performer": "Joy Club"},
+              { "title": "No More Kissing In The Rain", "performer": "Trentemöller"},
+              { "title": "Mauve", "performer": "Arp Nova & Silence Groove"},
+              { "title": "Do 2 U", "performer": "Heron Flow"},
+              { "title": "Six Hills", "performer": "Lewsberg"},
+              { "title": "Structural Index (The KVB After-Hours Version)", "performer": "The KVB"},
+              { "title": "Hysterie + Abfall", "performer": "Lyschko"},
+              { "title": "Schlüsselkind", "performer": "Rauchen"},
+              { "title": "Spacetime Fairytale", "performer": "Regina Spektor"}
+            ],
+            [
+              { "title": "Bad Club Bad Drugs Bad People", "performer": "Acid Klaus"},
+              { "title": "Ebeneezer Good", "performer": "The Shamen"},
+              { "title": "Too Late Now (Soulwax Remix)", "performer": "Wet Leg"},
+              { "title": "Glauben", "performer": "Kratzen"},
+              { "title": "Hot Gossip", "performer": "Regularfantasy"},
+              { "title": "Oxy Music", "performer": "Alex Cameron feat. Jason Williamson"},
+              { "title": "Spoilt", "performer": "K-Trap"},
+              { "title": "There´d Better Be A Mirrorball", "performer": "Arctic Monkeys"},
+              { "title": "Hard Rock Potato", "performer": "The Cool Greenhouse"},
+              { "title": "Pianos Raining Down", "performer": "4am Kru"}
+            ],
+            [
+              { "title": "She Takes Me Over", "performer": "Michael Cignarale"},
+              { "title": "Untethered", "performer": "PVA"},
+              { "title": "I Like You", "performer": "DC Gore"},
+              { "title": "Der letzte Traum", "performer": "Fehlfarben"},
+              { "title": "Bizcochito", "performer": "Rosalia"},
+              { "title": "A View With A Room", "performer": "Trish Clowes"},
+              { "title": "South", "performer": "Wu-Lu feat. Lex Amor"},
+              { "title": "Suche & LIebe", "performer": "Ash Ra Tempel"},
+              { "title": "Pistol", "performer": "Cigarettes After Sex"},
+              { "title": "Überall nur du", "performer": "Rote Mütze Raphi & Art"},
+              { "title": "Chevrolet", "performer": "Neil Young With Crazy Horse"}
+            ]
+          ]
         }
       ]
     }
