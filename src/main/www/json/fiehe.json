@@ -8967,9 +8967,10 @@
         {
           "id": "51",
           "date": "2022-12-18",
+          "comment": "Rückblick 2022 – Zugriff!",
           "songs": [
             [
-              { "title": "New Being", "performer": "Binary State"},
+              { "time": "22:04", "title": "New Being", "performer": "Binary State"},
               { "title": "Where´s This Love", "performer": "Joy Club"},
               { "title": "No More Kissing In The Rain", "performer": "Trentemöller"},
               { "title": "Mauve", "performer": "Arp Nova & Silence Groove"},
@@ -8981,7 +8982,7 @@
               { "title": "Spacetime Fairytale", "performer": "Regina Spektor"}
             ],
             [
-              { "title": "Bad Club Bad Drugs Bad People", "performer": "Acid Klaus"},
+              { "time": "23:04", "title": "Bad Club Bad Drugs Bad People", "performer": "Acid Klaus"},
               { "title": "Ebeneezer Good", "performer": "The Shamen"},
               { "title": "Too Late Now (Soulwax Remix)", "performer": "Wet Leg"},
               { "title": "Glauben", "performer": "Kratzen"},
@@ -8993,7 +8994,7 @@
               { "title": "Pianos Raining Down", "performer": "4am Kru"}
             ],
             [
-              { "title": "She Takes Me Over", "performer": "Michael Cignarale"},
+              { "time": "00:04", "title": "She Takes Me Over", "performer": "Michael Cignarale"},
               { "title": "Untethered", "performer": "PVA"},
               { "title": "I Like You", "performer": "DC Gore"},
               { "title": "Der letzte Traum", "performer": "Fehlfarben"},
@@ -9004,6 +9005,61 @@
               { "title": "Pistol", "performer": "Cigarettes After Sex"},
               { "title": "Überall nur du", "performer": "Rote Mütze Raphi & Art"},
               { "title": "Chevrolet", "performer": "Neil Young With Crazy Horse"}
+            ]
+          ]
+        },
+        {
+          "id": "52",
+          "date": "2022-12-25",
+          "songs": [
+            [
+              { "time": "20:04", "title": "Love Is The Message", "performer": "MFSB"},
+              { "title": "Yesterday", "performer": "Loyle Carner"},
+              { "title": "That Ain´t Love", "performer": "Little Brother feat. Jozeemo"},
+              { "title": "Dig A Ditch (Compact Disk Dummies Remix)", "performer": "Millionaire"},
+              { "title": "Buddy X (Honey Dijon Remix)", "performer": "Neneh Cherry"},
+              { "title": "Walk Walk", "performer": "Sylvie Kreusch"},
+              { "title": "Bongos im Park", "performer": "Pseiko Lüde & Die Astros"},
+              { "title": "Bad Club Bad Drugs Bad People", "performer": "Acid Klaus"},
+              { "title": "The 30th", "performer": "Billie Eilish"},
+              { "title": "Weihnachtslied", "performer": "Kay Shanghai & Dagobert"},
+              { "title": "Horror Movies", "performer": "Vive La Fete Vs Jock McDonald "}
+            ],
+            [
+              { "time": "21:04", "title": "Whistle", "performer": "Brintex Collective"},
+              { "title": "Giorgio By Moroder", "performer": "Daft Punk feat. Giorgio Moroder"},
+              { "title": "Moments Of Life", "performer": "Mariano Mellino feat. Violeta Reynal"},
+              { "title": "Dropout", "performer": "Urge Overkill"},
+              { "title": "Think", "performer": "Curtis Mayfield"},
+              { "title": "That Ol´ Bus Smell", "performer": "Peter Herbolzheimer"},
+              { "title": "The Spectacle", "performer": "I Like Trains"},
+              { "title": "Original Man", "performer": "Dave Angel"},
+              { "title": "Bad Dad", "performer": "PVA"}
+            ],
+            [
+              { "time": "22:04", "title": "Come Over", "performer": "Triple One"},
+              { "title": "Holiday From Reality", "performer": "Poppy Ajudha"},
+              { "title": "Lavender Haze", "performer": "Taylor Swift"},
+              { "title": "Kaleidescopin´ ", "performer": "Mugwump"},
+              { "title": "Bella Napoli (Luis Ake Remix)", "performer": "Roy Bianco & Die Abbrunzati Boys"},
+              { "title": "Holsten", "performer": "O´Flynn & Frazer Ray"},
+              { "title": "Don´t Answer Me", "performer": "The Alan Parsons Project"},
+              { "title": "Wine & Spirits", "performer": "070 Shake"},
+              { "title": "Jesus On A Wire", "performer": "Kurt Vile"},
+              { "title": "Charley", "performer": "Hannes Wader"},
+              { "title": "Hot Gossip", "performer": "Regularfantasy"}
+            ],
+            [
+              { "time": "23:04", "title": "Popstar", "performer": "Art Alfie"},
+              { "title": "Featured Singer", "performer": "Cheekface"},
+              { "title": "Let´s Misbhv", "performer": "Radio Slave & DJ Hell"},
+              { "title": "Lass mich die Luft in Deiner Lunge sein", "performer": "DJ Hell"},
+              { "title": "Respirando", "performer": "Mochakk"},
+              { "title": "Invisible Sounds (Random Movement Remix)", "performer": "T.R.A.C. feat. Level 2, Christina Tamayo "},
+              { "title": "Move Me", "performer": "Need For Mirrors"},
+              { "title": " I Like The Way You Walk", "performer": "The Donkeys"},
+              { "title": "Performance Review", "performer": "Joyeria"},
+              { "title": "Pistol", "performer": "Cigarettes After Sex"}
             ]
           ]
         }
