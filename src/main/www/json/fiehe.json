@@ -7907,7 +7907,7 @@
               { "title": "Adore Me", "performer": "Black Lizard"},
               { "title": "Hysterie + Abfall", "performer": "Lyschko"},
               { "title": "Broken", "performer": "The Haunted Youth"},
-              { "title": "Lumens (Trentemöller Remix)", "performer": "The KVB"},
+              { "title": "Lumens (Trentemøller Remix)", "performer": "The KVB"},
               { "title": "Option 8", "performer": "Horsegirl"},
               { "title": "Leere", "performer": "Vomit Heat feat. Stella Sommer"},
               { "title": "Sci-Fi Immune", "performer": "Infant Finches"},
@@ -8967,12 +8967,13 @@
         {
           "id": "51",
           "date": "2022-12-18",
+          "checked": {"date": "2023-01-05", "user": "jg"},
           "comment": "Rückblick 2022 – Zugriff!",
           "songs": [
             [
               { "time": "22:04", "title": "New Being", "performer": "Binary State"},
               { "title": "Where´s This Love", "performer": "Joy Club"},
-              { "title": "No More Kissing In The Rain", "performer": "Trentemöller"},
+              { "title": "No More Kissing In The Rain", "performer": "Trentemøller"},
               { "title": "Mauve", "performer": "Arp Nova & Silence Groove"},
               { "title": "Do 2 U", "performer": "Heron Flow"},
               { "title": "Six Hills", "performer": "Lewsberg"},
@@ -8983,7 +8984,7 @@
             ],
             [
               { "time": "23:04", "title": "Bad Club Bad Drugs Bad People", "performer": "Acid Klaus"},
-              { "title": "Ebeneezer Good", "performer": "The Shamen"},
+              { "title": "Ebeneezer Good (Beat Edit)", "performer": "The Shamen"},
               { "title": "Too Late Now (Soulwax Remix)", "performer": "Wet Leg"},
               { "title": "Glauben", "performer": "Kratzen"},
               { "title": "Hot Gossip", "performer": "Regularfantasy"},
