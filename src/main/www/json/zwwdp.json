@@ -13514,52 +13514,181 @@
           },
           "songs": [
             [
-              { "time": "20:04","title": "Saturday In The Park", "performer": "Chicago"},
-              { "title": "Looking For Atlantis (Extended Version)", "performer": "Prefab Sprout"},
-              { "title": "Threes", "performer": "My Sad Captains"},
-              { "title": "On Broadway", "performer": "The Bible"},
-              { "title": "Undercover Angel", "performer": "Joe Giddings"},
-              { "title": "You Are The Music", "performer": "Mamas Gun"},
-              { "title": "The Ghost Of Rockschool", "performer": "Belle & Sebastian"},
-              { "title": "Without Your Light", "performer": "Barzin"},
-              { "title": "Postcard", "performer": "Roddy Frame"},
-              { "title": "Where Is It", "performer": "The New Tigers"},
-              { "title": "Spring’s Near", "performer": "Parsley Sounds"},
-              { "title": "Miss Modular", "performer": "Stereolab"},
-              { "title": "Cookie Bay", "performer": "High Llamas"},
-              { "title": "Free At Last", "performer": "Rory More"}
+              {
+                "time": "20:04",
+                "title": "Saturday In The Park",
+                "performer": "Chicago"
+              },
+              {
+                "title": "Looking For Atlantis (Extended Version)",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "title": "Threes",
+                "performer": "My Sad Captains"
+              },
+              {
+                "title": "On Broadway",
+                "performer": "The Bible"
+              },
+              {
+                "title": "Undercover Angel",
+                "performer": "Joe Giddings"
+              },
+              {
+                "title": "You Are The Music",
+                "performer": "Mamas Gun"
+              },
+              {
+                "title": "The Ghost Of Rockschool",
+                "performer": "Belle & Sebastian"
+              },
+              {
+                "title": "Without Your Light",
+                "performer": "Barzin"
+              },
+              {
+                "title": "Postcard",
+                "performer": "Roddy Frame"
+              },
+              {
+                "title": "Where Is It",
+                "performer": "The New Tigers"
+              },
+              {
+                "title": "Spring’s Near",
+                "performer": "Parsley Sounds"
+              },
+              {
+                "title": "Miss Modular",
+                "performer": "Stereolab"
+              },
+              {
+                "title": "Cookie Bay",
+                "performer": "High Llamas"
+              },
+              {
+                "title": "Free At Last",
+                "performer": "Rory More"
+              }
             ],
             [
-              { "time": "21:04","title": "Beautiful Love", "performer": "Julian Cope"},
-              { "title": "Every Day I Fall In Love Again", "performer": "Linus Of Hollywood"},
-              { "title": "(If Paradise Is) Half As Nice", "performer": "Aztec Camera"},
-              { "title": "Everything Is Ending", "performer": "Fireflies"},
-              { "title": "Stray Cat Strut", "performer": "The Stray Cats"},
-              { "title": "Really Really Weird", "performer": "The Simple Carnival"},
-              { "title": "Good Day Sunshine / Got To Get You Into My Live", "performer": "The Arbors"},
-              { "title": "I Want To Pick You Up", "performer": "The Beach Boys"},
-              { "title": "Curtains!?", "performer": "Timber Timbre"},
-              { "title": "Ganges Delta", "performer": "Okko"},
-              { "title": "Temma Harbour", "performer": "Philamore Lincoln"},
-              { "title": "Don’t You Know", "performer": "Jan Hammer Group"},
-              { "title": "Buddha", "performer": "Pete Aves"},
-              { "title": "The Downtown Lights", "performer": "Blue Nile"},
-              { "title": "Between Circles", "performer": "Death And Vanilla"}
+              {
+                "time": "21:04",
+                "title": "Beautiful Love",
+                "performer": "Julian Cope"
+              },
+              {
+                "title": "Every Day I Fall In Love Again",
+                "performer": "Linus Of Hollywood"
+              },
+              {
+                "title": "(If Paradise Is) Half As Nice",
+                "performer": "Aztec Camera"
+              },
+              {
+                "title": "Everything Is Ending",
+                "performer": "Fireflies"
+              },
+              {
+                "title": "Stray Cat Strut",
+                "performer": "The Stray Cats"
+              },
+              {
+                "title": "Really Really Weird",
+                "performer": "The Simple Carnival"
+              },
+              {
+                "title": "Good Day Sunshine / Got To Get You Into My Live",
+                "performer": "The Arbors"
+              },
+              {
+                "title": "I Want To Pick You Up",
+                "performer": "The Beach Boys"
+              },
+              {
+                "title": "Curtains!?",
+                "performer": "Timber Timbre"
+              },
+              {
+                "title": "Ganges Delta",
+                "performer": "Okko"
+              },
+              {
+                "title": "Temma Harbour",
+                "performer": "Philamore Lincoln"
+              },
+              {
+                "title": "Don’t You Know",
+                "performer": "Jan Hammer Group"
+              },
+              {
+                "title": "Buddha",
+                "performer": "Pete Aves"
+              },
+              {
+                "title": "The Downtown Lights",
+                "performer": "Blue Nile"
+              },
+              {
+                "title": "Between Circles",
+                "performer": "Death And Vanilla"
+              }
             ],
             [
-              { "time": "22:04","title": "We Make It Look So Easy", "performer": "Mamas Gun"},
-              { "title": "The Pulse", "performer": "Magic Numbers"},
-              { "title": "By The Time I Get To Phoenix", "performer": "Jimmy Webb"},
-              { "title": "All The While", "performer": "Barzin"},
-              { "title": "Back To Black", "performer": "Rival Sons"},
-              { "title": "Spring Isn’t Fair", "performer": "Bertrand Burgalat"},
-              { "title": "The Other Side", "performer": "Roddy Frame"},
-              { "title": "Travelin’", "performer": "Esquivel"},
-              { "title": "The Last Good Day Of The Year", "performer": "Cousteau"},
-              { "title": "Down By The River", "performer": "Roy Buchanan"},
-              { "title": "Charmed Life", "performer": "The Divine Comedy"},
-              { "title": "Wasted Time", "performer": "The Eagles"},
-              { "title": "Piano Song", "performer": "Scott Matthews"}
+              {
+                "time": "22:04",
+                "title": "We Make It Look So Easy",
+                "performer": "Mamas Gun"
+              },
+              {
+                "title": "The Pulse",
+                "performer": "Magic Numbers"
+              },
+              {
+                "title": "By The Time I Get To Phoenix",
+                "performer": "Jimmy Webb"
+              },
+              {
+                "title": "All The While",
+                "performer": "Barzin"
+              },
+              {
+                "title": "Back To Black",
+                "performer": "Rival Sons"
+              },
+              {
+                "title": "Spring Isn’t Fair",
+                "performer": "Bertrand Burgalat"
+              },
+              {
+                "title": "The Other Side",
+                "performer": "Roddy Frame"
+              },
+              {
+                "title": "Travelin’",
+                "performer": "Esquivel"
+              },
+              {
+                "title": "The Last Good Day Of The Year",
+                "performer": "Cousteau"
+              },
+              {
+                "title": "Down By The River",
+                "performer": "Roy Buchanan"
+              },
+              {
+                "title": "Charmed Life",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "Wasted Time",
+                "performer": "The Eagles"
+              },
+              {
+                "title": "Piano Song",
+                "performer": "Scott Matthews"
+              }
             ]
           ]
         },
@@ -26505,7 +26634,6 @@
                 "title": "Life On Mars? (2003 Ken Scott Remix)",
                 "performer": "David Bowie"
               },
-
               {
                 "title": "Whatever",
                 "performer": "Oasis"
@@ -76427,6 +76555,7 @@
         {
           "id": "52",
           "date": "2022-12-29",
+          "comment": "Best Of 2022",
           "songs": [
             [
               {
@@ -76552,6 +76681,162 @@
               {
                 "title": "We Have A Lifetime",
                 "performer": "C Duncan"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2023",
+      "station": "Radio Bremen 2",
+      "episodes": [
+        {
+          "id": "1",
+          "date": "2023-01-05",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "What Difference Does It Make ?",
+                "performer": "The Smiths"
+              },
+              {
+                "time": "22:08",
+                "title": "Pale Blue World",
+                "performer": "Ben Reed & Miranda Reed"
+              },
+              {
+                "time": "22:12",
+                "title": "Simple Step",
+                "performer": "Vulfpeck & Vulf feat. Antwaun Stanley"
+              },
+              {
+                "time": "22:15",
+                "title": "Coming Up",
+                "performer": "Twin Freaks"
+              },
+              {
+                "time": "22:20",
+                "title": "Uncle Albert / Admiral Halsey",
+                "performer": "Novelty Island"
+              },
+              {
+                "time": "22:25",
+                "title": "Yucca Valley Marshalls",
+                "performer": "Ron Gallo"
+              },
+              {
+                "time": "22:31",
+                "title": "Lofi Sauce",
+                "performer": "The Brothers Nylon"
+              },
+              {
+                "time": "22:34",
+                "title": "Such A Thrill",
+                "performer": "John Moods"
+              },
+              {
+                "time": "22:38",
+                "title": "Something",
+                "performer": "Hague & White"
+              },
+              {
+                "time": "22:42",
+                "title": "Mayfair",
+                "performer": "Boys Wonder"
+              },
+              {
+                "time": "22:46",
+                "title": "You'll Never Get To Heaven",
+                "performer": "Cal Tjader"
+              },
+              {
+                "time": "22:49",
+                "title": "Mellow Dynamics",
+                "performer": "Mocky"
+              },
+              {
+                "time": "22:53",
+                "title": "If You Want To Sing Out, Sing Out",
+                "performer": "Cat Stevens"
+              },
+              {
+                "time": "22:56",
+                "title": "Rise",
+                "performer": "The Living Strings"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "By The Water's Edge",
+                "performer": "Monks Road Social feat. Neil Jones"
+              },
+              {
+                "time": "23:07",
+                "title": "Summer In Siam",
+                "performer": "Magnus Carlson & The Moon Ray Quintet"
+              },
+              {
+                "time": "23:11",
+                "title": "Sunflower Café",
+                "performer": "Pasiflorez"
+              },
+              {
+                "time": "23:15",
+                "title": "Start A Fire",
+                "performer": "Angela Aux"
+              },
+              {
+                "time": "23:20",
+                "title": "Piece For Peace",
+                "performer": "Dalschaert"
+              },
+              {
+                "time": "23:25",
+                "title": "Bein' Green",
+                "performer": "Till Brönner"
+              },
+              {
+                "time": "23:30",
+                "title": "Station Song Platform Two",
+                "performer": "Pete Brown & Piblokto!"
+              },
+              {
+                "time": "23:34",
+                "title": "Strollin'",
+                "performer": "Viktoria Tolstoy"
+              },
+              {
+                "time": "23:37",
+                "title": "Ghost",
+                "performer": "Rachael Dadd"
+              },
+              {
+                "time": "23:43",
+                "title": "Becoming",
+                "performer": "Kamasi Washington"
+              },
+              {
+                "time": "23:45",
+                "title": "Patterns In The Rain",
+                "performer": "John Martyn"
+              },
+              {
+                "time": "23:49",
+                "title": "Beach Trance",
+                "performer": "The Mattson 2"
+              },
+              {
+                "time": "23:54",
+                "title": "The Sleeping Beatle",
+                "performer": "Herr Wade"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
               }
             ]
           ]
