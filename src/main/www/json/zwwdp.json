@@ -76555,6 +76555,10 @@
         {
           "id": "52",
           "date": "2022-12-29",
+          "checked": {
+            "date": "2023-01-07",
+            "user": "jg"
+          },
           "comment": "Best Of 2022",
           "songs": [
             [
@@ -76618,15 +76622,15 @@
               {
                 "title": "Across The Water",
                 "performer": "Carwyn Ellis"
-              },
-              {
-                "title": "Back On The Music",
-                "performer": "Paul Cherry"
               }
             ],
             [
               {
                 "time": "23:04",
+                "title": "Back On The Music",
+                "performer": "Paul Cherry"
+              },
+              {
                 "title": "There´s Nothing But Pleasure",
                 "performer": "Bubble Tea And Cigarettes"
               },
