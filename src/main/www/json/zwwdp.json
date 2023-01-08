@@ -76698,11 +76698,15 @@
         {
           "id": "1",
           "date": "2023-01-05",
+          "checked": {
+            "date": "2023-01-08",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:05",
-                "title": "What Difference Does It Make ?",
+                "title": "What Difference Does It Make? (John Peel Session 18/05/83)",
                 "performer": "The Smiths"
               },
               {
@@ -76717,8 +76721,8 @@
               },
               {
                 "time": "22:15",
-                "title": "Coming Up",
-                "performer": "Twin Freaks"
+                "title": "Coming Up (04 Summer Tour Remix)",
+                "performer": "Paul McCartney (Twin Freaks)"
               },
               {
                 "time": "22:20",
@@ -76752,7 +76756,7 @@
               },
               {
                 "time": "22:46",
-                "title": "You'll Never Get To Heaven",
+                "title": "You'll Never Get To Heaven (If You Break My Heart)",
                 "performer": "Cal Tjader"
               },
               {
@@ -76834,7 +76838,7 @@
               },
               {
                 "time": "23:54",
-                "title": "The Sleeping Beatle",
+                "title": "The Sleeping Beatle (der Beatle, der immer schlief)",
                 "performer": "Herr Wade"
               },
               {
