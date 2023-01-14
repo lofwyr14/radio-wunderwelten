@@ -4014,7 +4014,7 @@
           { "title": "Notre Damn", "performer": "Apifera"}
         ],
         [
-          {  "time": "00:04", "title": "Japan (Satin Jackets Remix)", "performer": "Tycho"},
+          { "time": "00:04", "title": "Japan (Satin Jackets Remix)", "performer": "Tycho"},
           { "title": "St. Tropez", "performer": "Radic The Myth"},
           { "title": "Suite Pour L´invisible", "performer": "Ana Roxanne"},
           { "title": "Seeland", "performer": "NEU!"},
@@ -4166,7 +4166,7 @@
       "date": "2020-12-20",
       "songs": [
         [
-          {  "time": "22:04", "title": "We Shape The Future", "performer": "WheelUp"},
+          { "time": "22:04", "title": "We Shape The Future", "performer": "WheelUp"},
           { "title": "Holy (Totally Enormous Extinct Dinosaurs Remix)", "performer": "Damian Lazarus"},
           { "title": "Your Love", "performer": "Totally Enormous Extinct Dinosaurs"},
           { "title": "Telepathy", "performer": "Junglepussy"},
@@ -4180,7 +4180,7 @@
           { "title": "Fireworks", "performer": "Minimal Schlager feat. Laura Lee & Eddie Argos"}
         ],
         [
-          {  "time": "23:04", "title": "Oranges", "performer": "Lindstrøm And Prins Thomas"},
+          { "time": "23:04", "title": "Oranges", "performer": "Lindstrøm And Prins Thomas"},
           { "title": "I Feel High (Vibes4YourSoul Remix)", "performer": "Poolside"},
           { "title": "Room Full Of Rothko", "performer": "Mall Grab"},
           { "title": "Invisible Sounds (Random Movement Rmx)", "performer": "T.R.A.C. feat. Level 2 & Christina Tamayo"},
@@ -4192,7 +4192,7 @@
           { "title": "Terp Flavours", "performer": "Tom Frankel"}
         ],
         [
-          {  "time": "00:04", "title": "From Never To Once", "performer": "Lewsberg"},
+          { "time": "00:04", "title": "From Never To Once", "performer": "Lewsberg"},
           { "title": "No Body, No Crime", "performer": "Taylor Swift feat. Haim"},
           { "title": "Die Kleine Kneipe", "performer": "Fred Ape feat. Guntmar Feuerstein"},
           { "title": "Ordunun Dereieri", "performer": "Altin Gün"},
@@ -4210,7 +4210,7 @@
       "date": "2020-12-27",
       "songs": [
         [
-          {  "time": "22:04", "title": "Rakim", "performer": "Remember That"},
+          { "time": "22:04", "title": "Rakim", "performer": "Remember That"},
           { "title": "Stormzy", "performer": "Do Better"},
           { "title": "Dreamcastmoe", "performer": "Bend Backwards"},
           { "title": "Jaga Jazzist", "performer": "Apex (Lindstrøm & Prins Thomas Remix)"},
@@ -4223,7 +4223,7 @@
           { "title": "Working Men´s Club", "performer": "Valleys"}
         ],
         [
-          {  "time": "23:04", "title": "Blue May Rose", "performer": "Music Has To Die"},
+          { "time": "23:04", "title": "Blue May Rose", "performer": "Music Has To Die"},
           { "title": "DC Salas", "performer": "Give Up"},
           { "title": "Golden Bug And The Liminanas", "performer": "Variations Sur 3 Bancs"},
           { "title": "Bob Dylan", "performer": "Goodbye Jimmy Reed"},
@@ -4237,7 +4237,7 @@
           { "title": "China Charmeleon", "performer": "I Want My Soul (Tribute To George Floyd)"}
         ],
         [
-          {  "time": "00:04", "title": "Need For Mirrors", "performer": "Cole"},
+          { "time": "00:04", "title": "Need For Mirrors", "performer": "Cole"},
           { "title": "T.R.A.C. feat. Level 2 & Christina Tamayo", "performer": "Invisible Sounds (Random Movement Rmx)"},
           { "title": "Bonobo & Totally Enormous Extinct Dinosaurs", "performer": "Heartbreak"},
           { "title": "Bronson feat. Gallant", "performer": "Know You (Skream Remix)"},
@@ -9012,6 +9012,7 @@
         {
           "id": "52",
           "date": "2022-12-25",
+          "checked": {"date": "2023-01-14", "user": "jg"},
           "songs": [
             [
               { "time": "20:04", "title": "Love Is The Message", "performer": "MFSB"},
@@ -9023,8 +9024,9 @@
               { "title": "Bongos im Park", "performer": "Pseiko Lüde & Die Astros"},
               { "title": "Bad Club Bad Drugs Bad People", "performer": "Acid Klaus"},
               { "title": "The 30th", "performer": "Billie Eilish"},
-              { "title": "Weihnachtslied", "performer": "Kay Shanghai & Dagobert"},
-              { "title": "Horror Movies", "performer": "Vive La Fete Vs Jock McDonald "}
+              { "title": "Weihnachten zu zweit", "performer": "Kay Shanghai & Dagobert"},
+              { "title": "Horror Movies", "performer": "Vive La Fete Vs Jock McDonald "},
+              { "title": "Feel Me (Yuksek Extended Remix)", "performer": "Simon Says"}
             ],
             [
               { "time": "21:04", "title": "Whistle", "performer": "Brintex Collective"},
@@ -9042,8 +9044,8 @@
               { "title": "Holiday From Reality", "performer": "Poppy Ajudha"},
               { "title": "Lavender Haze", "performer": "Taylor Swift"},
               { "title": "Kaleidescopin´ ", "performer": "Mugwump"},
-              { "title": "Bella Napoli (Luis Ake Remix)", "performer": "Roy Bianco & Die Abbrunzati Boys"},
-              { "title": "Holsten", "performer": "O´Flynn & Frazer Ray"},
+              { "title": "Bella Napoli (Luis Ake's Diego Trancedona Remix)", "performer": "Roy Bianco & Die Abbrunzati Boys"},
+              { "title": "Troopa", "performer": "O´Flynn & Frazer Ray"},
               { "title": "Don´t Answer Me", "performer": "The Alan Parsons Project"},
               { "title": "Wine & Spirits", "performer": "070 Shake"},
               { "title": "Jesus On A Wire", "performer": "Kurt Vile"},
