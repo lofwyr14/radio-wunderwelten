@@ -76848,6 +76848,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "2",
+          "date": "2023-01-12",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Colour Me With Your Love",
+                "performer": "Hague & White"
+              },
+              {
+                "time": "22:08",
+                "title": "In Heaven",
+                "performer": "Vulfpeck & Vulf feat. Antwaun Stanley"
+              },
+              {
+                "time": "22:13",
+                "title": "Who Cares",
+                "performer": "The Hepburns"
+              },
+              {
+                "time": "22:15",
+                "title": "We Are Not A Football Team",
+                "performer": "Minus The Bear"
+              },
+              {
+                "time": "22:19",
+                "title": "Crabapple Hill",
+                "performer": "Ben Reed & Miranda Reed"
+              },
+              {
+                "time": "22:23",
+                "title": "Tell Me Girl",
+                "performer": "The Crumble Factory"
+              },
+              {
+                "time": "22:26",
+                "title": "That Is Not What Friends Are For",
+                "performer": "The Misties"
+              },
+              {
+                "time": "22:30",
+                "title": "Making Music",
+                "performer": "Chungking"
+              },
+              {
+                "time": "22:35",
+                "title": "Vuelvo Al Sur",
+                "performer": "Astor Piazzolla"
+              },
+              {
+                "time": "22:41",
+                "title": "Les EnjambÃ©s",
+                "performer": "Forever Pavot"
+              },
+              {
+                "time": "22:44",
+                "title": "Winter In America",
+                "performer": "Gil Scott-Heron"
+              },
+              {
+                "time": "22:50",
+                "title": "Tender Years",
+                "performer": "Robert Forster"
+              },
+              {
+                "time": "22:56",
+                "title": "Sleepyhead",
+                "performer": "Parekh & Singh"
+              },
+              {
+                "time": "22:59",
+                "title": "Time",
+                "performer": "Ju-Par Universal Orchestra"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "All This Is That",
+                "performer": "The Beach Boys"
+              },
+              {
+                "time": "23:07",
+                "title": "Serafina",
+                "performer": "Monks Road Social feat. Romy Deighton"
+              },
+              {
+                "time": "23:10",
+                "title": "Distant Calls",
+                "performer": "Ed Mount feat. Flore Benguigui"
+              },
+              {
+                "time": "23:13",
+                "title": "Look For The Highest Window",
+                "performer": "Papernut Cambridge"
+              },
+              {
+                "time": "23:16",
+                "title": "Sometimes In Winter",
+                "performer": "Sweat & Tears Blood"
+              },
+              {
+                "time": "23:19",
+                "title": "Us And Them",
+                "performer": "The Sursiks"
+              },
+              {
+                "time": "23:26",
+                "title": "Knowledge Of Unknowing",
+                "performer": "Keshavara"
+              },
+              {
+                "time": "23:30",
+                "title": "Corner Of My Eye",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "time": "23:33",
+                "title": "Tangerine",
+                "performer": "Bryan John Appleby"
+              },
+              {
+                "time": "23:37",
+                "title": "Clan Of The Sicilians",
+                "performer": "DJ Dick from Rockers Hifi"
+              },
+              {
+                "time": "23:43",
+                "title": "Voyage",
+                "performer": "Tapioca"
+              },
+              {
+                "time": "23:46",
+                "title": "Un ThÃ¨me",
+                "performer": "Son Parapluie feat. Isobel Campbell"
+              },
+              {
+                "time": "23:50",
+                "title": "Suddenly",
+                "performer": "Office Culture"
+              },
+              {
+                "time": "23:55",
+                "title": "Moonshine",
+                "performer": "Nightlands"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
