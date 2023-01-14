@@ -9067,6 +9067,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2023",
+      "episodes": [
+        {
+          "id": "1",
+          "date": "2023-01-01",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Don´t Look Back", "performer": "John Lee Hooker"},
+              { "title": "Light My Fire", "performer": "Brian Auger & Julie Driscoll"},
+              { "title": "Changeling", "performer": "DJ Shadow"},
+              { "title": "Birth", "performer": "Howie B"},
+              { "title": "Broken Language", "performer": "Onra"},
+              { "title": "Wonderwall", "performer": "Oasis"},
+              { "title": "Forty Colors", "performer": "Volker Kriegel"},
+              { "title": "Repitched", "performer": "Kromestar"},
+              { "title": "My Cloud", "performer": "Gil Scott Heron And Jamie XX"},
+              { "title": "Move", "performer": "Suki Waterhouse"},
+              { "title": "Misty", "performer": "Cal Tjader"}
+            ],
+            [
+              { "time": "23:04", "title": "Ernestine", "performer": "Joe Bataan"},
+              { "title": "Journey (Aphex Twin Rmx)", "performer": "Gentle People"},
+              { "title": "Over Here (Brendan Moeller Remix)", "performer": "Appleblim & Peverelist"},
+              { "title": "Solina (The Ascension)", "performer": "Jedi Knights"},
+              { "title": "Supersonic", "performer": "Mr. Mayfair"},
+              { "title": "Ov7rwolrd Invxsion", "performer": "Th7 Immortxlz"},
+              { "title": "Sxvior", "performer": "Th7 Immortxlz"},
+              { "title": "FAR", "performer": "Potter Payper"},
+              { "title": "Spoilt", "performer": "K-Trap"},
+              { "title": "Nimbus", "performer": "Devonwho"}
+            ],
+            [
+              { "time": "00:04", "title": "Deutsch Nepal", "performer": "Amon Düül"},
+              { "title": "Follow Your Heart", "performer": "Joe Farrell Quartet"},
+              { "title": "Car Fire (Tomas Barfod Remix)", "performer": "Chrome Canyon"},
+              { "title": "Something Blue", "performer": "Alex Virgo"},
+              { "title": "Chauma", "performer": "pothOles"},
+              { "title": "Is Ok", "performer": "Nitsch"},
+              { "title": "The Fantasy Life Of Poetry & Crime", "performer": "Peter Dohrty Frederic Lo"},
+              { "title": "Toll", "performer": "Naima Bock"},
+              { "title": "Pistol", "performer": "Cigarettes After Sex"},
+              { "title": "NYC", "performer": "Burial"},
+              { "title": "Blush Response", "performer": "Dbridge & Instra:mental"}
+            ],
+            [
+            ]
+          ]
+        }
+      ]
     }
   ]
 }
