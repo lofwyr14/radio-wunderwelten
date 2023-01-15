@@ -76852,6 +76852,10 @@
         {
           "id": "2",
           "date": "2023-01-12",
+          "checked": {
+            "date": "2023-01-15",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -76891,17 +76895,17 @@
               },
               {
                 "time": "22:30",
-                "title": "Making Music",
+                "title": "Making Music (4 Hero Remix)",
                 "performer": "Chungking"
               },
               {
                 "time": "22:35",
-                "title": "Vuelvo Al Sur",
+                "title": "Vuelvo Al Sur (Koop Remix)",
                 "performer": "Astor Piazzolla"
               },
               {
                 "time": "22:41",
-                "title": "Les EnjambÃ©s",
+                "title": "Les Enjambée",
                 "performer": "Forever Pavot"
               },
               {
@@ -76983,7 +76987,7 @@
               },
               {
                 "time": "23:46",
-                "title": "Un ThÃ¨me",
+                "title": "Un Thème",
                 "performer": "Son Parapluie feat. Isobel Campbell"
               },
               {
