@@ -9090,7 +9090,7 @@
             ],
             [
               { "time": "23:04", "title": "Ernestine", "performer": "Joe Bataan"},
-              { "title": "Journey (Aphex Twin Rmx)", "performer": "Gentle People"},
+              { "title": "Journey (Aphex Twin Remix)", "performer": "Gentle People"},
               { "title": "Over Here (Brendan Moeller Remix)", "performer": "Appleblim & Peverelist"},
               { "title": "Solina (The Ascension)", "performer": "Jedi Knights"},
               { "title": "Supersonic", "performer": "Mr. Mayfair"},
@@ -9112,8 +9112,52 @@
               { "title": "Pistol", "performer": "Cigarettes After Sex"},
               { "title": "NYC", "performer": "Burial"},
               { "title": "Blush Response", "performer": "Dbridge & Instra:mental"}
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "date": "2023-01-08",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Public Relations", "performer": "Public Relations"},
+              { "title": "Fatal Error", "performer": "Fatal Error"},
+              { "title": "Voces", "performer": "DC Salas"},
+              { "title": "Cosmic Paella", "performer": "Azo & DJ Lovepills"},
+              { "title": "Bells & Circles", "performer": "Underworld & Iggy Pop"},
+              { "title": "Return My Head", "performer": "The Murder Capitol"},
+              { "title": "I Raise You (The Price Of Your Head)", "performer": "Folly Group"},
+              { "title": "Leave Me Alone", "performer": "Power Plush"},
+              { "title": "The Look", "performer": "Sports"},
+              { "title": "Pay Day", "performer": "Sweatson Klank"},
+              { "title": "Bubbles", "performer": "Herbie Hancock"}
             ],
             [
+              { "time": "23:04", "title": "Forever", "performer": "Icarus"},
+              { "title": "Their Blood (Ellen Allien Remix)", "performer": "Rosa Anschütz"},
+              { "title": "Sugar And Air", "performer": "Giant Swan"},
+              { "title": "Knock Knock", "performer": "CVC"},
+              { "title": "Trust", "performer": "Sabrina Bellaouel"},
+              { "title": "Happy Ending", "performer": "Kelela"},
+              { "title": "Wildfire", "performer": "Shygirl"},
+              { "title": "Break It Off", "performer": "PinkPantheress"},
+              { "title": "So Tell Me", "performer": "Nia Archives"},
+              { "title": "Schmetterlingssturm", "performer": "Luis Ake"},
+              { "title": "Sinner (Flava D Remix)", "performer": "LP Giobbi & Bklava"},
+              { "title": "Strung Out Johnny", "performer": "Iggy Pop"},
+              { "title": "Men With Shifty Eyes", "performer": "Lawn Chair"}
+            ],
+            [
+              { "time": "00:04", "title": "At The Zoo", "performer": "Abracadabra"},
+              { "title": "Love Without Illusion", "performer": "Pleasure Pool"},
+              { "title": "Coloured Tongues", "performer": "Wet Satin"},
+              { "title": "Rush", "performer": "Willo"},
+              { "title": "Baby, We´re Ascending", "performer": "HAAi feat. Jon Hopkins"},
+              { "title": "From A To Z", "performer": "Adiel"},
+              { "title": "Prove Your Good", "performer": "Rozi Plain"},
+              { "title": "Lockdown", "performer": "Public Display Of Affection"},
+              { "title": "We Are Now", "performer": "Bas Grossfeldt"},
+              { "title": "Qawwali", "performer": "Pinch"}
             ]
           ]
         }
