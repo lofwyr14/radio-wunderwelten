@@ -9060,7 +9060,7 @@
               { "title": "Respirando", "performer": "Mochakk"},
               { "title": "Invisible Sounds (Random Movement Remix)", "performer": "T.R.A.C. feat. Level 2, Christina Tamayo "},
               { "title": "Move Me", "performer": "Need For Mirrors"},
-              { "title": " I Like The Way You Walk", "performer": "The Donkeys"},
+              { "title": "I Like The Way You Walk", "performer": "The Donkeys"},
               { "title": "Performance Review", "performer": "Joyeria"},
               { "title": "Pistol", "performer": "Cigarettes After Sex"}
             ]
@@ -9074,6 +9074,7 @@
         {
           "id": "1",
           "date": "2023-01-01",
+          "checked": {"date": "2023-01-19", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Don´t Look Back", "performer": "John Lee Hooker"},
@@ -9090,7 +9091,7 @@
             ],
             [
               { "time": "23:04", "title": "Ernestine", "performer": "Joe Bataan"},
-              { "title": "Journey (Aphex Twin Remix)", "performer": "Gentle People"},
+              { "title": "Journey (Aphex Twin Care Mix)", "performer": "Gentle People"},
               { "title": "Over Here (Brendan Moeller Remix)", "performer": "Appleblim & Peverelist"},
               { "title": "Solina (The Ascension)", "performer": "Jedi Knights"},
               { "title": "Supersonic", "performer": "Mr. Mayfair"},
@@ -9101,13 +9102,13 @@
               { "title": "Nimbus", "performer": "Devonwho"}
             ],
             [
-              { "time": "00:04", "title": "Deutsch Nepal", "performer": "Amon Düül"},
+              { "time": "00:04", "title": "Deutsch Nepal", "performer": "Amon Düül II"},
               { "title": "Follow Your Heart", "performer": "Joe Farrell Quartet"},
-              { "title": "Car Fire (Tomas Barfod Remix)", "performer": "Chrome Canyon"},
+              { "title": "Chasing The Dead (Mike Simonetti Remix)", "performer": "Chrome Canyon"},
               { "title": "Something Blue", "performer": "Alex Virgo"},
               { "title": "Chauma", "performer": "pothOles"},
               { "title": "Is Ok", "performer": "Nitsch"},
-              { "title": "The Fantasy Life Of Poetry & Crime", "performer": "Peter Dohrty Frederic Lo"},
+              { "title": "The Fantasy Life Of Poetry & Crime", "performer": "Peter Doherty & Frédéric Lo"},
               { "title": "Toll", "performer": "Naima Bock"},
               { "title": "Pistol", "performer": "Cigarettes After Sex"},
               { "title": "NYC", "performer": "Burial"},
