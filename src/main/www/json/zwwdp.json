@@ -77011,6 +77011,10 @@
         {
           "id": "3",
           "date": "2023-01-19",
+          "checked": {
+            "date": "2023-01-21",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -77076,7 +77080,7 @@
               {
                 "time": "22:49",
                 "title": "Love! Love! Love!",
-                "performer": "Blowsom feat. AnaÃ¯s"
+                "performer": "Blowsom feat. Anaïs"
               },
               {
                 "time": "22:54",
@@ -77112,7 +77116,7 @@
               },
               {
                 "time": "23:21",
-                "title": "Donnerstags 8 Bis 9",
+                "title": "Donnerstags 8 bis 9",
                 "performer": "Albrecht Schrader"
               },
               {
@@ -77147,7 +77151,7 @@
               },
               {
                 "time": "23:52",
-                "title": "Starfucker (Andy Swan)",
+                "title": "Starfucker",
                 "performer": "Marker Starling"
               },
               {
