@@ -9161,6 +9161,50 @@
               { "title": "Qawwali", "performer": "Pinch"}
             ]
           ]
+        },
+        {
+          "id": "3",
+          "date": "2023-01-15",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Shabby", "performer": "Poolblood"},
+              { "title": "Aselestine", "performer": "Yo La Tengo"},
+              { "title": "Want You (Charles Webster Remix)", "performer": "Nate08"},
+              { "title": "Don´t Let Go", "performer": "Supershy"},
+              { "title": "The Bliss (Nhar Remix)", "performer": "Soultask"},
+              { "title": "Mademoiselle", "performer": "CVC"},
+              { "title": "Activated", "performer": "Mount Westmore"},
+              { "title": "Bounce Back", "performer": "A Boogie Wit Da Hoodie"},
+              { "title": "My Luck", "performer": "Mansur Brown"},
+              { "title": "Estado Liquido", "performer": "DJ Raff"},
+              { "title": "Galactic Federation", "performer": "Lake Haze"}
+            ],
+            [
+              { "time": "23:04", "title": "Meat Robots", "performer": "Paresse"},
+              { "title": "Ya Mahla", "performer": "Acid Arab feat. Wael Alkak"},
+              { "title": "The Room (Shy One Remix)", "performer": "The Orielles"},
+              { "title": "Painted The Room", "performer": "Rozi Plain"},
+              { "title": "Good Days", "performer": "SZA"},
+              { "title": "Power Of Love", "performer": "Mahavishnu Orchestra"},
+              { "title": "Diamond Dust", "performer": "Jeff Beck"},
+              { "title": "Goodbye Pork Pie Hat", "performer": "Jeff Beck"},
+              { "title": "Love Is Blue (L´Amour Est Bleu)", "performer": "Jeff Beck"},
+              { "title": "Nowheresville", "performer": "Quasi"}
+            ],
+            [
+              { "time": "00:04", "title": "Anogo", "performer": "CVC"},
+              { "title": "When You´re Not With Me", "performer": "Belle And Sebastian"},
+              { "title": "Emeline", "performer": "Facta"},
+              { "title": "Fairy Liquor", "performer": "Yushh & Facta"},
+              { "title": "Summer Ghost", "performer": "Otik"},
+              { "title": "Look Mum No Hands", "performer": "Yushh"},
+              { "title": "Phaedo", "performer": "MiDi BiTCH"},
+              { "title": "You Are Love", "performer": "Chrome Sparks"},
+              { "title": "Auris", "performer": "JakoJako"},
+              { "title": "Sold Out (Aasthma Remix)", "performer": "Rosa Anschütz"},
+              { "title": "Yer All In My Dreams", "performer": "Purling Hiss"}
+            ]
+          ]
         }
       ]
     }
