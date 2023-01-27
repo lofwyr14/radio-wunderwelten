@@ -9119,6 +9119,7 @@
         {
           "id": "2",
           "date": "2023-01-08",
+          "checked": {"date": "2023-01-27", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Public Relations", "performer": "Public Relations"},
@@ -9134,7 +9135,7 @@
               { "title": "Bubbles", "performer": "Herbie Hancock"}
             ],
             [
-              { "time": "23:04", "title": "Forever", "performer": "Icarus"},
+              { "time": "23:04", "title": "Forever (Extended)", "performer": "Icarus"},
               { "title": "Their Blood (Ellen Allien Remix)", "performer": "Rosa Anschütz"},
               { "title": "Sugar And Air", "performer": "Giant Swan"},
               { "title": "Knock Knock", "performer": "CVC"},
@@ -9152,7 +9153,7 @@
               { "time": "00:04", "title": "At The Zoo", "performer": "Abracadabra"},
               { "title": "Love Without Illusion", "performer": "Pleasure Pool"},
               { "title": "Coloured Tongues", "performer": "Wet Satin"},
-              { "title": "Rush", "performer": "Willo"},
+              { "title": "Rush (Blush)", "performer": "Willo"},
               { "title": "Baby, We´re Ascending", "performer": "HAAi feat. Jon Hopkins"},
               { "title": "From A To Z", "performer": "Adiel"},
               { "title": "Prove Your Good", "performer": "Rozi Plain"},
