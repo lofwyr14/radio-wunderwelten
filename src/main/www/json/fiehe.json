@@ -9206,7 +9206,56 @@
               { "title": "Yer All In My Dreams", "performer": "Purling Hiss"}
             ]
           ]
+        },
+        {
+          "id": "4",
+          "date": "2023-01-22",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Weirdo", "performer": "Girl Scout"},
+              { "title": "Trust", "performer": "Sabrina Bellaouel"},
+              { "title": "Eclipse", "performer": "Sabrina Bellaouel"},
+              { "title": "So U Kno", "performer": "Overmono"},
+              { "title": "Contact", "performer": "Kelela"},
+              { "title": "Dat Way", "performer": "Krept & Konan feat. Abracadabra"},
+              { "title": "F**k Off", "performer": "TraviS & Elzzz"},
+              { "title": "Visionary", "performer": "Genevieve Artadi"},
+              { "title": "Godzilla", "performer": "Nanna"},
+              { "title": "The End Of A Gun", "performer": "Ghost Woman"},
+              { "title": "American Ultra", "performer": "CVC"},
+              { "title": "I´m Not Your Friend", "performer": "Reda Saiarh"},
+              { "title": "Essential", "performer": "Kamal"}
+            ],
+            [
+              { "time": "23:04", "title": "Sintonia", "performer": "DJ Black Spygo"},
+              { "title": "No Baby", "performer": "Kid Simius & Ede"},
+              { "title": "Is U", "performer": "Overmono"},
+              { "title": "Blind Date", "performer": "Joy Orbison & Overmono"},
+              { "title": "Alate", "performer": "Magdalena"},
+              { "title": "The Vision", "performer": "James Organ feat. Chloe Paige"},
+              { "title": "Six-Pack", "performer": "Shame"},
+              { "title": "What You Don´t Want Me To Be", "performer": "Lee Moses"},
+              { "title": "I Can´t Stand It", "performer": "Algiers feat. Samuel T. Herring & Jae Matthews"},
+              { "title": "Hold Me Down", "performer": "Gloss Up"},
+              { "title": "Mad At Me", "performer": "Samia feat. Papa mbye"},
+              { "title": "Airplanes", "performer": "Busty And The Bass feat. Cadence Weapon"},
+              { "title": "Tell Me", "performer": "King Tuff"}
+            ],
+            [
+              { "time": "00:04", "title": "Modern Nature", "performer": "Pleasure Pool"},
+              { "title": "Dawn Of The Age Of Aquarius", "performer": "Abracadabra"},
+              { "title": "Heartical", "performer": "Oakin"},
+              { "title": "Ask The Elephant!", "performer": "Yoko Ono Plastic Ono Band"},
+              { "title": "Poppin´", "performer": "Dutch Uncles"},
+              { "title": "Dirty Cat", "performer": "Fabrice Lig"},
+              { "title": "Mercy", "performer": "John Cale feat. Laurel Halo"},
+              { "title": "Night Crawling", "performer": "John Cale"},
+              { "title": "Star Hill Song", "performer": "Meg Baird"},
+              { "title": "The Lie Becomes The Self", "performer": "The Murder Capital"}
+            ]
+          ]
         }
+
       ]
     }
   ]
