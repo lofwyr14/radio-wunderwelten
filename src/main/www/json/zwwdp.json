@@ -77166,6 +77166,166 @@
               }
             ]
           ]
+        },
+        {
+          "id": "4",
+          "date": "2023-01-26",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Words",
+                "performer": "Curt Smith"
+              },
+              {
+                "time": "22:08",
+                "title": "Don't Say It's Over",
+                "performer": "Gaz Coombes"
+              },
+              {
+                "time": "22:12",
+                "title": "It's Been A Little Heavy Lately",
+                "performer": "Joesef"
+              },
+              {
+                "time": "22:16",
+                "title": "Divine",
+                "performer": "Good Wilson"
+              },
+              {
+                "time": "22:20",
+                "title": "Today",
+                "performer": "The Moons"
+              },
+              {
+                "time": "22:22",
+                "title": "Got To Get You Into My Life",
+                "performer": "Blood, Sweat & Tears"
+              },
+              {
+                "time": "22:26",
+                "title": "When We Were Very Young",
+                "performer": "Belle And Sebastian"
+              },
+              {
+                "time": "22:31",
+                "title": "Bunker",
+                "performer": "Balthazar"
+              },
+              {
+                "time": "22:36",
+                "title": "Bang Bang",
+                "performer": "Warhaus"
+              },
+              {
+                "time": "22:40",
+                "title": "Sister",
+                "performer": "Dylan Mondegreen & Børge Sildnes"
+              },
+              {
+                "time": "22:43",
+                "title": "Beach Rhodes",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "22:49",
+                "title": "Salvaje Corazon",
+                "performer": "Pierre Daven-Keller feat. Arielle Dombasle"
+              },
+              {
+                "time": "22:52",
+                "title": "Reality",
+                "performer": "Beat Crusaders"
+              },
+              {
+                "time": "22:57",
+                "title": "Fireworks",
+                "performer": "Healing Potpourri"
+              },
+              {
+                "time": "22:59",
+                "title": "Sleepyface",
+                "performer": "Birocratic"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Clouds Across The Moon",
+                "performer": "Ed Mount feat. Nit"
+              },
+              {
+                "time": "23:08",
+                "title": "Waltz For Koop",
+                "performer": "Koop (featuring Cecilia Stalin)"
+              },
+              {
+                "time": "23:11",
+                "title": "Lou",
+                "performer": "Coralie Clément"
+              },
+              {
+                "time": "23:14",
+                "title": "Zinedine Zidane",
+                "performer": "Purple Submarine Orchestra"
+              },
+              {
+                "time": "23:16",
+                "title": "Entrelacs",
+                "performer": "Orwell"
+              },
+              {
+                "time": "23:19",
+                "title": "Hope Goes Blind",
+                "performer": "Alpha"
+              },
+              {
+                "time": "23:23",
+                "title": "Midnight Watch",
+                "performer": "Burt Bacharach & Daniel Tashian"
+              },
+              {
+                "time": "23:29",
+                "title": "Hell",
+                "performer": "Peel Dream Magazine"
+              },
+              {
+                "time": "23:31",
+                "title": "Come On Over (Turn Me On)",
+                "performer": "Mark Lanegan & Isobel Campbell"
+              },
+              {
+                "time": "23:36",
+                "title": "Indien Summer (L'Ãte Indien)",
+                "performer": "Nancy Sinatra & Lee Hazlewood"
+              },
+              {
+                "time": "23:40",
+                "title": "I Can't Sleep",
+                "performer": "It's Immaterial"
+              },
+              {
+                "time": "23:46",
+                "title": "Arthur's Theme (Best That You Can Do)",
+                "performer": "Paris Match"
+              },
+              {
+                "time": "23:50",
+                "title": "Lazy Daisy",
+                "performer": "Wired Ways"
+              },
+              {
+                "time": "23:56",
+                "title": "The Crystal Ship",
+                "performer": "The Doors"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
