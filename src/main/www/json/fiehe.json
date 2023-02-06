@@ -9211,6 +9211,7 @@
         {
           "id": "4",
           "date": "2023-01-22",
+          "checked": {"date": "2023-02-06", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Weirdo", "performer": "Girl Scout"},
@@ -9224,11 +9225,11 @@
               { "title": "Godzilla", "performer": "Nanna"},
               { "title": "The End Of A Gun", "performer": "Ghost Woman"},
               { "title": "American Ultra", "performer": "CVC"},
-              { "title": "I´m Not Your Friend", "performer": "Reda Saiarh"},
-              { "title": "Essential", "performer": "Kamal"}
+              { "title": "I´m Not Your Friend", "performer": "Reda Saiarh"}
             ],
             [
-              { "time": "23:04", "title": "Sintonia", "performer": "DJ Black Spygo"},
+              { "time": "23:04", "title": "Essential", "performer": "Kamal."},
+              { "title": "Sintonia", "performer": "DJ Black Spygo"},
               { "title": "No Baby", "performer": "Kid Simius & Ede"},
               { "title": "Is U", "performer": "Overmono"},
               { "title": "Blind Date", "performer": "Joy Orbison & Overmono"},
@@ -9238,15 +9239,15 @@
               { "title": "What You Don´t Want Me To Be", "performer": "Lee Moses"},
               { "title": "I Can´t Stand It", "performer": "Algiers feat. Samuel T. Herring & Jae Matthews"},
               { "title": "Hold Me Down", "performer": "Gloss Up"},
-              { "title": "Mad At Me", "performer": "Samia feat. Papa mbye"},
-              { "title": "Airplanes", "performer": "Busty And The Bass feat. Cadence Weapon"},
-              { "title": "Tell Me", "performer": "King Tuff"}
+              { "title": "Mad At Me", "performer": "Samia feat. Papa Mbye"},
+              { "title": "Airplanes", "performer": "Busty And The Bass feat. Cadence Weapon"}
             ],
             [
-              { "time": "00:04", "title": "Modern Nature", "performer": "Pleasure Pool"},
+              { "time": "00:04", "title": "Tell Me", "performer": "King Tuff"},
+              { "title": "Modern Nature", "performer": "Pleasure Pool"},
               { "title": "Dawn Of The Age Of Aquarius", "performer": "Abracadabra"},
-              { "title": "Heartical", "performer": "Oakin"},
-              { "title": "Ask The Elephant!", "performer": "Yoko Ono Plastic Ono Band"},
+              { "title": "Heartical Dub", "performer": "Oakin"},
+              { "title": "Ask The Elephant!", "performer": "Yoko Ono & The Plastic Ono Band"},
               { "title": "Poppin´", "performer": "Dutch Uncles"},
               { "title": "Dirty Cat", "performer": "Fabrice Lig"},
               { "title": "Mercy", "performer": "John Cale feat. Laurel Halo"},
@@ -9256,7 +9257,6 @@
             ]
           ]
         }
-
       ]
     }
   ]
