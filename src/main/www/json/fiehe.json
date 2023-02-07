@@ -9256,6 +9256,52 @@
               { "title": "The Lie Becomes The Self", "performer": "The Murder Capital"}
             ]
           ]
+        },
+        {
+          "id": "5",
+          "date": "2023-01-29",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Pumpan", "performer": "Dina Ögon "},
+              { "title": "Visions (Dungen Remix)", "performer": "Jose Gonzalez"},
+              { "title": "Intellect", "performer": "Orca"},
+              { "title": "So U Kno", "performer": "Overmono"},
+              { "title": "Stockfinster", "performer": "Cary"},
+              { "title": "Keep On Dreamin´", "performer": "The Arcs"},
+              { "title": "Dark Tyms", "performer": "Scratchclart feat. Scotti Dee & European 305"},
+              { "title": "Angel Farm", "performer": "Otik"},
+              { "title": "I Wanna Believe", "performer": "Christian Nielsen"},
+              { "title": "Selfish", "performer": "Slowthai"},
+              { "title": "Consistent Dedication", "performer": "Heartworms"},
+              { "title": "The BLACK seminole.", "performer": "Lil Yachty"},
+              { "title": "Okay", "performer": "Document One feat. Doctor"}
+            ],
+            [
+              { "time": "23:04", "title": "Alive", "performer": "Georgia Phoenix feat. Aleya Mae"},
+              { "title": "Ringa Ringa (The Old Pandemic Folksong) (Breakage Remix)", "performer": "Orbital"},
+              { "title": "Act Nice", "performer": "Deki Alem"},
+              { "title": "Veronica", "performer": "Master Peace"},
+              { "title": "Get Inspired", "performer": "Genesis Owusu"},
+              { "title": "True Blue", "performer": "Boygenius"},
+              { "title": "It´s Ok To Be Afraid Of The Universe", "performer": "Hammock"},
+              { "title": "To Me It Was", "performer": "Samia"},
+              { "title": "From Her Fingers", "performer": "Tom Verlaine"},
+              { "title": "Going Home To A Party", "performer": "JW Francis"},
+              { "title": "Fold", "performer": "Bonobo & Jaques Greene"},
+              { "title": "Street Meet", "performer": "Ghost Woman"}
+            ],
+            [
+              { "time": "00:04", "title": "Epiphany", "performer": "SG Lewis"},
+              { "title": "Still Rushing (Azzecca Remix) ", "performer": "Tibask"},
+              { "title": "On The Eve Of The Rush (134bpm VIP) ", "performer": "Vallis Alps"},
+              { "title": "Lights Light Up", "performer": "Fenne Lily"},
+              { "title": "Tropic Morning News", "performer": "The National"},
+              { "title": "The Zone", "performer": "Lil Yachty"},
+              { "title": "We Saw The Sun!", "performer": "Lil Yachty"},
+              { "title": "Popeye", "performer": "Symba"},
+              { "title": "After Twelve", "performer": "Brintex Collective"}
+            ]
+          ]
         }
       ]
     }
