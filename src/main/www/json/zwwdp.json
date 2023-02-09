@@ -77170,6 +77170,10 @@
         {
           "id": "4",
           "date": "2023-01-26",
+          "checked": {
+            "date": "2023-02-09",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -77194,7 +77198,7 @@
               },
               {
                 "time": "22:20",
-                "title": "Today",
+                "title": "Today (Le SuperHomard Remix)",
                 "performer": "The Moons"
               },
               {
@@ -77239,7 +77243,7 @@
               },
               {
                 "time": "22:57",
-                "title": "Fireworks",
+                "title": "Fireworks (Pregnant Remix)",
                 "performer": "Healing Potpourri"
               },
               {
@@ -77271,7 +77275,7 @@
               },
               {
                 "time": "23:16",
-                "title": "Entrelacs",
+                "title": "Entrelacs (Louis Philippe Version)",
                 "performer": "Orwell"
               },
               {
@@ -77292,11 +77296,11 @@
               {
                 "time": "23:31",
                 "title": "Come On Over (Turn Me On)",
-                "performer": "Mark Lanegan & Isobel Campbell"
+                "performer": "Isobel Campbell & Mark Lanegan"
               },
               {
                 "time": "23:36",
-                "title": "Indien Summer (L'Ãte Indien)",
+                "title": "(L'été Indien) Indian Summer",
                 "performer": "Nancy Sinatra & Lee Hazlewood"
               },
               {
