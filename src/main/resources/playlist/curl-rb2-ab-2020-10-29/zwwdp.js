@@ -52,6 +52,7 @@ document.querySelectorAll("tbody>tr").forEach(
         //     s.time = s.time.replace(/22.*/, "22:04");
         //     s.time = s.time.replace(/23.*/, "23:04");
         // }
+        console.info("Song gefunden: ", s.time, s.title, s.performer);
         if (s.time && s.time.trim().toUpperCase() === "ZEIT") {
          // drop
         } else {
