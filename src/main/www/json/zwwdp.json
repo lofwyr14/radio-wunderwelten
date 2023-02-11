@@ -77367,6 +77367,11 @@
                 "performer": "Sault"
               },
               {
+                "time": "22:32",
+                "title": "Petroglyph",
+                "performer": "Vinyl Williams"
+              },
+              {
                 "time": "22:37",
                 "title": "Weatherman",
                 "performer": "Quentin E. Klopjaeger"
@@ -77430,7 +77435,7 @@
               },
               {
                 "time": "23:22",
-                "title": "Love Song",
+                "title": "Love Song (Helado Negro Remix)",
                 "performer": "Devendra Banhart"
               },
               {
@@ -77465,6 +77470,151 @@
               },
               {
                 "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "date": "2023-02-09",
+          "songs": [
+            [
+              {
+                "time": "22:03",
+                "title": "This House Is Empty Now",
+                "performer": "Elvis Costello & Burt Bacharach"
+              },
+              {
+                "time": "22:09",
+                "title": "Feel You Around Me",
+                "performer": "NRBQ"
+              },
+              {
+                "time": "22:13",
+                "title": "Out Of Town",
+                "performer": "Frank Popp Ensemble feat. Jesper Munk"
+              },
+              {
+                "time": "22:17",
+                "title": "Milk For Flowers",
+                "performer": "H. Hawkline"
+              },
+              {
+                "time": "22:21",
+                "title": "Hiccup",
+                "performer": "Liam Benzvi"
+              },
+              {
+                "time": "22:26",
+                "title": "Champions",
+                "performer": "Sault"
+              },
+              {
+                "time": "22:31",
+                "title": "Waiting Game",
+                "performer": "Bumpy"
+              },
+              {
+                "time": "22:34",
+                "title": "Eureka, I Can See!",
+                "performer": "Novelty Island"
+              },
+              {
+                "time": "22:37",
+                "title": "For A While",
+                "performer": "Whitney"
+              },
+              {
+                "time": "22:41",
+                "title": "Grapefruit Knife",
+                "performer": "Talking To Turtles"
+              },
+              {
+                "time": "22:44",
+                "title": "Distant Lights",
+                "performer": "Ivy"
+              },
+              {
+                "time": "22:50",
+                "title": "Cannoneers",
+                "performer": "ONBC"
+              },
+              {
+                "time": "22:53",
+                "title": "Evolution",
+                "performer": "Braids"
+              },
+              {
+                "time": "22:58",
+                "title": "Get Carter",
+                "performer": "Laika & The Cosmonauts"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Just The Way You Are",
+                "performer": "Les McCann"
+              },
+              {
+                "time": "23:10",
+                "title": "Ride Out The Storm",
+                "performer": "Dele Sosimi & The Estuary 21"
+              },
+              {
+                "time": "23:14",
+                "title": "Victoria",
+                "performer": "Mac DeMarco"
+              },
+              {
+                "time": "23:16",
+                "title": "Resplendent In A Darkness",
+                "performer": "The Monochrome Set"
+              },
+              {
+                "time": "23:20",
+                "title": "Coming On Strong",
+                "performer": "Teddy White"
+              },
+              {
+                "time": "23:24",
+                "title": "House Of The Purple Mist",
+                "performer": "Magician"
+              },
+              {
+                "time": "23:34",
+                "title": "Solid Air",
+                "performer": "John Martyn Band"
+              },
+              {
+                "time": "23:40",
+                "title": "Somone Else",
+                "performer": "Zablon"
+              },
+              {
+                "time": "23:42",
+                "title": "Second Thoughts",
+                "performer": "Mark Duval And His Orchestra"
+              },
+              {
+                "time": "23:45",
+                "title": "Cherry Plum",
+                "performer": "Astronauts etc."
+              },
+              {
+                "time": "23:48",
+                "title": "Hallonlandet",
+                "performer": "Henrik Lindstrand"
+              },
+              {
+                "time": "23:53",
+                "title": "The Wreckage",
+                "performer": "Sweet Baboo"
+              },
+              {
+                "time": "23:57",
                 "title": "Good Night",
                 "performer": "The Beatles"
               }
