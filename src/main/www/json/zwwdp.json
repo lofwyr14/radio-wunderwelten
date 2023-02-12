@@ -77483,6 +77483,10 @@
         {
           "id": "6",
           "date": "2023-02-09",
+          "checked": {
+            "date": "2023-02-12",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -77589,7 +77593,7 @@
               },
               {
                 "time": "23:34",
-                "title": "Solid Air",
+                "title": "Solid Air (Live At Bremen Schauburg 1983)",
                 "performer": "John Martyn Band"
               },
               {
@@ -77609,7 +77613,7 @@
               },
               {
                 "time": "23:48",
-                "title": "Hallonlandet",
+                "title": "Hallonlandet (Reimagined by Manu Delago)",
                 "performer": "Henrik Lindstrand"
               },
               {
