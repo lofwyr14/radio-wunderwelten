@@ -9302,6 +9302,54 @@
               { "title": "After Twelve", "performer": "Brintex Collective"}
             ]
           ]
+        },
+        {
+          "id": "6",
+          "date": "2023-02-05",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Horizon Red", "performer": "Made By Pete & Zoe Kypri"},
+              { "title": "Tudo Passa", "performer": "Luciano Scheffer"},
+              { "title": "Dance With Me", "performer": "Hums"},
+              { "title": "Explore Page (TC4 Remix)", "performer": "Dapz On The Map"},
+              { "title": "Crush", "performer": "Blaue Blume"},
+              { "title": "In My Arms", "performer": "Big Joiner"},
+              { "title": "Joiner", "performer": "Blondshell"},
+              { "title": "Suddenly", "performer": "Someone"},
+              { "title": "Vi Smälter", "performer": "Dina Ögon"},
+              { "title": "Sucka Or Sum", "performer": "Rae Sremmurd"},
+              { "title": "Dat Way", "performer": "Krept & Conan feat. Abra Cadabra"}
+            ],
+            [
+              { "time": "23:04", "title": "Smile", "performer": "Tseba feat. Jam"},
+              { "title": "Salsa", "performer": "Murder He Wrote"},
+              { "title": "The Reeling (Silver Sisters Remix)", "performer": "Compact Disk Dummies"},
+              { "title": "Halim Guelil", "performer": "Acid Arab"},
+              { "title": "Six Hills", "performer": "Lewsberg"},
+              { "title": "I Don´t Sweat", "performer": "Tramhaus"},
+              { "title": "Hard Livin´", "performer": "The Men"},
+              { "title": "Peace Of Mind", "performer": "The Men"},
+              { "title": "Martin", "performer": "Fluppe"},
+              { "title": "Mad At Me", "performer": "Samia feat. Papa Mbye"},
+              { "title": "The BLACK seminole.", "performer": "Lil Yachty"},
+              { "title": "Place Of Light", "performer": "Brainticket"},
+              { "title": "I Saw", "performer": "Young Fathers"},
+              { "title": "Rice", "performer": "Young Fathers"}
+            ],
+            [
+              { "time": "00:04", "title": "Holy Moly", "performer": "Young Fathers"},
+              { "title": "Whammy - O", "performer": "The Go! Team"},
+              { "title": "Ville Deserte", "performer": "D-Track"},
+              { "title": "Tyler, Forever", "performer": "McKinley Dixon"},
+              { "title": "UFO", "performer": "Olivia Dean"},
+              { "title": "Ganz Raus", "performer": "Mariybu"},
+              { "title": "Misty", "performer": "Luciano Scheffer"},
+              { "title": "Tha Music", "performer": "Christoph"},
+              { "title": "Another Life", "performer": "SG Lewis"},
+              { "title": "Lost Society", "performer": "George Hennessey"},
+              { "title": "Les Chants De Maldoror (Para One Remix)", "performer": "Leonie Pernet"}
+            ]
+          ]
         }
       ]
     }
