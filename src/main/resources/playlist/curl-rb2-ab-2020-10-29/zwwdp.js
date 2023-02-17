@@ -56,7 +56,7 @@ document.querySelectorAll("tbody>tr").forEach(
         if (s.time && s.time.trim().toUpperCase() === "ZEIT") {
          // drop
         } else {
-            if (s.time && s.time.match(".*:0[45]")) {
+            if (s.time && s.time.match(".*:0[456]")) {
                 songs = [];
                 episode.songs.push(songs);
             }
