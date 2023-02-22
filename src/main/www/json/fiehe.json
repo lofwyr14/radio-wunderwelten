@@ -9351,6 +9351,55 @@
               { "title": "Les Chants De Maldoror (Para One Remix)", "performer": "Leonie Pernet"}
             ]
           ]
+        },
+        {
+          "id": "7",
+          "date": "2023-02-12",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Wait For It", "performer": "Salute"},
+              { "title": "Equal (Nasaya Remix)", "performer": "Odesza"},
+              { "title": "Happy Ending", "performer": "Kelela"},
+              { "title": "Enchant", "performer": "Otik with Tom VR"},
+              { "title": "Sympho (Yousef Remix)", "performer": "IDQ"},
+              { "title": "Dance With Me", "performer": "Hums"},
+              { "title": "Ghosts Again", "performer": "Depeche Mode"},
+              { "title": "Aselestine", "performer": "Yo La Tengo"},
+              { "title": "The Only Thing", "performer": "Someone & Tessa Rose Jackson"},
+              { "title": "Flume", "performer": "Helicon"},
+              { "title": "Two Tens", "performer": "Cordae feat. Anderson .Paak"},
+              { "title": "Are You Alive?", "performer": "Orbital feat. Penelope Isles"}
+            ],
+            [
+              { "time": "23:04", "title": "Veronica Mars", "performer": "Blondshell"},
+              { "title": "Wizards Of E", "performer": "Richie Blacker"},
+              { "title": "Alter He Go (Fiona Kraft Remix)", "performer": "Gab Rhome"},
+              { "title": "Truth Or Dare (LSDXOXO Remix)", "performer": "Kelela"},
+              { "title": "Raven", "performer": "Kelela"},
+              { "title": "Face Off", "performer": "Hugh Hardie feat. PAV4N"},
+              { "title": "Orbit", "performer": "Philip D Kick"},
+              { "title": "True Love", "performer": "Amber Arcades"},
+              { "title": "Nocturnal Creatures", "performer": "Moreish Idols"},
+              { "title": "Sinatra Drive Breakdown", "performer": "Yo La Tengo"},
+              { "title": "I KNow", "performer": "Genevieve Artadi"}
+            ],
+            [
+              { "time": "00:04", "title": "He Believes In Miracles", "performer": "C Duncan"},
+              { "title": "Talk To Death", "performer": "Mui Zyu"},
+              { "title": "Halloween Store", "performer": "Andy Shauf"},
+              { "title": "Wasted On You", "performer": "Andy Shauf"},
+              { "title": "Catch Your Eye", "performer": "Andy Shauf"},
+              { "title": "Exit (Machinedrum Remix)", "performer": "Mouth Water"},
+              { "title": "Evolution", "performer": "Braids"},
+              { "title": "Weirdo", "performer": "Girl Scout"},
+              { "title": "Heavenly", "performer": "Power Plush"},
+              { "title": "Black Morning", "performer": "En Attendant Ana"},
+              { "title": "Meat Robots (Curses Remix)", "performer": "Paresse"},
+              { "title": "Sorry", "performer": "Blond:ish, Eran Hersh & Darmon"},
+              { "title": "Feel Good", "performer": "slowthai"},
+              { "title": "Force 10 From Navarone  ", "performer": "Sleaford Mods feat. Florence Shaw"}
+            ]
+          ]
         }
       ]
     }
