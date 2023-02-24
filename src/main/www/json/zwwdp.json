@@ -77772,6 +77772,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "8",
+          "date": "2023-02-23",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Thinking Of You",
+                "performer": "The Colourfield"
+              },
+              {
+                "time": "22:08",
+                "title": "A Scene That Will Never Die",
+                "performer": "The Natural Lines"
+              },
+              {
+                "time": "22:13",
+                "title": "The Last Rotation Of Earth",
+                "performer": "B.C. Camplight"
+              },
+              {
+                "time": "22:17",
+                "title": "All Good",
+                "performer": "Joesef"
+              },
+              {
+                "time": "22:21",
+                "title": "Feet Off The Ground",
+                "performer": "Foxton & Hastings"
+              },
+              {
+                "time": "22:26",
+                "title": "Hiding Out",
+                "performer": "Peel Dream Magazine"
+              },
+              {
+                "time": "22:30",
+                "title": "Sense",
+                "performer": "theCatherines"
+              },
+              {
+                "time": "22:33",
+                "title": "Summer Follows Spring",
+                "performer": "NAH..."
+              },
+              {
+                "time": "22:38",
+                "title": "And What Fallout!",
+                "performer": "The Kingsbury Manx"
+              },
+              {
+                "time": "22:40",
+                "title": "Heartache Avenue",
+                "performer": "The Maisonettes"
+              },
+              {
+                "time": "22:44",
+                "title": "Pash Rash",
+                "performer": "Surprise Chef"
+              },
+              {
+                "time": "22:50",
+                "title": "Edmonton",
+                "performer": "Mac DeMarco"
+              },
+              {
+                "time": "22:53",
+                "title": "Another One",
+                "performer": "Mac DeMarco"
+              },
+              {
+                "time": "22:56",
+                "title": "Mystic Night",
+                "performer": "A. M. Son"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "The Letter",
+                "performer": "The Arbors"
+              },
+              {
+                "time": "23:08",
+                "title": "Johnny And Mary",
+                "performer": "Todd Terje feat. Bryan Ferry"
+              },
+              {
+                "time": "23:12",
+                "title": "Over And Over",
+                "performer": "The Waeve"
+              },
+              {
+                "time": "23:18",
+                "title": "The Unfaithful Servant",
+                "performer": "The Band"
+              },
+              {
+                "time": "23:23",
+                "title": "Paradise Cinema",
+                "performer": "Andy Shauf"
+              },
+              {
+                "time": "23:26",
+                "title": "Smile",
+                "performer": "Dave Gahan & Soulsavers"
+              },
+              {
+                "time": "23:30",
+                "title": "Hiding Tonight",
+                "performer": "Alex Turner"
+              },
+              {
+                "time": "23:33",
+                "title": "Star Treatment",
+                "performer": "Dan Van Nard"
+              },
+              {
+                "time": "23:39",
+                "title": "So Long",
+                "performer": "The Jack Moves"
+              },
+              {
+                "time": "23:42",
+                "title": "Lady Leaving Store",
+                "performer": "Johnny Pate"
+              },
+              {
+                "time": "23:51",
+                "title": "Visions",
+                "performer": "José Gonzales"
+              },
+              {
+                "time": "23:55",
+                "title": "Pacific Coast Highway",
+                "performer": "Burt Bacharach"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
