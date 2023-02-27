@@ -9307,16 +9307,17 @@
         {
           "id": "6",
           "date": "2023-02-05",
+          "checked": {"date": "2023-02-27", "user": "jg"},
           "songs": [
             [
-              { "time": "22:04", "title": "Horizon Red", "performer": "Made By Pete & Zoe Kypri"},
+              { "time": "22:04", "title": "Horizon Red (Extended)", "performer": "Made By Pete & Zoe Kypri"},
               { "title": "Tudo Passa", "performer": "Luciano Scheffer"},
               { "title": "Dance With Me", "performer": "Hums"},
               { "title": "Explore Page (TC4 Remix)", "performer": "Dapz On The Map"},
-              { "title": "Crush", "performer": "Blaue Blume"},
+              { "title": "Country", "performer": "Blaue Blume"},
               { "title": "In My Arms", "performer": "Big Joiner"},
               { "title": "Joiner", "performer": "Blondshell"},
-              { "title": "Suddenly", "performer": "Someone"},
+              { "title": "Suddenly", "performer": "Someone & Tessa Rose Jackson"},
               { "title": "Vi Smälter", "performer": "Dina Ögon"},
               { "title": "Sucka Or Sum", "performer": "Rae Sremmurd"},
               { "title": "Dat Way", "performer": "Krept & Conan feat. Abra Cadabra"}
