@@ -9401,6 +9401,52 @@
               { "title": "Force 10 From Navarone  ", "performer": "Sleaford Mods feat. Florence Shaw"}
             ]
           ]
+        },
+        {
+          "id": "8",
+          "date": "2023-02-19",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Can´t Let You Go", "performer": "LP Giobbi feat. Little Jet"},
+              { "title": "Late For Supper (LP Giobbi & Le Chev Remix) ", "performer": "Jerry Garcia & LP Giobbi"},
+              { "title": "Violet Drive", "performer": "Kerala Dust"},
+              { "title": "Everything Went Well", "performer": "Weval"},
+              { "title": "Butterfly Net", "performer": "Caroline Polachek"},
+              { "title": "Light Of Day (Parra For Curva Rmx)", "performer": "Odesza"},
+              { "title": "Merkste Selber", "performer": "Deichkind"},
+              { "title": "Retributions Of An Awful Life", "performer": "Heartworms"},
+              { "title": "Les Chant De Maldoror (Para One Remix)", "performer": "Leonie Pernet"},
+              { "title": "The End Of A Gun", "performer": "Ghost Woman"},
+              { "title": "Bird Song", "performer": "Jerry Garcia & LP Giobbi"},
+              { "title": "Dirty Rat", "performer": "Orbital feat. Sleaford Mods"}
+            ],
+            [
+              { "time": "23:04", "title": "Satisfied (Where Is Fenix´s Punisher Remix)", "performer": "Lubelski feat. Danke"},
+              { "title": "I Only Sing About Food", "performer": "Runner"},
+              { "title": "Hungry", "performer": "Anna B Savage"},
+              { "title": "Nice Idea", "performer": "Kae Tempest"},
+              { "title": "Dancing", "performer": "Dog Show"},
+              { "title": "Hot Gossip", "performer": "Regularfantasy"},
+              { "title": "I Believe", "performer": "Caroline Polachek"},
+              { "title": "Fly To You", "performer": "Caroline Polachek feat. Grimes & Dido"},
+              { "title": "Kintsugi", "performer": "Matt View"},
+              { "title": "Down With Your Love", "performer": "Freaks & Geeks"},
+              { "title": "Live By The Sword", "performer": "Anais & Sudley & Champion DI"},
+              { "title": "Pulse VI", "performer": "Kerala Dust"}
+            ],
+            [
+              { "time": "00:04", "title": "Feeling Sick", "performer": "Florence Besch"},
+              { "title": "Still Rushing (Azzecca Remix)", "performer": "Tibask"},
+              { "title": "Rujac", "performer": "Alphonse"},
+              { "title": "GLO BB", "performer": " Mary Droppinz & Danny Goliger"},
+              { "title": "I Won´t Tell", "performer": "Baby Rose feat. Smino"},
+              { "title": "Simple Pleasures", "performer": "dEUS"},
+              { "title": "Pre-Code Hollywood", "performer": "Jonathan Bree"},
+              { "title": "I Did It", "performer": "Unloved"},
+              { "title": "Nocturnal Creatures", "performer": "Moreish Idols"},
+              { "title": "Home", "performer": "Orbital feat. Anna B Savage"}
+            ]
+          ]
         }
       ]
     }
