@@ -77902,7 +77902,7 @@
               },
               {
                 "time": "23:51",
-                "title": "Visions",
+                "title": "Visions (Flanger Version)",
                 "performer": "José Gonzales"
               },
               {
@@ -77912,6 +77912,161 @@
               },
               {
                 "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "9",
+          "date": "2023-03-02",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Looking For Clues",
+                "performer": "Robert Palmer"
+              },
+              {
+                "time": "22:09",
+                "title": "Outdated And Antiquated",
+                "performer": "Ron Sexsmith"
+              },
+              {
+                "time": "22:12",
+                "title": "Winslow Gardens",
+                "performer": "Ben Folds"
+              },
+              {
+                "time": "22:16",
+                "title": "Forever",
+                "performer": "Any Version Of Me"
+              },
+              {
+                "time": "22:19",
+                "title": "Faux Bamboo",
+                "performer": "dEUS"
+              },
+              {
+                "time": "22:23",
+                "title": "Portrait Of E",
+                "performer": "Floral Portrait"
+              },
+              {
+                "time": "22:27",
+                "title": "On The Parcels",
+                "performer": "The Hepburns"
+              },
+              {
+                "time": "22:32",
+                "title": "Further Down The Road",
+                "performer": "Sylvie"
+              },
+              {
+                "time": "22:36",
+                "title": "Tail End",
+                "performer": "Phum Viphurit feat. Hugo"
+              },
+              {
+                "time": "22:42",
+                "title": "Cicada",
+                "performer": "Temples"
+              },
+              {
+                "time": "22:46",
+                "title": "Lance",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "time": "22:49",
+                "title": "Flash Of Light",
+                "performer": "Tugboat Captain"
+              },
+              {
+                "time": "22:51",
+                "title": "Together",
+                "performer": "Michael J McEvoy"
+              },
+              {
+                "time": "22:57",
+                "title": "Slick",
+                "performer": "Herb Alpert & The Tijuana Brass"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Love You While I Can",
+                "performer": "The Zombies"
+              },
+              {
+                "time": "23:07",
+                "title": "Front Stoop #2",
+                "performer": "Nicholas Krgovich"
+              },
+              {
+                "time": "23:11",
+                "title": "Glue Song",
+                "performer": "Beabadoobee"
+              },
+              {
+                "time": "23:13",
+                "title": "Any Time Of Day",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "time": "23:16",
+                "title": "Space Intention",
+                "performer": "United Freedom Collective feat. The Social Singing Choir"
+              },
+              {
+                "time": "23:20",
+                "title": "Riverbank",
+                "performer": "Boris Maurussane"
+              },
+              {
+                "time": "23:24",
+                "title": "Say Goodbye",
+                "performer": "Mister Fusty"
+              },
+              {
+                "time": "23:29",
+                "title": "Please Explain",
+                "performer": "Burt F. Bacharach"
+              },
+              {
+                "time": "23:33",
+                "title": "Walking In The Rain",
+                "performer": "Doc Neeson"
+              },
+              {
+                "time": "23:37",
+                "title": "Droplets",
+                "performer": "Parisian Night Suit"
+              },
+              {
+                "time": "23:41",
+                "title": "Like A Rainy Night",
+                "performer": "Daniel Salinas"
+              },
+              {
+                "time": "23:44",
+                "title": "Ring Of Past",
+                "performer": "Men I Trust"
+              },
+              {
+                "time": "23:48",
+                "title": "I forget",
+                "performer": "Monako"
+              },
+              {
+                "time": "23:53",
+                "title": "We Shouldn't But ..",
+                "performer": "ARAI"
+              },
+              {
+                "time": "23:56",
                 "title": "Good Night",
                 "performer": "The Beatles"
               }
