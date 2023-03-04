@@ -9356,6 +9356,7 @@
         {
           "id": "7",
           "date": "2023-02-12",
+          "checked": {"date": "2023-03-04", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Wait For It", "performer": "Salute"},
@@ -9373,7 +9374,7 @@
             ],
             [
               { "time": "23:04", "title": "Veronica Mars", "performer": "Blondshell"},
-              { "title": "Wizards Of E", "performer": "Richie Blacker"},
+              { "title": "Wizards Of E (Extended Mix)", "performer": "Richie Blacker"},
               { "title": "Alter He Go (Fiona Kraft Remix)", "performer": "Gab Rhome"},
               { "title": "Truth Or Dare (LSDXOXO Remix)", "performer": "Kelela"},
               { "title": "Raven", "performer": "Kelela"},
@@ -9412,7 +9413,7 @@
               { "title": "Violet Drive", "performer": "Kerala Dust"},
               { "title": "Everything Went Well", "performer": "Weval"},
               { "title": "Butterfly Net", "performer": "Caroline Polachek"},
-              { "title": "Light Of Day (Parra For Curva Rmx)", "performer": "Odesza"},
+              { "title": "Light Of Day (Parra For Curva Remix)", "performer": "Odesza"},
               { "title": "Merkste Selber", "performer": "Deichkind"},
               { "title": "Retributions Of An Awful Life", "performer": "Heartworms"},
               { "title": "Les Chant De Maldoror (Para One Remix)", "performer": "Leonie Pernet"},
