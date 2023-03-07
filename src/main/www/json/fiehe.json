@@ -9448,6 +9448,55 @@
               { "title": "Home", "performer": "Orbital feat. Anna B Savage"}
             ]
           ]
+        },
+        {
+          "id": "9",
+          "date": "2023-02-26",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Let It All Hang Out", "performer": "ADOR"},
+              { "title": "Sans II", "performer": "D-Track"},
+              { "title": "Alchimie", "performer": "D-Track"},
+              { "title": "Neono", "performer": "Daniele Baldelli & Marco Dionigi"},
+              { "title": "I Know", "performer": "Remmy"},
+              { "title": "The Light Is About To Change", "performer": "The Brian Jonestown Massacre"},
+              { "title": "Ultimate Hammer", "performer": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs"},
+              { "title": "Netzwerksong", "performer": "Acid.Milch & Honig"},
+              { "title": "Find The Time", "performer": "Axel Boy"},
+              { "title": "Treeline", "performer": "Visionobi feat. Mitekiss"},
+              { "title": "Don´t You Run", "performer": "Neve & Crimson feat. Marina Samba"},
+              { "title": "Fucked With My Demons", "performer": "GLU"},
+              { "title": "New Gold", "performer": "Gorillaz feat. Bootie Brown & Tame Impala"},
+              { "title": "Find A Way", "performer": "Franky Wah & Christoph"}
+            ],
+            [
+              { "time": "23:04", "title": "Complete Me", "performer": "Django Django feat. Self Esteem"},
+              { "title": "Fire", "performer": "The Deepshakerz"},
+              { "title": "Out Demons Out", "performer": "Edgar Broughton Band"},
+              { "title": "Paranoia", "performer": "Error"},
+              { "title": "Good Time", "performer": "Alex Lahey"},
+              { "title": "Alibis", "performer": "Shame"},
+              { "title": "Happy Feet", "performer": "Do Nothing"},
+              { "title": "House Of The Rising Sun", "performer": "Laid Back"},
+              { "title": "Domino", "performer": "Der Assistent"},
+              { "title": "Boy", "performer": "Dote"},
+              { "title": "Heya Yaha", "performer": "Maps"}
+            ],
+            [
+              { "time": "00:04", "title": "It´s Fun Time", "performer": "Emmet Read"},
+              { "title": "War On The Bullshit", "performer": "Ashley Beedle"},
+              { "title": "No End Tonight", "performer": "Crystal Glass"},
+              { "title": "Formed A Band", "performer": "Art Brut"},
+              { "title": "My Little Brother", "performer": "Art Brut"},
+              { "title": "A Good Man", "performer": "Algiers"},
+              { "title": "Dirty Rat", "performer": "Orbital feat. Sleaford Mods"},
+              { "title": "This Can´t Be Everything", "performer": "Phantoms"},
+              { "title": "Clone Wars III", "performer": "Logic"},
+              { "title": "Give Me 24", "performer": "Arz"},
+              { "title": "Betwixt And Between", "performer": "Spencer Cullum"},
+              { "title": "Underwater", "performer": "Xul Zolar"}
+            ]
+          ]
         }
       ]
     }
