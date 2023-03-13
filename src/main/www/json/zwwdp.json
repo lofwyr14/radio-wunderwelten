@@ -78076,6 +78076,143 @@
               }
             ]
           ]
+        },
+        {
+          "id": "10",
+          "date": "2023-03-09",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Nobody's Fool",
+                "performer": "Haircut 100"
+              },
+              {
+                "time": "22:08",
+                "title": "Lately It Feels Alright",
+                "performer": "Kid Bloom"
+              },
+              {
+                "time": "22:12",
+                "title": "Let's Dance",
+                "performer": "David Bowie"
+              },
+              {
+                "time": "22:17",
+                "title": "Somebody Tryin' To Hoodoo Me",
+                "performer": "The Nude Party"
+              },
+              {
+                "time": "22:21",
+                "title": "Pirates",
+                "performer": "dEUS"
+              },
+              {
+                "time": "22:30",
+                "title": "Why Why Why Why Why",
+                "performer": "Sault"
+              },
+              {
+                "time": "22:34",
+                "title": "Vi Smälter",
+                "performer": "Dina Ögon"
+              },
+              {
+                "time": "22:39",
+                "title": "Berget",
+                "performer": "Dina Ögon"
+              },
+              {
+                "time": "22:42",
+                "title": "Gold Leaf",
+                "performer": "Bryan John Appleby"
+              },
+              {
+                "time": "22:47",
+                "title": "Sauna",
+                "performer": "Vulfpeck & Vulf"
+              },
+              {
+                "time": "22:52",
+                "title": "Century's End",
+                "performer": "Donald Fagen"
+              },
+              {
+                "time": "22:57",
+                "title": "Mälestus",
+                "performer": "Eesti TV & Raadio Estraadiorkester"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "If I Could Tell You (The Pastels)",
+                "performer": "Gerard Love"
+              }
+            ],
+            [
+              {
+                "time": "23:06",
+                "title": "If I Could Make You Change Your Mind",
+                "performer": "Terry Callier"
+              },
+              {
+                "time": "23:10",
+                "title": "Make A Wish",
+                "performer": "Joey Dosik"
+              },
+              {
+                "time": "23:13",
+                "title": "T. V. Age",
+                "performer": "Joe Jackson"
+              },
+              {
+                "time": "23:20",
+                "title": "Orea",
+                "performer": "Gruff Rhys & Victor Le Masne"
+              },
+              {
+                "time": "23:24",
+                "title": "Free, Free Air",
+                "performer": "Naz Jazz"
+              },
+              {
+                "time": "23:30",
+                "title": "You're As Right As Rain",
+                "performer": "Bob James"
+              },
+              {
+                "time": "23:35",
+                "title": "Flesh Failures - Let The Sunshine In",
+                "performer": "Brian Auger & The Trinity Julie Driscoll"
+              },
+              {
+                "time": "23:38",
+                "title": "Antonio's Song",
+                "performer": "Till Brönner"
+              },
+              {
+                "time": "23:43",
+                "title": "Letter From An Unknown Woman",
+                "performer": "Dumbo Tracks & Marker Starling feat. Roosevelt"
+              },
+              {
+                "time": "23:51",
+                "title": "R.I.P. Roy G. Biv",
+                "performer": "U.S. Girls"
+              },
+              {
+                "time": "23:55",
+                "title": "Il Clan Dei Siciliani",
+                "performer": "Khruangbin"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
