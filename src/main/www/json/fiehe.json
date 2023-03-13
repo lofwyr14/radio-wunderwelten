@@ -9498,6 +9498,53 @@
               { "title": "Underwater", "performer": "Xul Zolar"}
             ]
           ]
+        },
+        {
+          "id": "10",
+          "date": "2023-03-05",
+          "songs": [
+            [
+              { "title": "Stealing The Sunset", "performer": "Palm Skin Productions"},
+              { "title": "Barry And The Mouse", "performer": "Hot Toddy"},
+              { "title": "Designer", "performer": "Major Lazer & Major League Djz feat. Joeboy"},
+              { "title": "This World Couldn´t See Us", "performer": "Nabiha Iqbal"},
+              { "title": "Selfish", "performer": "slowthai"},
+              { "title": "Luno", "performer": "Bloc Party"},
+              { "title": "Secondigliano", "performer": "Karies"},
+              { "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"},
+              { "title": "Plot Twist", "performer": "Murder He Wrote"},
+              { "title": "Angeles", "performer": "Shannon Lay"},
+              { "title": "Cello Song", "performer": "Fontaines D.C."},
+              { "title": "U Already Know", "performer": "Slava"}
+            ],
+            [
+              { "title": "Trickle Up", "performer": "Palm Skin Productions"},
+              { "title": "Butt Meat", "performer": "Howie B"},
+              { "title": "Caos As Law", "performer": "Kong feat. Jan Akkerman"},
+              { "title": "Sunset Heartbreak", "performer": "Lawn Chair"},
+              { "title": "Different Side", "performer": " Michael Bibi & Kinahau feat. Audio Bullys"},
+              { "title": "All Of Me", "performer": "Carly Wilford & Mary Leay"},
+              { "title": "Pull (Darkhouse Family Rmx)", "performer": "Dolenz feat. Guilty Simpson"},
+              { "title": "Grime", "performer": "Macklemore"},
+              { "title": "Dat Way (Remix)", "performer": "Krept & Conan feat. French Montana, BackRoad Gee, K-Trap, Beenie Man, Pa Salieu"},
+              { "title": "I´m On Your Side", "performer": "Constant Smiles"},
+              { "title": "Feeling Sick", "performer": "Florence Besch"},
+              { "title": "To Tell How I Adore You ", "performer": "Genevieve Artadi"}
+            ],
+            [
+              { "title": "Back To Detroit", "performer": "Palm Skin Productions"},
+              { "title": "Trust", "performer": "Sabrina Bellaouel"},
+              { "title": "Moral Conscious", "performer": "Kali Uchis"},
+              { "title": "Majesty", "performer": "Noayama feat. Coppe"},
+              { "title": "Microman", "performer": "Florence Besch"},
+              { "title": "Wotz Funny", "performer": "slowthai"},
+              { "title": "Witchy (Glok Remix)", "performer": "Maps"},
+              { "title": "The Growl", "performer": "Crystaline Reality/Glenn Astro"},
+              { "title": "I´m A Whale", "performer": " Neve & San Hell Sing"},
+              { "title": "Hackney Leech ", "performer": "Dolenz"},
+              { "title": "Kiddies Im Block", "performer": "Feine Sahne Fischfilet"}
+            ]
+          ]
         }
       ]
     }
