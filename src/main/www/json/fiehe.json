@@ -9467,11 +9467,11 @@
               { "title": "Treeline", "performer": "Visionobi feat. Mitekiss"},
               { "title": "Don´t You Run", "performer": "Neve & Crimson feat. Marina Samba"},
               { "title": "Fucked With My Demons", "performer": "GLU"},
-              { "title": "New Gold", "performer": "Gorillaz feat. Bootie Brown & Tame Impala"},
-              { "title": "Find A Way", "performer": "Franky Wah & Christoph"}
+              { "title": "New Gold", "performer": "Gorillaz feat. Bootie Brown & Tame Impala"}
             ],
             [
-              { "time": "23:04", "title": "Complete Me", "performer": "Django Django feat. Self Esteem"},
+              { "time": "23:04", "title": "Find A Way", "performer": "Franky Wah & Christoph"},
+              { "title": "Complete Me", "performer": "Django Django feat. Self Esteem"},
               { "title": "Fire", "performer": "The Deepshakerz"},
               { "title": "Out Demons Out", "performer": "Edgar Broughton Band"},
               { "title": "Paranoia", "performer": "Error"},
@@ -9504,7 +9504,7 @@
           "date": "2023-03-05",
           "songs": [
             [
-              { "title": "Stealing The Sunset", "performer": "Palm Skin Productions"},
+              { "time": "22:04", "title": "Stealing The Sunset", "performer": "Palm Skin Productions"},
               { "title": "Barry And The Mouse", "performer": "Hot Toddy"},
               { "title": "Designer", "performer": "Major Lazer & Major League Djz feat. Joeboy"},
               { "title": "This World Couldn´t See Us", "performer": "Nabiha Iqbal"},
@@ -9518,7 +9518,7 @@
               { "title": "U Already Know", "performer": "Slava"}
             ],
             [
-              { "title": "Trickle Up", "performer": "Palm Skin Productions"},
+              { "time": "23:04", "title": "Trickle Up", "performer": "Palm Skin Productions"},
               { "title": "Butt Meat", "performer": "Howie B"},
               { "title": "Caos As Law", "performer": "Kong feat. Jan Akkerman"},
               { "title": "Sunset Heartbreak", "performer": "Lawn Chair"},
@@ -9532,7 +9532,7 @@
               { "title": "To Tell How I Adore You ", "performer": "Genevieve Artadi"}
             ],
             [
-              { "title": "Back To Detroit", "performer": "Palm Skin Productions"},
+              { "time": "00:04", "title": "Back To Detroit", "performer": "Palm Skin Productions"},
               { "title": "Trust", "performer": "Sabrina Bellaouel"},
               { "title": "Moral Conscious", "performer": "Kali Uchis"},
               { "title": "Majesty", "performer": "Noayama feat. Coppe"},
@@ -9543,6 +9543,52 @@
               { "title": "I´m A Whale", "performer": " Neve & San Hell Sing"},
               { "title": "Hackney Leech ", "performer": "Dolenz"},
               { "title": "Kiddies Im Block", "performer": "Feine Sahne Fischfilet"}
+            ]
+          ]
+        },
+        {
+          "id": "11",
+          "date": "2023-03-12",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Motherless Child", "performer": "Yorobi"},
+              { "title": "Upside Down", "performer": "Kanobie feat. TomInTheChamber"},
+              { "title": "Sunrise Bang Ur Head Against Tha Wall", "performer": "Nia Archives"},
+              { "title": "Voices", "performer": "Damiens Ghost"},
+              { "title": "Over You (Club Mix)", "performer": "Lili Chan"},
+              { "title": "Tory Kong", "performer": "Sleaford Mods"},
+              { "title": "Meine Lederjeans (London Paranoid Remix)", "performer": "Josh Caffe & Al White"},
+              { "title": "Thunder", "performer": "Bruise"},
+              { "title": "Mother Tongue", "performer": "Silver Moth"},
+              { "title": "Don´t Say You Love Me", "performer": "Free"},
+              { "title": "Mystic Mine", "performer": "Shana Cleveland"}
+            ],
+            [
+              { "time": "23:04", "title": "On The Ground", "performer": "Sleaford Mods"},
+              { "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"},
+              { "title": "Mercy", "performer": "Novelist"},
+              { "title": "Maybe I", "performer": "My Nu Leng & testpress feat. Ormella"},
+              { "title": "The Grip", "performer": "Damefrisör"},
+              { "title": "Self Portraiture", "performer": "Nuha Ruby Ra"},
+              { "title": "The Shed", "performer": "Pip Blom"},
+              { "title": "Dan No Ura – Part 1", "performer": "PoiL Ueda"},
+              { "title": "Krinolina", "performer": "Koi Koi"},
+              { "title": "Espace, ether", "performer": "Luster"},
+              { "title": "Your Signs", "performer": "The Notwist"}
+            ],
+            [
+              { "time": "00:04", "title": "E.M.Z.", "performer": "Melati SP"},
+              { "title": "Nadja", "performer": "Unknown Mortal Orchestra"},
+              { "title": "Crepuscule", "performer": "Luster"},
+              { "title": "Fale Dlugie/Longwaves", "performer": "Siksa"},
+              { "title": "Hot Gil Shit", "performer": "Mariybu"},
+              { "title": "Futuristic Archetypes", "performer": "Wave Particle Singularity"},
+              { "title": "Alles ist Vergangenheit", "performer": "Yukno"},
+              { "title": "No More", "performer": "Steve Mason feat. Javed Bashir"},
+              { "title": "The Silence", "performer": "Echo Beatty"},
+              { "title": "End Belief", "performer": "Dutch Uncles"},
+              { "title": "Preset", "performer": "Lichen Slow"},
+              { "title": "C´est La Vie", "performer": "Yobrudi"}
             ]
           ]
         }
