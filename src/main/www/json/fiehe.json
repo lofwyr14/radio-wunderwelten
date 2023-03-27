@@ -9485,7 +9485,7 @@
             ],
             [
               { "time": "00:04", "title": "It´s Fun Time", "performer": "Emmet Read"},
-              { "title": "War On The Bullshit", "performer": "Ashley Beedle"},
+              { "title": "War On The Bullshit (Revive)", "performer": "Ashley Beedle"},
               { "title": "No End Tonight", "performer": "Crystal Glass"},
               { "title": "Formed A Band", "performer": "Art Brut"},
               { "title": "My Little Brother", "performer": "Art Brut"},
@@ -9589,6 +9589,51 @@
               { "title": "End Belief", "performer": "Dutch Uncles"},
               { "title": "Preset", "performer": "Lichen Slow"},
               { "title": "C´est La Vie", "performer": "Yobrudi"}
+            ]
+          ]
+        },
+        {
+          "id": "12",
+          "date": "2023-03-19",
+          "songs": [
+            [
+              { "time": "22:04", "title": "The Prisoner (Eight By Ten)", "performer": "Spring"},
+              { "title": "I Know", "performer": "Genevieve Artadi"},
+              { "title": "C&L At The Sea", "performer": "Doc Sleep"},
+              { "title": "High Places", "performer": "Damiens Ghost"},
+              { "title": "1005 Degree Metal", "performer": "Quinnbond"},
+              { "title": "Calling Out", "performer": "Overmono"},
+              { "title": "Oceans Niagara", "performer": "M83"},
+              { "title": "Brick Break", "performer": "AUA"},
+              { "title": "Structural Index (The KVB Remix)", "performer": "The KVB"},
+              { "title": "Don´t Fade Away", "performer": "Beach Fossils"},
+              { "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"}
+            ],
+            [
+              { "time": "23:04", "title": "Ex´s (Phatnall Remix)", "performer": "GloRilla & Lil Durk"},
+              { "title": "Stefan Richter", "performer": "Trettmann, KitschKrieg, Herbert Grönemeyer & SFR"},
+              { "title": "BC", "performer": "Alfa Mist"},
+              { "title": "Shin Ramyun", "performer": "UnknownMortal Orchestra"},
+              { "title": "Homecomings", "performer": "Philip Catherine"},
+              { "title": "Plate", "performer": "Genevieve Artadi"},
+              { "title": "Believe Her", "performer": "Robbing Millions"},
+              { "title": "Dig A Ditch (Compact Disk Dummies Remix)", "performer": "Robbing Millions"},
+              { "title": "Song For Insane Times", "performer": "Hans Nieswandt Flower Hans feat. Kenji Kitahama"},
+              { "title": "Golf Girl", "performer": "Caravan"},
+              { "title": "I´m A Part Of The Wonder", "performer": "Lonnie Holley feat. Moor Mother"},
+              { "title": "My Tornado", "performer": "The Black Angels"}
+            ],
+            [
+              { "time": "00:04", "title": "Red Net", "performer": "Chewlie"},
+              { "title": "The Eternal", "performer": "Silver Moth"},
+              { "title": "Wie der Wind am Ende einer Strasse", "performer": "Amon Düül II"},
+              { "title": "An der Strasse gegenüber", "performer": "Kalipo"},
+              { "title": "The Calling", "performer": "Rave Child"},
+              { "title": "U Already Know", "performer": "Slava"},
+              { "title": "Sleepy Ant Song", "performer": "Florence Besch"},
+              { "title": "Set The Love Free", "performer": "Crystal Glas"},
+              { "title": "Precious", "performer": "LIV ALMA"},
+              { "title": "Nadja", "performer": "Unknown Mortal Orchestra"}
             ]
           ]
         }
