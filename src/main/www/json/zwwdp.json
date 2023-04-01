@@ -78366,6 +78366,10 @@
         {
           "id": "12",
           "date": "2023-03-23",
+          "checked": {
+            "date": "2023-04-01",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -78406,7 +78410,7 @@
               {
                 "time": "22:29",
                 "title": "CoolCool (Radio Edit)",
-                "performer": "Murphy Roisin"
+                "performer": "Roisin Murphy"
               },
               {
                 "time": "22:32",
@@ -78488,12 +78492,12 @@
               {
                 "time": "23:37",
                 "title": "Painted From Memory",
-                "performer": "Wilson, Cassandra, Frisell, Bill"
+                "performer": "Cassandra Wilson"
               },
               {
                 "time": "23:42",
                 "title": "Can We Still Be Friends",
-                "performer": "Sandy McLelland and The Backline"
+                "performer": "Sandy McLelland And The Backline"
               },
               {
                 "time": "23:45",
@@ -78507,7 +78511,7 @@
               },
               {
                 "time": "23:55",
-                "title": "Une Famille Ã La Con",
+                "title": "Une Famille à la Con",
                 "performer": "Romano Bianchi"
               },
               {
