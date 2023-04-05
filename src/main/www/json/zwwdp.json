@@ -78525,12 +78525,16 @@
         {
           "id": "13",
           "date": "2023-03-30",
+          "checked": {
+            "date": "2023-04-05",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
                 "title": "Second Sight",
-                "performer": "Seligman, Matthew, Rhodes, David, Palmer, Phil, Ditcham, Martin"
+                "performer": "The Dolphin Brothers"
               },
               {
                 "time": "22:08",
@@ -78588,6 +78592,11 @@
                 "performer": "theCatherines"
               },
               {
+                "time": "22:54",
+                "title": "Zehn Minuten",
+                "performer": "Frank Schmiechen"
+              },
+              {
                 "time": "22:59",
                 "title": "Rosemary Hemphill",
                 "performer": "Surprise Chef"
@@ -78597,7 +78606,7 @@
               {
                 "time": "23:04",
                 "title": "My Little Buddha",
-                "performer": "Corma Ó Caoimh"
+                "performer": "Corma O Caoimh"
               },
               {
                 "time": "23:07",
@@ -78626,7 +78635,7 @@
               },
               {
                 "time": "23:32",
-                "title": "NÃ£o Lhe Quero Mais",
+                "title": "Nao Lhe Quero Mais",
                 "performer": "Toni Tornado"
               },
               {
@@ -78658,6 +78667,11 @@
                 "time": "23:51",
                 "title": "Always",
                 "performer": "Chelsea Days"
+              },
+              {
+                "time": "23:54",
+                "title": "Colleen",
+                "performer": "Horsebath"
               },
               {
                 "time": "23:59",
