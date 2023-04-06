@@ -9515,7 +9515,7 @@
               { "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"},
               { "title": "Plot Twist", "performer": "Murder He Wrote"},
               { "title": "Angeles", "performer": "Shannon Lay"},
-              { "title": "Cello Song", "performer": "Fontaines D.C."},
+              { "title": "´Cello Song", "performer": "Fontaines D.C."},
               { "title": "U Already Know", "performer": "Slava"}
             ],
             [
@@ -9523,14 +9523,14 @@
               { "title": "Butt Meat", "performer": "Howie B"},
               { "title": "Caos As Law", "performer": "Kong feat. Jan Akkerman"},
               { "title": "Sunset Heartbreak", "performer": "Lawn Chair"},
-              { "title": "Different Side", "performer": " Michael Bibi & Kinahau feat. Audio Bullys"},
+              { "title": "Different Side (Original Mix)", "performer": "Michael Bibi & Kinahau feat. Audio Bullys"},
               { "title": "All Of Me", "performer": "Carly Wilford & Mary Leay"},
               { "title": "Pull (Darkhouse Family Rmx)", "performer": "Dolenz feat. Guilty Simpson"},
               { "title": "Grime", "performer": "Macklemore"},
               { "title": "Dat Way (Remix)", "performer": "Krept & Conan feat. French Montana, BackRoad Gee, K-Trap, Beenie Man, Pa Salieu"},
               { "title": "I´m On Your Side", "performer": "Constant Smiles"},
               { "title": "Feeling Sick", "performer": "Florence Besch"},
-              { "title": "To Tell How I Adore You ", "performer": "Genevieve Artadi"}
+              { "title": "To Tell How I Adore You", "performer": "Genevieve Artadi"}
             ],
             [
               { "time": "00:04", "title": "Back To Detroit", "performer": "Palm Skin Productions"},
@@ -9542,7 +9542,7 @@
               { "title": "Witchy (Glok Remix)", "performer": "Maps"},
               { "title": "The Growl", "performer": "Crystaline Reality/Glenn Astro"},
               { "title": "I´m A Whale", "performer": " Neve & San Hell Sing"},
-              { "title": "Hackney Leech ", "performer": "Dolenz"},
+              { "title": "Hackney Leech", "performer": "Dolenz"},
               { "title": "Kiddies Im Block", "performer": "Feine Sahne Fischfilet"}
             ]
           ]
@@ -9635,6 +9635,54 @@
               { "title": "Set The Love Free", "performer": "Crystal Glas"},
               { "title": "Precious", "performer": "LIV ALMA"},
               { "title": "Nadja", "performer": "Unknown Mortal Orchestra"}
+            ]
+          ]
+        },
+        {
+          "id": "13",
+          "date": "2023-03-26",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Ghosts Again", "performer": "Depeche Mode"},
+              { "title": "No End Tonight", "performer": "Crystal Glass"},
+              { "title": "Since I Have A Lover", "performer": "6LACK"},
+              { "title": "Suitcase", "performer": "Peaking Lights"},
+              { "title": "New Best Friend", "performer": "Gilligan Moss"},
+              { "title": "I´m The Man, That Will Find You", "performer": "Connan Mockasin"},
+              { "title": "Lie To Me", "performer": "No Guidnce"},
+              { "title": "Last One", "performer": "Bakey"},
+              { "title": "O.B.F.C", "performer": "Ell Murphy & Chavinski"},
+              { "title": "Coasting", "performer": "Aching Drum"},
+              { "title": "Su Siziyor", "performer": "Altin Gün"},
+              { "title": "Lost My House In France  (N.Yama Type Beat)", "performer": "Noayama"}
+            ],
+            [
+              { "time": "23:04", "title": "Tory Kong", "performer": "Sleaford Mods"},
+              { "title": "Dial Up", "performer": "Strapontin & Zillas On Acid"},
+              { "title": "Reinforced", "performer": "Quinnbond"},
+              { "title": "Stop The Violence", "performer": "Boogie Down Productions"},
+              { "title": "Ich liebe das Leben (short)", "performer": "Vicky Leandros"},
+              { "title": "Bella Napoli (Luis Ake´s Diego Trancedona Remix)", "performer": "Roy Bianco & Die Abbrunzati Boys"},
+              { "title": "Saints & Sinners", "performer": "Christoph"},
+              { "title": "Amsterdam Rave", "performer": "Chelina Manuhutu"},
+              { "title": "The Future", "performer": "Crystal Glass"},
+              { "title": "6 In The Morning", "performer": "Nuha Ruby Ra"},
+              { "title": "It Isn´t Meant To Be", "performer": "Tame Impala"},
+              { "title": "Majesty", "performer": "Noayama feat. Coppe"}
+            ],
+            [
+              { "time": "00:04", "title": "Orange Juice Jones", "performer": "JPEGMAFIA & Danny Brown"},
+              { "title": "Visionary", "performer": "Genevieve Artadi"},
+              { "title": "Meteora Blues", "performer": "Yves Tumor"},
+              { "title": "Mercury´s Rising", "performer": "Death And Vanilla"},
+              { "title": "Before We Drown", "performer": "Depech Mode"},
+              { "title": "Night", "performer": "Xul Zolar"},
+              { "title": "I´ve Learnt That", "performer": "Dino Lenny"},
+              { "title": "A Trip In Hulme", "performer": "A Certain Ratio"},
+              { "title": "Color Bars", "performer": "Elliott Smith"},
+              { "title": "Judah Smith Interlude", "performer": "Lana Del Rey"},
+              { "title": "Clouds", "performer": "Last Magpie"},
+              { "title": "Cave", "performer": "LIV ALMA"}
             ]
           ]
         }
