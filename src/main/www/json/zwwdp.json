@@ -78684,6 +78684,10 @@
         {
           "id": "14",
           "date": "2023-04-06",
+          "checked": {
+            "date": "2023-04-15",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -78790,7 +78794,7 @@
               },
               {
                 "time": "23:38",
-                "title": "Magnificent Advertisement ( Achtung Schluss - Reißt Ab )",
+                "title": "Magnificent Advertisement",
                 "performer": "Novelty Island"
               },
               {
@@ -78802,6 +78806,11 @@
                 "time": "23:45",
                 "title": "Monte Carlo Is A State Of Mind",
                 "performer": "The Hepburns"
+              },
+              {
+                "time": "23:48",
+                "title": "Dorm At The Edge",
+                "performer": "Roland Wolff"
               },
               {
                 "time": "23:55",
@@ -78829,7 +78838,7 @@
               {
                 "time": "22:07",
                 "title": "Nobody Cares, Try Again",
-                "performer": "Dungeon of Skeletons"
+                "performer": "Dungeon Of Skeletons"
               },
               {
                 "time": "22:12",
