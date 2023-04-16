@@ -9503,6 +9503,7 @@
         {
           "id": "10",
           "date": "2023-03-05",
+          "checked": {"date": "2023-04-16", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Stealing The Sunset", "performer": "Palm Skin Productions"},
@@ -9524,8 +9525,8 @@
               { "title": "Caos As Law", "performer": "Kong feat. Jan Akkerman"},
               { "title": "Sunset Heartbreak", "performer": "Lawn Chair"},
               { "title": "Different Side (Original Mix)", "performer": "Michael Bibi & Kinahau feat. Audio Bullys"},
-              { "title": "All Of Me", "performer": "Carly Wilford & Mary Leay"},
-              { "title": "Pull (Darkhouse Family Rmx)", "performer": "Dolenz feat. Guilty Simpson"},
+              { "title": "All Of Me (Extended Mix)", "performer": "Carly Wilford & Mary Leay"},
+              { "title": "Pull (Darkhouse Family Remix)", "performer": "Dolenz feat. Guilty Simpson"},
               { "title": "Grime", "performer": "Macklemore"},
               { "title": "Dat Way (Remix)", "performer": "Krept & Conan feat. French Montana, BackRoad Gee, K-Trap, Beenie Man, Pa Salieu"},
               { "title": "I´m On Your Side", "performer": "Constant Smiles"},
@@ -9540,10 +9541,10 @@
               { "title": "Microman", "performer": "Florence Besch"},
               { "title": "Wotz Funny", "performer": "slowthai"},
               { "title": "Witchy (Glok Remix)", "performer": "Maps"},
-              { "title": "The Growl", "performer": "Crystaline Reality/Glenn Astro"},
+              { "title": "The Growl (Crystaline Mix)", "performer": "Crystaline Reality / Glenn Astro"},
               { "title": "I´m A Whale", "performer": " Neve & San Hell Sing"},
               { "title": "Hackney Leech", "performer": "Dolenz"},
-              { "title": "Kiddies Im Block", "performer": "Feine Sahne Fischfilet"}
+              { "title": "Kiddies im Block", "performer": "Feine Sahne Fischfilet"}
             ]
           ]
         },
