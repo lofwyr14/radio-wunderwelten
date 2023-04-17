@@ -9542,7 +9542,7 @@
               { "title": "Wotz Funny", "performer": "slowthai"},
               { "title": "Witchy (Glok Remix)", "performer": "Maps"},
               { "title": "The Growl (Crystaline Mix)", "performer": "Crystaline Reality / Glenn Astro"},
-              { "title": "I´m A Whale", "performer": " Neve & San Hell Sing"},
+              { "title": "I´m A Whale", "performer": "Neve & San Hell Sing"},
               { "title": "Hackney Leech", "performer": "Dolenz"},
               { "title": "Kiddies im Block", "performer": "Feine Sahne Fischfilet"}
             ]
@@ -9574,14 +9574,14 @@
               { "title": "Self Portraiture", "performer": "Nuha Ruby Ra"},
               { "title": "The Shed", "performer": "Pip Blom"},
               { "title": "Dan No Ura – Part 1", "performer": "PoiL Ueda"},
-              { "title": "Krinolina", "performer": "Koi Koi"},
-              { "title": "Espace, ether", "performer": "Luster"},
+              { "title": "Krinolina", "performer": "Koikoi"},
+              { "title": "Espace, éther", "performer": "Luster"},
               { "title": "Your Signs", "performer": "The Notwist"}
             ],
             [
               { "time": "00:04", "title": "E.M.Z.", "performer": "Melati SP"},
               { "title": "Nadja", "performer": "Unknown Mortal Orchestra"},
-              { "title": "Crepuscule", "performer": "Luster"},
+              { "title": "Crépuscule", "performer": "Luster"},
               { "title": "Fale Dlugie/Longwaves", "performer": "Siksa"},
               { "title": "Hot Gil Shit", "performer": "Mariybu"},
               { "title": "Futuristic Archetypes", "performer": "Wave Particle Singularity"},
@@ -9734,6 +9734,53 @@
               { "title": "Found", "performer": "BTK"},
               { "title": "Cool About It", "performer": "Boygenius"},
               { "title": "Take", "performer": "Westerman"}
+            ]
+          ]
+        },
+        {
+          "id": "15",
+          "date": "2023-04-09",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Missing Heart", "performer": "Xylouris White"},
+              { "title": "Map Of Japan", "performer": "Fenne Lily"},
+              { "title": "The Look Of A Memory", "performer": "Michael Hamilton"},
+              { "title": "Black Shirts", "performer": "Genevieve Artadi"},
+              { "title": "Most Alive", "performer": "t l k"},
+              { "title": "Sacrifice", "performer": "The Steve Miller Band"},
+              { "title": "Slouching Toward Bethlehem", "performer": "Devon Church"},
+              { "title": "Allein, Allein", "performer": "Innerverse & Helsloot feat. Malou"},
+              { "title": "Father", "performer": "Will Clarke"},
+              { "title": "Almost Everything", "performer": "Mudhoney"},
+              { "title": "Berlin ist keine Stadt", "performer": "Betterov"}
+            ],
+            [
+              { "time": "23:04", "title": "Junior´s Wailing", "performer": "Steamhammer"},
+              { "title": "I Used To Be Lost But Now I´m Just Gone", "performer": "Les Big Byrd"},
+              { "title": "Last And Beautiful", "performer": "The New Pornographers"},
+              { "title": "Sunflower", "performer": "Nabihah Iqbal"},
+              { "title": "For Granted", "performer": "Yaeji"},
+              { "title": "Break It Off", "performer": "Pimk Pantheress"},
+              { "title": "Just One Second (Apex Remix)", "performer": "London Elektricity"},
+              { "title": "Spaced Out", "performer": "Winslow"},
+              { "title": "Saviour", "performer": "P Money & Whiney feat. Y-Zer"},
+              { "title": "Swim Back", "performer": "Daughter"},
+              { "title": "So It Goes", "performer": "Chez De Milo"},
+              { "title": "All I Need (Alex Arnout Remix)", "performer": "Steve `Silk´Hurley feat. Sara Garvey"},
+              { "title": "Pushemen", "performer": "Iguana Death Cult"}
+            ],
+            [
+              { "time": "00:04", "title": "Sober Together", "performer": "Blondshell"},
+              { "title": "Veronica Mars", "performer": "Blondshell"},
+              { "title": "Down", "performer": "Viji"},
+              { "title": "Party", "performer": "Daughter"},
+              { "title": "Hyph Mngo", "performer": "Joy Orbison"},
+              { "title": "Fresh Ownder", "performer": "Tenh"},
+              { "title": "Love To Do It (Mella Dee´s Law & Disorder Mix)", "performer": "Joshua James"},
+              { "title": "Static Apparitions", "performer": "Michael Hamilton"},
+              { "title": "KIsmeti", "performer": "Caixa Cubo"},
+              { "title": "Water Temple", "performer": "JVXTA"},
+              { "title": "Talking Orange", "performer": "Jin Jim"}
             ]
           ]
         }
