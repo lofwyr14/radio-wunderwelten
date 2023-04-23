@@ -9598,6 +9598,7 @@
         {
           "id": "12",
           "date": "2023-03-19",
+          "checked": {"date": "2023-04-23", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "The Prisoner (Eight By Ten)", "performer": "Spring"},
@@ -9608,9 +9609,9 @@
               { "title": "Calling Out", "performer": "Overmono"},
               { "title": "Oceans Niagara", "performer": "M83"},
               { "title": "Brick Break", "performer": "AUA"},
-              { "title": "Structural Index (The KVB Remix)", "performer": "The KVB"},
+              { "title": "Structural Index (The KVB After-Hours Version)", "performer": "The KVB"},
               { "title": "Don´t Fade Away", "performer": "Beach Fossils"},
-              { "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"}
+              { "title": "Circle Of Light (Long Version)", "performer": "Because Of Art feat. Antony Szmierek"}
             ],
             [
               { "time": "23:04", "title": "Ex´s (Phatnall Remix)", "performer": "GloRilla & Lil Durk"},
