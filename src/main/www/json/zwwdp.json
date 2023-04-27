@@ -78828,6 +78828,10 @@
         {
           "id": "15",
           "date": "2023-04-13",
+          "checked": {
+            "date": "2023-04-27",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -78868,7 +78872,7 @@
               {
                 "time": "22:30",
                 "title": "Omo",
-                "performer": "Luchii Channo"
+                "performer": "Channo & Luchii"
               },
               {
                 "time": "22:34",
@@ -78887,7 +78891,7 @@
               },
               {
                 "time": "22:46",
-                "title": "European Female",
+                "title": "European Female (Radio Edit)",
                 "performer": "The Stranglers"
               },
               {
@@ -78956,6 +78960,11 @@
                 "time": "23:44",
                 "title": "Rocket Man",
                 "performer": "William Shatner"
+              },
+              {
+                "time": "23:49",
+                "title": "Moon Bird",
+                "performer": "The Roger Webb Sound"
               },
               {
                 "time": "23:52",
