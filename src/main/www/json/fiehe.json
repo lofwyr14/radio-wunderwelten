@@ -9832,6 +9832,51 @@
               { "title": "Pressure", "performer": "Gag Reflex"}
             ]
           ]
+        },
+        {
+          "id": "17",
+          "date": "2023-04-23",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Sunflower", "performer": "Nabihah Iqbal"},
+              { "title": "E.M.Z.", "performer": "Melati ESP"},
+              { "title": "Noticed", "performer": "Adam Curtain"},
+              { "title": "Thief In The Night (Al Wootton Remix)", "performer": "DJ Q & Hans Glader"},
+              { "title": "Dragonfly", "performer": "Martyn & Om Unit"},
+              { "title": "Upper Harbour Highway", "performer": "Sci-Clone"},
+              { "title": "Everywhere I Go", "performer": "Sci-Clone"},
+              { "title": "Pressure", "performer": "Gag Reflex"},
+              { "title": "Without You", "performer": "DJ Planet Express"},
+              { "title": "BC", "performer": "Alfa Mist"}
+            ],
+            [
+              { "time": "23:04", "title": "3PIANOS", "performer": "Damiano von Erckert"},
+              { "title": "Gateway", "performer": "Trevino"},
+              { "title": "Abend", "performer": "Lyschko"},
+              { "title": "Verhaftet", "performer": "Elena Rud"},
+              { "title": "Burn Me Out", "performer": "Baba Ali"},
+              { "title": "Eins Null Eins Eins Null", "performer": "Fred Und Luna"},
+              { "title": "Together (2011 Mix)", "performer": "Maceo PLex"},
+              { "title": "Karaoke", "performer": "Everything But The Girl"},
+              { "title": "Mad Truth", "performer": "The Pop Group"},
+              { "title": "Class War", "performer": "Autobahn"}
+            ],
+            [
+              { "time": "00:04", "title": "Call It Home", "performer": "Teplice"},
+              { "title": "Again And Again", "performer": "Michael Hamilton"},
+              { "title": "Feathers & Bones", "performer": "Rodriguez Jr."},
+              { "title": "Pardon My French", "performer": "Isolee"},
+              { "title": "Uff, nein", "performer": "Eli Preiss, Donna Savage & prod. Suki"},
+              { "title": "Phasen", "performer": " Eli Preiss & Tschickgott"},
+              { "title": "Mercy", "performer": "Novelist"},
+              { "title": "Get Busy With It", "performer": "Conducta feat. Novelist"},
+              { "title": "White Rabbit (Kaz James & Nick Morgan Remix)", "performer": "Jefferson Airplane"},
+              { "title": "Descending To Nowhere", "performer": "Rodrigo Y Gabriela"},
+              { "title": "Apho", "performer": "Alfa Mist feat. Bongeziwe Mabandla"},
+              { "title": "Bended Light", "performer": "Rahill"},
+              { "title": "Groove Me", "performer": "Mistical"}
+            ]
+          ]
         }
       ]
     }
