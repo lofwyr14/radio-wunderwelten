@@ -78982,6 +78982,10 @@
         {
           "id": "16",
           "date": "2023-04-20",
+          "checked": {
+            "date": "2023-05-02",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -78991,7 +78995,7 @@
               },
               {
                 "time": "22:08",
-                "title": "This Is Not America (\"The Falcon And The Snowman\")",
+                "title": "This Is Not America",
                 "performer": "Juliette Lewis"
               },
               {
@@ -79103,7 +79107,7 @@
               },
               {
                 "time": "23:36",
-                "title": "While You Were Sleeping (Ft. Raveena)",
+                "title": "While You Were Sleeping",
                 "performer": "Annahstasia"
               },
               {
@@ -79113,7 +79117,7 @@
               },
               {
                 "time": "23:45",
-                "title": "Sittin´ In The Dark - Live",
+                "title": "Sittin´ In The Dark (Live)",
                 "performer": "Carolyne Mas"
               },
               {
@@ -79278,6 +79282,146 @@
               },
               {
                 "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "18",
+          "date": "2023-05-04",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Turn The Car Around",
+                "performer": "Gaz Coombes"
+              },
+              {
+                "time": "22:08",
+                "title": "The Good Life",
+                "performer": "The Week That Was"
+              },
+              {
+                "time": "22:11",
+                "title": "Let Someone In",
+                "performer": "Dylan Mondegreen & BÃ¸rge Sildnes"
+              },
+              {
+                "time": "22:15",
+                "title": "In My Head",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "time": "22:19",
+                "title": "Council Skies",
+                "performer": "Noel Gallagher's High Flying Birds"
+              },
+              {
+                "time": "22:23",
+                "title": "The Lowering",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "time": "22:27",
+                "title": "Bremen Is My Name",
+                "performer": "The Temple Cloud Country Club"
+              },
+              {
+                "time": "22:34",
+                "title": "Niemand liebt dich",
+                "performer": "Michel Van Dyke"
+              },
+              {
+                "time": "22:37",
+                "title": "Can You Understand",
+                "performer": "Renaissance"
+              },
+              {
+                "time": "22:47",
+                "title": "Mesmerise",
+                "performer": "Chapterhouse"
+              },
+              {
+                "time": "22:51",
+                "title": "Misery",
+                "performer": "Andrew Connor"
+              },
+              {
+                "time": "22:56",
+                "title": "Theme From \"The Warriors\"",
+                "performer": "Barry DeVorzon"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "Every Bomb You Make",
+                "performer": "The Police"
+              },
+              {
+                "time": "23:08",
+                "title": "Pretty",
+                "performer": "Puma Blue"
+              },
+              {
+                "time": "23:11",
+                "title": "So You Can See Me",
+                "performer": "Gabriel da Rosa"
+              },
+              {
+                "time": "23:14",
+                "title": "Go To Bed",
+                "performer": "Mottron"
+              },
+              {
+                "time": "23:18",
+                "title": "Tatsächlich nur ein Lied",
+                "performer": "Herr Wade"
+              },
+              {
+                "time": "23:22",
+                "title": "Sweetest Smile",
+                "performer": "Black"
+              },
+              {
+                "time": "23:27",
+                "title": "Fading Away",
+                "performer": "Pebbl"
+              },
+              {
+                "time": "23:34",
+                "title": "20180512",
+                "performer": "Mac DeMarco"
+              },
+              {
+                "time": "23:38",
+                "title": "When You Mess Up",
+                "performer": "Everything But the Girl"
+              },
+              {
+                "time": "23:42",
+                "title": "Frankie's Song",
+                "performer": "Annita Ray & The Nature Boys"
+              },
+              {
+                "time": "23:44",
+                "title": "Heathen Nights",
+                "performer": "RF Shannon"
+              },
+              {
+                "time": "23:51",
+                "title": "Angels In Science Fiction",
+                "performer": "St. Paul & The Broken Bones"
+              },
+              {
+                "time": "23:54",
+                "title": "The Worst That Could Happen",
+                "performer": "The 5th Dimension"
+              },
+              {
+                "time": "23:56",
                 "title": "Good Night",
                 "performer": "The Beatles"
               }
