@@ -79131,6 +79131,10 @@
         {
           "id": "17",
           "date": "2023-04-27",
+          "checked": {
+            "date": "2023-05-14",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -79243,7 +79247,7 @@
               {
                 "time": "23:23",
                 "title": "Out In The Dust",
-                "performer": "3 A. M. Again"
+                "performer": "3 A.M. Again"
               },
               {
                 "time": "23:28",
