@@ -9877,6 +9877,52 @@
               { "title": "Groove Me", "performer": "Mistical"}
             ]
           ]
+        },
+        {
+          "id": "18",
+          "date": "2023-04-30",
+          "songs": [
+            [
+              { "time": "22:04", "title": "You Suck", "performer": "Consolidated feat. The Yeastiegirls"},
+              { "title": "Over You", "performer": "Lili Chan"},
+              { "title": "Up The Sound", "performer": "The Allergies"},
+              { "title": "Ska Train", "performer": "The Beatmasters"},
+              { "title": "Monde Interieur (Shed Remix)", "performer": "Toh Imago"},
+              { "title": "Love Will Tear Us Apart", "performer": "Joy Division"},
+              { "title": "This World Couldn´t See Us", "performer": "Nabihah Iqbal"},
+              { "title": "I Want You", "performer": "Jonathan Baker & TGM"},
+              { "title": "The Spectacle", "performer": "I Like Trains"},
+              { "title": "Amoeba", "performer": "Do Nothing"},
+              { "title": "Begin Againb", "performer": "Jessie Ware"}
+            ],
+            [
+              { "time": "23:04", "title": "Here", "performer": "DJ Planet Express"},
+              { "title": "The Earth Below", "performer": "Hobzee"},
+              { "title": "Something Always Happens (Doc Scott Remix)", "performer": "Art Of Noise"},
+              { "title": "The Water", "performer": "Indigo De Souza"},
+              { "title": "When The Train Comes Back", "performer": "Chicken Shack"},
+              { "title": "Planeten", "performer": "Paula Paula"},
+              { "title": "Dirty Old Town", "performer": "The Pogues"},
+              { "title": "The Alcott", "performer": "The National feat. Taylor Swift"},
+              { "title": "Last Train To Trancentral", "performer": "The KLF"},
+              { "title": "We So Future", "performer": "Lee Foss"},
+              { "title": "Turn Me On", "performer": "Dinner"},
+              { "title": "Wild Eyed & Loathsome", "performer": "Crows"}
+            ],
+            [
+              { "time": "00:04", "title": "Blüte", "performer": "MIMMII"},
+              { "title": "Loco-Motive", "performer": "Klaus Doldinger´s Passport"},
+              { "title": "Last Train To Lhasa", "performer": "Banco De Gaia"},
+              { "title": "Great Train Robbery", "performer": "Blak Uhuru"},
+              { "title": "Blades", "performer": "Arlo Parks"},
+              { "title": "Gentle Heart", "performer": "Nabihah Iqbal"},
+              { "title": "Back In The Saddle Again", "performer": "Gene Autry"},
+              { "title": "A Child´s Question, August", "performer": "PJ Harvey"},
+              { "title": "Smog", "performer": "Indigo De Souza"},
+              { "title": "My Little Brother", "performer": "Art Brut"},
+              { "title": "Trauma Mosaic", "performer": "John"}
+            ]
+          ]
         }
       ]
     }
