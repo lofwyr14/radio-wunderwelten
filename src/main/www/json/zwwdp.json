@@ -79136,7 +79136,7 @@
               {
                 "time": "22:04",
                 "title": "Left Of Center",
-                "performer": "Suzanne Vega; Joe Jackson"
+                "performer": "Suzanne Vega feat. Joe Jackson"
               },
               {
                 "time": "22:07",
@@ -79189,6 +79189,11 @@
                 "performer": "Temples"
               },
               {
+                "time": "22:43",
+                "title": "Club 27",
+                "performer": "Thees Uhlmann"
+              },
+              {
                 "time": "22:47",
                 "title": "Flowers Of Your Youth",
                 "performer": "Oilly Wallace"
@@ -79232,7 +79237,7 @@
               },
               {
                 "time": "23:18",
-                "title": "Put Your Arms Aorund Me",
+                "title": "Put Your Arms Aorund Me (Stereolab / The High Llamas Remix)",
                 "performer": "Todd Rundgren"
               },
               {
@@ -79422,6 +79427,156 @@
               },
               {
                 "time": "23:56",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "19",
+          "date": "2023-05-11",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Ride Out The Storm",
+                "performer": "Dele Sosimi & The Estuary 21"
+              },
+              {
+                "time": "22:07",
+                "title": "Terra Preta",
+                "performer": "Tapioca"
+              },
+              {
+                "time": "22:11",
+                "title": "Niemand liebt dich",
+                "performer": "Michel Van Dyke"
+              },
+              {
+                "time": "22:15",
+                "title": "Karaoke",
+                "performer": "Everything But the Girl"
+              },
+              {
+                "time": "22:18",
+                "title": "A Sound Rings True",
+                "performer": "Dylan Mondegreen"
+              },
+              {
+                "time": "22:23",
+                "title": "Corner Of My Eye",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "time": "22:27",
+                "title": "Any Time Of Day",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "time": "22:31",
+                "title": "Love U 2",
+                "performer": "Ghosty"
+              },
+              {
+                "time": "22:34",
+                "title": "Loose Wig",
+                "performer": "Emm Gryner"
+              },
+              {
+                "time": "22:39",
+                "title": "Wolf In Rabbit Clothes",
+                "performer": "St. Paul & The Broken Bones"
+              },
+              {
+                "time": "22:42",
+                "title": "Composure",
+                "performer": "Lake"
+              },
+              {
+                "time": "22:47",
+                "title": "Major Seventh",
+                "performer": "The Fiction Aisle"
+              },
+              {
+                "time": "22:51",
+                "title": "Magic Garden",
+                "performer": "Dusty Springfield"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Glide Time",
+                "performer": "The High Llamas"
+              },
+              {
+                "time": "23:09",
+                "title": "Mexican Dream",
+                "performer": "Piero Piccioni"
+              },
+              {
+                "time": "23:11",
+                "title": "What Happens To A Heart",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "time": "23:15",
+                "title": "Private Bar",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "time": "23:19",
+                "title": "Mo ?E B'?Â´LÃ¡ TÃ¡n",
+                "performer": "Dele Sosimi & The Estuary 21 feat. Get Cape. Wear Cape. Fly"
+              },
+              {
+                "time": "23:23",
+                "title": "Beyond Antares",
+                "performer": "Leonard Nimoy"
+              },
+              {
+                "time": "23:25",
+                "title": "Catch Your Eye",
+                "performer": "Andy Shauf"
+              },
+              {
+                "time": "23:28",
+                "title": "Emotion Heater",
+                "performer": "The Gentle People"
+              },
+              {
+                "time": "23:33",
+                "title": "Sunny Days",
+                "performer": "Chop Shop"
+              },
+              {
+                "time": "23:37",
+                "title": "Downstream",
+                "performer": "Benny Sings"
+              },
+              {
+                "time": "23:41",
+                "title": "Atonia",
+                "performer": "Conchúr White"
+              },
+              {
+                "time": "23:44",
+                "title": "Nothing Has Changed",
+                "performer": "Galliano"
+              },
+              {
+                "time": "23:48",
+                "title": "Starry night",
+                "performer": "Øyvind Torvund, Bit 20 Ensemble & Trond Madsen"
+              },
+              {
+                "time": "23:54",
+                "title": "Today",
+                "performer": "Cabane feat. Sam Genders"
+              },
+              {
+                "time": "23:58",
                 "title": "Good Night",
                 "performer": "The Beatles"
               }
