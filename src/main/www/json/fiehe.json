@@ -9923,6 +9923,56 @@
               { "title": "Trauma Mosaic", "performer": "John"}
             ]
           ]
+        },
+        {
+          "id": "19",
+          "date": "2023-05-ß7",
+          "songs": [
+            [
+              { "time": "22:04", "title": "No Intention", "performer": "SBTRKT feat. Leilah"},
+              { "title": "Good Lies", "performer": "Overmono"},
+              { "title": "The One", "performer": "Ross From Friends"},
+              { "title": "Energy (Gorgon City Remix)", "performer": "Digga D"},
+              { "title": "Turn The Light On", "performer": "Rodriguez Jr. & Stereo MC´s"},
+              { "title": "The Growl (Crystaline Mix)", "performer": "Crystaline Reality Vs Glann Astro"},
+              { "title": "Echo Palace", "performer": "Iguana Death Cult"},
+              { "title": "Sun Circles (For Leo & Ziggy)", "performer": "Gratts feat. Nathan Haines & Mr Beale"},
+              { "title": "More Love", "performer": " WheelUp & Kaidi Tatham feat. Brint Story"},
+              { "title": "Blaurot", "performer": "Wa22ermann & Apsilon"},
+              { "title": "Time I Leave", "performer": "Brian Nasty"},
+              { "title": "In My Head", "performer": "Jackson Homer & Cap1talA"}
+            ],
+            [
+              { "time": "23:04", "title": "Mountainbiker", "performer": "Njelk"},
+              { "title": "Trauma Mosaic", "performer": "John"},
+              { "title": "Moving Without Movement", "performer": "Wicca Phase Springs Eternal"},
+              { "title": "Feels Good!", "performer": "Jeleel!"},
+              { "title": "Jump Jump!", "performer": "Jeleel!"},
+              { "title": "Je Suis Un Avion", "performer": "Ascendant Vierge"},
+              { "title": "According To Daneeka", "performer": "Annie Errez "},
+              { "title": "All That Matters (Artbat Remix)", "performer": "Kölsch feat. Troels Abrahamsen"},
+              { "title": "Smog", "performer": "Indigo De Souza"},
+              { "title": "Injury Detail", "performer": "Mandy, Indiana"},
+              { "title": "Ascheregen", "performer": "Die Selektion"},
+              { "title": "Ende der Welt", "performer": "Nitsch"},
+              { "title": "EZ Luv", "performer": "EZ Jam"}
+            ],
+            [
+              { "time": "00:04", "title": "Alone", "performer": " NxxxxxS feat. Bitsu"},
+              { "title": "The Cold Roome", "performer": "Delarua  & Tweeko"},
+              { "title": "Tausend Schuhe", "performer": "Chefket & Kane 13"},
+              { "title": "Drugstory", "performer": "Young Beef, ThE FaNaTiX"},
+              { "title": "Star", "performer": "LA Priest"},
+              { "title": "Charlotte´s Thong", "performer": "Connan Mockasin"},
+              { "title": "Sail On", "performer": "LA Priest"},
+              { "title": "Flower", "performer": "Jeremy Troy"},
+              { "title": "Fourth Pass Over The Graveyard", "performer": "The Black Delta Movement"},
+              { "title": "Suzie Q", "performer": "Creedence Clearwater Revival"},
+              { "title": "Taking Things For Granted", "performer": "Joy Oladokun"},
+              { "title": "Not Around", "performer": "Robbing Millions"},
+              { "title": "In My Head", "performer": "The Lemon Twigs"}
+            ]
+          ]
         }
       ]
     }
