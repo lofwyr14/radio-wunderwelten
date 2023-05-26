@@ -79300,6 +79300,10 @@
         {
           "id": "18",
           "date": "2023-05-04",
+          "checked": {
+            "date": "2023-05-20",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -79315,7 +79319,7 @@
               {
                 "time": "22:11",
                 "title": "Let Someone In",
-                "performer": "Dylan Mondegreen & BÃ¸rge Sildnes"
+                "performer": "Dylan Mondegreen & Børge Sildnes"
               },
               {
                 "time": "22:15",
@@ -79391,7 +79395,7 @@
               },
               {
                 "time": "23:22",
-                "title": "Sweetest Smile",
+                "title": "Sweetest Smile (Extended Version)",
                 "performer": "Black"
               },
               {
@@ -79407,7 +79411,7 @@
               {
                 "time": "23:38",
                 "title": "When You Mess Up",
-                "performer": "Everything But the Girl"
+                "performer": "Everything But The Girl"
               },
               {
                 "time": "23:42",
@@ -79460,7 +79464,7 @@
               {
                 "time": "22:15",
                 "title": "Karaoke",
-                "performer": "Everything But the Girl"
+                "performer": "Everything But The Girl"
               },
               {
                 "time": "22:18",
@@ -79506,6 +79510,11 @@
                 "time": "22:51",
                 "title": "Magic Garden",
                 "performer": "Dusty Springfield"
+              },
+              {
+                "time": "22:56",
+                "title": "Madame Guillotine",
+                "performer": "The Temple Cloud Country Club"
               }
             ],
             [
@@ -79581,6 +79590,161 @@
               },
               {
                 "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "21",
+          "date": "2023-05-25",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "While You See A Chance",
+                "performer": "Steve Winwood"
+              },
+              {
+                "time": "22:09",
+                "title": "Pulling Stitches",
+                "performer": "bdrmm"
+              },
+              {
+                "time": "22:13",
+                "title": "So Easy",
+                "performer": "Freakway"
+              },
+              {
+                "time": "22:18",
+                "title": "Know Theyself",
+                "performer": "Symphony Orchestra"
+              },
+              {
+                "time": "22:22",
+                "title": "Blackbird",
+                "performer": "ERK"
+              },
+              {
+                "time": "22:24",
+                "title": "Because My Heart",
+                "performer": "Gregory Jones"
+              },
+              {
+                "time": "22:29",
+                "title": "You Did Cut Me",
+                "performer": "China Crisis"
+              },
+              {
+                "time": "22:33",
+                "title": "Times Of Our Lives",
+                "performer": "Silvertwin"
+              },
+              {
+                "time": "22:37",
+                "title": "The Last Rotation Of Earth",
+                "performer": "BC Camplight"
+              },
+              {
+                "time": "22:41",
+                "title": "Kiss And Tell",
+                "performer": "Shane Tyler"
+              },
+              {
+                "time": "22:44",
+                "title": "Good News",
+                "performer": "Aaron Joseph Russo"
+              },
+              {
+                "time": "22:48",
+                "title": "The Beach",
+                "performer": "Unknown Mortal Orchestra"
+              },
+              {
+                "time": "22:52",
+                "title": "Boy Crazy",
+                "performer": "The Saxophones"
+              },
+              {
+                "time": "22:56",
+                "title": "Easy Going",
+                "performer": "Sven Wunder"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "London Fields",
+                "performer": "Darren Hayman"
+              },
+              {
+                "time": "23:07",
+                "title": "Hesitations",
+                "performer": "Rahill"
+              },
+              {
+                "time": "23:10",
+                "title": "Once, Twice, Thrice",
+                "performer": "Eyes of Others"
+              },
+              {
+                "time": "23:14",
+                "title": "Enchanter",
+                "performer": "Sound of Ceres"
+              },
+              {
+                "time": "23:18",
+                "title": "Rockets",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "23:22",
+                "title": "Hips",
+                "performer": "Maxwell Farrington & Le SuperHomard"
+              },
+              {
+                "time": "23:26",
+                "title": "From My Windowsill",
+                "performer": "The Silver Seas"
+              },
+              {
+                "time": "23:30",
+                "title": "Wishful Thinking",
+                "performer": "Rachel Love"
+              },
+              {
+                "time": "23:35",
+                "title": "Kingdom Of Broken Hearts",
+                "performer": "Kevin Morby"
+              },
+              {
+                "time": "23:40",
+                "title": "Love On The Moon",
+                "performer": "Mellow"
+              },
+              {
+                "time": "23:42",
+                "title": "Birds",
+                "performer": "The Meters"
+              },
+              {
+                "time": "23:46",
+                "title": "Early Sunday Morning",
+                "performer": "Isaac Hayes"
+              },
+              {
+                "time": "23:50",
+                "title": "Sign Of The Times",
+                "performer": "Billy Valentine feat. The Universal Truth"
+              },
+              {
+                "time": "23:55",
+                "title": "Nothing's Easy",
+                "performer": "Ruti"
+              },
+              {
+                "time": "23:59",
                 "title": "Good Night",
                 "performer": "The Beatles"
               }
