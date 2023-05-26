@@ -9973,6 +9973,54 @@
               { "title": "In My Head", "performer": "The Lemon Twigs"}
             ]
           ]
+        },
+        {
+          "id": "20",
+          "date": "2023-05-14",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Where East Meets West", "performer": "Paresse"},
+              { "title": "Gatto Gelato", "performer": "Alison Goldfrapp"},
+              { "title": "All In Good Time", "performer": "Black Bones"},
+              { "title": "Radio Brainwave", "performer": "Iguana Death Cult"},
+              { "title": "Rhoenians Death", "performer": "Lawn Chair"},
+              { "title": "Seconds", "performer": "Beach Fossils"},
+              { "title": "Trust The Process", "performer": "Bonnie Spacey & Franz Matthews"},
+              { "title": "Laugh Like A Bomb", "performer": "Baba Ali"},
+              { "title": "Hypnotise", "performer": "The Allergies"},
+              { "title": "Best I Never Had", "performer": "Parker McCullom"},
+              { "title": "Housefly", "performer": "Cory Hanson"},
+              { "title": "Sulky Baby", "performer": "Yeule"}
+            ],
+            [
+              { "time": "23:04", "title": "Sunburst", "performer": "Technimatic"},
+              { "title": "Chica", "performer": "Duskee feat. Deadline & Slay"},
+              { "title": "Xoul Trap", "performer": "Otik"},
+              { "title": "Good Lies", "performer": "Overmono"},
+              { "title": "Circle Of Light", "performer": "Because Of Art feat. Anthony Szmierek"},
+              { "title": "Like This Or Like This", "performer": "Hommel"},
+              { "title": "Black Dove", "performer": "Leon Vynehall"},
+              { "title": "Calling Out", "performer": "Overmono"},
+              { "title": "Stuck In My Head", "performer": "Amilli"},
+              { "title": "Fliessband", "performer": "Floh De Cologne"},
+              { "title": "Security Bei Saturn", "performer": "Augn"},
+              { "title": "Bad Houses", "performer": "Big Black"},
+              { "title": "Very Sad Opfertyp", "performer": "Augn"},
+              { "title": "What You Did", "performer": "Hannah Jadagu"}
+            ],
+            [
+              { "time": "00:04", "title": "A Child´s Question, August", "performer": "PJ Harvey"},
+              { "title": "Nurse!", "performer": "Bar Italia"},
+              { "title": "I Smile For E", "performer": "Rahill"},
+              { "title": "ox-eye", "performer": "Califone"},
+              { "title": "Kicking Up A Fuss", "performer": "BC Camplight"},
+              { "title": "Thinking Clearly", "performer": "Kae Tempest"},
+              { "title": "Geronimo Blues", "performer": "Speakers Corner Quartet feat. Kae Tempest"},
+              { "title": "Temptress", "performer": "Otik"},
+              { "title": "Burnin´", "performer": "Mulder"},
+              { "title": "The Girl In Blue", "performer": "Sci-Clone"}
+            ]
+          ]
         }
       ]
     }
