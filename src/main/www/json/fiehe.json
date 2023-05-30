@@ -10021,6 +10021,53 @@
               { "title": "The Girl In Blue", "performer": "Sci-Clone"}
             ]
           ]
+        },
+        {
+          "id": "21",
+          "date": "2023-05-21",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Love Is", "performer": "Mega Bog"},
+              { "title": "Mami", "performer": "Sunday Noise"},
+              { "title": "Bliss", "performer": "Fybe One feat. Liam Bailey"},
+              { "title": "Other Doors", "performer": "Soft Machine"},
+              { "title": "at(moves)", "performer": "Temps feat. Quelle Chris, Wheelchair Sports Camp & Mal Devisa"},
+              { "title": "The Girl In BLue", "performer": "Sci-Clone"},
+              { "title": "Mariano´s Dream", "performer": "Sci-Clone"},
+              { "title": "NO8DO", "performer": "Mochakk feat. Fernanda Ouro"},
+              { "title": "Chain Breaker", "performer": "Immaterial Possession"},
+              { "title": "Believe Her", "performer": "Robbing Millions"},
+              { "title": "Propaganda", "performer": "Salami Rose Joe Louis"}
+            ],
+            [
+              { "time": "23:04", "title": "Dig A Ditch (Compact Disk Dummies Remix)", "performer": "Millionair"},
+              { "title": "In This Life (Cassara Remix)", "performer": "Satin Jackets feat. Mandy Jones"},
+              { "title": "Fusion Royale", "performer": "Booka Shade, Satin Jackets"},
+              { "title": "Porch Boogie", "performer": "Rose City Band"},
+              { "title": "I Like Me", "performer": "Dote"},
+              { "title": "Campanita", "performer": "Summer Salt"},
+              { "title": "Tres Jolie", "performer": "Pony"},
+              { "title": "Rope A Dope", "performer": "Iguana Death Cult"},
+              { "title": "Amoeba", "performer": "Do Nothing"},
+              { "title": "1980 One", "performer": "Sci-Clone"},
+              { "title": "Doolally", "performer": "Hak Baker"},
+              { "title": "Hot Ghee", "performer": "Night Beats"}
+            ],
+            [
+              { "time": "00:04", "title": "Poetry", "performer": "DJ Marky feat. Solah"},
+              { "title": "Billion Dollar Gravy (Watch The Ride Remix)", "performer": "London Elektricity"},
+              { "title": "Say What", "performer": "L-Side & MC Bassman"},
+              { "title": "Black & Blue", "performer": "Dubmatix feat. Rootwords"},
+              { "title": "Empire Of DIrt", "performer": "Egoless"},
+              { "title": "Time Stands Still  feat. Ryder Shafique", "performer": "Sepia"},
+              { "title": "Bird´s Eye", "performer": "Mavi Phoenix"},
+              { "title": "Shout", "performer": "Tears For Fears"},
+              { "title": "Don´t Doom Me, Now", "performer": "Mega Bog"},
+              { "title": "Each Night", "performer": "Poolside"},
+              { "title": "My Kiss Era", "performer": "Bar Italia"},
+              { "title": "Reteoric", "performer": "Prayer"}
+            ]
+          ]
         }
       ]
     }
