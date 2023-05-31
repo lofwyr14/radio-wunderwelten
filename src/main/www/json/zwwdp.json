@@ -79603,6 +79603,10 @@
         {
           "id": "21",
           "date": "2023-05-25",
+          "checked": {
+            "date": "2023-05-31",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -79739,7 +79743,7 @@
               },
               {
                 "time": "23:50",
-                "title": "Sign Of The Times",
+                "title": "Sign Of The Times (Single Version)",
                 "performer": "Billy Valentine feat. The Universal Truth"
               },
               {
