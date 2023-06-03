@@ -79758,6 +79758,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "22",
+          "date": "2023-06-01",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Same Dream, Same Destination",
+                "performer": "Ryuichi Sakamoto"
+              },
+              {
+                "time": "22:08",
+                "title": "No More Blue Horizons",
+                "performer": "The Very Most"
+              },
+              {
+                "time": "22:12",
+                "title": "Every Day The Same",
+                "performer": "The Hepburns & The Loch Ness Mouse"
+              },
+              {
+                "time": "22:15",
+                "title": "More Than This",
+                "performer": "Deerway"
+              },
+              {
+                "time": "22:19",
+                "title": "Same Old Scene",
+                "performer": "Roxy Music"
+              },
+              {
+                "time": "22:23",
+                "title": "Fables",
+                "performer": "Rahill feat. Beck"
+              },
+              {
+                "time": "22:29",
+                "title": "Any Time Of Day",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "time": "22:32",
+                "title": "Magic Love",
+                "performer": "Laura Llorens & The Shadows Of Love"
+              },
+              {
+                "time": "22:35",
+                "title": "Council Skies",
+                "performer": "Noel Gallagher's High Flying Birds"
+              },
+              {
+                "time": "22:41",
+                "title": "Il Clan Dei Siciliani",
+                "performer": "Khruangbin"
+              },
+              {
+                "time": "22:44",
+                "title": "Was It You",
+                "performer": "Nick Waterhouse"
+              },
+              {
+                "time": "22:48",
+                "title": "Hello",
+                "performer": "Hania Rani"
+              },
+              {
+                "time": "22:54",
+                "title": "Easy, Easy, Easy",
+                "performer": "Timothy McNealy"
+              },
+              {
+                "time": "22:57",
+                "title": "Ucla",
+                "performer": "Vulfmon & Louie Zong"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Some People Are Crazy",
+                "performer": "John Martyn"
+              },
+              {
+                "time": "23:08",
+                "title": "The Devil I Know",
+                "performer": "Peter Dallas feat. Ã©ol"
+              },
+              {
+                "time": "23:11",
+                "title": "Bonnie Wait",
+                "performer": "Vulfmon"
+              },
+              {
+                "time": "23:14",
+                "title": "Five Easy Pieces Revisited",
+                "performer": "Kevin Morby"
+              },
+              {
+                "time": "23:18",
+                "title": "Birds",
+                "performer": "Claudine Longet"
+              },
+              {
+                "time": "23:21",
+                "title": "Bigger The Punch I'm Feeling",
+                "performer": "Always You"
+              },
+              {
+                "time": "23:25",
+                "title": "Breathe",
+                "performer": "Jacob Gurevitsch feat. Mark Linn"
+              },
+              {
+                "time": "23:31",
+                "title": "Lady Madonna",
+                "performer": "Cal Tjader"
+              },
+              {
+                "time": "23:35",
+                "title": "2+2",
+                "performer": "Fenne Lily"
+              },
+              {
+                "time": "23:38",
+                "title": "Waiting Room",
+                "performer": "Abby Cole & Slowaves Lowne"
+              },
+              {
+                "time": "23:42",
+                "title": "A Madman From Manhattan",
+                "performer": "Jack White"
+              },
+              {
+                "time": "23:46",
+                "title": "Folklife",
+                "performer": "3 A. M. Again"
+              },
+              {
+                "time": "23:50",
+                "title": "I Passed There",
+                "performer": "Nina & Frederik"
+              },
+              {
+                "time": "23:54",
+                "title": "Carry You",
+                "performer": "freekind."
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
