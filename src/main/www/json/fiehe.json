@@ -9644,6 +9644,7 @@
         {
           "id": "13",
           "date": "2023-03-26",
+          "checked": {"date": "2023-06-04", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Ghosts Again", "performer": "Depeche Mode"},
@@ -9655,16 +9656,16 @@
               { "title": "Lie To Me", "performer": "No Guidnce"},
               { "title": "Last One", "performer": "Bakey"},
               { "title": "O.B.F.C", "performer": "Ell Murphy & Chavinski"},
-              { "title": "Coasting", "performer": "Aching Drum"},
+              { "title": "Coasting", "performer": "Achingdrum"},
               { "title": "Su Siziyor", "performer": "Altin Gün"},
-              { "title": "Lost My House In France  (N.Yama Type Beat)", "performer": "Noayama"}
+              { "title": "Lost My House In France (N.Yama Type Beat)", "performer": "Noayama"}
             ],
             [
               { "time": "23:04", "title": "Tory Kong", "performer": "Sleaford Mods"},
               { "title": "Dial Up", "performer": "Strapontin & Zillas On Acid"},
               { "title": "Reinforced", "performer": "Quinnbond"},
               { "title": "Stop The Violence", "performer": "Boogie Down Productions"},
-              { "title": "Ich liebe das Leben (short)", "performer": "Vicky Leandros"},
+              { "title": "Ich liebe das Leben", "performer": "Vicky Leandros"},
               { "title": "Bella Napoli (Luis Ake´s Diego Trancedona Remix)", "performer": "Roy Bianco & Die Abbrunzati Boys"},
               { "title": "Saints & Sinners", "performer": "Christoph"},
               { "title": "Amsterdam Rave", "performer": "Chelina Manuhutu"},
@@ -9678,9 +9679,9 @@
               { "title": "Visionary", "performer": "Genevieve Artadi"},
               { "title": "Meteora Blues", "performer": "Yves Tumor"},
               { "title": "Mercury´s Rising", "performer": "Death And Vanilla"},
-              { "title": "Before We Drown", "performer": "Depech Mode"},
+              { "title": "Before We Drown", "performer": "Depeche Mode"},
               { "title": "Night", "performer": "Xul Zolar"},
-              { "title": "I´ve Learnt That", "performer": "Dino Lenny"},
+              { "title": "I´ve Learned That (Extended)", "performer": "Dino Lenny"},
               { "title": "A Trip In Hulme", "performer": "A Certain Ratio"},
               { "title": "Color Bars", "performer": "Elliott Smith"},
               { "title": "Judah Smith Interlude", "performer": "Lana Del Rey"},
@@ -9926,7 +9927,7 @@
         },
         {
           "id": "19",
-          "date": "2023-05-ß7",
+          "date": "2023-05-07",
           "songs": [
             [
               { "time": "22:04", "title": "No Intention", "performer": "SBTRKT feat. Leilah"},
