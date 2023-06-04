@@ -79762,6 +79762,10 @@
         {
           "id": "22",
           "date": "2023-06-01",
+          "checked": {
+            "date": "2023-06-04",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -79806,7 +79810,7 @@
               },
               {
                 "time": "22:35",
-                "title": "Council Skies",
+                "title": "Council Skies (The Reflex Revision)",
                 "performer": "Noel Gallagher's High Flying Birds"
               },
               {
@@ -79844,7 +79848,7 @@
               {
                 "time": "23:08",
                 "title": "The Devil I Know",
-                "performer": "Peter Dallas feat. Ã©ol"
+                "performer": "Peter Dallas feat. Éol"
               },
               {
                 "time": "23:11",
@@ -79893,8 +79897,8 @@
               },
               {
                 "time": "23:46",
-                "title": "Folklife",
-                "performer": "3 A. M. Again"
+                "title": "Agnes",
+                "performer": "3 A.M. Again"
               },
               {
                 "time": "23:50",
