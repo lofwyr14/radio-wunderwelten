@@ -10069,6 +10069,56 @@
               { "title": "Reteoric", "performer": "Prayer"}
             ]
           ]
+        },
+        {
+          "id": "22",
+          "date": "2023-05-28",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Schüttel die alten Knochen", "performer": "Metz & Geratsch"},
+              { "title": "Die Sehnsucht bleibt jung", "performer": "Metz & Geratsch"},
+              { "title": "Ordinary Love", "performer": "Roosevelt"},
+              { "title": "The Wriggle", "performer": "Joseph Ashworth & KDA"},
+              { "title": "Eve", "performer": "Trevino"},
+              { "title": "Nothing Really Changes", "performer": "RVG"},
+              { "title": "Priestess", "performer": "Pumarosa"},
+              { "title": "The Bearer (Ocatave One Remix)", "performer": "Octave One feat. Karina Mia"},
+              { "title": "On & On (Edmondson Clarement Skies Revisit)", "performer": "Edmondson"},
+              { "title": "Elimination Dances", "performer": "Protomartyr"},
+              { "title": "The Punisher", "performer": "Stuck"},
+              { "title": "Of The Lit Backards", "performer": "Black Duck"}
+            ],
+            [
+              { "time": "23:04", "title": "Medicine", "performer": "Clark feat. Thom Yorke"},
+              { "title": "Puls At The Centre Of Being (Mor Elian Remix)", "performer": "Max Cooper"},
+              { "title": "Everything I Ever Wanted", "performer": "Delilah Holliday"},
+              { "title": "Another Day (Move Like A Lion)", "performer": "Visionobi feat. Mitekiss"},
+              { "title": "Sweet Relief", "performer": "Sustance feat. Pola & Bryson & Zara Kershaw & Duskee"},
+              { "title": "Observer (Mantra Rmx)", "performer": "Workforce"},
+              { "title": "No More Lies", "performer": "Thundercat & Tame Impala"},
+              { "title": "Two Loving Eyes", "performer": "Bon Jour"},
+              { "title": "Distanz", "performer": "acid.milch&honig"},
+              { "title": "Cold Street Light", "performer": "Edmund November"},
+              { "title": "I´m Sorry", "performer": "Arlo Parks"},
+              { "title": "Nightclubbing", "performer": "Levin Goes Lightly"},
+              { "title": "Charade", "performer": "Moritz Ley"}
+            ],
+            [
+              { "time": "00:04", "title": "Runaway", "performer": "Ready In Led"},
+              { "title": "Feathers & Bones (Tim Engelhardt Remix)", "performer": "Rodriguez Jr."},
+              { "title": "3FALL", "performer": "Conducta"},
+              { "title": "Turn The Light On", "performer": "Rodriguez Jr. feat. Stereo MC´s"},
+              { "title": "Rave I Didn´t Know Was The Last", "performer": "Bop & Subwave"},
+              { "title": "All I Wanna Do Is Hate", "performer": "Coach Party"},
+              { "title": "Rhoenians Death", "performer": "Lawn Chair"},
+              { "title": "Council Skies (The Reflex Revision)", "performer": "Noel Gallagher´s High Flying Birds"},
+              { "title": "(Just Like The) Setting Sun", "performer": "Beach Fossils"},
+              { "title": "Girlfriend", "performer": "Dote feat. katya."},
+              { "title": "Dreams (On The Strip)", "performer": "Flaming Gods"},
+              { "title": "Rock Me Baby", "performer": "Ike & Tina Turner"},
+              { "title": "Rock Me", "performer": "Alexis Korner & Peter Thorup with Snape"}
+            ]
+          ]
         }
       ]
     }
