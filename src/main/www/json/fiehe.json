@@ -9720,7 +9720,7 @@
               { "title": "Suitcase (M.Pagliara Vocal Mix)", "performer": "Peaking Lights"},
               { "title": "Hiob", "performer": "Jochen Distelmeyer"},
               { "title": "Barfuß im Regen", "performer": "Michael Holm"},
-              { "title": "Smog In Frankfurt", "performer": "Hendrik Otremba feat. Stella Sommer"},
+              { "title": "Smog in Frankfurt", "performer": "Hendrik Otremba feat. Stella Sommer"},
               { "title": "From The Morning", "performer": "Let´s Eat Grandma"},
               { "title": "Hold On", "performer": "JVXTA"}
             ],
@@ -9730,7 +9730,7 @@
               { "title": "Clear The Air", "performer": "Jacco Gardner"},
               { "title": "Best New Friend", "performer": "Gilligan Moss"},
               { "title": "Fables", "performer": "Rahill feat. Beck"},
-              { "title": "Smog In Frankfurt", "performer": "Michael Holm"},
+              { "title": "Smog in Frankfurt", "performer": "Michael Holm"},
               { "title": "Plumbers Unite!", "performer": "Foyer Red"},
               { "title": "Rev", "performer": "Frazer Ray"},
               { "title": "U OK G?", "performer": "Missing"},
@@ -9753,7 +9753,7 @@
               { "title": "Most Alive", "performer": "t l k"},
               { "title": "Sacrifice", "performer": "The Steve Miller Band"},
               { "title": "Slouching Toward Bethlehem", "performer": "Devon Church"},
-              { "title": "Allein, Allein", "performer": "Innerverse & Helsloot feat. Malou"},
+              { "title": "Allein, Allein (Extended)", "performer": "Innerverse & Helsloot feat. Malou"},
               { "title": "Father", "performer": "Will Clarke"},
               { "title": "Almost Everything", "performer": "Mudhoney"},
               { "title": "Berlin ist keine Stadt", "performer": "Betterov"}
@@ -9774,7 +9774,7 @@
               { "title": "Pushemen", "performer": "Iguana Death Cult"}
             ],
             [
-              { "time": "00:04", "title": "Sober Together", "performer": "Blondshell"},
+              { "time": "00:04", "title": "Joiner", "performer": "Blondshell"},
               { "title": "Veronica Mars", "performer": "Blondshell"},
               { "title": "Down", "performer": "Viji"},
               { "title": "Party", "performer": "Daughter"},
@@ -10118,6 +10118,55 @@
               { "title": "Dreams (On The Strip)", "performer": "Flaming Gods"},
               { "title": "Rock Me Baby", "performer": "Ike & Tina Turner"},
               { "title": "Rock Me", "performer": "Alexis Korner & Peter Thorup with Snape"}
+            ]
+          ]
+        },
+        {
+          "id": "23",
+          "date": "2023-06-04",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Good Lies", "performer": "Overmono"},
+              { "title": "You", "performer": "Josh Caffe"},
+              { "title": "Control", "performer": "Olan & QRTR"},
+              { "title": "Ponte Liam De Bruin (Ennio Styles Remix)", "performer": "Don Glori"},
+              { "title": "Radio Therapy", "performer": "Sci-Clone"},
+              { "title": "Victory", "performer": "Mar Majia"},
+              { "title": "Aprovecha", "performer": "Mar Mejia"},
+              { "title": "Nube Negra", "performer": "Juan Wauters"},
+              { "title": "Haunted Memories", "performer": "Eddie Chacon"},
+              { "title": "Sun Go Down", "performer": "John Carroll Kirby"},
+              { "title": "Is This Love", "performer": "Pip Blom feat. Alex Kapranos"},
+              { "title": "For Tomorrow", "performer": "Protomartyr"},
+              { "title": "Friends", "performer": "Bar Italia"}
+            ],
+            [
+              { "time": "23:04", "title": "Numb", "performer": "Beach Fossils"},
+              { "title": "Pure", "performer": "Gal Pal"},
+              { "title": "Mr. Knif", "performer": "Dilate"},
+              { "title": "Locker", "performer": "Skuff Barbie"},
+              { "title": "The Cold Room", "performer": "Vision & Tweeko"},
+              { "title": "Rolling", "performer": "K-Trap"},
+              { "title": "U Get Me?", "performer": "Guvna B feat. Ghetts"},
+              { "title": "Alright", "performer": "Guvna B feat. Kierra Sheard"},
+              { "title": "The Story So Far", "performer": "McKinley Dixon feat. Seline Haze"},
+              { "title": "Energy (Gorgon City Remix)", "performer": "Digga D"},
+              { "title": "Panzersong", "performer": "acid.milch&honig"},
+              { "title": "Get Inspired", "performer": "Genesis Owusu"},
+              { "title": "Demuro", "performer": "Hudson Mohawke & Nikki Nair"}
+            ],
+            [
+              { "time": "00:04", "title": "Netzwerksong", "performer": "acid.milch&honig"},
+              { "title": "Act Nice", "performer": "Deki Alem"},
+              { "title": "At The Roof", "performer": "Hudson Mohawke & Nikki Nair"},
+              { "title": "Bubblin", "performer": "Julio Bashmore"},
+              { "title": "The Teacher", "performer": "Foo Fighters"},
+              { "title": "Glazed", "performer": "Rocket From The Crypt"},
+              { "title": "Days Move Slow", "performer": "Bully"},
+              { "title": "Plank III", "performer": "Stuck"},
+              { "title": "Saturday Night", "performer": "Wicca Phase Springs Eternal"},
+              { "title": "Illusion", "performer": "acid.milch&honig"},
+              { "title": "The Idea Of You (Chungo Remix)", "performer": "Bill Mango"}
             ]
           ]
         }
