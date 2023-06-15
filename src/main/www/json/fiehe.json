@@ -9744,6 +9744,7 @@
         {
           "id": "15",
           "date": "2023-04-09",
+          "checked": {"date": "2023-06-15", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Missing Heart", "performer": "Xylouris White"},
@@ -9764,7 +9765,7 @@
               { "title": "Last And Beautiful", "performer": "The New Pornographers"},
               { "title": "Sunflower", "performer": "Nabihah Iqbal"},
               { "title": "For Granted", "performer": "Yaeji"},
-              { "title": "Break It Off", "performer": "Pimk Pantheress"},
+              { "title": "Break It Off", "performer": "Pink Pantheress"},
               { "title": "Just One Second (Apex Remix)", "performer": "London Elektricity"},
               { "title": "Spaced Out", "performer": "Winslow"},
               { "title": "Saviour", "performer": "P Money & Whiney feat. Y-Zer"},
