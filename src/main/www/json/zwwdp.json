@@ -80065,6 +80065,141 @@
               }
             ]
           ]
+        },
+        {
+          "id": "24",
+          "date": "2023-06-15",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Fight Test",
+                "performer": "The Flaming Lips"
+              },
+              {
+                "time": "22:08",
+                "title": "The Universe",
+                "performer": "Róisín Murphy"
+              },
+              {
+                "time": "22:13",
+                "title": "She's In L.A.",
+                "performer": "Rio 18 Feat. Young Gun Silver Fox"
+              },
+              {
+                "time": "22:17",
+                "title": "Pretty Straight Guy",
+                "performer": "Barbara"
+              },
+              {
+                "time": "22:21",
+                "title": "Back To Anonymous",
+                "performer": "Ben Folds"
+              },
+              {
+                "time": "22:25",
+                "title": "Holy Hell",
+                "performer": "Eddie Chacon"
+              },
+              {
+                "time": "22:30",
+                "title": "Momentary Bliss",
+                "performer": "The Electric Soft Parade"
+              },
+              {
+                "time": "22:36",
+                "title": "Two Birds, Mid-Flight",
+                "performer": "Sunyears"
+              },
+              {
+                "time": "22:40",
+                "title": "Ohne dich bin ich nichts",
+                "performer": "Michel van Dyke"
+              },
+              {
+                "time": "22:45",
+                "title": "Certain Signs",
+                "performer": "Le Futur Pompiste"
+              },
+              {
+                "time": "22:48",
+                "title": "Foreign Land",
+                "performer": "Teenage Fanclub"
+              },
+              {
+                "time": "22:52",
+                "title": "Mrs. Bluebird",
+                "performer": "Sunshine Day"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Run To The Moon",
+                "performer": "Beach Fossils"
+              },
+              {
+                "time": "23:12",
+                "title": "Abalone",
+                "performer": "RF Shannon"
+              },
+              {
+                "time": "23:17",
+                "title": "Find Someone Like You",
+                "performer": "Snoh Aalegra"
+              },
+              {
+                "time": "23:21",
+                "title": "Hold Me",
+                "performer": "William Fitzsimmons"
+              },
+              {
+                "time": "23:24",
+                "title": "Mind Games",
+                "performer": "Noel Gallagher's High Flying Birds"
+              },
+              {
+                "time": "23:31",
+                "title": "Red Right Hand",
+                "performer": "Nick Cave & The Bad Seeds"
+              },
+              {
+                "time": "23:37",
+                "title": "Cookie Bay",
+                "performer": "Healing Potpourri"
+              },
+              {
+                "time": "23:41",
+                "title": "The Mist",
+                "performer": "The Saxophones"
+              },
+              {
+                "time": "23:45",
+                "title": "Tubular Bells",
+                "performer": "Roger Webb"
+              },
+              {
+                "time": "23:48",
+                "title": "Tell Me It´s  Real",
+                "performer": "Baby Rose"
+              },
+              {
+                "time": "23:51",
+                "title": "Towards The Sun",
+                "performer": "Greenwood & Horn"
+              },
+              {
+                "time": "23:55",
+                "title": "Blue",
+                "performer": "Vulfmon"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
