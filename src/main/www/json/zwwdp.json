@@ -79921,11 +79921,15 @@
         {
           "id": "23",
           "date": "2023-06-08",
+          "checked": {
+            "date": "2023-06-18",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
-                "title": "Tri-Tra-Trullala",
+                "title": "Tri-Tra-Trullala (US Mix)",
                 "performer": "Joachim Witt"
               },
               {
@@ -79985,7 +79989,7 @@
               },
               {
                 "time": "22:50",
-                "title": "Council Skies",
+                "title": "Council Skies (The Reflex Revision)",
                 "performer": "Noel Gallagher's High Flying Birds"
               },
               {
@@ -80011,17 +80015,17 @@
               {
                 "time": "23:11",
                 "title": "Grandad's Song",
-                "performer": "Sunyears"
+                "performer": "SunYears feat. Ron Sexsmith"
               },
               {
                 "time": "23:16",
                 "title": "Flying",
-                "performer": "Rogerio Duprat"
+                "performer": "Rogério Duprat"
               },
               {
                 "time": "23:18",
                 "title": "All Night",
-                "performer": "Lack of Afro feat. Jack Tyson-Charles"
+                "performer": "Lack Of Afro feat. Jack Tyson-Charles"
               },
               {
                 "time": "23:21",
@@ -80050,7 +80054,7 @@
               },
               {
                 "time": "23:48",
-                "title": "What´s The Word For Memory?",
+                "title": "What´s The Word For Memory (Reduced Remix)",
                 "performer": "De-Phazz"
               },
               {
