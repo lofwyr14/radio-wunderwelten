@@ -80073,6 +80073,10 @@
         {
           "id": "24",
           "date": "2023-06-15",
+          "checked": {
+            "date": "2023-06-21",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -80113,7 +80117,7 @@
               {
                 "time": "22:36",
                 "title": "Two Birds, Mid-Flight",
-                "performer": "Sunyears"
+                "performer": "SunYears"
               },
               {
                 "time": "22:40",
@@ -80141,6 +80145,11 @@
                 "time": "23:04",
                 "title": "Run To The Moon",
                 "performer": "Beach Fossils"
+              },
+              {
+                "time": "23:08",
+                "title": "Dream Dancing",
+                "performer": "Mr. & Mrs. Muffins"
               },
               {
                 "time": "23:12",
