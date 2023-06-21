@@ -10170,6 +10170,54 @@
               { "title": "The Idea Of You (Chungo Remix)", "performer": "Bill Mango"}
             ]
           ]
+        },
+        {
+          "id": "24",
+          "date": "2023-06-11",
+          "songs": [
+            [
+              { "time": "22:04", "title": "The Sound Of Disco", "performer": "Suite Simone"},
+              { "title": "Feels Darker (Feel It)", "performer": "Monki feat. lau.ra (&Friends)"},
+              { "title": "Down With Me (Gardna & Kreed VIP)", "performer": "lau.ra & Dope Earth Alien"},
+              { "title": "Tradition (Pad Roller Remix)", "performer": "Dusk + Blackdown"},
+              { "title": "Hans & Karl", "performer": "Poison Gauchiste"},
+              { "title": "Co-Star", "performer": "Amaarae"},
+              { "title": "Princess Going Digital", "performer": "Amaarae                           "},
+              { "title": "Babylon Must Fall (MC Grindah Skit)", "performer": "Hek Baker"},
+              { "title": "Turn My World Around", "performer": "Axel Boy"},
+              { "title": "Overcooked", "performer": "Public Body"},
+              { "title": "Hamburgerphobia", "performer": "King Krule"},
+              { "title": "Windrush Baby", "performer": "Hak Baker"},
+              { "title": "Lipstick Lover", "performer": "Janelle Monae"},
+              { "title": "Crash And Burn", "performer": "49th & Main"},
+              { "title": "Of The Lit Backyards", "performer": "Black Duck"}
+            ],
+            [
+              { "time": "23:04", "title": "Service Stationed", "performer": "John"},
+              { "title": "Driven By Data", "performer": "Public Body"},
+              { "title": "My Beatbox (Big Audio Dynaite Dub Remix)", "performer": "DeeJay Punk-Roc"},
+              { "title": "Ghosts Again", "performer": "Depeche Mode"},
+              { "title": "Teen Beats Highway (Rich Good Remix)", "performer": "Hologram Teen"},
+              { "title": "Modus Operandi", "performer": "Juan Wauters feat. Frankie Cosmos"},
+              { "title": "More Change", "performer": "This Is The Kit"},
+              { "title": "Mariposa", "performer": "Rose City Band"},
+              { "title": "I Wish I Were A River", "performer": "Lariza"},
+              { "title": "The Idea Of You (Chungo Remix)", "performer": "Bill Mango"},
+              { "title": "Sapphires Of Gold", "performer": "Jayda G"}
+            ],
+            [
+              { "time": "00:04", "title": "Sex, Violence, Suicide", "performer": "Amaarae"},
+              { "title": "Who Do You Wanna Be?", "performer": "Dream Wife"},
+              { "title": "Happy Feet", "performer": "Do Nothing"},
+              { "title": "Sun & Sky", "performer": "Natasha Bai"},
+              { "title": "Sonder", "performer": "Closet Yi"},
+              { "title": "Rodeo", "performer": "Decisive Pink"},
+              { "title": "Octopii", "performer": "Blotter Trax"},
+              { "title": "You", "performer": "Josh Caffe"},
+              { "title": "Vingt", "performer": "Ittara"},
+              { "title": "Undergrowth", "performer": "Squid"}
+            ]
+          ]
         }
       ]
     }
