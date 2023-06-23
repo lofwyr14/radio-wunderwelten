@@ -80213,6 +80213,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "25",
+          "date": "2023-06-22",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Dis Go Dis Way, Dis Go Dat Way",
+                "performer": "Lala, Joe, Werman, Tom, Raymond"
+              },
+              {
+                "time": "22:08",
+                "title": "Sha La La",
+                "performer": "Sam Blasucci"
+              },
+              {
+                "time": "22:14",
+                "title": "My Gold Is The Sun",
+                "performer": "Ben Reed"
+              },
+              {
+                "time": "22:17",
+                "title": "Es ist immer Sommer irgendwo",
+                "performer": "Die Liga der gewöhnlichen Gentlemen"
+              },
+              {
+                "time": "22:20",
+                "title": "My Big Day",
+                "performer": "Bombay Bicycle Club"
+              },
+              {
+                "time": "22:23",
+                "title": "These New Communications",
+                "performer": "Barbara"
+              },
+              {
+                "time": "22:27",
+                "title": "Ghost House",
+                "performer": "Eee Gee"
+              },
+              {
+                "time": "22:32",
+                "title": "Lady In Cement",
+                "performer": "Jet Set Swe"
+              },
+              {
+                "time": "22:36",
+                "title": "There She Goes",
+                "performer": "Babyshambles"
+              },
+              {
+                "time": "22:40",
+                "title": "Hanover",
+                "performer": "Yelka"
+              },
+              {
+                "time": "22:44",
+                "title": "Hello",
+                "performer": "Hania Rani"
+              },
+              {
+                "time": "22:53",
+                "title": "Evening Star Supercharger",
+                "performer": "Sparklehorse"
+              },
+              {
+                "time": "22:59",
+                "title": "Code 3",
+                "performer": "Corduroy"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "As",
+                "performer": "Gene Harris"
+              },
+              {
+                "time": "23:08",
+                "title": "Sunshine Baby",
+                "performer": "The Japanese House"
+              },
+              {
+                "time": "23:12",
+                "title": "All I Wanna Do",
+                "performer": "Healing Potpourri"
+              },
+              {
+                "time": "23:15",
+                "title": "Slabo Day",
+                "performer": "Peter Green"
+              },
+              {
+                "time": "23:20",
+                "title": "Crash The Car",
+                "performer": "Knower"
+              },
+              {
+                "time": "23:25",
+                "title": "Space Travel",
+                "performer": "Pebbl"
+              },
+              {
+                "time": "23:31",
+                "title": "Zuma 85",
+                "performer": "Allah-Las"
+              },
+              {
+                "time": "23:34",
+                "title": "When I Look Into The World",
+                "performer": "Bright & Findlay"
+              },
+              {
+                "time": "23:39",
+                "title": "The Metropolis",
+                "performer": "Mr. and Mrs. Muffins"
+              },
+              {
+                "time": "23:41",
+                "title": "Up, Up And Away",
+                "performer": "Dionne Warwick"
+              },
+              {
+                "time": "23:44",
+                "title": "Voices In The Sky",
+                "performer": "The Moody Blues"
+              },
+              {
+                "time": "23:48",
+                "title": "Elvis' Rolls Royce",
+                "performer": "Was Not Was feat. Leonard Cohen"
+              },
+              {
+                "time": "23:52",
+                "title": "I'm Sorry",
+                "performer": "Arlo Parks"
+              },
+              {
+                "time": "23:55",
+                "title": "Last Tango In Paris",
+                "performer": "Andy Williams"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
