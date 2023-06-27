@@ -9810,7 +9810,7 @@
             [
               { "time": "23:04", "title": "My Negritude", "performer": "Dave Okumu & The 7 Generations feat. Anthony Joseph"},
               { "title": "I Walk", "performer": "Don Cherry"},
-              { "title": "Dangerous", "performer": "&friends, Dr Feel, Phina Asa"},
+              { "title": "Dangerous (Extended Mix)", "performer": "&friends, Dr Feel, Phina Asa"},
               { "title": "Same Light", "performer": "Philine Sonny"},
               { "title": "You Are Correct", "performer": "Kicky Ring"},
               { "title": "Not Alone", "performer": "ARXX"},
@@ -10182,7 +10182,7 @@
               { "title": "Tradition (Pad Roller Remix)", "performer": "Dusk + Blackdown"},
               { "title": "Hans & Karl", "performer": "Poison Gauchiste"},
               { "title": "Co-Star", "performer": "Amaarae"},
-              { "title": "Princess Going Digital", "performer": "Amaarae                           "},
+              { "title": "Princess Going Digital", "performer": "Amaarae"},
               { "title": "Babylon Must Fall (MC Grindah Skit)", "performer": "Hek Baker"},
               { "title": "Turn My World Around", "performer": "Axel Boy"},
               { "title": "Overcooked", "performer": "Public Body"},
@@ -10216,6 +10216,53 @@
               { "title": "You", "performer": "Josh Caffe"},
               { "title": "Vingt", "performer": "Ittara"},
               { "title": "Undergrowth", "performer": "Squid"}
+            ]
+          ]
+        },
+        {
+          "id": "25",
+          "date": "2023-06-18",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Bella Napoli (Luis Ake´s Diego Trancedona Remix)", "performer": "Roy Bianco & Die Abbrunzati Boys"},
+              { "title": "Tranz", "performer": "Suite Simone"},
+              { "title": "Bad", "performer": "Kode9 & LD"},
+              { "title": "Hans & Karl", "performer": "Poison Gauchiste"},
+              { "title": "Danger", "performer": "De Staat"},
+              { "title": "Bad Club Bad Drugs Bad People", "performer": "Acid Klaus"},
+              { "title": "One Party", "performer": "Side B"},
+              { "title": "You", "performer": "Josh Caffe"},
+              { "title": "Sister Sun", "performer": "M.Byrd"},
+              { "title": "Wien", "performer": "Mayberg"},
+              { "title": "Broken Hearted Or What?", "performer": "AlienBlaze"},
+              { "title": "Push Me Away", "performer": "OmenXiii & Palaye Royale"}
+            ],
+            [
+              { "time": "23:04", "title": "Paperplanes", "performer": "M.I.A."},
+              { "title": "Wasted Eyes", "performer": "Amaarae"},
+              { "title": "Counterfeit", "performer": "Amaarae"},
+              { "title": "Matador", "performer": "Egyptian Blue"},
+              { "title": "Break From Life", "performer": "Public Body"},
+              { "title": "Who´s Gonna Be The GOAT?", "performer": "De Staat"},
+              { "title": "Light In The Distance", "performer": "DC Salas"},
+              { "title": "Sunshine", "performer": "Asake"},
+              { "title": "Almost Lost London", "performer": "Hak Baker"},
+              { "title": "Shark Eyes", "performer": "Sorcha Richardson"},
+              { "title": "Monika Tanzband", "performer": "Anajo & Das Poporchester"},
+              { "title": "So It Seems", "performer": "P Money & Whiney feat. Zoey Kypri"}
+            ],
+            [
+              { "time": "00:04", "title": "21 Nächte wach", "performer": "Edwin Rosen"},
+              { "title": "(It Goes Like) Na, Na, Na", "performer": "Peggy Gou"},
+              { "title": "Time Out", "performer": "Dukwa"},
+              { "title": "Straight Jacket Fitting", "performer": "Queens Of The Stone Age"},
+              { "title": "Liquid Spirit (Claptone Remix)", "performer": "Gregory Porter"},
+              { "title": "Scars", "performer": "Jayda G"},
+              { "title": "Taurus", "performer": "Glass Beams"},
+              { "title": "Journey Of The Heart (Guy Tallo Remix)", "performer": "Paresse"},
+              { "title": "No Time", "performer": "Django Django feat. Jack Penate"},
+              { "title": "Girlfriend", "performer": "Dote feat. Katya."},
+              { "title": "Aus Der Körperzone Raus", "performer": "Datashock"}
             ]
           ]
         }
