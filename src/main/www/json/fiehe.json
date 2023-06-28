@@ -9792,6 +9792,8 @@
         {
           "id": "16",
           "date": "2023-04-16",
+          "comment": "Popsalon Osnabrück 2023",
+          "checked": {"date": "2023-06-28", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "On The Road Again", "performer": "Eat"},
@@ -9823,7 +9825,7 @@
             ],
             [
               { "time": "00:04", "title": "Henry St.", "performer": "The Tallest Man On Earth"},
-              { "title": "Urlaub Im Abgrund", "performer": "Betterov"},
+              { "title": "Urlaub im Abgrund", "performer": "Betterov"},
               { "title": "Whenever You Want", "performer": "Brockhoff"},
               { "title": "Notice Me", "performer": "French The Kid"},
               { "title": "Quarry", "performer": "Wednesday"},
