@@ -80217,12 +80217,16 @@
         {
           "id": "25",
           "date": "2023-06-22",
+          "checked": {
+            "date": "2023-06-30",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
                 "title": "Dis Go Dis Way, Dis Go Dat Way",
-                "performer": "Lala, Joe, Werman, Tom, Raymond"
+                "performer": "Mother's Finest"
               },
               {
                 "time": "22:08",
@@ -80273,6 +80277,11 @@
                 "time": "22:44",
                 "title": "Hello",
                 "performer": "Hania Rani"
+              },
+              {
+                "time": "22:49",
+                "title": "Move To It",
+                "performer": "Co-Pilot"
               },
               {
                 "time": "22:53",
@@ -80329,7 +80338,7 @@
               {
                 "time": "23:39",
                 "title": "The Metropolis",
-                "performer": "Mr. and Mrs. Muffins"
+                "performer": "Mr. & Mrs. Muffins"
               },
               {
                 "time": "23:41",
@@ -80344,7 +80353,7 @@
               {
                 "time": "23:48",
                 "title": "Elvis' Rolls Royce",
-                "performer": "Was Not Was feat. Leonard Cohen"
+                "performer": "Was (Not Was) feat. Leonard Cohen"
               },
               {
                 "time": "23:52",
