@@ -9841,6 +9841,7 @@
         {
           "id": "17",
           "date": "2023-04-23",
+          "checked": {"date": "2023-07-02", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Sunflower", "performer": "Nabihah Iqbal"},
@@ -9860,7 +9861,7 @@
               { "title": "Abend", "performer": "Lyschko"},
               { "title": "Verhaftet", "performer": "Elena Rud"},
               { "title": "Burn Me Out", "performer": "Baba Ali"},
-              { "title": "Eins Null Eins Eins Null", "performer": "Fred Und Luna"},
+              { "title": "Eins Null Eins Eins Null", "performer": "Fred und Luna"},
               { "title": "Together (2011 Mix)", "performer": "Maceo PLex"},
               { "title": "Karaoke", "performer": "Everything But The Girl"},
               { "title": "Mad Truth", "performer": "The Pop Group"},
@@ -9870,12 +9871,12 @@
               { "time": "00:04", "title": "Call It Home", "performer": "Teplice"},
               { "title": "Again And Again", "performer": "Michael Hamilton"},
               { "title": "Feathers & Bones", "performer": "Rodriguez Jr."},
-              { "title": "Pardon My French", "performer": "Isolee"},
+              { "title": "Canada Balsam", "performer": "Isolee"},
               { "title": "Uff, nein", "performer": "Eli Preiss, Donna Savage & prod. Suki"},
               { "title": "Phasen", "performer": " Eli Preiss & Tschickgott"},
               { "title": "Mercy", "performer": "Novelist"},
               { "title": "Get Busy With It", "performer": "Conducta feat. Novelist"},
-              { "title": "White Rabbit (Kaz James & Nick Morgan Remix)", "performer": "Jefferson Airplane"},
+              { "title": "White Rabbit (Kaz James & Nick Morgan Extended Remix)", "performer": "Jefferson Airplane"},
               { "title": "Descending To Nowhere", "performer": "Rodrigo Y Gabriela"},
               { "title": "Apho", "performer": "Alfa Mist feat. Bongeziwe Mabandla"},
               { "title": "Bended Light", "performer": "Rahill"},
