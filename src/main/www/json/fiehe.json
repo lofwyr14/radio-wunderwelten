@@ -9862,7 +9862,7 @@
               { "title": "Verhaftet", "performer": "Elena Rud"},
               { "title": "Burn Me Out", "performer": "Baba Ali"},
               { "title": "Eins Null Eins Eins Null", "performer": "Fred und Luna"},
-              { "title": "Together (2011 Mix)", "performer": "Maceo PLex"},
+              { "title": "Together (2011 Mix)", "performer": "Maceo Plex"},
               { "title": "Karaoke", "performer": "Everything But The Girl"},
               { "title": "Mad Truth", "performer": "The Pop Group"},
               { "title": "Class War", "performer": "Autobahn"}
@@ -9887,9 +9887,11 @@
         {
           "id": "18",
           "date": "2023-04-30",
+          "comment": "It's So Wicked - Deutschlandticket / But Someone's Missing - Volker Wissing",
           "songs": [
             [
-              { "time": "22:04", "title": "You Suck", "performer": "Consolidated feat. The Yeastiegirls"},
+              { "time": "22:04", "title": "I Reckon You Should Shut The Fuck Up And Play Some Music", "performer": "Consolidated"},
+              { "title": "You Suck", "performer": "Consolidated feat. The Yeastiegirls"},
               { "title": "Over You", "performer": "Lili Chan"},
               { "title": "Up The Sound", "performer": "The Allergies"},
               { "title": "Ska Train", "performer": "The Beatmasters"},
@@ -9899,7 +9901,8 @@
               { "title": "I Want You", "performer": "Jonathan Baker & TGM"},
               { "title": "The Spectacle", "performer": "I Like Trains"},
               { "title": "Amoeba", "performer": "Do Nothing"},
-              { "title": "Begin Againb", "performer": "Jessie Ware"}
+              { "title": "Begin Againb", "performer": "Jessie Ware"},
+              { "title": "Last Train To Lhasa (Ausschnitt)", "performer": "Banco De Gaia"}
             ],
             [
               { "time": "23:04", "title": "Here", "performer": "DJ Planet Express"},
@@ -10266,6 +10269,53 @@
               { "title": "No Time", "performer": "Django Django feat. Jack Penate"},
               { "title": "Girlfriend", "performer": "Dote feat. Katya."},
               { "title": "Aus Der Körperzone Raus", "performer": "Datashock"}
+            ]
+          ]
+        },
+        {
+          "id": "26",
+          "date": "2023-06-25",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Heaven", "performer": "The Psychedelic Furs"},
+              { "title": "Shall We Get Started", "performer": "MNNQNS"},
+              { "title": "Love Not", "performer": "Jamie 3:26 & Danou P"},
+              { "title": "Dirty Hugs (Richard Sen Remix)", "performer": "Glok"},
+              { "title": "Skyscraper (Gum & Ginoli Remix)", "performer": "Automatic"},
+              { "title": "Chaldean Oracle (Glok Remix)", "performer": "Steve Queralt & Michael Smith"},
+              { "title": "Kisses", "performer": "Slowdive"},
+              { "title": "Numb", "performer": "Beach Fossils"},
+              { "title": "Wine & Spirits", "performer": "070 Shake"},
+              { "title": "Big Mäc", "performer": "Skuff Barbie"},
+              { "title": "Make My Day", "performer": "Coi Leray feat. David Guetta"},
+              { "title": "Sundown", "performer": "Eddie Chacon"}
+            ],
+            [
+              { "time": "23:04", "title": "Rayna (Shanti Celeste Remix)", "performer": "Trance Wax"},
+              { "title": "RM 1", "performer": "Saoirse"},
+              { "title": "Nothing Clever, Just Feelings", "performer": "CLT DRP"},
+              { "title": "Seizure Of Assets", "performer": "Militairie Gun"},
+              { "title": "Complete Me", "performer": "Django Django feat. Self Esteem"},
+              { "title": "World (Echosystem Remix)", "performer": "Last Magpie"},
+              { "title": "Want U", "performer": "Anaïs"},
+              { "title": "So Tell Me", "performer": "Nia Archives"},
+              { "title": "Wicked", "performer": "Sudley & Anaïs feat. Flowdan"},
+              { "title": "100-99", "performer": "Albert Hammond Jr feat. GoldLink"},
+              { "title": "Communion", "performer": "Lewsberg"},
+              { "title": "Lovaa", "performer": "Kapa Tult"},
+              { "title": "Doomsday", "performer": "Juice WRLD & Cordae"}
+            ],
+            [
+              { "time": "00:04", "title": "J.Lo", "performer": "Skuff Barbie"},
+              { "title": "Toxic Trait", "performer": "Stormzy feat. Fredo"},
+              { "title": "Noche De Ronda", "performer": "Century"},
+              { "title": "Wami", "performer": "DJ Maphorisa & Tyler ICU feat. Sir Trill & Kabza De Small"},
+              { "title": "Ride With Me", "performer": "Kabza De Small & DJ Maphorisa feat. Elaine"},
+              { "title": "Amapiano", "performer": "Asake & Olamide"},
+              { "title": "Driving Through Heaven", "performer": "Cory Hanson"},
+              { "title": "The Stars Apart", "performer": "Soft Machine"},
+              { "title": "I See Myself", "performer": "Geese"},
+              { "title": "Too Young To Die", "performer": "M.Ward feat. First Aid Kit"}
             ]
           ]
         }
