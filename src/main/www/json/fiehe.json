@@ -9888,6 +9888,7 @@
           "id": "18",
           "date": "2023-04-30",
           "comment": "It's So Wicked - Deutschlandticket / But Someone's Missing - Volker Wissing",
+          "checked": {"date": "2023-07-04", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "I Reckon You Should Shut The Fuck Up And Play Some Music", "performer": "Consolidated"},
@@ -9901,15 +9902,14 @@
               { "title": "I Want You", "performer": "Jonathan Baker & TGM"},
               { "title": "The Spectacle", "performer": "I Like Trains"},
               { "title": "Amoeba", "performer": "Do Nothing"},
-              { "title": "Begin Againb", "performer": "Jessie Ware"},
-              { "title": "Last Train To Lhasa (Ausschnitt)", "performer": "Banco De Gaia"}
+              { "title": "Begin Againb", "performer": "Jessie Ware"}
             ],
             [
               { "time": "23:04", "title": "Here", "performer": "DJ Planet Express"},
               { "title": "The Earth Below", "performer": "Hobzee"},
               { "title": "Something Always Happens (Doc Scott Remix)", "performer": "Art Of Noise"},
               { "title": "The Water", "performer": "Indigo De Souza"},
-              { "title": "When The Train Comes Back", "performer": "Chicken Shack"},
+              { "title": "When The Train Comes Back (Single Version)", "performer": "Chicken Shack"},
               { "title": "Planeten", "performer": "Paula Paula"},
               { "title": "Dirty Old Town", "performer": "The Pogues"},
               { "title": "The Alcott", "performer": "The National feat. Taylor Swift"},
@@ -9929,7 +9929,7 @@
               { "title": "A Child´s Question, August", "performer": "PJ Harvey"},
               { "title": "Smog", "performer": "Indigo De Souza"},
               { "title": "My Little Brother", "performer": "Art Brut"},
-              { "title": "Trauma Mosaic", "performer": "John"}
+              { "title": "Trauma Mosaic", "performer": "John (Timestwo)"}
             ]
           ]
         },
