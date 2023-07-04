@@ -80372,6 +80372,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "26",
+          "date": "2023-06-29",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "She's In L.A.",
+                "performer": "Rio 18 Feat. Young Gun Silver Fox"
+              },
+              {
+                "time": "22:08",
+                "title": "The Narcissist",
+                "performer": "Blur"
+              },
+              {
+                "time": "22:13",
+                "title": "Make Ends Meet",
+                "performer": "theCatherines"
+              },
+              {
+                "time": "22:16",
+                "title": "Honey Trippin'",
+                "performer": "Mystic Moods"
+              },
+              {
+                "time": "22:19",
+                "title": "Devil Inside Me",
+                "performer": "Matt Berry"
+              },
+              {
+                "time": "22:22",
+                "title": "Such A Life",
+                "performer": "Kip Nelson"
+              },
+              {
+                "time": "22:25",
+                "title": "Turn To Me",
+                "performer": "Novelty Island"
+              },
+              {
+                "time": "22:29",
+                "title": "Something More Than Time",
+                "performer": "Caramel"
+              },
+              {
+                "time": "22:31",
+                "title": "Morning Time",
+                "performer": "Angela Aux"
+              },
+              {
+                "time": "22:35",
+                "title": "Intertwined",
+                "performer": "George Bloomfield"
+              },
+              {
+                "time": "22:39",
+                "title": "Never Ever Run",
+                "performer": "Dolphins"
+              },
+              {
+                "time": "22:43",
+                "title": "Are You Satisfied",
+                "performer": "Blue Rondo"
+              },
+              {
+                "time": "22:49",
+                "title": "Rainforest",
+                "performer": "Paul Hardcastle"
+              },
+              {
+                "time": "22:55",
+                "title": "I See Myself",
+                "performer": "Geese"
+              },
+              {
+                "time": "22:58",
+                "title": "Oropendola",
+                "performer": "John Carroll Kirby"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "The Wild Places",
+                "performer": "Duncan Browne"
+              },
+              {
+                "time": "23:10",
+                "title": "Pistol",
+                "performer": "Cigarettes After Sex"
+              },
+              {
+                "time": "23:20",
+                "title": "Spooky",
+                "performer": "Cal Tjader"
+              },
+              {
+                "time": "23:25",
+                "title": "But Not Kiss",
+                "performer": "Faye Webster"
+              },
+              {
+                "time": "23:30",
+                "title": "Utopia",
+                "performer": "Goldfrapp"
+              },
+              {
+                "time": "23:34",
+                "title": "Wir drehen uns im Kreis",
+                "performer": "Lina Maly & Moritz KrÃ¤mer"
+              },
+              {
+                "time": "23:36",
+                "title": "How Can I Tell You",
+                "performer": "It's Immaterial"
+              },
+              {
+                "time": "23:42",
+                "title": "O, The Blood!",
+                "performer": "Puma Blue"
+              },
+              {
+                "time": "23:46",
+                "title": "Edge Of The Edge",
+                "performer": "Panda Bear & Sonic Boom"
+              },
+              {
+                "time": "23:51",
+                "title": "Metti, una sera a cena",
+                "performer": "Gianni Oddi"
+              },
+              {
+                "time": "23:55",
+                "title": "See You In September",
+                "performer": "The Mike Curb Congregation"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
