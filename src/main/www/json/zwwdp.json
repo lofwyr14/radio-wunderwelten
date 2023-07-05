@@ -80376,12 +80376,16 @@
         {
           "id": "26",
           "date": "2023-06-29",
+          "checked": {
+            "date": "2023-05-07",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
                 "title": "She's In L.A.",
-                "performer": "Rio 18 Feat. Young Gun Silver Fox"
+                "performer": "Rio 18 feat. Young Gun Silver Fox"
               },
               {
                 "time": "22:08",
@@ -80396,7 +80400,7 @@
               {
                 "time": "22:16",
                 "title": "Honey Trippin'",
-                "performer": "Mystic Moods"
+                "performer": "The Mystic Moods Orchestra"
               },
               {
                 "time": "22:19",
@@ -80435,7 +80439,7 @@
               },
               {
                 "time": "22:43",
-                "title": "Are You Satisfied",
+                "title": "Are You Satisfied?",
                 "performer": "Blue Rondo"
               },
               {
@@ -80466,6 +80470,11 @@
                 "performer": "Cigarettes After Sex"
               },
               {
+                "time": "23:14",
+                "title": "In A Lonely Place (2006 Version)",
+                "performer": "The Smithereens"
+              },
+              {
                 "time": "23:20",
                 "title": "Spooky",
                 "performer": "Cal Tjader"
@@ -80477,7 +80486,7 @@
               },
               {
                 "time": "23:30",
-                "title": "Utopia",
+                "title": "Utopia (Genetically Enriched)",
                 "performer": "Goldfrapp"
               },
               {
@@ -80502,7 +80511,7 @@
               },
               {
                 "time": "23:51",
-                "title": "Metti, una sera a cena",
+                "title": "Metti, una Sera a Cena",
                 "performer": "Gianni Oddi"
               },
               {
