@@ -11,7 +11,8 @@
     "cp-fonts": "cp -r node_modules/font-awesome/fonts/* src/main/www/fonts/",
     "browserify": "browserify src/main/www/js/*.js -o src/main/www/js/bundle.js",
     "rollup": "rollup --config rollup.config.js",
-    "build": "npm-run-all tsc cp-css cp-bs-css cp-bs-js cp-fonts rollup",
+    "build": "npm-run-all tsc cp-css cp-bs-css cp-bs-js cp-fonts rollup remove-unused",
+    "remove-unused": "rm src/main/www/js/B*.js src/main/www/js/E*.js src/main/www/js/R*.js src/main/www/js/S*.js",
     "audit": "npm audit fix",
     "clean": "rm -r target",
     "test": "echo \"Error: no test specified\" && exit 1"
