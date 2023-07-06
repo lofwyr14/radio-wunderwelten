@@ -22,12 +22,6 @@
             this.year = song.year;
             this.duration = song.duration;
         }
-        get amazon() {
-            const search = (this.performer ? this.performer : "")
-                + " " + (this.album ? this.album : "")
-                + " " + (this.title ? this.title : "");
-            return window.encodeURI(`https://www.amazon.de/s/ref=nb_sb_noss?field-keywords=${search}&tag=popecke-21`);
-        }
         get spotify() {
             return this.title === "Airport"
                 && this.performer === "The Motors";
@@ -379,7 +373,6 @@ ${episode.nextId
 <td class="${episode.songs.hasYear ? '' : 'd-none'}">${song.year ? song.year : ""}</td>
 <td class="${episode.songs.hasDuration ? '' : 'd-none'}">${song.duration ? song.duration : ""}</td>
 <td class="${episode.songs.hasTitle || episode.songs.hasPerformer ? '' : 'd-none'}">
-  <a href="${song.amazon}"><i class="fa fa-amazon" title="Suche bei Amazon"></i></a>
   <a class="${song.spotify ? '' : 'd-none'}" href="${song.spotifyWeb}" title="Spotify Web"><i class="fa fa-spotify"></i></a>
   <a class="${song.spotify ? '' : 'd-none'}" href="${song.spotifyApp}" title="Spotify App"><i class="fa fa-spotify"></i></a>
 </td>
