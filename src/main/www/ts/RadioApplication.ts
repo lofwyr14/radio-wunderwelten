@@ -111,8 +111,8 @@ class RadioApplication extends HTMLElement {
   <div class="container-fluid">
 ${episode.previousId
             ? html`<a class="nav-link" href="${broadcast.id}-${episode.previousId}.html" 
-@click="${this.navigate.bind(this)}" title="Zurück" aria-label="Zurück"><i class="fa fa-arrow-left"></i></a>`
-            : html`<a class="nav-link disabled"><i class="fa fa-arrow-left"></i></a>`
+@click="${this.navigate.bind(this)}" title="Zurück" aria-label="Zurück"><i class="fa fa-arrow-left text-primary"></i></a>`
+            : html`<a class="nav-link disabled"><i class="fa fa-arrow-left text-secondary"></i></a>`
         }
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#yearDropdown" 
         aria-controls="yearDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -138,8 +138,8 @@ ${broadcast.groups.get(groupId).episodesArray.map((e: Episode) =>
     </div>
 ${episode.nextId
             ? html`<a class="nav-link" href="${broadcast.id}-${episode.nextId}.html" 
-@click="${this.navigate.bind(this)}" title="Weiter" aria-label="Weiter"><i class="fa fa-arrow-right"></i></a>`
-            : html`<a class="nav-link disabled"><i class="fa fa-arrow-right"></i></a>`
+@click="${this.navigate.bind(this)}" title="Weiter" aria-label="Weiter"><i class="fa fa-arrow-right text-primary"></i></a>`
+            : html`<a class="nav-link disabled"><i class="fa fa-arrow-right text-secondary"></i></a>`
         }
   </div>
 </nav>

@@ -297,8 +297,8 @@
   <div class="container-fluid">
 ${episode.previousId
             ? x `<a class="nav-link" href="${broadcast.id}-${episode.previousId}.html" 
-@click="${this.navigate.bind(this)}" title="Zurück" aria-label="Zurück"><i class="fa fa-arrow-left"></i></a>`
-            : x `<a class="nav-link disabled"><i class="fa fa-arrow-left"></i></a>`}
+@click="${this.navigate.bind(this)}" title="Zurück" aria-label="Zurück"><i class="fa fa-arrow-left text-primary"></i></a>`
+            : x `<a class="nav-link disabled"><i class="fa fa-arrow-left text-secondary"></i></a>`}
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#yearDropdown" 
         aria-controls="yearDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -321,8 +321,8 @@ ${broadcast.groups.get(groupId).episodesArray.map((e) => x `<li><a class="dropdo
     </div>
 ${episode.nextId
             ? x `<a class="nav-link" href="${broadcast.id}-${episode.nextId}.html" 
-@click="${this.navigate.bind(this)}" title="Weiter" aria-label="Weiter"><i class="fa fa-arrow-right"></i></a>`
-            : x `<a class="nav-link disabled"><i class="fa fa-arrow-right"></i></a>`}
+@click="${this.navigate.bind(this)}" title="Weiter" aria-label="Weiter"><i class="fa fa-arrow-right text-primary"></i></a>`
+            : x `<a class="nav-link disabled"><i class="fa fa-arrow-right text-secondary"></i></a>`}
   </div>
 </nav>
 <h1>${episode.titleFormat}</h1>
