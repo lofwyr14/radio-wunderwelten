@@ -9902,7 +9902,7 @@
               { "title": "I Want You", "performer": "Jonathan Baker & TGM"},
               { "title": "The Spectacle", "performer": "I Like Trains"},
               { "title": "Amoeba", "performer": "Do Nothing"},
-              { "title": "Begin Againb", "performer": "Jessie Ware"}
+              { "title": "Begin Again", "performer": "Jessie Ware"}
             ],
             [
               { "time": "23:04", "title": "Here", "performer": "DJ Planet Express"},
@@ -9936,6 +9936,7 @@
         {
           "id": "19",
           "date": "2023-05-07",
+          "checked": {"date": "2023-07-08", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "No Intention", "performer": "SBTRKT feat. Leilah"},
@@ -9949,14 +9950,14 @@
               { "title": "More Love", "performer": " WheelUp & Kaidi Tatham feat. Brint Story"},
               { "title": "Blaurot", "performer": "Wa22ermann & Apsilon"},
               { "title": "Time I Leave", "performer": "Brian Nasty"},
-              { "title": "In My Head", "performer": "Jackson Homer & Cap1talA"}
+              { "title": "In My Head (La La La)", "performer": "Jackson Homer & Cap1talA"}
             ],
             [
               { "time": "23:04", "title": "Mountainbiker", "performer": "Njelk"},
-              { "title": "Trauma Mosaic", "performer": "John"},
+              { "title": "Trauma Mosaic", "performer": "John (Timestwo)"},
               { "title": "Moving Without Movement", "performer": "Wicca Phase Springs Eternal"},
-              { "title": "Feels Good!", "performer": "Jeleel!"},
               { "title": "Jump Jump!", "performer": "Jeleel!"},
+              { "title": "Feels Good!", "performer": "Jeleel!"},
               { "title": "Je Suis Un Avion", "performer": "Ascendant Vierge"},
               { "title": "According To Daneeka", "performer": "Annie Errez "},
               { "title": "All That Matters (Artbat Remix)", "performer": "Kölsch feat. Troels Abrahamsen"},
