@@ -80377,7 +80377,7 @@
           "id": "26",
           "date": "2023-06-29",
           "checked": {
-            "date": "2023-05-07",
+            "date": "2023-07-07",
             "user": "jg"
           },
           "songs": [
@@ -80530,6 +80530,10 @@
         {
           "id": "27",
           "date": "2023-07-06",
+          "checked": {
+            "date": "2023-07-09",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -80584,7 +80588,7 @@
               },
               {
                 "time": "22:42",
-                "title": "Stay At Home Dj",
+                "title": "Stay-At-Home Dj",
                 "performer": "Alan Palomo"
               },
               {
@@ -80636,7 +80640,7 @@
               },
               {
                 "time": "23:28",
-                "title": "Picture A Life",
+                "title": "Picture A Life (Demo Version)",
                 "performer": "Stone Foundation"
               },
               {
@@ -80646,7 +80650,7 @@
               },
               {
                 "time": "23:37",
-                "title": "What A Waste Of An Echo - The Three Magnets",
+                "title": "What A Waste Of An Echo / The Three Magnets (Maston Remix)",
                 "performer": "Spencer Cullum's Coin Collection"
               },
               {
@@ -80656,7 +80660,7 @@
               },
               {
                 "time": "23:47",
-                "title": "Oxygene",
+                "title": "Oxygène",
                 "performer": "Jet Set Swe feat. Jonas Wall"
               },
               {
@@ -80667,7 +80671,7 @@
               {
                 "time": "23:53",
                 "title": "Too Young To Die",
-                "performer": "M. Ward"
+                "performer": "M. Ward feat. First Aid Kit"
               },
               {
                 "time": "23:58",
