@@ -10319,6 +10319,49 @@
               { "title": "Too Young To Die", "performer": "M.Ward feat. First Aid Kit"}
             ]
           ]
+        },
+        {
+          "id": "27",
+          "date": "2023-07-02",
+          "songs": [
+            [
+              { "time": "22:04", "title": "One For Sorrow, Two For Joni Jones", "performer": "The Japanese House"},
+              { "title": "Cello Song", "performer": "Nick Drake"},
+              { "title": "Waiting", "performer": "Lev & Osolot"},
+              { "title": "The Painter", "performer": "Angelo De Augustine"},
+              { "title": "Alps", "performer": "bdrmm"},
+              { "title": "Viewing Objects Through A Mass Of Heated Air", "performer": "DJ Counselling"},
+              { "title": "May Yopur Angels Of Light Accept Him", "performer": "Al Wootton"},
+              { "title": "Bob´s Casino", "performer": "Grian Chatten"},
+              { "title": "Hanging On Your Lips", "performer": "Cousin Kula"},
+              { "title": "Signal Of Hope", "performer": "Hayden Pedigo"}
+            ],
+            [
+              { "time": "23:04", "title": "Saturn Drive Triplex", "performer": "Laurent Garnier feat. Alan Vega"},
+              { "title": "Bedwetter", "performer": "Body Horror"},
+              { "title": "Flesh", "performer": "Golden Features"},
+              { "title": "Manifest", "performer": "Crystal Fighters"},
+              { "title": "You´re A Freak", "performer": "Acid Klaus feat. Philly Piper"},
+              { "title": "That Fiya", "performer": "Lil Uzi Vert"},
+              { "title": "Nakamura", "performer": "Lil Uzi Vert"},
+              { "title": "Star Starter", "performer": "DAIISTAR"},
+              { "title": "Thank You", "performer": "Nightbeats"},
+              { "title": "Rhoenians Death", "performer": "Lawn Chair"},
+              { "title": "Tales From The Real World", "performer": "Laurent Garnier feat. Alan Watts"}
+            ],
+            [
+              { "time": "00:04", "title": "Let The People Faire La Fete", "performer": "Laurent Garnier"},
+              { "title": "Careless Eyes", "performer": "Soft Machine"},
+              { "title": "Penny Hitch", "performer": "Soft Machine"},
+              { "title": "Be Careful", "performer": "bdrmm"},
+              { "title": "Synaesthesie", "performer": "Erobique feat. Sophia Kennedy"},
+              { "title": "Snake Sideways", "performer": "Do Nothing"},
+              { "title": "Zuma 85", "performer": "Allah-Las"},
+              { "title": "Amoeba", "performer": "Do Nothing"},
+              { "title": "Carmen", "performer": "Olivia Dean"},
+              { "title": "Cello Song", "performer": "Fontaines D.C."}
+            ]
+          ]
         }
       ]
     }
