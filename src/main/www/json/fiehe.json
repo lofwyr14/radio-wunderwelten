@@ -9987,6 +9987,7 @@
         {
           "id": "20",
           "date": "2023-05-14",
+          "checked": {"date": "2023-07-11", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Where East Meets West", "performer": "Paresse"},
@@ -10007,13 +10008,14 @@
               { "title": "Chica", "performer": "Duskee feat. Deadline & Slay"},
               { "title": "Xoul Trap", "performer": "Otik"},
               { "title": "Good Lies", "performer": "Overmono"},
-              { "title": "Circle Of Light", "performer": "Because Of Art feat. Anthony Szmierek"},
+              { "title": "Good Lies (Outro)", "performer": "Overmono"},
+              { "title": "Circle Of Light (Incandescent Mix - Long Version)", "performer": "Because Of Art feat. Antony Szmierek"},
               { "title": "Like This Or Like This", "performer": "Hommel"},
               { "title": "Black Dove", "performer": "Leon Vynehall"},
               { "title": "Calling Out", "performer": "Overmono"},
               { "title": "Stuck In My Head", "performer": "Amilli"},
               { "title": "Fliessband", "performer": "Floh De Cologne"},
-              { "title": "Security Bei Saturn", "performer": "Augn"},
+              { "title": "Security bei Saturn", "performer": "Augn"},
               { "title": "Bad Houses", "performer": "Big Black"},
               { "title": "Very Sad Opfertyp", "performer": "Augn"},
               { "title": "What You Did", "performer": "Hannah Jadagu"}
