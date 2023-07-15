@@ -10037,6 +10037,7 @@
         {
           "id": "21",
           "date": "2023-05-21",
+          "checked": {"date": "2023-07-15", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Love Is", "performer": "Mega Bog"},
@@ -10070,8 +10071,8 @@
               { "title": "Billion Dollar Gravy (Watch The Ride Remix)", "performer": "London Elektricity"},
               { "title": "Say What", "performer": "L-Side & MC Bassman"},
               { "title": "Black & Blue", "performer": "Dubmatix feat. Rootwords"},
-              { "title": "Empire Of DIrt", "performer": "Egoless"},
-              { "title": "Time Stands Still  feat. Ryder Shafique", "performer": "Sepia"},
+              { "title": "Empire Of Dirt (Version)", "performer": "Egoless"},
+              { "title": "Time Stands Still (Vocal Mix) feat. Ryder Shafique", "performer": "Sepia"},
               { "title": "Bird´s Eye", "performer": "Mavi Phoenix"},
               { "title": "Shout", "performer": "Tears For Fears"},
               { "title": "Don´t Doom Me, Now", "performer": "Mega Bog"},
