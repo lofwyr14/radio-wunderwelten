@@ -10365,6 +10365,52 @@
               { "title": "Cello Song", "performer": "Fontaines D.C."}
             ]
           ]
+        },
+        {
+          "id": "28",
+          "date": "2023-07-09",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Get That Feeling", "performer": "PFM"},
+              { "title": "Closer", "performer": "Fred V & DNMO feat. Lottie Jones"},
+              { "title": "Aslan", "performer": "Trance Wax"},
+              { "title": "Waiheke Island", "performer": "Skream & Prosba"},
+              { "title": "Talk Dirty 2 Me", "performer": "Briskin"},
+              { "title": "New Being", "performer": "Binary State"},
+              { "title": "Wet", "performer": "Claud"},
+              { "title": "Sunshine Baby", "performer": "The Japanese House"},
+              { "title": "Seem An I", "performer": "PJ Harvey"},
+              { "title": "Autumn Term", "performer": "PJ Harvey"},
+              { "title": "Country House Waits", "performer": "Faun Fables"},
+              { "title": "The Takedown", "performer": "John Carroll Kirby"}
+            ],
+            [
+              { "time": "23:04", "title": "Other One", "performer": "The Radio Field"},
+              { "title": "Just Before The Morning", "performer": "Local Natives"},
+              { "title": "Rosarot", "performer": "Moritz Ley"},
+              { "title": "Wagging Tongue (Wet Leg Remix)", "performer": "Depeche Mode"},
+              { "title": "Stratus", "performer": "Conducta"},
+              { "title": "Kinetic Soul", "performer": "Binary State"},
+              { "title": "Love Me (Extended)", "performer": "Hot Since 82"},
+              { "title": "Connoisseur Of Salt", "performer": "Sweeping Promises"},
+              { "title": "Lost In Relations", "performer": "Yuun"},
+              { "title": "Kisses", "performer": "Slowdive"},
+              { "title": "Flare", "performer": "Julie Byrne"},
+              { "title": "Allein, Allein", "performer": "Innerverse & Helsloot feat. Malou"}
+            ],
+            [
+              { "time": "00:04", "title": "Schicht am Ende des Tunnels", "performer": "Sankt Otten"},
+              { "title": "Hi Scores", "performer": "Boards Of Canada"},
+              { "title": "Approaching", "performer": "Sieren"},
+              { "title": "Autobahn nach Amsterdam", "performer": "Von Korf"},
+              { "title": "Eins Null Eins Eins Null", "performer": "Fred und Luna"},
+              { "title": "Nachtficht", "performer": "Ficht"},
+              { "title": "With U", "performer": "K-Lone feat. Eliza Rose"},
+              { "title": "Burn Money", "performer": "Delilah Holliday"},
+              { "title": "It Must Change", "performer": "Anohni And The Johnsons"},
+              { "title": "One Of These Things First", "performer": "Emelie Sande"}
+            ]
+          ]
         }
       ]
     }
