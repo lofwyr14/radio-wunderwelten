@@ -10085,6 +10085,7 @@
         {
           "id": "22",
           "date": "2023-05-28",
+          "checked": {"date": "2023-07-22", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Schüttel die alten Knochen", "performer": "Metz & Geratsch"},
@@ -10095,10 +10096,10 @@
               { "title": "Nothing Really Changes", "performer": "RVG"},
               { "title": "Priestess", "performer": "Pumarosa"},
               { "title": "The Bearer (Ocatave One Remix)", "performer": "Octave One feat. Karina Mia"},
-              { "title": "On & On (Edmondson Clarement Skies Revisit)", "performer": "Edmondson"},
+              { "title": "On & On (Edmondson's Claremont Skies Revisit)", "performer": "Edmondson"},
               { "title": "Elimination Dances", "performer": "Protomartyr"},
               { "title": "The Punisher", "performer": "Stuck"},
-              { "title": "Of The Lit Backards", "performer": "Black Duck"}
+              { "title": "Of The Lit Backyards", "performer": "Black Duck"}
             ],
             [
               { "time": "23:04", "title": "Medicine", "performer": "Clark feat. Thom Yorke"},
@@ -10117,7 +10118,7 @@
             ],
             [
               { "time": "00:04", "title": "Runaway", "performer": "Ready In Led"},
-              { "title": "Feathers & Bones (Tim Engelhardt Remix)", "performer": "Rodriguez Jr."},
+              { "title": "Visions (Tim Engelhardt Remix)", "performer": "Rodriguez Jr."},
               { "title": "3FALL", "performer": "Conducta"},
               { "title": "Turn The Light On", "performer": "Rodriguez Jr. feat. Stereo MC´s"},
               { "title": "Rave I Didn´t Know Was The Last", "performer": "Bop & Subwave"},
@@ -10126,7 +10127,7 @@
               { "title": "Council Skies (The Reflex Revision)", "performer": "Noel Gallagher´s High Flying Birds"},
               { "title": "(Just Like The) Setting Sun", "performer": "Beach Fossils"},
               { "title": "Girlfriend", "performer": "Dote feat. katya."},
-              { "title": "Dreams (On The Strip)", "performer": "Flaming Gods"},
+              { "title": "Dreams (On The Strip)", "performer": "Flamingods"},
               { "title": "Rock Me Baby", "performer": "Ike & Tina Turner"},
               { "title": "Rock Me", "performer": "Alexis Korner & Peter Thorup with Snape"}
             ]
