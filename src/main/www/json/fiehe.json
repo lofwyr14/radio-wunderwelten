@@ -10136,6 +10136,7 @@
         {
           "id": "23",
           "date": "2023-06-04",
+          "checked": {"date": "2023-07-24", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Good Lies", "performer": "Overmono"},
