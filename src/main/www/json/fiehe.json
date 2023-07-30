@@ -10235,6 +10235,8 @@
         {
           "id": "25",
           "date": "2023-06-18",
+          "comment": "Traumzeitfestival Duisburg",
+          "checked": {"date": "2023-07-30", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Bella Napoli (Luis Ake´s Diego Trancedona Remix)", "performer": "Roy Bianco & Die Abbrunzati Boys"},
@@ -10269,13 +10271,13 @@
               { "title": "(It Goes Like) Na, Na, Na", "performer": "Peggy Gou"},
               { "title": "Time Out", "performer": "Dukwa"},
               { "title": "Straight Jacket Fitting", "performer": "Queens Of The Stone Age"},
-              { "title": "Liquid Spirit (Claptone Remix)", "performer": "Gregory Porter"},
+              { "title": "Liquid Spirit (Claptone Remix / Full Vocal Version)", "performer": "Gregory Porter"},
               { "title": "Scars", "performer": "Jayda G"},
               { "title": "Taurus", "performer": "Glass Beams"},
               { "title": "Journey Of The Heart (Guy Tallo Remix)", "performer": "Paresse"},
               { "title": "No Time", "performer": "Django Django feat. Jack Penate"},
               { "title": "Girlfriend", "performer": "Dote feat. Katya."},
-              { "title": "Aus Der Körperzone Raus", "performer": "Datashock"}
+              { "title": "Aus der Körperzone raus", "performer": "Datashock"}
             ]
           ]
         },
