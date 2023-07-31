@@ -10463,6 +10463,54 @@
               { "title": "Dance With Me", "performer": "Hums"}
             ]
           ]
+        },
+        {
+          "id": "30",
+          "date": "2023-07-23",
+          "songs": [
+            [
+              { "title": "Good Lies", "performer": "Overmono"},
+              { "title": "It´s You", "performer": "Blue Print"},
+              { "title": "Another Life (Krystal Klear Remix)", "performer": "LP Giobbi feat. Caroline Byrne"},
+              { "title": "Keep It Goin´ On", "performer": "Blade"},
+              { "title": "Feels Good", "performer": "Jeleel!"},
+              { "title": "Broken Hearted Or What?", "performer": "AlienBlaze"},
+              { "title": "All I´ll Ever Be", "performer": "Film School"},
+              { "title": "Hey", "performer": "Red Axes feat. A.Lonzo"},
+              { "title": "Mars, Arizona (DFA Remix)", "performer": "Jon Spencer Blues Explosion"},
+              { "title": "The Trenchcoat Museum", "performer": "Yard Act"},
+              { "title": "Oh Well", "performer": "Fleetwood Mac"},
+              { "title": "Fight, Devour, Shower", "performer": "Diskopunk"}
+            ],
+            [
+              { "title": "St. Charles Square", "performer": "Blur"},
+              { "title": "Whips And Chains", "performer": "Low Cut Conny"},
+              { "title": "Wait No More", "performer": "Soul Mass Transit System"},
+              { "title": "Dream Machine (Original)", "performer": "Pressa X Drumskull"},
+              { "title": "Trip To The Stars", "performer": "DJ Marky feat. Makoto"},
+              { "title": "Invisible Sounds (Random Movement Remix)", "performer": "T.R.A.C."},
+              { "title": "Pink", "performer": "Lizzo"},
+              { "title": "Dance The Night", "performer": "Dua LIpa"},
+              { "title": "Barbie World", "performer": "Nicki Minaj & Ice Spice feat. Aqua"},
+              { "title": "Speed Drive", "performer": "Charlie XCX"},
+              { "title": "Journey To The Real World", "performer": "Tame Impala"},
+              { "title": "Just Breathe", "performer": "ANII"}
+            ],
+            [
+              { "title": "Energy (Gorgon City Remix)", "performer": "Digga D"},
+              { "title": "Tongue", "performer": "Matisa"},
+              { "title": "E11even", "performer": "K1 Never Forget Loyalty feat. Bandokay & Izzpot"},
+              { "title": "Sekkle", "performer": "Hoax feat. PVC"},
+              { "title": "Moonshine", "performer": "TREX with Benny"},
+              { "title": "Live Life", "performer": "PA"},
+              { "title": "Pale Fire", "performer": "Ralfe Band"},
+              { "title": "A Place For It To Land", "performer": "Allegra Krieger"},
+              { "title": "Don´t Fade Out", "performer": "Cut Worms"},
+              { "title": "I DONTOU", "performer": "Luna Morgenstern"},
+              { "title": "Der Katalog", "performer": "Die Selektion"},
+              { "title": "Can´t Stand (Robag Wruhme Remix)", "performer": "Catz´n Dogz ft. ZenSoFly"}
+            ]
+          ]
         }
       ]
     }
