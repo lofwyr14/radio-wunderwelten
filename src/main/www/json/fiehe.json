@@ -10284,6 +10284,7 @@
         {
           "id": "26",
           "date": "2023-06-25",
+          "checked": {"date": "2023-08-01", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Heaven", "performer": "The Psychedelic Furs"},
@@ -10307,7 +10308,7 @@
               { "title": "Complete Me", "performer": "Django Django feat. Self Esteem"},
               { "title": "World (Echosystem Remix)", "performer": "Last Magpie"},
               { "title": "Want U", "performer": "Anaïs"},
-              { "title": "So Tell Me", "performer": "Nia Archives"},
+              { "title": "So Tell Me...", "performer": "Nia Archives"},
               { "title": "Wicked", "performer": "Sudley & Anaïs feat. Flowdan"},
               { "title": "100-99", "performer": "Albert Hammond Jr feat. GoldLink"},
               { "title": "Communion", "performer": "Lewsberg"},
