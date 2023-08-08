@@ -10398,12 +10398,12 @@
               { "title": "Wagging Tongue (Wet Leg Remix)", "performer": "Depeche Mode"},
               { "title": "Stratus", "performer": "Conducta"},
               { "title": "Kinetic Soul", "performer": "Binary State"},
-              { "title": "Love Me (Extended)", "performer": "Hot Since 82"},
+              { "title": "Love Me (Extended Mix)", "performer": "Hot Since 82"},
               { "title": "Connoisseur Of Salt", "performer": "Sweeping Promises"},
               { "title": "Lost In Relations", "performer": "Yuun"},
               { "title": "Kisses", "performer": "Slowdive"},
               { "title": "Flare", "performer": "Julie Byrne"},
-              { "title": "Allein, Allein", "performer": "Innerverse & Helsloot feat. Malou"}
+              { "title": "Allein, Allein (Extended)", "performer": "Innerverse & Helsloot feat. Malou"}
             ],
             [
               { "time": "00:04", "title": "Schicht am Ende des Tunnels", "performer": "Sankt Otten"},
@@ -10511,6 +10511,54 @@
               { "title": "I DONTOU", "performer": "Luna Morgenstern"},
               { "title": "Der Katalog", "performer": "Die Selektion"},
               { "title": "Can´t Stand (Robag Wruhme Remix)", "performer": "Catz´n Dogz ft. ZenSoFly"}
+            ]
+          ]
+        },
+        {
+          "id": "31",
+          "date": "2023-07-30",
+          "songs": [
+            [
+              { "title": "Walk Walk", "performer": "Sylvie Kreusch"},
+              { "title": "Nightswim", "performer": "Lindstroem"},
+              { "title": "Some Things You´ll Never Know", "performer": "Georgia"},
+              { "title": "Hot Gossip", "performer": "Regularfantasy"},
+              { "title": "EZ 4Me (Dismantle Remix) ", "performer": "Bianca Oblivion"},
+              { "title": "Warm", "performer": "Klustone"},
+              { "title": "Dance With Me", "performer": "Hums"},
+              { "title": "Hey", "performer": "Red Axes feat. A.Lonzo"},
+              { "title": "Wolf Child/Prime Mover", "performer": "Zodiac Mindwarp And The Love Reaction"},
+              { "title": "What Gives You The Idea That You´re So Amazing Baby?", "performer": "Crazyhead"},
+              { "title": "Radio Brainwave", "performer": "Iguana Death Cult"},
+              { "title": "Begin Again", "performer": "The Mysterines"}
+            ],
+            [
+              { "title": "Poinciana (Song Of The Tree)", "performer": "Gato Barbieri"},
+              { "title": "Don´t Be A Baby", "performer": "Adekunle Gold"},
+              { "title": "Need Love (SLG´s Like It´s 1997 Mix)", "performer": "Smolny"},
+              { "title": "An Idea Of Guilt II (The KVB Remix)", "performer": "Hello Pity"},
+              { "title": "New Star Line", "performer": "Saccades"},
+              { "title": "Drive", "performer": "Jessy Lanza"},
+              { "title": "Running Back", "performer": "Modema"},
+              { "title": "String Of Hearts", "performer": "Bloodflowers"},
+              { "title": "Class Dismissed", "performer": "Winslow"},
+              { "title": "Lovin Me", "performer": "Soul Mass Transit System"},
+              { "title": "Where It Begins", "performer": "Technimatic"}
+            ],
+            [
+              { "title": "The Spaceship Connection", "performer": "DJ Marky"},
+              { "title": "Tio Baby", "performer": "Adekunle Gold"},
+              { "title": "Feel", "performer": "Slowe"},
+              { "title": "Chasing Peace Of Mind", "performer": "Adekunle Gold  feat. Habib Koite & Ami Faku"},
+              { "title": "Wrong Person", "performer": "Adekunle Gold feat. Odumodublvck"},
+              { "title": "Nice While It Lasted", "performer": "Famous"},
+              { "title": "Sirens", "performer": "Devendra Banhart"},
+              { "title": "Blush", "performer": "Strange Ranger"},
+              { "title": "Over You (Club Mix)", "performer": "Lili Chan"},
+              { "title": "Waiheke Island", "performer": "Skream + Prospa"},
+              { "title": "Acid Connection", "performer": "Felix"},
+              { "title": "Sixpence", "performer": "Patio"},
+              { "title": "Screaming In The Rain Again", "performer": "Sorry"}
             ]
           ]
         }
