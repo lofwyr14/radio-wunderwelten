@@ -10426,20 +10426,20 @@
           "date": "2023-07-16",
           "songs": [
             [
-              { "title": "A Good Thing", "performer": "Claud"},
+              { "time": "22:04", "title": "A Good Thing", "performer": "Claud"},
               { "title": "Kubital Footstorm (Richard Sen Remix)", "performer": "Mind Over Rhythm"},
               { "title": "The Age Of Love (New Age Mix)", "performer": "Age Of Love"},
               { "title": "The Rind", "performer": "Lindstroem"},
               { "title": "Jah", "performer": "Sabrina Bellaouel "},
               { "title": "Wespennest", "performer": "DJ Koze & Sophia Kennedy"},
-              { "title": "Man In The Mirror", "performer": "Chefket & BenDNA"},
-              { "title": "Space", "performer": "EL-B"},
-              { "title": "Higher Than Ever Before (Extended)", "performer": "Disclosure"},
+              { "title": "Man In The Mirror", "performer": "Chefket & BenDMA"},
+              { "title": "Space", "performer": "El-B"},
+              { "title": "Higher Than Ever Before (Extended Mix)", "performer": "Disclosure"},
               { "title": "Waiheke Island", "performer": "Skream & Prosba"},
               { "title": "Purple Moon", "performer": "Ilgen Nur"}
             ],
             [
-              { "title": "Flood", "performer": "M.Byrd"},
+              { "time": "23:04", "title": "Flood", "performer": "M.Byrd"},
               { "title": "Dark Days", "performer": "Yard Act"},
               { "title": "Zeuge aus Licht", "performer": "Die Selektion"},
               { "title": "Structural Index (The KVB Remix)", "performer": "The KVB"},
@@ -10452,7 +10452,7 @@
               { "title": "Same Love", "performer": "Freekind."}
             ],
             [
-              { "title": "Dozy", "performer": "Need For Mirrors"},
+              { "time": "00:04", "title": "Dozy", "performer": "Need For Mirrors"},
               { "title": "Love Letters", "performer": "Winslow"},
               { "title": "Analogy", "performer": "Simplification"},
               { "title": "Show Me The Light", "performer": "Unglued feat. Kathy Brown"},
@@ -10473,7 +10473,7 @@
           "date": "2023-07-23",
           "songs": [
             [
-              { "title": "Good Lies", "performer": "Overmono"},
+              { "time": "22:04", "title": "Good Lies", "performer": "Overmono"},
               { "title": "It´s You", "performer": "Blue Print"},
               { "title": "Another Life (Krystal Klear Remix)", "performer": "LP Giobbi feat. Caroline Byrne"},
               { "title": "Keep It Goin´ On", "performer": "Blade"},
@@ -10487,7 +10487,7 @@
               { "title": "Fight, Devour, Shower", "performer": "Diskopunk"}
             ],
             [
-              { "title": "St. Charles Square", "performer": "Blur"},
+              { "time": "23:04", "title": "St. Charles Square", "performer": "Blur"},
               { "title": "Whips And Chains", "performer": "Low Cut Conny"},
               { "title": "Wait No More", "performer": "Soul Mass Transit System"},
               { "title": "Dream Machine (Original)", "performer": "Pressa X Drumskull"},
@@ -10501,7 +10501,7 @@
               { "title": "Just Breathe", "performer": "ANII"}
             ],
             [
-              { "title": "Energy (Gorgon City Remix)", "performer": "Digga D"},
+              { "time": "00:04", "title": "Energy (Gorgon City Remix)", "performer": "Digga D"},
               { "title": "Tongue", "performer": "Matisa"},
               { "title": "E11even", "performer": "K1 Never Forget Loyalty feat. Bandokay & Izzpot"},
               { "title": "Sekkle", "performer": "Hoax feat. PVC"},
@@ -10521,7 +10521,7 @@
           "date": "2023-07-30",
           "songs": [
             [
-              { "title": "Walk Walk", "performer": "Sylvie Kreusch"},
+              { "time": "22:04", "title": "Walk Walk", "performer": "Sylvie Kreusch"},
               { "title": "Nightswim", "performer": "Lindstroem"},
               { "title": "Some Things You´ll Never Know", "performer": "Georgia"},
               { "title": "Hot Gossip", "performer": "Regularfantasy"},
@@ -10535,7 +10535,7 @@
               { "title": "Begin Again", "performer": "The Mysterines"}
             ],
             [
-              { "title": "Poinciana (Song Of The Tree)", "performer": "Gato Barbieri"},
+              { "time": "23:04", "title": "Poinciana (Song Of The Tree)", "performer": "Gato Barbieri"},
               { "title": "Don´t Be A Baby", "performer": "Adekunle Gold"},
               { "title": "Need Love (SLG´s Like It´s 1997 Mix)", "performer": "Smolny"},
               { "title": "An Idea Of Guilt II (The KVB Remix)", "performer": "Hello Pity"},
@@ -10548,7 +10548,7 @@
               { "title": "Where It Begins", "performer": "Technimatic"}
             ],
             [
-              { "title": "The Spaceship Connection", "performer": "DJ Marky"},
+              { "time": "00:04", "title": "The Spaceship Connection", "performer": "DJ Marky"},
               { "title": "Tio Baby", "performer": "Adekunle Gold"},
               { "title": "Feel", "performer": "Slowe"},
               { "title": "Chasing Peace Of Mind", "performer": "Adekunle Gold  feat. Habib Koite & Ami Faku"},
