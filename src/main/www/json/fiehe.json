@@ -10424,6 +10424,7 @@
         {
           "id": "29",
           "date": "2023-07-16",
+          "checked": {"date": "2023-08-12", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "A Good Thing", "performer": "Claud"},
@@ -10436,13 +10437,14 @@
               { "title": "Space", "performer": "El-B"},
               { "title": "Higher Than Ever Before (Extended Mix)", "performer": "Disclosure"},
               { "title": "Waiheke Island", "performer": "Skream & Prosba"},
-              { "title": "Purple Moon", "performer": "Ilgen Nur"}
+              { "title": "Purple Moon", "performer": "Ilgen Nur"},
+              { "title": "Cicada Rhythm (Prins Thomas Diskomix)", "performer": "Bottler"}
             ],
             [
               { "time": "23:04", "title": "Flood", "performer": "M.Byrd"},
               { "title": "Dark Days", "performer": "Yard Act"},
               { "title": "Zeuge aus Licht", "performer": "Die Selektion"},
-              { "title": "Structural Index (The KVB Remix)", "performer": "The KVB"},
+              { "title": "Structural Index (The KVB After-Hours Version)", "performer": "The KVB"},
               { "title": "New Star Line", "performer": "Saccades"},
               { "title": "No Dither", "performer": "Holodrum"},
               { "title": "The Trenchcoat Museum (Extended)", "performer": "Yard Act"},
