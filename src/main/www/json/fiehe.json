@@ -10565,6 +10565,53 @@
               { "title": "Screaming In The Rain Again", "performer": "Sorry"}
             ]
           ]
+        },
+        {
+          "id": "32",
+          "date": "2023-08-06",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Herman´s House", "performer": "Special Interest"},
+              { "title": "EZ 4Me (Dismantle Remix)  ", "performer": "Bianca Oblivion"},
+              { "title": "Celeb", "performer": "Rennie Pilgrem with MC Chickaboo"},
+              { "title": "Fett", "performer": "Bipolar Feminin"},
+              { "title": "Attack Of The Ghost Riders", "performer": "MØ"},
+              { "title": "Because", "performer": "Danger Mouse & Black Thought feat. Joey Bada$$, Russ and Dylan Cartlidge"},
+              { "title": "Nice While It Lasted", "performer": "Famous"},
+              { "title": "Famous", "performer": "Courting"},
+              { "title": "Walk Walk", "performer": "Sylvie Kreusch"},
+              { "title": "Barefoot Lady", "performer": "Matthis Pascaud & Hugh Coltman"},
+              { "title": "Fourth Pass Over The Graveyard", "performer": "The Black Delta Movement"}
+            ],
+            [
+              { "time": "23:04", "title": "Sign Of The Times", "performer": "Gurriers"},
+              { "title": "Waiheke Island", "performer": "Skream & Prospa"},
+              { "title": "Bella Napoli (Luis Ake´s Diego Trancedona Remix)", "performer": "Roy Bianco & Die Abbrunzati Boys"},
+              { "title": "Zeuge Aus Licht", "performer": "Die Selektion"},
+              { "title": "Massaker", "performer": "Tommi Stumpff"},
+              { "title": "Ganz Egal", "performer": "Die Nerven"},
+              { "title": "Cigarettes", "performer": "Current Joys"},
+              { "title": "Danger", "performer": "Olivia Dean"},
+              { "title": "Kann nicht tanzen, kann nicht sing, ballern, das ist mein Ding", "performer": "VFL Jesus"},
+              { "title": "Salvation", "performer": "Rae&Christian feat. Siron"},
+              { "title": "Thinking Of You", "performer": "Skream"},
+              { "title": "Broken", "performer": "Maria Basel"},
+              { "title": "Reality Mind", "performer": "Madeline Kenney"},
+              { "title": "Too Much, Enough", "performer": "Nation Of Language"}
+            ],
+            [
+              { "time": "00:04", "title": "Who´s Loving You", "performer": "High Contrast & Clare Maguire"},
+              { "title": "Surgeon Wobble", "performer": "Concorde Dawn"},
+              { "title": "Take It Back", "performer": "Jasmin OMEARA"},
+              { "title": "Last One", "performer": "Bakey"},
+              { "title": "Leader Of The Pack", "performer": "Wunder Horse"},
+              { "title": "Naked In The ain (Extended)", "performer": "Herve feat. Clara Byrne"},
+              { "title": "Give Me Your Love", "performer": "Girl Rey"},
+              { "title": "Perfect", "performer": "Sorry"},
+              { "title": "The Trench Coat Museum", "performer": "Yard Act"},
+              { "title": "Screaming In The Rain Again", "performer": "Sorry"}
+            ]
+          ]
         }
       ]
     }
