@@ -80680,6 +80680,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "33",
+          "date": "2023-08-17",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Tears Are Not Enough (Steve Wilson Mix)",
+                "performer": "ABC"
+              },
+              {
+                "time": "22:08",
+                "title": "Beautiful Praise",
+                "performer": "Grand Drifter"
+              },
+              {
+                "time": "22:11",
+                "title": "Clouds",
+                "performer": "PWNT"
+              },
+              {
+                "time": "22:15",
+                "title": "Can't Get It Out Of My Head",
+                "performer": "Juliana Hatfield"
+              },
+              {
+                "time": "22:19",
+                "title": "The Cigarette Duet",
+                "performer": "Princess Chelsea"
+              },
+              {
+                "time": "22:23",
+                "title": "Back On 74",
+                "performer": "Jungle"
+              },
+              {
+                "time": "22:26",
+                "title": "Away From The Castle",
+                "performer": "Video Age"
+              },
+              {
+                "time": "22:32",
+                "title": "A Pearlescent Ray Of Sunshine",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "22:38",
+                "title": "Tenderfoot Pegasus",
+                "performer": "John Carroll Kirby"
+              },
+              {
+                "time": "22:41",
+                "title": "Prism",
+                "performer": "Say She She"
+              },
+              {
+                "time": "22:45",
+                "title": "Float Away",
+                "performer": "Poolside feat. Vansire"
+              },
+              {
+                "time": "22:48",
+                "title": "Japanese Strawberries (Slightly Transformed)",
+                "performer": "The Found Sound Orchestra"
+              },
+              {
+                "time": "22:51",
+                "title": "Melody's Mother Jam",
+                "performer": "Spearmint"
+              },
+              {
+                "time": "22:55",
+                "title": "Unlimited Love",
+                "performer": "Alan Parker"
+              },
+              {
+                "time": "22:58",
+                "title": "Tanya (Edit By Mr. K)",
+                "performer": "Cal Tjader"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Could We, Canvey",
+                "performer": "Spencer Cullum's Coin Collection"
+              },
+              {
+                "time": "23:07",
+                "title": "You",
+                "performer": "Les Imprimés"
+              },
+              {
+                "time": "23:11",
+                "title": "Sorry (Won't Cut It)",
+                "performer": "Bibio feat. Olivier St Louis"
+              },
+              {
+                "time": "23:14",
+                "title": "Honey Eater",
+                "performer": "Kinobe"
+              },
+              {
+                "time": "23:19",
+                "title": "Move To It",
+                "performer": "Co-Pilot"
+              },
+              {
+                "time": "23:23",
+                "title": "Bmpd",
+                "performer": "Smooth Reunion"
+              },
+              {
+                "time": "23:30",
+                "title": "Vehicle",
+                "performer": "This Week's SPecial Guest Star (Daniel Carlson feat. Linda Good & Matt Johnson)"
+              },
+              {
+                "time": "23:33",
+                "title": "A Boat Called Bonnie",
+                "performer": "Herr Wade"
+              },
+              {
+                "time": "23:35",
+                "title": "Kansas",
+                "performer": "Whitney"
+              },
+              {
+                "time": "23:39",
+                "title": "Do You Feel Like A Ghost?",
+                "performer": "Michael Seyer"
+              },
+              {
+                "time": "23:42",
+                "title": "I Don't Want To Go That Way",
+                "performer": "The Paper Kites"
+              },
+              {
+                "time": "23:47",
+                "title": "Room 907",
+                "performer": "Bubble Tea And Cigarettes"
+              },
+              {
+                "time": "23:53",
+                "title": "Viento Calido",
+                "performer": "Greg Foat & Gigi Masin"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
