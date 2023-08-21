@@ -10612,7 +10612,51 @@
               { "title": "Screaming In The Rain Again", "performer": "Sorry"}
             ]
           ]
+        },
+        {
+          "id": "33",
+          "date": "2023-08-13",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Too Much (Melly Mel)", "performer": "Porches"},
+              { "title": "Blue Star", "performer": "Benny Carter And His Orchetra"},
+              { "title": "Black Mirror", "performer": "Noname"},
+              { "title": "Hold Me Down", "performer": "Noname feat. Jimetta Rose & Voices Of Creation"},
+              { "title": "Every Chance I Get", "performer": "Dan Auerbach"},
+              { "title": "Catfish Blues", "performer": "Jimmy “Duck” Holmes"},
+              { "title": "On The Road Again", "performer": "Telex"},
+              { "title": "Air", "performer": "Lifesize Teddy"},
+              { "title": "August Again", "performer": "Kiefer"},
+              { "title": "Enormous Room", "performer": "Sammy Bananas"},
+              { "title": "Realest", "performer": "EZ MIL feat. Eminem"}
+            ],
+            [
+              { "time": "23:04", "title": "Collinwood Fire", "performer": "Glenn Schwartz"},
+              { "title": "No Lovin´", "performer": "The Black Keys"},
+              { "title": "Softpower", "performer": "Bilderbuch"},
+              { "title": "Digital Love (Minidisc Mix)", "performer": "LDLDN"},
+              { "title": "State Of Peace", "performer": "e-freq"},
+              { "title": "Eins Null Eins Eins Null", "performer": "Fred Und Luna"},
+              { "title": "Ich geh´ den Weg mit dir", "performer": "Musiccargo"},
+              { "title": "Pulse VI", "performer": "Kerala Dust"},
+              { "title": "Don´t Let Go", "performer": "Supershy (Tom Misch)"},
+              { "title": "I´d Like You To Leave", "performer": "ZZZAHARA"}
+            ],
+            [
+              { "time": "00:04", "title": "Captain Kennedy", "performer": "Neil Young"},
+              { "title": "Buffalo Road", "performer": "Gabe Carter"},
+              { "title": "Fourth Pass Over The Graveyard", "performer": "The Black Delta Movement"},
+              { "title": "My Tornado", "performer": "The Black Angels"},
+              { "title": "Any Day Now", "performer": "Laura Groves"},
+              { "title": "I Forget", "performer": "Jaakko Eino Kalevi"},
+              { "title": "My Song", "performer": "Fredo"},
+              { "title": "Quit Rapping", "performer": "Fredo"},
+              { "title": "Junkyard (feat. Ocean Wisdom)", "performer": "P-Money & Whiney"},
+              { "title": "Bando", "performer": "Moneybxgz feat. K-Trap"}
+            ]
+          ]
         }
+
       ]
     }
   ]
