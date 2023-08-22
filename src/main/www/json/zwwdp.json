@@ -80684,6 +80684,10 @@
         {
           "id": "33",
           "date": "2023-08-17",
+          "checked": {
+            "date": "2023-08-22",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -80708,7 +80712,7 @@
               },
               {
                 "time": "22:19",
-                "title": "The Cigarette Duet",
+                "title": "Cigarette Duet",
                 "performer": "Princess Chelsea"
               },
               {
@@ -80742,7 +80746,7 @@
                 "performer": "Poolside feat. Vansire"
               },
               {
-                "time": "22:48",
+                "time": "22:47",
                 "title": "Japanese Strawberries (Slightly Transformed)",
                 "performer": "The Found Sound Orchestra"
               },
@@ -80776,7 +80780,7 @@
               {
                 "time": "23:11",
                 "title": "Sorry (Won't Cut It)",
-                "performer": "Bibio feat. Olivier St Louis"
+                "performer": "Bibio feat. Olivier St. Louis"
               },
               {
                 "time": "23:14",
@@ -80790,13 +80794,13 @@
               },
               {
                 "time": "23:23",
-                "title": "Bmpd",
+                "title": "BMPD",
                 "performer": "Smooth Reunion"
               },
               {
                 "time": "23:30",
                 "title": "Vehicle",
-                "performer": "This Week's SPecial Guest Star (Daniel Carlson feat. Linda Good & Matt Johnson)"
+                "performer": "This Week's Special Guest Star (Daniel Carlson feat. Linda Good & Matt Johnson)"
               },
               {
                 "time": "23:33",
