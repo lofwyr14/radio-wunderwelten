@@ -10514,7 +10514,7 @@
               { "title": "Don´t Fade Out", "performer": "Cut Worms"},
               { "title": "I DONTOU", "performer": "Luna Morgenstern"},
               { "title": "Der Katalog", "performer": "Die Selektion"},
-              { "title": "Can´t Stand (Robag Wruhme Remix)", "performer": "Catz´n Dogz ft. ZenSoFly"}
+              { "title": "Can´t Stand (Robag Wruhme Remix)", "performer": "Catz´n Dogz feat. ZenSoFly"}
             ]
           ]
         },
@@ -10553,7 +10553,7 @@
               { "time": "00:04", "title": "The Spaceship Connection", "performer": "DJ Marky"},
               { "title": "Tio Baby", "performer": "Adekunle Gold"},
               { "title": "Feel", "performer": "Slowe"},
-              { "title": "Chasing Peace Of Mind", "performer": "Adekunle Gold  feat. Habib Koite & Ami Faku"},
+              { "title": "Chasing Peace Of Mind", "performer": "Adekunle Gold feat. Habib Koite & Ami Faku"},
               { "title": "Wrong Person", "performer": "Adekunle Gold feat. Odumodublvck"},
               { "title": "Nice While It Lasted", "performer": "Famous"},
               { "title": "Sirens", "performer": "Devendra Banhart"},
@@ -10655,8 +10655,52 @@
               { "title": "Bando", "performer": "Moneybxgz feat. K-Trap"}
             ]
           ]
+        },
+        {
+          "id": "34",
+          "date": "2023-08-20",
+          "songs": [
+            [
+              { "time": "22:04", "title": "First Time", "performer": "Joseph Abruzzi"},
+              { "title": "It Makes You Forget", "performer": "Peggy Gou"},
+              { "title": "Si Te Portas Bonito", "performer": "Sofia Kourtesis"},
+              { "title": "Easy Money", "performer": "Odesza & Yellow House"},
+              { "title": "Oversized Sweater", "performer": "Shamir"},
+              { "title": "Pull Me Through", "performer": "Royal Blood"},
+              { "title": "Tall Glass", "performer": "Flamingods"},
+              { "title": "Fe!n", "performer": "Travis Scott feat. Playboi Carti"},
+              { "title": "G.O.D. Pt. III", "performer": "Mobb Deep"},
+              { "title": "Strike", "performer": "Lil Yachty"},
+              { "title": "Bad Brother", "performer": "Ronny Jordan Meets DJ Krush"},
+              { "title": "Don´t Let Go", "performer": "Supershy"}
+            ],
+            [
+              { "time": "23:04", "title": "Yolanda, Be Cool", "performer": "Kaiser Waldron"},
+              { "title": "New Clear Twist", "performer": "Minimal Compact"},
+              { "title": "New Jet Ski", "performer": "The Empty Threats"},
+              { "title": "Sky", "performer": "Simona Castricum"},
+              { "title": "U R The Reason", "performer": "Current Joys"},
+              { "title": "Rust", "performer": "Yussef Dayes feat. Tom Misch"},
+              { "title": "Stratus", "performer": "Billy Cobham"},
+              { "title": "Be Forgotten", "performer": "Heron Flow"},
+              { "title": "from the heart <3", "performer": "caro♡"},
+              { "title": "She´s On Fire", "performer": "Strange Ranger"}
+            ],
+            [
+              { "time": "00:04", "title": "Porta Time", "performer": "Julio Bashmore & T.Williams"},
+              { "title": "Out Of The Future", "performer": "Geeneus"},
+              { "title": "Garden Of Beasts", "performer": "Nathaniel S"},
+              { "title": "Happy Music", "performer": "Supershy"},
+              { "title": "Meine Haare", "performer": "Erregung Öffentlicher Erregung"},
+              { "title": "Jason´s Bad Trip", "performer": "The Empty Threats"},
+              { "title": "Get Inspired", "performer": "Genesis Owuse"},
+              { "title": "Tied Up!", "performer": "Genesis Owuse"},
+              { "title": "Jour De Fete", "performer": "Gratts"},
+              { "title": "", "performer": "Jessy Lanza"},
+              { "title": "Far Away", "performer": "Doc Scott"}
+            ]
+          ]
         }
-
       ]
     }
   ]
