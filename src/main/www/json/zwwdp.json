@@ -80893,7 +80893,12 @@
               {
                 "time": "22:40",
                 "title": "Timeless",
-                "performer": "The Sound of Pop Art"
+                "performer": "The Sound Of Pop Art"
+              },
+              {
+                "time": "22:44",
+                "title": "What's Up, Upper Tune?",
+                "performer": "Ole Johannes Åleskjær"
               },
               {
                 "time": "22:48",
@@ -80979,6 +80984,161 @@
               },
               {
                 "time": "23:56",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "35",
+          "date": "2023-08-31",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "The Grid Generation",
+                "performer": "Cory Wong feat. Louis Cole"
+              },
+              {
+                "time": "22:09",
+                "title": "In Love",
+                "performer": "Milkyway"
+              },
+              {
+                "time": "22:13",
+                "title": "The Sinner",
+                "performer": "The Coral"
+              },
+              {
+                "time": "22:16",
+                "title": "Unlimited Love",
+                "performer": "Alan Parker"
+              },
+              {
+                "time": "22:23",
+                "title": "Postcard To Heaven",
+                "performer": "The Cleaners From Venus"
+              },
+              {
+                "time": "22:26",
+                "title": "Livin' Thing",
+                "performer": "The Beautiful South"
+              },
+              {
+                "time": "22:32",
+                "title": "Like The Sun Needs",
+                "performer": "Coldroses"
+              },
+              {
+                "time": "22:35",
+                "title": "Black & Thunder",
+                "performer": "The Paper Kites"
+              },
+              {
+                "time": "22:40",
+                "title": "Around",
+                "performer": "Pavo Pavo"
+              },
+              {
+                "time": "22:44",
+                "title": "I Just Want To Be Your Friend",
+                "performer": "The Sunshine Company"
+              },
+              {
+                "time": "22:46",
+                "title": "Distortion Spear",
+                "performer": "Candy Claws"
+              },
+              {
+                "time": "22:50",
+                "title": "Tomorrow",
+                "performer": "Bill Pritchard"
+              },
+              {
+                "time": "22:55",
+                "title": "Space Coast",
+                "performer": "Pearl & The Oysters"
+              },
+              {
+                "time": "22:58",
+                "title": "Murder She Said",
+                "performer": "Fun Boy Three"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Humble Daisy",
+                "performer": "Dave Mattacks"
+              },
+              {
+                "time": "23:07",
+                "title": "It's Over",
+                "performer": "Les Imprimés"
+              },
+              {
+                "time": "23:11",
+                "title": "Dream Dancing",
+                "performer": "Mr. And Mrs. Muffins feat. Alessandra Rose"
+              },
+              {
+                "time": "23:15",
+                "title": "Blackbird",
+                "performer": "The King's Singers"
+              },
+              {
+                "time": "23:17",
+                "title": "Adieu",
+                "performer": "Maston"
+              },
+              {
+                "time": "23:20",
+                "title": "Sunset Stroll",
+                "performer": "Floral Portrait"
+              },
+              {
+                "time": "23:23",
+                "title": "Don't Wait",
+                "performer": "Say She She"
+              },
+              {
+                "time": "23:30",
+                "title": "Blue Bird",
+                "performer": "10cc"
+              },
+              {
+                "time": "23:34",
+                "title": "A Boat Called Bonnie",
+                "performer": "Herr Wade"
+              },
+              {
+                "time": "23:36",
+                "title": "May I?",
+                "performer": "Kevin Ayers And The Whole World"
+              },
+              {
+                "time": "23:40",
+                "title": "Vilken Underbar Värld",
+                "performer": "Albino"
+              },
+              {
+                "time": "23:44",
+                "title": "Good Intention",
+                "performer": "Laura Groves"
+              },
+              {
+                "time": "23:48",
+                "title": "The world´s smiling now",
+                "performer": "Jim James"
+              },
+              {
+                "time": "23:54",
+                "title": "Come Talk To Me",
+                "performer": "Goldspot"
+              },
+              {
+                "time": "23:58",
                 "title": "Good Night",
                 "performer": "The Beatles"
               }
