@@ -10700,7 +10700,56 @@
               { "title": "Far Away", "performer": "Doc Scott"}
             ]
           ]
+        },
+        {
+          "id": "35",
+          "date": "2023-08-27",
+          "songs": [
+            [
+              { "time": "22:04", "title": "There Is Beauty", "performer": "DJ Guy"},
+              { "title": "New Star Line", "performer": "Saccades/The KVB"},
+              { "title": "Paralyzed", "performer": "Roosevelt"},
+              { "title": "Loving You", "performer": "Stephen Kirkwood"},
+              { "title": "Baby", "performer": "Film School"},
+              { "title": "Landing", "performer": "Githead"},
+              { "title": "Viele Pommes", "performer": "Erregung öffentlicher Erregung"},
+              { "title": "sLay QuEen", "performer": "Futurebae"},
+              { "title": "Energy (Gorgon City Remix)", "performer": "Digga D"},
+              { "title": "Baby I´m Home", "performer": "Odetari feat. Kanii & 9lives"},
+              { "title": "King Of The Slugs", "performer": "Fat Dog"},
+              { "title": "Heating´s On", "performer": "Pale Blue Eyes"},
+              { "title": "Feels Like Summer", "performer": "Friction"},
+              { "title": "Gotta Feeling", "performer": "Montel"}
+            ],
+            [
+              { "time": "23:04", "title": "Be Strong", "performer": "Paris Green"},
+              { "title": "Who Loves The Sun (Rodriguez Jr. Rmx)", "performer": "Nu feat. Jo.Ke"},
+              { "title": "KennIchNich", "performer": "Joseph Boys"},
+              { "title": "I Raise You (The Price Of Your Head)", "performer": "Folly Group"},
+              { "title": "Two Years", "performer": "The Empty Threats"},
+              { "title": "You Make Me Sick!", "performer": "Ashnikko"},
+              { "title": "Chokehold Cherry Python", "performer": "Ashnikko"},
+              { "title": "Eternity", "performer": "Becca Mancari"},
+              { "title": "Sparina", "performer": "Sven Nalis"},
+              { "title": "Dominoes", "performer": "Icarus"},
+              { "title": "Nevera", "performer": "Sven Nalis"}
+            ],
+            [
+              { "time": "00:04", "title": "Want It/Feel It", "performer": "Aid Hempson"},
+              { "title": "Circle Of Light (Anja Schneider Day Mix)", "performer": "Because Of Art feat. Antony Szmierek"},
+              { "title": "Next 2 You", "performer": "Dave Aju & The Invisible Art Trio"},
+              { "title": "Tarde (Psy Mix)", "performer": "Nina Kraviz"},
+              { "title": "Drei Gesichter", "performer": "Die Selektion"},
+              { "title": "Out Of Time", "performer": "Poulish Kid & Absent Chronicles"},
+              { "title": "Show You Off", "performer": "Honeymoan"},
+              { "title": "Kansas", "performer": "Whitney"},
+              { "title": "Haunted Mountain", "performer": "Buck Meek"},
+              { "title": "Eternal", "performer": "Hiss Golden Messenger"},
+              { "title": "Life´s A Joke", "performer": "Islands"}
+            ]
+          ]
         }
+
       ]
     }
   ]
