@@ -80997,6 +80997,10 @@
         {
           "id": "35",
           "date": "2023-08-31",
+          "checked": {
+            "date": "2023-09-06",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -81006,7 +81010,7 @@
               },
               {
                 "time": "22:09",
-                "title": "In Love",
+                "title": "In Love (1995)",
                 "performer": "Milkyway"
               },
               {
@@ -81041,7 +81045,7 @@
               },
               {
                 "time": "22:40",
-                "title": "Around",
+                "title": "Around, Pt. 1",
                 "performer": "Pavo Pavo"
               },
               {
@@ -81074,7 +81078,7 @@
               {
                 "time": "23:04",
                 "title": "Humble Daisy",
-                "performer": "Dave Mattacks"
+                "performer": "XTC"
               },
               {
                 "time": "23:07",
@@ -81123,7 +81127,7 @@
               },
               {
                 "time": "23:40",
-                "title": "Vilken Underbar Värld",
+                "title": "Vilken underbar värld",
                 "performer": "Albino"
               },
               {
@@ -81133,7 +81137,7 @@
               },
               {
                 "time": "23:48",
-                "title": "The world´s smiling now",
+                "title": "The World´s Smiling Now",
                 "performer": "Jim James"
               },
               {
