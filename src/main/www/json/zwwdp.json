@@ -81152,6 +81152,171 @@
               }
             ]
           ]
+        },
+        {
+          "id": "36",
+          "date": "2023-09-07",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Show Me The Way",
+                "performer": "Peter Frampton"
+              },
+              {
+                "time": "22:07",
+                "title": "That's Where She Belongs",
+                "performer": "The Coral"
+              },
+              {
+                "time": "22:11",
+                "title": "Whenever",
+                "performer": "Gareth Donkin"
+              },
+              {
+                "time": "22:15",
+                "title": "Back Then",
+                "performer": "Toro y Moi"
+              },
+              {
+                "time": "22:18",
+                "title": "I Feel Like A Dog",
+                "performer": "Portable Radio"
+              },
+              {
+                "time": "22:20",
+                "title": "Watch Me",
+                "performer": "Labi Siffre"
+              },
+              {
+                "time": "22:23",
+                "title": "Cut Dick",
+                "performer": "Chilly Gonzales"
+              },
+              {
+                "time": "22:26",
+                "title": "Chess",
+                "performer": "Les Imprimés"
+              },
+              {
+                "time": "22:31",
+                "title": "Cynical Eye",
+                "performer": "Fritz Doddy"
+              },
+              {
+                "time": "22:34",
+                "title": "How To Feel",
+                "performer": "3 A.M. Again"
+              },
+              {
+                "time": "22:38",
+                "title": "Pacific Ave",
+                "performer": "Pearl & The Oysters"
+              },
+              {
+                "time": "22:41",
+                "title": "The Village Is Dead",
+                "performer": "Jonathan Wilson"
+              },
+              {
+                "time": "22:44",
+                "title": "Never So Bad",
+                "performer": "PWNT"
+              },
+              {
+                "time": "22:48",
+                "title": "Back To The Light",
+                "performer": "Teenage Fanclub"
+              },
+              {
+                "time": "22:51",
+                "title": "Oropendola",
+                "performer": "John Carroll Kirby"
+              },
+              {
+                "time": "22:55",
+                "title": "Primal Scream",
+                "performer": "Late Runner"
+              },
+              {
+                "time": "22:58",
+                "title": "The Metropolis",
+                "performer": "Mr. And Mrs. Muffins"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Some Things Don't Matter",
+                "performer": "Ben Watt"
+              },
+              {
+                "time": "23:08",
+                "title": "So Many Plans",
+                "performer": "Beirut"
+              },
+              {
+                "time": "23:12",
+                "title": "God Only Knows",
+                "performer": "Brian Wilson"
+              },
+              {
+                "time": "23:16",
+                "title": "Don't Talk (Put Your Head On My Shoulder)",
+                "performer": "She & Him"
+              },
+              {
+                "time": "23:19",
+                "title": "Wrap Myself Up In Your Love",
+                "performer": "Say She She"
+              },
+              {
+                "time": "23:23",
+                "title": "Til The End Of Time (Night Sky)",
+                "performer": "Gareth Donkin"
+              },
+              {
+                "time": "23:27",
+                "title": "Sexopolis",
+                "performer": "Jean-Pierre Mirouze"
+              },
+              {
+                "time": "23:32",
+                "title": "Pretty",
+                "performer": "Puma Blue"
+              },
+              {
+                "time": "23:35",
+                "title": "Something",
+                "performer": "Alan Moorhouse"
+              },
+              {
+                "time": "23:38",
+                "title": "Serenity Cove",
+                "performer": "Teal Pop"
+              },
+              {
+                "time": "23:42",
+                "title": "Heaven",
+                "performer": "Frankenstein Bolts"
+              },
+              {
+                "time": "23:47",
+                "title": "Indian Summer",
+                "performer": "Mick Harvey & Amanda Acevedo"
+              },
+              {
+                "time": "23:53",
+                "title": "Falling",
+                "performer": "Alfa Mist feat. Kaya Thomas-Dyke"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
