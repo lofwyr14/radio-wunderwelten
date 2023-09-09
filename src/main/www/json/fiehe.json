@@ -10473,6 +10473,7 @@
         {
           "id": "30",
           "date": "2023-07-23",
+          "checked": {"date": "2023-09-09", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Good Lies", "performer": "Overmono"},
@@ -10500,21 +10501,21 @@
               { "title": "Barbie World", "performer": "Nicki Minaj & Ice Spice feat. Aqua"},
               { "title": "Speed Drive", "performer": "Charlie XCX"},
               { "title": "Journey To The Real World", "performer": "Tame Impala"},
-              { "title": "Just Breathe", "performer": "ANII"}
+              { "title": "Just Breathe", "performer": "ANII"},
+              { "title": "Energy (Gorgon City Extended Remix)", "performer": "Digga D"}
             ],
             [
-              { "time": "00:04", "title": "Energy (Gorgon City Remix)", "performer": "Digga D"},
-              { "title": "Tongue", "performer": "Matisa"},
+              { "time": "00:04", "title": "Tongue", "performer": "Matisa"},
               { "title": "E11even", "performer": "K1 Never Forget Loyalty feat. Bandokay & Izzpot"},
               { "title": "Sekkle", "performer": "Hoax feat. PVC"},
-              { "title": "Moonshine", "performer": "TREX with Benny"},
+              { "title": "Moonshine", "performer": "Trex with Benny V"},
               { "title": "Live Life", "performer": "PA"},
               { "title": "Pale Fire", "performer": "Ralfe Band"},
               { "title": "A Place For It To Land", "performer": "Allegra Krieger"},
               { "title": "Don´t Fade Out", "performer": "Cut Worms"},
               { "title": "I DONTOU", "performer": "Luna Morgenstern"},
               { "title": "Der Katalog", "performer": "Die Selektion"},
-              { "title": "Can´t Stand (Robag Wruhme Remix)", "performer": "Catz´n Dogz feat. ZenSoFly"}
+              { "title": "Can´t Stand (Robag Wruhme's 'Flodder Bukk' Rehand)", "performer": "Catz´n Dogz feat. ZenSoFly"}
             ]
           ]
         },
