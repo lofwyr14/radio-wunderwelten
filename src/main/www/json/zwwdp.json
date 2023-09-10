@@ -81156,6 +81156,10 @@
         {
           "id": "36",
           "date": "2023-09-07",
+          "checked": {
+            "date": "2023-09-10",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -81200,7 +81204,7 @@
               },
               {
                 "time": "22:31",
-                "title": "Cynical Eye",
+                "title": "Cynical Eye (Radio Mix)",
                 "performer": "Fritz Doddy"
               },
               {
