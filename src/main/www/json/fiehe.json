@@ -10558,7 +10558,7 @@
               { "title": "Wrong Person", "performer": "Adekunle Gold feat. Odumodublvck"},
               { "title": "Nice While It Lasted", "performer": "Famous"},
               { "title": "Sirens", "performer": "Devendra Banhart"},
-              { "title": "Blush", "performer": "Strange Ranger"},
+              { "title": "Wide Awake", "performer": "Strange Ranger"},
               { "title": "Over You (Club Mix)", "performer": "Lili Chan"},
               { "title": "Waiheke Island", "performer": "Skream + Prospa"},
               { "title": "Acid Connection", "performer": "Felix"},
@@ -10749,8 +10749,50 @@
               { "title": "Life´s A Joke", "performer": "Islands"}
             ]
           ]
+        },
+        {
+          "id": "36",
+          "date": "2023-09-03",
+          "songs": [
+            [
+              { "title": "Kisses", "performer": "Slowdive"},
+              { "title": "Chained To A Cloud", "performer": "Slowdive"},
+              { "title": "Stop Waiting", "performer": "Cigarettes After Sex"},
+              { "title": "More", "performer": "Pale Blue Eyes"},
+              { "title": "New You", "performer": "My Bloody Valentine"},
+              { "title": "Eins Null Eins Eins Null", "performer": "Fred Und Luna"},
+              { "title": "Die Geschichte vom heißgelaufenen Reißwolf ", "performer": "Pyrolator"},
+              { "title": "Veil", "performer": "Marsh"},
+              { "title": "Mother", "performer": "Damian Rausch"},
+              { "title": "Help You Stay", "performer": "Technimatic feat. Ruth Royall"}
+            ],
+            [
+              { "title": "Fine Lines", "performer": "GLXY & Sustance feat. Catching Cairo"},
+              { "title": "Round To Ya Speaker", "performer": "Anaïs x DRIIA"},
+              { "title": "Headshot", "performer": "Anaïs&Hugh Hardie&Slay&T-Man"},
+              { "title": "Tele", "performer": "Deeper"},
+              { "title": "High Pressure Days", "performer": "W. H. Lung"},
+              { "title": "Blow Your Speakers (W. H. Lung Remix)", "performer": "Acid Klaus feat. Soft Focus"},
+              { "title": "Crazy For You", "performer": "Ulrich Schnauss"},
+              { "title": "Six Summer Suns (stole some sky)", "performer": "Busy Going Crazy"},
+              { "title": "Hymne der melancholischen Programmierer", "performer": "Sankt Otten"},
+              { "title": "Andalucia Plays", "performer": "Slowdive"},
+              { "title": "Eternity", "performer": "Becca Mancari"}
+            ],
+            [
+              { "title": "Blown A Wish", "performer": "My Bloody Valentine"},
+              { "title": "Moving On", "performer": "Explosions In The Sky"},
+              { "title": "Escapades", "performer": "Attic Ocean"},
+              { "title": "Andaman Blue", "performer": "Lord Of The Magi"},
+              { "title": "Dreaming", "performer": "DJ Guy feat. Margie M"},
+              { "title": "Body On Body (Curses Revamp)", "performer": "J.W.B. Hits The Beat"},
+              { "title": "20 ms", "performer": "Spencer Brown & Qrion"},
+              { "title": "The Firing Line", "performer": "Royal Blood"},
+              { "title": "Shanty", "performer": "Slowdive"},
+              { "title": "Vajkoczy", "performer": "Sofia Kourtesis"}
+            ]
+          ]
         }
-
       ]
     }
   ]
