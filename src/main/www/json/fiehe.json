@@ -10522,6 +10522,7 @@
         {
           "id": "31",
           "date": "2023-07-30",
+          "checked": {"date": "2023-09-13", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Walk Walk", "performer": "Sylvie Kreusch"},
@@ -10561,7 +10562,7 @@
               { "title": "Wide Awake", "performer": "Strange Ranger"},
               { "title": "Over You (Club Mix)", "performer": "Lili Chan"},
               { "title": "Waiheke Island", "performer": "Skream + Prospa"},
-              { "title": "Acid Connection", "performer": "Felix"},
+              { "title": "Ponto Ácido", "performer": "Felix"},
               { "title": "Sixpence", "performer": "Patio"},
               { "title": "Screaming In The Rain Again", "performer": "Sorry"}
             ]
@@ -10570,6 +10571,7 @@
         {
           "id": "32",
           "date": "2023-08-06",
+          "comment": "Haldern Pop Festival 2023",
           "songs": [
             [
               { "time": "22:04", "title": "Herman´s House", "performer": "Special Interest"},
