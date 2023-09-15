@@ -81321,6 +81321,153 @@
               }
             ]
           ]
+        },
+        {
+          "id": "37",
+          "date": "2023-09-14",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "I Hope You're Happy Now",
+                "performer": "Elvis Costello & The Attractions"
+              },
+              {
+                "time": "22:07",
+                "title": "Faraway Worlds",
+                "performer": "The Coral"
+              },
+              {
+                "time": "22:12",
+                "title": "Beautiful Praise",
+                "performer": "Grand Drifter"
+              },
+              {
+                "time": "22:15",
+                "title": "Glimmers",
+                "performer": "Wax Machine"
+              },
+              {
+                "time": "22:18",
+                "title": "A Good Day For Me",
+                "performer": "Thomas Walsh"
+              },
+              {
+                "time": "22:21",
+                "title": "What's Up, Upper Tune",
+                "performer": "Ole Johannes Åleskjær"
+              },
+              {
+                "time": "22:25",
+                "title": "Moving The River",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "time": "22:31",
+                "title": "Black &Thunder",
+                "performer": "The Paper Kites"
+              },
+              {
+                "time": "22:36",
+                "title": "The Moon And Other Things",
+                "performer": "NRBQ"
+              },
+              {
+                "time": "22:39",
+                "title": "Behind The Fence",
+                "performer": "theCatherines"
+              },
+              {
+                "time": "22:42",
+                "title": "Primal Scream",
+                "performer": "Late Runner"
+              },
+              {
+                "time": "22:46",
+                "title": "Money",
+                "performer": "The Sursiks"
+              },
+              {
+                "time": "22:54",
+                "title": "Hey Love",
+                "performer": "Jonathan Wilson"
+              },
+              {
+                "time": "22:57",
+                "title": "Razzle Jazzle",
+                "performer": "Orchestra Pete Jacques"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Moviestar",
+                "performer": "Stereo Total"
+              }
+            ],
+            [
+              {
+                "time": "23:06",
+                "title": "Love Is A Battlefield",
+                "performer": "Mick Harvey & Amanda Acevedo"
+              },
+              {
+                "time": "23:10",
+                "title": "The Chauffeur",
+                "performer": "Duran Duran"
+              },
+              {
+                "time": "23:15",
+                "title": "GymnopÃ©die",
+                "performer": "Tapir!"
+              },
+              {
+                "time": "23:19",
+                "title": "Waters Of March",
+                "performer": "Art Garfunkel & Billy Payne"
+              },
+              {
+                "time": "23:23",
+                "title": "Extralude",
+                "performer": "Wax Machine"
+              },
+              {
+                "time": "23:28",
+                "title": "Take A Break",
+                "performer": "Sven Wunder"
+              },
+              {
+                "time": "23:32",
+                "title": "Aptos",
+                "performer": "Teal Pop"
+              },
+              {
+                "time": "23:36",
+                "title": "We've Only Just Begun",
+                "performer": "The Singers Unlimited"
+              },
+              {
+                "time": "23:40",
+                "title": "Sky Breaks",
+                "performer": "The Heritage Orchestra"
+              },
+              {
+                "time": "23:44",
+                "title": "Nomad Bob",
+                "performer": "Ströer Bros & Howard Fine"
+              },
+              {
+                "time": "23:52",
+                "title": "Wayward Bob",
+                "performer": "Bonobo"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
