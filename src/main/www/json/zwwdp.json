@@ -81325,6 +81325,10 @@
         {
           "id": "37",
           "date": "2023-09-14",
+          "checked": {
+            "date": "2023-09-18",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -81418,7 +81422,7 @@
               },
               {
                 "time": "23:15",
-                "title": "GymnopÃ©die",
+                "title": "Gymnopédie",
                 "performer": "Tapir!"
               },
               {
@@ -81428,7 +81432,7 @@
               },
               {
                 "time": "23:23",
-                "title": "Extralude",
+                "title": "Extralude (Wyndham Earl's More-Than-An-Interlude Remix)",
                 "performer": "Wax Machine"
               },
               {
