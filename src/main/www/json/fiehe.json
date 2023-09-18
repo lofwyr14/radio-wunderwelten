@@ -10757,7 +10757,7 @@
           "date": "2023-09-03",
           "songs": [
             [
-              { "title": "Kisses", "performer": "Slowdive"},
+              { "time": "22:04", "title": "Kisses", "performer": "Slowdive"},
               { "title": "Chained To A Cloud", "performer": "Slowdive"},
               { "title": "Stop Waiting", "performer": "Cigarettes After Sex"},
               { "title": "More", "performer": "Pale Blue Eyes"},
@@ -10769,7 +10769,7 @@
               { "title": "Help You Stay", "performer": "Technimatic feat. Ruth Royall"}
             ],
             [
-              { "title": "Fine Lines", "performer": "GLXY & Sustance feat. Catching Cairo"},
+              { "time": "23:04", "title": "Fine Lines", "performer": "GLXY & Sustance feat. Catching Cairo"},
               { "title": "Round To Ya Speaker", "performer": "Anaïs x DRIIA"},
               { "title": "Headshot", "performer": "Anaïs&Hugh Hardie&Slay&T-Man"},
               { "title": "Tele", "performer": "Deeper"},
@@ -10782,7 +10782,7 @@
               { "title": "Eternity", "performer": "Becca Mancari"}
             ],
             [
-              { "title": "Blown A Wish", "performer": "My Bloody Valentine"},
+              { "time": "00:04", "title": "Blown A Wish", "performer": "My Bloody Valentine"},
               { "title": "Moving On", "performer": "Explosions In The Sky"},
               { "title": "Escapades", "performer": "Attic Ocean"},
               { "title": "Andaman Blue", "performer": "Lord Of The Magi"},
@@ -10792,6 +10792,54 @@
               { "title": "The Firing Line", "performer": "Royal Blood"},
               { "title": "Shanty", "performer": "Slowdive"},
               { "title": "Vajkoczy", "performer": "Sofia Kourtesis"}
+            ]
+          ]
+        },
+        {
+          "id": "37",
+          "date": "2023-09-10",
+          "songs": [
+            [
+              { "time": "22:04", "title": "The Trenchcoat Museum (Short Version)", "performer": "Yard Act"},
+              { "title": "Ton Tan", "performer": "Stones Taro"},
+              { "title": "Me Me Me", "performer": "Cats ´n  Dogz & Nala"},
+              { "title": "Out of Time", "performer": "Poulish Kid & Absent Chronicles"},
+              { "title": "Sleep Alone", "performer": "Flawless Issues"},
+              { "title": "Rent", "performer": "Sally Shapiro"},
+              { "title": "Running W Wolves", "performer": "caro♡"},
+              { "title": "Comet", "performer": "caro♡"},
+              { "title": "Herzsprung 1", "performer": "Caunos"},
+              { "title": "Fluffy", "performer": "Shanti Celeste"},
+              { "title": "Sittin´ On Top Of The World", "performer": "Burna Boy feat. 21 Savage"},
+              { "title": "Birds Of Paradise", "performer": "Yussef Dayes"},
+              { "title": "Look Over Your Shoulder", "performer": "M Huncho & Steve Drive"}
+            ],
+            [
+              { "time": "23:04", "title": "Star Starter", "performer": "DAIISTAR"},
+              { "title": "Lmn Bb Lmn", "performer": "DAIISTAR"},
+              { "title": "July", "performer": "Killjoy"},
+              { "title": "Tele", "performer": "Deeper"},
+              { "title": "Rain From Heaven", "performer": "The Sisterhood"},
+              { "title": "www she hot", "performer": "Uche Yara"},
+              { "title": "Can´t Replicate", "performer": "Roisin Murphy"},
+              { "title": "Enjoy Your Life", "performer": "Romy"},
+              { "title": "Es ist immer Sommer irgendwo", "performer": "Die Liga der gewönlichen Gentlemen"},
+              { "title": "Old Timer", "performer": "Hotel Lux"},
+              { "title": "All I Wanna Do Is Hate", "performer": "Coach Party"}
+            ],
+            [
+              { "time": "00:04", "title": "Build A Bridge", "performer": "Deeper"},
+              { "title": "Froid", "performer": "Flawless Issues"},
+              { "title": "Hey Familiar Face", "performer": "Zzzahara"},
+              { "title": "Burning", "performer": "Atkins & Emilie Rachel"},
+              { "title": "Blow Out", "performer": "Overmono"},
+              { "title": "Don´t Be Scared", "performer": "M-A-X"},
+              { "title": "The Bits", "performer": "Yaw Evans"},
+              { "title": "Marauders (Real Lies Remix)", "performer": "Tales From The Southside"},
+              { "title": "Fall Back", "performer": "James Blake"},
+              { "title": "Far Gone", "performer": "El-B & Om Unit"},
+              { "title": "Deuil", "performer": "Glauque"},
+              { "title": "Bongos", "performer": "Cardi B feat. Megan Thee Stallion"}
             ]
           ]
         }
