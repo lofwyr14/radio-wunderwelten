@@ -81476,6 +81476,10 @@
         {
           "id": "38",
           "date": "2023-09-21",
+          "checked": {
+            "date": "2023-09-24",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -81545,7 +81549,7 @@
               },
               {
                 "time": "22:52",
-                "title": "Blowin Up",
+                "title": "Blowin' Up",
                 "performer": "The Fisherman And His Soul"
               },
               {
@@ -81572,7 +81576,7 @@
               },
               {
                 "time": "23:15",
-                "title": "Fireflies",
+                "title": "Fireflies (Vicky Farewell Remix)",
                 "performer": "Pearl & The Oysters"
               },
               {
@@ -81587,7 +81591,7 @@
               },
               {
                 "time": "23:23",
-                "title": "Run For Cover",
+                "title": "Run For Cover (Live)",
                 "performer": "David Sanborn"
               },
               {
@@ -81607,7 +81611,7 @@
               },
               {
                 "time": "23:39",
-                "title": "Honey - Summer Rain",
+                "title": "Honey / Summer Rain",
                 "performer": "Rogério Duprat"
               },
               {
