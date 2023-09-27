@@ -10666,7 +10666,7 @@
           "songs": [
             [
               { "time": "22:04", "title": "First Time", "performer": "Joseph Abruzzi"},
-              { "title": "It Makes You Forget", "performer": "Peggy Gou"},
+              { "title": "It Makes You Forget (Itgehane)", "performer": "Peggy Gou"},
               { "title": "Si Te Portas Bonito", "performer": "Sofia Kourtesis"},
               { "title": "Easy Money", "performer": "Odesza & Yellow House"},
               { "title": "Oversized Sweater", "performer": "Shamir"},
@@ -10675,11 +10675,11 @@
               { "title": "Fe!n", "performer": "Travis Scott feat. Playboi Carti"},
               { "title": "G.O.D. Pt. III", "performer": "Mobb Deep"},
               { "title": "Strike", "performer": "Lil Yachty"},
-              { "title": "Bad Brother", "performer": "Ronny Jordan Meets DJ Krush"},
+              { "title": "Bad Brother (How Ya Like My Wheel Mix)", "performer": "Ronny Jordan Meets DJ Krush"},
               { "title": "Don´t Let Go", "performer": "Supershy"}
             ],
             [
-              { "time": "23:04", "title": "Yolanda, Be Cool", "performer": "Kaiser Waldron"},
+              { "time": "23:04", "title": "The Oracle", "performer": "Sydney Blu"},
               { "title": "New Clear Twist", "performer": "Minimal Compact"},
               { "title": "New Jet Ski", "performer": "The Empty Threats"},
               { "title": "Sky", "performer": "Simona Castricum"},
@@ -10841,6 +10841,49 @@
               { "title": "Far Gone", "performer": "El-B & Om Unit"},
               { "title": "Deuil", "performer": "Glauque"},
               { "title": "Bongos", "performer": "Cardi B feat. Megan Thee Stallion"}
+            ]
+          ]
+        },
+        {
+          "id": "38",
+          "date": "2023-09-17",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Turn The Light On (Skala Remix)", "performer": "Rodriguez Jr. & Stereo MC´s"},
+              { "title": "Still Lemonade", "performer": "Skream"},
+              { "title": "You Know How", "performer": "Vagabon"},
+              { "title": "Stumbling Still", "performer": "Nation Of Language"},
+              { "title": "Problems", "performer": "Ekkstacy feat. Trippie Redd"},
+              { "title": "Alright, Alright", "performer": "Ghost Woman"},
+              { "title": "Fourth Pass Over The Graveyard", "performer": "The Black Delta Movement"},
+              { "title": "Live Again", "performer": "The Chemical Brothers feat. Halo Maud"},
+              { "title": "The Trenchcoat Museum (Arthur Baker Remix)", "performer": "Yard Act"},
+              { "title": "Techno Barbie", "performer": "Ed Hoffman feat. Barbara"}
+            ],
+            [
+              { "time": "23:04", "title": "Die Liebe kommt nicht aus Berlin", "performer": "Brutalismus 3000"},
+              { "title": "Feels Like I Am Dreaming", "performer": "The Chemical Brothers"},
+              { "title": "Beautiful Lies", "performer": "B-Complex"},
+              { "title": "Amplitüde", "performer": "Kicky Ring"},
+              { "title": "The Enamel Sea", "performer": "Dallas Acid"},
+              { "title": "Sirens", "performer": "Devendra Banhart"},
+              { "title": "Flutestargate (feat. Deantoni Parks, Nate Mercereau)", "performer": "Carlos Niño & Friends"},
+              { "title": "August Again", "performer": "Kiefer"},
+              { "title": "In A Glasshouse (With No Light)", "performer": "Gum"}
+            ],
+            [
+              { "time": "00:04", "title": "Meutriere", "performer": "Alan Palomo feat. Flore Benguigui"},
+              { "title": "Langage", "performer": "Zaho De Sagazan"},
+              { "title": "Peach (Thys Remix)", "performer": "Salute"},
+              { "title": "Waiheke Island", "performer": "Skream & Prospa"},
+              { "title": "Devon Analogue Raver", "performer": "Skream"},
+              { "title": "Thinking Of You", "performer": "Skream"},
+              { "title": "Vectra (Skeptic Remix)", "performer": "Conducta"},
+              { "title": "Draw The Line", "performer": "Icarus feat. James Massiah"},
+              { "title": "I Dm U", "performer": "Loraine James"},
+              { "title": "Almost Prayed", "performer": "The Weather Prophets"},
+              { "title": "Angle Of Reflection", "performer": "Lewsberg"},
+              { "title": "Without A Doubt", "performer": "Lewsberg"}
             ]
           ]
         }
