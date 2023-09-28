@@ -10663,6 +10663,7 @@
         {
           "id": "34",
           "date": "2023-08-20",
+          "checked": {"date": "2023-09-28", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "First Time", "performer": "Joseph Abruzzi"},
@@ -10700,7 +10701,7 @@
               { "title": "Get Inspired", "performer": "Genesis Owuse"},
               { "title": "Tied Up!", "performer": "Genesis Owuse"},
               { "title": "Jour De Fete", "performer": "Gratts"},
-              { "title": "", "performer": "Jessy Lanza"},
+              { "title": "Drive", "performer": "Jessy Lanza"},
               { "title": "Far Away", "performer": "Doc Scott"}
             ]
           ]
