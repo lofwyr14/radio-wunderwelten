@@ -81641,6 +81641,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "39",
+          "date": "2023-09-28",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "The Village Is Dead",
+                "performer": "Jonathan Wilson"
+              },
+              {
+                "time": "22:07",
+                "title": "Leave This Town",
+                "performer": "The Coral"
+              },
+              {
+                "time": "22:11",
+                "title": "Unrecorded Feelings",
+                "performer": "Grand Drifter"
+              },
+              {
+                "time": "22:14",
+                "title": "Blue Jeans",
+                "performer": "Extraa"
+              },
+              {
+                "time": "22:17",
+                "title": "Feelin' Kinda Lucky",
+                "performer": "Nick Corbin & The Hang Ups"
+              },
+              {
+                "time": "22:21",
+                "title": "Turn The World On",
+                "performer": "Bombay Bicycle Club"
+              },
+              {
+                "time": "22:25",
+                "title": "Kinda Wasted Without You",
+                "performer": "Keichi & The Coconut Groove / Small Garden"
+              },
+              {
+                "time": "22:29",
+                "title": "Float On",
+                "performer": "Close Lobsters"
+              },
+              {
+                "time": "22:40",
+                "title": "California",
+                "performer": "Kirk Reed"
+              },
+              {
+                "time": "22:44",
+                "title": "Gwely'R MÃ´r",
+                "performer": "Rio 18 feat. Elan Rhys & Carwyn Ellis"
+              },
+              {
+                "time": "22:47",
+                "title": "Hello",
+                "performer": "Hania Rani"
+              },
+              {
+                "time": "22:54",
+                "title": "Bushwick Cowboy",
+                "performer": "Vansire"
+              },
+              {
+                "time": "22:58",
+                "title": "Dreamer",
+                "performer": "Kiefer"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Goodbye Stranger",
+                "performer": "Supertramp"
+              },
+              {
+                "time": "23:10",
+                "title": "Visitor",
+                "performer": "Astronauts, etc."
+              },
+              {
+                "time": "23:14",
+                "title": "F Song",
+                "performer": "Strawberry Guy"
+              },
+              {
+                "time": "23:18",
+                "title": "For The Birds",
+                "performer": "Paul Cherry's Pure Grooves"
+              },
+              {
+                "time": "23:22",
+                "title": "Chapter Of Risk",
+                "performer": "Ben Reed"
+              },
+              {
+                "time": "23:26",
+                "title": "Cupcakes & Sprinkles",
+                "performer": "Wouter Hamel"
+              },
+              {
+                "time": "23:29",
+                "title": "Storm In The Sky",
+                "performer": "Hagan's Fanshawe Friends"
+              },
+              {
+                "time": "23:32",
+                "title": "The Great Pumpkin Waltz",
+                "performer": "Vince Guaraldi"
+              },
+              {
+                "time": "23:35",
+                "title": "Sommerskaart",
+                "performer": "Herr Wade feat. Imke Burma"
+              },
+              {
+                "time": "23:38",
+                "title": "Happy Birthday",
+                "performer": "Jay-Jay Johanson"
+              },
+              {
+                "time": "23:41",
+                "title": "Hurt So Bad",
+                "performer": "Grant Green"
+              },
+              {
+                "time": "23:51",
+                "title": "Never Can Say Goodbye",
+                "performer": "Herbie Mann"
+              },
+              {
+                "time": "23:56",
+                "title": "Vienna",
+                "performer": "William Fitzsimmons"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
