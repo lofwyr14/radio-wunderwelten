@@ -10888,6 +10888,52 @@
               { "title": "Without A Doubt", "performer": "Lewsberg"}
             ]
           ]
+        },
+        {
+          "id": "38",
+          "date": "2023-09-24",
+          "songs": [
+            [
+              { "title": "KennIchNich", "performer": "Joseph Boys"},
+              { "title": "Zeuge aus Licht", "performer": "Die Selektion"},
+              { "title": "Hot Topic", "performer": "La Securite"},
+              { "title": "Saturn Drive Triplex (The Liminanas Remix)", "performer": "Laurent Garnier feat. Alan Vega"},
+              { "title": "Pele (MadMadMad Remix)", "performer": "Ikoqwe"},
+              { "title": "Flute And The Hobo", "performer": "MadMadMad"},
+              { "title": "All I Want", "performer": "HotWax"},
+              { "title": "A & R", "performer": "Augn"},
+              { "title": "King Of Nothing", "performer": "Gretel Hänlyn"},
+              { "title": "Colours To Life", "performer": "Temples"},
+              { "title": "To Be Felt", "performer": "Egyptian Blue"},
+              { "title": "You&Me", "performer": "Neeve"}
+            ],
+            [
+              { "title": "The Snitching Hour", "performer": "Deadletter"},
+              { "title": "It´s You", "performer": "Blue Print"},
+              { "title": "Sommernacht", "performer": "Kasi & antonius"},
+              { "title": "Accessories", "performer": "Baby´s Berserk"},
+              { "title": "Aire De Plastique", "performer": "Bon Enfant"},
+              { "title": "Duell Der Letzten", "performer": "Tränen"},
+              { "title": "Guten Tag", "performer": "Wir sind Helden"},
+              { "title": "Ca Plane Pour Moi", "performer": "Plastic Bertrand"},
+              { "title": "Microman", "performer": "Florence Besch"},
+              { "title": "Abschied ist ein scharfes Schwert", "performer": "Roger Whittaker"},
+              { "title": "King Of The Slugs", "performer": "Fat Dog"},
+              { "title": "Shibari", "performer": "Featurette"}
+            ],
+            [
+              { "title": "Hot Bitch", "performer": "Nashi44"},
+              { "title": "Wolf im Schlafsack", "performer": "Datashock"},
+              { "title": "Amapiano", "performer": "Asake & Olamide"},
+              { "title": "Sunday", "performer": "Flawless Issues"},
+              { "title": "F22", "performer": "Tirzah"},
+              { "title": "Knock Knock", "performer": "CVC"},
+              { "title": "Aspiration", "performer": "Zaho De Sagazan"},
+              { "title": "Out Of The Dark, Into Our Hearts", "performer": "Ki! feat. Jefrrey M.E. Hessellund"},
+              { "title": "GKO", "performer": "Iedereen"},
+              { "title": "Hysterie + Abfall", "performer": "Lyschko"}
+            ]
+          ]
         }
       ]
     }
