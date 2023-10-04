@@ -81645,6 +81645,10 @@
         {
           "id": "39",
           "date": "2023-09-28",
+          "checked": {
+            "date": "2023-10-44",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -81688,13 +81692,18 @@
                 "performer": "Close Lobsters"
               },
               {
+                "time": "22:33",
+                "title": "Tubular Bells",
+                "performer": "Mr. K"
+              },
+              {
                 "time": "22:40",
-                "title": "California",
+                "title": "California (Shawn Lee Mix)",
                 "performer": "Kirk Reed"
               },
               {
                 "time": "22:44",
-                "title": "Gwely'R MÃ´r",
+                "title": "Gwely'r Môr",
                 "performer": "Rio 18 feat. Elan Rhys & Carwyn Ellis"
               },
               {
@@ -81726,13 +81735,13 @@
               },
               {
                 "time": "23:14",
-                "title": "F Song",
+                "title": "F Song (Strings Version)",
                 "performer": "Strawberry Guy"
               },
               {
                 "time": "23:18",
                 "title": "For The Birds",
-                "performer": "Paul Cherry's Pure Grooves"
+                "performer": "Paul Cherry"
               },
               {
                 "time": "23:22",
@@ -81768,6 +81777,11 @@
                 "time": "23:41",
                 "title": "Hurt So Bad",
                 "performer": "Grant Green"
+              },
+              {
+                "time": "23:47",
+                "title": "Glance Across The Room",
+                "performer": "Beaumont"
               },
               {
                 "time": "23:51",
