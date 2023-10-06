@@ -81800,6 +81800,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "40",
+          "date": "2023-10-05",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Punchbag",
+                "performer": "The Bees"
+              },
+              {
+                "time": "22:08",
+                "title": "Foreign Land",
+                "performer": "Teenage Fanclub"
+              },
+              {
+                "time": "22:13",
+                "title": "Feelin' Kinda Lucky",
+                "performer": "Nick Corbin & The Hang Ups"
+              },
+              {
+                "time": "22:17",
+                "title": "Shiny And New",
+                "performer": "Mocky feat. Benny Sings"
+              },
+              {
+                "time": "22:21",
+                "title": "Statelines",
+                "performer": "Vansire"
+              },
+              {
+                "time": "22:23",
+                "title": "Opalescent Ribbon",
+                "performer": "Stephen Steinbrink"
+              },
+              {
+                "time": "22:27",
+                "title": "Surround Yourself In Sound",
+                "performer": "Evelyn Pope"
+              },
+              {
+                "time": "22:32",
+                "title": "October Sun",
+                "performer": "Matt Berry"
+              },
+              {
+                "time": "22:37",
+                "title": "Shine A Light On Your Mirror",
+                "performer": "Bibio"
+              },
+              {
+                "time": "22:40",
+                "title": "Your Smile",
+                "performer": "Misha Panfilov"
+              },
+              {
+                "time": "22:42",
+                "title": "Section 44 Galloping Seas",
+                "performer": "The Polyphonic Spree"
+              },
+              {
+                "time": "22:49",
+                "title": "Yoink",
+                "performer": "Scuba Dvala"
+              },
+              {
+                "time": "22:54",
+                "title": "Dancing With Tears In My Eyes",
+                "performer": "Anna Ternheim"
+              },
+              {
+                "time": "22:58",
+                "title": "My Cherie Amour",
+                "performer": "Rhythm Heritage"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "The Border",
+                "performer": "Astronauts, etc."
+              },
+              {
+                "time": "23:08",
+                "title": "Losing My Religion",
+                "performer": "Soccer Mommy"
+              },
+              {
+                "time": "23:13",
+                "title": "Love Fell Down Around Me",
+                "performer": "Mykki Blanco"
+              },
+              {
+                "time": "23:18",
+                "title": "Orange Crate Art",
+                "performer": "Brian Wilson & Van Dyke Parks"
+              },
+              {
+                "time": "23:21",
+                "title": "We'll Always Have Yesterday",
+                "performer": "Max Beesley's High Vibes"
+              },
+              {
+                "time": "23:25",
+                "title": "Lifetime",
+                "performer": "Faye Webster"
+              },
+              {
+                "time": "23:31",
+                "title": "Certain Surprise",
+                "performer": "John Martyn"
+              },
+              {
+                "time": "23:34",
+                "title": "Feeding The Air",
+                "performer": "Illia"
+              },
+              {
+                "time": "23:38",
+                "title": "Dreamer",
+                "performer": "Kiefer"
+              },
+              {
+                "time": "23:42",
+                "title": "Visions",
+                "performer": "Stevie Wonder"
+              },
+              {
+                "time": "23:47",
+                "title": "All in love is fair",
+                "performer": "Farnell Lee Newton"
+              },
+              {
+                "time": "23:53",
+                "title": "A Song For You",
+                "performer": "Joe Cocker"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
