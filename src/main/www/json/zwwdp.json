@@ -81646,7 +81646,7 @@
           "id": "39",
           "date": "2023-09-28",
           "checked": {
-            "date": "2023-10-44",
+            "date": "2023-10-04",
             "user": "jg"
           },
           "songs": [
@@ -81804,6 +81804,10 @@
         {
           "id": "40",
           "date": "2023-10-05",
+          "checked": {
+            "date": "2023-10-08",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -81858,7 +81862,7 @@
               },
               {
                 "time": "22:42",
-                "title": "Section 44 Galloping Seas",
+                "title": "Section 44 (Galloping Seas)",
                 "performer": "The Polyphonic Spree"
               },
               {
@@ -81910,7 +81914,7 @@
               },
               {
                 "time": "23:31",
-                "title": "Certain Surprise",
+                "title": "Certain Surprise (Alternate Take #2)",
                 "performer": "John Martyn"
               },
               {
@@ -81930,7 +81934,7 @@
               },
               {
                 "time": "23:47",
-                "title": "All in love is fair",
+                "title": "All In Love Is Fair",
                 "performer": "Farnell Lee Newton"
               },
               {
