@@ -10765,21 +10765,21 @@
               { "title": "Stop Waiting", "performer": "Cigarettes After Sex"},
               { "title": "More", "performer": "Pale Blue Eyes"},
               { "title": "New You", "performer": "My Bloody Valentine"},
-              { "title": "Eins Null Eins Eins Null", "performer": "Fred Und Luna"},
+              { "title": "Eins Null Eins Eins Null", "performer": "Fred und Luna"},
               { "title": "Die Geschichte vom heißgelaufenen Reißwolf ", "performer": "Pyrolator"},
               { "title": "Veil", "performer": "Marsh"},
-              { "title": "Mother", "performer": "Damian Rausch"},
-              { "title": "Help You Stay", "performer": "Technimatic feat. Ruth Royall"}
+              { "title": "Mother", "performer": "Damian Rausch"}
             ],
             [
-              { "time": "23:04", "title": "Fine Lines", "performer": "GLXY & Sustance feat. Catching Cairo"},
+              { "time": "23:04", "title": "Help You Stay", "performer": "Technimatic feat. Ruth Royall"},
+              { "title": "Fine Lines", "performer": "GLXY & Sustance feat. Catching Cairo"},
               { "title": "Round To Ya Speaker", "performer": "Anaïs x DRIIA"},
               { "title": "Headshot", "performer": "Anaïs&Hugh Hardie&Slay&T-Man"},
               { "title": "Tele", "performer": "Deeper"},
               { "title": "High Pressure Days", "performer": "W. H. Lung"},
               { "title": "Blow Your Speakers (W. H. Lung Remix)", "performer": "Acid Klaus feat. Soft Focus"},
               { "title": "Crazy For You", "performer": "Ulrich Schnauss"},
-              { "title": "Six Summer Suns (stole some sky)", "performer": "Busy Going Crazy"},
+              { "title": "Six Summer Suns (Stole Some Sx^ky)", "performer": "Busy Going Crazy"},
               { "title": "Hymne der melancholischen Programmierer", "performer": "Sankt Otten"},
               { "title": "Andalucia Plays", "performer": "Slowdive"},
               { "title": "Eternity", "performer": "Becca Mancari"}
@@ -10894,7 +10894,7 @@
           "date": "2023-09-24",
           "songs": [
             [
-              { "title": "KennIchNich", "performer": "Joseph Boys"},
+              { "time": "22:04", "title": "KennIchNich", "performer": "Joseph Boys"},
               { "title": "Zeuge aus Licht", "performer": "Die Selektion"},
               { "title": "Hot Topic", "performer": "La Securite"},
               { "title": "Saturn Drive Triplex (The Liminanas Remix)", "performer": "Laurent Garnier feat. Alan Vega"},
@@ -10908,7 +10908,7 @@
               { "title": "You&Me", "performer": "Neeve"}
             ],
             [
-              { "title": "The Snitching Hour", "performer": "Deadletter"},
+              { "time": "23:04", "title": "The Snitching Hour", "performer": "Deadletter"},
               { "title": "It´s You", "performer": "Blue Print"},
               { "title": "Sommernacht", "performer": "Kasi & antonius"},
               { "title": "Accessories", "performer": "Baby´s Berserk"},
@@ -10922,7 +10922,7 @@
               { "title": "Shibari", "performer": "Featurette"}
             ],
             [
-              { "title": "Hot Bitch", "performer": "Nashi44"},
+              { "time": "00:04", "title": "Hot Bitch", "performer": "Nashi44"},
               { "title": "Wolf im Schlafsack", "performer": "Datashock"},
               { "title": "Amapiano", "performer": "Asake & Olamide"},
               { "title": "Sunday", "performer": "Flawless Issues"},
@@ -10932,6 +10932,53 @@
               { "title": "Out Of The Dark, Into Our Hearts", "performer": "Ki! feat. Jefrrey M.E. Hessellund"},
               { "title": "GKO", "performer": "Iedereen"},
               { "title": "Hysterie + Abfall", "performer": "Lyschko"}
+            ]
+          ]
+        },
+        {
+          "id": "40",
+          "date": "2023-10-01",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Still Warm (2023 Version)", "performer": "The KVB"},
+              { "title": "Machina (feat. Mariana Saldaña) (Dark Remix) ", "performer": "Boy Harsher"},
+              { "title": "Dancing With The Fish", "performer": "Baby´s Berserk"},
+              { "title": "Lectrobee", "performer": "Bushwacka"},
+              { "title": "Curve (Extended)", "performer": "Spencer Brown"},
+              { "title": "Eat You Like A Pill", "performer": "Cherry Glazerr"},
+              { "title": "in2u", "performer": "caro♡"},
+              { "title": "Mosquito", "performer": "PinkPantheress"},
+              { "title": "4ui12", "performer": "Yeule"},
+              { "title": "Paralyzed", "performer": "Roosevelt"},
+              { "title": "Fashion", "performer": "Aili"},
+              { "title": "The Actual Moon Landing Conversation", "performer": "Baby´s Berserk"},
+              { "title": "Kimosabe", "performer": "Dope Lemon"},
+              { "title": "Year Of The Rabbit", "performer": "Buttermere"}
+            ],
+            [
+              { "time": "23:04", "title": "Tom´s Diner", "performer": "Roska feat.Aleisha Lee"},
+              { "title": "Boogie With Me", "performer": "Roska feat. Istie Killick"},
+              { "title": "Jersey Thursday", "performer": "Edmund November"},
+              { "title": "Staircase", "performer": "Steven Wilson"},
+              { "title": "The Guvna", "performer": "Kamaal Williams feat. Brian Hargrove & Sharay Reed"},
+              { "title": "Silver", "performer": "Say She She"},
+              { "title": "An Amazing", "performer": "Kölsch"},
+              { "title": "Nüchtern Im Club (Nihilistendisko)", "performer": "Husten"},
+              { "title": "Gone 2", "performer": "Slow Pulp"},
+              { "title": "Einfache Leute", "performer": "Enno Bunger"}
+            ],
+            [
+              { "time": "00:04", "title": "My Little Tony", "performer": "Bar Italia"},
+              { "title": "Ameoba", "performer": "Do Nothing"},
+              { "title": "The Snitching Hour", "performer": "Deadletter"},
+              { "title": "The Trenchcoat Museum", "performer": "Yard Act"},
+              { "title": "Crashing Cars In Ibiza (Yard Act Remix)", "performer": "Acid Klaus feat. Maria Uzor"},
+              { "title": "We Are Eternal", "performer": "Shcuro"},
+              { "title": "Waiheke Island", "performer": "Skream & Prospa"},
+              { "title": "Blackbox", "performer": "Tausend Augen"},
+              { "title": "Tausendmal du", "performer": "Yelka"},
+              { "title": "Cold Street Light", "performer": "Edmund November"},
+              { "title": "Evicted", "performer": "Wilco"}
             ]
           ]
         }
