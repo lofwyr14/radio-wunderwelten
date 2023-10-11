@@ -10758,6 +10758,7 @@
         {
           "id": "36",
           "date": "2023-09-03",
+          "checked": {"date": "2023-10-11", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Kisses", "performer": "Slowdive"},
@@ -10779,17 +10780,18 @@
               { "title": "High Pressure Days", "performer": "W. H. Lung"},
               { "title": "Blow Your Speakers (W. H. Lung Remix)", "performer": "Acid Klaus feat. Soft Focus"},
               { "title": "Crazy For You", "performer": "Ulrich Schnauss"},
-              { "title": "Six Summer Suns (Stole Some Sx^ky)", "performer": "Busy Going Crazy"},
+              { "title": "Six Summer Suns (Stole Some Sky)", "performer": "Busy Going Crazy"},
               { "title": "Hymne der melancholischen Programmierer", "performer": "Sankt Otten"},
-              { "title": "Andalucia Plays", "performer": "Slowdive"},
-              { "title": "Eternity", "performer": "Becca Mancari"}
+              { "title": "Andalucia Plays", "performer": "Slowdive"}
             ],
             [
-              { "time": "00:04", "title": "Blown A Wish", "performer": "My Bloody Valentine"},
+              { "time": "00:04", "title": "Eternity", "performer": "Becca Mancari"},
+              { "title": "Morningrise", "performer": "Slowdive"},
+              { "title": "Blown A Wish", "performer": "My Bloody Valentine"},
               { "title": "Moving On", "performer": "Explosions In The Sky"},
               { "title": "Escapades", "performer": "Attic Ocean"},
               { "title": "Andaman Blue", "performer": "Lord Of The Magi"},
-              { "title": "Dreaming", "performer": "DJ Guy feat. Margie M"},
+              { "title": "Dreaming", "performer": "DJ Guy feat. Margie M."},
               { "title": "Body On Body (Curses Revamp)", "performer": "J.W.B. Hits The Beat"},
               { "title": "20 ms", "performer": "Spencer Brown & Qrion"},
               { "title": "The Firing Line", "performer": "Royal Blood"},
