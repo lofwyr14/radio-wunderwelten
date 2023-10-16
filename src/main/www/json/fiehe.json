@@ -10852,6 +10852,7 @@
         {
           "id": "38",
           "date": "2023-09-17",
+          "checked": {"date": "2023-10-16", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Turn The Light On (Skala Remix)", "performer": "Rodriguez Jr. & Stereo MC´s"},
@@ -10868,9 +10869,9 @@
             [
               { "time": "23:04", "title": "Die Liebe kommt nicht aus Berlin", "performer": "Brutalismus 3000"},
               { "title": "Feels Like I Am Dreaming", "performer": "The Chemical Brothers"},
-              { "title": "Beautiful Lies", "performer": "B-Complex"},
+              { "title": "Beautiful Lies (Edit)", "performer": "B-Complex"},
               { "title": "Amplitüde", "performer": "Kicky Ring"},
-              { "title": "The Enamel Sea", "performer": "Dallas Acid"},
+              { "title": "The Enamel Sea (Edit)", "performer": "Dallas Acid"},
               { "title": "Sirens", "performer": "Devendra Banhart"},
               { "title": "Flutestargate (feat. Deantoni Parks, Nate Mercereau)", "performer": "Carlos Niño & Friends"},
               { "title": "August Again", "performer": "Kiefer"},
