@@ -81949,6 +81949,138 @@
               }
             ]
           ]
+        },
+        {
+          "id": "41",
+          "date": "2023-10-12",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Don't You Know",
+                "performer": "Jan Hammer Group"
+              },
+              {
+                "title": "Purple Phase",
+                "performer": "Arlo Parks"
+              },
+              {
+                "title": "Großer blauer Fisch",
+                "performer": "Braake"
+              },
+              {
+                "title": "Magic On My Back",
+                "performer": "Mykki Blanco"
+              },
+              {
+                "title": "Rainy Days In June",
+                "performer": "Barbara"
+              },
+              {
+                "title": "Vibe Sharp",
+                "performer": "Glenn Fallows & Mark Treffel"
+              },
+              {
+                "title": "Can't Get Over Loving You",
+                "performer": "Maiiah & Angels Of Libra"
+              },
+              {
+                "title": "Don't Forget About Love",
+                "performer": "Dee C. Lee"
+              },
+              {
+                "title": "The Lodgers",
+                "performer": "The Style Council"
+              },
+              {
+                "title": "Near Mint",
+                "performer": "theCatherines"
+              },
+              {
+                "title": "Neuanfang",
+                "performer": "Selig"
+              },
+              {
+                "title": "Melancholia",
+                "performer": "Initials MB"
+              },
+              {
+                "title": "A Taste Of Honey",
+                "performer": "John Davidson"
+              },
+              {
+                "title": "April",
+                "performer": "Daniel Ögren"
+              }
+            ],
+            [
+              {
+                "time": "23 Uhr",
+                "title": "Tip Toe Through The Tulips With Me",
+                "performer": "David T. Walker"
+              },
+              {
+                "title": "The Letter",
+                "performer": "The Arbors"
+              },
+              {
+                "title": "Do You Feel Like A Ghost?",
+                "performer": "Michael Seyer"
+              },
+              {
+                "title": "Empty Bottle Serenade",
+                "performer": "Smoove & Turrell"
+              },
+              {
+                "title": "Ballad Of The Dying Man",
+                "performer": "Father John Misty"
+              },
+              {
+                "title": "Saint Ron",
+                "performer": "Ben Reed"
+              },
+              {
+                "title": "Smiling",
+                "performer": "Ben Reed"
+              },
+              {
+                "title": "I'm Not In Right Now",
+                "performer": "The Dream Eaters"
+              },
+              {
+                "title": "Soft And Virtual Touch",
+                "performer": "Fullbloods"
+              },
+              {
+                "title": "Til I Die",
+                "performer": "Thomas White"
+              },
+              {
+                "title": "Fly, Robin, Fly",
+                "performer": "Herbie Mann"
+              },
+              {
+                "title": "The Man In The Station",
+                "performer": "John Martyn"
+              },
+              {
+                "title": "Fly Paradise",
+                "performer": "Barbara Moore"
+              },
+              {
+                "title": "Bugs",
+                "performer": "Jamila Woods"
+              },
+              {
+                "title": "Trampolene",
+                "performer": "Deacon Blue"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }

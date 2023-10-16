@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # vermutlich immer um 2 erhöhen
-ID=402
+ID=404
 
 # aktuelles Jahr
 YEAR=2022
@@ -49,9 +49,9 @@ if week2date 2027 1 1 | grep -q '2027-01-04'; then echo "test ok"; else echo "te
 if week2date 2027 1 7 | grep -q '2027-01-10'; then echo "test ok"; else echo "test failed"; exit 1; fi
 
 WEEK=$((${ID} / 2 - ${IDWEEKOFFSET}))
-echo "Ermittlelte Kalenderwoche: $WEEK"
+echo "Ermittelte Kalenderwoche: $WEEK"
 DATE=$(week2date ${YEAR} ${WEEK} ${DAYOFWEEK})
-echo "Ermittleltes Datum:        $DATE"
+echo "Ermitteltes Datum:        $DATE"
 HTML=zwwdp-${DATE}.html
 
 #exit
@@ -62,7 +62,8 @@ curl -o ${HTML} ${URL}
 echo \<script\> >> ${HTML}
 echo "let file=\"${HTML}\";" >> ${HTML}
 echo "let date=\"${DATE}\";" >> ${HTML}
-cat zwwdp.js >> ${HTML}
+#cat zwwdp.js >> ${HTML}
+cat zwwdp_debug.js >> ${HTML}
 echo \</script\> >> ${HTML}
 
 echo "Gespeicherte Datei: ${HTML}"
