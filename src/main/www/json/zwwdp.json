@@ -81953,6 +81953,10 @@
         {
           "id": "41",
           "date": "2023-10-12",
+          "checked": {
+            "date": "2023-10-18",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -82011,15 +82015,15 @@
               {
                 "title": "April",
                 "performer": "Daniel Ögren"
+              },
+              {
+                "title": "Tip Toe Through The Tulips With Me",
+                "performer": "David T. Walker"
               }
             ],
             [
               {
-                "time": "23 Uhr",
-                "title": "Tip Toe Through The Tulips With Me",
-                "performer": "David T. Walker"
-              },
-              {
+                "time": "23:04",
                 "title": "The Letter",
                 "performer": "The Arbors"
               },
@@ -82066,6 +82070,10 @@
               {
                 "title": "Fly Paradise",
                 "performer": "Barbara Moore"
+              },
+              {
+                "title": "Apartment",
+                "performer": "Robert Kretzschmar"
               },
               {
                 "title": "Bugs",
