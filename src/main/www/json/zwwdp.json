@@ -82089,6 +82089,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "42",
+          "date": "2023-10-19",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Too Late For Us Now",
+                "performer": "Roger Joseph jr Manning"
+              },
+              {
+                "time": "22:08",
+                "title": "Sewn",
+                "performer": "The Feeling"
+              },
+              {
+                "time": "22:13",
+                "title": "Roadrunner Blues",
+                "performer": "Midlake & John Grant"
+              },
+              {
+                "time": "22:18",
+                "title": "Where There Is Love",
+                "performer": "Portable Radio"
+              },
+              {
+                "time": "22:22",
+                "title": "Obo",
+                "performer": "Paul Cherry feat. Kate Bollinger"
+              },
+              {
+                "time": "22:25",
+                "title": "Waverunner",
+                "performer": "Paul Cherry's Pure Grooves"
+              },
+              {
+                "time": "22:30",
+                "title": "Down In The Valley",
+                "performer": "Late Runner"
+              },
+              {
+                "time": "22:34",
+                "title": "The Year Of The Rabbit",
+                "performer": "YIN YIN"
+              },
+              {
+                "time": "22:39",
+                "title": "Paradise Window",
+                "performer": "Grand Drifter"
+              },
+              {
+                "time": "22:41",
+                "title": "Top Brass",
+                "performer": "Matt Berry"
+              },
+              {
+                "time": "22:45",
+                "title": "Morning Girl, Later",
+                "performer": "The Neon Philharmonic"
+              },
+              {
+                "time": "22:48",
+                "title": "Grubz",
+                "performer": "Channo & Luchii"
+              },
+              {
+                "time": "22:52",
+                "title": "As",
+                "performer": "The Family Tree"
+              },
+              {
+                "time": "22:57",
+                "title": "Get Carter",
+                "performer": "Trio Valore"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Sailing",
+                "performer": "Benny Sings"
+              },
+              {
+                "time": "23:08",
+                "title": "What's Going On",
+                "performer": "Richie Havens"
+              },
+              {
+                "time": "23:13",
+                "title": "Love Is A Sound",
+                "performer": "Vinyl Williams"
+              },
+              {
+                "time": "23:17",
+                "title": "Il Castello Dei Pagliacci",
+                "performer": "Gianni Brezzo"
+              },
+              {
+                "time": "23:21",
+                "title": "This Strange Effect",
+                "performer": "Papercuts"
+              },
+              {
+                "time": "23:24",
+                "title": "Stormy",
+                "performer": "David T. Walker"
+              },
+              {
+                "time": "23:33",
+                "title": "'til I Die",
+                "performer": "Get Well Soon"
+              },
+              {
+                "time": "23:36",
+                "title": "Oxygène",
+                "performer": "Jet Set Swe feat. Jonas Wall"
+              },
+              {
+                "time": "23:39",
+                "title": "3 A.M. Again",
+                "performer": "3 A.M. Again"
+              },
+              {
+                "time": "23:44",
+                "title": "Emotion Heater",
+                "performer": "The Gentle People"
+              },
+              {
+                "time": "23:48",
+                "title": "Tell Me Why",
+                "performer": "Gotts Street Park"
+              },
+              {
+                "time": "23:53",
+                "title": "Just The Way You Are",
+                "performer": "Till Brönner"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }

@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # vermutlich immer um 2 erhöhen
-ID=404
+ID=406
 
 # aktuelles Jahr
 YEAR=2022
@@ -62,8 +62,8 @@ curl -o ${HTML} ${URL}
 echo \<script\> >> ${HTML}
 echo "let file=\"${HTML}\";" >> ${HTML}
 echo "let date=\"${DATE}\";" >> ${HTML}
-#cat zwwdp.js >> ${HTML}
-cat zwwdp_debug.js >> ${HTML}
+cat zwwdp.js >> ${HTML}
+#cat zwwdp_debug.js >> ${HTML}
 echo \</script\> >> ${HTML}
 
 echo "Gespeicherte Datei: ${HTML}"
