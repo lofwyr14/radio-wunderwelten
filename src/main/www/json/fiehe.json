@@ -11031,6 +11031,56 @@
               { "title": "Abandon All Hope", "performer": "Ethan P. Flynn"}
             ]
           ]
+        },
+        {
+          "id": "42",
+          "date": "2023-10-15",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Purple Moon", "performer": "Ilgen Nur"},
+              { "title": "Synesthesia (Teen Daze Remix)", "performer": "Edapollo"},
+              { "title": "Es Cucurucuc", "performer": "Golden Bug"},
+              { "title": "New Place In Town", "performer": "Vox Low"},
+              { "title": "Seeking Angels", "performer": "Kalipo"},
+              { "title": "Dead In The Eye", "performer": "P Money & Whiney feat. Example"},
+              { "title": "Malkia", "performer": "Des & NCT"},
+              { "title": "One Thing", "performer": "KiLLOWEN"},
+              { "title": "Yello", "performer": "Jordan Nocturne"},
+              { "title": "Every Part Of You", "performer": "Icarus"},
+              { "title": "Long Train Running", "performer": "Traks"},
+              { "title": "Ride With You", "performer": "Poolside feat. Ben Browning"}
+            ],
+            [
+              { "time": "23:04", "title": "Where I´m Going", "performer": "Cut/Copy"},
+              { "title": "Run Run Run", "performer": "The Libertines"},
+              { "title": "Blick aufs Konto", "performer": "MPC Lafote"},
+              { "title": "TNB", "performer": "I. JORDAN & PLANNINGTOROCK"},
+              { "title": "Now U Do", "performer": "DJ Seinfeld & Confidence Man"},
+              { "title": "Insane", "performer": "A.B. feat. DA, Kayo & Kilo Jugg"},
+              { "title": "Gang Matrix", "performer": "A.B."},
+              { "title": "One Last Call", "performer": "Ben Böhmer feat. Felix Raphael"},
+              { "title": "Tripping In The Graveyard", "performer": "Goat"},
+              { "title": "Godless You", "performer": "Holy Ship"},
+              { "title": "The Silver Cord", "performer": "King Gizzard & The Lizard Wizard"},
+              { "title": "Set", "performer": "King Gizzard & The Lizard Wizard"}
+            ],
+            [
+              { "time": "00:04", "title": "Party Game", "performer": "Die Türen"},
+              { "title": "The Talker", "performer": "Whispering Sons"},
+              { "title": "Subtext", "performer": "Die Türen"},
+              { "title": "PFW (Paris Fashion Week)", "performer": "The Martini Brothers & Tommy Genesis"},
+              { "title": "Gentle Heart", "performer": "Nabihah Iqbal"},
+              { "title": "Or What", "performer": "Ijale"},
+              { "title": "Boomerang", "performer": "Jamila Woods"},
+              { "title": "October", "performer": "La Force"},
+              { "title": "Trommel", "performer": "The Düsseldorf Düsterboys"},
+              { "title": "How Bad Could It Be", "performer": "Kids With Buns"},
+              { "title": "IGY", "performer": "DJ Harrison"},
+              { "title": "Sky Club", "performer": "Allah-Las"},
+              { "title": "Broken", "performer": "Maria Basel"},
+              { "title": "Desperate Breakfast", "performer": "Big Special"}
+            ]
+          ]
         }
       ]
     }
