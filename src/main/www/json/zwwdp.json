@@ -82093,12 +82093,16 @@
         {
           "id": "42",
           "date": "2023-10-19",
+          "checked": {
+            "date": "2023-10-25",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:04",
                 "title": "Too Late For Us Now",
-                "performer": "Roger Joseph jr Manning"
+                "performer": "Roger Joseph Manning Jr."
               },
               {
                 "time": "22:08",
@@ -82198,6 +82202,11 @@
                 "performer": "David T. Walker"
               },
               {
+                "time": "23:30",
+                "title": "Hurting Game",
+                "performer": "The Coral"
+              },
+              {
                 "time": "23:33",
                 "title": "'til I Die",
                 "performer": "Get Well Soon"
@@ -82209,12 +82218,12 @@
               },
               {
                 "time": "23:39",
-                "title": "3 A.M. Again",
+                "title": "3 A.M. Again (2023 Version)",
                 "performer": "3 A.M. Again"
               },
               {
                 "time": "23:44",
-                "title": "Emotion Heater",
+                "title": "Emotion Heater (Vocal Mix)",
                 "performer": "The Gentle People"
               },
               {
