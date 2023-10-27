@@ -82243,6 +82243,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "43",
+          "date": "2023-10-26",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Mrs. Bluebird",
+                "performer": "Sunshine Day"
+              },
+              {
+                "time": "22:08",
+                "title": "I Know",
+                "performer": "etc. Astronauts"
+              },
+              {
+                "time": "22:12",
+                "title": "Time Alone",
+                "performer": "Nick Corbin & The Hang Ups"
+              },
+              {
+                "time": "22:15",
+                "title": "Smog Cutter",
+                "performer": "Allah Las"
+              },
+              {
+                "time": "22:19",
+                "title": "Better Than Ever",
+                "performer": "Video Age"
+              },
+              {
+                "time": "22:23",
+                "title": "Walking In The Rain",
+                "performer": "Doc Neeson"
+              },
+              {
+                "time": "22:26",
+                "title": "Honey Trippin'",
+                "performer": "Mystic Moods"
+              },
+              {
+                "time": "22:31",
+                "title": "Warm Bodies",
+                "performer": "Marshmallow Coast"
+              },
+              {
+                "time": "22:34",
+                "title": "It's Real",
+                "performer": "Skinshape"
+              },
+              {
+                "time": "22:37",
+                "title": "Ain't Nobody",
+                "performer": "Plewka & Schmedtje"
+              },
+              {
+                "time": "22:41",
+                "title": "Once Upon A Daydream",
+                "performer": "The Police"
+              },
+              {
+                "time": "22:44",
+                "title": "Autumn Sun",
+                "performer": "Neighbourly"
+              },
+              {
+                "time": "22:53",
+                "title": "Rollin'",
+                "performer": "The High Llamas"
+              },
+              {
+                "time": "22:56",
+                "title": "Partie G: Survol de l'Amérique AUS: Aérosuite",
+                "performer": "Alexander von Mehren"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "It Was A Very Good Year",
+                "performer": "Richie Havens"
+              },
+              {
+                "time": "23:08",
+                "title": "Win My Heart",
+                "performer": "Tré Burt"
+              },
+              {
+                "time": "23:14",
+                "title": "Take Me For A Ride",
+                "performer": "Part Time Signals"
+              },
+              {
+                "time": "23:19",
+                "title": "The Tern",
+                "performer": "Beirut"
+              },
+              {
+                "time": "23:23",
+                "title": "Glory Box",
+                "performer": "John Martyn"
+              },
+              {
+                "time": "23:30",
+                "title": "River",
+                "performer": "Wax Machine"
+              },
+              {
+                "time": "23:35",
+                "title": "Shiloh",
+                "performer": "Gotts Street Park"
+              },
+              {
+                "time": "23:37",
+                "title": "Stronger",
+                "performer": "Sault"
+              },
+              {
+                "time": "23:41",
+                "title": "Melville",
+                "performer": "August Rosenbaum"
+              },
+              {
+                "time": "23:45",
+                "title": "Sky Holds The Sun",
+                "performer": "The Bees"
+              },
+              {
+                "time": "23:49",
+                "title": "Disliking The Spoons",
+                "performer": "Damien Jurado"
+              },
+              {
+                "time": "23:53",
+                "title": "Sundown",
+                "performer": "Sven Wunder"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
