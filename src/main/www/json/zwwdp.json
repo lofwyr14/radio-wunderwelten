@@ -82247,6 +82247,10 @@
         {
           "id": "43",
           "date": "2023-10-26",
+          "checked": {
+            "date": "2023-11-03",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -82256,8 +82260,8 @@
               },
               {
                 "time": "22:08",
-                "title": "I Know",
-                "performer": "etc. Astronauts"
+                "title": "I Know (Demo Version)",
+                "performer": "Astronauts, etc."
               },
               {
                 "time": "22:12",
@@ -82266,7 +82270,7 @@
               },
               {
                 "time": "22:15",
-                "title": "Smog Cutter",
+                "title": "Zuma 85",
                 "performer": "Allah Las"
               },
               {
@@ -82282,7 +82286,7 @@
               {
                 "time": "22:26",
                 "title": "Honey Trippin'",
-                "performer": "Mystic Moods"
+                "performer": "The Mystic Moods Orchestra"
               },
               {
                 "time": "22:31",
@@ -82310,13 +82314,18 @@
                 "performer": "Neighbourly"
               },
               {
+                "time": "22:47",
+                "title": "One Road",
+                "performer": "The Coral"
+              },
+              {
                 "time": "22:53",
                 "title": "Rollin'",
                 "performer": "The High Llamas"
               },
               {
                 "time": "22:56",
-                "title": "Partie G: Survol de l'Amérique AUS: Aérosuite",
+                "title": "Aérosuite, Partie G: Survol de l'Amérique",
                 "performer": "Alexander von Mehren"
               }
             ],
@@ -82330,6 +82339,11 @@
                 "time": "23:08",
                 "title": "Win My Heart",
                 "performer": "Tré Burt"
+              },
+              {
+                "time": "23:11",
+                "title": "Man Are Building Sand",
+                "performer": "Ben Reed"
               },
               {
                 "time": "23:14",
