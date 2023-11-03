@@ -82402,6 +82402,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "44",
+          "date": "2023-11-02",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Drifting Away",
+                "performer": "Jaakko Eino Kalevi"
+              },
+              {
+                "time": "22:08",
+                "title": "Moving The River",
+                "performer": "Sondre Lerche"
+              },
+              {
+                "time": "22:12",
+                "title": "My Big Day",
+                "performer": "Bombay Bicycle Club"
+              },
+              {
+                "time": "22:15",
+                "title": "Driving Seat",
+                "performer": "Matt Berry"
+              },
+              {
+                "time": "22:18",
+                "title": "Astral Plane",
+                "performer": "Say She She"
+              },
+              {
+                "time": "22:22",
+                "title": "Dislocation",
+                "performer": "Raze Regal & White Denim Inc."
+              },
+              {
+                "time": "22:27",
+                "title": "Do It Again",
+                "performer": "Eli \"Paperboy\" Reed"
+              },
+              {
+                "time": "22:32",
+                "title": "Coffee Cold",
+                "performer": "Galt MacDermot"
+              },
+              {
+                "time": "22:35",
+                "title": "Gem & I",
+                "performer": "Animal Collective"
+              },
+              {
+                "time": "22:39",
+                "title": "Trace",
+                "performer": "Havington"
+              },
+              {
+                "time": "22:42",
+                "title": "Amon Laca (Pôve tièsse)",
+                "performer": "Guy Cabay"
+              },
+              {
+                "time": "22:46",
+                "title": "Walk With Me",
+                "performer": "Neighbourly"
+              },
+              {
+                "time": "22:49",
+                "title": "I'm Scanning Things I Can't See",
+                "performer": "Fievel Is Glauque"
+              },
+              {
+                "time": "22:53",
+                "title": "Sirenesque",
+                "performer": "The Bathers"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Shiftshaping",
+                "performer": "Michael Nau"
+              },
+              {
+                "time": "23:07",
+                "title": "Black Ribbons",
+                "performer": "The Apartments"
+              },
+              {
+                "time": "23:12",
+                "title": "Closer Doesn't Mean Near",
+                "performer": "Grand Drifter"
+              },
+              {
+                "time": "23:15",
+                "title": "Acercandome A Ti",
+                "performer": "Las Escarlatinas"
+              },
+              {
+                "time": "23:18",
+                "title": "Murmurations",
+                "performer": "The Cleaners From Venus"
+              },
+              {
+                "time": "23:22",
+                "title": "We Knew",
+                "performer": "Thomas Walsh"
+              },
+              {
+                "time": "23:26",
+                "title": "Deeper",
+                "performer": "Sen Morimoto"
+              },
+              {
+                "time": "23:32",
+                "title": "Beta Pan",
+                "performer": "Lawne"
+              },
+              {
+                "time": "23:36",
+                "title": "La Ba(L)Lade De Jean Et Jackie",
+                "performer": "Herr Wade avec Alexandra Romary"
+              },
+              {
+                "time": "23:39",
+                "title": "I Cover The Waterfront",
+                "performer": "Orbiting Human Circus & The Music Tapes"
+              },
+              {
+                "time": "23:43",
+                "title": "It Was A Very Good Year",
+                "performer": "Lee Hazlewood"
+              },
+              {
+                "time": "23:48",
+                "title": "Growing At The Edges",
+                "performer": "Mutual Benefit"
+              },
+              {
+                "time": "23:53",
+                "title": "Melancholia",
+                "performer": "Initials MB"
+              },
+              {
+                "time": "23:56",
+                "title": "A Hard Day's Night",
+                "performer": "Katja Ebstein"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
