@@ -82406,6 +82406,10 @@
         {
           "id": "44",
           "date": "2023-11-02",
+          "checked": {
+            "date": "2023-11-05",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -82487,7 +82491,7 @@
               },
               {
                 "time": "23:07",
-                "title": "Black Ribbons",
+                "title": "Black Ribbons (Autumn Mix)",
                 "performer": "The Apartments"
               },
               {
@@ -82518,7 +82522,7 @@
               {
                 "time": "23:32",
                 "title": "Beta Pan",
-                "performer": "Lawne"
+                "performer": "Lawne (Radio Edit)"
               },
               {
                 "time": "23:36",
@@ -82537,8 +82541,8 @@
               },
               {
                 "time": "23:48",
-                "title": "Growing At The Edges",
-                "performer": "Mutual Benefit"
+                "title": "Last Sunbeams Of Childhood",
+                "performer": "Andrew Wasylyk"
               },
               {
                 "time": "23:53",
