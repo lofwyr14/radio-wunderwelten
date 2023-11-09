@@ -10993,23 +10993,24 @@
         {
           "id": "41",
           "date": "2023-10-08",
+          "checked": {"date": "2023-11-09", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "It´s 5am Somewhere", "performer": "Tom Sharkett"},
-              { "title": "You´re So High", "performer": "Eli & Fur"},
+              { "title": "You´re So High (10 Years On)", "performer": "Eli & Fur"},
               { "title": "Over & Over feat. Ready In LED", "performer": "Jordan Nocturne"},
               { "title": "Soft Like A Flower", "performer": "Cherry Glazerr"},
-              { "title": "Should Sleep (Prins Thomas Remix)", "performer": "Moby feat. J.P. Bimeni"},
+              { "title": "Should Sleep (Prins Thomas Diskomix)", "performer": "Moby feat. J.P. Bimeni"},
               { "title": "Drei Gesichter", "performer": "Die Selektion"},
               { "title": "Cosmosis", "performer": "Otik"},
               { "title": "Wabi-Sabi (Closet Yi Remix)", "performer": "Baltra"},
               { "title": "@druzy (Scuba Remix)", "performer": "Baltra"},
               { "title": "Arp It Up", "performer": "Dawn Razor"},
-              { "title": "Stereo Tap", "performer": "JFR Moon"},
-              { "title": "A&R", "performer": "Augn"}
+              { "title": "Stereo Tap", "performer": "JFR Moon"}
             ],
             [
-              { "time": "23:04", "title": "Big Pharma", "performer": "Sleaford Mods"},
+              { "time": "23:04", "title": "A&R", "performer": "Augn"},
+              { "title": "Big Pharma", "performer": "Sleaford Mods"},
               { "title": "Afternoon X", "performer": "Vanishing Twin"},
               { "title": "Sulky Baby", "performer": "Yeule"},
               { "title": "Music For Applying Shimmering Eye Shadow", "performer": "Mary Lattimore"},
@@ -11019,11 +11020,11 @@
               { "title": "Roadrunner Blues", "performer": "Midlake & John Grant"},
               { "title": "Block Rockin", "performer": "X Club."},
               { "title": "Run My Mouth", "performer": "Juicy Romance"},
-              { "title": "Live Again", "performer": "Chemical Brothers feat. Halo Maud"},
-              { "title": "Yesterday´s Parties", "performer": "Mary Lattimore"}
+              { "title": "Live Again", "performer": "Chemical Brothers feat. Halo Maud"}
             ],
             [
-              { "time": "00:04", "title": "Sirena", "performer": "Nelson Of The East"},
+              { "time": "00:04", "title": "Yesterday´s Parties", "performer": "Mary Lattimore"},
+              { "title": "Sirena", "performer": "Nelson Of The East"},
               { "title": "Empty Hours", "performer": "Echonomist feat. Alexandros Miaris"},
               { "title": "Dolce Morte", "performer": "Soft Crash"},
               { "title": "Le Grand Balloon", "performer": "A. Savage"},
