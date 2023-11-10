@@ -82561,6 +82561,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "45",
+          "date": "2023-11-09",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Brother Brother",
+                "performer": "The Kane Gang"
+              },
+              {
+                "time": "22:10",
+                "title": "Withering",
+                "performer": "The Death of Pop"
+              },
+              {
+                "time": "22:14",
+                "title": "Not Today",
+                "performer": "Portable Radio"
+              },
+              {
+                "time": "22:17",
+                "title": "Taharazaka",
+                "performer": "Tokyo Academy Philharmonic Chorus Group"
+              },
+              {
+                "time": "22:21",
+                "title": "Your Own Worst Enemy",
+                "performer": "Francis Lung"
+              },
+              {
+                "time": "22:24",
+                "title": "Love In A Circumstance",
+                "performer": "Thomas Walsh"
+              },
+              {
+                "time": "22:29",
+                "title": "Money Don't Matter 2 Night",
+                "performer": "Prince & The New Power Generation"
+              },
+              {
+                "time": "22:34",
+                "title": "After All",
+                "performer": "The Frank And Walters"
+              },
+              {
+                "time": "22:37",
+                "title": "Closin' In",
+                "performer": "Dylan Leblanc"
+              },
+              {
+                "time": "22:40",
+                "title": "Beautiful",
+                "performer": "Rachel Love"
+              },
+              {
+                "time": "22:44",
+                "title": "The Pool",
+                "performer": "Mayer Hawthorne"
+              },
+              {
+                "time": "22:47",
+                "title": "Ready To Stay",
+                "performer": "Video Age"
+              },
+              {
+                "time": "22:53",
+                "title": "Slave To The Rhythm",
+                "performer": "Trevor Horn feat. Lady Blackbird"
+              },
+              {
+                "time": "22:57",
+                "title": "I Want To Be",
+                "performer": "Elias Rahbani"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Slumberland",
+                "performer": "Ed Motta"
+              },
+              {
+                "time": "23:09",
+                "title": "It's Your Time",
+                "performer": "Bergen White"
+              },
+              {
+                "time": "23:12",
+                "title": "It Was A Very Good Year",
+                "performer": "Willie Nelson"
+              },
+              {
+                "time": "23:16",
+                "title": "Must I Paint You A Picture?",
+                "performer": "Billy Bragg"
+              },
+              {
+                "time": "23:22",
+                "title": "Home Before Dark",
+                "performer": "Eva May"
+              },
+              {
+                "time": "23:25",
+                "title": "Daydream",
+                "performer": "Das Pop"
+              },
+              {
+                "time": "23:31",
+                "title": "Belmondo",
+                "performer": "August Rosenbaum"
+              },
+              {
+                "time": "23:34",
+                "title": "Rock With You",
+                "performer": "Seu Jorge and Almaz"
+              },
+              {
+                "time": "23:38",
+                "title": "Chamber Of Reflection",
+                "performer": "Mac DeMarco"
+              },
+              {
+                "time": "23:42",
+                "title": "Beyond The Blue Horizon",
+                "performer": "Michael Nesmith & The First National Band"
+              },
+              {
+                "time": "23:47",
+                "title": "Pelegos e porongos",
+                "performer": "Os Barbapapas"
+              },
+              {
+                "time": "23:52",
+                "title": "Drifting",
+                "performer": "Barbara Moore"
+              },
+              {
+                "time": "23:54",
+                "title": "Male Nostrum",
+                "performer": "Opez"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
