@@ -11131,6 +11131,54 @@
               { "title": "Ruins", "performer": "Lost Girls"}
             ]
           ]
+        },
+        {
+          "id": "44",
+          "date": "2023-10-29",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Holding On", "performer": "KiLLOWEN"},
+              { "title": "Room With A View", "performer": "Scuba"},
+              { "title": "Savoir Savoir", "performer": "Mieux"},
+              { "title": "DJ Friendly", "performer": "Elkka"},
+              { "title": "Terror (Is A State Of Mind)", "performer": "In Letter Form"},
+              { "title": "Machine Dreaming", "performer": "Smile"},
+              { "title": "Hot Topic", "performer": "La Securite"},
+              { "title": "Wolves", "performer": "Hydrogen Sea"},
+              { "title": "Hold", "performer": "Wild Nothing"},
+              { "title": "Heaven", "performer": "Bombay Bicycle Club feat. Damon Albarn"},
+              { "title": "Ozone Sraper", "performer": "DJ Shadow"},
+              { "title": "Don´t Call Me Out", "performer": "Julie Pavon"},
+              { "title": "Ya Rayah", "performer": "Francis Mercier & Rachid Taha & Clyde P"},
+              { "title": "Si Te Portas Bonito", "performer": "Sofia Kourtesis"}
+            ],
+            [
+              { "time": "23:04", "title": "Dream Job", "performer": "Yard Act"},
+              { "title": "Dreams", "performer": "Kölsch"},
+              { "title": "No Dither", "performer": "Holodrum"},
+              { "title": "Dreams (On The Strip)", "performer": "Flamingods"},
+              { "title": "Club Deuce", "performer": "The Serfs"},
+              { "title": "Heart Can Still  Somersault", "performer": "Tom VR"},
+              { "title": "Matthew And Toby (Four Tet Remix)", "performer": "Rocketnumbernine"},
+              { "title": "Kingdom Come", "performer": "The Kills"},
+              { "title": "Matador", "performer": "Egyptian Blue"},
+              { "title": "Little Tony", "performer": "Bar Italia"},
+              { "title": "Sadbox", "performer": "Die Cigaretten"}
+            ],
+            [
+              { "time": "00:04", "title": "Who´s Gonna Be The Goat", "performer": "De Staat"},
+              { "title": "Set (Extended Mix)", "performer": "King Gizzard & The Lizard Wizard"},
+              { "title": "Selecta", "performer": "Biscits"},
+              { "title": "For The Crowd", "performer": "AndThen"},
+              { "title": "All My", "performer": "DJ Shadow"},
+              { "title": "BTHE1", "performer": "Machinedrum feat. Liz"},
+              { "title": "Graveyard Slot", "performer": "Fracture"},
+              { "title": "Momentary Bliss", "performer": "Ilgen Nur"},
+              { "title": "Ghosts", "performer": "Bert Dockx Band"},
+              { "title": "Freefall", "performer": "Löwenzahnhonig"},
+              { "title": "Satisfy You", "performer": "George Riley"}
+            ]
+          ]
         }
       ]
     }
