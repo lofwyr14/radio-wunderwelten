@@ -82565,6 +82565,10 @@
         {
           "id": "45",
           "date": "2023-11-09",
+          "checked": {
+            "date": "2023-11-12",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -82575,7 +82579,7 @@
               {
                 "time": "22:10",
                 "title": "Withering",
-                "performer": "The Death of Pop"
+                "performer": "The Death Of Pop"
               },
               {
                 "time": "22:14",
