@@ -11179,6 +11179,52 @@
               { "title": "Satisfy You", "performer": "George Riley"}
             ]
           ]
+        },
+        {
+          "id": "45",
+          "date": "2023-11-05",
+          "songs": [
+            [
+              { "time": "22:04", "title": "In My Own Dream", "performer": "The Third Mind"},
+              { "title": "Love Again", "performer": "Tkay Maidza"},
+              { "title": "Blue Lights (Major League DJz Remix)", "performer": "Jayda G"},
+              { "title": "Costaud", "performer": "Afro B, Marla, Tchaikabo, Tripa Gninin"},
+              { "title": "Oil Drum", "performer": "Doctor Jeep feat. SIM"},
+              { "title": "Epiphania", "performer": "Otik"},
+              { "title": "Eine Vorahnung", "performer": "Der Frühling"},
+              { "title": "Shadow", "performer": "Rebel Yell & Tralala Blip"},
+              { "title": "Live Inside The Ride", "performer": "Mella Dee"},
+              { "title": "I Thought You´d Change", "performer": "Hotline TNT"},
+              { "title": "The Price Was High", "performer": "Drop Nineteens"},
+              { "title": "Now And Then", "performer": "The Beatles"}
+            ],
+            [
+              { "time": "23:04", "title": "Mother Nature", "performer": "MGMT"},
+              { "title": "85er Karat", "performer": "Der Frühling"},
+              { "title": "You (Erol Alkan Rework)", "performer": "Josh Caffe"},
+              { "title": "Justify My Sex", "performer": "Josh Caffe ft. Al White"},
+              { "title": "Noche De Ronda", "performer": "Century"},
+              { "title": "Si Te Portas Bonito", "performer": "Sofia Kourtesis"},
+              { "title": "Grow", "performer": "Carmelle Cox & ST Files & Calibre"},
+              { "title": "Astral Plane", "performer": "ST Files & Calibre"},
+              { "title": "4 Nothing", "performer": "Bop & meesh.r & TomInTheChamber"},
+              { "title": "All On Me", "performer": "Adred feat. Christina Tamayo"}
+            ],
+            [
+              { "time": "00:04", "title": "Blindside", "performer": "Monrroe ft. Sparkz"},
+              { "title": "16 O´s", "performer": "Hojo ft. Novelist"},
+              { "title": "Touch Me", "performer": "Charli Brix"},
+              { "title": "Cascade", "performer": "Christoph"},
+              { "title": "Adana", "performer": "Flamingods"},
+              { "title": "Susie Mullen", "performer": "King Creosote"},
+              { "title": "Stalemate", "performer": "Smile"},
+              { "title": "Liquid Pearl", "performer": "Delilah Holliday"},
+              { "title": "Dancer", "performer": "Idles"},
+              { "title": "Final Solution", "performer": "Pere Ubu"},
+              { "title": "Worlds Greatest Emoter", "performer": "Bar Italia"},
+              { "title": "Purple Punch", "performer": "Salamanda"}
+            ]
+          ]
         }
       ]
     }
