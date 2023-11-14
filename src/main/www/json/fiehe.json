@@ -11089,6 +11089,7 @@
         {
           "id": "43",
           "date": "2023-10-22",
+          "checked": {"date": "2023-11-14", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Wasted Time", "performer": "Azifm"},
@@ -11107,7 +11108,7 @@
               { "title": "One More Year (NTS Version)", "performer": "Tame Impala"},
               { "title": "Lavender", "performer": "SuperParka"},
               { "title": "Rolling Stone Blues", "performer": "The Rolling Stones"},
-              { "title": "Fontaine", "performer": "Allah-Las"},
+              { "title": "Hadal Zone", "performer": "Allah-Las"},
               { "title": "The Hand That Feeds", "performer": "Abracadabra"},
               { "title": "Idling Somewhere", "performer": "Jane Remover"},
               { "title": "Moment To Moment", "performer": "Technimatic"},
@@ -11117,7 +11118,7 @@
             ],
             [
               { "time": "00:04", "title": "Photo Fit", "performer": "Slap Rash"},
-              { "title": "Der Blitz Wird Wach", "performer": "MPC Lafote"},
+              { "title": "Der Blitz wird wach", "performer": "MPC Lafote"},
               { "title": "It Grows", "performer": "Vox Low"},
               { "title": "A Reprise (That Girl)", "performer": "Genn"},
               { "title": "Sofia", "performer": "fiio"},
