@@ -10902,7 +10902,7 @@
             [
               { "time": "22:04", "title": "KennIchNich", "performer": "Joseph Boys"},
               { "title": "Zeuge aus Licht", "performer": "Die Selektion"},
-              { "title": "Hot Topic", "performer": "La Sécurite"},
+              { "title": "Hot Topic", "performer": "La Sécurité"},
               { "title": "Saturn Drive Triplex (The Liminanas Remix, Short Version)", "performer": "Laurent Garnier feat. Alan Vega"},
               { "title": "Pele (MadMadMad Remix)", "performer": "Ikoqwe"},
               { "title": "Flute And The Hobo", "performer": "MadMadMad"},
@@ -11144,30 +11144,30 @@
               { "title": "DJ Friendly", "performer": "Elkka"},
               { "title": "Terror (Is A State Of Mind)", "performer": "In Letter Form"},
               { "title": "Machine Dreaming", "performer": "Smile"},
-              { "title": "Hot Topic", "performer": "La Securite"},
+              { "title": "Hot Topic", "performer": "La Sécurité"},
               { "title": "Wolves", "performer": "Hydrogen Sea"},
-              { "title": "Hold", "performer": "Wild Nothing"},
+              { "title": "Headlighta On", "performer": "Wild Nothing"},
               { "title": "Heaven", "performer": "Bombay Bicycle Club feat. Damon Albarn"},
               { "title": "Ozone Sraper", "performer": "DJ Shadow"},
               { "title": "Don´t Call Me Out", "performer": "Julie Pavon"},
-              { "title": "Ya Rayah", "performer": "Francis Mercier & Rachid Taha & Clyde P"},
-              { "title": "Si Te Portas Bonito", "performer": "Sofia Kourtesis"}
+              { "title": "Ya Rayah", "performer": "Francis Mercier & Rachid Taha & Clyde P"}
             ],
             [
-              { "time": "23:04", "title": "Dream Job", "performer": "Yard Act"},
+              { "time": "23:04", "title": "Si Te Portas Bonito", "performer": "Sofia Kourtesis"},
+              { "title": "Dream Job", "performer": "Yard Act"},
               { "title": "Dreams", "performer": "Kölsch"},
               { "title": "No Dither", "performer": "Holodrum"},
               { "title": "Dreams (On The Strip)", "performer": "Flamingods"},
               { "title": "Club Deuce", "performer": "The Serfs"},
-              { "title": "Heart Can Still  Somersault", "performer": "Tom VR"},
+              { "title": "Heart Can Still Somersault", "performer": "Tom VR"},
               { "title": "Matthew And Toby (Four Tet Remix)", "performer": "Rocketnumbernine"},
               { "title": "Kingdom Come", "performer": "The Kills"},
               { "title": "Matador", "performer": "Egyptian Blue"},
-              { "title": "Little Tony", "performer": "Bar Italia"},
-              { "title": "Sadbox", "performer": "Die Cigaretten"}
+              { "title": "Little Tony", "performer": "Bar Italia"}
             ],
             [
-              { "time": "00:04", "title": "Who´s Gonna Be The Goat", "performer": "De Staat"},
+              { "time": "00:04", "title": "Sadbox", "performer": "Die Cigaretten"},
+              { "title": "Who´s Gonna Be The Goat", "performer": "De Staat"},
               { "title": "Set (Extended Mix)", "performer": "King Gizzard & The Lizard Wizard"},
               { "title": "Selecta", "performer": "Biscits"},
               { "title": "For The Crowd", "performer": "AndThen"},
@@ -11224,6 +11224,52 @@
               { "title": "Final Solution", "performer": "Pere Ubu"},
               { "title": "Worlds Greatest Emoter", "performer": "Bar Italia"},
               { "title": "Purple Punch", "performer": "Salamanda"}
+            ]
+          ]
+        },
+        {
+          "id": "46",
+          "date": "2023-11-12",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Early Signs Of Rhythm", "performer": "Art Feynman"},
+              { "title": "Outer Reaches", "performer": "Adred"},
+              { "title": "Governer´s Bay", "performer": "Om Unit"},
+              { "title": "Ophelia", "performer": "PinkPantheress"},
+              { "title": "Lao Cow (Kareem Raihani Remix)", "performer": "Apichat Pakwan & Lamaihansa"},
+              { "title": "Reverse Logic", "performer": "Om Unit"},
+              { "title": "slay QuEen", "performer": "fururebae"},
+              { "title": "Rise Up", "performer": "Nicole Moudaber feat. London Community Gospel Choir"},
+              { "title": "Everything Is Everything", "performer": "Sinkane feat. Tru Osborne"},
+              { "title": "Nearly Dreaming (George Feely Remix)", "performer": "Saccades/The KVB"},
+              { "title": "E-mosh", "performer": "Scuba"},
+              { "title": "PLS", "performer": "Scuba"}
+            ],
+            [
+              { "time": "23:04", "title": "Changes", "performer": "Sugar"},
+              { "title": "I Thought You´d Change", "performer": "Hotline TNT"},
+              { "title": "Death By Entertainment", "performer": "Sam Akpro"},
+              { "title": "Wabi-Sabi (Closet Yi Remix)", "performer": "Baltra"},
+              { "title": "Motorik", "performer": "Pache"},
+              { "title": "Bloom", "performer": "Ill Peach"},
+              { "title": "I Believe In Love Again", "performer": "Peggy Gou & Lenny Kravitz"},
+              { "title": "Houdini", "performer": "Dua Lipa"},
+              { "title": "Elixir", "performer": "George Riley"},
+              { "title": "Bury Me", "performer": "PinkPantheress feat. Kelela"},
+              { "title": "Mr. Tambourine Man (Live at The Royal Albert Hall)", "performer": "Cat Power"},
+              { "title": "Wavy", "performer": "Jelani Blackman feat. Mavica"},
+              { "title": "Damage", "performer": "Jelani Blackman "}
+            ],
+            [
+              { "time": "00:04", "title": "Meine Lederjeans", "performer": "Josh Caffe feat. Al White"},
+              { "title": "Barry And The Mouse", "performer": "Hot Toddy"},
+              { "title": "Land Of The Hearth (maXlon Remix)", "performer": "Saccades/The KVB"},
+              { "title": "Löwenzahn", "performer": "Löwenzahnhonig"},
+              { "title": "Planet", "performer": "Bert Dockx Band"},
+              { "title": "Shaolin Finger Jab", "performer": "Altered Natives"},
+              { "title": "Yello", "performer": "Jordan Nocturne"},
+              { "title": "The aisle", "performer": "PinkPantheress"},
+              { "title": "Horoskop", "performer": "Schatzi"}
             ]
           ]
         }
