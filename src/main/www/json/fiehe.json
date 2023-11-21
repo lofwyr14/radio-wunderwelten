@@ -11136,6 +11136,7 @@
         {
           "id": "44",
           "date": "2023-10-29",
+          "checked": {"date": "2023-11-21", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Holding On", "performer": "KiLLOWEN"},
@@ -11170,7 +11171,7 @@
               { "title": "Who´s Gonna Be The Goat", "performer": "De Staat"},
               { "title": "Set (Extended Mix)", "performer": "King Gizzard & The Lizard Wizard"},
               { "title": "Selecta", "performer": "Biscits"},
-              { "title": "For The Crowd", "performer": "AndThen"},
+              { "title": "For The Crowd (Extended Mix)", "performer": "AndThen"},
               { "title": "All My", "performer": "DJ Shadow"},
               { "title": "BTHE1", "performer": "Machinedrum feat. Liz"},
               { "title": "Graveyard Slot", "performer": "Fracture"},
