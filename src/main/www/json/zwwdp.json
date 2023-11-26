@@ -82883,6 +82883,10 @@
         {
           "id": "47",
           "date": "2023-11-23",
+          "checked": {
+            "date": "2023-11-26",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -82907,12 +82911,12 @@
               },
               {
                 "time": "22:18",
-                "title": "Det LÃ¤cker",
-                "performer": "Dina Ãgon"
+                "title": "Det läcker",
+                "performer": "Dina Ögon"
               },
               {
                 "time": "22:22",
-                "title": "AÃ©rosuite",
+                "title": "Aérosuite (Sean O'Hagan Remix - The House That Jack Built)",
                 "performer": "Alexander von Mehren"
               },
               {
@@ -82927,12 +82931,12 @@
               },
               {
                 "time": "22:35",
-                "title": "Ship Of Fools (12 \")",
+                "title": "Ship Of Fools (12\")",
                 "performer": "World Party"
               },
               {
                 "time": "22:42",
-                "title": "Gone Astray",
+                "title": "Gone Astray (Peanut Butter Wolf Remix)",
                 "performer": "Rahill"
               },
               {
@@ -82969,7 +82973,7 @@
               },
               {
                 "time": "23:18",
-                "title": "Ich sehe was, Was du nicht siehst",
+                "title": "Ich sehe was, was du nicht siehst",
                 "performer": "Enno Bunger"
               },
               {
@@ -83004,7 +83008,7 @@
               },
               {
                 "time": "23:46",
-                "title": "No Hope In Here",
+                "title": "No Hope In Here (Acoustic)",
                 "performer": "Lewis Taylor"
               },
               {
