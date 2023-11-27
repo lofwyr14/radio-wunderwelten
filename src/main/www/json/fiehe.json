@@ -11192,16 +11192,16 @@
               { "title": "Blue Lights (Major League DJz Remix)", "performer": "Jayda G"},
               { "title": "Costaud", "performer": "Afro B, Marla, Tchaikabo, Tripa Gninin"},
               { "title": "Oil Drum", "performer": "Doctor Jeep feat. SIM"},
-              { "title": "Epiphania", "performer": "Otik"},
+              { "title": "Rebirth", "performer": "Otik"},
               { "title": "Eine Vorahnung", "performer": "Der Frühling"},
               { "title": "Shadow", "performer": "Rebel Yell & Tralala Blip"},
               { "title": "Live Inside The Ride", "performer": "Mella Dee"},
               { "title": "I Thought You´d Change", "performer": "Hotline TNT"},
-              { "title": "The Price Was High", "performer": "Drop Nineteens"},
-              { "title": "Now And Then", "performer": "The Beatles"}
+              { "title": "The Price Was High", "performer": "Drop Nineteens"}
             ],
             [
-              { "time": "23:04", "title": "Mother Nature", "performer": "MGMT"},
+              { "time": "23:04", "title": "Now And Then", "performer": "The Beatles"},
+              { "title": "Mother Nature", "performer": "MGMT"},
               { "title": "85er Karat", "performer": "Der Frühling"},
               { "title": "You (Erol Alkan Rework)", "performer": "Josh Caffe"},
               { "title": "Justify My Sex", "performer": "Josh Caffe ft. Al White"},
@@ -11271,6 +11271,46 @@
               { "title": "Yello", "performer": "Jordan Nocturne"},
               { "title": "The aisle", "performer": "PinkPantheress"},
               { "title": "Horoskop", "performer": "Schatzi"}
+            ]
+          ]
+        },
+        {
+          "id": "47",
+          "date": "2023-11-19",
+          "songs": [
+            [
+              { "time": "22:04", "title": "The Slang Word P(*)ssy Rolls Off…..", "performer": "Andre 3000"},
+              { "title": "Flutestargate", "performer": "Carlos Nino feat. Deantoni Parks"},
+              { "title": "Varial", "performer": "Thurlow Joyce "},
+              { "title": "Lae Night Love", "performer": "Octo Octa"},
+              { "title": "Deeper", "performer": "Sen Morimoto"},
+              { "title": "Drifting Away", "performer": "Jaakko Eino Kalevi"},
+              { "title": "Same Light", "performer": "Philine Sonny"},
+              { "title": "Auralism", "performer": "Wesobad"}
+            ],
+            [
+              { "time": "23:04", "title": "Hot Gossip", "performer": "Regularfantasy"},
+              { "title": "Call U When I´m Done (Regular Zen Mix)", "performer": "Regularfantasy feat. Big Zen"},
+              { "title": "Thicc", "performer": "Shygirl"},
+              { "title": "Sliver (Kettama Remix)", "performer": "Special Request feat. Novelist"},
+              { "title": "Ghost Shark", "performer": "Mikal & Riot Present Tech Noir"},
+              { "title": "The Shadow (Process Mix)", "performer": "Dom, Rob & Goldie"},
+              { "title": "We Shall Overcome", "performer": "Nookie & Ruth Royall"},
+              { "title": "Let´s See How Things Go", "performer": "Jaakko Eino Kalevi"},
+              { "title": "Sweet DReams", "performer": "Kitty Liv"},
+              { "title": "Kontrollverlust", "performer": "Edwin Rosen"}
+            ],
+            [
+              { "time": "00:04", "title": "Dustine", "performer": "Empty Country"},
+              { "title": "Watch Me Now", "performer": "Sam Quealy"},
+              { "title": "Figure Skating", "performer": "Amount"},
+              { "title": "Kidsangles (Joakim Remix)", "performer": "Principles Of Geometry"},
+              { "title": "Sweet Emotion (Bonne St Jean Mix)", "performer": "Rendevous feat. Kristian North & Regularfantasy"},
+              { "title": "The Whip", "performer": "Mary Ocher feat. Red Axes"},
+              { "title": "Passed Tense (DJ Shadow Remix)", "performer": "George Fitzgerald"},
+              { "title": "Night Walk", "performer": "Jaakko Eino Kalevi"},
+              { "title": "Deuil", "performer": "Glauque"},
+              { "title": "Monogamie", "performer": "Luis Ake"}
             ]
           ]
         }
