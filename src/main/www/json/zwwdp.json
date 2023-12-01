@@ -83028,6 +83028,158 @@
               }
             ]
           ]
+        },
+        {
+          "id": "48",
+          "date": "2023-11-30",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Juxtapozed With You",
+                "performer": "Super Furry Animals"
+              },
+              {
+                "time": "22:08",
+                "title": "Setting Sun",
+                "performer": "BMX Bandits"
+              },
+              {
+                "time": "22:12",
+                "title": "My God",
+                "performer": "Tapir!"
+              },
+              {
+                "time": "22:15",
+                "title": "Maybe Baby",
+                "performer": "Ed Mount feat. Flore Benguigui"
+              },
+              {
+                "time": "22:18",
+                "title": "Tell Me About My Sister",
+                "performer": "Spearmint"
+              },
+              {
+                "time": "22:25",
+                "title": "Section 49: Hop Off The Fence",
+                "performer": "The Polyphonic Spree"
+              },
+              {
+                "time": "22:30",
+                "title": "Zanzibar",
+                "performer": "Skinshape"
+              },
+              {
+                "time": "22:34",
+                "title": "Silver",
+                "performer": "Say She She"
+              },
+              {
+                "time": "22:42",
+                "title": "Mrs Magic",
+                "performer": "Strawberry Guy"
+              },
+              {
+                "time": "22:45",
+                "title": "Evidence",
+                "performer": "Lo Moon"
+              },
+              {
+                "time": "22:52",
+                "title": "Widescreen Features",
+                "performer": "Matt Berry"
+              },
+              {
+                "time": "22:55",
+                "title": "All I Have",
+                "performer": "sir Was"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "The Visit",
+                "performer": "The Cyrkle"
+              }
+            ],
+            [
+              {
+                "time": "23:06",
+                "title": "Sunshine",
+                "performer": "The Bees"
+              },
+              {
+                "time": "23:10",
+                "title": "Juggernauts",
+                "performer": "Gold Celeste"
+              },
+              {
+                "time": "23:13",
+                "title": "Surf's Up",
+                "performer": "The Beach Boys"
+              },
+              {
+                "time": "23:17",
+                "title": "A Pale Horse In Roswell 1947",
+                "performer": "Monde Ufo"
+              },
+              {
+                "time": "23:21",
+                "title": "Cosmic Bliss",
+                "performer": "Misha Panfilov"
+              },
+              {
+                "time": "23:23",
+                "title": "Breakdown In Vera Cruz",
+                "performer": "The Apartments"
+              },
+              {
+                "time": "23:28",
+                "title": "Afternoon Sun",
+                "performer": "Lon Tall Jefferson Fai Baba feat. Paul Märki Löwenzahnhonig"
+              },
+              {
+                "time": "23:32",
+                "title": "Voyager Program 1977",
+                "performer": "The New Lines"
+              },
+              {
+                "time": "23:36",
+                "title": "Footprints",
+                "performer": "Jodie Lowther"
+              },
+              {
+                "time": "23:40",
+                "title": "A Glorious Dawn",
+                "performer": "Carl Sagan"
+              },
+              {
+                "time": "23:44",
+                "title": "Rocket Man",
+                "performer": "Astronauts etc."
+              },
+              {
+                "time": "23:48",
+                "title": "Islands In The Sky",
+                "performer": "Murry Wilson"
+              },
+              {
+                "time": "23:52",
+                "title": "Bonjour Madame",
+                "performer": "Romano Bianchi"
+              },
+              {
+                "time": "23:54",
+                "title": "Summer In Siam",
+                "performer": "The Pogues"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
