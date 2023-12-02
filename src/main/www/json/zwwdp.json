@@ -83032,6 +83032,10 @@
         {
           "id": "48",
           "date": "2023-11-30",
+          "checked": {
+            "date": "2023-12-02",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -83076,7 +83080,7 @@
               },
               {
                 "time": "22:42",
-                "title": "Mrs Magic",
+                "title": "Mrs Magic (Strings Version)",
                 "performer": "Strawberry Guy"
               },
               {
@@ -83136,7 +83140,7 @@
               {
                 "time": "23:28",
                 "title": "Afternoon Sun",
-                "performer": "Lon Tall Jefferson Fai Baba feat. Paul Märki Löwenzahnhonig"
+                "performer": "Löwenzahnhonig"
               },
               {
                 "time": "23:32",
@@ -83156,7 +83160,7 @@
               {
                 "time": "23:44",
                 "title": "Rocket Man",
-                "performer": "Astronauts etc."
+                "performer": "Astronauts, etc."
               },
               {
                 "time": "23:48",
