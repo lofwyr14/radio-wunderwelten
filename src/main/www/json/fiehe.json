@@ -11241,7 +11241,7 @@
               { "title": "Lao Cow (Kareem Raihani Remix)", "performer": "Apichat Pakwan & Lamaihansa"},
               { "title": "Reverse Logic", "performer": "Om Unit"},
               { "title": "slay QuEen", "performer": "fururebae"},
-              { "title": "Rise Up", "performer": "Nicole Moudaber feat. London Community Gospel Choir"},
+              { "title": "Rise Up (Extended Mix)", "performer": "Nicole Moudaber feat. London Community Gospel Choir"},
               { "title": "Everything Is Everything", "performer": "Sinkane feat. Tru Osborne"},
               { "title": "Nearly Dreaming (George Feely Remix)", "performer": "Saccades/The KVB"},
               { "title": "E-mosh", "performer": "Scuba"},
@@ -11312,6 +11312,51 @@
               { "title": "Night Walk", "performer": "Jaakko Eino Kalevi"},
               { "title": "Deuil", "performer": "Glauque"},
               { "title": "Monogamie", "performer": "Luis Ake"}
+            ]
+          ]
+        },
+        {
+          "id": "48",
+          "date": "2023-11-26",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Tsunami X2", "performer": "M1onTheBeat, Krept & Conan & BackRoad Gee"},
+              { "title": "Stretcher", "performer": "M1onTheBeat feat. K-Trap"},
+              { "title": "Astra", "performer": "Otik"},
+              { "title": "Polaris (Echaskech Remix)", "performer": "Octavcat"},
+              { "title": "Kidsangles (Joakim Remix)", "performer": "Principles Of Geometry"},
+              { "title": "Olympus", "performer": "Guava feat. BUOY"},
+              { "title": "Inhibitions", "performer": "Bored At My Grandmas House"},
+              { "title": "Tom Petty´s Gone But Tell Him I Asked For Him", "performer": "Kurt Vile"},
+              { "title": "Verliebt in der Stadt die es nicht gibt", "performer": "Casper"},
+              { "title": "Live Again", "performer": "Chemical Brothers feat. Halo Maud"},
+              { "title": "Babe", "performer": "Elkka"},
+              { "title": "Right Now (Mark Broom Remix)", "performer": "Waajeed"}
+            ],
+            [
+              { "time": "23:04", "title": "West End Girls (Pet Shop Boys Remix)", "performer": "Sleaford Mods"},
+              { "title": "Over & Over", "performer": "Jordan Nocturne feat. Ready In LED"},
+              { "title": "Mirror", "performer": "M83"},
+              { "title": "Endgame", "performer": "Prince Thailand"},
+              { "title": "Fantomes", "performer": "Joakim"},
+              { "title": "Irreversible Cessation (Convextion Remix)", "performer": "Steffi"},
+              { "title": "Time", "performer": "Mo Kolours"},
+              { "title": "Swim", "performer": "Abracadabra"},
+              { "title": "Takahashi Timing", "performer": "YIN YIN"},
+              { "title": "West End Girls", "performer": "Sleaford Mods"}
+            ],
+            [
+              { "time": "00:04", "title": "Cosmosis", "performer": "Otik"},
+              { "title": "Zu Staub Werden", "performer": "All Diese Gewalt"},
+              { "title": "Comin´ Back To Me", "performer": "Jefferson Airplane"},
+              { "title": "The Shoe Fits", "performer": "Drake"},
+              { "title": "Down Wit It", "performer": "Danny Brown"},
+              { "title": "Pressure", "performer": "Blackwave feat. Iyamah"},
+              { "title": "Damage", "performer": "Jelani Blackman"},
+              { "title": "Emma", "performer": "Casper"},
+              { "title": "Alright Alright", "performer": "Ghost Woman"},
+              { "title": "Nearly Dreaming (Freely Remix)", "performer": "Saccades/The KVB"},
+              { "title": "Over & Over", "performer": "Nookie"}
             ]
           ]
         }
