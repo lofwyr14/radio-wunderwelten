@@ -11359,6 +11359,49 @@
               { "title": "Over & Over", "performer": "Nookie"}
             ]
           ]
+        },
+        {
+          "id": "49",
+          "date": "2023-12-03",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Oil Drum", "performer": "Doctor Jeep feat. SIM"},
+              { "title": "Over You", "performer": "Lili Chan"},
+              { "title": "Joy Of Pain", "performer": "Mr. Sosa"},
+              { "title": "Goodbye (Regularfantasy Remix)", "performer": "Baltra"},
+              { "title": "Zoup", "performer": "Kraan"},
+              { "title": "To See A World In A Plum ", "performer": "C.A.R. feat. Pegelia Gold"},
+              { "title": "Space & Time", "performer": "Bloodflowers"},
+              { "title": "21 Questions", "performer": "50 Cent feat. Nate Dogg"},
+              { "title": "The Main Thing", "performer": "Ducks LTD"}
+            ],
+            [
+              { "time": "23:04", "title": "Somebody Like You", "performer": "Giant Rooks"},
+              { "title": "Polaris", "performer": "Octavcat"},
+              { "title": "It´s You", "performer": "Blue Print"},
+              { "title": "Circles", "performer": "Polar Noir"},
+              { "title": "Dirty Old Town", "performer": "The Pogues"},
+              { "title": "Do A Little Dope", "performer": "Field Medic"},
+              { "title": "Clear Thoughts Of Morning", "performer": "Field Medic"},
+              { "title": "Holding On", "performer": "Killowen"},
+              { "title": "M Presence (Baltra Remix)", "performer": "Guava"},
+              { "title": "Cooling Down", "performer": "Fybe:One feat. NuphZed"},
+              { "title": "Dominoes", "performer": "Icarus"}
+            ],
+            [
+              { "time": "00:04", "title": "Perfumed Garden", "performer": "Flamingods"},
+              { "title": "Bury Me", "performer": "PinkPantheress feat. Kelela"},
+              { "title": "Wild Mountain Honey", "performer": "Steve Miller Band"},
+              { "title": "Feel Nothing", "performer": "Amen Dunes & Sleaford Mods"},
+              { "title": "I Wanna Be With You", "performer": "The Still Brothers"},
+              { "title": "Stechmück (Sleaford Mods Rework)", "performer": "Pole"},
+              { "title": "Dirty Rat", "performer": "Orbital feat. Sleaford Mods"},
+              { "title": "Strange Neighbour", "performer": "Folly Group"},
+              { "title": "I Raise You (The Price Of Your Head)", "performer": "Folly Group"},
+              { "title": "Woolen Sweater", "performer": "Odd Beholder"},
+              { "title": "Rent", "performer": "Sally Shapiro"}
+            ]
+          ]
         }
       ]
     }
