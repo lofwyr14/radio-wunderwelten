@@ -11232,6 +11232,7 @@
         {
           "id": "46",
           "date": "2023-11-12",
+          "checked": {"date": "2023-12-12", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Early Signs Of Rhythm", "performer": "Art Feynman"},
@@ -11267,9 +11268,9 @@
               { "title": "Barry And The Mouse", "performer": "Hot Toddy"},
               { "title": "Land Of The Hearth (maXlon Remix)", "performer": "Saccades/The KVB"},
               { "title": "Löwenzahn", "performer": "Löwenzahnhonig"},
-              { "title": "Planet", "performer": "Bert Dockx Band"},
+              { "title": "Planets", "performer": "Bert Dockx Band"},
               { "title": "Shaolin Finger Jab", "performer": "Altered Natives"},
-              { "title": "Yello", "performer": "Jordan Nocturne"},
+              { "title": "Ponyhawke Ride", "performer": "Jordan Nocturne"},
               { "title": "The aisle", "performer": "PinkPantheress"},
               { "title": "Horoskop", "performer": "Schatzi"}
             ]
