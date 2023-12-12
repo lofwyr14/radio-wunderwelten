@@ -83188,6 +83188,10 @@
         {
           "id": "49",
           "date": "2023-12-07",
+          "checked": {
+            "date": "2023-12-12",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -83217,7 +83221,7 @@
               },
               {
                 "time": "22:24",
-                "title": "You Don't Get It",
+                "title": "You Don't Get It (Radio Edit)",
                 "performer": "Midlake & John Grant"
               },
               {
@@ -83242,7 +83246,7 @@
               },
               {
                 "time": "22:44",
-                "title": "Novela Das Nove",
+                "title": "Novela Das Nove (Spider Woman) (7\")",
                 "performer": "Wally Badarou"
               },
               {
@@ -83261,13 +83265,18 @@
                 "performer": "Chuck Jackson"
               },
               {
+                "time": "23:04",
+                "title": "Minute By Minute (Extended Edit By Mr. K.)",
+                "performer": "The Doobie Brothers"
+              },
+              {
                 "time": "23:09",
                 "title": "Mrs Magic (Strings Version)",
                 "performer": "Strawberry Guy"
               },
               {
                 "time": "23:12",
-                "title": "Til I Die",
+                "title": "'Til I Die (Long Version With Alternate Lyrics)",
                 "performer": "The Beach Boys"
               },
               {
