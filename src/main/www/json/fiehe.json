@@ -11280,9 +11280,10 @@
         {
           "id": "47",
           "date": "2023-11-19",
+          "checked": {"date": "2023-12-15", "user": "jg"},
           "songs": [
             [
-              { "time": "22:04", "title": "The Slang Word P(*)ssy Rolls Off…..", "performer": "Andre 3000"},
+              { "time": "22:04", "title": "The Slang Word P(*)ssy Rolls Off The Tongue With Far Better Ease Than The Proper Word Vagina. Do You Agree?", "performer": "Andre 3000"},
               { "title": "Flutestargate", "performer": "Carlos Nino feat. Deantoni Parks"},
               { "title": "Varial", "performer": "Thurlow Joyce "},
               { "title": "Lae Night Love", "performer": "Octo Octa"},
@@ -11300,7 +11301,7 @@
               { "title": "The Shadow (Process Mix)", "performer": "Dom, Rob & Goldie"},
               { "title": "We Shall Overcome", "performer": "Nookie & Ruth Royall"},
               { "title": "Let´s See How Things Go", "performer": "Jaakko Eino Kalevi"},
-              { "title": "Sweet DReams", "performer": "Kitty Liv"},
+              { "title": "Sweet Dreams", "performer": "Kitty Liv"},
               { "title": "Kontrollverlust", "performer": "Edwin Rosen"}
             ],
             [
@@ -11310,10 +11311,11 @@
               { "title": "Kidsangles (Joakim Remix)", "performer": "Principles Of Geometry"},
               { "title": "Sweet Emotion (Bonne St Jean Mix)", "performer": "Rendevous feat. Kristian North & Regularfantasy"},
               { "title": "The Whip", "performer": "Mary Ocher feat. Red Axes"},
-              { "title": "Passed Tense (DJ Shadow Remix)", "performer": "George Fitzgerald"},
+              { "title": "Passed Tense (DJ Shadow Future Passed Remix)", "performer": "George Fitzgerald"},
               { "title": "Night Walk", "performer": "Jaakko Eino Kalevi"},
               { "title": "Deuil", "performer": "Glauque"},
-              { "title": "Monogamie", "performer": "Luis Ake"}
+              { "title": "Monogamie", "performer": "Luis Ake"},
+              { "title": "With Me", "performer": "Evian Christ"}
             ]
           ]
         },
