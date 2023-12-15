@@ -83331,6 +83331,136 @@
               }
             ]
           ]
+        },
+        {
+          "id": "50",
+          "date": "2023-12-14",
+          "songs": [
+            [
+              {
+                "time": "22:00",
+                "title": "I Feel Me",
+                "performer": "Vanderlinde"
+              },
+              {
+                "title": "A Place For Skipper",
+                "performer": "Larry Carlton"
+              },
+              {
+                "title": "The Pecan Tree",
+                "performer": "Joe Sample"
+              },
+              {
+                "title": "Slow Emotion Replay",
+                "performer": "Brookville"
+              },
+              {
+                "title": "Never Far From Saturday Night",
+                "performer": "Spearmint"
+              },
+              {
+                "title": "Water Underground",
+                "performer": "Real Estate"
+              },
+              {
+                "title": "I Wanna Be With You",
+                "performer": "The Still Brothers"
+              },
+              {
+                "title": "High Time (Figured It Out)",
+                "performer": "Ensemble"
+              },
+              {
+                "title": "The Pearl That Glitters",
+                "performer": "Sholto"
+              },
+              {
+                "title": "Hexagon",
+                "performer": "Maxwell Farrington & Le SuperHomard"
+              },
+              {
+                "title": "Medicine",
+                "performer": "Loving"
+              },
+              {
+                "title": "Gymnopédie",
+                "performer": "Tapir!"
+              },
+              {
+                "title": "Wrapped Around Your Finger",
+                "performer": "Meredith Meyer"
+              },
+              {
+                "title": "Ultramarine",
+                "performer": "Sven Wunder"
+              },
+              {
+                "title": "Hey",
+                "performer": "Ramnäs feat. Soft Crystals"
+              },
+              {
+                "title": "Winterblüher",
+                "performer": "Erdmöbel & Cäthe"
+              },
+              {
+                "title": "Miss You More Than I Thought",
+                "performer": "Benny Sings"
+              },
+              {
+                "title": "Maria",
+                "performer": "Sam Burton"
+              },
+              {
+                "title": "Blurred Stars",
+                "performer": "Looper"
+              },
+              {
+                "time": "23:00",
+                "title": "Strawberries Mean Love",
+                "performer": "The Strawberry Alarm Clock"
+              },
+              {
+                "title": "Who We Are",
+                "performer": "Camel"
+              },
+              {
+                "title": "Filigrani",
+                "performer": "Gianni Brezzo"
+              },
+              {
+                "title": "Tomb For Rockets",
+                "performer": "Feng Suave"
+              },
+              {
+                "title": "Snow",
+                "performer": "The Trash Can Sinatras"
+              },
+              {
+                "title": "White Gloves",
+                "performer": "Khruangbin"
+              },
+              {
+                "title": "20220331,00",
+                "performer": "Mac DeMarco"
+              },
+              {
+                "title": "He Ain't Heavy... He's My Brother",
+                "performer": "Neil Diamond"
+              },
+              {
+                "title": "Steppin' Out",
+                "performer": "Seal & Trevor Horn"
+              },
+              {
+                "title": "Little Bird",
+                "performer": "The Beach Boys"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
