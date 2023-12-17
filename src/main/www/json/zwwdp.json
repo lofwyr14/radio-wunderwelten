@@ -83335,22 +83335,14 @@
         {
           "id": "50",
           "date": "2023-12-14",
+          "checked": {
+            "date": "2023-12-17",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:00",
-                "title": "I Feel Me",
-                "performer": "Vanderlinde"
-              },
-              {
-                "title": "A Place For Skipper",
-                "performer": "Larry Carlton"
-              },
-              {
-                "title": "The Pecan Tree",
-                "performer": "Joe Sample"
-              },
-              {
                 "title": "Slow Emotion Replay",
                 "performer": "Brookville"
               },
@@ -83407,15 +83399,15 @@
                 "performer": "Benny Sings"
               },
               {
-                "title": "Maria",
-                "performer": "Sam Burton"
-              },
-              {
                 "title": "Blurred Stars",
                 "performer": "Looper"
               },
               {
                 "time": "23:00",
+                "title": "The Sweet Surrender",
+                "performer": "The Quarterlies"
+              },
+              {
                 "title": "Strawberries Mean Love",
                 "performer": "The Strawberry Alarm Clock"
               },
@@ -83428,7 +83420,7 @@
                 "performer": "Gianni Brezzo"
               },
               {
-                "title": "Tomb For Rockets",
+                "title": "Tomb For Rockets (Live From Studio Helmbreker)",
                 "performer": "Feng Suave"
               },
               {
@@ -83436,7 +83428,7 @@
                 "performer": "The Trash Can Sinatras"
               },
               {
-                "title": "White Gloves",
+                "title": "White Gloves (Live At Sydney Opera House)",
                 "performer": "Khruangbin"
               },
               {
@@ -83449,11 +83441,15 @@
               },
               {
                 "title": "Steppin' Out",
-                "performer": "Seal & Trevor Horn"
+                "performer": "Trevor Horn feat. Seal"
               },
               {
-                "title": "Little Bird",
-                "performer": "The Beach Boys"
+                "title": "A Song For You",
+                "performer": "Aretha Franklin"
+              },
+              {
+                "title": "Lounge Lizard",
+                "performer": "Molly Lewis"
               },
               {
                 "title": "Good Night",
