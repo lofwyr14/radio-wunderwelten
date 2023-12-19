@@ -7263,7 +7263,7 @@
               { "title": "The Dead Flag Blues", "performer": "Godspeed You Black Emperor"},
               { "title": "Naima", "performer": "Bon Voyage Organisation"},
               { "title": "Goldregenpfeifer", "performer": "Dominik Eulberg"},
-              { "title": "Fantomes", "performer": "Joakim"},
+              { "title": "Fantômes", "performer": "Joakim"},
               { "title": "Don´t Worry", "performer": "Satin Jackets"},
               { "title": "Blush", "performer": "Hex Editor"},
               { "title": "Seen It Coming", "performer": "Bob Moses"}
@@ -11342,10 +11342,10 @@
               { "title": "Over & Over", "performer": "Jordan Nocturne feat. Ready In LED"},
               { "title": "Mirror", "performer": "M83"},
               { "title": "Endgame", "performer": "Prince Thailand"},
-              { "title": "Fantomes", "performer": "Joakim"},
+              { "title": "Fantômes", "performer": "Joakim"},
               { "title": "Irreversible Cessation (Convextion Remix)", "performer": "Steffi"},
               { "title": "Time", "performer": "Mo Kolours"},
-              { "title": "Swim", "performer": "Abracadabra"},
+              { "title": "Swim (Extended Dub Mix)", "performer": "Abracadabra"},
               { "title": "Takahashi Timing", "performer": "YIN YIN"},
               { "title": "West End Girls", "performer": "Sleaford Mods"}
             ],
@@ -11404,6 +11404,52 @@
               { "title": "I Raise You (The Price Of Your Head)", "performer": "Folly Group"},
               { "title": "Woolen Sweater", "performer": "Odd Beholder"},
               { "title": "Rent", "performer": "Sally Shapiro"}
+            ]
+          ]
+        },
+        {
+          "id": "50",
+          "date": "2023-12-10",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Hustle Can´t Die", "performer": "M1onThe Beat feat. Slim"},
+              { "title": "Astra", "performer": "Otik"},
+              { "title": "Fillmore", "performer": "Montel"},
+              { "title": "Eins Null Eins Eins Null", "performer": "Fred und Luna"},
+              { "title": "We Gone Make It", "performer": "dreamcastmoe"},
+              { "title": "Deeper", "performer": "Dâm-Funk"},
+              { "title": "Eat Right", "performer": "Kid Acne"},
+              { "title": "Wake Up", "performer": "The Still Brothers"},
+              { "title": "Maiden Voyage", "performer": "Brian Auger"},
+              { "title": "Can´t Get Enough", "performer": "Willow Parlo"},
+              { "title": "Bubba", "performer": "Hovvdy"},
+              { "title": "Like A Wounded Bird Trying To Fly", "performer": "Kurt Vile"}
+            ],
+            [
+              { "time": "23:04", "title": "Dream Machine", "performer": "Pressa X Drumskull"},
+              { "title": "EZ 4Me (Chrissy Remix)", "performer": "Bianca Oblivion"},
+              { "title": "You & I", "performer": "Oppidan"},
+              { "title": "Affection", "performer": "Kllo"},
+              { "title": "Weil du Blumen (doch) magst", "performer": "Luis Ake"},
+              { "title": "Rumble The Funk (Blasha & Allatt Remix)", "performer": "Shcuro & Vil"},
+              { "title": "Ruined", "performer": "Adrianne Lenker"},
+              { "title": "Dublin City Sky", "performer": "Fontaines D.C."},
+              { "title": "Needle", "performer": "Nicky Minaj feat. Drake"},
+              { "title": "Petroleum", "performer": "Yard Act"},
+              { "title": "Do U Believe U Still", "performer": "Mr. Sosa"},
+              { "title": "Overnight", "performer": "andhim"}
+            ],
+            [
+              { "time": "00:04", "title": "We´re Not Supposed To Be Lovers", "performer": "Regina Spektor & Jack Dishel"},
+              { "title": "Whistle", "performer": "Brintex Colletive"},
+              { "title": "Zoup", "performer": "Kraan"},
+              { "title": "The Human Factor", "performer": "Gerry Franke"},
+              { "title": "Chica", "performer": "Duskee ft. Deadline & Slay"},
+              { "title": "Aslan", "performer": "Trance Wax"},
+              { "title": "Bellen", "performer": "Leftovers"},
+              { "title": "Dynamite Dancer", "performer": "Organisation"},
+              { "title": "Celibate", "performer": "Danny Brown feat. MIKE"},
+              { "title": "I Just Hope One Day", "performer": "Franky Wah"}
             ]
           ]
         }
