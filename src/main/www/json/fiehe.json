@@ -11322,6 +11322,7 @@
         {
           "id": "48",
           "date": "2023-11-26",
+          "checked": {"date": "2023-12-19", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Tsunami X2", "performer": "M1onTheBeat, Krept & Conan & BackRoad Gee"},
@@ -11347,11 +11348,12 @@
               { "title": "Time", "performer": "Mo Kolours"},
               { "title": "Swim (Extended Dub Mix)", "performer": "Abracadabra"},
               { "title": "Takahashi Timing", "performer": "YIN YIN"},
-              { "title": "West End Girls", "performer": "Sleaford Mods"}
+              { "title": "West End Girls", "performer": "Sleaford Mods"},
+              { "title": "Non Believers", "performer": "Otik"}
             ],
             [
               { "time": "00:04", "title": "Cosmosis", "performer": "Otik"},
-              { "title": "Zu Staub Werden", "performer": "All Diese Gewalt"},
+              { "title": "Zu Staub werden", "performer": "All diese Gewalt"},
               { "title": "Comin´ Back To Me", "performer": "Jefferson Airplane"},
               { "title": "The Shoe Fits", "performer": "Drake"},
               { "title": "Down Wit It", "performer": "Danny Brown"},
@@ -11359,8 +11361,9 @@
               { "title": "Damage", "performer": "Jelani Blackman"},
               { "title": "Emma", "performer": "Casper"},
               { "title": "Alright Alright", "performer": "Ghost Woman"},
-              { "title": "Nearly Dreaming (Freely Remix)", "performer": "Saccades/The KVB"},
-              { "title": "Over & Over", "performer": "Nookie"}
+              { "title": "Nearly Dreaming (George Feely Remix)", "performer": "Saccades/The KVB"},
+              { "title": "Over & Over", "performer": "Nookie"},
+              { "title": "Terres Infinies", "performer": "Helo Maud"}
             ]
           ]
         },
