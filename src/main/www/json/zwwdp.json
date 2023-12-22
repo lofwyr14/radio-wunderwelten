@@ -83457,6 +83457,167 @@
               }
             ]
           ]
+        },
+        {
+          "id": "51",
+          "date": "2023-12-21",
+          "comment": "Die besten Songs des Jahres",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Feelin' Kinda Lucky",
+                "performer": "Nick Corbin & The Hang Ups"
+              },
+              {
+                "time": "22:09",
+                "title": "The Grid Generation",
+                "performer": "Cory Wong feat. Louis Cole"
+              },
+              {
+                "time": "22:14",
+                "title": "What's Up, Upper Tune",
+                "performer": "Ole Johannes Åleskjær"
+              },
+              {
+                "time": "22:18",
+                "title": "Timeless",
+                "performer": "The Sound Of Pop Art"
+              },
+              {
+                "time": "22:22",
+                "title": "Council Skies",
+                "performer": "Noel Gallagher's High Flying Birds"
+              },
+              {
+                "time": "22:27",
+                "title": "She's In L.A.",
+                "performer": "Rio 18 feat. Young Gun Silver Fox"
+              },
+              {
+                "time": "22:33",
+                "title": "Fireflies",
+                "performer": "Pearl & The Oysters"
+              },
+              {
+                "time": "22:36",
+                "title": "The Village Is Dead",
+                "performer": "Jonathan Wilson"
+              },
+              {
+                "time": "22:39",
+                "title": "Love In A Circumstance",
+                "performer": "Thomas Walsh"
+              },
+              {
+                "time": "22:42",
+                "title": "My God",
+                "performer": "Tapir!"
+              },
+              {
+                "time": "22:45",
+                "title": "Mormor",
+                "performer": "Dina Ögon"
+              },
+              {
+                "time": "22:49",
+                "title": "Hello",
+                "performer": "Hania Rani"
+              },
+              {
+                "time": "22:55",
+                "title": "Pretty Straight Guy",
+                "performer": "Barbara"
+              },
+              {
+                "time": "22:58",
+                "title": "The Height Of Love (Will Bring A Man To His Knees)",
+                "performer": "Sinj Clarke"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "Wasted On You",
+                "performer": "Andy Shauf"
+              },
+              {
+                "time": "23:08",
+                "title": "But Not Kiss",
+                "performer": "Faye Webster"
+              },
+              {
+                "time": "23:12",
+                "title": "Back To Anonymous",
+                "performer": "Ben Folds"
+              },
+              {
+                "time": "23:16",
+                "title": "Pretty",
+                "performer": "Puma Blue"
+              },
+              {
+                "time": "23:20",
+                "title": "Pistol",
+                "performer": "Cigarettes After Sex"
+              },
+              {
+                "time": "23:24",
+                "title": "Cherry Plum",
+                "performer": "Astronauts, etc."
+              },
+              {
+                "time": "23:27",
+                "title": "A Boat Called Bonnie",
+                "performer": "Herr Wade"
+              },
+              {
+                "time": "23:31",
+                "title": "Do You Feel Like A Ghost?",
+                "performer": "Michael Seyer"
+              },
+              {
+                "time": "23:34",
+                "title": "Somone Else",
+                "performer": "Zablon"
+              },
+              {
+                "time": "23:37",
+                "title": "Droplets",
+                "performer": "Parisian Night Suit"
+              },
+              {
+                "time": "23:40",
+                "title": "Go To Bed",
+                "performer": "Mottron"
+              },
+              {
+                "time": "23:43",
+                "title": "Corner Of My Eye",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "time": "23:48",
+                "title": "Happienes",
+                "performer": "Bubble Tea And Cigaretts"
+              },
+              {
+                "time": "23:51",
+                "title": "Mrs Magic",
+                "performer": "Strawberry Guy"
+              },
+              {
+                "time": "23:55",
+                "title": "Now And Then",
+                "performer": "The Beatles"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
