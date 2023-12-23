@@ -11370,10 +11370,11 @@
         {
           "id": "49",
           "date": "2023-12-03",
+          "checked": {"date": "2023-12-23", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Oil Drum", "performer": "Doctor Jeep feat. SIM"},
-              { "title": "Over You", "performer": "Lili Chan"},
+              { "title": "Over You (Club Mix)", "performer": "Lili Chan"},
               { "title": "Joy Of Pain", "performer": "Mr. Sosa"},
               { "title": "Goodbye (Regularfantasy Remix)", "performer": "Baltra"},
               { "title": "Zoup", "performer": "Kraan"},
@@ -11406,7 +11407,8 @@
               { "title": "Strange Neighbour", "performer": "Folly Group"},
               { "title": "I Raise You (The Price Of Your Head)", "performer": "Folly Group"},
               { "title": "Woolen Sweater", "performer": "Odd Beholder"},
-              { "title": "Rent", "performer": "Sally Shapiro"}
+              { "title": "Rent", "performer": "Sally Shapiro"},
+              { "title": "Cpt. Gravity Mouse Welcome", "performer": "Psychedelic Porn Crumpets"}
             ]
           ]
         },
