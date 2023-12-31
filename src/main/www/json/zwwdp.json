@@ -83618,6 +83618,179 @@
               }
             ]
           ]
+        },
+        {
+          "id": "52",
+          "date": "2023-12-28",
+          "comment": "Die besten Alben des Jahres",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Winslow Gardens",
+                "performer": "Ben Folds"
+              },
+              {
+                "time": "22:08",
+                "title": "In My Head",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "time": "22:12",
+                "title": "Never Far From Saturday Night",
+                "performer": "Spearmint"
+              },
+              {
+                "time": "22:15",
+                "title": "Faraway Worlds",
+                "performer": "The Coral"
+              },
+              {
+                "time": "22:19",
+                "title": "Ohne dich bin ich nichts",
+                "performer": "Michel van Dyke"
+              },
+              {
+                "time": "22:24",
+                "title": "Verkackt",
+                "performer": "Erobique"
+              },
+              {
+                "time": "22:27",
+                "title": "We Can't Get Any Higher In This Town",
+                "performer": "theCatherines"
+              },
+              {
+                "time": "22:32",
+                "title": "Intersection",
+                "performer": "Symphony Orchestra"
+              },
+              {
+                "time": "22:36",
+                "title": "Space Coast",
+                "performer": "Pearl & The Oysters"
+              },
+              {
+                "time": "22:39",
+                "title": "Silver",
+                "performer": "Say She She"
+              },
+              {
+                "time": "22:43",
+                "title": "A Good Day For Me",
+                "performer": "Thomas Walsh"
+              },
+              {
+                "time": "22:46",
+                "title": "Forever",
+                "performer": "Any Version Of Me"
+              },
+              {
+                "time": "22:50",
+                "title": "Not Today",
+                "performer": "Portable Radio"
+              },
+              {
+                "time": "22:54",
+                "title": "Tatsächlich nur ein Lied",
+                "performer": "Herr Wade"
+              },
+              {
+                "time": "22:57",
+                "title": "Vertigo",
+                "performer": "John Carroll Kirby"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "The Last Rotation Of Earth",
+                "performer": "BC Camplight"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "The Last Rotation Of Earth",
+                "performer": "BC Camplight"
+              },
+              {
+                "time": "23:09",
+                "title": "Portrait Of E",
+                "performer": "Floral Portrait"
+              },
+              {
+                "time": "23:13",
+                "title": "Paradise Window",
+                "performer": "Grand Drifter"
+              },
+              {
+                "time": "23:15",
+                "title": "Smiling",
+                "performer": "Ben Reed"
+              },
+              {
+                "time": "23:19",
+                "title": "Falling Away",
+                "performer": "Les Imprimes"
+              },
+              {
+                "time": "23:22",
+                "title": "Melancholia",
+                "performer": "Initials MB"
+              },
+              {
+                "time": "23:26",
+                "title": "Glimmers",
+                "performer": "Wax Machine"
+              },
+              {
+                "time": "23:30",
+                "title": "Paradise Cinema",
+                "performer": "Andy Shauf"
+              },
+              {
+                "time": "23:33",
+                "title": "Gualala",
+                "performer": "Mac DeMarco"
+              },
+              {
+                "time": "23:36",
+                "title": "Grapefruit Knife",
+                "performer": "Talking To Turtles"
+              },
+              {
+                "time": "23:39",
+                "title": "Mormor",
+                "performer": "Dina Ögon"
+              },
+              {
+                "time": "23:44",
+                "title": "Idaho Alien",
+                "performer": "Youth Lagoon"
+              },
+              {
+                "time": "23:47",
+                "title": "Pop-Jazz Structures",
+                "performer": "Sven Wunder"
+              },
+              {
+                "time": "23:50",
+                "title": "Changing Light",
+                "performer": "The Ironsides"
+              },
+              {
+                "time": "23:54",
+                "title": "One Step Forward, Two Steps Back",
+                "performer": "Chet Sounds"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
