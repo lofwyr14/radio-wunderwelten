@@ -83462,6 +83462,10 @@
           "id": "51",
           "date": "2023-12-21",
           "comment": "Die besten Songs des Jahres",
+          "checked": {
+            "date": "2023-12-31",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -83603,7 +83607,7 @@
               },
               {
                 "time": "23:51",
-                "title": "Mrs Magic",
+                "title": "Mrs Magic (Strings Version)",
                 "performer": "Strawberry Guy"
               },
               {
