@@ -11415,6 +11415,7 @@
         {
           "id": "50",
           "date": "2023-12-10",
+          "checked": {"date": "2024-01-02", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Hustle Can´t Die", "performer": "M1onThe Beat feat. Slim"},
@@ -11422,13 +11423,14 @@
               { "title": "Fillmore", "performer": "Montel"},
               { "title": "Eins Null Eins Eins Null", "performer": "Fred und Luna"},
               { "title": "We Gone Make It", "performer": "dreamcastmoe"},
-              { "title": "Deeper", "performer": "Dâm-Funk"},
+              { "title": "Deeper", "performer": "DâM-Funk"},
               { "title": "Eat Right", "performer": "Kid Acne"},
               { "title": "Wake Up", "performer": "The Still Brothers"},
               { "title": "Maiden Voyage", "performer": "Brian Auger"},
               { "title": "Can´t Get Enough", "performer": "Willow Parlo"},
               { "title": "Bubba", "performer": "Hovvdy"},
-              { "title": "Like A Wounded Bird Trying To Fly", "performer": "Kurt Vile"}
+              { "title": "Like A Wounded Bird Trying To Fly", "performer": "Kurt Vile"},
+              { "title": "Do A Little Dope", "performer": "Field Music"}
             ],
             [
               { "time": "23:04", "title": "Dream Machine", "performer": "Pressa X Drumskull"},
@@ -11441,7 +11443,7 @@
               { "title": "Dublin City Sky", "performer": "Fontaines D.C."},
               { "title": "Needle", "performer": "Nicky Minaj feat. Drake"},
               { "title": "Petroleum", "performer": "Yard Act"},
-              { "title": "Do U Believe U Still", "performer": "Mr. Sosa"},
+              { "title": "Do U Believe U Still (Extended)", "performer": "Mr. Sosa"},
               { "title": "Overnight", "performer": "andhim"}
             ],
             [
@@ -11449,12 +11451,13 @@
               { "title": "Whistle", "performer": "Brintex Colletive"},
               { "title": "Zoup", "performer": "Kraan"},
               { "title": "The Human Factor", "performer": "Gerry Franke"},
-              { "title": "Chica", "performer": "Duskee ft. Deadline & Slay"},
+              { "title": "Chica", "performer": "Duskee feat. Deadline & Slay"},
               { "title": "Aslan", "performer": "Trance Wax"},
               { "title": "Bellen", "performer": "Leftovers"},
               { "title": "Dynamite Dancer", "performer": "Organisation"},
               { "title": "Celibate", "performer": "Danny Brown feat. MIKE"},
-              { "title": "I Just Hope One Day", "performer": "Franky Wah"}
+              { "title": "I Just Hope One Day", "performer": "Franky Wah"},
+              { "title": "Forever (Extended)", "performer": "Icarus"}
             ]
           ]
         }
