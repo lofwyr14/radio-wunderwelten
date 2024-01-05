@@ -83794,6 +83794,152 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2024",
+      "station": "Radio Bremen 2",
+      "episodes": [
+        {
+          "id": "1",
+          "date": "2024-01-04",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "The Wonder Of Falling In Love",
+                "performer": "Scott Matthew"
+              },
+              {
+                "time": "22:08",
+                "title": "Tall Tale",
+                "performer": "Winona Forever"
+              },
+              {
+                "time": "22:12",
+                "title": "Don't Fade Me To White",
+                "performer": "Fierce Friend"
+              },
+              {
+                "time": "22:16",
+                "title": "A Perishing Of Cherished Things",
+                "performer": "Barbara"
+              },
+              {
+                "time": "22:21",
+                "title": "Rette Mich",
+                "performer": "Ekki Maas"
+              },
+              {
+                "time": "22:25",
+                "title": "Work For Love",
+                "performer": "Ministry"
+              },
+              {
+                "time": "22:33",
+                "title": "Just A Little Lovin'",
+                "performer": "Mocky"
+              },
+              {
+                "time": "22:36",
+                "title": "Take A Bow",
+                "performer": "Sondre Lerche"
+              },
+              {
+                "time": "22:40",
+                "title": "Casual Lies",
+                "performer": "Joel Culpepper"
+              },
+              {
+                "time": "22:43",
+                "title": "Fallin' Rain",
+                "performer": "Karl Blau"
+              },
+              {
+                "time": "22:53",
+                "title": "The Only Living Boy Around",
+                "performer": "The American Analog Set"
+              },
+              {
+                "time": "22:56",
+                "title": "Last Years Problems",
+                "performer": "Sinj Clarke"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "That Look You Give That Guy",
+                "performer": "Eels"
+              },
+              {
+                "time": "23:08",
+                "title": "What Life Can Be",
+                "performer": "sir Was"
+              },
+              {
+                "time": "23:12",
+                "title": "Open Your Eyes",
+                "performer": "Chet Sounds"
+              },
+              {
+                "time": "23:16",
+                "title": "Dreamboats",
+                "performer": "The Real Tuesday Weld"
+              },
+              {
+                "time": "23:20",
+                "title": "I Love You",
+                "performer": "Joe Mubare"
+              },
+              {
+                "time": "23:24",
+                "title": "Vehicle",
+                "performer": "Daniel Carlson feat. Linda Good & Matt Johnson"
+              },
+              {
+                "time": "23:27",
+                "title": "Shades Of Silver",
+                "performer": "The Ironsides"
+              },
+              {
+                "time": "23:33",
+                "title": "Love Song",
+                "performer": "Devendra Banhart"
+              },
+              {
+                "time": "23:37",
+                "title": "Cardigan Bay - Dan GlÃ´ (Fersiwn)",
+                "performer": "Carwyn Ellis"
+              },
+              {
+                "time": "23:41",
+                "title": "Hello",
+                "performer": "The Groke"
+              },
+              {
+                "time": "23:44",
+                "title": "The Shame Of Two Cities",
+                "performer": "Damien Jurado"
+              },
+              {
+                "time": "23:47",
+                "title": "500 Miles",
+                "performer": "Dave Grusin"
+              },
+              {
+                "time": "23:51",
+                "title": "And I Love Her",
+                "performer": "Grady Tate"
+              },
+              {
+                "time": "23:56",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        }
+      ]
     }
   ]
 }
