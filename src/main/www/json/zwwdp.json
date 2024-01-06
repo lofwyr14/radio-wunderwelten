@@ -83802,6 +83802,10 @@
         {
           "id": "1",
           "date": "2024-01-04",
+          "checked": {
+            "date": "2024-01-06",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -83826,12 +83830,12 @@
               },
               {
                 "time": "22:21",
-                "title": "Rette Mich",
+                "title": "Rette mich",
                 "performer": "Ekki Maas"
               },
               {
                 "time": "22:25",
-                "title": "Work For Love",
+                "title": "Work For Love (U.S. 12\")",
                 "performer": "Ministry"
               },
               {
@@ -83856,7 +83860,7 @@
               },
               {
                 "time": "22:53",
-                "title": "The Only Living Boy Around",
+                "title": "The Only Living Boy Around (Known By Heart Version)",
                 "performer": "The American Analog Set"
               },
               {
@@ -83903,12 +83907,12 @@
               },
               {
                 "time": "23:33",
-                "title": "Love Song",
+                "title": "Love Song (Helado Negro Remix)",
                 "performer": "Devendra Banhart"
               },
               {
                 "time": "23:37",
-                "title": "Cardigan Bay - Dan GlÃ´ (Fersiwn)",
+                "title": "Cardigan Bay / Dan Glô (Fersiwn)",
                 "performer": "Carwyn Ellis"
               },
               {
