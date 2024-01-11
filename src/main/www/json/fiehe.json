@@ -11464,6 +11464,8 @@
         {
           "id": "51",
           "date": "2023-12-17",
+          "comment": "Meine traurige Stunde",
+          "checked": {"date": "2024-01-11", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Good Lies", "performer": "Overmono"},
@@ -11471,7 +11473,7 @@
               { "title": "Radio Brainwave", "performer": "Iguana Death Cult"},
               { "title": "Waiheke Island", "performer": "Skream & Prospa"},
               { "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"},
-              { "title": "Smog In Frankfurt", "performer": "Hendrik Otremba feat. Stella Sommer"},
+              { "title": "Smog in Frankfurt", "performer": "Hendrik Otremba feat. Stella Sommer"},
               { "title": "Dead In The Eye", "performer": "P Money & Whiney feat. Example"},
               { "title": "DJ Friendly", "performer": "Elkka"},
               { "title": "Every Chance I Get (I Want You In The Flesh)", "performer": "Dan Auerbach"},
@@ -11484,7 +11486,7 @@
               { "title": "Feels Good!", "performer": "Jaleel!"},
               { "title": "Broken Hearted Or What?", "performer": "AlienBlaze"},
               { "title": "Saturn Drive Triplex", "performer": "Laurent Garnier feat. Alan Vega"},
-              { "title": "Allein, Allein", "performer": "Innerverse & Helsloot feat. Malou"},
+              { "title": "Allein, Allein (Extended)", "performer": "Innerverse & Helsloot feat. Malou"},
               { "title": "Vielleicht vielleicht", "performer": "MilleniumKid & JBS"},
               { "title": "Inferno", "performer": "Yeule"},
               { "title": "Wasted Eyes", "performer": "Amaarae"},
@@ -11500,9 +11502,10 @@
               { "title": "Machine Dreaming", "performer": "Smile"},
               { "title": "Pretty In Possible", "performer": "Caroline Polachek"},
               { "title": "Now And Then", "performer": "The Beatles"},
-              { "title": "The Trench Coat Museum", "performer": "Yard Act"},
+              { "title": "The Trenchcoat Museum (Short Version)", "performer": "Yard Act"},
               { "title": "Who´s Gonna Be The Goat?", "performer": "De Staat"},
-              { "title": "Zeuge aus Licht", "performer": "Die Selektion"}
+              { "title": "Zeuge aus Licht", "performer": "Die Selektion"},
+              { "title": "Au revoir mon amour", "performer": "Coco Schumann feat. Toots Thielemans"}
             ]
           ]
         }
