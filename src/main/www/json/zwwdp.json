@@ -83942,6 +83942,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "2",
+          "date": "2024-01-11",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Major Seventh",
+                "performer": "The Fiction Aisle"
+              },
+              {
+                "time": "22:08",
+                "title": "Section 51: Winds Of Summer",
+                "performer": "The Polyphonic Spree"
+              },
+              {
+                "time": "22:12",
+                "title": "Hey Panda",
+                "performer": "The High Llamas"
+              },
+              {
+                "time": "22:15",
+                "title": "Always Someone",
+                "performer": "Mauro Pawlowski"
+              },
+              {
+                "time": "22:18",
+                "title": "Wasting Time Inside",
+                "performer": "Hayden Besswood"
+              },
+              {
+                "time": "22:22",
+                "title": "I See You",
+                "performer": "Paul Cherry"
+              },
+              {
+                "time": "22:26",
+                "title": "Little Tremors Of Terror",
+                "performer": "The Dream Eaters"
+              },
+              {
+                "time": "22:30",
+                "title": "Emi",
+                "performer": "Bubble Tea And Cigarettes"
+              },
+              {
+                "time": "22:35",
+                "title": "My Golden Years",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "time": "22:38",
+                "title": "Relearn To Boogie",
+                "performer": "Michael Nau"
+              },
+              {
+                "time": "22:44",
+                "title": "Check The Weather",
+                "performer": "Pavo Pavo"
+              },
+              {
+                "time": "22:47",
+                "title": "It's Just A Broken Heart",
+                "performer": "Joel Culpepper"
+              },
+              {
+                "time": "22:51",
+                "title": "Reality (\"La Boum\")",
+                "performer": "Nancy Danino"
+              },
+              {
+                "time": "22:57",
+                "title": "Bossa Nova Supernova",
+                "performer": "Harmonic 33"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Digging The Fault Line",
+                "performer": "Brent Cash"
+              },
+              {
+                "time": "23:08",
+                "title": "Malay Melee",
+                "performer": "Oslo Oscillator"
+              },
+              {
+                "time": "23:13",
+                "title": "In The Breaks",
+                "performer": "Video Age"
+              },
+              {
+                "time": "23:16",
+                "title": "Marching The Hate Machines (Into The Sun)",
+                "performer": "Thievery Corporation feat. The Flaming Lips"
+              },
+              {
+                "time": "23:20",
+                "title": "Day Of Days",
+                "performer": "Looper feat. Mr. Vertigo"
+              },
+              {
+                "time": "23:22",
+                "title": "I Start Counting",
+                "performer": "Dusty Springfield"
+              },
+              {
+                "time": "23:25",
+                "title": "Little White Bird",
+                "performer": "The Orange Peels"
+              },
+              {
+                "time": "23:29",
+                "title": "Once In A While",
+                "performer": "Alon Tayar"
+              },
+              {
+                "time": "23:31",
+                "title": "A Return From Ashes",
+                "performer": "The Ironsides"
+              },
+              {
+                "time": "23:35",
+                "title": "The Pearl That Glitters",
+                "performer": "Sholto"
+              },
+              {
+                "time": "23:38",
+                "title": "Star Treatment",
+                "performer": "Arctic Monkeys"
+              },
+              {
+                "time": "23:44",
+                "title": "Thinking Of You",
+                "performer": "Elevator Suite"
+              },
+              {
+                "time": "23:59",
+                "title": "Rabbit",
+                "performer": "Youth Lagoon"
+              },
+              {
+                "time": "23:53",
+                "title": "Il Mio Domani",
+                "performer": "Chet Baker / Ennio Morricone Orchestra"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
