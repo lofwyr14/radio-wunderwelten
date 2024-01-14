@@ -83946,6 +83946,10 @@
         {
           "id": "2",
           "date": "2024-01-11",
+          "checked": {
+            "date": "2024-01-14",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -84010,7 +84014,7 @@
               },
               {
                 "time": "22:51",
-                "title": "Reality (\"La Boum\")",
+                "title": "Reality",
                 "performer": "Nancy Danino"
               },
               {
@@ -84088,7 +84092,7 @@
               {
                 "time": "23:53",
                 "title": "Il Mio Domani",
-                "performer": "Chet Baker / Ennio Morricone Orchestra"
+                "performer": "Chet Baker feat. Ennio Morricone And His Orchestra"
               },
               {
                 "time": "23:58",
