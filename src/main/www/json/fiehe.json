@@ -11510,6 +11510,54 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2024",
+      "episodes": [
+        {
+          "id": "1",
+          "date": "2024-01-07",
+          "songs": [
+            [
+              { "title": "Systeme", "performer": "Bersarin Quartett"},
+              { "title": "Look That´s My Heart", "performer": "Brainbeats"},
+              { "title": "Alternate", "performer": "Nathalie Capello"},
+              { "title": "The Age Of Love (New Age Mix)", "performer": "Age Of Love"},
+              { "title": "Down With Me (Gardna x Kreed VIP)", "performer": "Lau.ra"},
+              { "title": "Z", "performer": "Cameo Blush"},
+              { "title": "Slime", "performer": "Marika Hackman"},
+              { "title": "Dancing With The Fish", "performer": "Baby´s Berserk"},
+              { "title": "Taucher (für Smukal)", "performer": "Messer"},
+              { "title": "High Pressure Days", "performer": "W. H. Lung"},
+              { "title": "Autofahren", "performer": "Iedereen"}
+            ],
+            [
+              { "title": "Early Signs Of Rhythm", "performer": "Art Feynman"},
+              { "title": "I Raise You (The Price Of Your Head)", "performer": "Folly Group"},
+              { "title": "Lady (Hear Me Tonight)", "performer": "CVC"},
+              { "title": "West End Girls (Pet Shop Boys Remix)", "performer": "Sleaford Mods"},
+              { "title": "After Twelve", "performer": "Brintex Collective"},
+              { "title": "Blacker (94 EQ)", "performer": "The Ballistic Brothers"},
+              { "title": "CHameleon", "performer": "Herbie Hancock"},
+              { "title": "Pumpan", "performer": "Dina Ögon"},
+              { "title": "Det Läcker", "performer": "Dina Ögon"},
+              { "title": "August 19", "performer": "High School"}
+            ],
+            [
+              { "title": "Lost Angeles (Edit)", "performer": "Colosseum (Live)"},
+              { "title": "Afternoon Blaze", "performer": "Phoebe"},
+              { "title": "Hope & Pray", "performer": "Kinetic Minds"},
+              { "title": "Things You Could Not Express", "performer": "Marli"},
+              { "title": "Norwegen Dia (Acoustic Version)", "performer": "Kraan"},
+              { "title": "Whenever You Want", "performer": "Brockoff"},
+              { "title": "Lie To", "performer": "No Guidnce"},
+              { "title": "Long Walk", "performer": "No Guidnce"},
+              { "title": "KennIchNich", "performer": "Joseph Boys"},
+              { "title": "Look At My Phone", "performer": "Hot Garbage"}
+            ]
+          ]
+        }
+      ]
     }
   ]
 }
