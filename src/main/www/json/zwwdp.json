@@ -84101,6 +84101,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "3",
+          "date": "2024-01-18",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "How Much I Really Loved You",
+                "performer": "June & The Exit Wounds"
+              },
+              {
+                "time": "22:09",
+                "title": "Going Nowhere",
+                "performer": "Noel Gallagher's High Flying Birds"
+              },
+              {
+                "time": "22:14",
+                "title": "Football",
+                "performer": "Youth Lagoon"
+              },
+              {
+                "time": "22:17",
+                "title": "Pas De Dialogue",
+                "performer": "Charif Megarbane"
+              },
+              {
+                "time": "22:20",
+                "title": "Under The Ground",
+                "performer": "Balduin"
+              },
+              {
+                "time": "22:22",
+                "title": "Mosaics",
+                "performer": "Almost Twins"
+              },
+              {
+                "time": "22:26",
+                "title": "Tropical",
+                "performer": "Nino Nardini & Roger Roger"
+              },
+              {
+                "time": "22:31",
+                "title": "Pop Life",
+                "performer": "Dump"
+              },
+              {
+                "time": "22:35",
+                "title": "Two Steps Back",
+                "performer": "Edwyn Collins & Carwyn Ellis"
+              },
+              {
+                "time": "22:39",
+                "title": "Schiff ohne Kapitän",
+                "performer": "Erik Leuthäuser"
+              },
+              {
+                "time": "22:43",
+                "title": "Spin Out",
+                "performer": "Hayden Besswood"
+              },
+              {
+                "time": "22:46",
+                "title": "Lady In Cement",
+                "performer": "Jet Set Swe"
+              },
+              {
+                "time": "22:49",
+                "title": "Hackensack",
+                "performer": "Dirk Darmstaedter"
+              },
+              {
+                "time": "22:54",
+                "title": "Cat People (Putting On Fire) (\"Cat People\")",
+                "performer": "Dea Li"
+              },
+              {
+                "time": "22:56",
+                "title": "Stand Up",
+                "performer": "The Prodigy"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Walk Away",
+                "performer": "Dee C Lee"
+              },
+              {
+                "time": "23:08",
+                "title": "Letting Things Go",
+                "performer": "Vulfmon & Evangeline"
+              },
+              {
+                "time": "23:11",
+                "title": "Made It",
+                "performer": "freekind."
+              },
+              {
+                "time": "23:15",
+                "title": "Brassy Loop",
+                "performer": "Oslo Oscillator"
+              },
+              {
+                "time": "23:18",
+                "title": "Haven",
+                "performer": "Svaneborg Kardyb"
+              },
+              {
+                "time": "23:22",
+                "title": "Night And Day",
+                "performer": "June Tabor"
+              },
+              {
+                "time": "23:25",
+                "title": "Love Theme From Spartacus",
+                "performer": "Terry Callier"
+              },
+              {
+                "time": "23:32",
+                "title": "Laws Of Attraction",
+                "performer": "8X8"
+              },
+              {
+                "time": "23:37",
+                "title": "Laisse Aller C'est Une Valse",
+                "performer": "Clinic"
+              },
+              {
+                "time": "23:40",
+                "title": "Wake Up (Feat. Marina B)",
+                "performer": "The Still Brothers"
+              },
+              {
+                "time": "23:42",
+                "title": "Shiatsu For Dinner",
+                "performer": "Yin Yin"
+              },
+              {
+                "time": "23:45",
+                "title": "Make Love",
+                "performer": "Daft Punk"
+              },
+              {
+                "time": "23:51",
+                "title": "Lady",
+                "performer": "The Mighty Bop feat. Duncan Roy"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
