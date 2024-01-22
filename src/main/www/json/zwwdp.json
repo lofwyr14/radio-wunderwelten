@@ -84105,6 +84105,10 @@
         {
           "id": "3",
           "date": "2024-01-18",
+          "checked": {
+            "date": "2024-01-21",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -84174,7 +84178,7 @@
               },
               {
                 "time": "22:54",
-                "title": "Cat People (Putting On Fire) (\"Cat People\")",
+                "title": "Cat People (Putting On Fire)",
                 "performer": "Dea Li"
               },
               {
@@ -84216,7 +84220,7 @@
               },
               {
                 "time": "23:25",
-                "title": "Love Theme From Spartacus",
+                "title": "Love Theme From Spartacus (Zero 7 Remix)",
                 "performer": "Terry Callier"
               },
               {
