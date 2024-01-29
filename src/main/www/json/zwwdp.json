@@ -84260,6 +84260,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "4",
+          "date": "2024-01-25",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "People Gotta Move",
+                "performer": "Gino Vannelli"
+              },
+              {
+                "time": "22:08",
+                "title": "The Web",
+                "performer": "The Ironsides"
+              },
+              {
+                "time": "22:13",
+                "title": "Introsong",
+                "performer": "Fierce Friend"
+              },
+              {
+                "time": "22:17",
+                "title": "Mary's Prayer",
+                "performer": "Dirk Darmstaedter"
+              },
+              {
+                "time": "22:21",
+                "title": "Motorbike",
+                "performer": "Jim Noir"
+              },
+              {
+                "time": "22:26",
+                "title": "Come Back To Me",
+                "performer": "Wall Of Orchids"
+              },
+              {
+                "time": "22:32",
+                "title": "New Data New Day",
+                "performer": "8X8"
+              },
+              {
+                "time": "22:36",
+                "title": "No Mast",
+                "performer": "Loving"
+              },
+              {
+                "time": "22:40",
+                "title": "I'm Reaching Out To You",
+                "performer": "Mike Michaels' Gentle Earth"
+              },
+              {
+                "time": "22:42",
+                "title": "A Love International",
+                "performer": "Khruangbin"
+              },
+              {
+                "time": "22:46",
+                "title": "You Keep Me Hangin' On",
+                "performer": "Aretha Franklin"
+              },
+              {
+                "time": "22:50",
+                "title": "Voodoo Soul",
+                "performer": "Elevator Suite"
+              },
+              {
+                "time": "22:55",
+                "title": "Eleanor Rigby",
+                "performer": "Elevator Suite"
+              },
+              {
+                "time": "22:58",
+                "title": "E.V.A.",
+                "performer": "Jean-Jacques Perrey"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Ordinary Joe",
+                "performer": "Terry Callier"
+              },
+              {
+                "time": "23:08",
+                "title": "Juxtaposed With U",
+                "performer": "Eddi Reader"
+              },
+              {
+                "time": "23:13",
+                "title": "Verocai",
+                "performer": "Soyuz"
+              },
+              {
+                "time": "23:16",
+                "title": "While You Wait",
+                "performer": "Niall Mutter"
+              },
+              {
+                "time": "23:21",
+                "title": "Spread",
+                "performer": "Mottron"
+              },
+              {
+                "time": "23:24",
+                "title": "If You Could Read My Mind",
+                "performer": "Glen Campbell"
+              },
+              {
+                "time": "23:27",
+                "title": "A Running Start",
+                "performer": "Sufjan Stevens"
+              },
+              {
+                "time": "23:31",
+                "title": "The Beat Goes On",
+                "performer": "Vince Guaraldi"
+              },
+              {
+                "time": "23:35",
+                "title": "Fabricated Hedonist",
+                "performer": "Alex Nicol"
+              },
+              {
+                "time": "23:39",
+                "title": "Never Can Say Goodbye",
+                "performer": "Mark Lindsay"
+              },
+              {
+                "time": "23:43",
+                "title": "Leaving Montreux",
+                "performer": "Mauro Pawlowski"
+              },
+              {
+                "time": "23:46",
+                "title": "Filigrani",
+                "performer": "Gianni Brezzo"
+              },
+              {
+                "time": "23:50",
+                "title": "Breathe (In The Air)",
+                "performer": "Pink Floyd"
+              },
+              {
+                "time": "23:54",
+                "title": "The Windmills Of Your Mind",
+                "performer": "Grady Tate"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
