@@ -11603,6 +11603,53 @@
               { "title": "Signs", "performer": "Nickon Faith feat. Axelle"}
             ]
           ]
+        },
+        {
+          "id": "3",
+          "date": "2024-01-21",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Inside", "performer": "Rosati"},
+              { "title": "ESC (AZO Remix)", "performer": "Abstraxion"},
+              { "title": "En", "performer": "Sultan + Shepard"},
+              { "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"},
+              { "title": "Rock 2000", "performer": "Gwendoline"},
+              { "title": "Peace Sign", "performer": "Ride"},
+              { "title": "Look Into My Eyes", "performer": "Weil feat. Emi X"},
+              { "title": "Morgen willst du mich", "performer": "Christin Nichols"},
+              { "title": "Big Ground", "performer": "Folly Group"},
+              { "title": "Plastic Pyramid", "performer": "Omni"},
+              { "title": "Down With Me (Gardna x Kreed VIP)", "performer": "Lau.ra feat. Dope Earth Alien"},
+              { "title": "Somebody (Trance Wax Remix)", "performer": "TSHA, Ellie Goulding & Gregory Porter"}
+            ],
+            [
+              { "time": "23:04", "title": "Lost Cause", "performer": "Cosmic Psychos"},
+              { "title": "Autofahren", "performer": "Iedereen"},
+              { "title": "Emily G", "performer": "Courting"},
+              { "title": "The Ground", "performer": "Marika Hackman"},
+              { "title": "Time", "performer": "Luciano"},
+              { "title": "Heartbroken (Edit)", "performer": "Prayer"},
+              { "title": "If I Can Feel", "performer": "Prayer"},
+              { "title": "Miedo Al Miedo", "performer": "Fantasna"},
+              { "title": "Please Don´t Be So Kind", "performer": "Marika Hackman"},
+              { "title": "I Know That ´s Like This (Baby)", "performer": "Bill Ryder-Jones"},
+              { "title": "Silhouettes", "performer": "John J. Presley"},
+              { "title": "Run Run Run", "performer": "The Libertines"}
+            ],
+            [
+              { "time": "00:04", "title": "Synth City (DJ Minx Remix)", "performer": "Lubelski"},
+              { "title": "This Time", "performer": "Zeo Guinle"},
+              { "title": "Close 2 U", "performer": "Delano"},
+              { "title": "Que Quiere (Marc Romboy Remix)", "performer": "Bawrut"},
+              { "title": "Loisada Sisters", "performer": "Kreidler feat. Khan Of Finland"},
+              { "title": "¿Cómo Así?", "performer": "Kali Uchis"},
+              { "title": "East Flat Crows", "performer": "Folly Group"},
+              { "title": "Marble Heroes", "performer": "Je t´aime"},
+              { "title": "New Place In Town", "performer": "VoX LoW"},
+              { "title": "Life Is A Killer", "performer": "Drangsal"},
+              { "title": "Signs", "performer": "Nickon Faith feat. Axelle"}
+            ]
+          ]
         }
       ]
     }
