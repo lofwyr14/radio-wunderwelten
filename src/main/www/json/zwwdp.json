@@ -84419,6 +84419,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "5",
+          "date": "2024-02-01",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Harlem",
+                "performer": "Bill Withers"
+              },
+              {
+                "time": "22:07",
+                "title": "The Club",
+                "performer": "Novelty Island"
+              },
+              {
+                "time": "22:10",
+                "title": "Watercooler",
+                "performer": "Grandaddy"
+              },
+              {
+                "time": "22:14",
+                "title": "No Mast",
+                "performer": "Loving"
+              },
+              {
+                "time": "22:18",
+                "title": "Jag Vill Ha Allt",
+                "performer": "Dina Ögon"
+              },
+              {
+                "time": "22:21",
+                "title": "Real Men",
+                "performer": "Joe Jackson"
+              },
+              {
+                "time": "22:25",
+                "title": "Songbird",
+                "performer": "Oasis"
+              },
+              {
+                "time": "22:29",
+                "title": "Time",
+                "performer": "Ramnäs feat. Soft Crystals"
+              },
+              {
+                "time": "22:32",
+                "title": "Bbc News",
+                "performer": "Cory Wong"
+              },
+              {
+                "time": "22:36",
+                "title": "Take It In",
+                "performer": "Beach For Tiger"
+              },
+              {
+                "time": "22:39",
+                "title": "2 Am",
+                "performer": "Antonio Barret"
+              },
+              {
+                "time": "22:43",
+                "title": "One Way Glass",
+                "performer": "Trifle"
+              },
+              {
+                "time": "22:48",
+                "title": "Ligurian Dream",
+                "performer": "The Ironsides"
+              },
+              {
+                "time": "22:52",
+                "title": "Tezeta",
+                "performer": "Soyuz"
+              },
+              {
+                "time": "22:55",
+                "title": "Time Inflation",
+                "performer": "Illia"
+              },
+              {
+                "time": "22:59",
+                "title": "Hi-Rise Decade",
+                "performer": "Bolts Of Melody"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Hate It When You Leave",
+                "performer": "Keith Richards"
+              },
+              {
+                "time": "23:09",
+                "title": "Real Sugar",
+                "performer": "Boy Deco"
+              },
+              {
+                "time": "23:12",
+                "title": "Toriafan",
+                "performer": "The High Llamas"
+              },
+              {
+                "time": "23:15",
+                "title": "Matte Kudasai",
+                "performer": "King Crimson"
+              },
+              {
+                "time": "23:19",
+                "title": "Naive",
+                "performer": "Sen Morimoto"
+              },
+              {
+                "time": "23:22",
+                "title": "Up",
+                "performer": "BadBadNotGood"
+              },
+              {
+                "time": "23:26",
+                "title": "Trust Fund",
+                "performer": "The Royal Organ Duo feat. La Di Da"
+              },
+              {
+                "time": "23:33",
+                "title": "Don't Change Your Plans",
+                "performer": "Ben Folds Five"
+              },
+              {
+                "time": "23:38",
+                "title": "Icy Cold As Winter",
+                "performer": "Swing Out Sister"
+              },
+              {
+                "time": "23:43",
+                "title": "Honeymoon",
+                "performer": "Nicolas Godin"
+              },
+              {
+                "time": "23:46",
+                "title": "You're Gonna Make Me Lonesome When You Go",
+                "performer": "Madeleine Peyroux"
+              },
+              {
+                "time": "23:54",
+                "title": "A Love International",
+                "performer": "Khruangbin"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
