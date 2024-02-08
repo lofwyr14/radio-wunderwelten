@@ -11652,6 +11652,53 @@
               { "title": "Signs", "performer": "Nickon Faith feat. Axelle"}
             ]
           ]
+        },
+        {
+          "id": "4",
+          "date": "2024-01-28",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Barakat", "performer": "Abdullah Ibrahim feat. Noah Jackson & Cleve Guyton Jr."},
+              { "title": "Shades Of Silver", "performer": "Qthe Ironsides"},
+              { "title": "Places Of Light", "performer": "Brainticket"},
+              { "title": "Ski´d Up", "performer": "Chuck Strangers & The Alchemist"},
+              { "title": "Istanbul", "performer": "The Yussef Dayes Experince feat. Elijah Fox"},
+              { "title": "Time", "performer": "Mo Kolours"},
+              { "title": "Hall Avstand", "performer": "Dina Ögon"},
+              { "title": "Fallout", "performer": "Lyrical Lemonade, Gus Dapperton, Lil Yachty & Joey Bada$$"},
+              { "title": "When We Die (Can We Still Get High?)", "performer": "Yungblud feat. Lil Yachty"},
+              { "title": "Matra Murena (Rafael Cerato Remix)", "performer": "Psycho Weazel feat. Local Suicie"},
+              { "title": "Public Relations", "performer": "Public Relations"},
+              { "title": "Out Of Control (Phunkadelica Remix)", "performer": "Bonnie Spacey & Franz Matthews"}
+            ],
+            [
+              { "time": "23:04", "title": "Kung Fu Fighter", "performer": "Ja, Panik"},
+              { "title": "Do The Strand", "performer": "Roxy Music"},
+              { "title": "In My Dreams (Powerhouse Mix)", "performer": "Nuovo Testamento"},
+              { "title": "Katal (Gabe Gurnsey Vocal Edit)", "performer": "Das Koolies"},
+              { "title": "Look At My Phone", "performer": "Hot Garbage"},
+              { "title": "Emily G", "performer": "Courting"},
+              { "title": "Take The Skinheads Bowling", "performer": "Camper Van Beethoven"},
+              { "title": "Jealous Moon", "performer": "Sarah Jarosz"},
+              { "title": "Featured Singer", "performer": "Cheekface"},
+              { "title": "Sugar And Spice", "performer": "Dizzee Rascal feat. iLL BLU"},
+              { "title": "Hush Habors (MPH Remix)", "performer": "Sound On Tape"},
+              { "title": "Gas Me Up", "performer": "Skepta"},
+              { "title": "Bedroom Rocker", "performer": "Bachratten"}
+            ],
+            [
+              { "time": "00:04", "title": "I Quit", "performer": "The Smile"},
+              { "title": "Cash For Love", "performer": "Carlita"},
+              { "title": "Falling Behind", "performer": "Sultan + Shepard feat. Panama"},
+              { "title": "Do U Believe U Still", "performer": "Mr. Sosa"},
+              { "title": "Party Of The Century", "performer": "Katy Kirby"},
+              { "title": "Grad School", "performer": "Cheekface"},
+              { "title": "We Look Good Together (Big Words)", "performer": "Courting"},
+              { "title": "Black Lightnung Part I", "performer": "Dollar Brand"},
+              { "title": "Tioga Pass", "performer": "The Yussef Dayes Experience feat. Rocco Palladino"},
+              { "title": "Watcher", "performer": "Ty Segall"}
+            ]
+          ]
         }
       ]
     }
