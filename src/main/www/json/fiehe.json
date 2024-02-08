@@ -11517,6 +11517,7 @@
         {
           "id": "1",
           "date": "2024-01-07",
+          "checked": {"date": "2024-02-08", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Systeme", "performer": "Bersarin Quartett"},
@@ -11538,22 +11539,23 @@
               { "title": "West End Girls (Pet Shop Boys Remix)", "performer": "Sleaford Mods"},
               { "title": "After Twelve", "performer": "Brintex Collective"},
               { "title": "Blacker (94 EQ)", "performer": "The Ballistic Brothers"},
-              { "title": "CHameleon", "performer": "Herbie Hancock"},
+              { "title": "Chameleon", "performer": "Herbie Hancock"},
               { "title": "Pumpan", "performer": "Dina Ögon"},
               { "title": "Det Läcker", "performer": "Dina Ögon"},
               { "title": "August 19", "performer": "High School"}
             ],
             [
-              { "time": "00:04", "title": "Lost Angeles (Edit)", "performer": "Colosseum (Live)"},
+              { "time": "00:04", "title": "Lost Angeles (Live BBC Top Gear Broadcast 22/11/69) (Edit)", "performer": "Colosseum"},
               { "title": "Afternoon Blaze", "performer": "Phoebe"},
               { "title": "Hope & Pray", "performer": "Kinetic Minds"},
               { "title": "Things You Could Not Express", "performer": "Marli"},
               { "title": "Norwegen Dia (Acoustic Version)", "performer": "Kraan"},
               { "title": "Whenever You Want", "performer": "Brockoff"},
-              { "title": "Lie To", "performer": "No Guidnce"},
+              { "title": "Lie To Me", "performer": "No Guidnce"},
               { "title": "Long Walk", "performer": "No Guidnce"},
               { "title": "KennIchNich", "performer": "Joseph Boys"},
-              { "title": "Look At My Phone", "performer": "Hot Garbage"}
+              { "title": "Look At My Phone", "performer": "Hot Garbage"},
+              { "title": "To Be Felt", "performer": "Egyptian Blue"}
             ]
           ]
         },
