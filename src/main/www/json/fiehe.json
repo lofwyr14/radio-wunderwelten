@@ -11699,6 +11699,55 @@
               { "title": "Watcher", "performer": "Ty Segall"}
             ]
           ]
+        },
+        {
+          "id": "5",
+          "date": "2024-02-04",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Streichelzoo", "performer": "Bachratten"},
+              { "title": "Hollowed Out", "performer": "Ducks LTD"},
+              { "title": "Sieben vor acht", "performer": "Retromigration"},
+              { "title": "Birchgrove Pleasure Gardens", "performer": "Maroki"},
+              { "title": "Love 2 Dance", "performer": "Edetto"},
+              { "title": "Concept", "performer": "Blade"},
+              { "title": "Grow", "performer": "Carmelle Cox, ST Files, Calibre"},
+              { "title": "Kontrollverlust", "performer": "Edwin Rosen"},
+              { "title": "Life Is A Killer", "performer": "Drangsal"},
+              { "title": "Ich hoffe du bleibst alleine", "performer": "Sparr00w feat. Bleac"},
+              { "title": "Body Attestation", "performer": "Chrome Corps"},
+              { "title": "Falling Into Place", "performer": "The Bony King Of Nowhere"},
+              { "title": "They Sold My Home To Build A Skyscraper", "performer": "Gruff Rhys"}
+            ],
+            [
+              { "time": "23:04", "title": "Caesar On A TV Screen", "performer": "The Last Dinner Party"},
+              { "title": "Mellan De Sju Fjällen", "performer": "Dina Ögon"},
+              { "title": "It´s Life", "performer": "Trutopia feat. Kristina Shelli"},
+              { "title": "Star (A$AP Ferg Remix)", "performer": "Machinedrum feat. Tanerelle & Mono/Poly"},
+              { "title": "Z", "performer": "Cameo Blush"},
+              { "title": "On & Off", "performer": "Ghostly Kisses"},
+              { "title": "Bryllyant", "performer": "Boytronic"},
+              { "title": "Journey Of The Heart (Guy Tallo Remix)", "performer": "Paresse"},
+              { "title": "Eternally Hateful", "performer": "Kirin J Callinan"},
+              { "title": "Mama Made This Boy", "performer": "Ja, Panik"},
+              { "title": "Drinking And Driving", "performer": "Liquid Mike"},
+              { "title": "Collect", "performer": "Torres"},
+              { "title": "A Return From Ashes", "performer": "The Ironsides"}
+            ],
+            [
+              { "time": "00:04", "title": "Almost Invisible", "performer": "The Bony King Of Nowhere"},
+              { "title": "Jersey Thursday", "performer": "Edmund November"},
+              { "title": "The Trap (Kerala Dust´s Wide Open Sky Remix)", "performer": "AFAR"},
+              { "title": "Sinner", "performer": "The Last Dinner Party"},
+              { "title": "Chroma 001 Helium", "performer": "Bicep"},
+              { "title": "Gleams", "performer": "George Fitzgerald"},
+              { "title": "Look That´s My Heart", "performer": "Brainbeats"},
+              { "title": "Dreamer", "performer": "Maroki, Hypnos"},
+              { "title": "Fashion", "performer": "Aili & Transistorcake"},
+              { "title": "Somebody Like You", "performer": "Giant Rooks"},
+              { "title": "Dreamfear", "performer": "Burial"}
+            ]
+          ]
         }
       ]
     }
