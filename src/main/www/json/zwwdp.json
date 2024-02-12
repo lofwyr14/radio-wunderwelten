@@ -84582,6 +84582,10 @@
         {
           "id": "6",
           "date": "2024-02-08",
+          "checked": {
+            "date": "2024-02-12",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -84646,7 +84650,7 @@
               },
               {
                 "time": "22:50",
-                "title": "Expectations",
+                "title": "Expectations (Live)",
                 "performer": "Blacktop"
               },
               {
