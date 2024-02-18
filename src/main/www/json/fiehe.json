@@ -11613,45 +11613,45 @@
           "date": "2024-01-21",
           "songs": [
             [
-              { "time": "22:04", "title": "Inside", "performer": "Rosati"},
-              { "title": "ESC (AZO Remix)", "performer": "Abstraxion"},
-              { "title": "En", "performer": "Sultan + Shepard"},
-              { "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"},
-              { "title": "Rock 2000", "performer": "Gwendoline"},
-              { "title": "Peace Sign", "performer": "Ride"},
-              { "title": "Look Into My Eyes", "performer": "Weil feat. Emi X"},
-              { "title": "Morgen willst du mich", "performer": "Christin Nichols"},
-              { "title": "Big Ground", "performer": "Folly Group"},
-              { "title": "Plastic Pyramid", "performer": "Omni"},
-              { "title": "Down With Me (Gardna x Kreed VIP)", "performer": "Lau.ra feat. Dope Earth Alien"},
-              { "title": "Somebody (Trance Wax Remix)", "performer": "TSHA, Ellie Goulding & Gregory Porter"}
-            ],
-            [
-              { "time": "23:04", "title": "Lost Cause", "performer": "Cosmic Psychos"},
-              { "title": "Autofahren", "performer": "Iedereen"},
-              { "title": "Emily G", "performer": "Courting"},
-              { "title": "The Ground", "performer": "Marika Hackman"},
-              { "title": "Time", "performer": "Luciano"},
-              { "title": "Heartbroken", "performer": "Prayer"},
-              { "title": "If I Can Feel", "performer": "Prayer"},
-              { "title": "Miedo Al Miedo", "performer": "Fantasna"},
-              { "title": "Please Don´t Be So Kind", "performer": "Marika Hackman"},
-              { "title": "I Know That It´s Like This (Baby)", "performer": "Bill Ryder-Jones"},
-              { "title": "Silhouettes", "performer": "John J. Presley"},
-              { "title": "Run Run Run", "performer": "The Libertines"}
-            ],
-            [
-              { "time": "00:04", "title": "Synth City (DJ Minx Remix)", "performer": "Lubelski"},
-              { "title": "This Time", "performer": "Zeo Guinle"},
-              { "title": "Close 2 U", "performer": "Delano"},
-              { "title": "Que Quiere (Marc Romboy Remix)", "performer": "Bawrut"},
-              { "title": "Loisada Sisters", "performer": "Kreidler feat. Khan Of Finland"},
-              { "title": "¿Cómo Así?", "performer": "Kali Uchis"},
-              { "title": "East Flat Crows", "performer": "Folly Group"},
-              { "title": "Marble Heroes", "performer": "Je t´aime"},
-              { "title": "New Place In Town", "performer": "VoX LoW"},
-              { "title": "Life Is A Killer", "performer": "Drangsal"},
-              { "title": "Signs", "performer": "Nickon Faith feat. Axelle"}
+              [
+                { "time": "22:04", "title": "Vorsicht", "performer": "Abwärts"},
+                { "title": "Loved", "performer": "Four Tet"},
+                { "title": "Itu Cukup (Air Max ´97 Remix)", "performer": "Melati ESP"},
+                { "title": "Unfeel", "performer": "Prayer"},
+                { "title": "Ipad Breakdance", "performer": "Enea Pascal"},
+                { "title": "Control (Alex Banks REmIx)", "performer": "QRTR + OLAN"},
+                { "title": "Varial", "performer": "Thurlow Joyce"},
+                { "title": "Void", "performer": "Ty Segall"},
+                { "title": "At The Party", "performer": "Kid Cudi feat. Pharrell Williams & Travis Scott"},
+                { "title": "Flight fm", "performer": "Joy Orbison"},
+                { "title": "Alright", "performer": "Ekkstacy & The Kid Laroi"}
+              ],
+              [
+                { "time": "23:04", "title": "I Can´t Find Anyone", "performer": "Ekkstacy"},
+                { "title": "I Can´t Find Anyone", "performer": "Anja Huwe"},
+                { "title": "Say It Like You Mean It", "performer": "Sleater Kinney"},
+                { "title": "Sweet Escape", "performer": "Louis Millne"},
+                { "title": "Blurred Energy", "performer": "Because Of Art feat. Lavrienta"},
+                { "title": "Tracak Nas", "performer": "Iva Lorens"},
+                { "title": "Comprehend The End", "performer": "Holy Ship"},
+                { "title": "Pia Dance", "performer": "Yin Yin"},
+                { "title": "A Love International", "performer": "Khruangbin"},
+                { "title": "Alright Alright", "performer": "Ghost Woman"},
+                { "title": "Fourth Pass Over The Graveyard", "performer": "The Black Delta Movement"}
+              ],
+              [
+                { "time": "00:04", "title": "Double Rainbow", "performer": "PPJ"},
+                { "title": "DJ Frinedly", "performer": "Elkka"},
+                { "title": "Passionfruit", "performer": "Elkka & John Carrol Kirby"},
+                { "title": "Fleißig", "performer": "Nichtseattle"},
+                { "title": "Grasgelb", "performer": "Enno Bunger"},
+                { "title": "Falling Into Place", "performer": "The Bony King Of Nowhere"},
+                { "title": "Wind Machine", "performer": "Diane Birch"},
+                { "title": "Slime", "performer": "Marika Hackman"},
+                { "title": "Any Light", "performer": "Loving"},
+                { "title": "No Comply", "performer": "Mucho Sueno"},
+                { "title": "Polaris", "performer": "Kreidler"}
+              ]
             ]
           ]
         },
