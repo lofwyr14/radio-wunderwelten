@@ -11562,6 +11562,7 @@
         {
           "id": "2",
           "date": "2024-01-14",
+          "checked": {"date": "2024-02-18", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Inside", "performer": "Rosati"},
@@ -11602,7 +11603,8 @@
               { "title": "Marble Heroes", "performer": "Je T´aime"},
               { "title": "New Place In Town", "performer": "VoX LoW"},
               { "title": "Life Is A Killer", "performer": "Drangsal"},
-              { "title": "Signs", "performer": "Nickon Faith feat. Axelle"}
+              { "title": "Signs", "performer": "Nickon Faith feat. Axelle"},
+              { "title": "Loved", "performer": "Four Tet"}
             ]
           ]
         },
@@ -11630,11 +11632,11 @@
               { "title": "Emily G", "performer": "Courting"},
               { "title": "The Ground", "performer": "Marika Hackman"},
               { "title": "Time", "performer": "Luciano"},
-              { "title": "Heartbroken (Edit)", "performer": "Prayer"},
+              { "title": "Heartbroken", "performer": "Prayer"},
               { "title": "If I Can Feel", "performer": "Prayer"},
               { "title": "Miedo Al Miedo", "performer": "Fantasna"},
               { "title": "Please Don´t Be So Kind", "performer": "Marika Hackman"},
-              { "title": "I Know That ´s Like This (Baby)", "performer": "Bill Ryder-Jones"},
+              { "title": "I Know That It´s Like This (Baby)", "performer": "Bill Ryder-Jones"},
               { "title": "Silhouettes", "performer": "John J. Presley"},
               { "title": "Run Run Run", "performer": "The Libertines"}
             ],
