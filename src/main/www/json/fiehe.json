@@ -11612,45 +11612,45 @@
           "id": "3",
           "date": "2024-01-21",
           "songs": [
-              [
-                { "time": "22:04", "title": "Vorsicht", "performer": "Abwärts"},
-                { "title": "Loved", "performer": "Four Tet"},
-                { "title": "Itu Cukup (Air Max ´97 Remix)", "performer": "Melati ESP"},
-                { "title": "Unfeel", "performer": "Prayer"},
-                { "title": "Ipad Breakdance", "performer": "Enea Pascal"},
-                { "title": "Control (Alex Banks RemIx)", "performer": "QRTR + OLAN"},
-                { "title": "Varial", "performer": "Thurlow Joyce"},
-                { "title": "Void", "performer": "Ty Segall"},
-                { "title": "At The Party", "performer": "Kid Cudi feat. Pharrell Williams & Travis Scott"},
-                { "title": "Flight fm", "performer": "Joy Orbison"},
-                { "title": "Alright", "performer": "Ekkstacy & The Kid Laroi"}
-              ],
-              [
-                { "time": "23:04", "title": "I Can´t Find Anyone", "performer": "Ekkstacy"},
-                { "title": "I Can´t Find Anyone", "performer": "Anja Huwe"},
-                { "title": "Say It Like You Mean It", "performer": "Sleater Kinney"},
-                { "title": "Sweet Escape", "performer": "Louis Millne"},
-                { "title": "Blurred Energy", "performer": "Because Of Art feat. Lavrienta"},
-                { "title": "Tracak Nas", "performer": "Iva Lorens"},
-                { "title": "Comprehend The End", "performer": "Holy Ship"},
-                { "title": "Pia Dance", "performer": "Yin Yin"},
-                { "title": "A Love International", "performer": "Khruangbin"},
-                { "title": "Alright Alright", "performer": "Ghost Woman"},
-                { "title": "Fourth Pass Over The Graveyard", "performer": "The Black Delta Movement"}
-              ],
-              [
-                { "time": "00:04", "title": "Double Rainbow", "performer": "PPJ"},
-                { "title": "DJ Frinedly", "performer": "Elkka"},
-                { "title": "Passionfruit", "performer": "Elkka & John Carrol Kirby"},
-                { "title": "Fleißig", "performer": "Nichtseattle"},
-                { "title": "Grasgelb", "performer": "Enno Bunger"},
-                { "title": "Falling Into Place", "performer": "The Bony King Of Nowhere"},
-                { "title": "Wind Machine", "performer": "Diane Birch"},
-                { "title": "Slime", "performer": "Marika Hackman"},
-                { "title": "Any Light", "performer": "Loving"},
-                { "title": "No Comply", "performer": "Mucho Sueno"},
-                { "title": "Polaris", "performer": "Kreidler"}
-              ]
+            [
+              { "time": "22:04", "title": "Vorsicht", "performer": "Abwärts"},
+              { "title": "Loved", "performer": "Four Tet"},
+              { "title": "Itu Cukup (Air Max ´97 Remix)", "performer": "Melati ESP"},
+              { "title": "Unfeel", "performer": "Prayer"},
+              { "title": "Ipad Breakdance", "performer": "Enea Pascal"},
+              { "title": "Control (Alex Banks RemIx)", "performer": "QRTR + OLAN"},
+              { "title": "Varial", "performer": "Thurlow Joyce"},
+              { "title": "Void", "performer": "Ty Segall"},
+              { "title": "At The Party", "performer": "Kid Cudi feat. Pharrell Williams & Travis Scott"},
+              { "title": "Flight fm", "performer": "Joy Orbison"},
+              { "title": "Alright", "performer": "Ekkstacy & The Kid Laroi"}
+            ],
+            [
+              { "time": "23:04", "title": "I Can´t Find Anyone", "performer": "Ekkstacy"},
+              { "title": "I Can´t Find Anyone", "performer": "Anja Huwe"},
+              { "title": "Say It Like You Mean It", "performer": "Sleater Kinney"},
+              { "title": "Sweet Escape", "performer": "Louis Millne"},
+              { "title": "Blurred Energy", "performer": "Because Of Art feat. Lavrienta"},
+              { "title": "Tracak Nas", "performer": "Iva Lorens"},
+              { "title": "Comprehend The End", "performer": "Holy Ship"},
+              { "title": "Pia Dance", "performer": "Yin Yin"},
+              { "title": "A Love International", "performer": "Khruangbin"},
+              { "title": "Alright Alright", "performer": "Ghost Woman"},
+              { "title": "Fourth Pass Over The Graveyard", "performer": "The Black Delta Movement"}
+            ],
+            [
+              { "time": "00:04", "title": "Double Rainbow", "performer": "PPJ"},
+              { "title": "DJ Frinedly", "performer": "Elkka"},
+              { "title": "Passionfruit", "performer": "Elkka & John Carrol Kirby"},
+              { "title": "Fleißig", "performer": "Nichtseattle"},
+              { "title": "Grasgelb", "performer": "Enno Bunger"},
+              { "title": "Falling Into Place", "performer": "The Bony King Of Nowhere"},
+              { "title": "Wind Machine", "performer": "Diane Birch"},
+              { "title": "Slime", "performer": "Marika Hackman"},
+              { "title": "Any Light", "performer": "Loving"},
+              { "title": "No Comply", "performer": "Mucho Sueno"},
+              { "title": "Polaris", "performer": "Kreidler"}
+            ]
           ]
         },
         {
