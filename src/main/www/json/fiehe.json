@@ -11612,14 +11612,13 @@
           "id": "3",
           "date": "2024-01-21",
           "songs": [
-            [
               [
                 { "time": "22:04", "title": "Vorsicht", "performer": "Abwärts"},
                 { "title": "Loved", "performer": "Four Tet"},
                 { "title": "Itu Cukup (Air Max ´97 Remix)", "performer": "Melati ESP"},
                 { "title": "Unfeel", "performer": "Prayer"},
                 { "title": "Ipad Breakdance", "performer": "Enea Pascal"},
-                { "title": "Control (Alex Banks REmIx)", "performer": "QRTR + OLAN"},
+                { "title": "Control (Alex Banks RemIx)", "performer": "QRTR + OLAN"},
                 { "title": "Varial", "performer": "Thurlow Joyce"},
                 { "title": "Void", "performer": "Ty Segall"},
                 { "title": "At The Party", "performer": "Kid Cudi feat. Pharrell Williams & Travis Scott"},
@@ -11652,7 +11651,6 @@
                 { "title": "No Comply", "performer": "Mucho Sueno"},
                 { "title": "Polaris", "performer": "Kreidler"}
               ]
-            ]
           ]
         },
         {
