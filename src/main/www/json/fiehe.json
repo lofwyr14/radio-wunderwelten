@@ -11795,6 +11795,54 @@
               { "title": "Touch The State Of This", "performer": "Paranoid London feat. Jennifer Touch"}
             ]
           ]
+        },
+        {
+          "id": "7",
+          "date": "2024-02-18",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Shifting Spaces", "performer": "Last Magpie"},
+              { "title": "157 FM", "performer": "Kassian"},
+              { "title": "Jola Dub VIP", "performer": "Askel & Elere"},
+              { "title": "Divorce (Loraine James Remix)", "performer": "Kelela"},
+              { "title": "Divorce (DJ Manny Remix)", "performer": "Kelela"},
+              { "title": "Loss Of Meaning", "performer": "Prayer"},
+              { "title": "Now I Know Paradise", "performer": "Prayer"},
+              { "title": "Slippery Fella", "performer": "Workforce & Break"},
+              { "title": "Monotonikum", "performer": "Fred und Luna"},
+              { "title": "Eins Null Eins Eins Null", "performer": "Fred und Luna"}
+            ],
+            [
+              { "time": "23:04", "title": "Monolith", "performer": "Idles"},
+              { "title": "I´ll Look Cute In The Morning", "performer": "T Goldsmith"},
+              { "title": "Shadow On The Left", "performer": "Nadia Struiwigh"},
+              { "title": "Soldier", "performer": "Luciano & Aitch"},
+              { "title": "What Happened", "performer": "Luciano"},
+              { "title": "Young And Dangerous", "performer": "Luciano"},
+              { "title": "SOS", "performer": "Little Simz"},
+              { "title": "Summer Chronicles", "performer": "Sweatson Klank"},
+              { "title": "Dancing With The Fish", "performer": "Baby´s Berserk"},
+              { "title": "Eat Your Dollar (Each Other Rwmix)", "performer": "Baby´s Berserk"},
+              { "title": "Staring Down Sunset", "performer": "Tinlicker feat. Nathan NIcholson"},
+              { "title": "Start To Fade With Josh Caffe", "performer": "Paranoid London feat. Josh Caffe"}
+            ],
+            [
+              { "time": "00:04", "title": "Brown Paper Bag", "performer": "DIIV"},
+              { "title": "Cry Without", "performer": "Sam Morton"},
+              { "title": "Lucky Me", "performer": "serpentwithfeet"},
+              { "title": "Ice", "performer": "Erika De Casier feat. They Hate Change"},
+              { "title": "Ease", "performer": "Christian Löffler"},
+              { "title": "Make Me", "performer": "Elkka"},
+              { "title": "Oh! You´re! All! Mine!", "performer": "Talk Show"},
+              { "title": "Hall & Oates", "performer": "Idles"},
+              { "title": "Granite Kiss", "performer": "Omni"},
+              { "title": "Red/White", "performer": "Talk Show"},
+              { "title": "Bliss", "performer": "Arab Strap"},
+              { "title": "No Thirds", "performer": "Mary Timony"},
+              { "title": "Rette sich, wer kann!", "performer": "Christine Nichols feat. Fatoni"},
+              { "title": "Everything Turns Blue", "performer": "Chelsea Wolfe"}
+            ]
+          ]
         }
       ]
     }
