@@ -84736,6 +84736,10 @@
         {
           "id": "8",
           "date": "2024-02-22",
+          "checked": {
+            "date": "2024-03-03",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -84837,7 +84841,7 @@
               },
               {
                 "time": "23:16",
-                "title": "Winter Creatures",
+                "title": "Winter Creatures (Lewes Psych Fest Sessions)",
                 "performer": "Oddfellow's Casino"
               },
               {
