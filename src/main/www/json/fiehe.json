@@ -11843,6 +11843,56 @@
               { "title": "Everything Turns Blue", "performer": "Chelsea Wolfe"}
             ]
           ]
+        },
+        {
+          "id": "8",
+          "date": "2024-02-25",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Get Ill", "performer": "Ed Rush & Optical feat. Scratch Perverts"},
+              { "title": "Minimalizm", "performer": "Unglued & Duskee"},
+              { "title": "The Messenger", "performer": "Submorphics"},
+              { "title": "Rollin´ In", "performer": "Sam Evian"},
+              { "title": "Mother Nature", "performer": "MGMT"},
+              { "title": "Elektra", "performer": "Shauna"},
+              { "title": "Keiner da", "performer": "st.raumen feat. Gudrun Gut"},
+              { "title": "Roll & Rock", "performer": "Jai Dee"},
+              { "title": "Ebeneezer Goode", "performer": "The Shamen"},
+              { "title": "Shifting Spaces", "performer": "Last Magpie"},
+              { "title": "The Frost", "performer": "The Pineapple Thief"}
+            ],
+            [
+              { "time": "23:04", "title": "Mama Made This Boy", "performer": "Ja, Panik"},
+              { "title": "Needles In The Camel´s Eye", "performer": "Brian Eno"},
+              { "title": "Try Me Again", "performer": "Whispering Sons"},
+              { "title": "Permanent Touch", "performer": "Thomas Fehlmann"},
+              { "title": "Rules", "performer": "Roman Flügel"},
+              { "title": "Expansion", "performer": "Steve Cox"},
+              { "title": "Looking For The Sun", "performer": "Mary Timony"},
+              { "title": "Food For Fuel", "performer": "Nadine Shah"},
+              { "title": "Phradie´s Song", "performer": "MGMT"},
+              { "title": "Leave A Light On", "performer": "Totally Enormous Extinct Dinosaurs"},
+              { "title": "Climate", "performer": "Audyssey"},
+              { "title": "It´s Perfectly Clear Right Now", "performer": "DJ Counselling"}
+            ],
+            [
+              { "time": "00:04", "title": "Running", "performer": "Prayer"},
+              { "title": "Highest Love", "performer": "Sultan + Shepard feat. Lanks"},
+              { "title": "Love Will Save Me", "performer": "WhoMadeWho feat. RY X"},
+              { "title": "Yubikiri", "performer": "Aili"},
+              { "title": "Got Sold", "performer": "Talk Show"},
+              { "title": "Morgens halb zehn", "performer": "Margot Erkner"},
+              { "title": "10 Sekunden", "performer": "Illegale Farben"},
+              { "title": "Schweinelobby", "performer": "Messer"},
+              { "title": "Babylon´s Burning", "performer": "Club Angel"},
+              { "title": "Hey Hey Hey", "performer": "Anaïs & Toddla T & Nadia Rose feat. LEVi"},
+              { "title": "Sweet Tooth", "performer": "Winslow"},
+              { "title": "Fahren", "performer": "LIZ"},
+              { "title": "Luna Espacio", "performer": "E-Freq"},
+              { "title": "Ex-Girlfriend", "performer": "Erika De Casier feat. Shygirl"},
+              { "title": "Toxic", "performer": "Erika De Casier"}
+            ]
+          ]
         }
       ]
     }
