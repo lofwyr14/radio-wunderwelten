@@ -85045,6 +85045,166 @@
               }
             ]
           ]
+        },
+        {
+          "id": "10",
+          "date": "2024-03-07",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Painted Moon",
+                "performer": "The Silencers"
+              },
+              {
+                "time": "22:11",
+                "title": "Soul Wandering",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "22:15",
+                "title": "Take What's Given",
+                "performer": "BadBadNotGood feat. Reggie"
+              },
+              {
+                "time": "22:18",
+                "title": "Sleep",
+                "performer": "Ischia"
+              },
+              {
+                "time": "22:21",
+                "title": "Sweet Love",
+                "performer": "Ian Skelly"
+              },
+              {
+                "time": "22:23",
+                "title": "Until We Meet Again",
+                "performer": "Any Version Of Me"
+              },
+              {
+                "time": "22:26",
+                "title": "May Ninth",
+                "performer": "Khruangbin"
+              },
+              {
+                "time": "22:31",
+                "title": "Hex",
+                "performer": "Jon McKiel"
+              },
+              {
+                "time": "22:34",
+                "title": "It's That Song From That Movie",
+                "performer": "Anthony Rochester"
+              },
+              {
+                "time": "22:37",
+                "title": "Water Underground",
+                "performer": "Real Estate"
+              },
+              {
+                "time": "22:41",
+                "title": "Hang Up On A Line",
+                "performer": "Alfalpha"
+              },
+              {
+                "time": "22:45",
+                "title": "Life In A Northern Town",
+                "performer": "The Dream Academy"
+              },
+              {
+                "time": "22:49",
+                "title": "Cowboy Song",
+                "performer": "Boy Deco & Quantum Keys"
+              },
+              {
+                "time": "22:53",
+                "title": "Without You",
+                "performer": "Rachel Love"
+              },
+              {
+                "time": "22:58",
+                "title": "Wind Fragment",
+                "performer": "Heavy Water"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "Thinking About You",
+                "performer": "Faye Webster"
+              },
+              {
+                "time": "23:11",
+                "title": "We All Belong To Someone",
+                "performer": "Michael Benedikt & Ursina"
+              },
+              {
+                "time": "23:13",
+                "title": "New Moon",
+                "performer": "Laetitia Sadier"
+              },
+              {
+                "time": "23:17",
+                "title": "Long Frail Road",
+                "performer": "Mottron"
+              },
+              {
+                "time": "23:20",
+                "title": "Phradie's Song",
+                "performer": "MGMT"
+              },
+              {
+                "time": "23:25",
+                "title": "Time Inflation",
+                "performer": "Illia"
+              },
+              {
+                "time": "23:30",
+                "title": "I'm Not In Love",
+                "performer": "Camera Obscura"
+              },
+              {
+                "time": "23:35",
+                "title": "Quarantune",
+                "performer": "Scoop"
+              },
+              {
+                "time": "23:39",
+                "title": "Glock",
+                "performer": "Dana And Alden"
+              },
+              {
+                "time": "23:40",
+                "title": "Mind On Madrid",
+                "performer": "Salvator Dragatto"
+              },
+              {
+                "time": "23:44",
+                "title": "Sisters Friends",
+                "performer": "The High Llamas feat. Rae Morris"
+              },
+              {
+                "time": "23:47",
+                "title": "Lounge Lizard",
+                "performer": "Molly Lewis"
+              },
+              {
+                "time": "23:52",
+                "title": "Aspen Colorado",
+                "performer": "Boozoo Bajou & Tony Joe White"
+              },
+              {
+                "time": "23:56",
+                "title": "Don't Dream It's Over",
+                "performer": "Diana Krall"
+              },
+              {
+                "time": "23:58",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
