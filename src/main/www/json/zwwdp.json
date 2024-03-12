@@ -85049,11 +85049,15 @@
         {
           "id": "10",
           "date": "2024-03-07",
+          "checked": {
+            "date": "2024-03-12",
+            "user": "jg"
+          },
           "songs": [
             [
               {
                 "time": "22:05",
-                "title": "Painted Moon",
+                "title": "Painted Moon (Blues Mix)",
                 "performer": "The Silencers"
               },
               {
@@ -85190,7 +85194,7 @@
               },
               {
                 "time": "23:52",
-                "title": "Aspen Colorado",
+                "title": "Aspen Colorado (Revisited) (Edit)",
                 "performer": "Boozoo Bajou & Tony Joe White"
               },
               {
