@@ -85209,6 +85209,151 @@
               }
             ]
           ]
+        },
+        {
+          "id": "11",
+          "date": "2024-03-14",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Love & Hate",
+                "performer": "Ryuichi Sakamoto feat. Holly Johnson"
+              },
+              {
+                "time": "22:10",
+                "title": "Nova",
+                "performer": "Ghost Funk Orchestra"
+              },
+              {
+                "time": "22:13",
+                "title": "The Nimbostratus Jig",
+                "performer": "Maxwell Farrington & Le SuperHomard"
+              },
+              {
+                "time": "22:16",
+                "title": "Seeds Of Evil",
+                "performer": "Youbet"
+              },
+              {
+                "time": "22:20",
+                "title": "Mars To Liverpool",
+                "performer": "Liam Gallagher & John Squire"
+              },
+              {
+                "time": "22:23",
+                "title": "Grimly Fiendish",
+                "performer": "The Damned"
+              },
+              {
+                "time": "22:27",
+                "title": "Man In A Towel",
+                "performer": "Elevator Suite"
+              },
+              {
+                "time": "22:32",
+                "title": "Yourself",
+                "performer": "Mildlife"
+              },
+              {
+                "time": "22:38",
+                "title": "Corners",
+                "performer": "Gil Scott-Heron & Brian Jackson"
+              },
+              {
+                "time": "22:43",
+                "title": "They Sold My Home To Build A Skyscraper",
+                "performer": "Gruff Rhys"
+              },
+              {
+                "time": "22:46",
+                "title": "Andy Warhol",
+                "performer": "Dana Gillespie"
+              },
+              {
+                "time": "22:49",
+                "title": "Space Soul Mother",
+                "performer": "Suddenly Wow!"
+              },
+              {
+                "time": "22:54",
+                "title": "Let Me Ride",
+                "performer": "Mats Wawa"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Sweet Lies",
+                "performer": "Robert Palmer"
+              },
+              {
+                "time": "23:07",
+                "title": "Fall For You",
+                "performer": "James Alexander Bright"
+              },
+              {
+                "time": "23:11",
+                "title": "Münsterland Luxus",
+                "performer": "Herr Wade"
+              },
+              {
+                "time": "23:15",
+                "title": "First Touch",
+                "performer": "Don Glori"
+              },
+              {
+                "time": "23:20",
+                "title": "Time",
+                "performer": "Eels"
+              },
+              {
+                "time": "23:22",
+                "title": "Children Of The Black Planet",
+                "performer": "The Natural Yogurt Band"
+              },
+              {
+                "time": "23:25",
+                "title": "Youve Come To These Woods To Hunt Me",
+                "performer": "Oddfellow's Casino"
+              },
+              {
+                "time": "23:32",
+                "title": "Using The Hope Diamond As A Doorstop",
+                "performer": "The American Analog Set"
+              },
+              {
+                "time": "23:34",
+                "title": "I Am A Cider Drinker",
+                "performer": "British Sea Power"
+              },
+              {
+                "time": "23:40",
+                "title": "Water Streams",
+                "performer": "Retep Folo & Dorothy Moskowitz"
+              },
+              {
+                "time": "23:43",
+                "title": "This Charming Man",
+                "performer": "Nouvelle Vague"
+              },
+              {
+                "time": "23:48",
+                "title": "Fever Dream",
+                "performer": "Gaussian Curve"
+              },
+              {
+                "time": "23:53",
+                "title": "Someone So Beautiful",
+                "performer": "Sunlit"
+              },
+              {
+                "time": "23:56",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
