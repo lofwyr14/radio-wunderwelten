@@ -11900,7 +11900,7 @@
           "date": "2024-03-03",
           "songs": [
             [
-              { "title": "Return To Centaurus", "performer": "Mildlife"},
+              { "time": "22:04", "title": "Return To Centaurus", "performer": "Mildlife"},
               { "title": "Lovemachine", "performer": "Supermax"},
               { "title": "Yubikiri", "performer": "Aili (+ Transistorcake)"},
               { "title": "City Is Taken", "performer": "Bodega"},
@@ -11912,7 +11912,7 @@
               { "title": "Coffee", "performer": "Hinds"}
             ],
             [
-              { "title": "Hide You", "performer": "Kosheen"},
+              { "time": "23:04", "title": "Hide You", "performer": "Kosheen"},
               { "title": "The Golden Ratio (with Fossil Archive)", "performer": "Stevie Cox"},
               { "title": "Enbounce", "performer": "Squarepusher"},
               { "title": "Thinking About You", "performer": "Faye Webster"},
@@ -11923,7 +11923,7 @@
               { "title": "Where U Gonna Be", "performer": "Ikonika"}
             ],
             [
-              { "title": "Grabeland", "performer": "Messer"},
+              { "time": "00:04", "title": "Grabeland", "performer": "Messer"},
               { "title": "This Is Energy", "performer": "Red Lorry Yellow Lorry"},
               { "title": "Gone Away", "performer": "Je T´aime"},
               { "title": "Better Than Going Under", "performer": "Lebanon Hanover"},
@@ -11933,6 +11933,53 @@
               { "title": "Under The Surface", "performer": "Sulten + Shepard & Nathan NIcholson"},
               { "title": "Flimmern", "performer": "Messer"},
               { "title": "Weltuntergang (Alles hört auf)", "performer": "Enno Bunger"}
+            ]
+          ]
+        },
+        {
+          "id": "10",
+          "date": "2024-03-10",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Suspens (Dur Club Remix)", "performer": "La Securite"},
+              { "title": "Schirokko", "performer": "Klaus Doldinger´s Passport"},
+              { "title": "Midnight Marauder", "performer": "DJ Physical"},
+              { "title": "Look At Me", "performer": "Julien Bracht"},
+              { "title": "Close To You", "performer": "I. Jordan"},
+              { "title": "Ascendance", "performer": "Elzace"},
+              { "title": "TPA", "performer": "Bad Bad Hats"},
+              { "title": "Largest Muscle", "performer": "Cheekface"},
+              { "title": "Citrus (Mr. Ho Remix)", "performer": "Om Unit"},
+              { "title": "Chateau Dance", "performer": "Cassy & Fred P"},
+              { "title": "Used To Lovin' You", "performer": "Diane Birch"}
+            ],
+            [
+              { "time": "23:04", "title": "Pariah", "performer": "Anja Huwe"},
+              { "title": "Into Void", "performer": "Gremlinz & Jesta"},
+              { "title": "No More", "performer": "Inner Terrain"},
+              { "title": "Guilty Pleasures", "performer": "Heron Flow"},
+              { "title": "Zoom", "performer": "Machinedrum feat. Tinashe"},
+              { "title": "Period Point Blank", "performer": "Sabrina Bellaouel"},
+              { "title": "Pieces", "performer": "Jay 305 feat. Dom Kennedy, Hit Boy"},
+              { "title": "In meiner Welt", "performer": "Honny & Kelmo"},
+              { "title": "Parce Que J'ai Reve D'etre Riche", "performer": "Gwendoline"},
+              { "title": "Ertrinken", "performer": "Gwen Dolyn"},
+              { "title": "Shanti", "performer": "Syreeta"},
+              { "title": "Pouring Drums Into Your Soul", "performer": "Theus Mago & Dominik Marz"},
+              { "title": "Strange World", "performer": "La Luz"}
+            ],
+            [
+              { "time": "00:04", "title": "Thatched At Night", "performer": "Confz"},
+              { "title": "Free Daff", "performer": "Potter Payper, Mozzy & Daff"},
+              { "title": "Dog Shit", "performer": "Emanuel Casablanca"},
+              { "title": "The Summer Of Hate", "performer": "Dandy Warhols"},
+              { "title": "Wanting And Waiting", "performer": "The Black Crowes"},
+              { "title": "Just Another Rainbow", "performer": "Liam Gallagher & John Squire"},
+              { "title": "Never Have I Felt", "performer": "Velvet Meadow"},
+              { "title": "Drugs", "performer": "Philine Sonny"},
+              { "title": "Arkteon 1", "performer": "Squarepusher"},
+              { "title": "Big Swimmer", "performer": "King Hannah"},
+              { "title": "Guilty", "performer": "Moor Mother feat. Lonnie Holley & Raia Was"}
             ]
           ]
         }
