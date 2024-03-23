@@ -11705,6 +11705,7 @@
         {
           "id": "5",
           "date": "2024-02-04",
+          "checked": {"date": "2024-03-23", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Streichelzoo", "performer": "Bachratten"},
@@ -11717,7 +11718,7 @@
               { "title": "Kontrollverlust", "performer": "Edwin Rosen"},
               { "title": "Life Is A Killer", "performer": "Drangsal"},
               { "title": "Ich hoffe du bleibst alleine", "performer": "Sparr00w feat. Bleac"},
-              { "title": "Body Attestation", "performer": "Chrome Corps"},
+              { "title": "You Can Never Go Home", "performer": "Chrome Corps"},
               { "title": "Falling Into Place", "performer": "The Bony King Of Nowhere"},
               { "title": "They Sold My Home To Build A Skyscraper", "performer": "Gruff Rhys"}
             ],
@@ -11728,7 +11729,7 @@
               { "title": "Star (A$AP Ferg Remix)", "performer": "Machinedrum feat. Tanerelle & Mono/Poly"},
               { "title": "Z", "performer": "Cameo Blush"},
               { "title": "On & Off", "performer": "Ghostly Kisses"},
-              { "title": "Bryllyant", "performer": "Boytronic"},
+              { "title": "Bryllyant (??? VERSION ???)", "performer": "Boytronic"},
               { "title": "Journey Of The Heart (Guy Tallo Remix)", "performer": "Paresse"},
               { "title": "Eternally Hateful", "performer": "Kirin J Callinan"},
               { "title": "Mama Made This Boy", "performer": "Ja, Panik"},
@@ -11744,7 +11745,7 @@
               { "title": "Chroma 001 Helium", "performer": "Bicep"},
               { "title": "Gleams", "performer": "George Fitzgerald"},
               { "title": "Look That´s My Heart", "performer": "Brainbeats"},
-              { "title": "Dreamer", "performer": "Maroki, Hypnos"},
+              { "title": "Dreamer", "performer": "Maroki x Hypnos"},
               { "title": "Fashion", "performer": "Aili & Transistorcake"},
               { "title": "Somebody Like You", "performer": "Giant Rooks"},
               { "title": "Dreamfear", "performer": "Burial"}
