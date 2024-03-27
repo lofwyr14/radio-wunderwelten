@@ -11984,6 +11984,52 @@
               { "title": "Guilty", "performer": "Moor Mother feat. Lonnie Holley & Raia Was"}
             ]
           ]
+        },
+        {
+          "id": "11",
+          "date": "2024-03-17",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Dream Machine", "performer": "Pressa X Drumskull"},
+              { "title": "Uwaki (Love Someone Else)", "performer": "Lili Chan"},
+              { "title": "Simula Endzone", "performer": "OX7GEN"},
+              { "title": "Now Or Never", "performer": "GHSTGHSTGHST & lau.ra"},
+              { "title": "Sir Princess Bad Bitch", "performer": "Yaya Bey"},
+              { "title": "Moovies", "performer": "Tierra Whack"},
+              { "title": "Three Drums", "performer": "Four Tet"},
+              { "title": "Jade Green", "performer": "Kacey Musgraves"},
+              { "title": "Cardinal", "performer": "Kacey Musgraves"},
+              { "title": "Same Risk", "performer": "Madi Diaz"},
+              { "title": "No Thirds", "performer": "Mary Timony"},
+              { "title": "Empty And Silent", "performer": "Mount Kimbie feat. King Krule"}
+            ],
+            [
+              { "time": "23:04", "title": "Phoenix", "performer": "DJ Agitated"},
+              { "title": "Sancturance", "performer": "Meg Ward feat. Murg"},
+              { "title": "Average Boy", "performer": "Nightbus"},
+              { "title": "Love Story (Four Tet Remix)", "performer": "Taylor Swift"},
+              { "title": "Skater", "performer": "Four Tet"},
+              { "title": "Disconnected", "performer": "Coma"},
+              { "title": "Hysteresis", "performer": "Yeahrs"},
+              { "title": "Bitter Melon", "performer": "Cola"},
+              { "title": "Target", "performer": "Rui Gabriel feat. Kate Teague"},
+              { "title": "Portals", "performer": "Christian Löffler feat. Mogli"},
+              { "title": "Nights", "performer": "Sully & Salo"}
+            ],
+            [
+              { "time": "00:04", "title": "Lights", "performer": "Disfreq"},
+              { "title": "Chroma 002 L.A.V.A .", "performer": "B.D.B (Bicep + Benjamin Damage)"},
+              { "title": "Vallinote", "performer": "DJ Agitated"},
+              { "title": "Smoke Break", "performer": "Heavee feat. Homesick & Takuja Nakamara"},
+              { "title": "Air Drumming", "performer": "Wild Pink"},
+              { "title": "Don´t Worry Baby", "performer": "Boeckner"},
+              { "title": "Rare", "performer": "Bullion"},
+              { "title": "Diamonds, Rhinestones And Hard Rain", "performer": "Les Big Byrd"},
+              { "title": "Bleed It Dry", "performer": "The Black Crowes"},
+              { "title": "Deeper Well", "performer": "Kacey Musgraves"},
+              { "title": "A Cause De La Frange", "performer": "Karen Gwyer"}
+            ]
+          ]
         }
       ]
     }
