@@ -11755,6 +11755,7 @@
         {
           "id": "6",
           "date": "2024-02-11",
+          "checked": {"date": "2024-03-27", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Crockett´s Theme Jungle Edit", "performer": "Nadia Struiwigh"},
@@ -11771,22 +11772,22 @@
               { "title": "Schweinegeld", "performer": "Shoki"}
             ],
             [
-              { "time": "23:04", "title": "Blick Aufs Konto", "performer": "MPC Lafote"},
+              { "time": "23:04", "title": "Blick aufs Konto", "performer": "MPC Lafote"},
               { "title": "Celestial (Extended)", "performer": "Scaefa"},
               { "title": "Won´t Do It", "performer": "Sister Zo & Sam Binga"},
-              { "title": "Things You Want (Sync Mode DnB Rinse)", "performer": "Sync Mode"},
+              { "title": "Things You Want (Sync Mode D&B Rinse)", "performer": "Sync Mode"},
               { "title": "The Guest", "performer": "Mary Timony"},
-              { "title": "Weak", "performer": "Vintage Culture, Maverick Sabre, Tom Breu"},
+              { "title": "Weak", "performer": "Vintage Culture, Maverick Sabre & Tom Breu"},
               { "title": "Hand Down, Man Down", "performer": "dreamcastmoe"},
               { "title": "When The Laughter Stops", "performer": "Yard Act feat. Katy J Pearson"},
               { "title": "Largest Muscle", "performer": "Cheekface"},
-              { "title": "Nach Fest Kommt Lose", "performer": "Die Sterne"},
+              { "title": "Nach fest kommt lose", "performer": "Die Sterne"},
               { "title": "Möwen", "performer": "Illegale Farben"},
               { "title": "KennIchNich", "performer": "Joseph Boys"}
             ],
             [
               { "time": "00:04", "title": "Sympathy", "performer": "Declan McKenna"},
-              { "title": "Togetherness", "performer": "Direct Function"},
+              { "title": "Togetherness (Universal Togetherness Mix)", "performer": "Direct Function"},
               { "title": "Mr. Useless", "performer": "Shygirl & SG Lewis"},
               { "title": "Real Hot N Naughty", "performer": "I. Jordan feat. Felix Mufti"},
               { "title": "Oh Yeah", "performer": "Can"},
@@ -11794,7 +11795,7 @@
               { "title": "Angekommen in der letzten Reihe", "performer": "Sankt Otten"},
               { "title": "Gold", "performer": "Two Medicine"},
               { "title": "Yourself", "performer": "Mildlife"},
-              { "title": "Touch The State Of This", "performer": "Paranoid London feat. Jennifer Touch"}
+              { "title": "Touch The State Of That", "performer": "Paranoid London feat. Jennifer Touch"}
             ]
           ]
         },
