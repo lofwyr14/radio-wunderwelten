@@ -85362,6 +85362,10 @@
         {
           "id": "12",
           "date": "2024-03-21",
+          "checked": {
+            "date": "2024-03-29",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -85370,27 +85374,37 @@
                 "performer": "Talking Heads"
               },
               {
-                "time": "22:18",
+                "time": "22:10",
                 "title": "Cracked Actor",
                 "performer": "David Bowie"
               },
               {
-                "time": "22:23",
+                "time": "22:14",
                 "title": "No One Does It Better Than You",
                 "performer": "Bob Junior feat. Alfie Templeman"
               },
               {
-                "time": "22:26",
+                "time": "22:17",
                 "title": "All In Vain",
-                "performer": "Bob Junior X Inner Wave"
+                "performer": "Bob Junior feat. Inner Wave"
               },
               {
-                "time": "22:29",
+                "time": "22:22",
+                "title": "Mein Fräulein",
+                "performer": "Barbara"
+              },
+              {
+                "time": "22:25",
                 "title": "Heather's Leather",
                 "performer": "Lawne"
               },
               {
-                "time": "22:32",
+                "time": "22:30",
+                "title": "Ladybird",
+                "performer": "Jim Noir"
+              },
+              {
+                "time": "22:33",
                 "title": "Waitin'",
                 "performer": "101 Dalmatians"
               },
@@ -85421,13 +85435,6 @@
               },
               {
                 "time": "22:57",
-                "title": "Puppeteer",
-                "performer": "Almost Twins"
-              }
-            ],
-            [
-              {
-                "time": "23:01",
                 "title": "Cool And Funky",
                 "performer": "Ronny Jordan"
               }
@@ -85449,9 +85456,14 @@
                 "performer": "Jordan Rakei"
               },
               {
+                "time": "23:18",
+                "title": "Shit Show",
+                "performer": "Bonheur"
+              },
+              {
                 "time": "23:20",
                 "title": "The Swimmer",
-                "performer": "CoCo"
+                "performer": "Coco"
               },
               {
                 "time": "23:24",
@@ -85460,7 +85472,7 @@
               },
               {
                 "time": "23:28",
-                "title": "L'Anamour",
+                "title": "L'Anamour (Instrumental)",
                 "performer": "13th Ward Social Club"
               },
               {
