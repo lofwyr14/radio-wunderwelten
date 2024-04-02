@@ -11812,8 +11812,9 @@
               { "title": "Loss Of Meaning", "performer": "Prayer"},
               { "title": "Now I Know Paradise", "performer": "Prayer"},
               { "title": "Slippery Fella", "performer": "Workforce & Break"},
-              { "title": "Monotonikum", "performer": "Fred und Luna"},
-              { "title": "Eins Null Eins Eins Null", "performer": "Fred und Luna"}
+              { "title": "Monotonikum (Edit)", "performer": "Fred und Luna"},
+              { "title": "Eins Null Eins Eins Null", "performer": "Fred und Luna"},
+              { "title": "Get Away", "performer": "Prayer"}
             ],
             [
               { "time": "23:04", "title": "Monolith", "performer": "Idles"},
@@ -12028,6 +12029,54 @@
               { "title": "Bleed It Dry", "performer": "The Black Crowes"},
               { "title": "Deeper Well", "performer": "Kacey Musgraves"},
               { "title": "A Cause De La Frange", "performer": "Karen Gwyer"}
+            ]
+          ]
+        },
+        {
+          "id": "12",
+          "date": "2024-03-24",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Life Goes On (Joy Anonymus Remix)", "performer": "Ezra Collective feat. Sampa The Great"},
+              { "title": "Armed & Dangerous", "performer": "Oppidan & Cutty Ranks"},
+              { "title": "Call (Solomun Remix)", "performer": "Kasabian"},
+              { "title": "Wasser", "performer": "Levin Goes Lightly"},
+              { "title": "Anzu (Hardway Bros Remix)", "performer": "C.A.R"},
+              { "title": "Closer", "performer": "Iceboy Violet & Nueen"},
+              { "title": "Tranquility", "performer": "Kwake"},
+              { "title": "From Within", "performer": "Logic1000"},
+              { "title": "Clear", "performer": "DAIISTAR"},
+              { "title": "Second Of June", "performer": "The Jesus And Mary Chain"},
+              { "title": "Kali", "performer": "Biicla"}
+            ],
+            [
+              { "time": "23:04", "title": "Show & Tell", "performer": "Bored At My Grandmas House"},
+              { "title": "Look That´s My Heart", "performer": "Brainbeats"},
+              { "title": "Rhythm Of The Night", "performer": "DJ Cuddles"},
+              { "title": "Q", "performer": "Disfreq"},
+              { "title": "You´re Not Alone", "performer": "andhim"},
+              { "title": "Bodycount", "performer": "Christin Nichols"},
+              { "title": "All Comes Down To This", "performer": "A Certain Ratio"},
+              { "title": "Perfect Storm", "performer": "Jane Weaver"},
+              { "title": "Wind Blows", "performer": "Sam Evian"},
+              { "title": "Rollin´ In", "performer": "Sam Evian"},
+              { "title": "Will You Love Me", "performer": "The Wandering Hearts"},
+              { "title": "I Don´t Say It, But I Feel It", "performer": "The Staves"},
+              { "title": "Gas", "performer": "Biicla"}
+            ],
+            [
+              { "time": "00:04", "title": "Burns Out At MIdnight", "performer": "Waxahatchee"},
+              { "title": "Light It Up", "performer": "Gossip"},
+              { "title": "Don´t Be Afraid", "performer": "Gossip"},
+              { "title": "All U Like", "performer": "Logic1000"},
+              { "title": "Highest Love", "performer": "Sultan + Shepard"},
+              { "title": "Helicopter", "performer": "Danzinger99 (feat. Edwin Rosen..secret)"},
+              { "title": "These Morning", "performer": "Julia Holter"},
+              { "title": "By Gaining Many Somethings", "performer": "Rosa Anschütz"},
+              { "title": "Starbust", "performer": "Maya Q"},
+              { "title": "Guilty Pleasures", "performer": "Heron Flow"},
+              { "title": "Real House", "performer": "Adrianne Lenker"},
+              { "title": "My Desire Is Pure", "performer": "Halo Maud"}
             ]
           ]
         }
