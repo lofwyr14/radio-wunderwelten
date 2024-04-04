@@ -85521,6 +85521,10 @@
         {
           "id": "13",
           "date": "2024-03-28",
+          "checked": {
+            "date": "2024-04-04",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -85535,8 +85539,8 @@
               },
               {
                 "time": "22:12",
-                "title": "Ship Of Fools",
-                "performer": "Rufus Dove, Will Towyn, Delahaye, Millenium Mills, Ahmed Gottlieb & Anthony Thwistlethwaite"
+                "title": "Ship Of Fools (12\" Version)",
+                "performer": "World Party"
               },
               {
                 "time": "22:18",
@@ -85570,7 +85574,7 @@
               },
               {
                 "time": "22:40",
-                "title": "Ce Matin La",
+                "title": "Ce Matin-là",
                 "performer": "Air"
               },
               {
@@ -85580,7 +85584,7 @@
               },
               {
                 "time": "22:48",
-                "title": "Love Is...",
+                "title": "Love Is... (Dance Mix)",
                 "performer": "Troy Tate"
               },
               {
@@ -85632,7 +85636,7 @@
               },
               {
                 "time": "23:35",
-                "title": "Ami, Ennemi",
+                "title": "Ami, Ennemi (Rolo's Woodentops Remix)",
                 "performer": "Son Parapluie feat. Armelle Pioline"
               },
               {
@@ -85657,7 +85661,7 @@
               },
               {
                 "time": "23:55",
-                "title": "Purple",
+                "title": "Purple (La Femme D’Argent Mix)",
                 "performer": "Crustation"
               },
               {
