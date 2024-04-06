@@ -11802,6 +11802,7 @@
         {
           "id": "7",
           "date": "2024-02-18",
+          "checked": {"date": "2024-04-06", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Shifting Spaces", "performer": "Last Magpie"},
@@ -11826,7 +11827,7 @@
               { "title": "SOS", "performer": "Little Simz"},
               { "title": "Summer Chronicles", "performer": "Sweatson Klank"},
               { "title": "Dancing With The Fish", "performer": "Baby´s Berserk"},
-              { "title": "Eat Your Dollar (Each Other Rwmix)", "performer": "Baby´s Berserk"},
+              { "title": "Eat Your Dollar (Each Other Remix)", "performer": "Baby´s Berserk"},
               { "title": "Staring Down Sunset", "performer": "Tinlicker feat. Nathan NIcholson"},
               { "title": "Start To Fade With Josh Caffe", "performer": "Paranoid London feat. Josh Caffe"}
             ],
@@ -11835,7 +11836,7 @@
               { "title": "Cry Without", "performer": "Sam Morton"},
               { "title": "Lucky Me", "performer": "serpentwithfeet"},
               { "title": "Ice", "performer": "Erika De Casier feat. They Hate Change"},
-              { "title": "Ease", "performer": "Christian Löffler"},
+              { "title": "Ease (Extended Club Version)", "performer": "Christian Löffler"},
               { "title": "Make Me", "performer": "Elkka"},
               { "title": "Oh! You´re! All! Mine!", "performer": "Talk Show"},
               { "title": "Hall & Oates", "performer": "Idles"},
