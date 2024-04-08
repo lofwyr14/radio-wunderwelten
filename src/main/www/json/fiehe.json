@@ -12080,6 +12080,52 @@
               { "title": "My Desire Is Pure", "performer": "Halo Maud"}
             ]
           ]
+        },
+        {
+          "id": "13",
+          "date": "2024-03-31",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Total Freefall", "performer": "Hydra Fashion Week"},
+              { "title": "Clear", "performer": "DAIISTAR"},
+              { "title": "Data Transfer 405", "performer": "Kwake"},
+              { "title": "Sweet Escape", "performer": "Louis Millne"},
+              { "title": "Schnell unterwegs", "performer": "Hinterlandgang"},
+              { "title": "Freak 2 Freak (Introspekt Remix) ", "performer": "Sicaria"},
+              { "title": "GTA", "performer": "Future & Metro Boomin"},
+              { "title": "Softskills", "performer": "Sirkus"},
+              { "title": "Perfetct Storm", "performer": "Jane Weaver"},
+              { "title": "Deadly Weapons", "performer": "Minimal Compact"},
+              { "title": "Negative Drive", "performer": "The KVB"},
+              { "title": "Deadman", "performer": "Solomun"}
+            ],
+            [
+              { "time": "23:04", "title": "Under The Glass", "performer": "Drahla"},
+              { "title": "Take Me Away", "performer": "Dukwa"},
+              { "title": "Click (Pangaea Remix)", "performer": "Lost Souls Of Saturn"},
+              { "title": "Three Drums", "performer": "Four Tet"},
+              { "title": "Glovemaker", "performer": "Loren Kramar"},
+              { "title": "Strange Ways", "performer": "Ivy Falls"},
+              { "title": "Too Good To Be True", "performer": "Kacey Musgraves"},
+              { "title": "Texas Hold ´Em", "performer": "Beyonce"},
+              { "title": "Junior´s Wailing", "performer": "Steamhammer"},
+              { "title": "I Used To Be Lost But Now I´m Just Gone", "performer": "Les Big Byrd"},
+              { "title": "Everything Is Everything", "performer": "Sinkane"}
+            ],
+            [
+              { "time": "00:04", "title": "Catfished", "performer": "Saoirse"},
+              { "title": "Live Again", "performer": "Chemical Brothers feat. Halo Maud"},
+              { "title": "Catch The Wave", "performer": "Halo Maud"},
+              { "title": "Take Me To The River", "performer": "Lorde"},
+              { "title": "Bunto", "performer": "Formal Sppeedwear"},
+              { "title": "Mon Argent", "performer": "Corridor"},
+              { "title": "Last Frontier", "performer": "Ride"},
+              { "title": "Portland Rocks", "performer": "Ride"},
+              { "title": "Botanical Garden", "performer": "Anna Erhard"},
+              { "title": "The Night Bus", "performer": "Les Big Byrd"},
+              { "title": "Ney Year´s Day", "performer": "Six Organs Of Admittance"}
+            ]
+          ]
         }
       ]
     }
