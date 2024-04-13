@@ -11852,6 +11852,7 @@
         {
           "id": "8",
           "date": "2024-02-25",
+          "checked": {"date": "2024-04-13", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Get Ill", "performer": "Ed Rush & Optical feat. Scratch Perverts"},
@@ -11882,13 +11883,13 @@
             ],
             [
               { "time": "00:04", "title": "Running", "performer": "Prayer"},
-              { "title": "Highest Love", "performer": "Sultan + Shepard feat. Lanks"},
+              { "title": "Highest Love (Extended Mix)", "performer": "Sultan + Shepard feat. Lanks"},
               { "title": "Love Will Save Me", "performer": "WhoMadeWho feat. RY X"},
               { "title": "Yubikiri", "performer": "Aili"},
               { "title": "Got Sold", "performer": "Talk Show"},
               { "title": "Morgens halb zehn", "performer": "Margot Erkner"},
               { "title": "10 Sekunden", "performer": "Illegale Farben"},
-              { "title": "Schweinelobby", "performer": "Messer"},
+              { "title": "Schweinelobby (Der Defätist)", "performer": "Messer"},
               { "title": "Babylon´s Burning", "performer": "Club Angel"},
               { "title": "Hey Hey Hey", "performer": "Anaïs & Toddla T & Nadia Rose feat. LEVi"},
               { "title": "Sweet Tooth", "performer": "Winslow"},
