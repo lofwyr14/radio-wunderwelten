@@ -12127,6 +12127,51 @@
               { "title": "Ney Year´s Day", "performer": "Six Organs Of Admittance"}
             ]
           ]
+        },
+        {
+          "id": "14",
+          "date": "2024-04-07",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Our Roots (Began In Africa)", "performer": "Pharoa Sanders"},
+              { "title": "Come Together", "performer": "Sinkane"},
+              { "title": "Suspended Space", "performer": "LTJ Bukem"},
+              { "title": "Playa Mental", "performer": "Goodboi"},
+              { "title": "Rinse Out Ma Selecta", "performer": "Fear-E"},
+              { "title": "Evinha", "performer": "Songer feat. Evinha"},
+              { "title": "I Need To Feel (Subsonic Remix)", "performer": "Friction"},
+              { "title": "Aries", "performer": "DJ Holographic"},
+              { "title": "Visions", "performer": "mOat"},
+              { "title": "Don´t Talk To Me", "performer": "Bad With Phones"}
+            ],
+            [
+              { "time": "23:04", "title": "Human Fly", "performer": "The Cramps"},
+              { "title": "Read Em And Weep", "performer": "The Black Keys"},
+              { "title": "Juegos Y Nubes", "performer": "Khruangbin"},
+              { "title": "A Dream Goes On Forever", "performer": "Vegyn"},
+              { "title": "Highly Recommended", "performer": "Gerry Read & DJ Koze"},
+              { "title": "Control", "performer": "Seb Wildblood & Kali Mija "},
+              { "title": "If The Sky Would Stay Blue", "performer": "Songer"},
+              { "title": "Through The Cracks", "performer": "The Amazing"},
+              { "title": "Nothing Lasts", "performer": "Bnny"},
+              { "title": "Sometimes Always", "performer": "The Jesus And Mary Chain feat. Hope Sandoval"},
+              { "title": "Deep End", "performer": "The KVB"},
+              { "title": "Camellia", "performer": "Aldonna & Dusky"}
+            ],
+            [
+              { "time": "00:04", "title": "Chauvi", "performer": "Iedereen"},
+              { "title": "Baron´s Claw", "performer": "The Libertines"},
+              { "title": "Emotional Components", "performer": "Jane Weaver"},
+              { "title": "Makeshift Tourniquet", "performer": "Vegyn"},
+              { "title": "Dance With Me (Maceo Plex Remix)", "performer": "Mack Loenz"},
+              { "title": "Just An Illusion", "performer": "Hurricane #1"},
+              { "title": "", "performer": "Ride"},
+              { "title": "Workin´ On It", "performer": "Brijean"},
+              { "title": "Candy And Her Friends", "performer": "The Black Keys feat. Lil Noid"},
+              { "title": "Hope", "performer": "Vampire Weekend"},
+              { "title": "Auch für mich 6. Stunde", "performer": "Kettcar"}
+            ]
+          ]
         }
       ]
     }
