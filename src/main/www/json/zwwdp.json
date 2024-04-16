@@ -85834,6 +85834,10 @@
         {
           "id": "15",
           "date": "2024-04-11",
+          "checked": {
+            "date": "2024-04-15",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -85853,7 +85857,7 @@
               },
               {
                 "time": "22:15",
-                "title": "Why",
+                "title": "Why?",
                 "performer": "Rachel Love"
               },
               {
@@ -85930,8 +85934,8 @@
               },
               {
                 "time": "23:22",
-                "title": "Solid Air",
-                "performer": "The Modern Jazz & Folk Ensemble feat. Rosie Frater-Taylor"
+                "title": "Solid Air (feat. Rosie Frater-Taylor)",
+                "performer": "The Modern Jazz & Folk Ensemble"
               },
               {
                 "time": "23:30",
