@@ -11903,6 +11903,7 @@
         {
           "id": "9",
           "date": "2024-03-03",
+          "checked": {"date": "2024-04-21", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Return To Centaurus", "performer": "Mildlife"},
@@ -11911,33 +11912,35 @@
               { "title": "City Is Taken", "performer": "Bodega"},
               { "title": "I´m A Wheel", "performer": "Liam Galagher & John Squire"},
               { "title": "Pimp Wars", "performer": "Black Grape"},
-              { "title": "The Trench Coat Museum", "performer": "Yard Act"},
+              { "title": "The Trench Coat Museum (Short Version)", "performer": "Yard Act"},
               { "title": "A Vineyard For The North", "performer": "Yard Act"},
               { "title": "Sky River (Haider Uppal Remix)", "performer": "Nabihah Iqbal"},
               { "title": "Coffee", "performer": "Hinds"}
             ],
             [
-              { "time": "23:04", "title": "Hide You", "performer": "Kosheen"},
+              { "time": "23:04", "title": "Hide You (12\" Version)", "performer": "Kosheen"},
               { "title": "The Golden Ratio (with Fossil Archive)", "performer": "Stevie Cox"},
               { "title": "Enbounce", "performer": "Squarepusher"},
               { "title": "Thinking About You", "performer": "Faye Webster"},
               { "title": "Whistle", "performer": "Brintex Collective"},
               { "title": "Hip-Hop Hooray", "performer": "Honny"},
               { "title": "1 Up", "performer": "Isaac Carter feat. Biyi"},
-              { "title": "Shiver (Ivory Remix)", "performer": "Fever Ray"},
-              { "title": "Where U Gonna Be", "performer": "Ikonika"}
+              { "title": "Shiver (Ivory IT Remix)", "performer": "Fever Ray"},
+              { "title": "Where U Gonna Be", "performer": "Ikonika"},
+              { "title": "Proto Spoon", "performer": "Dusky"}
             ],
             [
               { "time": "00:04", "title": "Grabeland", "performer": "Messer"},
               { "title": "This Is Energy", "performer": "Red Lorry Yellow Lorry"},
-              { "title": "Gone Away", "performer": "Je T´aime"},
+              { "title": "Gone Away", "performer": "Je t´aime"},
               { "title": "Better Than Going Under", "performer": "Lebanon Hanover"},
               { "title": "True – Love Not", "performer": "Use Knife"},
               { "title": "Daydream Repeat", "performer": "Four Tet"},
-              { "title": "Highest Love", "performer": "Sulten + Shepard feat. Lanks"},
-              { "title": "Under The Surface", "performer": "Sulten + Shepard & Nathan NIcholson"},
+              { "title": "Highest Love (Extended Mix)", "performer": "Sulten + Shepard feat. Lanks"},
+              { "title": "Under The Surface (Extended Mix)", "performer": "Sulten + Shepard & Nathan NIcholson"},
               { "title": "Flimmern", "performer": "Messer"},
-              { "title": "Weltuntergang (Alles hört auf)", "performer": "Enno Bunger"}
+              { "title": "Weltuntergang (Alles hört auf)", "performer": "Enno Bunger"},
+              { "title": "Tejano Blue", "performer": "Cigarettes After Sex"}
             ]
           ]
         },
