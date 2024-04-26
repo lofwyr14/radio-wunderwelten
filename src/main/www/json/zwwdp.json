@@ -86145,6 +86145,161 @@
               }
             ]
           ]
+        },
+        {
+          "id": "17",
+          "date": "2024-04-25",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "One Way Glass",
+                "performer": "Trifle"
+              },
+              {
+                "time": "22:08",
+                "title": "Let's Take It From The Top",
+                "performer": "Dent May feat. Jimmy Whispers"
+              },
+              {
+                "time": "22:12",
+                "title": "We Are Gonna Make A Hit Record, Boy",
+                "performer": "The Pearlfishers"
+              },
+              {
+                "time": "22:15",
+                "title": "Sense",
+                "performer": "theCatherines"
+              },
+              {
+                "time": "22:18",
+                "title": "At The Jubilee",
+                "performer": "Yune"
+              },
+              {
+                "time": "22:22",
+                "title": "Private Revolution",
+                "performer": "World Party"
+              },
+              {
+                "time": "22:26",
+                "title": "Learning To Love A Band",
+                "performer": "Pinks and Purples The Reds"
+              },
+              {
+                "time": "22:30",
+                "title": "Rise Up Singing",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "22:32",
+                "title": "Stretching",
+                "performer": "Winona Forever"
+              },
+              {
+                "time": "22:37",
+                "title": "Moonbow",
+                "performer": "Circles Around The Sun & Mikaela Davis"
+              },
+              {
+                "time": "22:43",
+                "title": "Promises",
+                "performer": "Silvertwin"
+              },
+              {
+                "time": "22:47",
+                "title": "Forget",
+                "performer": "Moonpools"
+              },
+              {
+                "time": "22:51",
+                "title": "Around The Bend",
+                "performer": "The Haven Green"
+              },
+              {
+                "time": "22:56",
+                "title": "Fantasneeze",
+                "performer": "Bombay Bicycle Club feat. Matilda Mann"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Russian Hill",
+                "performer": "Jellyfish"
+              },
+              {
+                "time": "23:07",
+                "title": "Living The Dream You Left Behind",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "time": "23:09",
+                "title": "The Coming Of Spring",
+                "performer": "Olivier Rocabois"
+              },
+              {
+                "time": "23:15",
+                "title": "Buffalo Stance",
+                "performer": "James Elkington & Nathan Salsburg"
+              },
+              {
+                "time": "23:21",
+                "title": "The Meek",
+                "performer": "Max Eider feat. June Miles-Kingston"
+              },
+              {
+                "time": "23:24",
+                "title": "Deacon Blues",
+                "performer": "Bill Callahan & Bonnie \"Prince\" Billy feat. Bill MacKay"
+              },
+              {
+                "time": "23:32",
+                "title": "Lucid State",
+                "performer": "Sholto"
+              },
+              {
+                "time": "23:35",
+                "title": "Parasite",
+                "performer": "The Modern Jazz & Folk Ensemble feat. Kindelan"
+              },
+              {
+                "time": "23:39",
+                "title": "The Way Love Used To Be",
+                "performer": "The Kinks"
+              },
+              {
+                "time": "23:40",
+                "title": "Three From Two",
+                "performer": "Khruangbin"
+              },
+              {
+                "time": "23:44",
+                "title": "Feeling Mellow",
+                "performer": "Marker Starling"
+              },
+              {
+                "time": "23:47",
+                "title": "I Fall In Love Too Easily",
+                "performer": "Andrew Bird Trio"
+              },
+              {
+                "time": "23:52",
+                "title": "Life Is",
+                "performer": "Jessica Pratt"
+              },
+              {
+                "time": "23:55",
+                "title": "Over The Rainbow",
+                "performer": "Luca Nieri"
+              },
+              {
+                "time": "23:57",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
