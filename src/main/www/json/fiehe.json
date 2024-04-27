@@ -11947,6 +11947,7 @@
         {
           "id": "10",
           "date": "2024-03-10",
+          "checked": {"date": "2024-04-27", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Suspens (Dur Club Remix)", "performer": "La Securite"},
@@ -11967,19 +11968,19 @@
               { "title": "No More", "performer": "Inner Terrain"},
               { "title": "Guilty Pleasures", "performer": "Heron Flow"},
               { "title": "Zoom", "performer": "Machinedrum feat. Tinashe"},
-              { "title": "Period Point Blank", "performer": "Sabrina Bellaouel"},
+              { "title": "Period Point Blank (Edit)", "performer": "Sabrina Bellaouel"},
               { "title": "Pieces", "performer": "Jay 305 feat. Dom Kennedy, Hit Boy"},
               { "title": "In meiner Welt", "performer": "Honny & Kelmo"},
               { "title": "Parce Que J'ai Reve D'etre Riche", "performer": "Gwendoline"},
               { "title": "Ertrinken", "performer": "Gwen Dolyn"},
               { "title": "Shanti", "performer": "Syreeta"},
-              { "title": "Pouring Drums Into Your Soul", "performer": "Theus Mago & Dominik Marz"},
+              { "title": "Pouring Drums Into Your Soul (Extended Mix)", "performer": "Theus Mago & Dominik Marz"},
               { "title": "Strange World", "performer": "La Luz"}
             ],
             [
               { "time": "00:04", "title": "Thatched At Night", "performer": "Confz"},
               { "title": "Free Daff", "performer": "Potter Payper, Mozzy & Daff"},
-              { "title": "Dog Shit", "performer": "Emanuel Casablanca"},
+              { "title": "Dogshit", "performer": "Emanuel Casablanca"},
               { "title": "The Summer Of Hate", "performer": "Dandy Warhols"},
               { "title": "Wanting And Waiting", "performer": "The Black Crowes"},
               { "title": "Just Another Rainbow", "performer": "Liam Gallagher & John Squire"},
