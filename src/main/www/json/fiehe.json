@@ -12226,6 +12226,54 @@
               { "title": "Frau Sein (Werkstatt)", "performer": "Nichtseattle"}
             ]
           ]
+        },
+        {
+          "id": "16",
+          "date": "2024-04-21",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Wir rennen", "performer": "Luis Ake"},
+              { "title": "Techno Romance8", "performer": "Monaco"},
+              { "title": "DJ Friendly", "performer": "Elkka"},
+              { "title": "Losing Out", "performer": "Total Tommy"},
+              { "title": "Welcome Home (Several Definitions Remix)", "performer": "Boy Oh Boy"},
+              { "title": "Period Point Blank (Bernadette Remix)", "performer": "Sabrina Bellaouel"},
+              { "title": "Thought Park", "performer": "Songer"},
+              { "title": "Hypnotic", "performer": "Craig David"},
+              { "title": "Waiting For Stevie", "performer": "Pearl Jam"},
+              { "title": "Der Winter kam & ging ohne dich", "performer": "Nils Keppel"},
+              { "title": "Pinie", "performer": "Parra For Cuva feat. Orbit"},
+              { "title": "U2PIA", "performer": "Sherø"}
+            ],
+            [
+              { "time": "23:04", "title": "Webster Hall", "performer": "Bodega"},
+              { "title": "Final Summer", "performer": "Cloud Nothings"},
+              { "title": "Tennis Court", "performer": "Flawless Issues"},
+              { "title": "Springbox Remixes (Vox Mix)", "performer": "Matrix Vs Dilemma"},
+              { "title": "Product", "performer": "Mosaic"},
+              { "title": "Starbuster", "performer": "Fontaines D.C."},
+              { "title": "My Little Brother", "performer": "Art Brut"},
+              { "title": "Where Do You Wanna Go?", "performer": "Nothing Special"},
+              { "title": "Over & Over", "performer": "Jordan Nocturne feat. Ready In LED"},
+              { "title": "Insomnia", "performer": "Eli & Fur"},
+              { "title": "Duell der Letzten", "performer": "Tränen"}
+            ],
+            [
+              { "time": "00:04", "title": "Augn", "performer": "AUGN"},
+              { "title": "Good Luck (IYRE Remix)", "performer": "Basement Jaxx"},
+              { "title": "Exceptional", "performer": "Cadence Weapon feat. Jaques Greene"},
+              { "title": "Organic (Om Unit Remix)", "performer": "Nadia Struiwigh"},
+              { "title": "Citrus", "performer": "Om Unit"},
+              { "title": "A City´s Never", "performer": "Bullion"},
+              { "title": "Hope", "performer": "Vampire Weekend"},
+              { "title": "86Sentra", "performer": "NxWorries"},
+              { "title": "Rhoenians Death", "performer": "Lawn Chair"},
+              { "title": "Emily G", "performer": "Courting"},
+              { "title": "Baethoven", "performer": "Ekko Astral"},
+              { "title": "Ich will sparen", "performer": "Sorry3000"},
+              { "title": "Encuentros En El Fin Del Mundo", "performer": "Nicoba"}
+            ]
+          ]
         }
       ]
     }
