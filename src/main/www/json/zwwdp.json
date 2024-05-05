@@ -86149,6 +86149,10 @@
         {
           "id": "17",
           "date": "2024-04-25",
+          "checked": {
+            "date": "2024-05-04",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -86304,6 +86308,10 @@
         {
           "id": "18",
           "date": "2024-05-02",
+          "checked": {
+            "date": "2024-05-05",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -86420,7 +86428,7 @@
               },
               {
                 "time": "23:33",
-                "title": "Betterlove",
+                "title": "Betterlove (Acoustic)",
                 "performer": "Lewis Taylor"
               },
               {
