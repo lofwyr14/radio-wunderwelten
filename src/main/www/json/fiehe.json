@@ -11995,6 +11995,7 @@
         {
           "id": "11",
           "date": "2024-03-17",
+          "checked": {"date": "2024-05-09", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Dream Machine", "performer": "Pressa X Drumskull"},
@@ -12020,15 +12021,15 @@
               { "title": "Hysteresis", "performer": "Yeahrs"},
               { "title": "Bitter Melon", "performer": "Cola"},
               { "title": "Target", "performer": "Rui Gabriel feat. Kate Teague"},
-              { "title": "Portals", "performer": "Christian Löffler feat. Mogli"},
-              { "title": "Nights", "performer": "Sully & Salo"}
+              { "title": "Portals (Extended Club Version)", "performer": "Christian Löffler feat. Mogli"},
+              { "title": "Nights (Vocal Mix)", "performer": "Sully & Salo"}
             ],
             [
               { "time": "00:04", "title": "Lights", "performer": "Disfreq"},
               { "title": "Chroma 002 L.A.V.A .", "performer": "B.D.B (Bicep + Benjamin Damage)"},
               { "title": "Vallinote", "performer": "DJ Agitated"},
               { "title": "Smoke Break", "performer": "Heavee feat. Homesick & Takuja Nakamara"},
-              { "title": "Air Drumming", "performer": "Wild Pink"},
+              { "title": "Air Drumming Fix You", "performer": "Wild Pink"},
               { "title": "Don´t Worry Baby", "performer": "Boeckner"},
               { "title": "Rare", "performer": "Bullion"},
               { "title": "Diamonds, Rhinestones And Hard Rain", "performer": "Les Big Byrd"},
