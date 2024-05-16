@@ -12323,6 +12323,50 @@
               { "title": "Lockdown Blues", "performer": "Erlend Øye & La Comitiva"}
             ]
           ]
+        },
+        {
+          "id": "18",
+          "date": "2024-05-05",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Interstellar Peace (The Last Stance)", "performer": "Kamasi Washington"},
+              { "title": "Shara", "performer": "Intense feat. MC Conrad"},
+              { "title": "The Western (PFM) Live In Japan", "performer": "LTJ Bukem & MC Conrad"},
+              { "title": "Remember (Circadian Remix)", "performer": "Friction"},
+              { "title": "Hold Me", "performer": "Lumi"},
+              { "title": "Detroit Love", "performer": "Binary State & Nookie"},
+              { "title": "Kann Nicht Tanzen", "performer": "VFL Jesus feat. Lily"},
+              { "title": "Sunshine", "performer": "Luttrell"},
+              { "title": "If You And I Are Not Wise", "performer": "The Lemon Twigs"}
+            ],
+            [
+              { "time": "23:04", "title": "Asha The First", "performer": "Kamasi Washington ft. Thundercat"},
+              { "title": "Damage", "performer": "Chris Cohen"},
+              { "title": "We Are The World", "performer": "Max Graef"},
+              { "title": "These Days (Interlude)", "performer": "Binary State & Nookie"},
+              { "title": "Inhibition", "performer": "Imo - Lu"},
+              { "title": "Di Atas (Sattle Remix)", "performer": "Melati ESP"},
+              { "title": "Wasted", "performer": "YOBS"},
+              { "title": "Melancholie", "performer": "Mamore feat. Gwen Dolyn"},
+              { "title": "Summertime Tiger", "performer": "Rui Gabriel"},
+              { "title": "She´s About A Mover", "performer": "The Bollock Brothers"},
+              { "title": "A Bar Song (Tipsy)", "performer": "Shaboozey"},
+              { "title": "America", "performer": "Charley Crockett"}
+            ],
+            [
+              { "time": "00:04", "title": "Taurus", "performer": "DJ Holographic"},
+              { "title": "Scatty Brain", "performer": "Dharma"},
+              { "title": "Fool Me", "performer": "Farsight"},
+              { "title": "New Road", "performer": "Hodge"},
+              { "title": "Unpredictable", "performer": "Porij"},
+              { "title": "The Hardest Part", "performer": "Washed Out"},
+              { "title": "Hammer", "performer": "Hana Vu"},
+              { "title": "Liberty Print", "performer": "Camera Obscura"},
+              { "title": "Love Me Truly", "performer": "Florence Besch"},
+              { "title": "Jump Cut", "performer": "Corridor"},
+              { "title": "The End Of Air", "performer": "Prefuse73"}
+            ]
+          ]
         }
       ]
     }
