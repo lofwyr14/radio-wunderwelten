@@ -12276,6 +12276,53 @@
               { "title": "Encuentros En El Fin Del Mundo", "performer": "Nicoba"}
             ]
           ]
+        },
+        {
+          "id": "17",
+          "date": "2024-04-28",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Sarus", "performer": "Lauren Ritter"},
+              { "title": "The Road To Love (Session Victim Remix)", "performer": "Sweatson Klank"},
+              { "title": "Time", "performer": "Skepta, Jammer, Deki Alem, A$AP Nast"},
+              { "title": "$10 Cowboy", "performer": "Charley Crockett"},
+              { "title": "Sun", "performer": "Dolphin Love"},
+              { "title": "Trespass", "performer": "El-B feat. Ben Vince"},
+              { "title": "Turn The Page", "performer": "Overmono"},
+              { "title": "Drift", "performer": "Yaw Evans"},
+              { "title": "Parisienne", "performer": "Jolle"},
+              { "title": "Gas Me Up", "performer": "Skepta"},
+              { "title": "Work", "performer": "Fat White Family"}
+            ],
+            [
+              { "time": "23:04", "title": "Mountain", "performer": "Meagre Martin"},
+              { "title": "Care", "performer": "Hana Vu"},
+              { "title": "My Golden Years", "performer": "The Lemon Twigs"},
+              { "title": "Sports (Is Good For You)", "performer": "Max Graef"},
+              { "title": "Out Of Thoughts", "performer": "Viikatory"},
+              { "title": "Antigone", "performer": "Lauren Ritter"},
+              { "title": "Voyeur", "performer": "Josh Caffé"},
+              { "title": "Beine Spüren", "performer": "Benzii"},
+              { "title": "Black Hanz", "performer": "The Moonlandingz"},
+              { "title": "Bullet Of Dignity", "performer": "Fat White Family"},
+              { "title": "The Schlager Hitparade", "performer": "Pet Shop Boys"},
+              { "title": "Dorothy Says", "performer": "A Certain Ratio"}
+            ],
+            [
+              { "time": "00:04", "title": "Heile Welt", "performer": "Marsimoto"},
+              { "title": "Roused", "performer": "Christian Löffler feat. Malou"},
+              { "title": "WUH (Wisdom Water Remix)", "performer": "Benyayer"},
+              { "title": "The Bass", "performer": "Kellie Allen"},
+              { "title": "BMO Tune", "performer": "Dharma"},
+              { "title": "94Rinse Out", "performer": "Duran Duran Duran"},
+              { "title": "World Train", "performer": "Bullion feat. Charlotte Adigery"},
+              { "title": "Violent Times", "performer": "St. Vincent"},
+              { "title": "Lucky Star", "performer": "Marek Johnson"},
+              { "title": "Steel", "performer": "Marek Johnson"},
+              { "title": "Gay Angels", "performer": "Loren Kramar"},
+              { "title": "Lockdown Blues", "performer": "Erlend Øye & La Comitiva"}
+            ]
+          ]
         }
       ]
     }
