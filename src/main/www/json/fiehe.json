@@ -12091,16 +12091,17 @@
         {
           "id": "13",
           "date": "2024-03-31",
+          "checked": {"date": "2024-05-21", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Total Freefall", "performer": "Hydra Fashion Week"},
               { "title": "Clear", "performer": "DAIISTAR"},
               { "title": "Data Transfer 405", "performer": "Kwake"},
-              { "title": "Sweet Escape", "performer": "Louis Millne"},
+              { "title": "Sweet Escape (Extended Mix)", "performer": "Louis Millne"},
               { "title": "Schnell unterwegs", "performer": "Hinterlandgang"},
               { "title": "Freak 2 Freak (Introspekt Remix) ", "performer": "Sicaria"},
               { "title": "GTA", "performer": "Future & Metro Boomin"},
-              { "title": "Softskills", "performer": "Sirkus"},
+              { "title": "Soft Skills", "performer": "Sirkus"},
               { "title": "Perfetct Storm", "performer": "Jane Weaver"},
               { "title": "Deadly Weapons", "performer": "Minimal Compact"},
               { "title": "Negative Drive", "performer": "The KVB"},
