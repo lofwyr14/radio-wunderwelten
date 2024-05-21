@@ -12368,6 +12368,55 @@
               { "title": "The End Of Air", "performer": "Prefuse73"}
             ]
           ]
+        },
+        {
+          "id": "19",
+          "date": "2024-05-12",
+          "songs": [
+            [
+              { "time": "22:04", "title": "C+F", "performer": "Sam Prekop"},
+              { "title": "Three Drums", "performer": "Four Tet"},
+              { "title": "Rapt Finis", "performer": "I. Jordan"},
+              { "title": "These Days (Interlude)", "performer": "Binary State & Nookie"},
+              { "title": "Subway Straps", "performer": "Hior Chronik"},
+              { "title": "We Are The World", "performer": "Max Graef"},
+              { "title": "Trespass", "performer": "El-B & Ben Vince"},
+              { "title": "Haze", "performer": "Emika"},
+              { "title": "GAS", "performer": "Biicla"},
+              { "title": "Static Apparitions", "performer": "Michael Hamilton"},
+              { "title": "Scentless Apprientice", "performer": "Nirvana"},
+              { "title": "Mustang", "performer": "Kings Of Leon"}
+            ],
+            [
+              { "time": "23:04", "title": "Happy For You", "performer": "Dua Lipa"},
+              { "title": "Pulling Quotes", "performer": "Cola"},
+              { "title": "Hit Song", "performer": "Radium Dolls"},
+              { "title": "Sunshine", "performer": "Luttrell"},
+              { "title": "X-Hale", "performer": "Swoose"},
+              { "title": "Butterlick", "performer": "I. Jordan feat. Sister Zo"},
+              { "title": "The Code", "performer": "Nemo"},
+              { "title": "All Around Los Angeles", "performer": "Yaya Bey"},
+              { "title": "Sir Princess Bad Bitch", "performer": "Yaya Bey"},
+              { "title": "Days Like This", "performer": "MRCY"},
+              { "title": "Technology", "performer": "Die Eitelkeit"}
+            ],
+            [
+              { "time": "00:04", "title": "Mood Ring", "performer": "Dehd"},
+              { "title": "Stomp Your Feet", "performer": "Rokar"},
+              { "title": "In Love (Garage Mix)", "performer": "PFM"},
+              { "title": "Off The Spektrum", "performer": "Damu"},
+              { "title": "Time Glide", "performer": "Kuedo"},
+              { "title": "First Born Seconds", "performer": "Lone"},
+              { "title": "Dive Like A Dove", "performer": "caro♡"},
+              { "title": "Harmony", "performer": "Emika"},
+              { "title": "Seven", "performer": "Koreless"},
+              { "title": "Down Bad", "performer": "Tatyana"},
+              { "title": "Inhibitions", "performer": "Bored At My Grandmas House"},
+              { "title": "Tale A Bite", "performer": "Beabadoobee"},
+              { "title": "Butcher´s Bin", "performer": "Big Special"},
+              { "title": "Rock It", "performer": "Body Sync"}
+            ]
+          ]
         }
       ]
     }
