@@ -12417,6 +12417,51 @@
               { "title": "Rock It", "performer": "Body Sync"}
             ]
           ]
+        },
+        {
+          "id": "20",
+          "date": "2024-05-19",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Eins Null Eins Eins Null", "performer": "Fred Und Luna"},
+              { "title": "7 Degrees Of Despondent", "performer": "I. Jordan"},
+              { "title": "Proto Spoon", "performer": "Dusky"},
+              { "title": "Tranz", "performer": "Suite Simone"},
+              { "title": "Millions Of Heartbeats", "performer": "Kate Nash"},
+              { "title": "Genius Of LOve", "performer": "Toro Y Moi feat. Brijean"},
+              { "title": "Workin´ On It", "performer": "Brijean"},
+              { "title": "Right Here", "performer": "Elkka"},
+              { "title": "Weary", "performer": "Machinedrum feat. Mick Jenkins"},
+              { "title": "Airplanes", "performer": "Busty And The Bass feat. Cadence Weapon"},
+              { "title": "Nurture", "performer": "Youbet"},
+              { "title": "Hesher In The Rain", "performer": "Blitzen Trapper"}
+            ],
+            [
+              { "time": "23:04", "title": "Joker", "performer": "Porches"},
+              { "title": "Dead In The Eye", "performer": "P Money & Whiney feat. Example"},
+              { "title": "Remember (Circadian Remix)", "performer": "Friction"},
+              { "title": "Crockett´s Theme", "performer": "Nadia Struiwigh"},
+              { "title": "Glass Eye", "performer": "Metz"},
+              { "title": "KennIchNich", "performer": "Joseph Boys"},
+              { "title": "Last Waltz", "performer": "J. Bernardt"},
+              { "title": "A Different Light", "performer": "Trentemøller"},
+              { "title": "Good Luck With Your Secret", "performer": "La Luz"},
+              { "title": "Wide Array", "performer": "Pulse Park"},
+              { "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"}
+            ],
+            [
+              { "time": "00:04", "title": "Whispering Love", "performer": "Beth Gibbons"},
+              { "title": "The Road Of Golden Dust", "performer": "Espers"},
+              { "title": "Floating On A Moment", "performer": "Beth Gibbons"},
+              { "title": "White Bird", "performer": "It´s A Beautiful Day"},
+              { "title": "Reaching Out", "performer": "Beth Gibbons"},
+              { "title": "Falling Into Place", "performer": "The Bony King Of Nowhere"},
+              { "title": "May Ninth", "performer": "Khruangbin"},
+              { "title": "Thank You For Sending Me An Angel", "performer": "Blondshell"},
+              { "title": "6 Lofty Ash", "performer": "Formal Sppeedwear"},
+              { "title": "Bryllyant", "performer": "Boytronic"}
+            ]
+          ]
         }
       ]
     }
