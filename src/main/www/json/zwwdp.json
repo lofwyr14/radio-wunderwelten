@@ -86776,6 +86776,126 @@
               }
             ]
           ]
+        },
+        {
+          "id": "22",
+          "date": "2024-05-30",
+          "songs": [
+            [
+              {
+                "time": "22:08",
+                "title": "All Across The World",
+                "performer": "Rachel Love"
+              },
+              {
+                "time": "22:12",
+                "title": "New World",
+                "performer": "Tindersticks"
+              },
+              {
+                "time": "22:16",
+                "title": "Cups & Laps",
+                "performer": "Halo"
+              },
+              {
+                "time": "22:34",
+                "title": "Orange October",
+                "performer": "Joe Ghatt"
+              },
+              {
+                "time": "22:39",
+                "title": "In Green We Dream",
+                "performer": "Parlor Greens"
+              },
+              {
+                "time": "22:42",
+                "title": "Birthday Card",
+                "performer": "The Young Sinclairs"
+              },
+              {
+                "time": "22:47",
+                "title": "The Crowd",
+                "performer": "Swim Surreal feat. Zero 7"
+              },
+              {
+                "time": "22:53",
+                "title": "White Lies, Black Skies",
+                "performer": "Dead Star Talk"
+              },
+              {
+                "time": "22:57",
+                "title": "Walking In The Rain",
+                "performer": "The Rugged Nuggets"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Until You Come Back To Me",
+                "performer": "Aretha Franklin"
+              },
+              {
+                "time": "23:08",
+                "title": "Bend",
+                "performer": "Jon Muq"
+              },
+              {
+                "time": "23:13",
+                "title": "Moon Song",
+                "performer": "Almost Twins"
+              },
+              {
+                "time": "23:17",
+                "title": "The Day",
+                "performer": "Communicant"
+              },
+              {
+                "time": "23:22",
+                "title": "Higher Road",
+                "performer": "Bremer/McCoy"
+              },
+              {
+                "time": "23:25",
+                "title": "Beautiful Heartbreaker",
+                "performer": "Malva"
+              },
+              {
+                "time": "23:30",
+                "title": "Mood To Make Love",
+                "performer": "Rosie Lowe"
+              },
+              {
+                "time": "23:34",
+                "title": "Infinite Dark",
+                "performer": "Ghost Funk Orchestra"
+              },
+              {
+                "time": "23:41",
+                "title": "A Moment To Share",
+                "performer": "The Association"
+              },
+              {
+                "time": "23:44",
+                "title": "Barrio Hustle",
+                "performer": "Hermanos Gutierrez"
+              },
+              {
+                "time": "23:51",
+                "title": "Left Bathroom Sink",
+                "performer": "J. Bernardt"
+              },
+              {
+                "time": "23:57",
+                "title": "The Dream You Never Had",
+                "performer": "Tuys"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
