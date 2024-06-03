@@ -12463,6 +12463,56 @@
               { "title": "Bryllyant", "performer": "Boytronic"}
             ]
           ]
+        },
+        {
+          "id": "21",
+          "date": "2024-05-26",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Control", "performer": "Tatyana feat. Dave Okumu"},
+              { "title": "Spirit (Spiritual Dub)", "performer": "Last Magpie"},
+              { "title": "Sanctuary (Erobique Remix)", "performer": "Anja Schneider feat. Stereo MCs"},
+              { "title": "Hello Hallelujah", "performer": "Blitzen Trapper"},
+              { "title": "Gemini", "performer": "DJ Holograpöhic"},
+              { "title": "Pulling Quotes", "performer": "Cola"},
+              { "title": "Haircut", "performer": "Finom"},
+              { "title": "Stay", "performer": "dg."},
+              { "title": "Soldier Flow", "performer": "Fear-E Presents Breakbeat Energy"},
+              { "title": "Raining On Your Pillow", "performer": "DIIV"},
+              { "title": "Kiss Me In The Morning", "performer": "Pauls Jets"},
+              { "title": "This Can´t Be Eeverything", "performer": "Phantoms"}
+            ],
+            [
+              { "time": "23:04", "title": "Liebesformular", "performer": "International Music"},
+              { "title": "Saving Flowers ", "performer": "Salute with Rina Sawayama"},
+              { "title": "Infatuation (Otik Remix)", "performer": "Greg"},
+              { "title": "((star key))", "performer": "Emika"},
+              { "title": "Star", "performer": "Machinedrum feat. Mono/Poly & Tanerelle"},
+              { "title": "Zoom", "performer": "Machinedrum feat. Tinashe"},
+              { "title": "Respek", "performer": "Machinedrum feat. Topaz Jones & Ezri"},
+              { "title": "Ilikeyou", "performer": "Machinedrum feat. Duckwrth"},
+              { "title": "Looking For Diversion (Lenzman & Duskee Remix)", "performer": "Technimatic feat. Lucy Kitchen"},
+              { "title": "Mayday Call", "performer": "J. Bernhardt"},
+              { "title": "Happy Endings", "performer": "Pulp"},
+              { "title": "Close Your Eyes", "performer": "La Luz"},
+              { "title": "Eternal", "performer": "Priori feat. Adam Feingold"}
+            ],
+            [
+              { "time": "00:04", "title": "Wake", "performer": "Priori feat. James K"},
+              { "title": "Golden Eyes And Tears", "performer": "Eli & Fur"},
+              { "title": "In Amber", "performer": "DIIV"},
+              { "title": "Donut Of Darkness", "performer": "Florence Besch"},
+              { "title": "Offworld Paddy", "performer": "Maroki"},
+              { "title": "Barrier Rhythms", "performer": "Hess & Harrison"},
+              { "title": "Turning My Head (2024 Rework)", "performer": "Anja Schneider"},
+              { "title": "Lobster Telephone", "performer": "Peggy Gou"},
+              { "title": "Kosmisch Nummer Drie", "performer": "E-Freq "},
+              { "title": "X-Hale", "performer": "Swoose"},
+              { "title": "Ebeneezer Goode", "performer": "Shamen"},
+              { "title": "Automatic", "performer": "Roosevelt"},
+              { "title": "Tastes Like Metal", "performer": "Man Man"}
+            ]
+          ]
         }
       ]
     }
