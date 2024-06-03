@@ -12138,9 +12138,10 @@
         {
           "id": "14",
           "date": "2024-04-07",
+          "checked": {"date": "2024-06-03", "user": "jg"},
           "songs": [
             [
-              { "time": "22:04", "title": "Our Roots (Began In Africa)", "performer": "Pharoa Sanders"},
+              { "time": "22:04", "title": "Our Roots (Began In Africa)", "performer": "Pharoah Sanders"},
               { "title": "Come Together", "performer": "Sinkane"},
               { "title": "Suspended Space", "performer": "LTJ Bukem"},
               { "title": "Playa Mental", "performer": "Goodboi"},
@@ -12163,16 +12164,16 @@
               { "title": "Nothing Lasts", "performer": "Bnny"},
               { "title": "Sometimes Always", "performer": "The Jesus And Mary Chain feat. Hope Sandoval"},
               { "title": "Deep End", "performer": "The KVB"},
-              { "title": "Camellia", "performer": "Aldonna & Dusky"}
+              { "title": "Camellia (Extended Mix)", "performer": "Aldonna & Dusky"}
             ],
             [
               { "time": "00:04", "title": "Chauvi", "performer": "Iedereen"},
               { "title": "Baron´s Claw", "performer": "The Libertines"},
               { "title": "Emotional Components", "performer": "Jane Weaver"},
               { "title": "Makeshift Tourniquet", "performer": "Vegyn"},
-              { "title": "Dance With Me (Maceo Plex Remix)", "performer": "Mack Loenz"},
+              { "title": "Dance With Me (Maceo Plex Club Remix)", "performer": "Mack Loenz"},
               { "title": "Just An Illusion", "performer": "Hurricane #1"},
-              { "title": "", "performer": "Ride"},
+              { "title": "Peace Sign", "performer": "Ride"},
               { "title": "Workin´ On It", "performer": "Brijean"},
               { "title": "Candy And Her Friends", "performer": "The Black Keys feat. Lil Noid"},
               { "title": "Hope", "performer": "Vampire Weekend"},
@@ -12428,7 +12429,7 @@
               { "title": "Proto Spoon", "performer": "Dusky"},
               { "title": "Tranz", "performer": "Suite Simone"},
               { "title": "Millions Of Heartbeats", "performer": "Kate Nash"},
-              { "title": "Genius Of LOve", "performer": "Toro Y Moi feat. Brijean"},
+              { "title": "Genius Of Love", "performer": "Toro Y Moi feat. Brijean"},
               { "title": "Workin´ On It", "performer": "Brijean"},
               { "title": "Right Here", "performer": "Elkka"},
               { "title": "Weary", "performer": "Machinedrum feat. Mick Jenkins"},
