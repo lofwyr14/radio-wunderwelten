@@ -12195,6 +12195,7 @@
               { "title": "So Tell Me", "performer": "Nia Archives"},
               { "title": "Hey Hey Hey", "performer": "Anaïs & Toddla T & Nadia Rose feat. LEVi"},
               { "title": "Product", "performer": "Mosaic"},
+              { "title": "Vogue 1990 (Original Mix)", "performer": "Mz Worthy"},
               { "title": "Crazy Times", "performer": "ID ID"},
               { "title": "A Bar Song (Tipsy)", "performer": "Shaboozey"},
               { "title": "Don´t Let Me Go", "performer": "The Black Keys"}
@@ -12210,24 +12211,24 @@
               { "title": "The New Stuff", "performer": "Bad Bad Hats"},
               { "title": "You´re Gonna Miss Me", "performer": "The Bollock Brothers"},
               { "title": "Wreck My Flow", "performer": "The Dirtbombs"},
-              { "title": "Cee Parkin", "performer": "Moat + Scuba"},
-              { "title": "Home", "performer": "Tom Ferry + Kelly Leigh"},
+              { "title": "Cee Parkin", "performer": "mOat + Scuba"},
+              { "title": "Home (Extended Mix)", "performer": "Tom Ferry + Kelly Leigh"},
               { "title": "Kiki (What Would Drizzy Say)", "performer": "D-Block Europe"}
             ],
             [
-              { "time": "00:04", "title": "Softskills", "performer": "Sirkus"},
+              { "time": "00:04", "title": "Soft Skills", "performer": "Sirkus"},
               { "title": "My Fun", "performer": "Suki Waterhouse"},
               { "title": "An Embroidery", "performer": "Clarissa Connelly"},
               { "title": "Slip Away", "performer": "Six Organs Of Admittance"},
               { "title": "Marvellous Clouds", "performer": "Cosmo Sheldrake"},
-              { "title": "Nothing Ever Changes", "performer": "Vintage Culture & Magnus"},
+              { "title": "Nothing Ever Changes (Extended Mix)", "performer": "Vintage Culture & Magnus"},
               { "title": "When Everything Was New", "performer": "Christian Löffler"},
               { "title": "Like It Tends To Do", "performer": "Lizzy McAlpine"},
               { "title": "Turn To Stone", "performer": "Clarissa Connelly"},
               { "title": "Tenderfoot", "performer": "Clarissa Connelly"},
               { "title": "Crucifer", "performer": "Clarissa Connelly"},
               { "title": "Reiner Wein", "performer": "Gwen Dolyn"},
-              { "title": "Frau Sein (Werkstatt)", "performer": "Nichtseattle"}
+              { "title": "Frau sein (Werkstatt)", "performer": "Nichtseattle"}
             ]
           ]
         },
