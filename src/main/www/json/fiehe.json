@@ -12184,6 +12184,7 @@
         {
           "id": "15",
           "date": "2024-04-14",
+          "checked": {"date": "2024-06-06", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Your Skin", "performer": "Elkka"},
@@ -12207,7 +12208,7 @@
               { "title": "Big Ground", "performer": "Folly Group"},
               { "title": "G.N.D. Deity", "performer": "Bodega"},
               { "title": "Sometimes", "performer": "Mannequin Pussy"},
-              { "title": "Wolf Und Bär", "performer": "Augn"},
+              { "title": "Wolf und Bär", "performer": "Augn"},
               { "title": "The New Stuff", "performer": "Bad Bad Hats"},
               { "title": "You´re Gonna Miss Me", "performer": "The Bollock Brothers"},
               { "title": "Wreck My Flow", "performer": "The Dirtbombs"},
@@ -12235,10 +12236,11 @@
         {
           "id": "16",
           "date": "2024-04-21",
+          "checked": {"date": "2024-06-07", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Wir rennen", "performer": "Luis Ake"},
-              { "title": "Techno Romance8", "performer": "Monaco"},
+              { "title": "Techno Romance", "performer": "Monaco"},
               { "title": "DJ Friendly", "performer": "Elkka"},
               { "title": "Losing Out", "performer": "Total Tommy"},
               { "title": "Welcome Home (Several Definitions Remix)", "performer": "Boy Oh Boy"},
@@ -12258,14 +12260,14 @@
               { "title": "Product", "performer": "Mosaic"},
               { "title": "Starbuster", "performer": "Fontaines D.C."},
               { "title": "My Little Brother", "performer": "Art Brut"},
-              { "title": "Where Do You Wanna Go?", "performer": "Nothing Special"},
+              { "title": "Where Do You Wanna Go?", "performer": "Nothingspecial"},
               { "title": "Over & Over", "performer": "Jordan Nocturne feat. Ready In LED"},
               { "title": "Insomnia", "performer": "Eli & Fur"},
-              { "title": "Duell der Letzten", "performer": "Tränen"}
+              { "title": "Duell der Letzten", "performer": "Tränen"},
+              { "title": "Augn", "performer": "AUGN"}
             ],
             [
-              { "time": "00:04", "title": "Augn", "performer": "AUGN"},
-              { "title": "Good Luck (IYRE Remix)", "performer": "Basement Jaxx"},
+              { "time": "00:06", "title": "Good Luck (IYRE Remix)", "performer": "Basement Jaxx"},
               { "title": "Exceptional", "performer": "Cadence Weapon feat. Jaques Greene"},
               { "title": "Organic (Om Unit Remix)", "performer": "Nadia Struiwigh"},
               { "title": "Citrus", "performer": "Om Unit"},
