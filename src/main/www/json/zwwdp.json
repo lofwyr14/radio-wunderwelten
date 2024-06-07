@@ -86935,6 +86935,156 @@
               }
             ]
           ]
+        },
+        {
+          "id": "23",
+          "date": "2024-06-06",
+          "songs": [
+            [
+              {
+                "time": "22:05",
+                "title": "Slipping Away",
+                "performer": "Julian Dawson And The Flood"
+              },
+              {
+                "time": "22:08",
+                "title": "You're The First, The Last, My Everything",
+                "performer": "Nancy Wallace"
+              },
+              {
+                "time": "22:11",
+                "title": "Sweet Smile",
+                "performer": "Eels"
+              },
+              {
+                "time": "22:14",
+                "title": "Ship Of Fools",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "22:18",
+                "title": "A Glimpse Of You",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "22:21",
+                "title": "Any Day Now",
+                "performer": "Kate Bollinger"
+              },
+              {
+                "time": "22:25",
+                "title": "This Shiny Kind Of You",
+                "performer": "Peder feat. Janne Schra"
+              },
+              {
+                "time": "22:30",
+                "title": "Dreamers In A Dreamless World",
+                "performer": "The Haven Green"
+              },
+              {
+                "time": "22:35",
+                "title": "No Problems",
+                "performer": "Ginger Root"
+              },
+              {
+                "time": "22:39",
+                "title": "Sunever",
+                "performer": "Chris Cohen"
+              },
+              {
+                "time": "22:41",
+                "title": "Float",
+                "performer": "The Midnight Greetings"
+              },
+              {
+                "time": "22:46",
+                "title": "Cryptoad",
+                "performer": "Man Man"
+              },
+              {
+                "time": "22:54",
+                "title": "Slow Despair",
+                "performer": "Dumbo Tracks feat. Marker Starling"
+              },
+              {
+                "time": "22:57",
+                "title": "The Endless Summer",
+                "performer": "Orange Crate Art"
+              }
+            ],
+            [
+              {
+                "time": "23:05",
+                "title": "Leviathan",
+                "performer": "The Young Sinclairs"
+              },
+              {
+                "time": "23:08",
+                "title": "Bmpd",
+                "performer": "Smooth Reunion"
+              },
+              {
+                "time": "23:17",
+                "title": "Afternoon Tune",
+                "performer": "De-Phazz"
+              },
+              {
+                "time": "23:21",
+                "title": "All Across The World",
+                "performer": "Rachel Love"
+              },
+              {
+                "time": "23:25",
+                "title": "Parasite",
+                "performer": "The Modern Jazz & Folk Ensemble feat. Kindelan"
+              },
+              {
+                "time": "23:30",
+                "title": "My Ideal",
+                "performer": "Andrew Bird Trio"
+              },
+              {
+                "time": "23:35",
+                "title": "By Hook Or By Crook",
+                "performer": "Jessica Pratt"
+              },
+              {
+                "time": "23:38",
+                "title": "Round Midnight",
+                "performer": "Nighthawks"
+              },
+              {
+                "time": "23:43",
+                "title": "You Can Wear A Jacket Or A Shirt",
+                "performer": "Bibi Club"
+              },
+              {
+                "time": "23:46",
+                "title": "The Stranger",
+                "performer": "Lambert"
+              },
+              {
+                "time": "23:49",
+                "title": "I Woke Up",
+                "performer": "Paul Weller"
+              },
+              {
+                "time": "23:53",
+                "title": "She",
+                "performer": "Elvis Costello"
+              },
+              {
+                "time": "23:56",
+                "title": "Inside Minds",
+                "performer": "Resavoir"
+              },
+              {
+                "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
