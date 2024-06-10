@@ -12516,6 +12516,52 @@
               { "title": "Tastes Like Metal", "performer": "Man Man"}
             ]
           ]
+        },
+        {
+          "id": "22",
+          "date": "2024-06-02",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Close", "performer": "Because Of Art feat. Ayah Marar"},
+              { "title": "Forever Anyway (True Yorker Remix)", "performer": "John Barera"},
+              { "title": "Freedom Dance", "performer": "Alinka"},
+              { "title": "Lesbisch", "performer": "Ebow"},
+              { "title": "In My Dreams", "performer": "Habibi"},
+              { "title": "Flash", "performer": "Bart Van Rijn"},
+              { "title": "Wish Me Away", "performer": "Gift"},
+              { "title": "Princes", "performer": "Gang Gang Dance feat. Tinchy Stryder"},
+              { "title": "Gas Me Up", "performer": "Skepta"},
+              { "title": "New Being", "performer": "Binary State"},
+              { "title": "Fantasy", "performer": "Emily Nash"}
+            ],
+            [
+              { "time": "23:04", "title": "Wir rennen", "performer": "Luis Ake"},
+              { "title": "Round N Round", "performer": "I. Jordan"},
+              { "title": "Wie Du Mich Mochtest", "performer": "Mariybu"},
+              { "title": "Goodbye, Arrivederci", "performer": "Roy Bianco & Die Abbrunzati Boys"},
+              { "title": "Church Of Nashville", "performer": "Rui Gabriel"},
+              { "title": "Bad Indian", "performer": "Dead Pioneers"},
+              { "title": "FKA", "performer": "Jools"},
+              { "title": "Pov", "performer": "Habibi"},
+              { "title": "From Outside A Window Sill", "performer": "Crumb"},
+              { "title": "Open Door (Jonathan Kaspar Remix)", "performer": "Catz ´n Dogz ft. Cloud Boat"},
+              { "title": "Controller", "performer": "Communicant"}
+            ],
+            [
+              { "time": "00:04", "title": "The Real Thing", "performer": "The Detroit Cobras"},
+              { "title": "Wreck My Flow", "performer": "The Dirtbombs"},
+              { "title": "Pack Your Bags", "performer": "Man Man"},
+              { "title": "All I Ever Want", "performer": "Outrage feat. Ayah Marar"},
+              { "title": "Brain Rays", "performer": "Shadow Child & DJ Haus"},
+              { "title": "Spark It", "performer": "Hoax feat. PVC"},
+              { "title": "Oracle9", "performer": "Machinedrum feat. Aja Monet"},
+              { "title": "Love Hexagon", "performer": "Ardalan"},
+              { "title": "Day 2000 AWake", "performer": "Amanda Bergman"},
+              { "title": "A Different Light", "performer": "Trentemøller"},
+              { "title": "The Mattress", "performer": "King Hannah"},
+              { "title": "Hoodie", "performer": "Lady Sovereign"}
+            ]
+          ]
         }
       ]
     }
