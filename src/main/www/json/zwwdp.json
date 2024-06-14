@@ -87027,7 +87027,6 @@
                 "time": "23:14",
                 "title": "Move Over Darling (2024 Mix)",
                 "performer": "Julian Dawson"
-             ,
               },
               {
                 "time": "23:17",
@@ -87086,6 +87085,130 @@
               },
               {
                 "time": "23:59",
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "24",
+          "date": "2024-06-13",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Pickepackevoll",
+                "performer": "The Vals"
+              },
+              {
+                "title": "Eanie Meany (Fatboy Slim Remix - Radio Edit)",
+                "performer": "Jim Noir"
+              },
+              {
+                "title": "Not The Only Game In Town",
+                "performer": "The Blow Monkeys"
+              },
+              {
+                "title": "Poison Arrow",
+                "performer": "ABC"
+              },
+              {
+                "title": "Feelgood By Numbers",
+                "performer": "The Go! Team"
+              },
+              {
+                "title": "Cake",
+                "performer": "Yune"
+              },
+              {
+                "title": "Trust Me (New Mastering)",
+                "performer": "Goldstoned"
+              },
+              {
+                "title": "That´s What She Said",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "Träume",
+                "performer": "Françoise Hardy"
+              },
+              {
+                "title": "Borderlands",
+                "performer": "The Milk"
+              },
+              {
+                "title": "Flying Away From Home",
+                "performer": "Jon Muq"
+              },
+              {
+                "title": "Summer Clothes",
+                "performer": "Coloma"
+              },
+              {
+                "title": "Mr. Blue Sky",
+                "performer": "P. Hux"
+              },
+              {
+                "title": "Beginning End",
+                "performer": "Benni Hemm Hemm"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Baby Blue Movie",
+                "performer": "Cigarettes After Sex"
+              },
+              {
+                "title": "Something Better",
+                "performer": "Tamasene"
+              },
+              {
+                "title": "Patterns",
+                "performer": "Mercury Rev"
+              },
+              {
+                "title": "The Girl Who Fell To Earth",
+                "performer": "Marika Hackman"
+              },
+              {
+                "title": "Speed It Up",
+                "performer": "LORD$"
+              },
+              {
+                "title": "Sailing",
+                "performer": "Benny Sings"
+              },
+              {
+                "title": "Spider Plant Blues",
+                "performer": "Greg Foat"
+              },
+              {
+                "title": "Hold On (It's All Tite)",
+                "performer": "Psychic Temple"
+              },
+              {
+                "title": "Round And Round",
+                "performer": "Wonder 45"
+              },
+              {
+                "title": "Sketches Of Spain",
+                "performer": "The Nits"
+              },
+              {
+                "title": "The Boy With The Beautiful Hair",
+                "performer": "The Easy Access Orchestra"
+              },
+              {
+                "title": "Alien monologue",
+                "performer": "Angela Aux"
+              },
+              {
+                "title": "Armand & Claire",
+                "performer": "Marc Collin"
+              },
+              {
                 "title": "Good Night",
                 "performer": "The Beatles"
               }
