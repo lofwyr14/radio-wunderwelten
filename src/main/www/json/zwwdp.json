@@ -86939,6 +86939,10 @@
         {
           "id": "23",
           "date": "2024-06-06",
+          "checked": {
+            "date": "2024-06-14",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -87094,6 +87098,10 @@
         {
           "id": "24",
           "date": "2024-06-13",
+          "checked": {
+            "date": "2024-06-16",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -87110,11 +87118,11 @@
                 "performer": "The Blow Monkeys"
               },
               {
-                "title": "Poison Arrow",
+                "title": "Poison Arrow (Jazz Mix)",
                 "performer": "ABC"
               },
               {
-                "title": "Feelgood By Numbers",
+                "title": "Feelgood By Numbers (Louie Zong Rework)",
                 "performer": "The Go! Team"
               },
               {
@@ -87205,7 +87213,7 @@
                 "performer": "Angela Aux"
               },
               {
-                "title": "Armand & Claire",
+                "title": "Armand et Claire",
                 "performer": "Marc Collin"
               },
               {
