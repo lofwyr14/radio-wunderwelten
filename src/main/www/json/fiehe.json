@@ -12562,6 +12562,53 @@
               { "title": "Hoodie", "performer": "Lady Sovereign"}
             ]
           ]
+        },
+        {
+          "id": "23",
+          "date": "2024-06-09",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Goodbye, Arrivederci", "performer": "Roy BIanco"},
+              { "title": "Lay It On The Line", "performer": "MJ Cole"},
+              { "title": "Feel", "performer": "LP Giobbi feat. Jacob Banks"},
+              { "title": "Low End", "performer": "Emika"},
+              { "title": "Broke My Heart", "performer": "Caribou"},
+              { "title": "Air Tight", "performer": "Elkka & Dot Major"},
+              { "title": "Right Here", "performer": "Elkka"},
+              { "title": "Alive (Edit)", "performer": "Kasbo"},
+              { "title": "Raining On Your Pillow", "performer": "DIIV"},
+              { "title": "Don´t Do Anything Stupid", "performer": "Bored At My Grandmas House"},
+              { "title": "Best Life", "performer": "Ben Böhmer feat. Noah"},
+              { "title": "Freezer", "performer": "Pony"},
+              { "title": "Make It Right", "performer": "Steve Wynn"}
+            ],
+            [
+              { "time": "23:04", "title": "Imali Yami", "performer": "Mxshi & Skream"},
+              { "title": "Back To One", "performer": "Peggy Gou"},
+              { "title": "Del Oro", "performer": "Floating Points"},
+              { "title": "Slow Down", "performer": "Velvet Meadow"},
+              { "title": "MoveOn", "performer": "NxWorries"},
+              { "title": "KeepHer", "performer": "NxWorries feat. Thundercat"},
+              { "title": "From Here", "performer": "NxWorries feat. Snoop Dogg & October London"},
+              { "title": "Rock The Cradle", "performer": "Bonny Light Horseman"},
+              { "title": "Sweet Smile", "performer": "Eels"},
+              { "title": "Wild Geese, Wild Love", "performer": "Amanda Bergman"}
+            ],
+            [
+              { "time": "00:04", "title": "I Just Want To Love You", "performer": "Elkka"},
+              { "title": "Slow Dance (Nathan Fake Remix)", "performer": "Tennyson feat. Rae Morris"},
+              { "title": "Living In The Crowds", "performer": "Paranoid London"},
+              { "title": "Me Da Igual", "performer": "L´Imperatrice"},
+              { "title": "Drumstart", "performer": "Bar Italia"},
+              { "title": "Tastes Like Metal", "performer": "Man Man"},
+              { "title": "Losing Control", "performer": "Habibi"},
+              { "title": "Shes Got Something For Me", "performer": "Velvet Meadow"},
+              { "title": "Euphoric Avenue", "performer": "Brijean"},
+              { "title": "Sleep Talk", "performer": "Goat Girl"},
+              { "title": "Atlantis", "performer": "Kasbo feat. Shallou & BJOERN"},
+              { "title": "It´s Alright", "performer": "Helsloot feat. Malou"}
+            ]
+          ]
         }
       ]
     }
