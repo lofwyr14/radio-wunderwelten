@@ -87222,6 +87222,114 @@
               }
             ]
           ]
+        },
+        {
+          "id": "25",
+          "date": "2024-06-20",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Bad Ambassador",
+                "performer": "The Divine Comedy"
+              },
+              {
+                "title": "The Simple Life",
+                "performer": "Dent May"
+              },
+              {
+                "title": "Getaway",
+                "performer": "PREP feat. Phum Viphurit"
+              },
+              {
+                "title": "Lucy Takes A Picture",
+                "performer": "Youth Lagoon"
+              },
+              {
+                "title": "Seven Seconds To Sunrise",
+                "performer": "Project Gemini"
+              },
+              {
+                "title": "Everybody Knows",
+                "performer": "LORD$"
+              },
+              {
+                "title": "Love Proceeding",
+                "performer": "BadBadNotGood"
+              },
+              {
+                "title": "The Bug",
+                "performer": "Crumb"
+              },
+              {
+                "title": "Rise Up Singing",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "Drifting",
+                "performer": "Ben Reed"
+              },
+              {
+                "title": "Idag",
+                "performer": "Daniel Ögren & Anna Ahnlund"
+              },
+              {
+                "title": "Deacon Blues",
+                "performer": "Bill Callahan & Bonnie \"Prince\" Billy feat. Bill MacKay"
+              },
+              {
+                "title": "Robbi, Tobbi und das Fliewatüüt",
+                "performer": "Jet Set Swe"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Jukebox Johnny",
+                "performer": "Diane Birch"
+              },
+              {
+                "title": "Doggie Paddlin' Thru The Cosmic Consciousness",
+                "performer": "Psychic Temple"
+              },
+              {
+                "title": "Go Down Softly",
+                "performer": "Fievel Is Glauque"
+              },
+              {
+                "title": "Hazy Moon",
+                "performer": "Spiritual Vibes"
+              },
+              {
+                "title": "I'm Not In Love",
+                "performer": "Peggy Lee"
+              },
+              {
+                "title": "Happiness",
+                "performer": "British Sea Power"
+              },
+              {
+                "title": "Walter",
+                "performer": "Opek"
+              },
+              {
+                "title": "CannelÃ©",
+                "performer": "Allez Kiki Fermentation"
+              },
+              {
+                "title": "Underwater Boy",
+                "performer": "Virna Lindt"
+              },
+              {
+                "title": "I Still See Your Face",
+                "performer": "Sinj Clarke"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
