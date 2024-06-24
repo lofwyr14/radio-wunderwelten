@@ -12609,6 +12609,52 @@
               { "title": "It´s Alright", "performer": "Helsloot feat. Malou"}
             ]
           ]
+        },
+        {
+          "id": "24",
+          "date": "2024-06-16",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Treat Each Other Right", "performer": "Jamie xx"},
+              { "title": "Trance You", "performer": "Dusky"},
+              { "title": "Cosmic Runner (Peder Mannerfelt Remix)", "performer": "Alberta Balsam"},
+              { "title": "Me And Madonna", "performer": "Black Strobe"},
+              { "title": "The Chords Of Redemption", "performer": "Arnaud Rebotini"},
+              { "title": "Approachable", "performer": "Gurriers"},
+              { "title": "Magic Pony", "performer": "μ-ZIQ"},
+              { "title": "Celestial Harmonics", "performer": "Rush2theUnknown"},
+              { "title": "The Reapers", "performer": "The Decemberists"},
+              { "title": "I Can Stop Anytime I Like", "performer": "Stumbleine"},
+              { "title": "Ultraviolet", "performer": "Alinka"}
+            ],
+            [
+              { "time": "23:04", "title": "Be There", "performer": "DJ Marky, Pola & Bryson & IYAMAH"},
+              { "title": "Period Point Blank (Bernadette Remix)", "performer": "Sabrina Bellaouel"},
+              { "title": "One More Chance", "performer": "IYRE & Subten"},
+              { "title": "Blush", "performer": "Girl Ultra"},
+              { "title": "Abuelita", "performer": "Hermanos Guiterrez"},
+              { "title": "Bitter Melon", "performer": "Cola"},
+              { "title": "Sports (Is Good For You)", "performer": "Max Graef"},
+              { "title": "Dreaming", "performer": "Dave DK & Anton Tumas"},
+              { "title": "Fashion (Kasper Bjørke Remix)", "performer": "Aili"},
+              { "title": "Shark - Shark", "performer": "John Cale"},
+              { "title": "I Go Dance (Leena Punks & Shay De Castro Remix)", "performer": "KIesza"}
+            ],
+            [
+              { "time": "00:04", "title": "Eat Your Dollar (Each Other Remix)", "performer": "Baby´s Berserk"},
+              { "title": "Touch Down (Feel The Rush)", "performer": "Mella Dee feat. Storm Mollison"},
+              { "title": "Uzobuya", "performer": "Mxshi Mo feat. Moonchild Sanelly"},
+              { "title": "Fired Up", "performer": "Or:la"},
+              { "title": "Method Actor", "performer": "Nilüfer Yanya"},
+              { "title": "Losing Out", "performer": "Total Tommy"},
+              { "title": "Pulling Quotes", "performer": "Cola"},
+              { "title": "I Guess That´s The Way It Goes", "performer": "Velvet Meadow"},
+              { "title": "Ascension", "performer": "Fax Gang & Parannoul feat. agatka"},
+              { "title": "Nice Try", "performer": "Cola"},
+              { "title": "Cinderhaze", "performer": "Stumbleine"},
+              { "title": "Vårsång", "performer": "Kasbo"}
+            ]
+          ]
         }
       ]
     }
