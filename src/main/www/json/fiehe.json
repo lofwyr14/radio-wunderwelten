@@ -12285,6 +12285,7 @@
         {
           "id": "17",
           "date": "2024-04-28",
+          "checked": {"date": "2024-06-24", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Sarus", "performer": "Lauren Ritter"},
