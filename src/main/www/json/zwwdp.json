@@ -87226,6 +87226,10 @@
         {
           "id": "25",
           "date": "2024-06-20",
+          "checked": {
+            "date": "2024-06-27",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -87313,12 +87317,16 @@
                 "performer": "Opek"
               },
               {
-                "title": "CannelÃ©",
+                "title": "Cannelé",
                 "performer": "Allez Kiki Fermentation"
               },
               {
                 "title": "Underwater Boy",
                 "performer": "Virna Lindt"
+              },
+              {
+                "title": "Papa",
+                "performer": "Eddie Chacon"
               },
               {
                 "title": "I Still See Your Face",
