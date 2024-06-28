@@ -87338,6 +87338,138 @@
               }
             ]
           ]
+        },
+        {
+          "id": "26",
+          "date": "2024-06-27",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "On The Floor",
+                "performer": "Mayer Hawthorne"
+              },
+              {
+                "title": "Infinity Pool",
+                "performer": "PREP"
+              },
+              {
+                "title": "Strange World",
+                "performer": "La Luz"
+              },
+              {
+                "title": "Twilight",
+                "performer": "Project Gemini"
+              },
+              {
+                "title": "Tnt",
+                "performer": "Hellsongs"
+              },
+              {
+                "title": "The Stroll",
+                "performer": "The James Taylor Quartet"
+              },
+              {
+                "title": "I Can See",
+                "performer": "Jazzanova feat. Ben Westbeech"
+              },
+              {
+                "title": "Starman",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "Hey Gentle Girl",
+                "performer": "Johnny Dee"
+              },
+              {
+                "title": "Not Afraid",
+                "performer": "150 Tissues"
+              },
+              {
+                "title": "Daylight",
+                "performer": "Jamie Finlay feat. Ellen Beth Abdi"
+              },
+              {
+                "title": "Stranger To Me Now",
+                "performer": "The Blow Monkeys"
+              },
+              {
+                "title": "Jj",
+                "performer": "Wand"
+              },
+              {
+                "title": "Misturada",
+                "performer": "Kjell Öhman"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Nemurenai (Insomnie)",
+                "performer": "United Future Organization"
+              },
+              {
+                "title": "Sleep Talk",
+                "performer": "Crumb"
+              },
+              {
+                "title": "Confusion",
+                "performer": "Marek Johnson"
+              },
+              {
+                "title": "Drifting Haze",
+                "performer": "The Young Sinclairs"
+              },
+              {
+                "title": "Life Is",
+                "performer": "Jessica Pratt"
+              },
+              {
+                "title": "Girl",
+                "performer": "The Brothers Four"
+              },
+              {
+                "title": "Under Lock And Key",
+                "performer": "Daniel Carlosn"
+              },
+              {
+                "title": "Long Way Home",
+                "performer": "Jaunt"
+              },
+              {
+                "title": "For The Love Of Stripes",
+                "performer": "Sholto"
+              },
+              {
+                "title": "The Drifter",
+                "performer": "Dad Bod"
+              },
+              {
+                "title": "Bluebird",
+                "performer": "Paul McCartney & Wings"
+              },
+              {
+                "title": "Where Does The Time Go",
+                "performer": "Eva May"
+              },
+              {
+                "title": "To The Warmth Of You",
+                "performer": "Pugwash"
+              },
+              {
+                "title": "The Hum",
+                "performer": "Margo Guryan"
+              },
+              {
+                "title": "Les petits gris",
+                "performer": "Khruangbin"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
