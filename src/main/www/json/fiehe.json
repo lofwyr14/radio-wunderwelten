@@ -12333,15 +12333,16 @@
         {
           "id": "18",
           "date": "2024-05-05",
+          "checked": {"date": "2024-06-30", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Interstellar Peace (The Last Stance)", "performer": "Kamasi Washington"},
               { "title": "Shara", "performer": "Intense feat. MC Conrad"},
               { "title": "The Western (PFM) Live In Japan", "performer": "LTJ Bukem & MC Conrad"},
               { "title": "Remember (Circadian Remix)", "performer": "Friction"},
-              { "title": "Hold Me", "performer": "Lumi"},
+              { "title": "Hold Me (Extended)", "performer": "Lumi"},
               { "title": "Detroit Love", "performer": "Binary State & Nookie"},
-              { "title": "Kann Nicht Tanzen", "performer": "VFL Jesus feat. Lily"},
+              { "title": "Kann nicht tanzen", "performer": "VFL Jesus feat. Lily"},
               { "title": "Sunshine", "performer": "Luttrell"},
               { "title": "If You And I Are Not Wise", "performer": "The Lemon Twigs"}
             ],
@@ -12370,7 +12371,7 @@
               { "title": "Liberty Print", "performer": "Camera Obscura"},
               { "title": "Love Me Truly", "performer": "Florence Besch"},
               { "title": "Jump Cut", "performer": "Corridor"},
-              { "title": "The End Of Air", "performer": "Prefuse73"}
+              { "title": "The End Of Air", "performer": "Prefuse 73"}
             ]
           ]
         },
