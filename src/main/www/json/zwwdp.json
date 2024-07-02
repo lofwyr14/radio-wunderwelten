@@ -87342,6 +87342,10 @@
         {
           "id": "26",
           "date": "2024-06-27",
+          "checked": {
+            "date": "2024-07-02",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -87366,7 +87370,7 @@
                 "performer": "Hellsongs"
               },
               {
-                "title": "The Stroll",
+                "title": "\"Los Cuevos Pablo\"",
                 "performer": "The James Taylor Quartet"
               },
               {
@@ -87374,7 +87378,7 @@
                 "performer": "Jazzanova feat. Ben Westbeech"
               },
               {
-                "title": "Starman",
+                "title": "Starman (Top Of The Pops Version)",
                 "performer": "David Bowie"
               },
               {
@@ -87394,7 +87398,7 @@
                 "performer": "The Blow Monkeys"
               },
               {
-                "title": "Jj",
+                "title": "JJ",
                 "performer": "Wand"
               },
               {
@@ -87445,7 +87449,7 @@
                 "performer": "Dad Bod"
               },
               {
-                "title": "Bluebird",
+                "title": "Bluebird (\"One Hand Clapping\" Version)",
                 "performer": "Paul McCartney & Wings"
               },
               {
@@ -87461,7 +87465,7 @@
                 "performer": "Margo Guryan"
               },
               {
-                "title": "Les petits gris",
+                "title": "Les Petits Gris",
                 "performer": "Khruangbin"
               },
               {
