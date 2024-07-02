@@ -12657,6 +12657,51 @@
               { "title": "Vårsång", "performer": "Kasbo"}
             ]
           ]
+        },
+        {
+          "id": "25",
+          "date": "2024-06-23",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Vampyre", "performer": "Kate Nash"},
+              { "title": "Bones", "performer": "K-Lone"},
+              { "title": "Period Point Blank (Bernadette Remix)", "performer": "Sabrina Bellaouel"},
+              { "title": "Phoneglow", "performer": "Burial"},
+              { "title": "Now Or Never", "performer": "GHSTGHSTGHST & lau.ra"},
+              { "title": "O, UV Ray", "performer": "Pond"},
+              { "title": "Seventeen", "performer": "Suzan Köcher´s Suprafon"},
+              { "title": "Ghostride", "performer": "Interlaker"},
+              { "title": "Your Love", "performer": "L.B. Dub Corp."},
+              { "title": "The Love Theme", "performer": "Alex Kassian & Running Hot"}
+            ],
+            [
+              { "time": "23:04", "title": "Saviour", "performer": "Mxshi Mo"},
+              { "title": "q.e.p.d.", "performer": "DJ Python"},
+              { "title": "Shona Khona", "performer": "Mxshi Mo ft. Ayema"},
+              { "title": "Imali Yami", "performer": "Mxshi Mo & Skream"},
+              { "title": "Ashana", "performer": "Ruger"},
+              { "title": "Church Of Nashville", "performer": "Rui Gabriel"},
+              { "title": "King Of Nothing", "performer": "Gretel Hänlyn"},
+              { "title": "Losing Out", "performer": "Total Tommy"},
+              { "title": "Know You", "performer": "Nothing Special"},
+              { "title": "Praise Him", "performer": "Auntie Flo"},
+              { "title": "Love Me", "performer": "Hot Since 82"}
+            ],
+            [
+              { "time": "00:04", "title": "End Of My Rope", "performer": "Rui Gabriel"},
+              { "title": "Purple Heaven", "performer": "Sal Dulu"},
+              { "title": "Gas (4.19)", "performer": "Biicla"},
+              { "title": "Work Over", "performer": "Dharma"},
+              { "title": "Mica", "performer": "Dumbo Tracks feat. Ada"},
+              { "title": "What If", "performer": "Dumbo Tracks & Julian Stetter feat. Nothingspecial"},
+              { "title": "Rancho Relaxo (Radio Slave Remix)", "performer": "Anja Schneider & Sebo K"},
+              { "title": "Iris Is Neil", "performer": "Apifera"},
+              { "title": "In My Dreams", "performer": "Habibi"},
+              { "title": "Silverwater", "performer": "Xzavier Stone, DJ Plead, Phillip Jondo"},
+              { "title": "Waking Up", "performer": "Washed Out"},
+              { "title": "Baby Blue Movie", "performer": "Cigarettes After Sex"}
+            ]
+          ]
         }
       ]
     }
