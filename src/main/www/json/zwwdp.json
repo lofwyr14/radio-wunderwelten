@@ -87474,6 +87474,134 @@
               }
             ]
           ]
+        },
+        {
+          "id": "27",
+          "date": "2024-07-04",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "It's Never Too Late",
+                "performer": "Dewey Kenmore"
+              },
+              {
+                "title": "Say Nothing",
+                "performer": "Swim Surreal"
+              },
+              {
+                "title": "Everything & All I Want",
+                "performer": "Stone Foundation"
+              },
+              {
+                "title": "Incredulous",
+                "performer": "Mama Terra"
+              },
+              {
+                "title": "Faust",
+                "performer": "Kit Sebastian"
+              },
+              {
+                "title": "Side Quest",
+                "performer": "Pearl & The Oysters"
+              },
+              {
+                "title": "Magic Drips",
+                "performer": "Marcoca"
+              },
+              {
+                "title": "Peppermint Roses",
+                "performer": "The Lemon Twigs"
+              },
+              {
+                "title": "I'm The Greatest",
+                "performer": "John Lennon"
+              },
+              {
+                "title": "Driving Dreams",
+                "performer": "Georgia Ruth"
+              },
+              {
+                "title": "Afterglow",
+                "performer": "Triptides"
+              },
+              {
+                "title": "Lie In The Gutter",
+                "performer": "Peel Dream Magazine"
+              },
+              {
+                "title": "Daily Prayer",
+                "performer": "Little Miss Echo"
+              },
+              {
+                "title": "Sicilian Clan",
+                "performer": "Jet Set Swe"
+              }
+            ],
+            [
+              {
+                "time": "23:04r",
+                "title": "Hey Man",
+                "performer": "Nature TV"
+              },
+              {
+                "title": "Under Lock And Key",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "title": "Sentimental Lady",
+                "performer": "The Autumn Defense"
+              },
+              {
+                "title": "Without Her",
+                "performer": "Rick Nelson"
+              },
+              {
+                "title": "Easy, Lee",
+                "performer": "Pale Jay"
+              },
+              {
+                "title": "Higher Road",
+                "performer": "Bremer/McCoy"
+              },
+              {
+                "title": "Long Way Home",
+                "performer": "Jaunt"
+              },
+              {
+                "title": "Give It Back",
+                "performer": "Matt Eaton"
+              },
+              {
+                "title": "The Flybuster",
+                "performer": "Nightshift"
+              },
+              {
+                "title": "Creep",
+                "performer": "Frank Bennett And The Orchestra Royale"
+              },
+              {
+                "title": "Truth Can't Be Tried",
+                "performer": "The Young Sinclairs"
+              },
+              {
+                "title": "Can't Turn It Off",
+                "performer": "3 A.M. Again"
+              },
+              {
+                "title": "Songbird",
+                "performer": "Bedouine"
+              },
+              {
+                "title": "That Love",
+                "performer": "Nonkeen"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
