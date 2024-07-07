@@ -12378,6 +12378,7 @@
         {
           "id": "19",
           "date": "2024-05-12",
+          "checked": {"date": "2024-07-07", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "C+F", "performer": "Sam Prekop"},
@@ -12409,7 +12410,7 @@
             [
               { "time": "00:04", "title": "Mood Ring", "performer": "Dehd"},
               { "title": "Stomp Your Feet", "performer": "Rokar"},
-              { "title": "In Love (Garage Mix)", "performer": "PFM"},
+              { "title": "In Love (12\" Garage Mix)", "performer": "PFM"},
               { "title": "Off The Spektrum", "performer": "Damu"},
               { "title": "Time Glide", "performer": "Kuedo"},
               { "title": "First Born Seconds", "performer": "Lone"},
