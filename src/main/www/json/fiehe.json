@@ -12703,6 +12703,52 @@
               { "title": "Baby Blue Movie", "performer": "Cigarettes After Sex"}
             ]
           ]
+        },
+        {
+          "id": "26",
+          "date": "2024-06-30",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Love At The Afters", "performer": "Amy Dabbs"},
+              { "title": "Echoes Of Chaos", "performer": "Fabrice"},
+              { "title": "Bittersweet", "performer": "LP Giobbi feat. Portugal The Man"},
+              { "title": "Got Your Back", "performer": "Washed Out"},
+              { "title": "Fashion (Kasper Bjørke Remix)", "performer": "Aili"},
+              { "title": "Surya Mandir", "performer": "Keshavara"},
+              { "title": "I Was On The Moon", "performer": " Máni Orrason"},
+              { "title": "Hekele", "performer": "Atmos Blaq feat. Papany"},
+              { "title": "No Trouble In Paradise", "performer": "L.B. Dub Corp feat. Paul St. Hilaire"},
+              { "title": "Bad Indian", "performer": "Dead Pioneers"}
+            ],
+            [
+              { "time": "23:04", "title": "Cinderhaze", "performer": "Stumbleine"},
+              { "title": "Favourite", "performer": "Fontaines D.C."},
+              { "title": "Better Way To Live", "performer": "Kneecap feat. Grian Chatten"},
+              { "title": "Miss Independant", "performer": "Skepta feat. R2R Moe"},
+              { "title": "Only Fans (Jackmaster Remix)", "performer": "Ashoju"},
+              { "title": "Choose To Be Free", "performer": "Lazy Ants & M.F.S: Observatory feat. Jasmine Knight"},
+              { "title": "Waiheke Island", "performer": "Skream & Prospa"},
+              { "title": "Supersad", "performer": "Suki Waterhouse"},
+              { "title": "Unbraiding", "performer": "Loma"},
+              { "title": "Kaley", "performer": "Naima Bock"},
+              { "title": "Motorway", "performer": "Goat Girl"},
+              { "title": "Phantom", "performer": "Tycho"},
+              { "title": "A Sign", "performer": "Washed Out"}
+            ],
+            [
+              { "time": "00:04", "title": "Late For Supper (LP Giobbi & Le Chev Remix)", "performer": "Jerry Garcia & LP Giobbi"},
+              { "title": "Bittersweet (Extended)", "performer": "LP Giobbi & Portugal. The Man"},
+              { "title": "Wasteman", "performer": "Kate Nash"},
+              { "title": "CPR", "performer": "Dumbo Tracks feat. Rubee Fegan"},
+              { "title": "I Heard (Benny Mussa Edit)", "performer": "Young Fathers"},
+              { "title": "Bird Song (LP Giobbi & Le Chev Remix)", "performer": "Jerry Garcia & LP Giobbi"},
+              { "title": "Everything´s Beautiful", "performer": "Hiatus Kaiyate"},
+              { "title": "Money Face", "performer": "Sweatson Klank & Kondi Band"},
+              { "title": "In Your Eyes", "performer": "Mild Minds & edapollo"},
+              { "title": "Underrated Forever", "performer": "Kafvka feat. Roger Rekless, PTK"},
+              { "title": "Saddest Disco Girl", "performer": "Ava Vegas feat. French Horn Rebellion"}
+            ]
+          ]
         }
       ]
     }
