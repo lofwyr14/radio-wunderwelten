@@ -87478,6 +87478,10 @@
         {
           "id": "27",
           "date": "2024-07-04",
+          "checked": {
+            "date": "2024-07-09",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -87595,6 +87599,122 @@
               {
                 "title": "That Love",
                 "performer": "Nonkeen"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "28",
+          "date": "2024-07-11",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "What A Fool Believes (12\" Version)",
+                "performer": "The Doobie Brothers"
+              },
+              {
+                "title": "Baby Come Back",
+                "performer": "Player"
+              },
+              {
+                "title": "You'Re The Only Woman",
+                "performer": "Ambrosia"
+              },
+              {
+                "title": "Him",
+                "performer": "Rupert Holmes"
+              },
+              {
+                "title": "Moonlight Feels Right",
+                "performer": "Starbuck"
+              },
+              {
+                "title": "Feels So Good (Single Version)",
+                "performer": "Chuck Mangione"
+              },
+              {
+                "title": "Century's End",
+                "performer": "Donald Fagen"
+              },
+              {
+                "title": "Every Kinda People",
+                "performer": "Robert Palmer"
+              },
+              {
+                "title": "Steal Away",
+                "performer": "Robbie Dupree"
+              },
+              {
+                "title": "Lonely Boy",
+                "performer": "Andrew Gold"
+              },
+              {
+                "title": "Marina Del Rey",
+                "performer": "Marc Jordan"
+              },
+              {
+                "title": "What Goes Up (7” Version)",
+                "performer": "The Alan Parsons Project"
+              },
+              {
+                "title": "Man In The Station",
+                "performer": "Ian Matthews"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "What You Won't Do For Love (Long Version)",
+                "performer": "Bobby Caldwell"
+              },
+              {
+                "title": "You Are On My Mind",
+                "performer": "Chicago"
+              },
+              {
+                "title": "As",
+                "performer": "Tony Sherman"
+              },
+              {
+                "title": "Give Me Love",
+                "performer": "Santana"
+              },
+              {
+                "title": "Eggplant",
+                "performer": "Michael Franks"
+              },
+              {
+                "title": "Dear Limmertz",
+                "performer": "Azymuth"
+              },
+              {
+                "title": "Dreams",
+                "performer": "Fleetwood Mac"
+              },
+              {
+                "title": "Lowdown",
+                "performer": "Boz Scaggs"
+              },
+              {
+                "title": "The Fez",
+                "performer": "Steely Dan"
+              },
+              {
+                "title": "Oh Lori",
+                "performer": "Alessi Brothers"
+              },
+              {
+                "title": "Catching The Sun",
+                "performer": "Spyro Gyra"
+              },
+              {
+                "title": "Reminiscing",
+                "performer": "Little River Band"
               },
               {
                 "title": "Good Night",
