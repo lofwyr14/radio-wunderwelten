@@ -87610,6 +87610,11 @@
         {
           "id": "28",
           "date": "2024-07-11",
+          "checked": {
+            "date": "2024-07-16",
+            "user": "jg"
+          },
+          "comment": "Yacht Rock-Special",
           "songs": [
             [
               {
@@ -87622,7 +87627,7 @@
                 "performer": "Player"
               },
               {
-                "title": "You'Re The Only Woman",
+                "title": "You're The Only Woman",
                 "performer": "Ambrosia"
               },
               {
@@ -87664,6 +87669,10 @@
               {
                 "title": "Man In The Station",
                 "performer": "Ian Matthews"
+              },
+              {
+                "title": "Rise (7\" Version)",
+                "performer": "Herb Alpert"
               }
             ],
             [
@@ -87711,6 +87720,10 @@
               {
                 "title": "Catching The Sun",
                 "performer": "Spyro Gyra"
+              },
+              {
+                "title": "Georgy Porgy (Long Version)",
+                "performer": "Toto"
               },
               {
                 "title": "Reminiscing",
