@@ -12432,7 +12432,7 @@
             [
               { "time": "22:04", "title": "Eins Null Eins Eins Null", "performer": "Fred Und Luna"},
               { "title": "7 Degrees Of Despondent", "performer": "I. Jordan"},
-              { "title": "Proto Spoon", "performer": "Dusky"},
+              { "title": "Proto Spoon (Extended Mix)", "performer": "Dusky"},
               { "title": "Tranz", "performer": "Suite Simone"},
               { "title": "Millions Of Heartbeats", "performer": "Kate Nash"},
               { "title": "Genius Of Love", "performer": "Toro Y Moi feat. Brijean"},
@@ -12747,6 +12747,50 @@
               { "title": "In Your Eyes", "performer": "Mild Minds & edapollo"},
               { "title": "Underrated Forever", "performer": "Kafvka feat. Roger Rekless, PTK"},
               { "title": "Saddest Disco Girl", "performer": "Ava Vegas feat. French Horn Rebellion"}
+            ]
+          ]
+        },
+        {
+          "id": "27",
+          "date": "2024-07-07",
+          "songs": [
+            [
+              { "title": "In For The Kill (Skream & Foamo Remix)", "performer": "La Roux"},
+              { "title": "Pulling Me In (Nightbus Remix)", "performer": "The Cutter"},
+              { "title": "The Chords Of Redemption", "performer": "Arnaud Rebotini"},
+              { "title": "Headbanging", "performer": "Levin Goes Lightly"},
+              { "title": "Stolen Glances", "performer": "Franky Wah & Låpsley"},
+              { "title": "ME&U", "performer": "Flat White Chris feat. Trim"},
+              { "title": "The Road To Love (Session Victim Remix)", "performer": "Sweatson Klank"},
+              { "title": "Workin´ On It", "performer": "Brijean"},
+              { "title": "Der Mussolini", "performer": "Green Hornet"},
+              { "title": "Links Rechts", "performer": "Snollebollekes"},
+              { "title": "Take Care Of You", "performer": "Dangerous Dreaming"}
+            ],
+            [
+              { "title": "High Pressure Days", "performer": "W. H. Lung"},
+              { "title": "Movin´ On Acid", "performer": "Joe Harvey"},
+              { "title": "Samstag Nacht", "performer": "T.Raumhouse"},
+              { "title": "Spacewoman", "performer": "Charlie"},
+              { "title": "Chaperone", "performer": "Mermaid Chunky"},
+              { "title": "How To Walk", "performer": "W. H. Lung"},
+              { "title": "Follow You Down", "performer": "Fink"},
+              { "title": "Dusty Eyes", "performer": "Telll feat. Ivery"},
+              { "title": "Ich geh lieber allein", "performer": "Die Liga der gewöhnlichen Gentlemen"}
+            ],
+            [
+              { "title": "Fall Für Dich", "performer": "Millenium Kid"},
+              { "title": "Fifteen Blocks", "performer": "Submerse"},
+              { "title": "Never Too Old (Friction Remix)", "performer": "Monrroe & Emily Makis"},
+              { "title": "Restless", "performer": "Fred V feat. Lottie Jones"},
+              { "title": "Connection", "performer": "Murder He Wrote"},
+              { "title": "Resonating Sounds", "performer": "Fabrice"},
+              { "title": "Call", "performer": "Kasabian"},
+              { "title": "I Don´t See You As The Others Do", "performer": "Fink"},
+              { "title": "On The Boards", "performer": "Taste"},
+              { "title": "Bitter Melon", "performer": "Cola"},
+              { "title": "Mica", "performer": "Dumbo Tracks feat. Ada"},
+              { "title": "Seeland", "performer": "NEU!"}
             ]
           ]
         }
