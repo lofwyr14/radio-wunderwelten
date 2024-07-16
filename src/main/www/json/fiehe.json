@@ -12428,6 +12428,7 @@
         {
           "id": "20",
           "date": "2024-05-19",
+          "checked": {"date": "2024-07-16", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Eins Null Eins Eins Null", "performer": "Fred Und Luna"},
@@ -12466,7 +12467,7 @@
               { "title": "May Ninth", "performer": "Khruangbin"},
               { "title": "Thank You For Sending Me An Angel", "performer": "Blondshell"},
               { "title": "6 Lofty Ash", "performer": "Formal Sppeedwear"},
-              { "title": "Bryllyant", "performer": "Boytronic"}
+              { "title": "Bryllyant (??? VERSION ???)", "performer": "Boytronic"}
             ]
           ]
         },
