@@ -12756,7 +12756,7 @@
           "date": "2024-07-07",
           "songs": [
             [
-              { "title": "In For The Kill (Skream & Foamo Remix)", "performer": "La Roux"},
+              { "time": "22:04", "title": "In For The Kill (Skream & Foamo Remix)", "performer": "La Roux"},
               { "title": "Pulling Me In (Nightbus Remix)", "performer": "The Cutter"},
               { "title": "The Chords Of Redemption", "performer": "Arnaud Rebotini"},
               { "title": "Headbanging", "performer": "Levin Goes Lightly"},
@@ -12769,7 +12769,7 @@
               { "title": "Take Care Of You", "performer": "Dangerous Dreaming"}
             ],
             [
-              { "title": "High Pressure Days", "performer": "W. H. Lung"},
+              { "time": "23:04", "title": "High Pressure Days", "performer": "W. H. Lung"},
               { "title": "Movin´ On Acid", "performer": "Joe Harvey"},
               { "title": "Samstag Nacht", "performer": "T.Raumhouse"},
               { "title": "Spacewoman", "performer": "Charlie"},
@@ -12780,7 +12780,7 @@
               { "title": "Ich geh lieber allein", "performer": "Die Liga der gewöhnlichen Gentlemen"}
             ],
             [
-              { "title": "Fall Für Dich", "performer": "Millenium Kid"},
+              { "time": "00:04", "title": "Fall für dich", "performer": "Millenium Kid"},
               { "title": "Fifteen Blocks", "performer": "Submerse"},
               { "title": "Never Too Old (Friction Remix)", "performer": "Monrroe & Emily Makis"},
               { "title": "Restless", "performer": "Fred V feat. Lottie Jones"},
@@ -12792,6 +12792,56 @@
               { "title": "Bitter Melon", "performer": "Cola"},
               { "title": "Mica", "performer": "Dumbo Tracks feat. Ada"},
               { "title": "Seeland", "performer": "NEU!"}
+            ]
+          ]
+        },
+        {
+          "id": "28",
+          "date": "2024-07-14",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Breathe", "performer": "Brijean"},
+              { "title": "Untitled (a2)", "performer": "Unknown Artist"},
+              { "title": "Celestial Harmonics", "performer": "rush2theUnknown"},
+              { "title": "Ambien Slide", "performer": "Cigarettes After Sex"},
+              { "title": "Stand Up", "performer": "MJ Cole & K-Lone"},
+              { "title": "Discover (Extended)", "performer": "Timothy B feat. RAPHI"},
+              { "title": "Annabella", "performer": "Communicant"},
+              { "title": "Second Half", "performer": "Luke Temple And The Cascading Moms"},
+              { "title": "Early Signs Of Rhythm", "performer": "Art Feynman"},
+              { "title": "Hey Kekule", "performer": "Font"},
+              { "title": "Life During Wartime (live)", "performer": "Talking Heads"},
+              { "title": "Mi Gran Noche", "performer": "Raphael"}
+            ],
+            [
+              { "time": "23:04", "title": "Blu", "performer": "Girl Ultra"},
+              { "title": "Fashion Week", "performer": "Warmduscher"},
+              { "title": "Birdcage (Etienne De Crezy Version)", "performer": "You Man"},
+              { "title": "Call (Solomun Remix)", "performer": "Kasabian"},
+              { "title": "Southgate You´re The One (Football´s Coming Home Again)", "performer": "Atomic Kitten"},
+              { "title": "Down Bad", "performer": "Tatyana"},
+              { "title": "Homie Don´t Shake", "performer": "Fcukers"},
+              { "title": "Revery", "performer": "Joe Goddard feat. Alabaster DePlume"},
+              { "title": "I.S.K.", "performer": "Flat White Chris feat. Trim"},
+              { "title": "The Bits", "performer": "Dusk + Blackdown Vs. Grivous Angel feat. Trim"},
+              { "title": "Bang Bang Boom", "performer": "Brijean"},
+              { "title": "After Life", "performer": "Brijean"}
+            ],
+            [
+              { "time": "00:04", "title": "Roxy Mountain", "performer": "Brijean"},
+              { "title": "Echo", "performer": "Clairo"},
+              { "title": "You Do", "performer": "ORB"},
+              { "title": "Faust", "performer": "Kit Sebastian"},
+              { "title": "Physical Address", "performer": "Chris Cohen"},
+              { "title": "Hiding", "performer": "Ben Böhmer feat. Lykke Li"},
+              { "title": "Told", "performer": "Kiasmos"},
+              { "title": "Saving Flowers", "performer": "Salute & Rina Sawayama"},
+              { "title": "Follow The Disco Ball", "performer": "Solomun"},
+              { "title": "Feel It (Extended) Rennen", "performer": "Dangerous Dreaming"},
+              { "title": "Wir Rennen", "performer": "Luis Ake"},
+              { "title": "So Soft", "performer": "Wildes"},
+              { "title": "Goodbye, Arrivederci", "performer": "Roy Bianco & Die Abbrunzati Boys"},
+              { "title": "Broke My Heart", "performer": "Caribou"}
             ]
           ]
         }
