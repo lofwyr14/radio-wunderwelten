@@ -12474,6 +12474,7 @@
         {
           "id": "21",
           "date": "2024-05-26",
+          "checked": {"date": "2024-07-24", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Control", "performer": "Tatyana feat. Dave Okumu"},
@@ -12512,10 +12513,10 @@
               { "title": "Offworld Paddy", "performer": "Maroki"},
               { "title": "Barrier Rhythms", "performer": "Hess & Harrison"},
               { "title": "Turning My Head (2024 Rework)", "performer": "Anja Schneider"},
-              { "title": "Lobster Telephone", "performer": "Peggy Gou"},
+              { "title": "Lobster Telephone (Edit)", "performer": "Peggy Gou"},
               { "title": "Kosmisch Nummer Drie", "performer": "E-Freq "},
               { "title": "X-Hale", "performer": "Swoose"},
-              { "title": "Ebeneezer Goode", "performer": "Shamen"},
+              { "title": "Ebeneezer Goode", "performer": "The Shamen"},
               { "title": "Automatic", "performer": "Roosevelt"},
               { "title": "Tastes Like Metal", "performer": "Man Man"}
             ]
