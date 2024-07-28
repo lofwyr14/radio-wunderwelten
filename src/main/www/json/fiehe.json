@@ -12525,6 +12525,7 @@
         {
           "id": "22",
           "date": "2024-06-02",
+          "checked": {"date": "2024-07-28", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Close", "performer": "Because Of Art feat. Ayah Marar"},
@@ -12550,7 +12551,8 @@
               { "title": "Pov", "performer": "Habibi"},
               { "title": "From Outside A Window Sill", "performer": "Crumb"},
               { "title": "Open Door (Jonathan Kaspar Remix)", "performer": "Catz ´n Dogz ft. Cloud Boat"},
-              { "title": "Controller", "performer": "Communicant"}
+              { "title": "Controller", "performer": "Communicant"},
+              { "title": "Going In Circles", "performer": "Gift"}
             ],
             [
               { "time": "00:04", "title": "The Real Thing", "performer": "The Detroit Cobras"},
@@ -12559,7 +12561,7 @@
               { "title": "All I Ever Want", "performer": "Outrage feat. Ayah Marar"},
               { "title": "Brain Rays", "performer": "Shadow Child & DJ Haus"},
               { "title": "Spark It", "performer": "Hoax feat. PVC"},
-              { "title": "Oracle9", "performer": "Machinedrum feat. Aja Monet"},
+              { "title": "Oracle", "performer": "Machinedrum feat. Aja Monet"},
               { "title": "Love Hexagon", "performer": "Ardalan"},
               { "title": "Day 2000 AWake", "performer": "Amanda Bergman"},
               { "title": "A Different Light", "performer": "Trentemøller"},
