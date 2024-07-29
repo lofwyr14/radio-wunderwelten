@@ -12575,7 +12575,7 @@
           "date": "2024-06-09",
           "songs": [
             [
-              { "time": "22:04", "title": "Goodbye, Arrivederci", "performer": "Roy BIanco"},
+              { "time": "22:04", "title": "Goodbye, Arrivederci", "performer": "Roy Bianco & Die Abbrunzati Boys"},
               { "title": "Lay It On The Line", "performer": "MJ Cole"},
               { "title": "Feel", "performer": "LP Giobbi feat. Jacob Banks"},
               { "title": "Low End", "performer": "Emika"},
@@ -12845,6 +12845,52 @@
               { "title": "So Soft", "performer": "Wildes"},
               { "title": "Goodbye, Arrivederci", "performer": "Roy Bianco & Die Abbrunzati Boys"},
               { "title": "Broke My Heart", "performer": "Caribou"}
+            ]
+          ]
+        },
+        {
+          "id": "29",
+          "date": "2024-07-21",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Rock The Boat (Salute Remix)", "performer": "Aaliyah"},
+              { "title": "Obsession", "performer": "Jozef K"},
+              { "title": "Gangsta (Watch The Ride Remix) ", "performer": "Total Science & S.P.Y."},
+              { "title": "Jungle Leng", "performer": "Killa P, Numa Crew & Fleck"},
+              { "title": "Real Hot", "performer": "Anaïs & Sweetie Irie & Naomi Cowan"},
+              { "title": "Dropping Acid", "performer": "Aiwaska"},
+              { "title": "Love Insurrection", "performer": "Primal Scream"},
+              { "title": "Peace Train", "performer": "Kitty Solaris"},
+              { "title": "Headbanging", "performer": "Levin Goes Lightly"},
+              { "title": "All I Want (Jakka Remix)", "performer": "Plump DJs"},
+              { "title": "Pan", "performer": "Dismantle"},
+              { "title": "Emu Rock", "performer": "GUM & Ambrose Kenny-Smith"}
+            ],
+            [
+              { "time": "23:04", "title": "Powertrippn", "performer": "GUM & Ambrose Kenny-Smith"},
+              { "title": "The Gloater", "performer": "GUM & Ambrose Kenny-Smith"},
+              { "title": "The Edge", "performer": "M. Byrd"},
+              { "title": "Dolphin Dance", "performer": "Beachwood Sparks"},
+              { "title": "Remember", "performer": "Weval"},
+              { "title": "Ego", "performer": "Disfreq & Dukwa"},
+              { "title": "Lonsdale Slipons", "performer": "The Bug Club"},
+              { "title": "Kinky", "performer": "bby"},
+              { "title": "Rat King", "performer": "Komodo"},
+              { "title": "Calling You Out", "performer": "Charly Bliss"},
+              { "title": "You Don´t See Me", "performer": "Laolu feat. Nomvula"},
+              { "title": "Take Care Of You", "performer": "Dangerous Dreaming"}
+            ],
+            [
+              { "time": "00:04", "title": "Reset", "performer": "Adellic"},
+              { "title": "Berlin Plex", "performer": "Fel C"},
+              { "title": "Talk", "performer": "Coldplay"},
+              { "title": "Fat Dog", "performer": "Dr. Dog"},
+              { "title": "Talk Is Cheap", "performer": "Dr. Dog"},
+              { "title": "The Love Theme", "performer": "Alex Kassian & Running Hot"},
+              { "title": "More For Me (Benito Situation)", "performer": "MJ Cole feat. Sydney Jane"},
+              { "title": "Stand Up", "performer": "MJ Cole & K-Lone"},
+              { "title": "I´M God (Heron Flow Remix)", "performer": "Clams Casino"},
+              { "title": "Sleepless Strangers", "performer": " Suzan Köcher´s Suprafon"}
             ]
           ]
         }
