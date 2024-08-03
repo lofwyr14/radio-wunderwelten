@@ -12573,6 +12573,7 @@
         {
           "id": "23",
           "date": "2024-06-09",
+          "checked": {"date": "2024-08-03", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Goodbye, Arrivederci", "performer": "Roy Bianco & Die Abbrunzati Boys"},
@@ -12584,13 +12585,13 @@
               { "title": "Right Here", "performer": "Elkka"},
               { "title": "Alive (Edit)", "performer": "Kasbo"},
               { "title": "Raining On Your Pillow", "performer": "DIIV"},
-              { "title": "Don´t Do Anything Stupid", "performer": "Bored At My Grandmas House"},
+              { "title": "Imposter Syndrome", "performer": "Bored At My Grandmas House"},
               { "title": "Best Life", "performer": "Ben Böhmer feat. Noah"},
               { "title": "Freezer", "performer": "Pony"},
               { "title": "Make It Right", "performer": "Steve Wynn"}
             ],
             [
-              { "time": "23:04", "title": "Imali Yami", "performer": "Mxshi & Skream"},
+              { "time": "23:04", "title": "Imali Yami", "performer": "Mxshi Mo & Skream"},
               { "title": "Back To One", "performer": "Peggy Gou"},
               { "title": "Del Oro", "performer": "Floating Points"},
               { "title": "Slow Down", "performer": "Velvet Meadow"},
@@ -12613,7 +12614,7 @@
               { "title": "Euphoric Avenue", "performer": "Brijean"},
               { "title": "Sleep Talk", "performer": "Goat Girl"},
               { "title": "Atlantis", "performer": "Kasbo feat. Shallou & BJOERN"},
-              { "title": "It´s Alright", "performer": "Helsloot feat. Malou"}
+              { "title": "It´s Alright (Extended Mix)", "performer": "Helsloot feat. Malou"}
             ]
           ]
         },
