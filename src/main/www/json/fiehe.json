@@ -12624,7 +12624,7 @@
           "songs": [
             [
               { "time": "22:04", "title": "Treat Each Other Right", "performer": "Jamie xx"},
-              { "title": "Trance You", "performer": "Dusky"},
+              { "title": "Trance You (Extended Mix)", "performer": "Dusky"},
               { "title": "Cosmic Runner (Peder Mannerfelt Remix)", "performer": "Alberta Balsam"},
               { "title": "Me And Madonna", "performer": "Black Strobe"},
               { "title": "The Chords Of Redemption", "performer": "Arnaud Rebotini"},
@@ -12892,6 +12892,53 @@
               { "title": "Stand Up", "performer": "MJ Cole & K-Lone"},
               { "title": "I´M God (Heron Flow Remix)", "performer": "Clams Casino"},
               { "title": "Sleepless Strangers", "performer": " Suzan Köcher´s Suprafon"}
+            ]
+          ]
+        },
+        {
+          "id": "30",
+          "date": "2024-07-28",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Last One", "performer": "Bakey"},
+              { "title": "Undercover", "performer": "99 Nissan Patrol"},
+              { "title": "Fifteen Blocks", "performer": "Submerse"},
+              { "title": "Smile", "performer": "Wand"},
+              { "title": "Lyo No Hito", "performer": "Maya Ongaku"},
+              { "title": "Forellental (Simas Slabačiauskas Remix)", "performer": "Niklas Wandt"},
+              { "title": "A Naked Star", "performer": "Dumbo Tracks feat. Rubee Fegan"},
+              { "title": "Is It Over Now?", "performer": "Polar Noir"},
+              { "title": "Metro Alien", "performer": "Pink Stiletto"},
+              { "title": "Breathe", "performer": "bby"}
+            ],
+            [
+              { "time": "23:04", "title": "Space Woman", "performer": "Charlie"},
+              { "title": "d´ACID (Slow Assembly Remix)", "performer": "Void Complet"},
+              { "title": "Don´t Let That Wolf Bite You Twice", "performer": "Laura Coch"},
+              { "title": "Ghetto Capitalism", "performer": "Jaymie Silk"},
+              { "title": "Dogear", "performer": "J.R.C.G."},
+              { "title": "Boyfriend", "performer": "Matty"},
+              { "title": "Blu", "performer": "Girl Ultra"},
+              { "title": "Train", "performer": "Niall Summerton"},
+              { "title": "The Fences Of Stonehenge", "performer": "Wild Pink"},
+              { "title": "Die For Someone", "performer": "Sam Tompkins"},
+              { "title": "Numb", "performer": "Sam Tompkins"},
+              { "title": "Bounce To The Beat (Chris Stussy Remix)", "performer": "Todd Terry"},
+              { "title": "Kick It", "performer": "Matrefakt"}
+            ],
+            [
+              { "time": "00:04", "title": "Velocita", "performer": "Roy Bianco & Die Abbrunzati Boys"},
+              { "title": "Peace Train", "performer": "Kitty Solaris"},
+              { "title": "Droppin´ Acid (Hotdisc Remix)", "performer": "Aiwaska"},
+              { "title": "Everybody Needs That", "performer": "Elisa Elisa"},
+              { "title": "Grindin", "performer": "Main Phase"},
+              { "title": "Resilience", "performer": "GUM & Ambrose Kenny-Smith"},
+              { "title": "Harmonica", "performer": "The Graham Bond Organisation"},
+              { "title": "Run You Off The Hill", "performer": "The Ainsley Dunbar Retaliation"},
+              { "title": "What´d I Say", "performer": "John Mayall & The Bluesbreakers"},
+              { "title": "C´mon Everybody", "performer": "UFO"},
+              { "title": "Memories", "performer": "John Mayall"},
+              { "title": "Room To Move", "performer": "John Mayall"}
             ]
           ]
         }
