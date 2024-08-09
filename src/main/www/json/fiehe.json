@@ -12621,6 +12621,7 @@
         {
           "id": "24",
           "date": "2024-06-16",
+          "checked": {"date": "2024-08-09", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Treat Each Other Right", "performer": "Jamie xx"},
@@ -12646,7 +12647,7 @@
               { "title": "Dreaming", "performer": "Dave DK & Anton Tumas"},
               { "title": "Fashion (Kasper Bjørke Remix)", "performer": "Aili"},
               { "title": "Shark - Shark", "performer": "John Cale"},
-              { "title": "I Go Dance (Leena Punks & Shay De Castro Remix)", "performer": "KIesza"}
+              { "title": "I Go Dance (Leena Punks & Shay De Castro Remix)", "performer": "Kiesza"}
             ],
             [
               { "time": "00:04", "title": "Eat Your Dollar (Each Other Remix)", "performer": "Baby´s Berserk"},
