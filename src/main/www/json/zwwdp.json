@@ -87739,6 +87739,10 @@
         {
           "id": "32",
           "date": "2024-08-08",
+          "checked": {
+            "date": "2024-08-19",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -87808,8 +87812,8 @@
               },
               {
                 "time": "22:50",
-                "title": "Suicide Is Painless (Theme From \"M.A.S.H.\")",
-                "performer": "Pizzicato One (feat. Roger Nichols & The Small Circle Of Friends)"
+                "title": "Suicide Is Painless",
+                "performer": "Pizzicato One"
               },
               {
                 "time": "22:54",
@@ -87825,8 +87829,8 @@
             [
               {
                 "time": "23:04",
-                "title": "All This Love",
-                "performer": "Braxe + Falcon & Bibio"
+                "title": "All This Love (feat. Bibio)",
+                "performer": "Braxe + Falcon"
               },
               {
                 "time": "23:08",
@@ -87835,7 +87839,7 @@
               },
               {
                 "time": "23:12",
-                "title": "Nothing",
+                "title": "Nothing (Richie Stevens Smudge Remix)",
                 "performer": "Paul Weller"
               },
               {
@@ -87846,7 +87850,7 @@
               {
                 "time": "23:19",
                 "title": "Spring Has Sprung",
-                "performer": "SOYUZ (???????3) Asha Puthli & Sven Wunder"
+                "performer": "Soyuz feat. Asha Puthli & Sven Wunder"
               },
               {
                 "time": "23:21",
