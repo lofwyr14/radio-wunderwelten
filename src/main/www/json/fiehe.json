@@ -12668,13 +12668,14 @@
         {
           "id": "25",
           "date": "2024-06-23",
+          "checked": {"date": "2024-08-24", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Vampyre", "performer": "Kate Nash"},
               { "title": "Bones", "performer": "K-Lone"},
               { "title": "Period Point Blank (Bernadette Remix)", "performer": "Sabrina Bellaouel"},
               { "title": "Phoneglow", "performer": "Burial"},
-              { "title": "Now Or Never", "performer": "GHSTGHSTGHST & lau.ra"},
+              { "title": "Now Or Never (Extended Mix)", "performer": "GHSTGHSTGHST & lau.ra"},
               { "title": "O, UV Ray", "performer": "Pond"},
               { "title": "Seventeen", "performer": "Suzan Köcher´s Suprafon"},
               { "title": "Ghostride", "performer": "Interlaker"},
@@ -12691,14 +12692,14 @@
               { "title": "King Of Nothing", "performer": "Gretel Hänlyn"},
               { "title": "Losing Out", "performer": "Total Tommy"},
               { "title": "Know You", "performer": "Nothing Special"},
-              { "title": "Praise Him", "performer": "Auntie Flo"},
-              { "title": "Love Me", "performer": "Hot Since 82"}
+              { "title": "Praise Him (Piano Version)", "performer": "Auntie Flo"},
+              { "title": "Love Me (Extended Mix)", "performer": "Hot Since 82"}
             ],
             [
               { "time": "00:04", "title": "End Of My Rope", "performer": "Rui Gabriel"},
               { "title": "Purple Heaven", "performer": "Sal Dulu"},
               { "title": "Gas (4.19)", "performer": "Biicla"},
-              { "title": "Work Over", "performer": "Dharma"},
+              { "title": "Scatty Brain", "performer": "Dharma"},
               { "title": "Mica", "performer": "Dumbo Tracks feat. Ada"},
               { "title": "What If", "performer": "Dumbo Tracks & Julian Stetter feat. Nothingspecial"},
               { "title": "Rancho Relaxo (Radio Slave Remix)", "performer": "Anja Schneider & Sebo K"},
