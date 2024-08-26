@@ -13039,6 +13039,52 @@
               { "title": "Gaia Sunset Pt. 2", "performer": "Jimi Tenor with Cold Diamond & Mink"}
             ]
           ]
+        },
+        {
+          "id": "33",
+          "date": "2024-08-18",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Theme Sax", "performer": "Jimi Tenor"},
+              { "title": "Three Drums", "performer": "Four Tet"},
+              { "title": "Fleck", "performer": "Levin Goes Lightly"},
+              { "title": "Entertain Us", "performer": "Mano Le Tough & Perel"},
+              { "title": "Tragic", "performer": "Charly Bliss"},
+              { "title": "Wish Me Away", "performer": "Gift"},
+              { "title": "Can´t Dance", "performer": "TSHA feat. Master Peace"},
+              { "title": "Hypnotic", "performer": "Craig David"},
+              { "title": "40 Day Dream", "performer": "Edward Sharpe & The Magnetic Zeros"},
+              { "title": "Norwegian Wood", "performer": "Picture Parlour"},
+              { "title": "Once Again", "performer": "Tramhaus"}
+            ],
+            [
+              { "time": "23:04", "title": "Dreamweavers", "performer": "Anders Trentemøller"},
+              { "title": "Is It Over Now", "performer": "Polar Noir"},
+              { "title": "Oyster Cuts", "performer": "Quivers"},
+              { "title": "Treat Each Other Right", "performer": "Jamie XX"},
+              { "title": "Brits Bootleg", "performer": "Minder"},
+              { "title": "Mentally", "performer": "Asake"},
+              { "title": "Wave", "performer": "Asake"},
+              { "title": "In The Night (Bakongo Remix)", "performer": "Marvin FUsion"},
+              { "title": "The Preacher", "performer": "Harry Robson"},
+              { "title": "Blitzkrieg Bop", "performer": "Dubmones"},
+              { "title": "Knete, Klappstuhl, Leiche, Plastinake, Dreck und Speiche", "performer": "Das Lunsentrio"},
+              { "title": "Crying At The End", "performer": "Porches"}
+            ],
+            [
+              { "time": "00:04", "title": "7 O´Clock", "performer": "The Quireboys"},
+              { "title": "Velvet", "performer": "Royel Otis"},
+              { "title": "Rainbow Drops", "performer": "Lili Chan"},
+              { "title": "Uwaki (Love Someone Else)", "performer": "Lili CHan"},
+              { "title": "See You In The Afterlife", "performer": "Foster The People"},
+              { "title": "Latency (Bakey Remix)", "performer": "Corto Alto"},
+              { "title": "The Last One", "performer": "Bakey"},
+              { "title": "Step Into Your Power", "performer": "Ray LaMontagne"},
+              { "title": "The Old House", "performer": "Malice K"},
+              { "title": "Let´s See How Things Go", "performer": "Jaakko Eino Kalevi"},
+              { "title": "Heartless", "performer": "WhoMadeWho & Kölsch"}
+            ]
+          ]
         }
       ]
     }
