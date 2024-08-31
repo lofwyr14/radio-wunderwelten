@@ -88114,6 +88114,11 @@
                 "performer": "Sharkey"
               },
               {
+                "time": "23:12",
+                "title": "Smeels Like Teen Spirit",
+                "performer": "Frank Sinatra (AI Cover)"
+              },
+              {
                 "time": "23:14",
                 "title": "The Warmth Of The Sun",
                 "performer": "Kolumbo"
@@ -88159,6 +88164,11 @@
                 "performer": "Rosie Lowe"
               },
               {
+                "time": "23:48",
+                "title": "All At Sea",
+                "performer": "Bill Wells With Friends"
+              },
+              {
                 "time": "23:53",
                 "title": "X's",
                 "performer": "Cigarettes After Sex"
@@ -88171,6 +88181,135 @@
               {
                 "time": "23:58",
                 "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "35",
+          "date": "2024-08-29",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Summer Days Are Forever",
+                "performer": "Aerospace"
+              },
+              {
+                "title": "Only One",
+                "performer": "Everyone Says Hi"
+              },
+              {
+                "title": "Lord Above",
+                "performer": "Matt Berry"
+              },
+              {
+                "title": "Les Fleurs (Radio Edit)",
+                "performer": "4 Hero"
+              },
+              {
+                "title": "Sleepless",
+                "performer": "Bombay Bicycle Club & Jay Som"
+              },
+              {
+                "title": "Velvet Cherry",
+                "performer": "Atomic Blue"
+              },
+              {
+                "title": "Rigid Dreams",
+                "performer": "Marcoca"
+              },
+              {
+                "title": "Thank You For Listening",
+                "performer": "Michael Benedikt"
+              },
+              {
+                "title": "The Gospel Of Exiles",
+                "performer": "Alex Izenberg"
+              },
+              {
+                "title": "Tomorrow Never Knows (2022 Mix)",
+                "performer": "The Beatles"
+              },
+              {
+                "title": "Sunday clothes",
+                "performer": "The Crumble Factory"
+              },
+              {
+                "title": "But Wait, There’s More",
+                "performer": "Ben Folds"
+              },
+              {
+                "title": "Shopping",
+                "performer": "The Jam"
+              },
+              {
+                "title": "Snowblind, Sunblind",
+                "performer": "The Fisherman And His Soul"
+              },
+              {
+                "title": "Quarter To Two",
+                "performer": "The Silver Abduction"
+              },
+              {
+                "title": "Bourdain",
+                "performer": "Dana And Alden"
+              },
+              {
+                "title": "Would It Be Impossible",
+                "performer": "The Superimposers"
+              },
+              {
+                "title": "Masque",
+                "performer": "Mndsgn"
+              },
+              {
+                "title": "Summer In Blue Jelly",
+                "performer": "Shino Kobayashi x Small Garden"
+              },
+              {
+                "title": "Closer To The Clouds",
+                "performer": "Oakfish"
+              },
+              {
+                "title": "The EMI Song (Smile For Me)",
+                "performer": "Chilton, Alex"
+              },
+              {
+                "title": "Ein guter Tag",
+                "performer": "Klaus Johann Grobe"
+              },
+              {
+                "title": "Smile",
+                "performer": "The Interlaken Tapes"
+              },
+              {
+                "title": "Starlight",
+                "performer": "Yola"
+              },
+              {
+                "title": "Morning Haze",
+                "performer": "The Soundcarriers"
+              },
+              {
+                "title": "Private Sunshine",
+                "performer": "Ashley Slater's Biglounge"
+              },
+              {
+                "title": "Haven",
+                "performer": "Svaneborg Kardyb"
+              },
+              {
+                "title": "Koop Island Blues",
+                "performer": "Koop"
+              },
+              {
+                "title": "Sound And vision",
+                "performer": "Negro, Helado"
+              },
+              {
+                "title": "Good night",
                 "performer": "The Beatles"
               }
             ]
