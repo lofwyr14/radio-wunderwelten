@@ -12714,15 +12714,16 @@
         {
           "id": "26",
           "date": "2024-06-30",
+          "checked": {"date": "2024-09-01", "user": "jg"},
           "songs": [
             [
-              { "time": "22:04", "title": "Love At The Afters", "performer": "Amy Dabbs"},
+              { "time": "22:04", "title": "Love At The Afters (Extended Version)", "performer": "Amy Dabbs"},
               { "title": "Echoes Of Chaos", "performer": "Fabrice"},
               { "title": "Bittersweet", "performer": "LP Giobbi feat. Portugal The Man"},
               { "title": "Got Your Back", "performer": "Washed Out"},
               { "title": "Fashion (Kasper Bjørke Remix)", "performer": "Aili"},
               { "title": "Surya Mandir", "performer": "Keshavara"},
-              { "title": "I Was On The Moon", "performer": " Máni Orrason"},
+              { "title": "Crush", "performer": "Máni Orrason"},
               { "title": "Hekele", "performer": "Atmos Blaq feat. Papany"},
               { "title": "No Trouble In Paradise", "performer": "L.B. Dub Corp feat. Paul St. Hilaire"},
               { "title": "Bad Indian", "performer": "Dead Pioneers"}
@@ -12744,7 +12745,7 @@
             ],
             [
               { "time": "00:04", "title": "Late For Supper (LP Giobbi & Le Chev Remix)", "performer": "Jerry Garcia & LP Giobbi"},
-              { "title": "Bittersweet (Extended)", "performer": "LP Giobbi & Portugal. The Man"},
+              { "title": "Bittersweet (Extended Mix)", "performer": "LP Giobbi & Portugal. The Man"},
               { "title": "Wasteman", "performer": "Kate Nash"},
               { "title": "CPR", "performer": "Dumbo Tracks feat. Rubee Fegan"},
               { "title": "I Heard (Benny Mussa Edit)", "performer": "Young Fathers"},
@@ -12753,7 +12754,8 @@
               { "title": "Money Face", "performer": "Sweatson Klank & Kondi Band"},
               { "title": "In Your Eyes", "performer": "Mild Minds & edapollo"},
               { "title": "Underrated Forever", "performer": "Kafvka feat. Roger Rekless, PTK"},
-              { "title": "Saddest Disco Girl", "performer": "Ava Vegas feat. French Horn Rebellion"}
+              { "title": "Saddest Disco Girl", "performer": "Ava Vegas feat. French Horn Rebellion"},
+              { "title": "Chaperone", "performer": "Mermad Chunky"}
             ]
           ]
         },
