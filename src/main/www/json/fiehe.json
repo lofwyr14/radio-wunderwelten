@@ -13087,6 +13087,53 @@
               { "title": "Heartless", "performer": "WhoMadeWho & Kölsch"}
             ]
           ]
+        },
+        {
+          "id": "34",
+          "date": "2024-08-25",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Destiny (Boys´ Shorts Remix)", "performer": "Joe Goddard"},
+              { "title": "Trance You", "performer": "Dusky"},
+              { "title": "Hype 4 Hype", "performer": "Giza DJs"},
+              { "title": "Light Runner", "performer": "Gift"},
+              { "title": "You Don´t Know Me (David Holmes Remix)", "performer": "Ammonite"},
+              { "title": "Sundowner", "performer": "Fontaines D.C."},
+              { "title": "The Failure Of Stiff, Tired Friends", "performer": "Yoo Doo Right"},
+              { "title": "Wahr oder erfunden", "performer": "Die Mausis"},
+              { "title": "Radio", "performer": "Malice K"},
+              { "title": "Parallel (Immersion Remix)", "performer": "DAIISTAR"},
+              { "title": "Super Breath", "performer": "Karen O & Danger Mouse"}
+            ],
+            [
+              { "time": "23:04", "title": "Wish Me Away", "performer": "Gift"},
+              { "title": "Later", "performer": "Gift"},
+              { "title": "Fading (Maps Remix)", "performer": "Timothy Clerkin"},
+              { "title": "Breathe Now", "performer": "Tara Lily"},
+              { "title": "All Kind Of Ideas", "performer": "Common & Pete Rock"},
+              { "title": "Final Vibal", "performer": "Ben Katzman´s DeGreaser feat. Guerilla Toss"},
+              { "title": "Homie Don´t Shake", "performer": "Fcukers"},
+              { "title": "Close", "performer": "Gustaf"},
+              { "title": "Tommy", "performer": "Fcukers"},
+              { "title": "Seventeen", "performer": "Suzan Köcher´s Suprafon"},
+              { "title": "Hibernation", "performer": "Florence Besch"},
+              { "title": "Don´t Change", "performer": "Los Bitchos"}
+            ],
+            [
+              { "time": "00:04", "title": "Progress (Black Science Orchestra Vocal Remix)", "performer": "Joe Goddard & Ibibio Sound Machine"},
+              { "title": "You Don´t See Me", "performer": "Laolu feat. Nomvula"},
+              { "title": "Suru", "performer": "Asake feat. Stormzy"},
+              { "title": "Yes, OK", "performer": "Samiel"},
+              { "title": "Electrische", "performer": "Body Meat"},
+              { "title": "Find The Way", "performer": "Peggy Gou"},
+              { "title": "Morgengrau", "performer": "Benzi"},
+              { "title": "Favourite", "performer": "Fontaines D.C."},
+              { "title": "Molly´s CHamber", "performer": "Kings Of Leon"},
+              { "title": "Lonsdale Slipon", "performer": "The Bug Club"},
+              { "title": "DVTR", "performer": "DVTR"},
+              { "title": "Ocotillo", "performer": "Floating Points"}
+            ]
+          ]
         }
       ]
     }
