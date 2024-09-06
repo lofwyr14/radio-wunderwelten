@@ -88314,6 +88314,138 @@
               }
             ]
           ]
+        },
+        {
+          "id": "36",
+          "date": "2024-09-05",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "Working In A Song Mine",
+                "performer": "The Hepburns"
+              },
+              {
+                "title": "September Something",
+                "performer": "Sondre Lerche"
+              },
+              {
+                "title": "Moving On",
+                "performer": "PRESSYES"
+              },
+              {
+                "title": "Wala",
+                "performer": "The Bloomfields"
+              },
+              {
+                "title": "The City Was",
+                "performer": "The Soundcarriers"
+              },
+              {
+                "title": "Marbles",
+                "performer": "Mother Sun"
+              },
+              {
+                "title": "Super Breath",
+                "performer": "Karen O & Danger Mouse"
+              },
+              {
+                "title": "Velvet Cherry",
+                "performer": "Atomic Blue"
+              },
+              {
+                "title": "David And Goliath",
+                "performer": "Nathaniel Rateliff & The Night Sweats"
+              },
+              {
+                "title": "Feelgood By Numbers",
+                "performer": "The Go! Team"
+              },
+              {
+                "title": "Time We Talked Again",
+                "performer": "The Cleaners From Venus"
+              },
+              {
+                "title": "Sandy Legs",
+                "performer": "Kolumbo"
+              },
+              {
+                "title": "Eyes On Me",
+                "performer": "BadBadNotGood"
+              },
+              {
+                "title": "Soda",
+                "performer": "The Interlaken Tapes"
+              },
+              {
+                "title": "Qmqs",
+                "performer": "Allez Kiki Fermentation"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Image",
+                "performer": "Brian Bennett"
+              },
+              {
+                "title": "On My Mind",
+                "performer": "Baby Rose & Badbadnotgood"
+              },
+              {
+                "title": "When I Look At You",
+                "performer": "Irini Arabatzi"
+              },
+              {
+                "title": "Look Up, Paradise",
+                "performer": "Channel Swimmer"
+              },
+              {
+                "title": "That's What She Said",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "Faded And Golden",
+                "performer": "Caroline Says"
+              },
+              {
+                "title": "Under Lock And Key",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "title": "Caught In A Dream",
+                "performer": "Daniel Carlson"
+              },
+              {
+                "title": "To Your Own Devices",
+                "performer": "Kate Bollinger"
+              },
+              {
+                "title": "Spec Of Dust Becomes A Beam",
+                "performer": "Andrew Wasylyk & Tommy Perman"
+              },
+              {
+                "title": "Horsie",
+                "performer": "Homeshake"
+              },
+              {
+                "title": "It's About Time",
+                "performer": "Los Bitchos"
+              },
+              {
+                "title": "Apple juice",
+                "performer": "Penelope Isles"
+              },
+              {
+                "title": "Always A Stranger",
+                "performer": "Tindersticks"
+              },
+              {
+                "title": "Good Night",
+                "performer": "The Beatles"
+              }
+            ]
+          ]
         }
       ]
     }
