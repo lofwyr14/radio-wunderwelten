@@ -13134,6 +13134,53 @@
               { "title": "Ocotillo", "performer": "Floating Points"}
             ]
           ]
+        },
+        {
+          "id": "35",
+          "date": "2024-09-01",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Final Rescue Attempt", "performer": "Nick Cave & The Bad Seeds"},
+              { "title": "Dvices", "performer": "Tycho"},
+              { "title": "Come Find Me", "performer": "Caribou"},
+              { "title": "Treat Each Other RIght", "performer": "Jamie XX"},
+              { "title": "What I´m About", "performer": "Farouki"},
+              { "title": "Intersecting Frequencies", "performer": "Fabrice"},
+              { "title": "Susie Q", "performer": "Dale Hawkins"},
+              { "title": "Staying Alive", "performer": "Warmduscher"},
+              { "title": "Mother´s Grace (Stone Taro Rmx)", "performer": "SIS"},
+              { "title": "Flex FM", "performer": "Joy Orbison feat. Lil Yachty, Future & Playboi Carty"},
+              { "title": "Call (Solomun Remix)", "performer": "Kasabian"},
+              { "title": "U Stole The Summer (CFCF Remix)", "performer": "Basile3"}
+            ],
+            [
+              { "time": "23:04", "title": "Hip Teens (Don´t Wear Blue Jeans)", "performer": "Lex Eazy & The Mambo Club"},
+              { "title": "Live With It", "performer": "Donkey Kid"},
+              { "title": "Can´t Get Enough Of Her Love", "performer": "Matty"},
+              { "title": "Heroes", "performer": "Oasis"},
+              { "title": "Cahoot", "performer": "Bleaching Agent"},
+              { "title": "Proclivities", "performer": "LL Cool J feat. Saweetie"},
+              { "title": "Joker Lips", "performer": "MJ Lenderman"},
+              { "title": "Casual Drug Use", "performer": "Katie Gavin"},
+              { "title": "All Up", "performer": "Ocean Colour Scene"},
+              { "title": "Sister Surround", "performer": "The Soundtrack Of Our Lives"},
+              { "title": "Live Forever (Monnow Valley Version)", "performer": "Oasis"},
+              { "title": "U Never See", "performer": "Scuba"}
+            ],
+            [
+              { "time": "00:04", "title": "Leave Them All Behind", "performer": "Ride"},
+              { "title": "Belaya Polosa (Белая Полоса)", "performer": "Molchat Doma"},
+              { "title": "Rain", "performer": "Wunderhorse"},
+              { "title": "My Generation", "performer": "Oasis"},
+              { "title": "Part ii - palace/illusion", "performer": "Jon Hopkins"},
+              { "title": "Phantom", "performer": "Tycho"},
+              { "title": "Domiray", "performer": "Benyayer"},
+              { "title": "Rain Can´t Reach Us", "performer": "Yannis & The YAW"},
+              { "title": "Caroline", "performer": "School Of X"},
+              { "title": "Stand Near Your Fire", "performer": "Albertine Sarges"},
+              { "title": "Columbia (Sawmills Outtake)", "performer": "Oasis"}
+            ]
+          ]
         }
       ]
     }
