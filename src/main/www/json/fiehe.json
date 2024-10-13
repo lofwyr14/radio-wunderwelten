@@ -13278,6 +13278,52 @@
               { "title": "Hypnogram", "performer": "Thurston Moore"}
             ]
           ]
+        },
+        {
+          "id": "38",
+          "date": "2024-09-22",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Wonderback", "performer": "Jay-Z vs Oasis"},
+              { "title": "Baddy On The Floor", "performer": "Jamie XX feat. Honey Dijon"},
+              { "title": "Homie Don´t Shake", "performer": "Fcukers"},
+              { "title": "Sidan Sidast", "performer": "Kusk"},
+              { "title": "Quitter La Ville", "performer": "Laura Cahen"},
+              { "title": "Tell Your Ex (Woi Oi)", "performer": "Lewis Fitzgerald feat. NSG"},
+              { "title": "Fall Behind", "performer": "BÆNCH"},
+              { "title": "The Kiss", "performer": "IST IST"},
+              { "title": "Erwischt", "performer": "Kati K feat. Finch"},
+              { "title": "The Dream", "performer": "Joan As Police Woman"},
+              { "title": "For A Friend", "performer": "Elephant"}
+            ],
+            [
+              { "time": "23:04", "title": "Saturday (Digital Underground)", "performer": "Scuba"},
+              { "title": "U Never See (Digital Underground)", "performer": "Scuba"},
+              { "title": "Still Summer", "performer": "Jamie XX"},
+              { "title": "Airplanes", "performer": "Busty And The Bass feat. Cadence Weapon"},
+              { "title": "The Failure Of Stiff, Tired Friends", "performer": "Yoo Doo Right"},
+              { "title": "Tell Me More", "performer": "A-f-a-r"},
+              { "title": "Forget", "performer": "Moonpools"},
+              { "title": "It´s Not Easy", "performer": "RVG"},
+              { "title": "Dream Of Me", "performer": "NewDad"},
+              { "title": "Velvet", "performer": "Royel Otis"},
+              { "title": "Handlebar", "performer": "C´est Karma"},
+              { "title": "Monsters", "performer": "Eli & Fur"}
+            ],
+            [
+              { "time": "00:04", "title": "River Flows", "performer": "Milan Ring feat. Pookie"},
+              { "title": "Plant", "performer": "Efterklang feat. Mabe Fratti"},
+              { "title": "Glitter Souls", "performer": "Eat Them"},
+              { "title": "97%", "performer": "Jools"},
+              { "title": "In A Storm", "performer": "Trentemøller  "},
+              { "title": "Bul Bul Bul", "performer": "Kit Sebastian"},
+              { "title": "Nothing At All", "performer": "Lezard"},
+              { "title": "Flex FM", "performer": "Joy Orbison feat. Lil Yachty, Future & Playboi Carty"},
+              { "title": "Falling Together", "performer": "Jamie XX feat. Oona Doherty"},
+              { "title": "Wave Back To Confusion", "performer": "Polymoon"},
+              { "title": "Hora Hora", "performer": "Duality"}
+            ]
+          ]
         }
       ]
     }
