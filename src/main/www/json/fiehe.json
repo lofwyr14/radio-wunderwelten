@@ -13181,6 +13181,56 @@
               { "title": "Columbia (Sawmills Outtake)", "performer": "Oasis"}
             ]
           ]
+        },
+        {
+          "id": "36",
+          "date": "2024-09-08",
+          "songs": [
+            [
+              { "title": "Later", "performer": "Gift"},
+              { "title": "Soft Phantasy", "performer": "Spell Trouble"},
+              { "title": "Okay", "performer": "Levin Goes Lightly feat. Flora"},
+              { "title": "Alfonzo", "performer": "ISSA & YPIN"},
+              { "title": "Los Angeles (Fcukers Remix)", "performer": "Lol Tolhurst feat. James Murphy"},
+              { "title": "Perfume", "performer": "The Dare"},
+              { "title": "The Bed, The Room, The Rain And You", "performer": "HINDS"},
+              { "title": "Storms Of Love", "performer": "Scuba"},
+              { "title": "I wna doit nth backst", "performer": "Scuba"},
+              { "title": "Soundguy", "performer": "GLXY & Sustance"},
+              { "title": "The Last One", "performer": "Bakey"},
+              { "title": "Sunshine", "performer": "Luttrell"},
+              { "title": "Wonderland By Night", "performer": "Bert Kaempfert"},
+              { "title": "Funkadelic Relic", "performer": "LL Cool J"}
+            ],
+            [
+              { "title": "Saturday Night Special", "performer": "LL Cool J, Rick Ross & Fat Joe"},
+              { "title": "Huey In The Chair", "performer": "LL Cool J & Busta Rhymes"},
+              { "title": "Vitamin C", "performer": "Can"},
+              { "title": "Vigilante", "performer": "Fat Dog"},
+              { "title": "Losing My Edge", "performer": "LCD Soundsystem"},
+              { "title": "Homie Don´t Shake", "performer": "Fcukers"},
+              { "title": "Bon Bon", "performer": "Fcukers"},
+              { "title": "Droving", "performer": "Midwife"},
+              { "title": "A Different Light", "performer": "Trentemøller"},
+              { "title": "Meiso Ongaku 2", "performer": "Maya Ongaku"},
+              { "title": "Rahsaan Roland Kirk", "performer": "Missus Beastly"},
+              { "title": "`Bout My Paper", "performer": "Foxy Brown feat. Mystikal"}
+            ],
+            [
+              { "title": "Spirit Of Cyrus", "performer": "LL Cool J & Snoop Dogg"},
+              { "title": "The Force", "performer": "LL Cool J"},
+              { "title": "Starlink", "performer": "Toro Y Moi & Glaive"},
+              { "title": "Always (Flava D Remix)", "performer": "Spectrasoul"},
+              { "title": "Poetry (Makoto Remix)", "performer": "DJ Marky & Solah"},
+              { "title": "Hard 2 Love", "performer": "Amy Dabbs feat. Mariah Colon"},
+              { "title": "Rainbow Drops", "performer": "Lili Chan"},
+              { "title": "Memories", "performer": "Nicky Elisabeth"},
+              { "title": "The Emptiness Machine", "performer": "Linking Park"},
+              { "title": "Overflow", "performer": "Silver Tongues"},
+              { "title": "The Rightous Front", "performer": "Party Dozen"},
+              { "title": "Manning Fireworks", "performer": "MJ Lenderman"}
+            ]
+          ]
         }
       ]
     }
