@@ -13187,7 +13187,7 @@
           "date": "2024-09-08",
           "songs": [
             [
-              { "title": "Later", "performer": "Gift"},
+              { "time": "22:04", "title": "Later", "performer": "Gift"},
               { "title": "Soft Phantasy", "performer": "Spell Trouble"},
               { "title": "Okay", "performer": "Levin Goes Lightly feat. Flora"},
               { "title": "Alfonzo", "performer": "ISSA & YPIN"},
@@ -13203,7 +13203,7 @@
               { "title": "Funkadelic Relic", "performer": "LL Cool J"}
             ],
             [
-              { "title": "Saturday Night Special", "performer": "LL Cool J, Rick Ross & Fat Joe"},
+              { "time": "23:04", "title": "Saturday Night Special", "performer": "LL Cool J, Rick Ross & Fat Joe"},
               { "title": "Huey In The Chair", "performer": "LL Cool J & Busta Rhymes"},
               { "title": "Vitamin C", "performer": "Can"},
               { "title": "Vigilante", "performer": "Fat Dog"},
@@ -13217,7 +13217,7 @@
               { "title": "`Bout My Paper", "performer": "Foxy Brown feat. Mystikal"}
             ],
             [
-              { "title": "Spirit Of Cyrus", "performer": "LL Cool J & Snoop Dogg"},
+              { "time": "00:04", "title": "Spirit Of Cyrus", "performer": "LL Cool J & Snoop Dogg"},
               { "title": "The Force", "performer": "LL Cool J"},
               { "title": "Starlink", "performer": "Toro Y Moi & Glaive"},
               { "title": "Always (Flava D Remix)", "performer": "Spectrasoul"},
@@ -13229,6 +13229,53 @@
               { "title": "Overflow", "performer": "Silver Tongues"},
               { "title": "The Rightous Front", "performer": "Party Dozen"},
               { "title": "Manning Fireworks", "performer": "MJ Lenderman"}
+            ]
+          ]
+        },
+        {
+          "id": "37",
+          "date": "2024-09-15",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Wild Mountain Honey", "performer": "Steve Miller Band"},
+              { "title": "Blue Dada", "performer": "Dummy"},
+              { "title": "City Bus", "performer": "Tanikuchan"},
+              { "title": "Heartless", "performer": "WhoMadeWho feat. Kölsch"},
+              { "title": "Waves", "performer": "Bart Rejn"},
+              { "title": "Nancy", "performer": "Tindersticks"},
+              { "title": "Nothing Really Changes (Sleaford Mods Remix)", "performer": "RVG"},
+              { "title": "Spring", "performer": "Nitsch"},
+              { "title": "Behind My Eyes", "performer": "Trentemøller  "},
+              { "title": "Two Strong Arms", "performer": "Bring Your Worries"},
+              { "title": "Mighty Fine & All Mine", "performer": "The Mystery Lights"}
+            ],
+            [
+              { "time": "23:04", "title": "Worldwide", "performer": "Bodysync"},
+              { "title": "Alt Systems", "performer": "Roska & Tony Quattro"},
+              { "title": "Le Meilleur Est A Venir", "performer": "Gregor Tresher feat. Laurent Garnier"},
+              { "title": "Free Energy", "performer": "Banaqnagun"},
+              { "title": "Afflecks Palace", "performer": "Floating Points"},
+              { "title": "Wie Man Es Nennt", "performer": "Die Nerven"},
+              { "title": "The Cure", "performer": "Kid Simius"},
+              { "title": "Anoyo Drive", "performer": "Maya Ongaku"},
+              { "title": "Helium", "performer": "Traumatin"},
+              { "title": "Fool 4 U", "performer": "Matty"},
+              { "title": "Concrete", "performer": "Lazy Day"},
+              { "title": "Peaced Out", "performer": "Winslow"}
+            ],
+            [
+              { "time": "00:04", "title": "Like I Say (I Runaway)", "performer": "Nilüfer Yanya"},
+              { "title": "Driver", "performer": "Soccer Mommy"},
+              { "title": "To Get You", "performer": "Suki Waterhouse"},
+              { "title": "Direkter Vergleich", "performer": "Antilopen Gang"},
+              { "title": "Ich helfe nicht bei Umzügen", "performer": "Antilopen Gang"},
+              { "title": "Come Find Me", "performer": "Caribou"},
+              { "title": "Handlebar", "performer": "C´est Karma"},
+              { "title": "Kiss Me Hard", "performer": "WhoMadeWho feat. Blue Hawaii"},
+              { "title": "Sun Birds (Massimiliano Pagliara Strandbar-Disco Remix)", "performer": "Eluize"},
+              { "title": "Dipping Out", "performer": "Gurriers"},
+              { "title": "What Fathers Do", "performer": "Sophie Chassée"},
+              { "title": "Hypnogram", "performer": "Thurston Moore"}
             ]
           ]
         }
