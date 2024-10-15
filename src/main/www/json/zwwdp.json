@@ -88024,6 +88024,10 @@
         {
           "id": "34",
           "date": "2024-08-22",
+          "checked": {
+            "date": "2024-10-15",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -88165,7 +88169,7 @@
               },
               {
                 "time": "23:48",
-                "title": "All At Sea",
+                "title": "All At Sea (Live)",
                 "performer": "Bill Wells With Friends"
               },
               {
@@ -88559,6 +88563,134 @@
               {
                 "title": "Good Night",
                 "performer": "The Beatles"
+              }
+            ]
+          ]
+        },
+        {
+          "id": "38",
+          "date": "2024-09-19",
+          "songs": [
+            [
+              {
+                "time": "22:04",
+                "title": "My Ever Changing Moods",
+                "performer": "The Style Council"
+              },
+              {
+                "title": "Alone Again (Naturally)",
+                "performer": "Gilbert O'Sullivan"
+              },
+              {
+                "title": "Wild Wood (Unplugged Bremen Vier)",
+                "performer": "Paul Weller"
+              },
+              {
+                "title": "Macarthur Park",
+                "performer": "Jimmy Layne Webb"
+              },
+              {
+                "title": "Jesse James Symphony",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "title": "Jesse James Bolero",
+                "performer": "Prefab Sprout"
+              },
+              {
+                "title": "Vienna (Unplugged Bremen Vier)",
+                "performer": "Midge Ure"
+              },
+              {
+                "title": "(Unplugged Bremen Vier)",
+                "performer": "High Llamas"
+              },
+              {
+                "title": "I WouldnâT Miss My Way",
+                "performer": "Daniel Carlson & Neal Ostrovsky"
+              },
+              {
+                "title": "M's Collection (Unplugged Bremen Vier)",
+                "performer": "The Casper"
+              },
+              {
+                "title": "Pickepackevoll (Acoustic)",
+                "performer": "The Vals"
+              },
+              {
+                "title": "Witchi Tai To",
+                "performer": "Harpers Bizarre"
+              },
+              {
+                "title": "The Windmills Of Your Mind",
+                "performer": "Dorothy Ashby"
+              }
+            ],
+            [
+              {
+                "time": "23:04",
+                "title": "Wichita Lineman",
+                "performer": "Glen Campbell"
+              },
+              {
+                "title": "I Think It's Going To Rain Today",
+                "performer": "Madeleine Peyroux"
+              },
+              {
+                "title": "Curly (Unplugged Bremen Vier)",
+                "performer": "Bill Prichard"
+              },
+              {
+                "title": "Happiness (Live at Bremen Vier)",
+                "performer": "Jonathan Jeremiah"
+              },
+              {
+                "title": "Good To Hear That You'Re Okay",
+                "performer": "theCatherines"
+              },
+              {
+                "title": "In Your Playground (Unplugged Bremen Vier)",
+                "performer": "Orwell"
+              },
+              {
+                "title": "(They Long To Be) Close To You",
+                "performer": "The Carpenters"
+              },
+              {
+                "title": "Le Casse",
+                "performer": "Ennio Morricone"
+              },
+              {
+                "title": "Il ne reste plus rien de l'été",
+                "performer": "Louis Philippe"
+              },
+              {
+                "title": "Life On Mars?",
+                "performer": "David Bowie"
+              },
+              {
+                "title": "In den Schuhen von Audrey Hepburn (Unplugged Bremen Vier)",
+                "performer": "Erdmöbel"
+              },
+              {
+                "title": "Junk (New Orchestral Remix)",
+                "performer": "Paul McCartney"
+              },
+              {
+                "title": "To The Warmth Of You",
+                "performer": "Pugwash"
+              },
+              {
+                "title": "A Boat Called Bonnie",
+                "performer": "Herr Wade"
+              },
+              {
+                "title": "Creep",
+                "performer": "Noordpool Orchestra"
+              },
+              {
+                "title": "La Mer",
+                "performer": "Charles Trenet"
               }
             ]
           ]
