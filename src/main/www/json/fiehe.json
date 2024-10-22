@@ -13369,6 +13369,54 @@
               { "title": "My Starlight", "performer": "M.Byrd"}
             ]
           ]
+        },
+        {
+          "id": "40",
+          "date": "2024-10-13",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Ouroboros", "performer": "Goat"},
+              { "title": "Different Way", "performer": "Blond:ish feat. Zeeba"},
+              { "title": "Drive", "performer": "TSHA & Ingrid Witt"},
+              { "title": "Right There", "performer": "Hodge"},
+              { "title": "U Stole The Summer (CFCF Remix)", "performer": "Basile3"},
+              { "title": "Okay", "performer": "Levin Goes Lightly feat. Flora"},
+              { "title": "Geneva Strangemod", "performer": "Glyders"},
+              { "title": "Cheshire", "performer": "Phoebe Rings"},
+              { "title": "Glory In Stories", "performer": "Paul White"},
+              { "title": "Colour Of A Man (Pet Shop Boys Remix)", "performer": "The Hidden Cameras"},
+              { "title": "Mr Mole", "performer": "Ekkstacy"}
+            ],
+            [
+              { "time": "23:04", "title": "Liebe & Hass", "performer": "Symba"},
+              { "title": "Dance Wid Me", "performer": "Sweely"},
+              { "title": "Best Life", "performer": "Ben Böhmer feat. Jonah"},
+              { "title": "Lilies And Sea", "performer": "Attic Ocean"},
+              { "title": "The Painting Of The Bay", "performer": "W. H. Lung"},
+              { "title": "Zu viel erwartet", "performer": "Luis Ake"},
+              { "title": "Sprinter Brain", "performer": "Wild Pink"},
+              { "title": "Maria´s Hunt", "performer": "Glyders"},
+              { "title": "Shell (Of A Man)", "performer": "Saya Gray"},
+              { "title": "Can´t Dance", "performer": "TSHA & Master Peace"},
+              { "title": "Where U Been?", "performer": "Conducta"},
+              { "title": "Desert Air Motel", "performer": "Suzan Köcher´s Suprafon"}
+            ],
+            [
+              { "time": "00:04", "title": "Drugs", "performer": "Isolation Berlin"},
+              { "title": "Chrome Mess", "performer": "The Hard Quartet"},
+              { "title": "Pacino In Heat", "performer": "Iguana Death Cult"},
+              { "title": "Past Me", "performer": "Tramhaus"},
+              { "title": "The Evidence (Exaktly Remix)", "performer": "Yaya Bey"},
+              { "title": "4 Me", "performer": "Cameo Blush"},
+              { "title": "Ingo SWann", "performer": "Flying Lotus"},
+              { "title": "Secret Things", "performer": "UTO"},
+              { "title": "Don´t Go Crazy With Your Fantasy", "performer": "Mathias Schaffhäuser"},
+              { "title": "Sleeping Sound", "performer": "Girls Of The Internet feat. I Am An Island"},
+              { "title": "Klinik Unter Palmen", "performer": "Der Assistent"},
+              { "title": "Didn´t Know Why", "performer": "Tunng"},
+              { "title": "Television", "performer": "Dua Saleh"}
+            ]
+          ]
         }
       ]
     }
