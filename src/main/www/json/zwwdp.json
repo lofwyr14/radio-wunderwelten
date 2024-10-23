@@ -88193,6 +88193,10 @@
         {
           "id": "35",
           "date": "2024-08-29",
+          "checked": {
+            "date": "2024-10-23",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -88237,7 +88241,7 @@
                 "performer": "The Beatles"
               },
               {
-                "title": "Sunday clothes",
+                "title": "Sunday Clothes",
                 "performer": "The Crumble Factory"
               },
               {
@@ -88273,12 +88277,12 @@
                 "performer": "Shino Kobayashi x Small Garden"
               },
               {
-                "title": "Closer To The Clouds",
+                "title": "Closer To The Clouds (In-Side Mix)",
                 "performer": "Oakfish"
               },
               {
                 "title": "The EMI Song (Smile For Me)",
-                "performer": "Chilton, Alex"
+                "performer": "Alex Chilton"
               },
               {
                 "title": "Ein guter Tag",
@@ -88310,7 +88314,7 @@
               },
               {
                 "title": "Sound And vision",
-                "performer": "Negro, Helado"
+                "performer": "Helado Negro"
               },
               {
                 "title": "Good night",
