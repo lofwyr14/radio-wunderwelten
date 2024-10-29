@@ -13417,6 +13417,54 @@
               { "title": "Television", "performer": "Dua Saleh"}
             ]
           ]
+        },
+        {
+          "id": "41",
+          "date": "2024-10-20",
+          "songs": [
+            [
+              { "time": "22:04", "title": "I Can´t Lie", "performer": "W. H. Lung"},
+              { "title": "True Faith", "performer": "New Order"},
+              { "title": "Windows 95 Anthem (Chloe Caillet Remix)", "performer": "Demi Riqiosimo"},
+              { "title": "Train Trax", "performer": "Matt N Henree (Gush Collective)"},
+              { "title": "Water Lane", "performer": "Yaw Evans"},
+              { "title": "Just Concentrate", "performer": "Cameo Blush"},
+              { "title": "Wrong Idea", "performer": "Confidence Man"},
+              { "title": "Eat Your Dollar (Each Other Remix)", "performer": "Baby´s Berserk & Each Other"},
+              { "title": "Wasser", "performer": "Levin Goes Lightly"},
+              { "title": "El Juego", "performer": "DC Salas"}
+            ],
+            [
+              { "time": "23:04", "title": "High Time", "performer": "Glyders"},
+              { "title": "Wish U Well", "performer": "Shower Curtain"},
+              { "title": "Oolong Trance (Paradise Mix)", "performer": "Alex Kassian"},
+              { "title": "The Parallax View (Scandinavian Mix)", "performer": "A Split Second"},
+              { "title": "3AM Eternal", "performer": "The KLF"},
+              { "title": "Sicko", "performer": "Confidence Man"},
+              { "title": "I Feel Love", "performer": "Sankt Otten"},
+              { "title": "Bittersweet", "performer": "LP Giobbi feat. Portugal. The Man"},
+              { "title": "Reichtum", "performer": "Kratzen"},
+              { "title": "How To Walk", "performer": "W. H. Lung"},
+              { "title": "Kindness & Destruction", "performer": "Levin Goes Lightly"},
+              { "title": "Big Dream", "performer": "Amyl And The Sniffers"}
+            ],
+            [
+              { "time": "00:04", "title": "Nicht selbstverständlich", "performer": "tooloudfortheroom"},
+              { "title": "Stehen wir auf", "performer": "tooloudfortheroom"},
+              { "title": "King Of The Never-Wills", "performer": "Dawes"},
+              { "title": "Things Behind Things Behind Things", "performer": "Bon Iver"},
+              { "title": "People Ain´t Folk", "performer": "Karate"},
+              { "title": "Last One", "performer": "Bakey"},
+              { "title": "4AM Skank", "performer": "Matt N Henree"},
+              { "title": "Bonez", "performer": "K-Lone"},
+              { "title": "Flex FM", "performer": "Joy Orbison feat. Lil Yachty, Future & Playboi Carty"},
+              { "title": "Fiya Selecta", "performer": "Sam Binga, Skream, Bianca Oblivion feat. Toya Delazy"},
+              { "title": "Love Inna We Heart", "performer": "Killa P & Numa Crew feat. Long Range & Charlie P"},
+              { "title": "Free", "performer": "Hodge feat. Carolyn Harding"},
+              { "title": "U Never See", "performer": "Scuba"},
+              { "title": "Time To", "performer": "Kelly Lee Owens"}
+            ]
+          ]
         }
       ]
     }
