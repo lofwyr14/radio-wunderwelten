@@ -88326,6 +88326,10 @@
         {
           "id": "36",
           "date": "2024-09-05",
+          "checked": {
+            "date": "2024-10-29",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -88429,10 +88433,6 @@
                 "performer": "Kate Bollinger"
               },
               {
-                "title": "Spec Of Dust Becomes A Beam",
-                "performer": "Andrew Wasylyk & Tommy Perman"
-              },
-              {
                 "title": "Horsie",
                 "performer": "Homeshake"
               },
@@ -88441,7 +88441,7 @@
                 "performer": "Los Bitchos"
               },
               {
-                "title": "Apple juice",
+                "title": "Apple Juice",
                 "performer": "Penelope Isles"
               },
               {
