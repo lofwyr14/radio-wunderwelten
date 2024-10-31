@@ -88458,6 +88458,10 @@
         {
           "id": "37",
           "date": "2024-09-12",
+          "checked": {
+            "date": "2024-10-31",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -88502,12 +88506,16 @@
                 "performer": "The Soundcarriers"
               },
               {
+                "title": "Krimifieber (Eromix)",
+                "performer": "Herr Wade"
+              },
+              {
                 "title": "My Love Is Forever",
                 "performer": "Prince"
               },
               {
-                "title": "Brazilian Rhyme",
-                "performer": "Wind & Fire Earth"
+                "title": "Brazilian Rhyme (Danny Krivit Remix)",
+                "performer": "Earth, Wind & Fire"
               }
             ],
             [
