@@ -12768,18 +12768,18 @@
               { "title": "Pulling Me In (Nightbus Remix)", "performer": "The Cutter"},
               { "title": "The Chords Of Redemption", "performer": "Arnaud Rebotini"},
               { "title": "Headbanging", "performer": "Levin Goes Lightly"},
-              { "title": "Stolen Glances", "performer": "Franky Wah & Låpsley"},
+              { "title": "Stolen Glances (Extended)", "performer": "Franky Wah & Låpsley"},
               { "title": "ME&U", "performer": "Flat White Chris feat. Trim"},
               { "title": "The Road To Love (Session Victim Remix)", "performer": "Sweatson Klank"},
               { "title": "Workin´ On It", "performer": "Brijean"},
               { "title": "Der Mussolini", "performer": "Green Hornet"},
               { "title": "Links Rechts", "performer": "Snollebollekes"},
-              { "title": "Take Care Of You", "performer": "Dangerous Dreaming"}
+              { "title": "Take Care Of You (Extended)", "performer": "Dangerous Dreaming"}
             ],
             [
               { "time": "23:04", "title": "High Pressure Days", "performer": "W. H. Lung"},
               { "title": "Movin´ On Acid", "performer": "Joe Harvey"},
-              { "title": "Samstag Nacht", "performer": "T.Raumhouse"},
+              { "title": "Samstag Nacht (Club Version)", "performer": "T.Raumhouse"},
               { "title": "Spacewoman", "performer": "Charlie"},
               { "title": "Chaperone", "performer": "Mermaid Chunky"},
               { "title": "How To Walk", "performer": "W. H. Lung"},
@@ -12788,11 +12788,11 @@
               { "title": "Ich geh lieber allein", "performer": "Die Liga der gewöhnlichen Gentlemen"}
             ],
             [
-              { "time": "00:04", "title": "Fall für dich", "performer": "Millenium Kid"},
+              { "time": "00:04", "title": "Fall für dich", "performer": "MilleniumKid"},
               { "title": "Fifteen Blocks", "performer": "Submerse"},
               { "title": "Never Too Old (Friction Remix)", "performer": "Monrroe & Emily Makis"},
               { "title": "Restless", "performer": "Fred V feat. Lottie Jones"},
-              { "title": "Connection", "performer": "Murder He Wrote"},
+              { "title": "Connection (Extended Mix)", "performer": "Murder He Wrote"},
               { "title": "Resonating Sounds", "performer": "Fabrice"},
               { "title": "Call", "performer": "Kasabian"},
               { "title": "I Don´t See You As The Others Do", "performer": "Fink"},
@@ -13412,7 +13412,7 @@
               { "title": "Secret Things", "performer": "UTO"},
               { "title": "Don´t Go Crazy With Your Fantasy", "performer": "Mathias Schaffhäuser"},
               { "title": "Sleeping Sound", "performer": "Girls Of The Internet feat. I Am An Island"},
-              { "title": "Klinik Unter Palmen", "performer": "Der Assistent"},
+              { "title": "Klinik unter Palmen", "performer": "Der Assistent"},
               { "title": "Didn´t Know Why", "performer": "Tunng"},
               { "title": "Television", "performer": "Dua Saleh"}
             ]
@@ -13463,6 +13463,49 @@
               { "title": "Free", "performer": "Hodge feat. Carolyn Harding"},
               { "title": "U Never See", "performer": "Scuba"},
               { "title": "Time To", "performer": "Kelly Lee Owens"}
+            ]
+          ]
+        },
+        {
+          "id": "42",
+          "date": "2024-10-27",
+          "songs": [
+            [
+              { "time": "22:04", "title": "I Can´t Lie", "performer": "W. H. Lung"},
+              { "title": "What They Gave Me", "performer": "HVOB"},
+              { "title": "and the colour red", "performer": "Underworld"},
+              { "title": "Let Me Know (Extended Version)", "performer": "Jabberwocky"},
+              { "title": "Listen", "performer": "Enzo Siragusa"},
+              { "title": "Big Dreams", "performer": "Amyl and The Sniffers"},
+              { "title": "Tear Me Apart", "performer": "Niall Summerton"},
+              { "title": "You Don´t Even Need It", "performer": "Maverick Sabre"},
+              { "title": "Weak (Marco Lys Remix)", "performer": "Vintage Culture feat. Maverick Sabre"},
+              { "title": "Tijuana", "performer": "French The Kid"},
+              { "title": "Green Light", "performer": "Barkley Bandon feat. Kaleab Samuel"}
+            ],
+            [
+              { "time": "23:04", "title": "Ghostride", "performer": "Interlaker"},
+              { "title": "U Should Not Be Doing That", "performer": "Amyl And The Sniffers"},
+              { "title": "Love Me Truly", "performer": "Florence Besch"},
+              { "title": "Don´t Stop", "performer": "Jabberwocky"},
+              { "title": "Now U Do", "performer": "DJ Seinfeld feat. Confidence Man"},
+              { "title": "Guided Tour", "performer": "High Vis"},
+              { "title": "Moving In Circles", "performer": "The Boysox"},
+              { "title": "Im April", "performer": "Lyschko"},
+              { "title": "Time Machine", "performer": "Beggars Opera"},
+              { "title": "Die Hölle brennt (Livesession)", "performer": "Bea"},
+              { "title": "Triple Threat", "performer": "Headie One, K-Trap & Clavish"}
+            ],
+            [
+              { "time": "00:04", "title": "Kaum Vertrauen", "performer": "Bazzazian feat. Blumengarten & Casper"},
+              { "title": "You Think You Can Fix Me", "performer": "Bullet Tooth"},
+              { "title": "Odyssey", "performer": "Enzo Siragusa"},
+              { "title": "Mother´s Grace (Stones Taro Remix)", "performer": "SIS"},
+              { "title": "Help Desk (Beat Detectives Remix)", "performer": "Wand"},
+              { "title": "Memoy", "performer": "Beggars OPera"},
+              { "title": "Sunshine", "performer": "Kelly Lee Owens"},
+              { "title": "All Pleasure", "performer": "Thus Love"},
+              { "title": "Selling Shovels", "performer": "Silverbacks"}
             ]
           ]
         }
