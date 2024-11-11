@@ -12810,7 +12810,7 @@
           "songs": [
             [
               { "time": "22:04", "title": "Breathe", "performer": "Brijean"},
-              { "title": "Untitled (a2)", "performer": "Unknown Artist"},
+              { "title": "Sparkles Of Knives", "performer": "Blu:sh"},
               { "title": "Celestial Harmonics", "performer": "rush2theUnknown"},
               { "title": "Ambien Slide", "performer": "Cigarettes After Sex"},
               { "title": "Stand Up", "performer": "MJ Cole & K-Lone"},
@@ -12818,14 +12818,14 @@
               { "title": "Annabella", "performer": "Communicant"},
               { "title": "Second Half", "performer": "Luke Temple And The Cascading Moms"},
               { "title": "Early Signs Of Rhythm", "performer": "Art Feynman"},
-              { "title": "Hey Kekule", "performer": "Font"},
+              { "title": "Hey Kekulé", "performer": "Font"},
               { "title": "Life During Wartime (live)", "performer": "Talking Heads"},
               { "title": "Mi Gran Noche", "performer": "Raphael"}
             ],
             [
               { "time": "23:04", "title": "Blu", "performer": "Girl Ultra"},
               { "title": "Fashion Week", "performer": "Warmduscher"},
-              { "title": "Birdcage (Etienne De Crezy Version)", "performer": "You Man"},
+              { "title": "Birdcage (Etienne De Crézy Version)", "performer": "You Man"},
               { "title": "Call (Solomun Remix)", "performer": "Kasabian"},
               { "title": "Southgate You´re The One (Football´s Coming Home Again)", "performer": "Atomic Kitten"},
               { "title": "Down Bad", "performer": "Tatyana"},
@@ -13507,6 +13507,47 @@
               { "title": "Sunshine", "performer": "Kelly Lee Owens"},
               { "title": "All Pleasure", "performer": "Thus Love"},
               { "title": "Selling Shovels", "performer": "Silverbacks"}
+            ]
+          ]
+        },
+        {
+          "id": "43",
+          "date": "2024-11-03",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Falling Down", "performer": "Workforce feat. Tyler Daley"},
+              { "title": "The One I Need", "performer": "Pola & Bryson & Kelli Leigh"},
+              { "title": "Quattro", "performer": "James Welsh"},
+              { "title": "Movimientos", "performer": "DC Salas"},
+              { "title": "Maybe Tomorrow (After Outside Mix)", "performer": "2 Flying Stones"},
+              { "title": "Hardcore Workout Queen", "performer": "Friedberg"},
+              { "title": "Abigail", "performer": "Soccer Mommy"},
+              { "title": "Endsong", "performer": "The Cure"},
+              { "title": "Frozen Food Centre", "performer": "One True Pairing"}
+            ],
+            [
+              { "time": "23:04", "title": "Mind`s A Lie", "performer": "High Vis"},
+              { "title": "Been Caught Stealing", "performer": "Jane´s Addiction"},
+              { "title": "Heart Racer", "performer": "Baba Ali"},
+              { "title": "Feuerstuhl", "performer": "Michael Mayer"},
+              { "title": "Beautiful Looser", "performer": "Helsloot feat. Rangleklods"},
+              { "title": "Ajhussi", "performer": "Flying Lotus"},
+              { "title": "Disneyland ´97", "performer": "Salomea"},
+              { "title": "Television", "performer": "Dua Saleh"},
+              { "title": "Eggface (I´m Not Screamin´ For Nothin´)", "performer": "King Pari"},
+              { "title": "Sticky", "performer": "Tyler, The Creator feat. GloRilla, Sexyy Red & Lil Wayne"},
+              { "title": "Noid", "performer": "Tyler, The Creator"}
+            ],
+            [
+              { "time": "00:04", "title": "No Brainer", "performer": "D Roots"},
+              { "title": "Atlas Of Self", "performer": "Audrey Danza"},
+              { "title": "Dance Opera (New Mix)", "performer": "Innersshades"},
+              { "title": "We Like Da Gyal Them Pt.2", "performer": "Jon E Cash"},
+              { "title": "Indoor Sport", "performer": "Sofie Royer"},
+              { "title": "Rosie", "performer": "Lots Of Hands"},
+              { "title": "In The Heart", "performer": "Paul White"},
+              { "title": "Love With Phantom", "performer": "Maya Ongaku"},
+              { "title": "Autobahn", "performer": "Kraftwerk"}
             ]
           ]
         }
