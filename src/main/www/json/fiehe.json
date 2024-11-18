@@ -13551,6 +13551,53 @@
               { "title": "Autobahn", "performer": "Kraftwerk"}
             ]
           ]
+        },
+        {
+          "id": "44",
+          "date": "2024-11-10",
+          "songs": [
+            [
+              { "time": "22:04", "title": "No Surrender", "performer": "Melysma feat. Oracle MC"},
+              { "title": "Eterna", "performer": "Phase"},
+              { "title": "Feed You", "performer": "Mako"},
+              { "title": "Masks", "performer": "Martyn"},
+              { "title": "100 Times", "performer": "Friedberg"},
+              { "title": "Angles (Hodge Remix)", "performer": "Om Unit & James Bangura"},
+              { "title": "Writer", "performer": "Fort Romeau & Gold Panda"},
+              { "title": "Beautiful Losers (Legowelt Remix)", "performer": "Helsloot feat. Rangleklods"},
+              { "title": "Eating The Cats (Donald Trump Remix)", "performer": "The Kiffness"},
+              { "title": "Was es braucht", "performer": "Trettmann"},
+              { "title": "Teflon Don", "performer": "Future"}
+            ],
+            [
+              { "time": "23:04", "title": "Shaded Tree", "performer": "Good Sad Happy Bad"},
+              { "title": "Comic Trip", "performer": "Sylvie Kreusch"},
+              { "title": "Dirty Hugs (Richard Sen Remix)", "performer": "Glok"},
+              { "title": "Ready To Go Home", "performer": "Primal Scream"},
+              { "title": "Schatten", "performer": "Die Kerzen"},
+              { "title": "Desert Island Movies", "performer": "Girl Scout"},
+              { "title": "Words Of Elegance", "performer": "Florence Besch"},
+              { "title": "Bonne. M", "performer": "GǼG"},
+              { "title": "Talk To Me", "performer": "Champion, Four Tet, Skrillex & Naisha"},
+              { "title": "Twitchin´ In The Kitchen (Red Axes Remix)", "performer": "Warmduscher"},
+              { "title": "Immaculate Deception", "performer": "Warmduscher feat. Jeshi"}
+            ],
+            [
+              { "time": "00:04", "title": "Bigger In Texas", "performer": "Megan Thee Stallion"},
+              { "title": "The Sky Is Limitless", "performer": "AB-Soul feat. Blxst & Asia Holiday"},
+              { "title": "Ready To Cook Up", "performer": "Future"},
+              { "title": "Bad Day", "performer": "Miaw"},
+              { "title": "Schnabulation", "performer": "Kicky Ring"},
+              { "title": "Sunday Morning", "performer": "Tops"},
+              { "title": "Sun", "performer": "Margo Guryan"},
+              { "title": "Daddy´s Selling Wine In A Burning House", "performer": "Sylvie Kreusch"},
+              { "title": "Butterfly", "performer": "Sylvie Kreusch"},
+              { "title": "Hardcore Workout Queen", "performer": "Friedberg"},
+              { "title": "Laminar Flow", "performer": "DC Salas"},
+              { "title": "Response", "performer": "Sub Basics"},
+              { "title": "Coming Home (Diogo Rave Mix)", "performer": "FABZ feat. The F Libra"}
+            ]
+          ]
         }
       ]
     }
