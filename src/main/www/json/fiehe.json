@@ -12858,6 +12858,7 @@
         {
           "id": "29",
           "date": "2024-07-21",
+          "checked": {"date": "2024-11-24", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Rock The Boat (Salute Remix)", "performer": "Aaliyah"},
@@ -12874,18 +12875,19 @@
               { "title": "Emu Rock", "performer": "GUM & Ambrose Kenny-Smith"}
             ],
             [
-              { "time": "23:04", "title": "Powertrippn", "performer": "GUM & Ambrose Kenny-Smith"},
+              { "time": "23:04", "title": "Powertrippn'", "performer": "GUM & Ambrose Kenny-Smith"},
               { "title": "The Gloater", "performer": "GUM & Ambrose Kenny-Smith"},
               { "title": "The Edge", "performer": "M. Byrd"},
               { "title": "Dolphin Dance", "performer": "Beachwood Sparks"},
-              { "title": "Remember", "performer": "Weval"},
+              { "title": "Remember (Night Version)", "performer": "Weval"},
               { "title": "Ego", "performer": "Disfreq & Dukwa"},
               { "title": "Lonsdale Slipons", "performer": "The Bug Club"},
               { "title": "Kinky", "performer": "bby"},
               { "title": "Rat King", "performer": "Komodo"},
               { "title": "Calling You Out", "performer": "Charly Bliss"},
-              { "title": "You Don´t See Me", "performer": "Laolu feat. Nomvula"},
-              { "title": "Take Care Of You", "performer": "Dangerous Dreaming"}
+              { "title": "You Don´t See Me (Extended)", "performer": "Laolu feat. Nomvula"},
+              { "title": "Take Care Of You (Extended)", "performer": "Dangerous Dreaming"},
+              { "title": "R U Nique", "performer": "EZ Jam"}
             ],
             [
               { "time": "00:04", "title": "Reset", "performer": "Adellic"},
@@ -12896,7 +12898,7 @@
               { "title": "The Love Theme", "performer": "Alex Kassian & Running Hot"},
               { "title": "More For Me (Benito Situation)", "performer": "MJ Cole feat. Sydney Jane"},
               { "title": "Stand Up", "performer": "MJ Cole & K-Lone"},
-              { "title": "I´M God (Heron Flow Remix)", "performer": "Clams Casino"},
+              { "title": "I´m God (Heron Flow Remix)", "performer": "Clams Casino"},
               { "title": "Sleepless Strangers", "performer": " Suzan Köcher´s Suprafon"}
             ]
           ]
