@@ -88582,6 +88582,10 @@
         {
           "id": "38",
           "date": "2024-09-19",
+          "checked": {
+            "date": "2024-11-25",
+            "user": "jg"
+          },
           "songs": [
             [
               {
@@ -88614,19 +88618,19 @@
                 "performer": "Midge Ure"
               },
               {
-                "title": "(Unplugged Bremen Vier)",
-                "performer": "High Llamas"
+                "title": "Bach Ze (Unplugged Bremen Vier)",
+                "performer": "The High Llamas"
               },
               {
-                "title": "I WouldnâT Miss My Way",
+                "title": "I Wouldn't Miss My Way",
                 "performer": "Daniel Carlson & Neal Ostrovsky"
               },
               {
                 "title": "M's Collection (Unplugged Bremen Vier)",
-                "performer": "The Casper"
+                "performer": "The Caper"
               },
               {
-                "title": "Pickepackevoll (Acoustic)",
+                "title": "Pickepackevoll (Arnd Zeigler Football Song) (Acoustic)",
                 "performer": "The Vals"
               },
               {
@@ -88657,7 +88661,7 @@
                 "performer": "Jonathan Jeremiah"
               },
               {
-                "title": "Good To Hear That You'Re Okay",
+                "title": "Good To Hear That You're Okay",
                 "performer": "theCatherines"
               },
               {
@@ -88673,7 +88677,7 @@
                 "performer": "Ennio Morricone"
               },
               {
-                "title": "Il ne reste plus rien de l'été",
+                "title": "Il ne reste plus rien de l'été (Unplugged Bremen Vier)",
                 "performer": "Louis Philippe"
               },
               {
