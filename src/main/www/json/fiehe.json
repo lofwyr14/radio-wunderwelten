@@ -13600,6 +13600,56 @@
               { "title": "Coming Home (Diogo Rave Mix)", "performer": "FABZ feat. The F Libra"}
             ]
           ]
+        },
+        {
+          "id": "45",
+          "date": "2024-11-17",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Wir gehen rein", "performer": "Jolle"},
+              { "title": "Digital rein", "performer": "Daniel Avery"},
+              { "title": "Poetry (Makoto Remix)", "performer": "DJ Marky & SOLAH"},
+              { "title": "Unity", "performer": "Technimatic"},
+              { "title": "Forever Baby", "performer": "Carlita feat. Janet Planet"},
+              { "title": "Wrong Idea", "performer": "Confidence Man"},
+              { "title": "Technicolor Rash", "performer": "Tea Eater"},
+              { "title": "Starting And Staring", "performer": "Gustaf"},
+              { "title": "Never Let Us Fade", "performer": "070 Shake feat. Cam"},
+              { "title": "Ordinary World", "performer": "Duran Duran"},
+              { "title": "Elephant", "performer": "070 Shake"},
+              { "title": "Fashion (Maelstrom & Louisahhh Remix)", "performer": "Aili"},
+              { "title": "Feuerstuhl", "performer": "Michael Mayer"}
+            ],
+            [
+              { "time": "23:04", "title": "Bonne. M", "performer": "GǼG"},
+              { "title": "Boss Drum (The Beatmasters Boss Mix)", "performer": "The Shamen"},
+              { "title": "Older People", "performer": "Yunni"},
+              { "title": "EZPZ", "performer": "Man/Woman/Chainsaw"},
+              { "title": "Intersexy", "performer": "Desiree"},
+              { "title": "Winter", "performer": "Lyschko"},
+              { "title": "Pure At The Heart", "performer": "Warmduscher feat. Janet Planet"},
+              { "title": "Black Hanz", "performer": "The Moonlandingz"},
+              { "title": "Space/Smile", "performer": "Ditz"},
+              { "title": "Under Your Spell", "performer": "Snow Strippers"},
+              { "title": "Mad As F*uck", "performer": "Cordae"},
+              { "title": "Summer Drop", "performer": "Cordae feat. Anderson .Paak"}
+            ],
+            [
+              { "time": "00:04", "title": "When The Train Comes Back", "performer": "Chicken Shack"},
+              { "title": "Train Trax", "performer": "Matt N Henree (Gush Collective)"},
+              { "title": "Gabriel (Larhe Joints Remix)", "performer": "Roy Davis Jr"},
+              { "title": "Now Or Never", "performer": "GhstGhstGhst & Lau.ra"},
+              { "title": "Gunshot", "performer": "DJ Q"},
+              { "title": "Love Inna We Heart", "performer": "Killa P & Numa Crew feat. Long Range & Charlie P"},
+              { "title": "Respond", "performer": "Sub Basics"},
+              { "title": "Sunrise Generation", "performer": "Damian Lazarus feat. Fink"},
+              { "title": "Ghost Town", "performer": "Sofie Royer"},
+              { "title": "Hello Hello", "performer": "Miaw"},
+              { "title": "Song To The Siren", "performer": "070 Shake feat. Courtney Love"},
+              { "title": "Hocus Pocus", "performer": "Sylvie Kreusch"},
+              { "title": "Purple Irises", "performer": "Gwen Stefanie"}
+            ]
+          ]
         }
       ]
     }
