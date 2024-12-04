@@ -13650,6 +13650,54 @@
               { "title": "Purple Irises", "performer": "Gwen Stefanie"}
             ]
           ]
+        },
+        {
+          "id": "46",
+          "date": "2024-11-24",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Autostrada Del Brennero", "performer": "Ulrich Troyer"},
+              { "title": "Breathe Again", "performer": "Will Clarke feat. Fractures"},
+              { "title": "Melange (Because Of Art Remix)", "performer": "Dosem & My Friend"},
+              { "title": "Inner Space", "performer": "Man Power"},
+              { "title": "Araponga", "performer": "Nik Ros & Rods Novaes"},
+              { "title": "Der allgemeine Tenor", "performer": "Fred und Luna"},
+              { "title": "Luther", "performer": "Kendrick Lamar With SZA"},
+              { "title": "Reincarnated", "performer": "Kendrick Lamar"},
+              { "title": "Into Your Garden", "performer": "070 Shake feat. JT"},
+              { "title": "Top Shelf", "performer": "Warmduscher"},
+              { "title": "Magnetic", "performer": "Tunde Adebimpe"}
+            ],
+            [
+              { "time": "23:04", "title": "I Can´t Lose You", "performer": "Confidence Man"},
+              { "title": "Bon Bon (Confidence Man Remix)", "performer": "Fcukers"},
+              { "title": "Find A Way (DJ Q Remix)", "performer": "Peggy Gou"},
+              { "title": "Licky Licky", "performer": "James View"},
+              { "title": "If I Had To Go I Would Leave The Door Closed Half Way", "performer": "Zzzahara"},
+              { "title": "Impractible Joke", "performer": "Smudge"},
+              { "title": "mr.mole", "performer": "Ekkstacy"},
+              { "title": "Snowy Sunday Smile", "performer": "Arnaud Rebotini"},
+              { "title": "Good Feeling (Mr Gs Turn On Dub)", "performer": "Stereo MC´s"},
+              { "title": "Stop The World", "performer": "Real Action"},
+              { "title": "F.u.K.", "performer": "Gwen Dolyn"},
+              { "title": "Alien", "performer": "OH! feat. Alexander Price"},
+              { "title": "Mahashmashana", "performer": "Father John Misty"}
+            ],
+            [
+              { "time": "00:04", "title": "She Cleans Up", "performer": "Father John Misty"},
+              { "title": "Plus One", "performer": "Total Tommy"},
+              { "title": "H.B.W.", "performer": "Saya Gray"},
+              { "title": "Waves", "performer": "Sieren"},
+              { "title": "Crystal Breath", "performer": "Kim Deal"},
+              { "title": "Wish I Was", "performer": "Kim Deal"},
+              { "title": "Summerland", "performer": "Kim Deal"},
+              { "title": "Comme Ca Voce", "performer": "Carlita"},
+              { "title": "Answer", "performer": "Dosem feat. Sohmi"},
+              { "title": "Lockdown (part ii)", "performer": "Michael Kiwanuka"},
+              { "title": "Tanzen", "performer": "Bibiza"},
+              { "title": "In A Blaze Of Fame", "performer": "Legowelt"}
+            ]
+          ]
         }
       ]
     }
