@@ -12906,6 +12906,7 @@
         {
           "id": "30",
           "date": "2024-07-28",
+          "checked": {"date": "2024-12-04", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Last One", "performer": "Bakey"},
@@ -12942,7 +12943,7 @@
               { "title": "Grindin", "performer": "Main Phase"},
               { "title": "Resilience", "performer": "GUM & Ambrose Kenny-Smith"},
               { "title": "Harmonica", "performer": "The Graham Bond Organisation"},
-              { "title": "Run You Off The Hill", "performer": "The Ainsley Dunbar Retaliation"},
+              { "title": "Run You Off The Hill", "performer": "The Aynsley Dunbar Retaliation"},
               { "title": "What´d I Say", "performer": "John Mayall & The Bluesbreakers"},
               { "title": "C´mon Everybody", "performer": "UFO"},
               { "title": "Memories", "performer": "John Mayall"},
