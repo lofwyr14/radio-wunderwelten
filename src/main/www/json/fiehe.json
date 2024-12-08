@@ -12954,29 +12954,31 @@
         {
           "id": "31",
           "date": "2024-08-04",
+          "comment": "Appletree Garden Festival 2024",
           "songs": [
             [
               { "time": "22:04", "title": "Total Freefall", "performer": "Hydra Fashion Week"},
-              { "title": "Dalilah (Missing Remix)", "performer": "Joshua Baraka"},
+              { "title": "Dalilah (Drum & Bass Mix) (Extended)", "performer": "Joshua Baraka feat. Missing"},
               { "title": "Mizzurna Falls", "performer": "Submerse"},
               { "title": "Hypermnesia", "performer": "Amy Dabbs"},
               { "title": "Murder On The Dancefloor", "performer": "Royel Otis"},
               { "title": "Velvet", "performer": "Royel Otis"},
               { "title": "Intangible", "performer": "Personal Trainer"},
-              { "title": "So Lo (Andrew Van Wyngarden Remix)", "performer": "Pond"},
+              { "title": "So Lo (Andrew VanWyngarden Remix)", "performer": "Pond"},
               { "title": "Our Love", "performer": "Letherette"},
               { "title": "In The Dark", "performer": "Roosevelt"},
               { "title": "All You Children", "performer": "Jamie XX feat. The Avalanches"},
-              { "title": "Extra", "performer": "Paula Carolina"}
+              { "title": "Extra", "performer": "Paula Carolina"},
+              { "title": "Cute", "performer": "Kiefer"}
             ],
             [
               { "time": "23:04", "title": "Best Left Unsolved", "performer": "BadBadNotGood"},
-              { "title": "Why Not", "performer": "Kiefer"},
+              { "title": "Why Not?", "performer": "Kiefer"},
               { "title": "Last One", "performer": "Bakey"},
               { "title": "Summer Breezin", "performer": "Unglued feat. Paige Eliza"},
               { "title": "Slow Down", "performer": "Miso Extra"},
               { "title": "Resonate", "performer": "Deefo"},
-              { "title": "Mrs. Hollywod", "performer": "Go-JO"},
+              { "title": "Mrs. Hollywod", "performer": "Go-Jo"},
               { "title": "Top Of The Bill", "performer": "Gurriers"},
               { "title": "JJ", "performer": "Wand"},
               { "title": "The Snake", "performer": "Lana Lubany"},
@@ -12991,12 +12993,12 @@
               { "title": "Oberbürgermeister", "performer": "Antilopen Gang"},
               { "title": "Dreaming (Gibson Parker Remix)", "performer": "Rootkit"},
               { "title": "The Moment (feat. SG Lewis)", "performer": "Carlita"},
-              { "title": "Witches Brew", "performer": "Kiss Nuka"},
+              { "title": "Witches Brew (Extended Mix)", "performer": "Kiss Nuka"},
               { "title": "Pheeroan", "performer": "Kreggo"},
               { "title": "Talk Small", "performer": "Elpac & Grove"},
               { "title": "Goodbye, Arrivederci", "performer": "Roy Bianco & Die Abbrunzati Boys"},
               { "title": "C´mon People (We´re Making It Now)", "performer": "Richard Ashcroft"},
-              { "title": "Break It Down (On The Bassline)", "performer": "Confidence Man"}
+              { "title": "Break It Down (On The Bassline) (Extended)", "performer": "Confidence Man"}
             ]
           ]
         },
