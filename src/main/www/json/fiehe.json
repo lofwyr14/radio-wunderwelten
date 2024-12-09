@@ -12955,6 +12955,7 @@
           "id": "31",
           "date": "2024-08-04",
           "comment": "Appletree Garden Festival 2024",
+          "checked": {"date": "2024-12-08", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Total Freefall", "performer": "Hydra Fashion Week"},
