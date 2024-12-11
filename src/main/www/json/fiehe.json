@@ -13702,6 +13702,47 @@
               { "title": "In A Blaze Of Fame", "performer": "Legowelt"}
             ]
           ]
+        },
+        {
+          "id": "47",
+          "date": "2024-12-01",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Solina (The Ascension)", "performer": "Jedi Knights"},
+              { "title": "In A Blaze Of Fame", "performer": "Legowelt"},
+              { "title": "Daffodil", "performer": "A.B.Habibi"},
+              { "title": "Out From Under (Emperor Machine Remix)", "performer": "A Certain Ratio"},
+              { "title": "Leggwork", "performer": "The Emperor Machine"},
+              { "title": "My Beatbox (Big Audio Dynamite Dub Remix)", "performer": "DeeJay Punk-Roc"},
+              { "title": "Belong", "performer": "Gregor Tresher"}
+            ],
+            [
+              { "time": "23:04", "title": "Cherry Pie", "performer": "Fazerdaze"},
+              { "title": "Feuerstuhl", "performer": "Michael Mayer"},
+              { "title": "Lambda", "performer": "Von Spar"},
+              { "title": "A Million Exoplanets Without DJs", "performer": "Legowelt"},
+              { "title": "Alles liegt in Scherben", "performer": "MPC Lafote"},
+              { "title": "Giger", "performer": "Need For Mirrors"},
+              { "title": "(Talk About) T.G.O.D.", "performer": "Gush Collective Presents Herb LF"},
+              { "title": "MANIMANI", "performer": "Rony Rex & Nakamura Minami"},
+              { "title": "Alien", "performer": "OH! feat. Alexander Price"},
+              { "title": "Cavalier", "performer": "Silver Columns"},
+              { "title": "No Tears", "performer": "Tuxedomoon"},
+              { "title": "Lazy Lover", "performer": "Mean Bacharach feat. Mono Poly"}
+            ],
+            [
+              { "time": "00:04", "title": "Mirage", "performer": "Pass Into Silence"},
+              { "title": "Chorus", "performer": "Mildlife"},
+              { "title": "Eggface (I´m Not Screamin´ For Nothin´)", "performer": "King Pari"},
+              { "title": "LOveless", "performer": "Electric Wire Hustle"},
+              { "title": "Floating Parade", "performer": "Michael Kiwanuka"},
+              { "title": "Pure Love", "performer": "DJ Koze feat. Damon Albarn"},
+              { "title": "Astral Travel", "performer": "Memory Pearl"},
+              { "title": "C + F", "performer": "Sam Prekop"},
+              { "title": "Circles", "performer": "Max Würden"},
+              { "title": "Tears From A Manta", "performer": "Legowelt"}
+            ]
+          ]
         }
       ]
     }
