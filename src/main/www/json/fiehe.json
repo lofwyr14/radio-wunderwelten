@@ -13006,6 +13006,7 @@
         {
           "id": "32",
           "date": "2024-08-11",
+          "comment": "Haldern Pop Festival 2024",
           "songs": [
             [
               { "time": "22:04", "title": "Tru", "performer": "Laurel Halo & Hodge"},
@@ -13030,9 +13031,10 @@
               { "title": "Wreck My Flow", "performer": "The Dirtbombs"},
               { "title": "Light Runner", "performer": "Gift"},
               { "title": "Never Be Lonely", "performer": "Quivers"},
-              { "title": "Breaking Hearts", "performer": "dg."},
+              { "title": "Breaking Hearts (Extended Mix)", "performer": "dg."},
               { "title": "Tattoo´d Lady", "performer": "Rory Gallagher"},
-              { "title": "Too Real", "performer": "Fontaines D.C."}
+              { "title": "Too Real", "performer": "Fontaines D.C."},
+              { "title": "Black Flag Freestyle", "performer": "Denzel Curry"}
             ],
             [
               { "time": "00:04", "title": "Blindsided", "performer": "Sharktank"},
@@ -13741,6 +13743,51 @@
               { "title": "C + F", "performer": "Sam Prekop"},
               { "title": "Circles", "performer": "Max Würden"},
               { "title": "Tears From A Manta", "performer": "Legowelt"}
+            ]
+          ]
+        },
+        {
+          "id": "48",
+          "date": "2024-12-08",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Ride", "performer": "Moscoman & Coma"},
+              { "title": "Tales From the Pagoda (Dufraines Remix)", "performer": "Ryussi"},
+              { "title": "Come And See Your Misery", "performer": "Legowelt"},
+              { "title": "Der Elektrolurch", "performer": "Guru Guru"},
+              { "title": "Sprinter Brain", "performer": "Wild Pink"},
+              { "title": "Your Future As God", "performer": "White Denim"},
+              { "title": "Same Water", "performer": "Polar Noir"},
+              { "title": "I Fall Apart", "performer": "MRD feat. Flawless Issues"},
+              { "title": "It Didn´t Mean Nothing", "performer": "Zzzahara"},
+              { "title": "Three Drums", "performer": "Four Tet"},
+              { "title": "Lago Di Garda", "performer": "Ulrich Troyer"},
+              { "title": "Bigger Plans", "performer": "Kitschkrieg With Hunxho"}
+            ],
+            [
+              { "time": "23:04", "title": "Austerlitz", "performer": "Die wilde Jagd"},
+              { "title": "Different Way", "performer": "Blond:Ish & Zeeba"},
+              { "title": "December In G", "performer": "Arnaud Rebotini"},
+              { "title": "Living in Wien", "performer": "Luis Ake"},
+              { "title": "Universe In Flames", "performer": "Yota & Johan Agebjörn  feat. Douze"},
+              { "title": "Close To You (Octo Octa’s Voices Reaching Out Full On Remix)", "performer": "I. Jordan"},
+              { "title": "Everything Else", "performer": "Tunng"},
+              { "title": "Ertrinken", "performer": "Gwen Dolyn"},
+              { "title": "Tunnel Vision", "performer": "Magdalena Bay"}
+            ],
+            [
+              { "time": "00:04", "title": "Love In The Moment", "performer": "Kris O´Hara"},
+              { "title": "Soundguy", "performer": "GLXY, Sustance"},
+              { "title": "Digital Rain", "performer": "Daniel Avery"},
+              { "title": "John On The Ceiling", "performer": "bdrmm"},
+              { "title": "From Outside A Window Sill", "performer": "Crumb"},
+              { "title": "Jazz Intent", "performer": "DaRand Land"},
+              { "title": "Nachtraucher", "performer": "Christian Nainggolan"},
+              { "title": "Perfume", "performer": "The Dare"},
+              { "title": "Light A Fire", "performer": "Jaden Thompson"},
+              { "title": "Maria´s Hunt", "performer": "Glyders"},
+              { "title": "John Williams", "performer": "The Innocence Mission"},
+              { "title": "Precious Child", "performer": "White Denim"}
             ]
           ]
         }
