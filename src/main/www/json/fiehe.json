@@ -13006,6 +13006,7 @@
         {
           "id": "32",
           "date": "2024-08-11",
+          "checked": {"date": "2024-12-20", "user": "jg"},
           "comment": "Haldern Pop Festival 2024",
           "songs": [
             [
@@ -13048,7 +13049,7 @@
               { "title": "You´re My Girl", "performer": "Malice K"},
               { "title": "How To Walk", "performer": "W. H. Lung"},
               { "title": "Chicago Town", "performer": "Sam Akpro"},
-              { "title": "Gaia Sunset Pt. 2", "performer": "Jimi Tenor with Cold Diamond & Mink"}
+              { "title": "Gaia Sunset (Part 2)", "performer": "Jimi Tenor with Cold Diamond & Mink"}
             ]
           ]
         },
@@ -13071,23 +13072,23 @@
             ],
             [
               { "time": "23:04", "title": "Dreamweavers", "performer": "Anders Trentemøller"},
-              { "title": "Is It Over Now", "performer": "Polar Noir"},
+              { "title": "Is It Over Now?", "performer": "Polar Noir"},
               { "title": "Oyster Cuts", "performer": "Quivers"},
               { "title": "Treat Each Other Right", "performer": "Jamie XX"},
               { "title": "Brits Bootleg", "performer": "Minder"},
               { "title": "Mentally", "performer": "Asake"},
               { "title": "Wave", "performer": "Asake"},
-              { "title": "In The Night (Bakongo Remix)", "performer": "Marvin FUsion"},
+              { "title": "In The Night (Bakongo Remix)", "performer": "Marvin Fusion"},
               { "title": "The Preacher", "performer": "Harry Robson"},
-              { "title": "Blitzkrieg Bop", "performer": "Dubmones"},
-              { "title": "Knete, Klappstuhl, Leiche, Plastinake, Dreck und Speiche", "performer": "Das Lunsentrio"},
+              { "title": "Pet Sematary 7\" Dub", "performer": "Dubmones"},
+              { "title": "Knete, Klappstuhl, Leiche, Pastinake, Dreck und Speiche", "performer": "Das Lunsentrio"},
               { "title": "Crying At The End", "performer": "Porches"}
             ],
             [
               { "time": "00:04", "title": "7 O´Clock", "performer": "The Quireboys"},
               { "title": "Velvet", "performer": "Royel Otis"},
-              { "title": "Rainbow Drops", "performer": "Lili Chan"},
-              { "title": "Uwaki (Love Someone Else)", "performer": "Lili CHan"},
+              { "title": "Rainbow Drops (Extended Mix)", "performer": "Lili Chan"},
+              { "title": "Uwaki (Love Someone Else) (Extended)", "performer": "Lili CHan"},
               { "title": "See You In The Afterlife", "performer": "Foster The People"},
               { "title": "Latency (Bakey Remix)", "performer": "Corto Alto"},
               { "title": "The Last One", "performer": "Bakey"},
