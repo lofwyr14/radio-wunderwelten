@@ -13006,7 +13006,7 @@
         {
           "id": "32",
           "date": "2024-08-11",
-          "checked": {"date": "2024-12-20", "user": "jg"},
+          "checked": {"date": "2024-12-17", "user": "jg"},
           "comment": "Haldern Pop Festival 2024",
           "songs": [
             [
@@ -13056,6 +13056,7 @@
         {
           "id": "33",
           "date": "2024-08-18",
+          "checked": {"date": "2024-12-20", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Theme Sax", "performer": "Jimi Tenor"},
