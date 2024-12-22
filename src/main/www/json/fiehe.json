@@ -13103,10 +13103,11 @@
         {
           "id": "34",
           "date": "2024-08-25",
+          "checked": {"date": "2024-12-22", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Destiny (Boys´ Shorts Remix)", "performer": "Joe Goddard"},
-              { "title": "Trance You", "performer": "Dusky"},
+              { "title": "Trance You (Extended Mix)", "performer": "Dusky"},
               { "title": "Hype 4 Hype", "performer": "Giza DJs"},
               { "title": "Light Runner", "performer": "Gift"},
               { "title": "You Don´t Know Me (David Holmes Remix)", "performer": "Ammonite"},
@@ -13138,10 +13139,10 @@
               { "title": "Yes, OK", "performer": "Samiel"},
               { "title": "Electrische", "performer": "Body Meat"},
               { "title": "Find The Way", "performer": "Peggy Gou"},
-              { "title": "Morgengrau", "performer": "Benzi"},
+              { "title": "Morgengrau", "performer": "Benzii"},
               { "title": "Favourite", "performer": "Fontaines D.C."},
               { "title": "Molly´s CHamber", "performer": "Kings Of Leon"},
-              { "title": "Lonsdale Slipon", "performer": "The Bug Club"},
+              { "title": "Lonsdale Slipons", "performer": "The Bug Club"},
               { "title": "DVTR", "performer": "DVTR"},
               { "title": "Ocotillo", "performer": "Floating Points"}
             ]
