@@ -13154,14 +13154,14 @@
           "songs": [
             [
               { "time": "22:04", "title": "Final Rescue Attempt", "performer": "Nick Cave & The Bad Seeds"},
-              { "title": "Dvices", "performer": "Tycho"},
+              { "title": "Devices", "performer": "Tycho"},
               { "title": "Come Find Me", "performer": "Caribou"},
               { "title": "Treat Each Other RIght", "performer": "Jamie XX"},
               { "title": "What I´m About", "performer": "Farouki"},
               { "title": "Intersecting Frequencies", "performer": "Fabrice"},
               { "title": "Susie Q", "performer": "Dale Hawkins"},
               { "title": "Staying Alive", "performer": "Warmduscher"},
-              { "title": "Mother´s Grace (Stone Taro Rmx)", "performer": "SIS"},
+              { "title": "Mother´s Grace (Stone Taro Remix)", "performer": "SIS"},
               { "title": "Flex FM", "performer": "Joy Orbison feat. Lil Yachty, Future & Playboi Carty"},
               { "title": "Call (Solomun Remix)", "performer": "Kasabian"},
               { "title": "U Stole The Summer (CFCF Remix)", "performer": "Basile3"}
@@ -13791,6 +13791,51 @@
               { "title": "Maria´s Hunt", "performer": "Glyders"},
               { "title": "John Williams", "performer": "The Innocence Mission"},
               { "title": "Precious Child", "performer": "White Denim"}
+            ]
+          ]
+        },
+        {
+          "id": "49",
+          "date": "2024-12-15",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Odyssee", "performer": "Innertales"},
+              { "title": "DX Odyssey", "performer": "Tycho"},
+              { "title": "Over You", "performer": "Lili Chan"},
+              { "title": "Tunnel Of Chug", "performer": "Dan Newman"},
+              { "title": "Proto Spoon", "performer": "Dusky"},
+              { "title": "Delirium", "performer": "C Duncan"},
+              { "title": "O´UV Ray", "performer": "Pond"},
+              { "title": "Outta Da Blue", "performer": "Snoop Dogg & Dr. Dre feat. Alus"},
+              { "title": "Last Dance With Mary Jane", "performer": "Snoop Dogg & Dr. Dre feat. Tom Petty & Jelly Roll"},
+              { "title": "Be Real", "performer": "Master-H"},
+              { "title": "Mutations (Empress Of Remix)", "performer": "Nilüfer Yanya"}
+            ],
+            [
+              { "time": "23:04", "title": "This Is War", "performer": "Yellow Note feat. Greg Tate"},
+              { "title": "Love Will Find A Way", "performer": "Famous"},
+              { "title": "Thinking Of You", "performer": "Skream"},
+              { "title": "Perfect Stranger", "performer": "FKA Twigs"},
+              { "title": "Operation", "performer": "Dusky"},
+              { "title": "Keine Angst – Live in Bielefeld", "performer": "Casper feat. Drangsal"},
+              { "title": "Prisoner Of Beauty", "performer": "The Liminanas feat. Bobby Gillespie"},
+              { "title": "Champ", "performer": "Girlpuppy"},
+              { "title": "Another Part Of Me", "performer": "Snoop Dogg & Dr. Dre feat. Sting"},
+              { "title": "Spider", "performer": "Total Tommy"},
+              { "title": "It´s Over (PVA Remix)", "performer": "Tatyana"}
+            ],
+            [
+              { "time": "00:04", "title": "What They Gave Me", "performer": "HVOB"},
+              { "title": "Untethered", "performer": "PVA"},
+              { "title": "Gemälde", "performer": "Erregung öffentlicher Erregung (EÖE)"},
+              { "title": "Boiled Peanuts", "performer": "Doechii"},
+              { "title": "Forellental (Simas Slabaciauskas Remix)", "performer": "Niklas Wandt"},
+              { "title": "Meine Muse (Rework For The Düsseldorf Düsterboys)", "performer": "Philipp Johann Thimm"},
+              { "title": "Bad Day", "performer": "Miaw"},
+              { "title": "Subtropic", "performer": "Goose Down"},
+              { "title": "Express Your Mind", "performer": "E-Freq"},
+              { "title": "You´ve Been Cheating", "performer": "Gush Collective pres. Herb LF"},
+              { "title": "Ghostride", "performer": "Interlaker"}
             ]
           ]
         }
