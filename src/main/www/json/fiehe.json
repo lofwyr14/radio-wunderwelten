@@ -13161,7 +13161,7 @@
               { "title": "Intersecting Frequencies", "performer": "Fabrice"},
               { "title": "Susie Q", "performer": "Dale Hawkins"},
               { "title": "Staying Alive", "performer": "Warmduscher"},
-              { "title": "Mother´s Grace (Stone Taro Remix)", "performer": "SIS"},
+              { "title": "Mother´s Grace (Stones Taro Remix)", "performer": "SIS"},
               { "title": "Flex FM", "performer": "Joy Orbison feat. Lil Yachty, Future & Playboi Carty"},
               { "title": "Call (Solomun Remix)", "performer": "Kasabian"},
               { "title": "U Stole The Summer (CFCF Remix)", "performer": "Basile3"}
@@ -13836,6 +13836,53 @@
               { "title": "Express Your Mind", "performer": "E-Freq"},
               { "title": "You´ve Been Cheating", "performer": "Gush Collective pres. Herb LF"},
               { "title": "Ghostride", "performer": "Interlaker"}
+            ]
+          ]
+        },
+        {
+          "id": "50",
+          "date": "2024-12-22",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Kimble Dyes His Hair", "performer": "James Newton Howard"},
+              { "title": "Look That´s My Heart", "performer": "Brainbeats"},
+              { "title": "What Time Is Love?", "performer": "The KLF"},
+              { "title": "Wrong Idea", "performer": "Confidence Man"},
+              { "title": "Wir rennen", "performer": "Luis Ake"},
+              { "title": "Right Here", "performer": "Elkka"},
+              { "title": "Bedroom Rocker", "performer": "Bachratten"},
+              { "title": "Huey In The Chair", "performer": "LL Cool J feat. Busta Rhymes"},
+              { "title": "Eins Null Eins Eins Null", "performer": "Fred und Luna"},
+              { "title": "He Ain´t Heavy, He´s My Brother", "performer": "The Hollies"},
+              { "title": "Arrivederci", "performer": "Roy Bianco & Die Abbrunzati Boys"}
+            ],
+            [
+              { "time": "23:04", "title": "Period Point Blank (Bernadette Remix)", "performer": "Sabrina Bellaouel"},
+              { "title": "Gas (4.19)", "performer": "Biicla"},
+              { "title": "I Can´t LIe", "performer": "W. H. Lung"},
+              { "title": "Feuerstuhl", "performer": "Michael Mayer"},
+              { "title": "We Are Millwall", "performer": "Millwall FC Fans"},
+              { "title": "Velvet", "performer": "Royel Otis"},
+              { "title": "Total Freefall", "performer": "Hydra Fashion Week"},
+              { "title": "The Ground", "performer": "Marika Hackman"},
+              { "title": "Deeper Well", "performer": "Kacey Musgraves"},
+              { "title": "Treat Each Other Right", "performer": "Jamie XX"},
+              { "title": "Homie Don´t Shake", "performer": "Fcukers"},
+              { "title": "Splinter Brain", "performer": "Wild Pink"},
+              { "title": "Oktober In Europa", "performer": "Antilopen Gang feat. Sophie Hunger"}
+            ],
+            [
+              { "time": "00:04", "title": "Soldier Flow", "performer": "Fear-E Presents Breakbeat Energy"},
+              { "title": "Saviour", "performer": "Mxshi MO"},
+              { "title": "Wish Me Away", "performer": "Gift"},
+              { "title": "Headbanger", "performer": "Levin Goes Lightly"},
+              { "title": "Starting And Staring", "performer": "Gustaf"},
+              { "title": "Comic Trip", "performer": "Sylvie Kreusch"},
+              { "title": "Lilith", "performer": "Shoki"},
+              { "title": "Endsong", "performer": "The Cure"},
+              { "title": "Gruß nach Regensburg", "performer": "Marc Lorenz"},
+              { "title": "In My Dreams", "performer": "Habibi"},
+              { "title": "The Trench Coat Museum", "performer": "Yard Act"}
             ]
           ]
         }
