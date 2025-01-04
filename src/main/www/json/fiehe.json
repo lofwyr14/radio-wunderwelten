@@ -13199,6 +13199,7 @@
         {
           "id": "36",
           "date": "2024-09-08",
+          "checked": {"date": "2025-01-04", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Later", "performer": "Gift"},
@@ -13209,7 +13210,7 @@
               { "title": "Perfume", "performer": "The Dare"},
               { "title": "The Bed, The Room, The Rain And You", "performer": "HINDS"},
               { "title": "Storms Of Love", "performer": "Scuba"},
-              { "title": "I wna doit nth backst", "performer": "Scuba"},
+              { "title": "I wna doit nth bckst", "performer": "Scuba"},
               { "title": "Soundguy", "performer": "GLXY & Sustance"},
               { "title": "The Last One", "performer": "Bakey"},
               { "title": "Sunshine", "performer": "Luttrell"},
@@ -13237,10 +13238,10 @@
               { "title": "Always (Flava D Remix)", "performer": "Spectrasoul"},
               { "title": "Poetry (Makoto Remix)", "performer": "DJ Marky & Solah"},
               { "title": "Hard 2 Love", "performer": "Amy Dabbs feat. Mariah Colon"},
-              { "title": "Rainbow Drops", "performer": "Lili Chan"},
+              { "title": "Rainbow Drops (Extended Mix)", "performer": "Lili Chan"},
               { "title": "Memories", "performer": "Nicky Elisabeth"},
               { "title": "The Emptiness Machine", "performer": "Linking Park"},
-              { "title": "Overflow", "performer": "Silver Tongues"},
+              { "title": "Overflow", "performer": "Silvertongues"},
               { "title": "The Rightous Front", "performer": "Party Dozen"},
               { "title": "Manning Fireworks", "performer": "MJ Lenderman"}
             ]
@@ -13259,7 +13260,7 @@
               { "title": "Nancy", "performer": "Tindersticks"},
               { "title": "Nothing Really Changes (Sleaford Mods Remix)", "performer": "RVG"},
               { "title": "Spring", "performer": "Nitsch"},
-              { "title": "Behind My Eyes", "performer": "Trentemøller  "},
+              { "title": "Behind My Eyes", "performer": "Trentemøller"},
               { "title": "Two Strong Arms", "performer": "Bring Your Worries"},
               { "title": "Mighty Fine & All Mine", "performer": "The Mystery Lights"}
             ],
