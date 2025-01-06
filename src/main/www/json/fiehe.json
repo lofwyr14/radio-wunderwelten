@@ -13256,7 +13256,7 @@
               { "title": "Blue Dada", "performer": "Dummy"},
               { "title": "City Bus", "performer": "Tanikuchan"},
               { "title": "Heartless", "performer": "WhoMadeWho feat. Kölsch"},
-              { "title": "Waves", "performer": "Bart Rejn"},
+              { "title": "Waves (Original Mix)", "performer": "Bart van Rijn"},
               { "title": "Nancy", "performer": "Tindersticks"},
               { "title": "Nothing Really Changes (Sleaford Mods Remix)", "performer": "RVG"},
               { "title": "Spring", "performer": "Nitsch"},
@@ -13267,10 +13267,10 @@
             [
               { "time": "23:04", "title": "Worldwide", "performer": "Bodysync"},
               { "title": "Alt Systems", "performer": "Roska & Tony Quattro"},
-              { "title": "Le Meilleur Est A Venir", "performer": "Gregor Tresher feat. Laurent Garnier"},
-              { "title": "Free Energy", "performer": "Banaqnagun"},
+              { "title": "Le Meilleur Est A Venir (Extended Version)", "performer": "Gregor Tresher feat. Laurent Garnier"},
+              { "title": "Free Energy", "performer": "Bananagun"},
               { "title": "Afflecks Palace", "performer": "Floating Points"},
-              { "title": "Wie Man Es Nennt", "performer": "Die Nerven"},
+              { "title": "Wie man es nennt", "performer": "Die Nerven"},
               { "title": "The Cure", "performer": "Kid Simius"},
               { "title": "Anoyo Drive", "performer": "Maya Ongaku"},
               { "title": "Helium", "performer": "Traumatin"},
@@ -13284,10 +13284,10 @@
               { "title": "To Get You", "performer": "Suki Waterhouse"},
               { "title": "Direkter Vergleich", "performer": "Antilopen Gang"},
               { "title": "Ich helfe nicht bei Umzügen", "performer": "Antilopen Gang"},
-              { "title": "Come Find Me", "performer": "Caribou"},
               { "title": "Handlebar", "performer": "C´est Karma"},
+              { "title": "Come Find Me", "performer": "Caribou"},
               { "title": "Kiss Me Hard", "performer": "WhoMadeWho feat. Blue Hawaii"},
-              { "title": "Sun Birds (Massimiliano Pagliara Strandbar-Disco Remix)", "performer": "Eluize"},
+              { "title": "Sun Birds (Massimiliano Pagliara Strandbar-Disco RMX)", "performer": "Eluize"},
               { "title": "Dipping Out", "performer": "Gurriers"},
               { "title": "What Fathers Do", "performer": "Sophie Chassée"},
               { "title": "Hypnogram", "performer": "Thurston Moore"}
@@ -13885,6 +13885,52 @@
               { "title": "Gruß nach Regensburg", "performer": "Marc Lorenz"},
               { "title": "In My Dreams", "performer": "Habibi"},
               { "title": "The Trench Coat Museum", "performer": "Yard Act"}
+            ]
+          ]
+        },
+        {
+          "id": "51",
+          "date": "2024-12-29",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Artemis", "performer": "Benji Bower & The Terra Collective Orchestra"},
+              { "title": "Alternate", "performer": "Nathalie Capello"},
+              { "title": "Oolong Trance (Paradise Mix)", "performer": "Alex Cassian"},
+              { "title": "Are You Mine?", "performer": "Kim Deal"},
+              { "title": "UNderground", "performer": "Jack White"},
+              { "title": "Green Light", "performer": "Barkley Bandon ft. Kaleab Samuel"},
+              { "title": "The Famous", "performer": "Beem"},
+              { "title": "Fat Dog", "performer": "Dr. Dog"},
+              { "title": "", "performer": "La Securite"},
+              { "title": "Train Trax", "performer": "Matt N Henree (Gush Collective)"},
+              { "title": "Stand Up", "performer": "MJ Cole & K-Lone"}
+            ],
+            [
+              { "time": "23:04", "title": "Last One", "performer": "Bakey"},
+              { "title": "Freak 2 Freak (Introspekt Remix)", "performer": "Sicaria"},
+              { "title": "Response", "performer": "Sub Basics"},
+              { "title": "Untitled", "performer": "Unknown"},
+              { "title": "Falling Into Place", "performer": "The Bony King Of Nowhere"},
+              { "title": "Fright", "performer": "Goblyn"},
+              { "title": "Bad Day", "performer": "Miaw"},
+              { "title": "Sky River", "performer": "Nabihah Iqbal"},
+              { "title": "Bonne. M", "performer": "GǼG"},
+              { "title": "Boss Drum (The Beatmasters Boss Mix)", "performer": "The Shamen"},
+              { "title": "Big Boys", "performer": "Elfenberg"}
+            ],
+            [
+              { "time": "00:04", "title": "Falling 4 U", "performer": "Heron Flow"},
+              { "title": "Always (Flava D Remix)", "performer": "Spectra Soul"},
+              { "title": "High Time", "performer": "Glyders"},
+              { "title": "Millions Of Heartbeats", "performer": "Kate Nash"},
+              { "title": "Call (Solomun Remix)", "performer": "Kasabian"},
+              { "title": "Alles liegt in Scherben", "performer": "MPC Lafote"},
+              { "title": "Rette Sich, Wer Kann", "performer": "Christin Nichols feat. Fatoni"},
+              { "title": "Sports Day", "performer": "Man/Woman/Chainsaw"},
+              { "title": "Rollin´ In", "performer": "Sam Evian"},
+              { "title": "A Bar Song (Tipsy)", "performer": "Shaboozey"},
+              { "title": "Antigone", "performer": "Lauren Ritter"},
+              { "title": "10$ Cowboy", "performer": "Charley Crockett"}
             ]
           ]
         }
