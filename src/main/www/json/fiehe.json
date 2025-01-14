@@ -13298,12 +13298,13 @@
         {
           "id": "38",
           "date": "2024-09-22",
+          "comment": "Reeperbahn Festival 2024",
           "songs": [
             [
               { "time": "22:04", "title": "Wonderback", "performer": "Jay-Z vs Oasis"},
               { "title": "Baddy On The Floor", "performer": "Jamie XX feat. Honey Dijon"},
               { "title": "Homie Don´t Shake", "performer": "Fcukers"},
-              { "title": "Sidan Sidast", "performer": "Kusk"},
+              { "title": "Síðan Síðast", "performer": "Kusk"},
               { "title": "Quitter La Ville", "performer": "Laura Cahen"},
               { "title": "Tell Your Ex (Woi Oi)", "performer": "Lewis Fitzgerald feat. NSG"},
               { "title": "Fall Behind", "performer": "BÆNCH"},
@@ -13936,6 +13937,59 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2025",
+      "episodes": [
+        {
+          "id": "1",
+          "date": "2025-01-05",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Black Sand", "performer": "Brainticket"},
+              { "title": "Cosmic Rising", "performer": "Mayurashka"},
+              { "title": "Luv Non Stop", "performer": "Noodles 142"},
+              { "title": "You Know", "performer": "Giulia Tess"},
+              { "title": "Citrus (Mister Ho Remix)", "performer": "Om Unit"},
+              { "title": "Counting Sheep", "performer": "Peel Dream Magazine"},
+              { "title": "Cheshire", "performer": "Phoebe Rings"},
+              { "title": "Missing You", "performer": "Crystal Glass"},
+              { "title": "Future Day", "performer": "Simona Castricum"},
+              { "title": "Switch feat GAWD", "performer": "Tokimonsta & Cakes da Killa"},
+              { "title": "A380", "performer": "Staffan Lindberg"},
+              { "title": "Freier Fall", "performer": "Skuff Barbie"}
+            ],
+            [
+              { "time": "23:04", "title": "Artemis", "performer": "The Terra Collective Orchestra & Benji Bower"},
+              { "title": "Theme From Kung Fu", "performer": "Rockers Hi-FI presents Jeff Danna (DJ KIcks)"},
+              { "title": "Heartless", "performer": "WhoMadeWho feat. Kölsch"},
+              { "title": "Good Feeling (Mr. G´s Turn On Dub)", "performer": "Honey Dijon presents Stereo MC´s (DJ Kicks)"},
+              { "title": "Under Your Spell", "performer": "Snow Strippers"},
+              { "title": "F.F.T.C", "performer": "DJ Fuckoff & LB Aka Labat"},
+              { "title": "Got Me Overnight", "performer": "Francois X"},
+              { "title": "My Favourite Dress", "performer": "The Wedding Present"},
+              { "title": "Taxi Man", "performer": "Ditz"},
+              { "title": "Ode To Clio", "performer": "Man/Woman/Chainsaw"},
+              { "title": "Sports Day", "performer": "Man/Woman/Chainsaw"},
+              { "title": "Perfect Stranger", "performer": "FKA Twigs"}
+            ],
+            [
+              { "time": "00:04", "title": "Meiso Ongaku 2", "performer": "Maya Ongaku"},
+              { "title": "Ambling", "performer": "Sciuridae"},
+              { "title": "Dödmansgrepp", "performer": "Abstract Crimewave"},
+              { "title": "Blanket", "performer": "Tim & Puma Mimmy"},
+              { "title": "Feel Like A Winner", "performer": "Carl Bergé"},
+              { "title": "Upwards", "performer": "Ela Minus"},
+              { "title": "Unknown Title", "performer": "Unknown Artist"},
+              { "title": "Smitten", "performer": "Mr. Mitch"},
+              { "title": "Rhythm 2 (Alinka Remix)", "performer": "Lulah Francs & Emiliano90"},
+              { "title": "City Bus", "performer": "Tanukichan"},
+              { "title": "Three Big Moons", "performer": "Why Bonnie"}
+            ]
+          ]
+        }
+      ]
     }
+
   ]
 }
