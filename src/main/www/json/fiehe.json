@@ -13992,58 +13992,95 @@
           ]
         },
         {
-          "id": "2025",
-          "episodes": [
-            {
-              "id": "2",
-              "date": "2025-01-12",
-              "songs": [
-                [
-                  { "time": "22:04", "title": "Oval", "performer": "Kangding Ray"},
-                  { "title": "Minor Slider", "performer": "Steffi & Rosati"},
-                  { "title": "Shadow", "performer": "Rebel Yell & Tralala Blip"},
-                  { "title": "Fakesnow", "performer": "R.Missing & Johan Agebjörn"},
-                  { "title": "8 Uhr", "performer": "Mariybu"},
-                  { "title": "Ich bin nur ein Kohlenstoffatom", "performer": "Luis Ake"},
-                  { "title": "Hooked", "performer": "Franz Ferdinand"},
-                  { "title": "Time Tourist", "performer": "My Friend"},
-                  { "title": "Like That", "performer": "El-B"},
-                  { "title": "Play", "performer": "T.Williams feat. Anna Lunoe"},
-                  { "title": "Is It A Dream?", "performer": "Miaoux Miaoux"},
-                  { "title": "In Your Head", "performer": "Zzzahara"},
-                  { "title": "T & A", "performer": "Blondshell"}
-                ],
-                [
-                  { "time": "23:04", "title": "Total Freefall", "performer": "Hydra Fashion Week"},
-                  { "title": "Ou Va La Chance", "performer": "The Liminanas"},
-                  { "title": "You Are The Morning", "performer": "jasmine.4.t"},
-                  { "title": "I Need U", "performer": "Mild Minds"},
-                  { "title": "Dirty Hugs (Richard Sen Remix)", "performer": "Glok"},
-                  { "title": "I´m In Love With A German Filmstar", "performer": "Andy Bell feat. Dot Allison and Michael Rother"},
-                  { "title": "Sea Changes", "performer": "Marinero"},
-                  { "title": "Target", "performer": "Rui Gabriel"},
-                  { "title": "Lunar Quest (Animal Trainer Remix)", "performer": "Serio"},
-                  { "title": "Change The Channel", "performer": "Clipping"},
-                  { "title": "Big Dick Energy", "performer": "Lambrini Girl"}
-                ],
-                [
-                  { "time": "00:04", "title": "Nothing Tastes As Good As It Feels", "performer": "Lambrini Girls"},
-                  { "title": "Reckless", "performer": "Kassie Krut"},
-                  { "title": "Corner Cutting Boredom", "performer": "Scrounge"},
-                  { "title": "One More Reason", "performer": "Hot Wax"},
-                  { "title": "Audacious", "performer": "Franz Ferdinand"},
-                  { "title": "Danger In Her Eyes (Curses Revamp)", "performer": "Deborah Sasson & MCL"},
-                  { "title": "Cosmic Urges", "performer": "Tigerblind"},
-                  { "title": "In The Tall Grass/Made For You", "performer": "Prison"},
-                  { "title": "John Lee Hooker (Live At The Whiskey A Go Go/1967 )", "performer": "Johnny Rivers"}
-                ]
-              ]
-            }
+          "id": "2",
+          "date": "2025-01-12",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Oval", "performer": "Kangding Ray"},
+              { "title": "Minor Slider", "performer": "Steffi & Rosati"},
+              { "title": "Shadow", "performer": "Rebel Yell & Tralala Blip"},
+              { "title": "Fakesnow", "performer": "R.Missing & Johan Agebjörn"},
+              { "title": "8 Uhr", "performer": "Mariybu"},
+              { "title": "Ich bin nur ein Kohlenstoffatom", "performer": "Luis Ake"},
+              { "title": "Hooked", "performer": "Franz Ferdinand"},
+              { "title": "Time Tourist", "performer": "My Friend"},
+              { "title": "Like That", "performer": "El-B"},
+              { "title": "Play", "performer": "T.Williams feat. Anna Lunoe"},
+              { "title": "Is It A Dream?", "performer": "Miaoux Miaoux"},
+              { "title": "In Your Head", "performer": "Zzzahara"},
+              { "title": "T & A", "performer": "Blondshell"}
+            ],
+            [
+              { "time": "23:04", "title": "Total Freefall", "performer": "Hydra Fashion Week"},
+              { "title": "Ou Va La Chance", "performer": "The Liminanas"},
+              { "title": "You Are The Morning", "performer": "jasmine.4.t"},
+              { "title": "I Need U", "performer": "Mild Minds"},
+              { "title": "Dirty Hugs (Richard Sen Remix)", "performer": "Glok"},
+              { "title": "I´m In Love With A German Filmstar", "performer": "Andy Bell feat. Dot Allison and Michael Rother"},
+              { "title": "Sea Changes", "performer": "Marinero"},
+              { "title": "Target", "performer": "Rui Gabriel"},
+              { "title": "Lunar Quest (Animal Trainer Remix)", "performer": "Serio"},
+              { "title": "Change The Channel", "performer": "Clipping"},
+              { "title": "Big Dick Energy", "performer": "Lambrini Girl"}
+            ],
+            [
+              { "time": "00:04", "title": "Nothing Tastes As Good As It Feels", "performer": "Lambrini Girls"},
+              { "title": "Reckless", "performer": "Kassie Krut"},
+              { "title": "Corner Cutting Boredom", "performer": "Scrounge"},
+              { "title": "One More Reason", "performer": "Hot Wax"},
+              { "title": "Audacious", "performer": "Franz Ferdinand"},
+              { "title": "Danger In Her Eyes (Curses Revamp)", "performer": "Deborah Sasson & MCL"},
+              { "title": "Cosmic Urges", "performer": "Tigerblind"},
+              { "title": "In The Tall Grass/Made For You", "performer": "Prison"},
+              { "title": "John Lee Hooker (Live At The Whiskey A Go Go/1967 )", "performer": "Johnny Rivers"}
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "date": "2025-01-19",
+          "songs": [
+            [
+              { "title": "Infinity Peaking", "performer": "bdrmm"},
+              { "title": "Aperture", "performer": "Sciuridae"},
+              { "title": "Space Odyssey", "performer": "El-B"},
+              { "title": "Let U Go", "performer": "Fakaer"},
+              { "title": "Skin On Skin", "performer": "Jasmine.4.t"},
+              { "title": "Kitchen", "performer": "Jasmine.4.t"},
+              { "title": "Vallabye", "performer": "Helmut feat. Valeria"},
+              { "title": "Fluid Nature", "performer": "Cignol"},
+              { "title": "Antic Swoops", "performer": "Davis Galvin"},
+              { "title": "You (The Feral Human Thunderstorm)", "performer": "The Underground Youth"}
+            ],
+            [
+              { "title": "QQQQ", "performer": "Ela Minus"},
+              { "title": "Kaskade (Abdul Raeva Remix)", "performer": "Schiela"},
+              { "title": "Ritmo Paradiso", "performer": "Elfenberg"},
+              { "title": "Move Your Body", "performer": "Capes & Adult Hits"},
+              { "title": "Tiefgaragen", "performer": "Apache 207 & Luciano"},
+              { "title": "I Love People", "performer": "Moonchild Sanelly"},
+              { "title": "Piggy Piggy", "performer": "Baby Berserk"},
+              { "title": "2 Leute", "performer": "Odd Couple"},
+              { "title": "Dream Pixel", "performer": "Moreish Idols"},
+              { "title": "Scattered", "performer": "Glok & Timothy Clerkin"},
+              { "title": "Vielleicht", "performer": "Kratzen"},
+              { "title": "Divine Impulse", "performer": "Woo"}
+            ],
+            [
+              { "title": "Odd Energy", "performer": "Echolalia"},
+              { "title": "Friendly Hallucinations", "performer": "Mac Miller"},
+              { "title": "Stoned", "performer": "Mac Miller"},
+              { "title": "Day And Night Time", "performer": "Traxman"},
+              { "title": "Silver Shadows", "performer": "U"},
+              { "title": "Searching (Radio Slave Remix)", "performer": "Damian Lazarus feat. Jem Cooke"},
+              { "title": "Luminous", "performer": "Josaan "},
+              { "title": "You Are The Morning", "performer": "Jasminer.4.t"},
+              { "title": "Perfume", "performer": "Lots Of Hands"},
+              { "title": "Isalationen", "performer": "Turbostaat"}
+            ]
           ]
         }
-
       ]
     }
-
   ]
 }
