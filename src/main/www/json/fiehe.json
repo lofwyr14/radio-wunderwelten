@@ -14042,7 +14042,7 @@
           "date": "2025-01-19",
           "songs": [
             [
-              { "title": "Infinity Peaking", "performer": "bdrmm"},
+              { "time": "22:04", "title": "Infinity Peaking", "performer": "bdrmm"},
               { "title": "Aperture", "performer": "Sciuridae"},
               { "title": "Space Odyssey", "performer": "El-B"},
               { "title": "Let U Go", "performer": "Fakaer"},
@@ -14054,7 +14054,7 @@
               { "title": "You (The Feral Human Thunderstorm)", "performer": "The Underground Youth"}
             ],
             [
-              { "title": "QQQQ", "performer": "Ela Minus"},
+              { "time": "23:04", "title": "QQQQ", "performer": "Ela Minus"},
               { "title": "Kaskade (Abdul Raeva Remix)", "performer": "Schiela"},
               { "title": "Ritmo Paradiso", "performer": "Elfenberg"},
               { "title": "Move Your Body", "performer": "Capes & Adult Hits"},
@@ -14068,7 +14068,7 @@
               { "title": "Divine Impulse", "performer": "Woo"}
             ],
             [
-              { "title": "Odd Energy", "performer": "Echolalia"},
+              { "time": "00:04", "title": "Odd Energy", "performer": "Echolalia"},
               { "title": "Friendly Hallucinations", "performer": "Mac Miller"},
               { "title": "Stoned", "performer": "Mac Miller"},
               { "title": "Day And Night Time", "performer": "Traxman"},
@@ -14078,6 +14078,54 @@
               { "title": "You Are The Morning", "performer": "Jasminer.4.t"},
               { "title": "Perfume", "performer": "Lots Of Hands"},
               { "title": "Isalationen", "performer": "Turbostaat"}
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "date": "2025-01-26",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Seven", "performer": "Koreless"},
+              { "title": "Artemis", "performer": "Benji Bower & The Terra Collective Orchetra"},
+              { "title": "A Tune For Us", "performer": "Djrum"},
+              { "title": "Sadness", "performer": "C Duncan"},
+              { "title": "Eusexia", "performer": "FKA Twigs"},
+              { "title": "Melting", "performer": "Angioma"},
+              { "title": "Neon Signs", "performer": "The Weather Station"},
+              { "title": "It Goes On Forever", "performer": "Famous"},
+              { "title": "The Sign Of A Man", "performer": "The Moonlandingz"},
+              { "title": "Nightcrawler", "performer": "Je T´aime"},
+              { "title": "Girls Gang", "performer": "Dina Summer"}
+            ],
+            [
+              { "time": "23:04", "title": "Two Satellites", "performer": "Someone feat. C. Duncan"},
+              { "title": "Top Freestyle", "performer": "Central Cee"},
+              { "title": "BAND4BAND", "performer": "Central Cee feat. Lil Baby"},
+              { "title": "Stuck On Loop", "performer": "Jeshi feat. LEILAH"},
+              { "title": "PERFuMITO NUEVO", "performer": "Bad Bunny feat. RaiNao"},
+              { "title": "Keep On (Club Dub)", "performer": "Dusky"},
+              { "title": "Night Lights", "performer": "Shadow Child & DJ Haus"},
+              { "title": "Havarie", "performer": "Timbeau"},
+              { "title": "More Than Life", "performer": "The Horrors"},
+              { "title": "Same Water", "performer": "Polar Noir"},
+              { "title": "Minimal", "performer": "Bon Enfant"},
+              { "title": "See It All", "performer": "Goose Down"}
+            ],
+            [
+              { "time": "00:04", "title": "Persique", "performer": "Hatewax & Dawn Razor"},
+              { "title": "Touch (Four Tet Remix)", "performer": "Shura"},
+              { "title": "What They Gave Me", "performer": "HVOB"},
+              { "title": "Haiku", "performer": "Son Lux"},
+              { "title": "Norou", "performer": "Songhoy Blues & Rokia Kone"},
+              { "title": "Vänern", "performer": "Daniel Ögren"},
+              { "title": "Perfect Stranger", "performer": "FKA Twigs"},
+              { "title": "Buck & Bury VIP", "performer": "El-B "},
+              { "title": "Only Dreamers", "performer": "Technimatic feat. Zara Kershaw"},
+              { "title": "Tangz", "performer": "Bicep & Eliza"},
+              { "title": "Childlike Things", "performer": "FKA Twigs feat. North West"},
+              { "title": "My Spirit Animal Ate Your Spirit Animal", "performer": "Dead Pioneers"},
+              { "title": "After You", "performer": "Courting"}
             ]
           ]
         }
