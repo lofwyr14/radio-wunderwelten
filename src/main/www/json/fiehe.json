@@ -13490,6 +13490,7 @@
         {
           "id": "42",
           "date": "2024-10-27",
+          "checked": {"date": "2025-02-08", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "I Can´t Lie", "performer": "W. H. Lung"},
@@ -13515,15 +13516,16 @@
               { "title": "Im April", "performer": "Lyschko"},
               { "title": "Time Machine", "performer": "Beggars Opera"},
               { "title": "Die Hölle brennt (Livesession)", "performer": "Bea"},
+              { "title": "Whoosh", "performer": "K-Trap"},
               { "title": "Triple Threat", "performer": "Headie One, K-Trap & Clavish"}
             ],
             [
               { "time": "00:04", "title": "Kaum Vertrauen", "performer": "Bazzazian feat. Blumengarten & Casper"},
-              { "title": "You Think You Can Fix Me", "performer": "Bullet Tooth"},
+              { "title": "You Think You Can Fix Me (Extended)", "performer": "Bullet Tooth"},
               { "title": "Odyssey", "performer": "Enzo Siragusa"},
               { "title": "Mother´s Grace (Stones Taro Remix)", "performer": "SIS"},
               { "title": "Help Desk (Beat Detectives Remix)", "performer": "Wand"},
-              { "title": "Memoy", "performer": "Beggars OPera"},
+              { "title": "Memoy", "performer": "Beggars Opera"},
               { "title": "Sunshine", "performer": "Kelly Lee Owens"},
               { "title": "All Pleasure", "performer": "Thus Love"},
               { "title": "Selling Shovels", "performer": "Silverbacks"}
