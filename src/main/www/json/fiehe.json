@@ -13516,8 +13516,8 @@
               { "title": "Im April", "performer": "Lyschko"},
               { "title": "Time Machine", "performer": "Beggars Opera"},
               { "title": "Die Hölle brennt (Livesession)", "performer": "Bea"},
-              { "title": "Whoosh", "performer": "K-Trap"},
-              { "title": "Triple Threat", "performer": "Headie One, K-Trap & Clavish"}
+              { "title": "Triple Threat", "performer": "Headie One, K-Trap & Clavish"},
+              { "title": "Whoosh", "performer": "K-Trap"}
             ],
             [
               { "time": "00:04", "title": "Kaum Vertrauen", "performer": "Bazzazian feat. Blumengarten & Casper"},
@@ -14128,6 +14128,53 @@
               { "title": "Childlike Things", "performer": "FKA Twigs feat. North West"},
               { "title": "My Spirit Animal Ate Your Spirit Animal", "performer": "Dead Pioneers"},
               { "title": "After You", "performer": "Courting"}
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "date": "2025-02-02",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Wakle Me Up", "performer": "The Weeknd feat. Justice"},
+              { "title": "Mirrorball", "performer": "Canty"},
+              { "title": "Falling Down", "performer": "Damian Lazarus feat. Totally Enormous Extinct Dinosaurs"},
+              { "title": "LuvNonstop", "performer": "Noodles142"},
+              { "title": "Escaping The Spell", "performer": "Caldera"},
+              { "title": "Get It Together", "performer": "Tesfa Williams"},
+              { "title": "Phone Me", "performer": "Mereba"},
+              { "title": "Let The Devil In", "performer": "Eddie Chacon"},
+              { "title": "Signals", "performer": "Brendan Moeller"},
+              { "title": "Wanna Die", "performer": "Emma Jean Thackray"},
+              { "title": "Bleib Am Leben", "performer": "Tocotronic"},
+              { "title": "Ohio All The Time", "performer": "Momma"}
+            ],
+            [
+              { "time": "23:04", "title": "Bon Bon (Andrew VanWyngarden Remix)", "performer": "Fcukers"},
+              { "title": "Love Filter (Strings Of Love)", "performer": "Kito Jempere"},
+              { "title": "Searchin´ (bullet tooth Remix)", "performer": "Damian Lazarus feat. Jem Cooke"},
+              { "title": "Didn´t Know Why", "performer": "Tunng"},
+              { "title": "Roderick Of The Vale", "performer": "Gus Englehorn"},
+              { "title": "Trouble", "performer": "Sharon Van Etten & The Attachment Theory"},
+              { "title": "I Didn´t Forget You", "performer": "Kompromat feat. Rahim Redcar"},
+              { "title": "Rorschach", "performer": "Rip Silo"},
+              { "title": "Alien", "performer": "OH! feat. Alexander Price"},
+              { "title": "Heart In The Hole", "performer": "The Murder Capital"},
+              { "title": "If God Is A Woman", "performer": "Larkin Poe"},
+              { "title": "Rosetta", "performer": "Ringo Starr feat. Billy Strings & Larkin Poe"}
+            ],
+            [
+              { "time": "00:04", "title": "Baptized In Fear", "performer": "The Weeknd"},
+              { "title": "Open Hearts", "performer": "The Weeknd"},
+              { "title": "No Introduction", "performer": "Central Cee"},
+              { "title": "Soul", "performer": "Jon E Cash"},
+              { "title": "Untitled a2", "performer": "Unknown"},
+              { "title": "Šmič", "performer": "Sam Cosmic"},
+              { "title": "Fanzine Made Of Flesh", "performer": "Mogwai"},
+              { "title": "Besties", "performer": "Black Country, New Road"},
+              { "title": "Leaving Tottenham", "performer": "Famous"},
+              { "title": "Maximum", "performer": "De Phase ft. Alexander Flood"},
+              { "title": "Blauer Forst, schwarze Spree", "performer": "Rolf Blumig"}
             ]
           ]
         }
