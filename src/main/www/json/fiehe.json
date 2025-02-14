@@ -13535,6 +13535,7 @@
         {
           "id": "43",
           "date": "2024-11-03",
+          "checked": {"date": "2025-02-14", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Falling Down", "performer": "Workforce feat. Tyler Daley"},
@@ -13552,7 +13553,7 @@
               { "title": "Been Caught Stealing", "performer": "Jane´s Addiction"},
               { "title": "Heart Racer", "performer": "Baba Ali"},
               { "title": "Feuerstuhl", "performer": "Michael Mayer"},
-              { "title": "Beautiful Looser", "performer": "Helsloot feat. Rangleklods"},
+              { "title": "Beautiful Looser (Extended Mix)", "performer": "Helsloot feat. Rangleklods"},
               { "title": "Ajhussi", "performer": "Flying Lotus"},
               { "title": "Disneyland ´97", "performer": "Salomea"},
               { "title": "Television", "performer": "Dua Saleh"},
@@ -13563,11 +13564,12 @@
             [
               { "time": "00:04", "title": "No Brainer", "performer": "D Roots"},
               { "title": "Atlas Of Self", "performer": "Audrey Danza"},
-              { "title": "Dance Opera (New Mix)", "performer": "Innersshades"},
+              { "title": "Dance Opera (New Mix)", "performer": "Innershades"},
               { "title": "We Like Da Gyal Them Pt.2", "performer": "Jon E Cash"},
               { "title": "Indoor Sport", "performer": "Sofie Royer"},
               { "title": "Rosie", "performer": "Lots Of Hands"},
-              { "title": "In The Heart", "performer": "Paul White"},
+              { "title": "Rosie", "performer": "Lots Of Hands"},
+              { "title": "Lost In Translation", "performer": "Thus Love"},
               { "title": "Love With Phantom", "performer": "Maya Ongaku"},
               { "title": "Autobahn", "performer": "Kraftwerk"}
             ]
