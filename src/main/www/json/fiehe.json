@@ -14179,6 +14179,53 @@
               { "title": "Blauer Forst, schwarze Spree", "performer": "Rolf Blumig"}
             ]
           ]
+        },
+        {
+          "id": "6",
+          "date": "2025-02-09",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Trouble", "performer": "Sharon Van Etten & The Attachment Theory"},
+              { "title": "Faint Lights", "performer": "Hans Berg"},
+              { "title": "Only The Good Times (Otik Edit)", "performer": "L. B. Dubcorp"},
+              { "title": "Do U Want Me", "performer": "Flava D"},
+              { "title": "Period Point Blank (Bernadette Remix)", "performer": "Sabrina Bellaouel"},
+              { "title": "Feud On A Sunday", "performer": "Aroma Nice"},
+              { "title": "Stones Throw", "performer": "Greentea Peng"},
+              { "title": "Du", "performer": "Kratzen"},
+              { "title": "Letters To Sing Sing", "performer": "Bambara"},
+              { "title": "Deliver To Me", "performer": "Shock Therapy"},
+              { "title": "Champagne Taste", "performer": "Sunflower Beam"},
+              { "title": "Fresh Fields", "performer": "Mr Beatnick"}
+            ],
+            [
+              { "time": "23:04", "title": "Paranoid", "performer": "Black Sabbath"},
+              { "title": "Make Me (Sofia Kourtesis Remix)", "performer": "Elkka"},
+              { "title": "5AM At Bagleys", "performer": "Gorgon City"},
+              { "title": "Keep On (Club Dub)", "performer": "Dusky"},
+              { "title": "Retrogade", "performer": "Otik"},
+              { "title": "So Many Secrets To Reveal", "performer": "The Heart Of The Sun"},
+              { "title": "Stadlberg", "performer": "Ströme feat. Nick McCarthy"},
+              { "title": "I Can´t Imagine (Why You Feel This Way)", "performer": "Sharon Van Etten & The Attachment Theory"},
+              { "title": "Hearsay", "performer": "Anika"},
+              { "title": "Hot Friend", "performer": "Smile"},
+              { "title": "Pieces, Falling (Tobi Neumann Remix)", "performer": "Bi Disc"}
+            ],
+            [
+              { "time": "00:04", "title": "Neanderthal", "performer": "Bob Mould"},
+              { "title": "Train Trax", "performer": "Gush Collective presents: Matt & Henree"},
+              { "title": "So Tired", "performer": "Vision Overground"},
+              { "title": "Needed U", "performer": "Somepoe"},
+              { "title": "Bier für die Girls", "performer": "Schnuppe"},
+              { "title": "Bus Stop Please (Sally C Remix)", "performer": "Fat Boy Slim & Daniel Steinberg"},
+              { "title": "Time Tourist", "performer": "My Friend"},
+              { "title": "Boise, Idaho", "performer": "Bonnie Prince Billy"},
+              { "title": "Is My Living In Vain?", "performer": "Bonnie Prince Billy"},
+              { "title": "The Water´s Fine", "performer": "Bonnie Prince Billy"},
+              { "title": "Monks Of Lindisfarne", "performer": "Arliston"},
+              { "title": "Skin", "performer": "Arpy Brown"}
+            ]
+          ]
         }
       ]
     }
