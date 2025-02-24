@@ -14227,6 +14227,54 @@
               { "title": "Skin", "performer": "Arpy Brown"}
             ]
           ]
+        },
+        {
+          "id": "7",
+          "date": "2025-02-16",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Probably Not", "performer": "The Heart Of The Sun"},
+              { "title": "Found", "performer": "John Glacier"},
+              { "title": "Home", "performer": "John Glacier"},
+              { "title": "Put Me In Graves", "performer": "Wicca Phase Springs Eternal"},
+              { "title": "Où mène la nuit ", "performer": "Francois & The Atlas Mountains"},
+              { "title": "Gimme Dat", "performer": "Ganz ft. Killa P"},
+              { "title": "Heartbreak (Down Forever)", "performer": "Liza Dries"},
+              { "title": "Baddie", "performer": "Ikkimel ft. Money Boy"},
+              { "title": "Silver Current", "performer": "Dogheadsurigeri"},
+              { "title": "Room Of Fools", "performer": "FKA Twigs"},
+              { "title": "Party Girl", "performer": "Tim Parelius"},
+              { "title": "All In My Head (El-B Remix)", "performer": "Slaughter Mob"},
+              { "title": "Wiedersehen", "performer": "TUA"}
+            ],
+            [
+              { "time": "23:04", "title": "grwm", "performer": "Shirin David"},
+              { "title": "The Cure", "performer": "Blondish & KeeQ feat. Chloe Paige"},
+              { "title": "Guts", "performer": "Jools"},
+              { "title": "Asis", "performer": "Die Lokalmatadore"},
+              { "title": "Gold Rush", "performer": "Lucius"},
+              { "title": "Sadness", "performer": "C Duncan"},
+              { "title": "Shadowplay", "performer": "Wallners"},
+              { "title": "Slowdive (MOLØ Remix)", "performer": "La Fleur"},
+              { "title": "Lake Disappointment", "performer": "bdrmm"},
+              { "title": "Bleib am Leben", "performer": "Tocotronic"},
+              { "title": "Sanctuary", "performer": "Tamino ft. Mitski"},
+              { "title": "Buffalo", "performer": "Noonzy"}
+            ],
+            [
+              { "time": "00:04", "title": "Better (Unplugged)", "performer": "Kelela"},
+              { "title": "All These Things", "performer": "Rats On Rafts"},
+              { "title": "Nevasure", "performer": "John Glacier"},
+              { "title": "X-Dream", "performer": "Otik"},
+              { "title": "24 Hour Guy", "performer": "Maroki"},
+              { "title": "Rocks", "performer": "Daniel Ögren"},
+              { "title": "Barn Nork", "performer": "Helen Ganya"},
+              { "title": "Switch Over", "performer": "Horse Girl"},
+              { "title": "Sea Changes", "performer": "Marinero"},
+              { "title": "Showtime!", "performer": "Squid"},
+              { "title": "Ich schreibe jeden Tag einen neuen Song", "performer": "Tocotronic"}
+            ]
+          ]
         }
       ]
     }
