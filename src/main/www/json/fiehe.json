@@ -13626,6 +13626,7 @@
         {
           "id": "45",
           "date": "2024-11-17",
+          "checked": {"date": "2025-02-25", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Wir gehen rein", "performer": "Jolle"},
@@ -13663,8 +13664,8 @@
               { "title": "Now Or Never", "performer": "GhstGhstGhst & Lau.ra"},
               { "title": "Gunshot", "performer": "DJ Q"},
               { "title": "Love Inna We Heart", "performer": "Killa P & Numa Crew feat. Long Range & Charlie P"},
-              { "title": "Respond", "performer": "Sub Basics"},
-              { "title": "Sunrise Generation", "performer": "Damian Lazarus feat. Fink"},
+              { "title": "Response", "performer": "Sub Basics"},
+              { "title": "Sunrise Generation (Extended)", "performer": "Damian Lazarus feat. Fink"},
               { "title": "Ghost Town", "performer": "Sofie Royer"},
               { "title": "Hello Hello", "performer": "Miaw"},
               { "title": "Song To The Siren", "performer": "070 Shake feat. Courtney Love"},
