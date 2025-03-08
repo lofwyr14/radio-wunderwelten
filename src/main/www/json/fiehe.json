@@ -13677,6 +13677,7 @@
         {
           "id": "46",
           "date": "2024-11-24",
+          "checked": {"date": "2025-03-08", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Autostrada Del Brennero", "performer": "Ulrich Troyer"},
@@ -13701,7 +13702,7 @@
               { "title": "mr.mole", "performer": "Ekkstacy"},
               { "title": "Snowy Sunday Smile", "performer": "Arnaud Rebotini"},
               { "title": "Good Feeling (Mr G's Turn On Dub)", "performer": "Stereo MC´s"},
-              { "title": "Stop The World", "performer": "Real Action"},
+              { "title": "Stop The World (Running Hot Remix)", "performer": "Real Action"},
               { "title": "F.u.K.", "performer": "Gwen Dolyn"},
               { "title": "Alien", "performer": "OH! feat. Alexander Price"},
               { "title": "Mahashmashana", "performer": "Father John Misty"}
