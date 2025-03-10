@@ -13731,7 +13731,7 @@
               { "time": "22:04", "title": "Solina (The Ascension)", "performer": "Jedi Knights"},
               { "title": "In A Blaze Of Fame", "performer": "Legowelt"},
               { "title": "Daffodil", "performer": "A.B.Habibi"},
-              { "title": "Out From Under (Emperor Machine Remix)", "performer": "A Certain Ratio"},
+              { "title": "Out From Under (Emperor Machine Extended Rework)", "performer": "A Certain Ratio"},
               { "title": "Leggwork", "performer": "The Emperor Machine"},
               { "title": "My Beatbox (Big Audio Dynamite Dub Remix)", "performer": "DeeJay Punk-Roc"},
               { "title": "Belong", "performer": "Gregor Tresher"}
@@ -13938,7 +13938,7 @@
               { "title": "Millions Of Heartbeats", "performer": "Kate Nash"},
               { "title": "Call (Solomun Remix)", "performer": "Kasabian"},
               { "title": "Alles liegt in Scherben", "performer": "MPC Lafote"},
-              { "title": "Rette Sich, Wer Kann", "performer": "Christin Nichols feat. Fatoni"},
+              { "title": "Rette sich, wer kann", "performer": "Christin Nichols feat. Fatoni"},
               { "title": "Sports Day", "performer": "Man/Woman/Chainsaw"},
               { "title": "Rollin´ In", "performer": "Sam Evian"},
               { "title": "A Bar Song (Tipsy)", "performer": "Shaboozey"},
@@ -14322,6 +14322,50 @@
               { "title": "Inside", "performer": "Salami Rose Joe Louis"},
               { "title": "Looking Dumb", "performer": "Crystal Glass"},
               { "title": "Gefahr", "performer": "Luis Ake"}
+            ]
+          ]
+        },
+        {
+          "id": "9",
+          "date": "2025-03-02",
+          "songs": [
+            [
+              { "time": "22:04", "title": "50mg", "performer": "Panda Bear"},
+              { "title": "I´m In Love With A German Filmstar (Justin Robertson´s Deadstock 33s Remix)", "performer": "Andy Bell feat. Dot Allison, Michael Rother"},
+              { "title": "Panic Attack", "performer": "Andy Bell"},
+              { "title": "Give Me Bassline", "performer": "Jon E Cash"},
+              { "title": "Valleys", "performer": "Working Men´s Club"},
+              { "title": "Dr. Deutschland", "performer": "Meese & Hell"},
+              { "title": "Warrior Dance (Raxon Remix)", "performer": "Damian Lazarus"},
+              { "title": "Too Late Now (Soulwax Remix)", "performer": "Wet Leg"},
+              { "title": "Shovel", "performer": "Deep Sea Diver"},
+              { "title": "Letters From Sing Sing", "performer": "Bambara"}
+            ],
+            [
+              { "time": "23:04", "title": "Human Fly", "performer": "The Cramps"},
+              { "title": "Shout", "performer": "The Liminanas feat. Rover"},
+              { "title": "J´adore Le Monde", "performer": "The Liminanas feat. Bertrand Belin"},
+              { "title": "Seventeen", "performer": "Suzan Köcher´s Suprafon"},
+              { "title": "Brotha Part II (El-B Remix)", "performer": "Angie Stone feat. Alicia Keys & Eve"},
+              { "title": "Affection", "performer": "Kllo"},
+              { "title": "There´s No Heaven", "performer": "Michi"},
+              { "title": "Are You Tired? (Keep On Singing)", "performer": "Darkside"},
+              { "title": "Norm", "performer": "Everything Is Recorded feat. Bill Callahan"},
+              { "title": "Infinity Peaking", "performer": "bdrmm"},
+              { "title": "It´s Okay", "performer": "Emma Jean Thackray feat. Kassa Overall"}
+            ],
+            [
+              { "time": "00:04", "title": "Just Another Illusion", "performer": "Hurricane #1"},
+              { "title": "Apple Green UFO", "performer": "Andy Bell"},
+              { "title": "Pinball Wanderer", "performer": "Andy Bell"},
+              { "title": "Girl Missing", "performer": "Albertine Sarges"},
+              { "title": "Black Star Dancing (The Reflex Revision)", "performer": "Noel Gallagher´s High Flying Birds"},
+              { "title": "Fools Gold", "performer": "The Stone Roses"},
+              { "title": "Dreams Of You", "performer": "Echolalia"},
+              { "title": "Emeralds", "performer": "Sieren"},
+              { "title": "Dreams", "performer": "Roller Derby"},
+              { "title": "Walking Away From My Demons (Wet Leg Remix)", "performer": "Faux Real"},
+              { "title": "Pulling Leeches", "performer": "BRKN Love"}
             ]
           ]
         }
