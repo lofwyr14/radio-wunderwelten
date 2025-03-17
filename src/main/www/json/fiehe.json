@@ -14369,6 +14369,54 @@
               { "title": "Pulling Leeches", "performer": "BRKN Love"}
             ]
           ]
+        },
+        {
+          "id": "10",
+          "date": "2025-03-09",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Nah, You´re Mad Extra", "performer": "Lord Jah-Monte Ogbon"},
+              { "title": "Walk Away", "performer": "Anika"},
+              { "title": "Ghost Town", "performer": "JB Dunckel & Jonathan Fitoussi"},
+              { "title": "Slouch", "performer": "Moreish Idols"},
+              { "title": "Samba9", "performer": "Monde UFO"},
+              { "title": "Densite", "performer": "Zombie Zombie"},
+              { "title": "Killah", "performer": "Lady Gaga feat. Gesaffelstein"},
+              { "title": "Degenerate Star", "performer": "The Liminanas feat. Jon Spencer & Pascal Comelade"},
+              { "title": "Take Me", "performer": "Emma Habs"},
+              { "title": "Set U Free", "performer": "Alinka"},
+              { "title": "One More Reason", "performer": "Hot Wax"},
+              { "title": "When The Sidewalk Ends", "performer": "Phillip Boa & The Voodoo Club"}
+            ],
+            [
+              { "time": "23:04", "title": "Brain Freeze", "performer": "Everyone Says Hi"},
+              { "title": "Pinball Wanderer", "performer": "Andy Bell"},
+              { "title": "Leere", "performer": "Vomit Heat feat. Stella Sommer"},
+              { "title": "Seismograph", "performer": "Luis Ake feat. Tränen"},
+              { "title": "Ertrinken", "performer": "Gwen Dolyn"},
+              { "title": "Pieces, Falling (Gold Panda Remix)", "performer": "Bi Disc"},
+              { "title": "Feel That", "performer": "P-rallel feat. Drewbyrd"},
+              { "title": "Hello?", "performer": "DJ Fuckoff"},
+              { "title": "Cashed Up", "performer": "Brux"},
+              { "title": "No Hard Skeelings", "performer": "Oblig"},
+              { "title": "Hypnø", "performer": "Bianca Oblivion feat. Sam Binga"},
+              { "title": "Kaskade (Abdul Raeva Remix)", "performer": "Schiela"}
+            ],
+            [
+              { "time": "00:04", "title": "Damn Right", "performer": "Jennie feat. Childish Gambino & Kali Uchies"},
+              { "title": "Twin", "performer": "Jennie"},
+              { "title": "Herz Zurück", "performer": "Ikkimel"},
+              { "title": "Tiny Flies", "performer": "Moreish Idols"},
+              { "title": "Dream Pixel", "performer": "Moreish Idols"},
+              { "title": "Sneakers On The Telephone Line", "performer": "Herman Dune"},
+              { "title": "Snares", "performer": "bdrmm"},
+              { "title": "For The Weekend", "performer": "Sasami"},
+              { "title": "Holy Bones", "performer": "Bambara"},
+              { "title": "Breathing Room", "performer": "Bob Mould"},
+              { "title": "Yours & Mine", "performer": "Zimmer90"},
+              { "title": "Out Of My Mind", "performer": "Jonas Rathsman & AWAŸKEN"}
+            ]
+          ]
         }
       ]
     }
