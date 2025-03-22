@@ -13768,6 +13768,7 @@
         {
           "id": "48",
           "date": "2024-12-08",
+          "checked": {"date": "2025-03-22", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Ride", "performer": "Moscoman & Coma"},
@@ -13790,9 +13791,9 @@
               { "title": "Living in Wien", "performer": "Luis Ake"},
               { "title": "Universe In Flames", "performer": "Yota & Johan Agebjörn  feat. Douze"},
               { "title": "Close To You (Octo Octa’s Voices Reaching Out Full On Remix)", "performer": "I. Jordan"},
-              { "title": "Everything Else", "performer": "Tunng"},
+              { "title": "Everything Else (Edit)", "performer": "Tunng"},
               { "title": "Ertrinken", "performer": "Gwen Dolyn"},
-              { "title": "Tunnel Vision", "performer": "Magdalena Bay"}
+              { "title": "Watching T.V.", "performer": "Magdalena Bay"}
             ],
             [
               { "time": "00:04", "title": "Love In The Moment", "performer": "Kris O´Hara"},
