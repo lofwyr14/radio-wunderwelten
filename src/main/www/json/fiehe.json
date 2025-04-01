@@ -13814,6 +13814,7 @@
         {
           "id": "49",
           "date": "2024-12-15",
+          "checked": {"date": "2025-03-27", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Odyssee", "performer": "Innertales"},
@@ -13860,11 +13861,12 @@
         {
           "id": "50",
           "date": "2024-12-22",
+          "comment": "Auf der Flucht - Das Jahr 2024",
           "songs": [
             [
               { "time": "22:04", "title": "Kimble Dyes His Hair", "performer": "James Newton Howard"},
               { "title": "Look That´s My Heart", "performer": "Brainbeats"},
-              { "title": "What Time Is Love?", "performer": "The KLF"},
+              { "title": "What Time Is Love? (live AT Trancentral)", "performer": "The KLF"},
               { "title": "Wrong Idea", "performer": "Confidence Man"},
               { "title": "Wir rennen", "performer": "Luis Ake"},
               { "title": "Right Here", "performer": "Elkka"},
@@ -14464,6 +14466,55 @@
               { "title": "Particles", "performer": "Secret Echoes"},
               { "title": "L.O.V.E.", "performer": "Jessica Winter"},
               { "title": "The Get Go", "performer": "New Young Pony Club"}
+            ]
+          ]
+        },
+        {
+          "id": "12",
+          "date": "2025-03-23",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Yes", "performer": "Mieux"},
+              { "title": "Besos Robados ", "performer": "DJ Python feat. Isabella Lovestory"},
+              { "title": "Nowhere Man", "performer": "Greentea Peng"},
+              { "title": "One Hand Washes The Other", "performer": "Goya Gumbani"},
+              { "title": "Fortnite", "performer": "Sio & Tesfa Willaims"},
+              { "title": "Keep On Pshing These Walls", "performer": "Nadine Khouri"},
+              { "title": "Wenn etwas Schönes stirbt", "performer": "Die Heiterkeit"},
+              { "title": "Sister Ray", "performer": "Trupa Trupa"},
+              { "title": "Dance", "performer": "Catz ´n Dogz feat. Nala"},
+              { "title": "Air Tight (Regularfantasy Remix)", "performer": "Elkka & Dot Major"},
+              { "title": "Fomo (DJ Hell Remix)", "performer": "Dina Summer"},
+              { "title": "Rafters", "performer": "Antony Szmierek"}
+            ],
+            [
+              { "time": "23:04", "title": "LA Runaway", "performer": "The Horrors"},
+              { "title": "Little Girl", "performer": "Japanese Breakfast"},
+              { "title": "Country House Waits", "performer": "Faun Fables"},
+              { "title": "Ember Bell", "performer": "Faun Fables"},
+              { "title": "A Warm Memory", "performer": "Chew"},
+              { "title": "Innocent Money (Pet Shop Boys Remix)", "performer": "Primal Scream"},
+              { "title": "Living In Wien", "performer": "Luis Ake"},
+              { "title": "Zaunkönig", "performer": "Luis Ake"},
+              { "title": "Seismograph", "performer": "Luis Ake feat. Tränen"},
+              { "title": "Lonely People With Power", "performer": "Deafheaven"},
+              { "title": "Mother Monica", "performer": "Jools"},
+              { "title": "Coyote", "performer": "Mt. Joy"}
+            ],
+            [
+              { "time": "00:04", "title": "Light On Me", "performer": "Ruze"},
+              { "title": "Wave", "performer": "Rojabeat"},
+              { "title": "Feel The Rhythm", "performer": "Matt Shanahan"},
+              { "title": "Don´t Work", "performer": "Nikki Nair feat. St. Thomas LeDoux"},
+              { "title": "Sanpaku", "performer": "Tamino"},
+              { "title": "Sanctuary", "performer": "Tamino feat. Mitski"},
+              { "title": "Slow Food", "performer": "Sakura"},
+              { "title": "Dreamt Of You", "performer": "I Am Oak"},
+              { "title": "I Come With Mud", "performer": "Men I Trust"},
+              { "title": "Falling Down", "performer": "Workforce feat. Tyler Daley"},
+              { "title": "Always", "performer": "SpectraSoul"},
+              { "title": "It Is What It Is", "performer": "Rueben, Exea, Aaron Payne"},
+              { "title": "Song Of A Caged Bird (Barry Adamson Remix)", "performer": "Nadine Khouri"}
             ]
           ]
         }
