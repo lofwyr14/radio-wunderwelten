@@ -13910,17 +13910,18 @@
         {
           "id": "51",
           "date": "2024-12-29",
+          "checked": {"date": "2025-04-06", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Artemis", "performer": "Benji Bower & The Terra Collective Orchestra"},
               { "title": "Alternate", "performer": "Nathalie Capello"},
               { "title": "Oolong Trance (Paradise Mix)", "performer": "Alex Cassian"},
               { "title": "Are You Mine?", "performer": "Kim Deal"},
-              { "title": "UNderground", "performer": "Jack White"},
+              { "title": "Underground", "performer": "Jack White"},
               { "title": "Green Light", "performer": "Barkley Bandon ft. Kaleab Samuel"},
               { "title": "The Famous", "performer": "Beem"},
               { "title": "Fat Dog", "performer": "Dr. Dog"},
-              { "title": "", "performer": "La Securite"},
+              { "title": "Suspens (Dur Cliub Remix)", "performer": "La Sécurité"},
               { "title": "Train Trax", "performer": "Matt N Henree (Gush Collective)"},
               { "title": "Stand Up", "performer": "MJ Cole & K-Lone"}
             ],
