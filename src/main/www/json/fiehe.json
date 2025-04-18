@@ -13962,6 +13962,7 @@
         {
           "id": "1",
           "date": "2025-01-05",
+          "checked": {"date": "2025-04-18", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Black Sand", "performer": "Brainticket"},
@@ -13995,10 +13996,10 @@
               { "time": "00:04", "title": "Meiso Ongaku 2", "performer": "Maya Ongaku"},
               { "title": "Ambling", "performer": "Sciuridae"},
               { "title": "Dödmansgrepp", "performer": "Abstract Crimewave"},
-              { "title": "Blanket", "performer": "Tim & Puma Mimmy"},
-              { "title": "Feel Like A Winner", "performer": "Carl Bergé"},
+              { "title": "Blanket (Susukino Edit)", "performer": "Tim & Puma Mimmy"},
+              { "title": "Feel Like A Winner (Extended Mix)", "performer": "Carl Bergé"},
               { "title": "Upwards", "performer": "Ela Minus"},
-              { "title": "Unknown Title", "performer": "Unknown Artist"},
+              { "title": "Psycho", "performer": "French II & Bastian Benjamin"},
               { "title": "Smitten", "performer": "Mr. Mitch"},
               { "title": "Rhythm 2 (Alinka Remix)", "performer": "Lulah Francs & Emiliano90"},
               { "title": "City Bus", "performer": "Tanukichan"},
