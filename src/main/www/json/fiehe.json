@@ -14010,6 +14010,7 @@
         {
           "id": "2",
           "date": "2025-01-12",
+          "checked": {"date": "2025-04-28", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Oval", "performer": "Kangding Ray"},
@@ -14042,7 +14043,7 @@
             [
               { "time": "00:04", "title": "Nothing Tastes As Good As It Feels", "performer": "Lambrini Girls"},
               { "title": "Reckless", "performer": "Kassie Krut"},
-              { "title": "Corner Cutting Boredom", "performer": "Scrounge"},
+              { "title": "Melt", "performer": "Scrounge"},
               { "title": "One More Reason", "performer": "Hot Wax"},
               { "title": "Audacious", "performer": "Franz Ferdinand"},
               { "title": "Danger In Her Eyes (Curses Revamp)", "performer": "Deborah Sasson & MCL"},
