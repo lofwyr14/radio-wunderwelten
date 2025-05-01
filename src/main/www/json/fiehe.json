@@ -14659,6 +14659,52 @@
               { "title": "Spike Island", "performer": "Pulp"}
             ]
           ]
+        },
+        {
+          "id": "16",
+          "date": "2025-04-20",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Without You (DJ Science Long Mix)", "performer": "DJ Cam"},
+              { "title": "System", "performer": "KMC"},
+              { "title": "Close To Greatness", "performer": "Now Always Fades"},
+              { "title": "Back In Tokyo", "performer": "Sweatson Klank"},
+              { "title": "Nimbus", "performer": "Devonwho"},
+              { "title": "The Flow", "performer": "Dam Funk"},
+              { "title": "Crush", "performer": "AJ Tracey feat. Jorja Smith"},
+              { "title": "Buttercups", "performer": "Anika"},
+              { "title": "For The Love Of Your Eyes", "performer": "The Leathernun"},
+              { "title": "Dirt", "performer": "Julien Baker & TORRES"},
+              { "title": "Sophiea", "performer": "Vandalisbin"}
+            ],
+            [
+              { "time": "32:04", "title": "Somebody New", "performer": "Tunde Adebimpe"},
+              { "title": "Let It Ride (Kungs Remix)", "performer": "Lenny Kravitz"},
+              { "title": "Paris Dub 3", "performer": "Paranoid London feat. Paris Brightledge"},
+              { "title": "Circles", "performer": "Mark"},
+              { "title": "Do It Right", "performer": "Keefe"},
+              { "title": "First Time", "performer": "Diego Infanzon feat. Anja Schneider"},
+              { "title": "K.u.r.z.b.e.f.e.h.l.", "performer": "Aka Rinde"},
+              { "title": "Mythical Cowboys", "performer": "Dead Pioneers"},
+              { "title": "Yes Chef", "performer": "Heavy Lungs"},
+              { "title": "Julia´s War", "performer": "Hotline TNT"},
+              { "title": "I Want You (Fever)", "performer": "Momma"},
+              { "title": "Magnetic", "performer": "Tunde Adebimpe"}
+            ],
+            [
+              { "time": "00:04", "title": "Kings In The Jungle, Slaves In The Fields", "performer": "Lonnie Holley"},
+              { "title": "Strength Of A Song", "performer": "Lonnie Holley"},
+              { "title": "Dirt", "performer": "Julien Baker & TORRES"},
+              { "title": "One More Trip Around The Sun", "performer": "Cari Cari"},
+              { "title": "Tell Me More", "performer": "Afar"},
+              { "title": "Bell", "performer": "Kerala Dust"},
+              { "title": "Take A Little Trip", "performer": "Grooveworks"},
+              { "title": "Feel That", "performer": "P-rallel feat. Drew Byrd"},
+              { "title": "Life Is But A Dream", "performer": "London Elektricity"},
+              { "title": "Target Offer", "performer": "The Convenience"},
+              { "title": "There´s A Rhythmn", "performer": "Bon Iver"}
+            ]
+          ]
         }
       ]
     }
