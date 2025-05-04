@@ -14056,6 +14056,7 @@
         {
           "id": "3",
           "date": "2025-01-19",
+          "checked": {"date": "2025-05-04", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Infinity Peaking", "performer": "bdrmm"},
@@ -14081,7 +14082,7 @@
               { "title": "Dream Pixel", "performer": "Moreish Idols"},
               { "title": "Scattered", "performer": "Glok & Timothy Clerkin"},
               { "title": "Vielleicht", "performer": "Kratzen"},
-              { "title": "Divine Impulse", "performer": "Woo"}
+              { "title": "Blossoms", "performer": "Woo"}
             ],
             [
               { "time": "00:04", "title": "Odd Energy", "performer": "Echolalia"},
@@ -14089,11 +14090,11 @@
               { "title": "Stoned", "performer": "Mac Miller"},
               { "title": "Day And Night Time", "performer": "Traxman"},
               { "title": "Silver Shadows", "performer": "U"},
-              { "title": "Searching (Radio Slave Remix)", "performer": "Damian Lazarus feat. Jem Cooke"},
-              { "title": "Luminous", "performer": "Josaan "},
-              { "title": "You Are The Morning", "performer": "Jasminer.4.t"},
+              { "title": "Searching (Radio Slave Extended Remix)", "performer": "Damian Lazarus feat. Jem Cooke"},
+              { "title": "Luminous (Extended Mix)", "performer": "Josaan"},
+              { "title": "You Are The Morning", "performer": "Jasmine.4.t"},
               { "title": "Perfume", "performer": "Lots Of Hands"},
-              { "title": "Isalationen", "performer": "Turbostaat"}
+              { "title": "Isolationen", "performer": "Turbostaat"}
             ]
           ]
         },
