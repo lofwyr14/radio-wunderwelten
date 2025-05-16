@@ -14107,7 +14107,7 @@
               { "title": "Artemis", "performer": "Benji Bower & The Terra Collective Orchetra"},
               { "title": "A Tune For Us", "performer": "Djrum"},
               { "title": "Sadness", "performer": "C Duncan"},
-              { "title": "Eusexia", "performer": "FKA Twigs"},
+              { "title": "Eusexua", "performer": "FKA Twigs"},
               { "title": "Melting", "performer": "Angioma"},
               { "title": "Neon Signs", "performer": "The Weather Station"},
               { "title": "It Goes On Forever", "performer": "Famous"},
@@ -14704,6 +14704,53 @@
               { "title": "Life Is But A Dream", "performer": "London Elektricity"},
               { "title": "Target Offer", "performer": "The Convenience"},
               { "title": "There´s A Rhythmn", "performer": "Bon Iver"}
+            ]
+          ]
+        },
+        {
+          "id": "17",
+          "date": "2025-04-27",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Stay", "performer": "Emma-Jean Thackray"},
+              { "title": "Been A Long Trip (CC DISCO! Remix)", "performer": "Schiela"},
+              { "title": "Flute", "performer": "Harald"},
+              { "title": "Love U Bring", "performer": "Lawrence Hart"},
+              { "title": "Bad Club Bad Drugs Bad People", "performer": "Acid Klaus"},
+              { "title": "Stink Foot", "performer": "The Moonlandingz feat. Jessica Winter"},
+              { "title": "All I Really Ever Wanted", "performer": "Jessica Winter"},
+              { "title": "Next Big Thing", "performer": "Lawn Chair"},
+              { "title": "Forever Anyway (True Yorker Remix)", "performer": "John Barera"},
+              { "title": "Linked", "performer": "Sieren"},
+              { "title": "Sky", "performer": "d4vd"},
+              { "title": "Where/When", "performer": "Noonzy"}
+            ],
+            [
+              { "time": "23:04", "title": "Maybe Nowhere", "performer": "Emma-Jean Thackray"},
+              { "title": "Stratus", "performer": "Billy Cobham"},
+              { "title": "Crockett´s Theme", "performer": "Jan Hammer"},
+              { "title": "Mindflower", "performer": "Now Always Fades"},
+              { "title": "How Do You Love (Pet Shop Boys Remix)", "performer": "The Hidden Cameras"},
+              { "title": "I Like You", "performer": "DC Gore"},
+              { "title": "You N33d Me", "performer": "Viagra Boys"},
+              { "title": "Revolution", "performer": "Grenzkontrolle"},
+              { "title": "Möchtegern", "performer": "Cosey Mueller"},
+              { "title": "Girlfriend", "performer": "Näd Mika feat. Sexy Sushi"},
+              { "title": "Upstairs Downstairs", "performer": "Earwax"},
+              { "title": "Chords Of Love", "performer": "Demain Minuit"}
+            ],
+            [
+              { "time": "00:04", "title": "Alone (Four Tet Remix)", "performer": "The Cure"},
+              { "title": "Zambarena", "performer": "Grooveworks"},
+              { "title": "White Skies", "performer": "Matt Flores feat. Karmaboy"},
+              { "title": "So Right", "performer": "VIL & CRAVO"},
+              { "title": "Reach My Soul (Bassline Version)", "performer": "Nubiyan Twist"},
+              { "title": "Blumen aus Metall", "performer": "Akryl"},
+              { "title": "Perfume", "performer": "The Dare"},
+              { "title": "Forevermore", "performer": "Roosevelt"},
+              { "title": "Sugar In The Tank", "performer": "Julien Baker & Torres"},
+              { "title": "Fireman´s Wedding", "performer": "Joe Henry"},
+              { "title": "Save Me", "performer": "Emma-Jean Thackray"}
             ]
           ]
         }
