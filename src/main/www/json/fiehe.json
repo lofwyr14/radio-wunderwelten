@@ -14753,6 +14753,52 @@
               { "title": "Save Me", "performer": "Emma-Jean Thackray"}
             ]
           ]
+        },
+        {
+          "id": "18",
+          "date": "2025-05-04",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Don´t Hold Back", "performer": "Emjie"},
+              { "title": "Did I Go (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Pacific Samba", "performer": "Asa Tate"},
+              { "title": "Dirty Boyz", "performer": "Viagra Boys"},
+              { "title": "Some People´s Music", "performer": "The Moonlandingz feat. Ewen Bremner"},
+              { "title": "Bass Tool", "performer": "Skream & Alex Culross"},
+              { "title": "Reflector", "performer": "Willo feat. Baron Von Trax"},
+              { "title": "Es ist immer Sommer irgendwo", "performer": "Die Liga der gewöhnlichen Gentlemen"},
+              { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"},
+              { "title": "Move With The Pack", "performer": "Claude VonStroke"}
+            ],
+            [
+              { "time": "23:04", "title": "Macarena (Bayside Boys Remix)", "performer": "Los Del Rio"},
+              { "title": "Zambarena", "performer": "Grooveworks"},
+              { "title": "In My Dreams", "performer": "Shadow Child"},
+              { "title": "Shangri La", "performer": "Need For MIrrors"},
+              { "title": "Headlands", "performer": "Need For Mirrors & Singr"},
+              { "title": "Mehringdamm", "performer": "Berliner Doom"},
+              { "title": "Intro", "performer": "Sextile"},
+              { "title": "Woman Respond To Bass", "performer": "Sextile"},
+              { "title": "Reach Out To Me (Special Request Remix)", "performer": "Karen Pollard"},
+              { "title": "John Belushi", "performer": "Dope Lemon"},
+              { "title": "All Good Things Will Come To Pass", "performer": "Lael Neale"},
+              { "title": "Vacate", "performer": "Press Club"},
+              { "title": "Motorway", "performer": "Salami Rose Joe Louis"}
+            ],
+            [
+              { "time": "00:04", "title": "Did I Go?", "performer": "Ebba Asman"},
+              { "title": "Laydown", "performer": "Jenny Hval"},
+              { "title": "One Last Time", "performer": "Elli"},
+              { "title": "Echo System", "performer": "Newmen"},
+              { "title": "Broken English", "performer": "Winston Tong"},
+              { "title": "Lost In The Deep", "performer": "Eelke Kleijn"},
+              { "title": "PolarForest", "performer": "Anja Huwe"},
+              { "title": "Never Coming Back", "performer": "Optometry"},
+              { "title": "Keine Sekunde", "performer": "Fluegge"},
+              { "title": "Balthazzar", "performer": "Motorpsycho"},
+              { "title": "Ein Dienstag in Dur (Es ist Frühling)", "performer": "Die Liga der gewöhnlichen Gentlemen"}
+            ]
+          ]
         }
       ]
     }
