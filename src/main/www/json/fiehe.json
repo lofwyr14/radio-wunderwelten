@@ -14101,6 +14101,7 @@
         {
           "id": "4",
           "date": "2025-01-26",
+          "checked": {"date": "2025-05-17", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Seven", "performer": "Koreless"},
@@ -14137,7 +14138,7 @@
               { "title": "Norou", "performer": "Songhoy Blues & Rokia Kone"},
               { "title": "Vänern", "performer": "Daniel Ögren"},
               { "title": "Perfect Stranger", "performer": "FKA Twigs"},
-              { "title": "Buck & Bury VIP", "performer": "El-B "},
+              { "title": "Buck & Bury VIP", "performer": "El-B"},
               { "title": "Only Dreamers", "performer": "Technimatic feat. Zara Kershaw"},
               { "title": "Tangz", "performer": "Bicep & Eliza"},
               { "title": "Childlike Things", "performer": "FKA Twigs feat. North West"},
