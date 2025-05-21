@@ -14155,7 +14155,7 @@
               { "time": "22:04", "title": "Wakle Me Up", "performer": "The Weeknd feat. Justice"},
               { "title": "Mirrorball", "performer": "Canty"},
               { "title": "Falling Down", "performer": "Damian Lazarus feat. Totally Enormous Extinct Dinosaurs"},
-              { "title": "LuvNonstop", "performer": "Noodles142"},
+              { "title": "Luv Nonstop", "performer": "Noodles142"},
               { "title": "Escaping The Spell", "performer": "Caldera"},
               { "title": "Get It Together", "performer": "Tesfa Williams"},
               { "title": "Phone Me", "performer": "Mereba"},
@@ -14172,7 +14172,7 @@
               { "title": "Didn´t Know Why", "performer": "Tunng"},
               { "title": "Roderick Of The Vale", "performer": "Gus Englehorn"},
               { "title": "Trouble", "performer": "Sharon Van Etten & The Attachment Theory"},
-              { "title": "I Didn´t Forget You", "performer": "Kompromat feat. Rahim Redcar"},
+              { "title": "I Did Not Forget You", "performer": "Kompromat feat. Rahim Redcar"},
               { "title": "Rorschach", "performer": "Rip Silo"},
               { "title": "Alien", "performer": "OH! feat. Alexander Price"},
               { "title": "Heart In The Hole", "performer": "The Murder Capital"},
@@ -14184,7 +14184,7 @@
               { "title": "Open Hearts", "performer": "The Weeknd"},
               { "title": "No Introduction", "performer": "Central Cee"},
               { "title": "Soul", "performer": "Jon E Cash"},
-              { "title": "Untitled a2", "performer": "Unknown"},
+              { "title": "Psycho", "performer": "French II"},
               { "title": "Šmič", "performer": "Sam Cosmic"},
               { "title": "Fanzine Made Of Flesh", "performer": "Mogwai"},
               { "title": "Besties", "performer": "Black Country, New Road"},
@@ -14798,6 +14798,52 @@
               { "title": "Keine Sekunde", "performer": "Fluegge"},
               { "title": "Balthazzar", "performer": "Motorpsycho"},
               { "title": "Ein Dienstag in Dur (Es ist Frühling)", "performer": "Die Liga der gewöhnlichen Gentlemen"}
+            ]
+          ]
+        },
+        {
+          "id": "19",
+          "date": "2025-05-11",
+          "songs": [
+            [
+              { "time": "22:04", "title": "The Light Feels Low", "performer": "Askel & Elere"},
+              { "title": "Shangri-La", "performer": "Need For Mirrors"},
+              { "title": "Stars Get Down (Nu-Tone Remix)", "performer": "Subwave"},
+              { "title": "All On Top", "performer": "London Electricity, Conrad Subs, Genesis Elijah"},
+              { "title": "Sire Eyes", "performer": "BOP, DRIIA, Doktor"},
+              { "title": "Spacesuit", "performer": "Degs feat. Gabriella Bongo"},
+              { "title": "Stoppy´s Tape Packs", "performer": "Unglued feat. Lowqui"},
+              { "title": "Echoes Of Us", "performer": "Baltra"},
+              { "title": "Gentle Gaze", "performer": "Elkka"},
+              { "title": "Seeds Of Light", "performer": "Rose City Band"},
+              { "title": "La Mesa", "performer": "Rose City Band"},
+              { "title": "Magica Bonita", "performer": "The Bongo Hop"}
+            ],
+            [
+              { "time": "23:04", "title": "Caribbean Things", "performer": "Mr. Tophat & Art Alfie"},
+              { "title": "Hello Echo (Davi Remix)", "performer": "Eli & Fur"},
+              { "title": "Bryllant", "performer": "Boytronic"},
+              { "title": "You In June", "performer": "Adult Mom"},
+              { "title": "Blue Devil", "performer": "Key Glock"},
+              { "title": "World Is Ours", "performer": "Key Glock"},
+              { "title": "Light Runner (Gum + Ginoli Remix)", "performer": "The Gift"},
+              { "title": "Emu Rock", "performer": "Gum"},
+              { "title": "Dead Stick", "performer": "King Gizzard & The Lizard Wizard"},
+              { "title": "Moody", "performer": "Royel Otis"},
+              { "title": "No No Yes Yes", "performer": "Deradoorian"},
+              { "title": "Any Other World", "performer": "Deradoorian"}
+            ],
+            [
+              { "time": "00:04", "title": "Down On The Freeway", "performer": "Lael Neale"},
+              { "title": "Damewadame", "performer": "Aili"},
+              { "title": "Baller", "performer": "Abor & Tynna"},
+              { "title": "Midnight Coastline", "performer": "Macka"},
+              { "title": "Underwater", "performer": "Amelia Moore"},
+              { "title": "Don`t Worry About Him", "performer": "Kayla Shyx"},
+              { "title": "Lay Me Down", "performer": "Portland"},
+              { "title": "Unfair", "performer": "Yuno"},
+              { "title": "Gib kein Hand", "performer": "Xatar"},
+              { "title": "U R Not Dying U R Just Waking Up", "performer": "Hieroglyphic Being"}
             ]
           ]
         }
