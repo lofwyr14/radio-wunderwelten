@@ -14208,7 +14208,7 @@
               { "title": "Feud On A Sunday", "performer": "Aroma Nice"},
               { "title": "Stones Throw", "performer": "Greentea Peng"},
               { "title": "Du", "performer": "Kratzen"},
-              { "title": "Letters To Sing Sing", "performer": "Bambara"},
+              { "title": "Letters From Sing Sing", "performer": "Bambara"},
               { "title": "Deliver To Me", "performer": "Shock Therapy"},
               { "title": "Champagne Taste", "performer": "Sunflower Beam"},
               { "title": "Fresh Fields", "performer": "Mr Beatnick"}
@@ -14216,7 +14216,7 @@
             [
               { "time": "23:04", "title": "Paranoid", "performer": "Black Sabbath"},
               { "title": "Make Me (Sofia Kourtesis Remix)", "performer": "Elkka"},
-              { "title": "5AM At Bagleys", "performer": "Gorgon City"},
+              { "title": "5AM At Bagleys (Extended Mix)", "performer": "Gorgon City"},
               { "title": "Keep On (Club Dub)", "performer": "Dusky"},
               { "title": "Retrogade", "performer": "Otik"},
               { "title": "So Many Secrets To Reveal", "performer": "The Heart Of The Sun"},
@@ -14845,6 +14845,56 @@
               { "title": "Unfair", "performer": "Yuno"},
               { "title": "Gib kein Hand", "performer": "Xatar"},
               { "title": "U R Not Dying U R Just Waking Up", "performer": "Hieroglyphic Being"}
+            ]
+          ]
+        },
+        {
+          "id": "20",
+          "date": "2025-05-18",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Eyes Wide Shut (CC:DISCO! Remix)", "performer": "Daisybelle"},
+              { "title": "Hold Me Tight", "performer": "Joe Goddard"},
+              { "title": "You (Find Love)", "performer": "Easy Easy"},
+              { "title": "Candle", "performer": "Hotline TNT"},
+              { "title": "Through My Teeth", "performer": "Spacey Jane"},
+              { "title": "She Thinks She´s Fierce (You Gotta Go Remix)", "performer": "Michael Cignarale"},
+              { "title": "Girl Like Me", "performer": "PinkPantheress"},
+              { "title": "Stars", "performer": "PinkPantheress"},
+              { "title": "Illegal", "performer": "PinkPantheress"},
+              { "title": "Pleasures In The Planet", "performer": "Ko Yang"},
+              { "title": "Like That", "performer": "El-B"},
+              { "title": "1000 Gram", "performer": "GUSH COLLECTIVE! Matt Flores feat. DOC"},
+              { "title": "Gimme Ocean", "performer": "Yuno"},
+              { "title": "Where You Belong", "performer": "Elli"}
+            ],
+            [
+              { "time": "23:04", "title": "I Just Want To Be A Sound", "performer": "Kadavar"},
+              { "title": "Panic Attack", "performer": "Andy Bell"},
+              { "title": "It´s Just Us", "performer": "Kali Uchis"},
+              { "title": "Continants", "performer": "Sio & Tesfa Williams"},
+              { "title": "Druzy@ (Scuba Remix)", "performer": "Baltra"},
+              { "title": "Waterflow", "performer": "Scuba"},
+              { "title": "Unidos", "performer": "Sofia Kourtesis & Daphni"},
+              { "title": "On The Nose", "performer": "Froid Dub"},
+              { "title": "If I Had A Gun", "performer": "Ekkstacy"},
+              { "title": "1 800 Call-MeBack", "performer": "Mhaol"},
+              { "title": "Reigning Down", "performer": "Deradoorian"},
+              { "title": "Down", "performer": "Triathalon"}
+            ],
+            [
+              { "time": "00:04", "title": "Assis", "performer": "Spill Tab"},
+              { "title": "We Belong", "performer": "Yuno"},
+              { "title": "Milkshake Man", "performer": "Go-Jo"},
+              { "title": "Big Jet Plane", "performer": "Raphael Palacci"},
+              { "title": "How Do You Love (Hidrogenesse Remix)", "performer": "The Hidden Cameras"},
+              { "title": "Man With Hands And Ankles Bound", "performer": "La Dispute"},
+              { "title": "Live Deliciously", "performer": "Jools"},
+              { "title": "As The Hummingbird Hovers", "performer": "Psychedelic Porn Crumpets"},
+              { "title": "Pot Of Gold", "performer": "Peter Doherty"},
+              { "title": "The Day The Baron Died", "performer": "Peter Doherty"},
+              { "title": "All On Top", "performer": "London Elektricity, Conrad Subs & Genesis Elijah"},
+              { "title": "Insomnia", "performer": "Pola & Bryson"}
             ]
           ]
         }
