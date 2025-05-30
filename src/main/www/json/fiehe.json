@@ -14198,6 +14198,7 @@
         {
           "id": "6",
           "date": "2025-02-09",
+          "checked": {"date": "2025-05-30", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Trouble", "performer": "Sharon Van Etten & The Attachment Theory"},
@@ -14231,9 +14232,9 @@
               { "title": "Train Trax", "performer": "Gush Collective presents: Matt & Henree"},
               { "title": "So Tired", "performer": "Vision Overground"},
               { "title": "Needed U", "performer": "Somepoe"},
-              { "title": "Bier für die Girls", "performer": "Schnuppe"},
+              { "title": "Bier für die Girls (Radio Edit)", "performer": "Schnuppe"},
               { "title": "Bus Stop Please (Sally C Remix)", "performer": "Fat Boy Slim & Daniel Steinberg"},
-              { "title": "Time Tourist", "performer": "My Friend"},
+              { "title": "Time Tourist (Extended)", "performer": "My Friend"},
               { "title": "Boise, Idaho", "performer": "Bonnie Prince Billy"},
               { "title": "Is My Living In Vain?", "performer": "Bonnie Prince Billy"},
               { "title": "The Water´s Fine", "performer": "Bonnie Prince Billy"},
