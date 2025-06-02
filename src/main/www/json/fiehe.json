@@ -14258,7 +14258,7 @@
               { "title": "Baddie", "performer": "Ikkimel ft. Money Boy"},
               { "title": "Silver Current", "performer": "Dogheadsurigeri"},
               { "title": "Room Of Fools", "performer": "FKA Twigs"},
-              { "title": "Party Girl", "performer": "Tim Parelius"},
+              { "title": "Party Girl (Tim Parelias Remix)", "performer": "Michelle Gurevich"},
               { "title": "All In My Head (El-B Remix)", "performer": "Slaughter Mob"},
               { "title": "Wiedersehen", "performer": "TUA"}
             ],
@@ -14896,6 +14896,50 @@
               { "title": "The Day The Baron Died", "performer": "Peter Doherty"},
               { "title": "All On Top", "performer": "London Elektricity, Conrad Subs & Genesis Elijah"},
               { "title": "Insomnia", "performer": "Pola & Bryson"}
+            ]
+          ]
+        },
+        {
+          "id": "21",
+          "date": "2025-05-25",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Stoned And Starving", "performer": "Parquet Courts"},
+              { "title": "Billie Toppy (2025)", "performer": "Men I Trust"},
+              { "title": "Feuerstuhl", "performer": "Michael Mayer"},
+              { "title": "My Soul", "performer": "Notre Dame"},
+              { "title": "An Ungrateful Death", "performer": "Shcaa"},
+              { "title": "Goodbye, Düsseldorf", "performer": "Sankt Otten"},
+              { "title": "What Else Is There (DJ Tennis Remix)", "performer": "Röyksopp feat. Fever Ray"},
+              { "title": "Himalayan Yak Chew", "performer": "Aesop Rock"},
+              { "title": "Abbali (Live At Montreux Jazz Festival 2022)", "performer": "John McLaughlin & The 4th Dimension"},
+              { "title": "Blitzkrieg Bop – Jamrock Bop", "performer": "Dubmones"}
+            ],
+            [
+              { "time": "23:04", "title": "First It Was A Movie, Then It Was A Book", "performer": "Florry"},
+              { "title": "Betty Ford", "performer": "Friendship"},
+              { "title": "Friday On My Mind", "performer": "Brògeal"},
+              { "title": "Pure Vernunft Darf Niemals Siegen (Wassermann & Superpitcher (MIx)", "performer": "Tocotronic"},
+              { "title": "Rivals (DJ Hell Mix)", "performer": "GusGus"},
+              { "title": "Fackeln Im Sturm", "performer": "Wassermann"},
+              { "title": "Gone Stumblin´", "performer": "Soul Clap feat. Haven Star"},
+              { "title": "Immortal Hands", "performer": "Stereolab"},
+              { "title": "Drive The Lorry", "performer": "Sophia Kennedy"},
+              { "title": "Should The Bible Be Banned", "performer": "McCarthy"}
+            ],
+            [
+              { "time": "00:04", "title": "BadBadButGood", "performer": "Hang Linton"},
+              { "title": "Happiness (Michael Mayer Mix)", "performer": "Superpitcher"},
+              { "title": "Mana", "performer": "Urban CC"},
+              { "title": "Molly & Sally", "performer": "Yulia Niko feat. Coro Coro"},
+              { "title": "Shmaali شمالي Tarweeda (Nicolas Jaar Remix)", "performer": "Yasmin Hamdan"},
+              { "title": "Automatic (Midnight Version)", "performer": "Roosevelt"},
+              { "title": "Waiting Around To Provide", "performer": "Florry"},
+              { "title": "Ohne Namen", "performer": "Julian Knoth"},
+              { "title": "Mountainbiker", "performer": "Njelk"},
+              { "title": "Live Deliciously", "performer": "Jools"},
+              { "title": "Purple Colored Sky", "performer": "Sally Shapiro"},
+              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn feat. R.Missing"}
             ]
           ]
         }
