@@ -14284,7 +14284,7 @@
               { "title": "24 Hour Guy", "performer": "Maroki"},
               { "title": "Rocks", "performer": "Daniel Ögren"},
               { "title": "Barn Nork", "performer": "Helen Ganya"},
-              { "title": "Switch Over", "performer": "Horse Girl"},
+              { "title": "Switch Over", "performer": "Horsegirl"},
               { "title": "Sea Changes", "performer": "Marinero"},
               { "title": "Showtime!", "performer": "Squid"},
               { "title": "Ich schreibe jeden Tag einen neuen Song", "performer": "Tocotronic"}
@@ -14919,7 +14919,7 @@
               { "time": "23:04", "title": "First It Was A Movie, Then It Was A Book", "performer": "Florry"},
               { "title": "Betty Ford", "performer": "Friendship"},
               { "title": "Friday On My Mind", "performer": "Brògeal"},
-              { "title": "Pure Vernunft Darf Niemals Siegen (Wassermann & Superpitcher (MIx)", "performer": "Tocotronic"},
+              { "title": "Pure Vernunft darf niemals siegen (Wassermann & Superpitcher Mix)", "performer": "Tocotronic"},
               { "title": "Rivals (DJ Hell Mix)", "performer": "GusGus"},
               { "title": "Fackeln Im Sturm", "performer": "Wassermann"},
               { "title": "Gone Stumblin´", "performer": "Soul Clap feat. Haven Star"},
@@ -14940,6 +14940,53 @@
               { "title": "Live Deliciously", "performer": "Jools"},
               { "title": "Purple Colored Sky", "performer": "Sally Shapiro"},
               { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn feat. R.Missing"}
+            ]
+          ]
+        },
+        {
+          "id": "22",
+          "date": "2025-06-01",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Huddersfield Wastes", "performer": "The Invisible Girls"},
+              { "title": "American Dream", "performer": "Donny Benet"},
+              { "title": "Alive", "performer": "Ghostwoman"},
+              { "title": "Home", "performer": "Magnetizm"},
+              { "title": "Eagle Rocks", "performer": "Moscoman"},
+              { "title": "Danger In Fives", "performer": "Wombo"},
+              { "title": "Unity", "performer": "Technimatic"},
+              { "title": "All On Top", "performer": "London Elektricity, Conrad Subs & Genesis Elijah"},
+              { "title": "Run, Run, Run Part II", "performer": "McKinley Dixon"},
+              { "title": "1010Wins", "performer": "Aesop Rocks feat. Armand Hammer"},
+              { "title": "Tokyo Blunts", "performer": "Pink Siifu & Real Bad Man feat. Armand Hammer & Conquest Tony Phillips"},
+              { "title": "Duffel Bag", "performer": "Mavi Phoenix"}
+            ],
+            [
+              { "time": "23:04", "title": "Reborn", "performer": "Miley Cyrus"},
+              { "title": "Love On The Rocks", "performer": "Daddy Squad feat. Corine"},
+              { "title": "Black Sand", "performer": "Brainticket"},
+              { "title": "Strange Little Consequence", "performer": "Demise Of Love"},
+              { "title": "Roscoe (Beyond The Wizard´s Sleeve Re-Animation)", "performer": "Midlake"},
+              { "title": "Sordid Affair (Notre Dame Remix)", "performer": "Röyksopp"},
+              { "title": "Service Station At The End Of The Universe", "performer": "Antony Szmierek"},
+              { "title": "Eko", "performer": "Yeule"},
+              { "title": "Buildings", "performer": "Ty Segall"},
+              { "title": "Ride", "performer": "Moscoman feat. Coma"},
+              { "title": "Deranged", "performer": "Kevin Kofii"}
+            ],
+            [
+              { "time": "00:04", "title": "Did Igo? (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Dweller", "performer": "Asa Tate"},
+              { "title": "Not In Surrender", "performer": "Obongjayar"},
+              { "title": "Automatic", "performer": "Elkka"},
+              { "title": "Airwaves (Denham Audio Remix)", "performer": "DJ Haus"},
+              { "title": "Revolution", "performer": "Grenzkontrolle"},
+              { "title": "Coyote", "performer": "Mt. Joy"},
+              { "title": "Starry Eyed", "performer": "Moontype"},
+              { "title": "Time Signals", "performer": "Klaus Weiss"},
+              { "title": "Shut Up", "performer": "Eddie Warner & Roger Roger"},
+              { "title": "Hard To Love", "performer": "Sally Shapiro"},
+              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
             ]
           ]
         }
