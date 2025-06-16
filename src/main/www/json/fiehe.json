@@ -14990,6 +14990,52 @@
               { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
             ]
           ]
+        },
+        {
+          "id": "23",
+          "date": "2025-06-08",
+          "songs": [
+            [
+              { "time": "22:04", "title": "NYC Town", "performer": "Pan Amsterdam"},
+              { "title": "New Clear Twist", "performer": "Minimal Compact"},
+              { "title": "Goodbye, Düsseldorf", "performer": "Sankt Otten"},
+              { "title": "Goldikus", "performer": "Goldie, Rufige Kru feat. Cleveland Watkiss"},
+              { "title": "Still The Same", "performer": "Goldie, Rufige Kru feat. CASISDEAD"},
+              { "title": "Skydive", "performer": "CASISDEAD feat. Neil Tennant"},
+              { "title": "Where To Look", "performer": "Nilüfer Yanya"},
+              { "title": "Bad Luck", "performer": "M.Byrd"},
+              { "title": "Paris Connection", "performer": "Deluka"},
+              { "title": "Fractured In Static", "performer": "Juri Heidemann"},
+              { "title": "Duffel Bag", "performer": "Mavi Phoenix"}
+            ],
+            [
+              { "time": "23:04", "title": "Sweet Leaf", "performer": "Black Sabbath"},
+              { "title": "Slowdive", "performer": "Turnstile"},
+              { "title": "Cutthroat", "performer": "Shame"},
+              { "title": "The Groover", "performer": "Doriann & Wave Wave"},
+              { "title": "Till I´m Dead", "performer": "Florian Picasso"},
+              { "title": "Don Vito Bingus (O-Wells Octamix)", "performer": "Sarayu"},
+              { "title": "Love On Repeat", "performer": "Crybaby"},
+              { "title": "Grown Ups", "performer": "Pulp"},
+              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"},
+              { "title": "Evening Drive", "performer": "Pan Amsterdam"},
+              { "title": "Magic, Alive!", "performer": "McKinley Dixon"},
+              { "title": "Here You Go Again/Whatever You Do", "performer": "Chuck Brown"}
+            ],
+            [
+              { "time": "00:04", "title": "Schon wieder Apokalypse", "performer": "Sankt Otten"},
+              { "title": "Geneve", "performer": "Vilhelm Hasselgren"},
+              { "title": "Bateu Bue (Mandacaru Remix)", "performer": "Diogo"},
+              { "title": "Temperance", "performer": "Meka"},
+              { "title": "Leonard Street", "performer": "Shura"},
+              { "title": "Provide Me Your Name", "performer": "Getdown Services"},
+              { "title": "Aquamarine", "performer": "Addison Rae"},
+              { "title": "Walk Of Fame", "performer": "Miley Cyrus feat. Brittany Howard"},
+              { "title": "Mitten in den Massen", "performer": "Mia Morgan"},
+              { "title": "Hollow", "performer": "Little Simz"},
+              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
+            ]
+          ]
         }
       ]
     }
