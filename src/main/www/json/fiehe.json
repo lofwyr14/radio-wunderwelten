@@ -15037,6 +15037,55 @@
               { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
             ]
           ]
+        },
+        {
+          "id": "24",
+          "date": "2025-06-15",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Skink", "performer": "e4444e"},
+              { "title": "Skyline 4", "performer": "Facta"},
+              { "title": "Track 5", "performer": "Juri Heidemann"},
+              { "title": "Purple Haze", "performer": "The Cure"},
+              { "title": "Red Wine", "performer": "AJ Tracey feat. Master Peace"},
+              { "title": "The Chain", "performer": "Nick Lampos"},
+              { "title": "To Be Around You", "performer": "Breakage"},
+              { "title": "Eaat Quiche, Sleep, Repeat", "performer": "Getdown Services"},
+              { "title": "Telegram Sam", "performer": "T. Rex"},
+              { "title": "American Food", "performer": "They Are Gutting A Body Of Water"},
+              { "title": "Blame The Beret", "performer": "Cola Boyy"},
+              { "title": "Alone (Shanti Celeste \\“February Blues\\” Rmx)", "performer": "The Cure"}
+            ],
+            [
+              { "time": "23:04", "title": "PS.", "performer": "Easy Easy"},
+              { "title": "Was I Wrong?", "performer": "Hotline TNT"},
+              { "title": "Outta Sight", "performer": "AJ Tracey"},
+              { "title": "Crush", "performer": "AJ Tracey jeat. Jorja Smith"},
+              { "title": "Art", "performer": "Nemzzz feat. Latto"},
+              { "title": "Guapa (Fcukers Remix)", "performer": "Girl Ultra"},
+              { "title": "Eyes On You", "performer": "Daffy"},
+              { "title": "So It Goes", "performer": "Hodge"},
+              { "title": "In My Mind", "performer": "Elkka"},
+              { "title": "Germ", "performer": "Kate Nash"},
+              { "title": "CPR", "performer": "Wet Leg"},
+              { "title": "Appropriate Emotions", "performer": "The Bug Club"},
+              { "title": "Red Flag (nicht)", "performer": "Schwesta Ebra"},
+              { "title": "Nats Dabei", "performer": "Tiefbasskommando"},
+              { "title": "Paece Song (A Riot In Sydenham Bus Depot) (TowerBlock 1 Mix)", "performer": "Fat Dog"}
+            ],
+            [
+              { "time": "22:04", "title": "No Control", "performer": "Myagi"},
+              { "title": "Bliss", "performer": "LSDXOXO"},
+              { "title": "Siamese Ghost", "performer": "Rufige Kru, Goldie & Submotive"},
+              { "title": "Love Will See Us Through This", "performer": "Drangsal"},
+              { "title": "Crutch", "performer": "e4444e"},
+              { "title": "I Feel Love", "performer": "Sankt Otten"},
+              { "title": "Only", "performer": "Little Simz"},
+              { "title": "Alone (Four Tet Remix)", "performer": "The Cure"},
+              { "title": "Waste My Time", "performer": "Kölsch & CamelPhat"},
+              { "title": "Tina", "performer": "Pulp"}
+            ]
+          ]
         }
       ]
     }
