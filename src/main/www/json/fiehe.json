@@ -14295,6 +14295,7 @@
         {
           "id": "8",
           "date": "2025-02-23",
+          "checked": {"date": "2025-06-23", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Okay", "performer": "Levin Goes Lightly ft. Flora"},
@@ -14322,14 +14323,14 @@
               { "title": "Gimme Dat", "performer": "Ganz feat. Killa P"},
               { "title": "Shapes In Real Life", "performer": "Carre & Addison Groove"},
               { "title": "Don´t Mix Me", "performer": "Sir Hiss ft. Manga Saint Hilare"},
-              { "title": "Foundation", "performer": "Breakage"}
+              { "title": "Justified", "performer": "Breakage"}
             ],
             [
               { "time": "00:04", "title": "1st Of The Year", "performer": "Thala"},
               { "title": "Can´t Stand To Lose", "performer": "HAAi"},
               { "title": "Baby, We´re Ascending", "performer": "HAAI ft. Jon Hopkins"},
               { "title": "Just Belong", "performer": "Lawrence Hart"},
-              { "title": "Besos Rebados", "performer": "DJ Python feat. Isabella Lovestory"},
+              { "title": "Besos Robados", "performer": "DJ Python feat. Isabella Lovestory"},
               { "title": "H.B.W", "performer": "Saya Gray"},
               { "title": "Falling Down", "performer": "Damian Lazarus ft. Totally Enormous Extinct Dinosaurs"},
               { "title": "Leave A Light On", "performer": "Totally Enormous Extinct Dinosaurs"},
