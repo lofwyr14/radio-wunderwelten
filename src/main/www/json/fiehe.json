@@ -15087,6 +15087,53 @@
               { "title": "Tina", "performer": "Pulp"}
             ]
           ]
+        },
+        {
+          "id": "25",
+          "date": "2025-06-22",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Terpentin", "performer": "GbR"},
+              { "title": "Nats dabei", "performer": "Tiefbasskommando"},
+              { "title": "Nimm Den Andi Mit", "performer": "Susanne Blech"},
+              { "title": "Kleiner Satellit (Headcrash Mix)", "performer": "Blümchen"},
+              { "title": "Circles", "performer": "Mark"},
+              { "title": "Always On TIme", "performer": "Alinka"},
+              { "title": "Gone", "performer": "Haim"},
+              { "title": "Panpsych", "performer": "King Gizzard & The Lizard Wizard"},
+              { "title": "?", "performer": "?"},
+              { "title": "Solstice", "performer": "El-B feat. SP:MC"},
+              { "title": "Like That", "performer": "El-B"},
+              { "title": "Azure (Carl Craig C2 Remix)", "performer": "Slam"}
+            ],
+            [
+              { "time": "23:04", "title": "Show Me The Sky", "performer": "Tommy Holohan feat. Megra"},
+              { "title": "5AM At Bagleys", "performer": "Gorgon City"},
+              { "title": "An Angel", "performer": "I. Jordan"},
+              { "title": "Was I Wrong?", "performer": "Hotline TNT"},
+              { "title": "Transition Lens", "performer": "Hotline TNT"},
+              { "title": "The Scene", "performer": "Hotline TNT"},
+              { "title": "Julia´s War", "performer": "Hotline TNT"},
+              { "title": "Neanderthal", "performer": "Bob Mould"},
+              { "title": "Data Tumor", "performer": "The Want"},
+              { "title": "God Only Knows (Stereo Backing Track)", "performer": "The Beach Boys"},
+              { "title": "Tina", "performer": "Pulp"},
+              { "title": "Asteroid Aeroplane Remix)", "performer": "Kate Stein & Lord Fascinator"}
+            ],
+            [
+              { "time": "00:04", "title": "Tropicoqueta", "performer": "Karol G"},
+              { "title": "I Really Love You So", "performer": "Gold In The Shade"},
+              { "title": "In My Mind", "performer": "Loyle Carner"},
+              { "title": "Time To Go", "performer": "Loyle Carner"},
+              { "title": "Over The Coals", "performer": "Shaking Hand"},
+              { "title": "Structural Index (The KVB After-Hours Version)", "performer": "The KVB"},
+              { "title": "Goodbye, Düsseldorf", "performer": "Sankt Otten"},
+              { "title": "The Orb, Tx", "performer": "Kerala Dust"},
+              { "title": "Running Through The Airport", "performer": "Packaging"},
+              { "title": "NIrvana", "performer": "Vintage Culture feat. Layla Benitez, Max Milner, Hot Since82"},
+              { "title": "Here", "performer": "Cameo Blush"}
+            ]
+          ]
         }
       ]
     }
