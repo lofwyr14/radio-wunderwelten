@@ -14394,7 +14394,7 @@
               { "title": "Walk Away", "performer": "Anika"},
               { "title": "Ghost Town", "performer": "JB Dunckel & Jonathan Fitoussi"},
               { "title": "Slouch", "performer": "Moreish Idols"},
-              { "title": "Samba9", "performer": "Monde UFO"},
+              { "title": "Samba 9", "performer": "Monde UFO"},
               { "title": "Densite", "performer": "Zombie Zombie"},
               { "title": "Killah", "performer": "Lady Gaga feat. Gesaffelstein"},
               { "title": "Degenerate Star", "performer": "The Liminanas feat. Jon Spencer & Pascal Comelade"},
@@ -15130,8 +15130,57 @@
               { "title": "Goodbye, Düsseldorf", "performer": "Sankt Otten"},
               { "title": "The Orb, Tx", "performer": "Kerala Dust"},
               { "title": "Running Through The Airport", "performer": "Packaging"},
-              { "title": "NIrvana", "performer": "Vintage Culture feat. Layla Benitez, Max Milner, Hot Since82"},
+              { "title": "Nirvana", "performer": "Vintage Culture feat. Layla Benitez, Max Milner, Hot Since82"},
               { "title": "Here", "performer": "Cameo Blush"}
+            ]
+          ]
+        },
+        {
+          "id": "26",
+          "date": "2025-06-29",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Good Lies", "performer": "Overmono"},
+              { "title": "Be My Medicine", "performer": "Rona"},
+              { "title": "Hart In Brand", "performer": "Froukje & S10"},
+              { "title": "", "performer": "Joy Orbison & Overmono feat."},
+              { "title": "Lippy", "performer": "Skiifall"},
+              { "title": "Merkste selber (Deichdub)", "performer": "Deichkind"},
+              { "title": "Blue Marble", "performer": "George Feely"},
+              { "title": "Wait (Hatched Gets a New Hide)", "performer": "Formal Sppeedwear"},
+              { "title": "Hot Corner", "performer": "The B-52`s"},
+              { "title": "Dog Days Are Over (Breakage Remix)", "performer": "Florence + The Machine"},
+              { "title": "End Credits", "performer": "Plastician"},
+              { "title": "2nite", "performer": "Gush Collective Presents Herb LF"},
+              { "title": "The Transmission", "performer": "Introspect"},
+              { "title": "Been Caught Stealing", "performer": "Jane´s Addiction"}
+            ],
+            [
+              { "time": "23:04", "title": "Day 2", "performer": "Late Night Drive Home"},
+              { "title": "The Modern Age", "performer": "The Strokes"},
+              { "title": "Three Legged Dog", "performer": "The Cruel Sea"},
+              { "title": "Ich mache keine Komplimente", "performer": "Ricky Shayne"},
+              { "title": "Pressed Flower", "performer": "Frankie Cosmos"},
+              { "title": "What Was That", "performer": "Lorde"},
+              { "title": "Into Dust", "performer": "Four Tet"},
+              { "title": "Wrong", "performer": "AVG & Obi Franky"},
+              { "title": "Man Of The Year", "performer": "Lorde"},
+              { "title": "I Need The Answer", "performer": "Durand Jones & The Indications"},
+              { "title": "Two Legged Dog", "performer": "BC Camplight feat. Abigail Morris"},
+              { "title": "Recorgnize Me", "performer": "Maiya Blaney"}
+            ],
+            [
+              { "time": "00:04", "title": "Der Hund von Baskerville", "performer": "Cindy & Bert"},
+              { "title": "Uncensored On The Internet", "performer": "Late Night Drive Home"},
+              { "title": "Rock Da Bells", "performer": "Jon E Cash"},
+              { "title": "Galaxie", "performer": "Daddy Squad feat. Corine"},
+              { "title": "Odyssee Maison", "performer": "Laurent Garnier feat. Dan Diamond"},
+              { "title": "Hnic", "performer": "Leikeli47"},
+              { "title": "Aye Noche", "performer": "Yaya Bey"},
+              { "title": "Keep On (Extended Club Dub)", "performer": "Dusky"},
+              { "title": "What Now?", "performer": "Mavi Phoenix"},
+              { "title": "Harras", "performer": "Roger Trash"},
+              { "title": "I Wanna Be Your Dog (Extended Psych Version)", "performer": "Iggy & The Stooges"}
             ]
           ]
         }
