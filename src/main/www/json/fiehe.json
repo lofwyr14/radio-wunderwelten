@@ -15183,6 +15183,57 @@
               { "title": "I Wanna Be Your Dog (Extended Psych Version)", "performer": "Iggy & The Stooges"}
             ]
           ]
+        },
+        {
+          "id": "27",
+          "date": "2025-07-06",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Life Behind Bars", "performer": "Vandoliers"},
+              { "title": "Bitter Sweet Symphony", "performer": "The Verve"},
+              { "title": "Parents And God", "performer": "Mayurashka"},
+              { "title": "Buschtaxi", "performer": "DJ Koze"},
+              { "title": "Did I Go (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Wickedest", "performer": "DJ Motu & Logan OLM"},
+              { "title": "Keep Running", "performer": "Sparkling & Digitalism"},
+              { "title": "Hack The System", "performer": "Joyce Muniz feat. Futuradora"},
+              { "title": "Mehr Davon", "performer": "Rowli"},
+              { "title": "I Only Ever Wanted To See You Fail", "performer": "The Reds, Pinks And Purples"},
+              { "title": "Where To Look", "performer": "Nilüfer Yanya"},
+              { "title": "I Don´t Wanna", "performer": "Sydney Minsky Sargeant"},
+              { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
+            ],
+            [
+              { "time": "23:04", "title": "Panic Attack", "performer": "Andy Bell"},
+              { "title": "Begin Here", "performer": "Goon"},
+              { "title": "I Lied, Amber", "performer": "KEO"},
+              { "title": "Undertow (Vince Clarke Remix)", "performer": "The Hidden Cameras"},
+              { "title": "Control", "performer": "Satin Jackets"},
+              { "title": "Sarus", "performer": "Lauren Ritter"},
+              { "title": "Run (Extended Mix)", "performer": "Eleven Fly & March 13"},
+              { "title": "Shit On Me", "performer": "DJ Protein"},
+              { "title": "Reeperbahn (Guido Craveiro Reggae Dub Remix)", "performer": "Udo Lindenberg & Jan Delay"},
+              { "title": "Knee Injury", "performer": "Jools"},
+              { "title": "Mother Monica", "performer": "Jools"},
+              { "title": "Levon", "performer": "Ghostwoman"}
+            ],
+            [
+              { "time": "00:04", "title": "Only Want You", "performer": "Mac Seldom"},
+              { "title": "Dilation", "performer": "Introspekt"},
+              { "title": "Pain Killer", "performer": "London Elektricity & Gentleman´s Dub Club"},
+              { "title": "All On Top", "performer": "London Elektricity, Conrad Subs & Genesis Elijah"},
+              { "title": "69 Percent", "performer": "Meg Ward"},
+              { "title": "An Angel", "performer": "I.Jordan feat. Tom Rasmussen"},
+              { "title": "All In", "performer": "Jitwam pres. JTWM feat. Rimarkable"},
+              { "title": "Mutuacion", "performer": "Juan Wauters"},
+              { "title": "God Save The Pony", "performer": "Big Special"},
+              { "title": "Drama", "performer": "Mavi Phoenix"},
+              { "title": "Oh Darling", "performer": "Flawless Issue"},
+              { "title": "NaimaLoyle Carner", "performer": "John Coltrane"},
+              { "title": "Purpose", "performer": "Loyle Carner"},
+              { "title": "Don´t Look Back In Anger", "performer": "Oasis"}
+            ]
+          ]
         }
       ]
     }
