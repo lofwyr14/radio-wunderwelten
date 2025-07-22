@@ -14441,13 +14441,13 @@
             [
               { "time": "22:04", "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"},
               { "title": "Take Me There", "performer": "Antony Szmierek"},
-              { "title": "Surrender2me (Aiden Francis)", "performer": "Elkka"},
+              { "title": "Surrender2me (Aiden Francis' Summer Of '93 Mix)", "performer": "Elkka"},
               { "title": "Stop & Search", "performer": "Whiney, P Money, Frisco, Sweetie Irie, Hugh Hardie"},
               { "title": "Stars Get Down (Nu:Tone Remix)", "performer": "Subwave"},
-              { "title": "Ventil-8", "performer": "John B feat. LaMeduza"},
+              { "title": "Ventil-8 (VIP Mix)", "performer": "John B feat. LaMeduza"},
               { "title": "Loretta", "performer": "Bambara"},
               { "title": "Scared Away", "performer": "Flora From Kansas"},
-              { "title": "Tucana", "performer": "Asa Tate"},
+              { "title": "Tucana (Extended Mix)", "performer": "Asa Tate"},
               { "title": "Driftiong", "performer": "Phoebe Rings"},
               { "title": "Pause At You", "performer": "Courting"},
               { "title": "Dribs And Drags", "performer": "Salami Rose Joe Louis feat. Luke Titus"}
@@ -14457,10 +14457,10 @@
               { "title": "Dancing With The Fish", "performer": "Baby´s Berserk"},
               { "title": "Service Station At The End Of The Universe", "performer": "Antony Szmierek"},
               { "title": "1998", "performer": "Rudy With A Hoodie"},
-              { "title": "Mirrorshades pt. 2", "performer": "Clipping.feat. Cartel Madras"},
+              { "title": "Mirrorshades pt. 2", "performer": "Clipping. feat. Cartel Madras"},
               { "title": "Flood", "performer": "Little Simz feat. Obongjayar & Moonchild Sanelly"},
-              { "title": "Chateau H", "performer": "Helicon & d.ross"},
-              { "title": "Core", "performer": "Charlie Cunningham"},
+              { "title": "Château H (D.ross Remix)", "performer": "Helicon & d.ross"},
+              { "title": "...Happening Lately", "performer": "Charlie Cunningham"},
               { "title": "Bless", "performer": "Yuno"},
               { "title": "Seismograph", "performer": "Luis Ake feat. Tränen"},
               { "title": "After You", "performer": "Courting"}
@@ -14469,7 +14469,7 @@
               { "time": "00:04", "title": "Higher", "performer": "Scrounge"},
               { "title": "777", "performer": "L.A.Witch"},
               { "title": "Holy Bones", "performer": "Bambara"},
-              { "title": "Midnight Coastline (Owen Mandale Rmx)", "performer": "Macka"},
+              { "title": "Midnight Coastline (Owen Mandale Remix)", "performer": "Macka"},
               { "title": "Broad Earth", "performer": "Destrata"},
               { "title": "Service Station At The End Of The Universe", "performer": "Antony Szmierek"},
               { "title": "Tanzanite", "performer": "JB Dunckel & Jonathan Fitoussi"},
@@ -15233,6 +15233,57 @@
               { "title": "NaimaLoyle Carner", "performer": "John Coltrane"},
               { "title": "Purpose", "performer": "Loyle Carner"},
               { "title": "Don´t Look Back In Anger", "performer": "Oasis"}
+            ]
+          ]
+        },
+        {
+          "id": "28",
+          "date": "2025-07-13",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Waiting V1", "performer": "Angioma"},
+              { "title": "Buss It Baby Now", "performer": "Tosh"},
+              { "title": "Untitled (a1)", "performer": "Unknown (UU013)"},
+              { "title": "More Love, Less War", "performer": "Jamie Silk"},
+              { "title": "Oganesson (Heba Kadry Remix)", "performer": "Tortoise"},
+              { "title": "Circuit City", "performer": "Sunking"},
+              { "title": "Earth 2", "performer": "Unknown Mortal Orchestra"},
+              { "title": "Glory Voice Memo", "performer": "Justin Bieber"},
+              { "title": "VU", "performer": "Sababa 5"},
+              { "title": "Mathar", "performer": "Dave Pike Set"},
+              { "title": "Nirvana", "performer": "Jessica Winter"},
+              { "title": "Dreaming", "performer": "Deep Dish feat. Malou"}
+            ],
+            [
+              { "time": "23:04", "title": "Dreaming (continuation)", "performer": "Deep Dish feat. Malou"},
+              { "title": "Groovin´", "performer": "Marco Melissen, Milton Shadow"},
+              { "title": "Circles", "performer": "Mark"},
+              { "title": "Pollyanna", "performer": "Just Mustard"},
+              { "title": "Apple Patch", "performer": "Goon"},
+              { "title": "Begin Here", "performer": "Goon"},
+              { "title": "For Cutting The Grass", "performer": "Goon"},
+              { "title": "Sweetest Sensation", "performer": "Hologram feat. Georgia Phoenix"},
+              { "title": "Real Life", "performer": "Friction"},
+              { "title": "Too Late Now (Soulwax Remix)", "performer": "Wet Leg"},
+              { "title": "All Systems Are Lying", "performer": "Soulwax"},
+              { "title": "Where´s My Girl", "performer": "The Bollock Brothers"}
+            ],
+            [
+              { "time": "00:04", "title": "Aye Noche", "performer": "Yaya Bey"},
+              { "title": "Gone", "performer": "HAIM"},
+              { "title": "Naked Eye", "performer": "Luscious Jackson"},
+              { "title": "Joss Bay (Extended Mix)", "performer": "Kassian"},
+              { "title": "L.O.V.E.", "performer": "Jessica Winter"},
+              { "title": "Do You Do You", "performer": "Jessica Winter"},
+              { "title": "Cat Murmur", "performer": "Mayurashka"},
+              { "title": "", "performer": "Wet Leg"},
+              { "title": "Just A Game", "performer": "Aunt Katrina"},
+              { "title": "Walking Away", "performer": "Justin Bieber"},
+              { "title": "Soulful", "performer": "Justin Bieber feat. Druski"},
+              { "title": "Moment Of Truth", "performer": "Gangstarr"},
+              { "title": "Dadz Love", "performer": "Justin Bieber feat. Lil B"},
+              { "title": "Therapy Session", "performer": "Justin Bieber feat. Druski"},
+              { "title": "Provide Me Your Name", "performer": "Getdown Services"}
             ]
           ]
         }

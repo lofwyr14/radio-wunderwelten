@@ -4,7 +4,7 @@
 # https://web.archive.org/web/20191105232532/https://www1.wdr.de/radio/1live/on-air/sendungen/1live-fiehe/index.html
 
 # for id in `seq 798 798`;
-for id in `seq 1188 1188`;
+for id in `seq 1194 1194`;
 do
   echo ${id}
   curl -v -o fiehe-${id}.html --fail https://www1.wdr.de/radio/1live/on-air/sendungen/1live-fiehe/fiehe-${id}.html
