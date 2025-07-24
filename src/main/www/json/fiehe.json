@@ -14437,6 +14437,7 @@
         {
           "id": "11",
           "date": "2025-03-16",
+          "checked": {"date": "2025-07-24", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"},
@@ -14461,13 +14462,13 @@
               { "title": "Flood", "performer": "Little Simz feat. Obongjayar & Moonchild Sanelly"},
               { "title": "Château H (D.ross Remix)", "performer": "Helicon & d.ross"},
               { "title": "...Happening Lately", "performer": "Charlie Cunningham"},
-              { "title": "Bless", "performer": "Yuno"},
+              { "title": "Blest", "performer": "Yuno"},
               { "title": "Seismograph", "performer": "Luis Ake feat. Tränen"},
               { "title": "After You", "performer": "Courting"}
             ],
             [
               { "time": "00:04", "title": "Higher", "performer": "Scrounge"},
-              { "title": "777", "performer": "L.A.Witch"},
+              { "title": "777", "performer": "L.A. Witch"},
               { "title": "Holy Bones", "performer": "Bambara"},
               { "title": "Midnight Coastline (Owen Mandale Remix)", "performer": "Macka"},
               { "title": "Broad Earth", "performer": "Destrata"},
@@ -14475,7 +14476,7 @@
               { "title": "Tanzanite", "performer": "JB Dunckel & Jonathan Fitoussi"},
               { "title": "Infinity Measured In Moments", "performer": "Steven Wilson"},
               { "title": "Bell", "performer": "Kerala Dust"},
-              { "title": "Particles", "performer": "Secret Echoes"},
+              { "title": "Particles (Extended)", "performer": "Secret Echoes"},
               { "title": "L.O.V.E.", "performer": "Jessica Winter"},
               { "title": "The Get Go", "performer": "New Young Pony Club"}
             ]
