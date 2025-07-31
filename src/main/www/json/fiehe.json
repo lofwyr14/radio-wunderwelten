@@ -14497,7 +14497,7 @@
               { "title": "Sister Ray", "performer": "Trupa Trupa"},
               { "title": "Dance", "performer": "Catz ´n Dogz feat. Nala"},
               { "title": "Air Tight (Regularfantasy Remix)", "performer": "Elkka & Dot Major"},
-              { "title": "Fomo (DJ Hell Remix)", "performer": "Dina Summer"},
+              { "title": "Fomo (DJ Hell Extended Mix)", "performer": "Dina Summer"},
               { "title": "Rafters", "performer": "Antony Szmierek"}
             ],
             [
@@ -15285,6 +15285,58 @@
               { "title": "Dadz Love", "performer": "Justin Bieber feat. Lil B"},
               { "title": "Therapy Session", "performer": "Justin Bieber feat. Druski"},
               { "title": "Provide Me Your Name", "performer": "Getdown Services"}
+            ]
+          ]
+        },
+        {
+          "id": "29",
+          "date": "2025-07-20",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Perfume", "performer": "The Dare"},
+              { "title": "Divine Call", "performer": "Guy Mac"},
+              { "title": "What Would We Do (Lovestation 12” Mix)", "performer": "Sol Brothers"},
+              { "title": "Mannequin Love (The Dare Remix)", "performer": "Justice feat. The Flints"},
+              { "title": "Hands", "performer": "KEO"},
+              { "title": "Springboard", "performer": "Forth Wanderers"},
+              { "title": "Queens Lament", "performer": "My Baby"},
+              { "title": "Aline", "performer": "Bungle"},
+              { "title": "Disciple", "performer": "Bungle"},
+              { "title": "Blush Response", "performer": "Dbridge & Instra:mental"},
+              { "title": "´06 Wane Rooney", "performer": "Jim Legxacy"},
+              { "title": "Father", "performer": "Jim Legxacy"},
+              { "title": "Bleu De HUe", "performer": "A. Sagittariun"}
+            ],
+            [
+              { "time": "23:04", "title": "We Need To Talk About Dennis", "performer": "Panic Shack"},
+              { "title": "One With You", "performer": "Rio Kosta"},
+              { "title": "Iman", "performer": "Yuuf"},
+              { "title": "Castle In The Sky", "performer": "Sunking"},
+              { "title": "Coco Money", "performer": "Adekunle Gold"},
+              { "title": "Maithori", "performer": "Nitefreak & Frigid Armadillo & IDRIS feat. Nes Mburu"},
+              { "title": "Avoid The Drones", "performer": "Alfa Mist"},
+              { "title": "Mega Mega Mega", "performer": "Modeselektor"},
+              { "title": "Free", "performer": "Weval"},
+              { "title": "Make Me Feel", "performer": "Oskar Med K"},
+              { "title": "Proximityeffect", "performer": "Hard Life"},
+              { "title": "Jane", "performer": "Hard Life"},
+              { "title": "The Way You Put It Down", "performer": "New Spectrum"},
+              { "title": "Not Checkers", "performer": "Laurence Guy & Jean Carter"}
+            ],
+            [
+              { "time": "00:04", "title": "Sunset Hymnal", "performer": "Smut"},
+              { "title": "Life Signs", "performer": "Water From Your Eyes"},
+              { "title": "Longing", "performer": "Themis"},
+              { "title": "Silberfische", "performer": "Kerker"},
+              { "title": "The Rope", "performer": "Wunderhorse"},
+              { "title": "I Believe In Us", "performer": "Shouse"},
+              { "title": "Cosmic Rising", "performer": "Mayurashka"},
+              { "title": "Parents And God", "performer": "Mayurashka"},
+              { "title": "Expression (Cozmic Cat Remix)", "performer": "Baby Weight"},
+              { "title": "While You´re Travelling", "performer": "J Mahon"},
+              { "title": "All Night All Day", "performer": "Big Thief"},
+              { "title": "Ready To Go", "performer": "Illegal Nobility"},
+              { "title": "Where´s The Party Tonight", "performer": "Mrii & Zenjah"}
             ]
           ]
         }
