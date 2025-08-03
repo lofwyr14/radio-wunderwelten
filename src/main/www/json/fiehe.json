@@ -14485,6 +14485,7 @@
         {
           "id": "12",
           "date": "2025-03-23",
+          "checked": {"date": "2025-08-03", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "Yes", "performer": "Mieux"},
@@ -14506,16 +14507,16 @@
               { "title": "Country House Waits", "performer": "Faun Fables"},
               { "title": "Ember Bell", "performer": "Faun Fables"},
               { "title": "A Warm Memory", "performer": "Chew"},
-              { "title": "Innocent Money (Pet Shop Boys Remix)", "performer": "Primal Scream"},
+              { "title": "Innocent Money (Pet Shop Boys Remix) (Edit)", "performer": "Primal Scream"},
               { "title": "Living In Wien", "performer": "Luis Ake"},
               { "title": "Zaunkönig", "performer": "Luis Ake"},
               { "title": "Seismograph", "performer": "Luis Ake feat. Tränen"},
-              { "title": "Lonely People With Power", "performer": "Deafheaven"},
+              { "title": "Heathen", "performer": "Deafheaven"},
               { "title": "Mother Monica", "performer": "Jools"},
               { "title": "Coyote", "performer": "Mt. Joy"}
             ],
             [
-              { "time": "00:04", "title": "Light On Me", "performer": "Ruze"},
+              { "time": "00:04", "title": "Light On Me (Extended Mix)", "performer": "Ruze"},
               { "title": "Wave", "performer": "Rojabeat"},
               { "title": "Feel The Rhythm", "performer": "Matt Shanahan"},
               { "title": "Don´t Work", "performer": "Nikki Nair feat. St. Thomas LeDoux"},
