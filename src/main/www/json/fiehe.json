@@ -14537,7 +14537,7 @@
           "date": "2025-03-30",
           "songs": [
             [
-              { "time": "22:04", "title": "2Leute", "performer": "Odd Couple"},
+              { "time": "22:04", "title": "2 Leute", "performer": "Odd Couple"},
               { "title": "Pinball Wanderer", "performer": "Andy Bell"},
               { "title": "Nebel", "performer": "C.A.R."},
               { "title": "Oganesson", "performer": "Tortoise"},
@@ -15338,6 +15338,47 @@
               { "title": "All Night All Day", "performer": "Big Thief"},
               { "title": "Ready To Go", "performer": "Illegal Nobility"},
               { "title": "Where´s The Party Tonight", "performer": "Mrii & Zenjah"}
+            ]
+          ]
+        },
+        {
+          "id": "30",
+          "date": "2025-07-27",
+          "comment": "Hey Jock! Farewell, My Friend",
+          "songs": [
+            [
+              { "time": "22:04", "title": "Faith Healer", "performer": "The Bollock Brothers"},
+              { "title": "Ascension", "performer": "Nightbus"},
+              { "title": "Be My Medicine", "performer": "Rona"},
+              { "title": "The Velvet Sundown", "performer": "Velvet Meadow"},
+              { "title": "Dream Night", "performer": "Jamie XX"},
+              { "title": "Moth", "performer": "Four Tet"},
+              { "title": "Buschtaxi", "performer": "DJ Koze"},
+              { "title": "Siyobonga", "performer": "Scratcha DVA feat. DemiMa"},
+              { "title": "Round Reversion", "performer": "Rockers Hi-Fi"},
+              { "title": "Ring Ring Ring", "performer": "Tyler, The Creator"}
+            ],
+            [
+              { "time": "23:04", "title": "Legend Of The Snake", "performer": "The Bollock Brothers"},
+              { "title": "Faith Healer (Digital Jockey Remix)", "performer": "The Bollock Brothers"},
+              { "title": "Cathode Ray", "performer": "Folk Bitch Trio"},
+              { "title": "Herz zurück", "performer": "Ikkimel"},
+              { "title": "This Journey", "performer": "Blackdown"},
+              { "title": "Boogie Woogie Waltz", "performer": "Weather Report"},
+              { "title": "Srekye", "performer": "O´Flynn"},
+              { "title": "Midsland", "performer": "M.R.E."},
+              { "title": "Jesus Lived Six Years Longer Than Kurt Cobain", "performer": "The Bollock Brothers"}
+            ],
+            [
+              { "time": "00:04", "title": "Where´s My Girl", "performer": "The Bollock Brothers"},
+              { "title": "Trying To Steal A Smile", "performer": "Night Moves"},
+              { "title": "I Like The Way You Walk", "performer": "The Donkeys"},
+              { "title": "Joker", "performer": "Cory Hanson"},
+              { "title": "69 Percent (Wax Wings Remix)", "performer": "Meg Ward"},
+              { "title": "Watch Your Pin", "performer": "Povoa"},
+              { "title": "Come Gimme", "performer": "Burna Boy"},
+              { "title": "Nothing Really Matters (Kruder & Dorfmeister Remix)", "performer": "Madonna"},
+              { "title": "In Holiness, In Honor", "performer": "The Bollock Brothers feat. Maria Devlin"}
             ]
           ]
         }
