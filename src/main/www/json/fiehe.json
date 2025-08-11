@@ -14542,7 +14542,7 @@
               { "title": "Nebel", "performer": "C.A.R."},
               { "title": "Oganesson", "performer": "Tortoise"},
               { "title": "Summer Sweat", "performer": "Hannah Cohen"},
-              { "title": "Into The Night", "performer": "Daisybelle"},
+              { "title": "Into The Night (Extended)", "performer": "Daisybelle"},
               { "title": "Pretty Girl", "performer": "Adapter feat. NOVODOR"},
               { "title": "Samstag ist Krieg (Solomun Remix)", "performer": "K.I.Z."},
               { "title": "River Road", "performer": "My Morning Jacket"},
@@ -15379,6 +15379,52 @@
               { "title": "Come Gimme", "performer": "Burna Boy"},
               { "title": "Nothing Really Matters (Kruder & Dorfmeister Remix)", "performer": "Madonna"},
               { "title": "In Holiness, In Honor", "performer": "The Bollock Brothers feat. Maria Devlin"}
+            ]
+          ]
+        },
+        {
+          "id": "31",
+          "date": "2025-08-03",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Lippy", "performer": "Joy Orbison & Overmono feat. Skiifall"},
+              { "title": "Lose Myself", "performer": "Night manoeuvres"},
+              { "title": "Rapture In Blue", "performer": "Daniel Avery feat. Cecile Believe"},
+              { "title": "Corazón", "performer": "Sofia Kourtesis"},
+              { "title": "Devotion", "performer": "Kareem Ali"},
+              { "title": "Dominoes", "performer": "Leisure"},
+              { "title": "Trying To Steal A Smile", "performer": "Night Moves"},
+              { "title": "Wesley", "performer": "Katlix"},
+              { "title": "Walk Walk", "performer": "Sylvie Kreusch"},
+              { "title": "Midnight Freaks", "performer": "Belaria & Olymp 4000"},
+              { "title": "Let It Ride", "performer": "DJ Agitated"},
+              { "title": "Play Me", "performer": "Fcukers"}
+            ],
+            [
+              { "time": "22:04", "title": "Isla De Encanta", "performer": "Pixies"},
+              { "title": "Un Momento", "performer": "Upchuck"},
+              { "title": "Rage", "performer": "Sprints"},
+              { "title": "We Don´t Count", "performer": "Yves Tumor & Nina"},
+              { "title": "Deep Blue", "performer": "Laura Groves"},
+              { "title": "Woman Of Color", "performer": "Ron Trent"},
+              { "title": "Strata", "performer": "Basic Soul Unit"},
+              { "title": "Bet On Me", "performer": "Debby Friday"},
+              { "title": "Darker The Better", "performer": "Debby Friday"},
+              { "title": "Unsterblich", "performer": "Christin Nichols"},
+              { "title": "New Radiations", "performer": "Marissa Nadler"},
+              { "title": "Leylands Lane", "performer": "Saccades"},
+              { "title": "I Don´t Know, Who Cares?", "performer": "Joyeria"},
+              { "title": "Wake The Moon", "performer": "Memory Of Jane"},
+              { "title": "Lorraine", "performer": "Ozzy Jones"}
+            ],
+            [
+              { "time": "23:04", "title": "Pieces Falling (Gold Panda Remix)", "performer": "Bi Disc"},
+              { "title": "Open Up That Door", "performer": "Weval"},
+              { "title": "Mysterious Traveller", "performer": "Weather Report"},
+              { "title": "Fantastic", "performer": "Fox Zero T"},
+              { "title": "Ordinary", "performer": "Bungle"},
+              { "title": "Imaginary Festival", "performer": "Burial"},
+              { "title": "Chain Reaction (Intro Mix)", "performer": "Confidential Recipe & DJ Haus"}
             ]
           ]
         }
