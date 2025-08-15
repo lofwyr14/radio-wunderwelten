@@ -14535,6 +14535,7 @@
         {
           "id": "13",
           "date": "2025-03-30",
+          "checked": {"date": "2025-08-15", "user": "jg"},
           "songs": [
             [
               { "time": "22:04", "title": "2 Leute", "performer": "Odd Couple"},
@@ -14544,17 +14545,16 @@
               { "title": "Summer Sweat", "performer": "Hannah Cohen"},
               { "title": "Into The Night (Extended)", "performer": "Daisybelle"},
               { "title": "Pretty Girl", "performer": "Adapter feat. NOVODOR"},
-              { "title": "Samstag ist Krieg (Solomun Remix)", "performer": "K.I.Z."},
+              { "title": "Samstag ist Krieg (Solomun Dub Remix)", "performer": "K.I.Z."},
               { "title": "River Road", "performer": "My Morning Jacket"},
               { "title": "Maybe Nowhere", "performer": "Emma Jean Thackray"},
               { "title": "For The Beter", "performer": "Marathon"}
             ],
             [
-              { "time": "23:04", "title": "Babylon", "performer": "Colaboyy"},
-              { "title": "Earth2", "performer": "Unknown Mortal Orchestra"},
+              { "time": "23:04", "title": "Babylon", "performer": "Cola Boyy"},
+              { "title": "Earth 2", "performer": "Unknown Mortal Orchestra"},
               { "title": "UFO activity", "performer": "Taleman, Devaloka"},
-              { "title": "Show Me Love (Golden & Boucle)", "performer": "WizTheMC"},
-              { "title": "", "performer": "d´or Remix)"},
+              { "title": "Show Me Love (Golden & Boucle D´Or Remix)", "performer": "WizTheMC"},
               { "title": "S Is For", "performer": "Sextile"},
               { "title": "Never No", "performer": "Mincy & Killjoy feat. Askew Bedu"},
               { "title": "Fancy Car, Girlfriend And The Big House", "performer": "Lawn Chair"},
