@@ -14632,13 +14632,13 @@
             [
               { "time": "21:04", "title": "Maybe Nowhere", "performer": "Emma-Jean Thackray"},
               { "title": "Black Shirts", "performer": "Genevieve Artadi & Norrbotten Big Band"},
-              { "title": "Block Party (Baron Remix)", "performer": "Africanism Pres. DJ Gregory"},
-              { "title": "Fused", "performer": "Logic1000"},
+              { "title": "Block Party (Baron Extended Remix)", "performer": "Africanism Pres. DJ Gregory"},
+              { "title": "Fused (VIP Edit)", "performer": "Logic1000"},
               { "title": "Trust Me I Feel It Too", "performer": "Elephant"},
               { "title": "Things Behind Things Behind Things", "performer": "Bon Iver"},
               { "title": "Anxious", "performer": "Nell Smith"},
               { "title": "Up Your Sleeve", "performer": "Companion Songs"},
-              { "title": "Dreamachine (Gerd Janson Extended Remix)", "performer": "Hiver"},
+              { "title": "Dreamachine", "performer": "Hiver"},
               { "title": "WFL (All My Thoughts)", "performer": "Seb Wildblood"}
             ],
             [
@@ -14646,9 +14646,9 @@
               { "title": "What Time Is Love?", "performer": "The KLF"},
               { "title": "Wrong Idea", "performer": "Confidence Man"},
               { "title": "Peace Song (Tower Block1 Mix)", "performer": "Fat Dog"},
-              { "title": "Horse House", "performer": "Kate Stein & Lord Fascinator"},
+              { "title": "Horse House (Extended Mix)", "performer": "Kate Stein & Lord Fascinator"},
               { "title": "Cars (Laroz Remix)", "performer": "Gary Numan"},
-              { "title": "Vertigo (Luis Ake Trance Mix)", "performer": "Edwin Rosen"},
+              { "title": "Vertigo (Luis Ake's Trance Atlantic Remix)", "performer": "Edwin Rosen"},
               { "title": "Weeping Song", "performer": "The Flaming Lips & Nell Smith"},
               { "title": "Happy Birthday", "performer": "Black Country, New Road"},
               { "title": "Golf Girl", "performer": "Caravan"},
@@ -15471,6 +15471,53 @@
               { "title": "Unity", "performer": "Technimatic"},
               { "title": "Pelargonium", "performer": "False Lefty"},
               { "title": "Walk Away", "performer": "Anika"}
+            ]
+          ]
+        },
+        {
+          "id": "33",
+          "date": "2025-08-17",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Comfort Inn (Lauer Trip Mix)", "performer": "Newmen"},
+              { "title": "Ascension", "performer": "Nightbus"},
+              { "title": "Be My Medicine", "performer": "Rona"},
+              { "title": "Strange Things Happen", "performer": "Alison Goldfrapp"},
+              { "title": "Airplanes", "performer": "Busty And The Bass feat. Cadence Weapon"},
+              { "title": "Humdrum", "performer": "ELLiS.D"},
+              { "title": "Real Power", "performer": "Golomb"},
+              { "title": "Are You Looking For Something", "performer": "The Hobknobs"},
+              { "title": "Quantify", "performer": "Hidden Cameras"},
+              { "title": "Swim", "performer": "Newmen"},
+              { "title": "Everything", "performer": "Mechatok"},
+              { "title": "Joker", "performer": "Cory Hanson"}
+            ],
+            [
+              { "time": "22:04", "title": "All My Life", "performer": "The Black Keys"},
+              { "title": "Rude Lil Guy", "performer": "Jason Code"},
+              { "title": "See Thru", "performer": "Megan Wroe"},
+              { "title": "God Made Me Funky (Remix)", "performer": "Jon E Cash"},
+              { "title": "Did I Go? (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Tony´s House", "performer": "Captain Planet & Tony Allen"},
+              { "title": "Searchin´ (THEMBA Remix)", "performer": "Damian Lazarus feat. Jem Cooke"},
+              { "title": "Easy", "performer": "Bleary Eyed"},
+              { "title": "Racing Mount Pleasant", "performer": "Racing Mount Pleasant"},
+              { "title": "Feel The Rhythm", "performer": "Lown"}
+            ],
+            [
+              { "time": "23:04", "title": "Blue Curls", "performer": "Vanelle"},
+              { "title": "Bad Bruise", "performer": "Pool Kids"},
+              { "title": "It Hits Harder", "performer": "Marissa Nadler"},
+              { "title": "A Girl Named Dogie", "performer": "Cass McCombs"},
+              { "title": "Peace", "performer": "Cass McCombs"},
+              { "title": "The Curse", "performer": "Natalie Slade"},
+              { "title": "No More Old Men", "performer": "Chance The Rapper feat. Jamila Woods"},
+              { "title": "Get Out Of My Head", "performer": "Gush Collective presents Matt Flores"},
+              { "title": "Where Are You Tonight", "performer": "Nate08 feat. Dishaan & Mallika"},
+              { "title": "When You Know (Satl Remix)", "performer": "Ebba Asman"},
+              { "title": "Crockett´s Theme", "performer": "Jan Hammer"},
+              { "title": "Dominoes", "performer": "Leisure"},
+              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
             ]
           ]
         }
