@@ -14677,7 +14677,7 @@
           "date": "2025-04-20",
           "songs": [
             [
-              { "time": "21:04", "title": "Without You (DJ Science Long Mix)", "performer": "DJ Cam"},
+              { "time": "21:04", "title": "Without You (DJ Science Long Remix)", "performer": "DJ Cam"},
               { "title": "System", "performer": "KMC"},
               { "title": "Close To Greatness", "performer": "Now Always Fades"},
               { "title": "Back In Tokyo", "performer": "Sweatson Klank"},
@@ -14692,7 +14692,7 @@
             [
               { "time": "22:04", "title": "Somebody New", "performer": "Tunde Adebimpe"},
               { "title": "Let It Ride (Kungs Remix)", "performer": "Lenny Kravitz"},
-              { "title": "Paris Dub 3", "performer": "Paranoid London feat. Paris Brightledge"},
+              { "title": "Paris Dub 1", "performer": "Paranoid London feat. Paris Brightledge"},
               { "title": "Circles", "performer": "Mark"},
               { "title": "Do It Right", "performer": "Keefe"},
               { "title": "First Time", "performer": "Diego Infanzon feat. Anja Schneider"},
@@ -15519,6 +15519,52 @@
               { "title": "Crockett´s Theme", "performer": "Jan Hammer"},
               { "title": "Dominoes", "performer": "Leisure"},
               { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
+            ]
+          ]
+        },
+        {
+          "id": "34",
+          "date": "2025-08-24",
+          "songs": [
+            [
+              { "time": "21:04", "title": "No Phone No Number", "performer": "Cid Rim"},
+              { "title": "Submarine", "performer": "Kid Cudi"},
+              { "title": "Legato Linear", "performer": "Newmen"},
+              { "title": "Der Apfel fällt nicht weit vom Stamm", "performer": "Local Suicide & Wiener Planquadrat"},
+              { "title": "Bad Luck", "performer": "M.Byrd"},
+              { "title": "Who´ll Stop The Rain (John´s Version)", "performer": "John Fogerty"},
+              { "title": "Spookstad (NewTone Remix)", "performer": "Gotu Jim"},
+              { "title": "U (COI Remix)", "performer": "T E S T P R E S S"},
+              { "title": "Who´s Your Boyfriend", "performer": "Royel Otis"},
+              { "title": "Angles Mortz", "performer": "Nightbus"},
+              { "title": "Outstanding In The Rain", "performer": "TOPS"},
+              { "title": "Somewhere In Paradise", "performer": "Satin Jackets feat. Tailor"}
+            ],
+            [
+              { "time": "22:04", "title": "Automatic Love", "performer": "Nourished By Time"},
+              { "title": "Again Through Fear", "performer": "Vhyce"},
+              { "title": "Algo En Mi", "performer": "Vhyce"},
+              { "title": "White Horses", "performer": "Wolf Alice"},
+              { "title": "Echoes Of Grace", "performer": "Kerala Dust"},
+              { "title": "40 Day Dream", "performer": "Edward Sharpe And The Magnetic Zeros"},
+              { "title": "I Wish I Knew How To Quit You", "performer": "Sombr"},
+              { "title": "Canal Street", "performer": "Sombr"},
+              { "title": "God", "performer": "Ami Taf Ra"},
+              { "title": "Interior Live Oak", "performer": "Cass McCombs"},
+              { "title": "Moody", "performer": "Royel Otis"}
+            ],
+            [
+              { "time": "23:04", "title": "Was kostet die Welt", "performer": "Der Assistent"},
+              { "title": "Bar Dancing", "performer": "Paradigm X"},
+              { "title": "Halkidiki (Joyce Muniz Remix)", "performer": "Dina Summer"},
+              { "title": "Crimson Rain", "performer": "Kalipo"},
+              { "title": "L´Amour, La Danse, La Revolution", "performer": "Poison Gauchiste"},
+              { "title": "Born 2", "performer": "Water From Your Eyes"},
+              { "title": "Yes", "performer": "Laura Groves"},
+              { "title": "Make Believe", "performer": "Eli & Fur"},
+              { "title": "Satan Is Real", "performer": "Kreator"},
+              { "title": "Summerhill", "performer": "Dub Head"},
+              { "title": "American Woman", "performer": "Butthole Surfers"}
             ]
           ]
         }
