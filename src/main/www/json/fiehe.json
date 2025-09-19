@@ -15613,6 +15613,53 @@
               { "title": "The Field", "performer": "Blood Orange feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek"}
             ]
           ]
+        },
+        {
+          "id": "36",
+          "date": "2025-09-07",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Running", "performer": "Animal Trainer feat. Noah Kulaga"},
+              { "title": "", "performer": "Sienna & Tom Middleton"},
+              { "title": "YNTOO (Extended ´92 Remix)", "performer": ""},
+              { "title": "The Cycle", "performer": "Flava D feat. Lauren Archer"},
+              { "title": "Yes I Want It Too", "performer": "Faithless feat. Antony Szmierek"},
+              { "title": "Green Tea", "performer": "Roska"},
+              { "title": "Adore (I. JORDAN Remix)", "performer": "Tusks"},
+              { "title": "Arsch von deiner Mutter", "performer": "Augn"},
+              { "title": "Cowards Around", "performer": "Shame"},
+              { "title": "Extended Rave Mix", "performer": "KGLW + Gift"},
+              { "title": "Lights Out", "performer": "Gabriella Bongo feat. Shayla Marie"},
+              { "title": "There She Goes", "performer": "Curtis Harding"}
+            ],
+            [
+              { "time": "22:04", "title": "Out In The Black", "performer": "Curtis Harding"},
+              { "title": "Paradise 23", "performer": "Auntie Flo"},
+              { "title": "Island Girl", "performer": "Don Letts Presents Lee Scratch Perry, Ari Up"},
+              { "title": "Movement", "performer": "Weval"},
+              { "title": "Fashionist", "performer": "Waldorf/A Touch Of Class"},
+              { "title": "Don´t Give Up", "performer": "Solomun"},
+              { "title": "What Is The Reason For It?", "performer": "David Byrne feat. Hayley Williams, Ghost Train Orchestra"},
+              { "title": "Early Signs Of Rhythm", "performer": "Art Feynman"},
+              { "title": "Tear The Prey!", "performer": "Lawn Chair"},
+              { "title": "Exodus", "performer": "Lathe Of Heaven"},
+              { "title": "Parachute", "performer": "Hayley Williams"},
+              { "title": "Breathe", "performer": "Crvvcks & Az Always"}
+            ],
+            [
+              { "time": "23:04", "title": "Let The Music Decide", "performer": "Unknown Artist"},
+              { "title": "Left To Right", "performer": "Acid Harry"},
+              { "title": "Magic Plant", "performer": "La Chooma"},
+              { "title": "No Fear", "performer": "Big Thief"},
+              { "title": "Shining", "performer": "Mac DeMarco"},
+              { "title": "Borderline (Blood Orange Remix)", "performer": "Tame Impala"},
+              { "title": "Countryside", "performer": "Blood Orange feat. Eva Tolin, Liam Benzvi, Ian Isiah"},
+              { "title": "Schadenfreude", "performer": "Baxter Dury"},
+              { "title": "Moving On", "performer": "Weval"},
+              { "title": "Twin Moon", "performer": "Mirror Touch"},
+              { "title": "Lampiao", "performer": "Shame"}
+            ]
+          ]
         }
       ]
     }
