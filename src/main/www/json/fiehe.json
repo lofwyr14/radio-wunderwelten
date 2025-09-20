@@ -14722,6 +14722,7 @@
         {
           "id": "17",
           "date": "2025-04-27",
+          "checked": {"date": "2025-09-20", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Stay", "performer": "Emma-Jean Thackray"},
@@ -14748,7 +14749,7 @@
               { "title": "Revolution", "performer": "Grenzkontrolle"},
               { "title": "Möchtegern", "performer": "Cosey Mueller"},
               { "title": "Girlfriend", "performer": "Näd Mika feat. Sexy Sushi"},
-              { "title": "Upstairs Downstairs", "performer": "Earwax"},
+              { "title": "Upstairs Downstairs Enigma", "performer": "Earwax"},
               { "title": "Chords Of Love", "performer": "Demain Minuit"}
             ],
             [
