@@ -14773,12 +14773,12 @@
           "songs": [
             [
               { "time": "21:04", "title": "Don´t Hold Back", "performer": "Emjie"},
-              { "title": "Did I Go (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Did I Go? (Ikonika Extended Remix)", "performer": "Ebba Asman"},
               { "title": "Pacific Samba", "performer": "Asa Tate"},
               { "title": "Dirty Boyz", "performer": "Viagra Boys"},
               { "title": "Some People´s Music", "performer": "The Moonlandingz feat. Ewen Bremner"},
               { "title": "Bass Tool", "performer": "Skream & Alex Culross"},
-              { "title": "Reflector", "performer": "Willo feat. Baron Von Trax"},
+              { "title": "Reflector (Extended Mix)", "performer": "Willo feat. Baron Von Trax"},
               { "title": "Es ist immer Sommer irgendwo", "performer": "Die Liga der gewöhnlichen Gentlemen"},
               { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"},
               { "title": "Move With The Pack", "performer": "Claude VonStroke"}
@@ -15659,6 +15659,56 @@
               { "title": "Moving On", "performer": "Weval"},
               { "title": "Twin Moon", "performer": "Mirror Touch"},
               { "title": "Lampiao", "performer": "Shame"}
+            ]
+          ]
+        },
+        {
+          "id": "37",
+          "date": "2025-09-14",
+          "songs": [
+            [
+              { "time": "21:04", "title": "The Boys In The Band", "performer": "Gentle Giant"},
+              { "title": "Favorite Sun", "performer": "Guerilla Toss"},
+              { "title": "Brontosaurus Law", "performer": "The Hidden Cameras"},
+              { "title": "Alive", "performer": "Ghostwoman"},
+              { "title": "Keeping Me Up", "performer": "Flava D"},
+              { "title": "Double Luxury", "performer": "salute"},
+              { "title": "Without You", "performer": "I. Jordan"},
+              { "title": "Is It Worth It (Happy Birthday) ?", "performer": "Cate Le Bon"},
+              { "title": "Afterlife", "performer": "Nate08 feat. Dappest"},
+              { "title": "Valleys", "performer": "Working Men´s Club"},
+              { "title": "Stone Shadow", "performer": "Glyders"},
+              { "title": "A Tiger Never Looses Its Stripes", "performer": "Tiger Stripes"}
+            ],
+            [
+              { "time": "22:04", "title": "Submarine", "performer": "Kid Cudi"},
+              { "title": "Untitled (Swirl)", "performer": "Jay Wood"},
+              { "title": "Cabin Fever", "performer": "Jaden"},
+              { "title": "Sunrise (Adam Ten Rmx)", "performer": "Shouse"},
+              { "title": "Left Of The Dealer", "performer": "Ocean Alley"},
+              { "title": "Mood Swings", "performer": "DJ Kicks by Modeselektor: Little Simz"},
+              { "title": "Ouverture", "performer": "DJ Kicks by Modeselektor: Maxime Denuc"},
+              { "title": "Movement", "performer": "DJ Kicks by Modeselektor: Modeselektor feat. Paul St. Hilaire"},
+              { "title": "Dancing On My Own", "performer": "Spoke"},
+              { "title": "Say It With Your Body", "performer": "Bklava"},
+              { "title": "Take A Little Trip", "performer": "Grooveworks"},
+              { "title": "Intention", "performer": "Verses GT"},
+              { "title": "Bloodsport", "performer": "Maruja"}
+            ],
+            [
+              { "time": "23:04", "title": "Dominoes", "performer": "Leisure"},
+              { "title": "Wild Thing", "performer": "OX7GEN"},
+              { "title": "Peech Blue (Club Mix)", "performer": "Kassian"},
+              { "title": "Summer Song", "performer": "Sydney Minski Sargeant"},
+              { "title": "The Velvet Sundown", "performer": "Verlvet Meadow"},
+              { "title": "Silent Crying", "performer": "Velvet Meadow"},
+              { "title": "Opening", "performer": "Ed Sheeran"},
+              { "title": "Back To The Wind", "performer": "Whitney"},
+              { "title": "Quantify", "performer": "The Hidden Cameras"},
+              { "title": "Hapsburg", "performer": "Baxter Dury"},
+              { "title": "Es Bringt Mir Nichts", "performer": "Kapa Tult"},
+              { "title": "The Swimmer", "performer": "Joyeria"},
+              { "title": "How Lowg", "performer": "Paradigm X"}
             ]
           ]
         }
