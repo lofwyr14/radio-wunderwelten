@@ -15711,6 +15711,57 @@
               { "title": "How Lowg", "performer": "Paradigm X"}
             ]
           ]
+        },
+        {
+          "id": "38",
+          "date": "2025-09-21",
+          "songs": [
+            [
+              { "time": "21:04", "title": "See Thru", "performer": "Megan Wroe"},
+              { "title": "Living Witzhout U", "performer": "Lawrence Hart"},
+              { "title": "Mehringdamm", "performer": "Berliner Doom"},
+              { "title": "Start A Fire", "performer": "Nils Hoffman feat. Kurtis Wells"},
+              { "title": "Love How You Dance", "performer": "Julie Pavon feat. Musumeci"},
+              { "title": "Alternate Paths", "performer": "Things You Say"},
+              { "title": "Call You Back", "performer": "TTSSFU"},
+              { "title": "Who Is The Man", "performer": "Lawn Chair"},
+              { "title": "Blue", "performer": "Power Plush"},
+              { "title": "Luftschloss", "performer": "Rheintraum"},
+              { "title": "Talisa", "performer": "Daniele Luppi & Parquet Courts feat. Karen O"},
+              { "title": "L´amour Pour 2jours", "performer": "Berliner Doom"},
+              { "title": "Auto", "performer": "Sofie Royer"},
+              { "title": "Altered States", "performer": "Flying Horseman"}
+            ],
+            [
+              { "time": "22:04", "title": "Alive", "performer": "Luciano"},
+              { "title": "Only LOve", "performer": "Düzer"},
+              { "title": "Magpie", "performer": "Tim Reaper, Mantra & Decibella"},
+              { "title": "Governor´s Bay", "performer": "Om Unit"},
+              { "title": "Shangri La", "performer": "Need For Mirrors"},
+              { "title": "Wachstumsschmerzen", "performer": "Akryl"},
+              { "title": "Bad Luck", "performer": "M.Byrd"},
+              { "title": "Medicate Yourself", "performer": "Coach Party"},
+              { "title": "Children Of The Baked Potato", "performer": "Thundercat feat. Remi Wolf"},
+              { "title": "About Time", "performer": "Cate Le Bon"},
+              { "title": "Spillhaugen", "performer": "DJ Kicks - Modeselektor - Beirut"},
+              { "title": "Spellbound", "performer": "DJ Kicks - Modeselektor – Kaan Pirecioglu"}
+            ],
+            [
+              { "time": "23:04", "title": "Now That You´re Gone", "performer": "Nation Of Language"},
+              { "title": "Aurora", "performer": "Lathe Of Heaven"},
+              { "title": "Wie du heisst", "performer": "Berliner Doom"},
+              { "title": "Rage", "performer": "Sprints"},
+              { "title": "Pollyanna", "performer": "Just MUstard"},
+              { "title": "Reno", "performer": "Bitchin Bajas"},
+              { "title": "Shoalin Satellite", "performer": "DJ Kicks - Kruder & Dorfmeister - Thievery Corporation"},
+              { "title": "High Noon", "performer": "DJ Kicks - Kruder & Dorfmeister"},
+              { "title": "Makes Me Wanna Dance", "performer": "Zimmer90"},
+              { "title": "Daisy", "performer": "Melody´s Echo Chamber feat. El Michels Affair"},
+              { "title": "Deutsche Hippies in Portugal", "performer": "AUGN"},
+              { "title": "Leave A Message", "performer": "Josh Baker feat. Poppy Wright & Trick Shady"},
+              { "title": "Can We Ignore It?:(", "performer": "Lola Young"}
+            ]
+          ]
         }
       ]
     }
