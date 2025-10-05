@@ -14770,6 +14770,7 @@
         {
           "id": "18",
           "date": "2025-05-04",
+          "checked": {"date": "2025-10-04", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Don´t Hold Back", "performer": "Emjie"},
@@ -14792,7 +14793,7 @@
               { "title": "Mehringdamm", "performer": "Berliner Doom"},
               { "title": "Intro", "performer": "Sextile"},
               { "title": "Woman Respond To Bass", "performer": "Sextile"},
-              { "title": "Reach Out To Me (Special Request Remix)", "performer": "Karen Pollard"},
+              { "title": "Reach Out To Me (Special Request Instrumental Remix)", "performer": "Karen Pollard"},
               { "title": "John Belushi", "performer": "Dope Lemon"},
               { "title": "All Good Things Will Come To Pass", "performer": "Lael Neale"},
               { "title": "Vacate", "performer": "Press Club"},
@@ -14804,11 +14805,11 @@
               { "title": "One Last Time", "performer": "Elli"},
               { "title": "Echo System", "performer": "Newmen"},
               { "title": "Broken English", "performer": "Winston Tong"},
-              { "title": "Lost In The Deep", "performer": "Eelke Kleijn"},
+              { "title": "Lost In The Deep (Extended Mix)", "performer": "Eelke Kleijn"},
               { "title": "PolarForest", "performer": "Anja Huwe"},
               { "title": "Never Coming Back", "performer": "Optometry"},
               { "title": "Keine Sekunde", "performer": "Fluegge"},
-              { "title": "Balthazzar", "performer": "Motorpsycho"},
+              { "title": "Balthazaar", "performer": "Motorpsycho"},
               { "title": "Ein Dienstag in Dur (Es ist Frühling)", "performer": "Die Liga der gewöhnlichen Gentlemen"}
             ]
           ]
