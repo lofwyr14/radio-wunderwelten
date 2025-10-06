@@ -14788,7 +14788,7 @@
               { "time": "22:04", "title": "Macarena (Bayside Boys Remix)", "performer": "Los Del Rio"},
               { "title": "Zambarena", "performer": "Grooveworks"},
               { "title": "In My Dreams", "performer": "Shadow Child"},
-              { "title": "Shangri La", "performer": "Need For MIrrors"},
+              { "title": "Shangri-La", "performer": "Need For MIrrors"},
               { "title": "Headlands", "performer": "Need For Mirrors & Singr"},
               { "title": "Mehringdamm", "performer": "Berliner Doom"},
               { "title": "Intro", "performer": "Sextile"},
@@ -15707,7 +15707,7 @@
               { "title": "Back To The Wind", "performer": "Whitney"},
               { "title": "Quantify", "performer": "The Hidden Cameras"},
               { "title": "Hapsburg", "performer": "Baxter Dury"},
-              { "title": "Es Bringt Mir Nichts", "performer": "Kapa Tult"},
+              { "title": "Es bringt mir nichts", "performer": "Kapa Tult"},
               { "title": "The Swimmer", "performer": "Joyeria"},
               { "title": "How Lowg", "performer": "Paradigm X"}
             ]
@@ -15761,6 +15761,51 @@
               { "title": "Deutsche Hippies in Portugal", "performer": "AUGN"},
               { "title": "Leave A Message", "performer": "Josh Baker feat. Poppy Wright & Trick Shady"},
               { "title": "Can We Ignore It?:(", "performer": "Lola Young"}
+            ]
+          ]
+        },
+        {
+          "id": "39",
+          "date": "2025-09-28",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Euro", "performer": "Dublon"},
+              { "title": "Velvet Roads", "performer": "Grandbrothers"},
+              { "title": "Killin You Hoes", "performer": "Cardi B"},
+              { "title": "St. Patrick´s", "performer": "Central Cee"},
+              { "title": "On My Back", "performer": "Cardi B feat. Lourdiz"},
+              { "title": "Black Cat", "performer": "Albert McCloud feat. Sean Wood"},
+              { "title": "mq9", "performer": "Automatic"},
+              { "title": "You Came Out", "performer": "We Have Band"},
+              { "title": "Flipping The Station", "performer": "De Sluwe Vos"},
+              { "title": "Project 5am", "performer": "Elzaze"},
+              { "title": "Es fühlt sich nicht so an", "performer": "Rauchen"},
+              { "title": "Rage", "performer": "Sprints"}
+            ],
+            [
+              { "time": "22:04", "title": "Their Shadows", "performer": "Johan Agebjörn"},
+              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R. Missing"},
+              { "title": "Landslide", "performer": "Nightbus"},
+              { "title": "Mothers Of Riches", "performer": "Cate Le Bon"},
+              { "title": "No No Yes Yes", "performer": "Deradoorian"},
+              { "title": "The Prize", "performer": "Automatic"},
+              { "title": "Sayl Damei", "performer": "Sanam"},
+              { "title": "Wie der Wind am Ende einer Strasse", "performer": "Amon Düül II"},
+              { "title": "Sonnenring", "performer": "Ex Colorado"},
+              { "title": "Roobosh", "performer": "NewDad"}
+            ],
+            [
+              { "time": "23:04", "title": "Unsterblich sein (*)", "performer": "Kraftklub feat. Domiziana"},
+              { "title": "I Really Like You", "performer": "Coach Party"},
+              { "title": "Life´s A Zoo", "performer": "Guerilla Toss"},
+              { "title": "Crystal Gazing", "performer": "A Sagittariun"},
+              { "title": "Piano Protocol", "performer": "Elzace"},
+              { "title": "Draw A Line", "performer": "Lu.Re"},
+              { "title": "Brainwave 2.0 (Raxon Mix)", "performer": "Michael Mayer"},
+              { "title": "We Still Dancin", "performer": "Dave Aju & Rodney"},
+              { "title": "Yekermo Sew", "performer": "Mulatu Astatke"},
+              { "title": "Always Lost", "performer": "Emma Hessels"},
+              { "title": "Yekermo Sew", "performer": "Mulatu Astatke"}
             ]
           ]
         }
