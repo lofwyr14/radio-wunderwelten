@@ -14826,7 +14826,7 @@
               { "title": "Sire Eyes", "performer": "BOP, DRIIA, Doktor"},
               { "title": "Spacesuit", "performer": "Degs feat. Gabriella Bongo"},
               { "title": "Stoppy´s Tape Packs", "performer": "Unglued feat. Lowqui"},
-              { "title": "Echoes Of Us", "performer": "Baltra"},
+              { "title": "Echoes Of Us (Extended Version)", "performer": "Baltra"},
               { "title": "Gentle Gaze", "performer": "Elkka"},
               { "title": "Seeds Of Light", "performer": "Rose City Band"},
               { "title": "La Mesa", "performer": "Rose City Band"},
@@ -15806,6 +15806,50 @@
               { "title": "Yekermo Sew", "performer": "Mulatu Astatke"},
               { "title": "Always Lost", "performer": "Emma Hessels"},
               { "title": "Yekermo Sew", "performer": "Mulatu Astatke"}
+            ]
+          ]
+        },
+        {
+          "id": "40",
+          "date": "2025-10-05",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Opalite", "performer": "Taylor Swift"},
+              { "title": "Don´t Answer Me", "performer": "The Alan Parsons Project"},
+              { "title": "Tangerine", "performer": "Ocean Alley"},
+              { "title": "Start A Fire", "performer": "Nils Hoffman feat. Kurtis Wells"},
+              { "title": "Be My Medicine", "performer": "Rona"},
+              { "title": "So Low (Anthony Middleton Remix)", "performer": "Damian Lazarus feat. Zoey Kypri"},
+              { "title": "mmotd", "performer": "NIIX"},
+              { "title": "Give Us Our Dominion", "performer": "The Besnard Lakes"},
+              { "title": "Benzos & blut 2.0", "performer": "Gwen Dolyn"},
+              { "title": "The Heads That Know", "performer": "Charlotte De Witte feat. Comma Dee"},
+              { "title": "Fallen und schweben", "performer": "Rauchen"}
+            ],
+            [
+              { "time": "22:04", "title": "Hack The System", "performer": "Joyce Muniz"},
+              { "title": "Synthesizer", "performer": "Airwolf  Paradise"},
+              { "title": "Synthesizer", "performer": "Electric Six"},
+              { "title": "Kiss Me In The Morning", "performer": "Pauls Jets"},
+              { "title": "Hit My Head All Day", "performer": "Dry Cleaning"},
+              { "title": "Simile", "performer": "Adekunle Gold feat. Soweto Gospel Choir"},
+              { "title": "Oba", "performer": "Adekunle Gold"},
+              { "title": "Roulette", "performer": "Alfa Mist"},
+              { "title": "Mantra", "performer": "Shaking Hand"},
+              { "title": "Greek Fire", "performer": "Saccades"},
+              { "title": "Always Lost", "performer": "Emma Hessels"}
+            ],
+            [
+              { "time": "23:04", "title": "Mars", "performer": "Simon Vuarambon"},
+              { "title": "Metora", "performer": "Haft & Peyman S"},
+              { "title": "Nobody Told Me", "performer": "Notre Dame"},
+              { "title": "Rooster", "performer": "Bar Italia"},
+              { "title": "Blicke kreuzen", "performer": "frytz"},
+              { "title": "Bodies", "performer": "Need For Mirrors"},
+              { "title": "Synodical Return", "performer": "Yorobi & Tim Reaper"},
+              { "title": "DUsk", "performer": "Johan Agebjörn"},
+              { "title": "Grand Prix", "performer": "Nala Sinephro"},
+              { "title": "Imafan", "performer": "Makaya McCraven"}
             ]
           ]
         }
