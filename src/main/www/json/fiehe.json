@@ -14872,13 +14872,13 @@
               { "title": "You (Find Love)", "performer": "Easy Easy"},
               { "title": "Candle", "performer": "Hotline TNT"},
               { "title": "Through My Teeth", "performer": "Spacey Jane"},
-              { "title": "She Thinks She´s Fierce (You Gotta Go Remix)", "performer": "Michael Cignarale"},
+              { "title": "She Thinks She´s Fierce (You Gotta Go Mix)", "performer": "Michael Cignarale"},
               { "title": "Girl Like Me", "performer": "PinkPantheress"},
               { "title": "Stars", "performer": "PinkPantheress"},
               { "title": "Illegal", "performer": "PinkPantheress"},
-              { "title": "Pleasures In The Planet", "performer": "Ko Yang"},
+              { "title": "Treasures In The Planet", "performer": "Ko Yang"},
               { "title": "Like That", "performer": "El-B"},
-              { "title": "1000 Gram", "performer": "GUSH COLLECTIVE! Matt Flores feat. DOC"},
+              { "title": "1000 Gram (Radio Edit)", "performer": "GUSH COLLECTIVE! Matt Flores feat. DOC"},
               { "title": "Gimme Ocean", "performer": "Yuno"},
               { "title": "Where You Belong", "performer": "Elli"}
             ],
@@ -14886,13 +14886,13 @@
               { "time": "22:04", "title": "I Just Want To Be A Sound", "performer": "Kadavar"},
               { "title": "Panic Attack", "performer": "Andy Bell"},
               { "title": "It´s Just Us", "performer": "Kali Uchis"},
-              { "title": "Continants", "performer": "Sio & Tesfa Williams"},
-              { "title": "Druzy@ (Scuba Remix)", "performer": "Baltra"},
+              { "title": "Continents", "performer": "Sio & Tesfa Williams"},
+              { "title": "Brush Strokes (Jacques Greene Remix)", "performer": "Baltra"},
               { "title": "Waterflow", "performer": "Scuba"},
               { "title": "Unidos", "performer": "Sofia Kourtesis & Daphni"},
               { "title": "On The Nose", "performer": "Froid Dub"},
               { "title": "If I Had A Gun", "performer": "Ekkstacy"},
-              { "title": "1 800 Call-MeBack", "performer": "Mhaol"},
+              { "title": "1 800-Call-Me-Back", "performer": "Mhaol"},
               { "title": "Reigning Down", "performer": "Deradoorian"},
               { "title": "Down", "performer": "Triathalon"}
             ],
@@ -15852,6 +15852,52 @@
               { "title": "DUsk", "performer": "Johan Agebjörn"},
               { "title": "Grand Prix", "performer": "Nala Sinephro"},
               { "title": "Imafan", "performer": "Makaya McCraven"}
+            ]
+          ]
+        },
+        {
+          "id": "41",
+          "date": "2025-10-12",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Springbox (Vocal Mix)", "performer": "Matrix Vs Dilemma"},
+              { "title": "Ain´t No Other", "performer": "Hoax"},
+              { "title": "Without You (Hoax Remix)", "performer": "Pola & Bryson"},
+              { "title": "Personal Trainer", "performer": "Lens, Diagnostix, Capo Lee"},
+              { "title": "Be The Glitch", "performer": "Sicaria"},
+              { "title": "Entangled", "performer": "GLXY, Jords, Charli Brix"},
+              { "title": "Take It", "performer": "KeiyaA"},
+              { "title": "Stupid Prizes", "performer": "KeiyaA"},
+              { "title": "Gold", "performer": "Two Medicine"},
+              { "title": "Chemin De La Baie", "performer": "The Besnard Lakes"},
+              { "title": "Somewhere, Nowhere", "performer": "Nightbus"},
+              { "title": "Call Coco", "performer": "9Oases"}
+            ],
+            [
+              { "time": "22:04", "title": "Have You Lost Your Mind", "performer": "Tony Y Not"},
+              { "title": "Wrong Idea", "performer": "Confidence Man"},
+              { "title": "The Right", "performer": "DJ Seinfeld, Confidence Man"},
+              { "title": "She Who Dares", "performer": "Say She She"},
+              { "title": "You Make Me Say Woah! (Funkee Cole Cappin´ Mix)", "performer": "DJ Spen pres. Mothafunkerz"},
+              { "title": "Drop A", "performer": "Jay Som"},
+              { "title": "Jaouad", "performer": "Dressed Like Boys"},
+              { "title": "Out Of These Blues", "performer": "Richard Ashcroft"},
+              { "title": "Grace (A Tale) feat. Hella", "performer": "Jürgen Paape"},
+              { "title": "Move", "performer": "White Sheep"}
+            ],
+            [
+              { "time": "23:04", "title": "Cross Your Heart", "performer": "Momma"},
+              { "title": "The Carpet Song", "performer": "Brockhoff"},
+              { "title": "False Prophet", "performer": "Nightbus"},
+              { "title": "Under The Flowerpot", "performer": "KinAhau feat. Luke Cusato"},
+              { "title": "God Bless America", "performer": "Leon"},
+              { "title": "New Euphoria", "performer": "HAAi feat. Alexis Taylor"},
+              { "title": "Reno", "performer": "Bitchin Bajas"},
+              { "title": "Host", "performer": "Nightbus"},
+              { "title": "The Painting Of The Bay", "performer": "W.H.Lung"},
+              { "title": "Sub-Culture", "performer": "New Order"},
+              { "title": "Ich habe Angst so ohne dich kann ich nicht leben", "performer": "Pauls Jets"},
+              { "title": "The Calling", "performer": "Midlake"}
             ]
           ]
         }
