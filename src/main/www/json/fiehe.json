@@ -15900,6 +15900,54 @@
               { "title": "The Calling", "performer": "Midlake"}
             ]
           ]
+        },
+        {
+          "id": "42",
+          "date": "2025-10-19",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Tatort", "performer": "Klaus Doldinger´s Passport"},
+              { "title": "Moon", "performer": "Skream & Krystal Klear"},
+              { "title": "Higher", "performer": "Pablo Bozzi feat. Lexi L´Acqua"},
+              { "title": "The Nature Of POwer", "performer": "Sudan Archives"},
+              { "title": "Always Calling", "performer": "Packaging"},
+              { "title": "Running Through The Airport", "performer": "Packaging feat. Cindygod"},
+              { "title": "Andy Nogger", "performer": "Kraan"},
+              { "title": "Run Right Into It", "performer": "Barr Brothers"},
+              { "title": "Lies", "performer": "Schramm"},
+              { "title": "What You Need", "performer": "Jay Som"},
+              { "title": "Eureka", "performer": "Romain Garcia"},
+              { "title": "East Coast Line", "performer": "I.Jordan"}
+            ],
+            [
+              { "time": "22:04", "title": "My Crown", "performer": "Black Attack"},
+              { "title": "Uranus", "performer": "Klaus Doldinger´s Passport"},
+              { "title": "KKB", "performer": "TV Spot feat. Steffi Graf & Klaus Doldinger"},
+              { "title": "Freedom Jazz Dance", "performer": "Klaus Doldinger´s Passport feat. Brian Auger"},
+              { "title": "Bass Go Boom", "performer": "Dansyn & Reysha Rami"},
+              { "title": "Polaris", "performer": "Soulwax"},
+              { "title": "Mehringdamm", "performer": "Berliner Doom"},
+              { "title": "Stillstand", "performer": "Die Anstalt"},
+              { "title": "Radical Hope", "performer": "Efdemin"},
+              { "title": "Nanai", "performer": "Ozzy Jones"},
+              { "title": "Sublimity", "performer": "Marcus Miller"},
+              { "title": "Moon Eyes", "performer": "Glyders"}
+            ],
+            [
+              { "time": "23:04", "title": "Wir hatten Fun", "performer": "Pauls Jets"},
+              { "title": "Smash", "performer": "Pauls Jets"},
+              { "title": "My Type", "performer": "Sudan Archives"},
+              { "title": "Don´t Stop", "performer": "Tesfa Williams feat. Obi Franky"},
+              { "title": "Stratus", "performer": "Billy Cobham"},
+              { "title": "Three Piece Suit", "performer": "Kokoroko feat. Azekel"},
+              { "title": "Fairy Tale", "performer": "Klaus Doldinger´s Passport"},
+              { "title": "Doing Now", "performer": "Hannah Jadagu"},
+              { "title": "Ersatz Intercity", "performer": "AUA"},
+              { "title": "Glaube nicht", "performer": "Iedereen"},
+              { "title": "Panik", "performer": "Iedereen"},
+              { "title": "Keep Running", "performer": "Sparkling feat. Digitalism"}
+            ]
+          ]
         }
       ]
     }
