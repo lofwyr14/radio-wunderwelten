@@ -14865,6 +14865,7 @@
         {
           "id": "20",
           "date": "2025-05-18",
+          "checked": {"date": "2025-10-29", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Eyes Wide Shut (CC:DISCO! Remix)", "performer": "Daisybelle"},
@@ -14901,7 +14902,7 @@
               { "title": "We Belong", "performer": "Yuno"},
               { "title": "Milkshake Man", "performer": "Go-Jo"},
               { "title": "Big Jet Plane", "performer": "Raphael Palacci"},
-              { "title": "How Do You Love (Hidrogenesse Remix)", "performer": "The Hidden Cameras"},
+              { "title": "How Do You Love? (Hidrogenesse Remix)", "performer": "The Hidden Cameras"},
               { "title": "Man With Hands And Ankles Bound", "performer": "La Dispute"},
               { "title": "Live Deliciously", "performer": "Jools"},
               { "title": "As The Hummingbird Hovers", "performer": "Psychedelic Porn Crumpets"},
