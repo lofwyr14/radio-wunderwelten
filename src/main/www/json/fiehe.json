@@ -14921,10 +14921,10 @@
               { "time": "21:04", "title": "Stoned And Starving", "performer": "Parquet Courts"},
               { "title": "Billie Toppy (2025)", "performer": "Men I Trust"},
               { "title": "Feuerstuhl", "performer": "Michael Mayer"},
-              { "title": "My Soul", "performer": "Notre Dame"},
+              { "title": "My Soul (Extended)", "performer": "Notre Dame"},
               { "title": "An Ungrateful Death", "performer": "Shcaa"},
               { "title": "Goodbye, Düsseldorf", "performer": "Sankt Otten"},
-              { "title": "What Else Is There (DJ Tennis Remix)", "performer": "Röyksopp feat. Fever Ray"},
+              { "title": "What Else Is There? (DJ Tennis Remix)", "performer": "Röyksopp feat. Fever Ray"},
               { "title": "Himalayan Yak Chew", "performer": "Aesop Rock"},
               { "title": "Abbali (Live At Montreux Jazz Festival 2022)", "performer": "John McLaughlin & The 4th Dimension"},
               { "title": "Blitzkrieg Bop – Jamrock Bop", "performer": "Dubmones"}
@@ -14934,18 +14934,18 @@
               { "title": "Betty Ford", "performer": "Friendship"},
               { "title": "Friday On My Mind", "performer": "Brògeal"},
               { "title": "Pure Vernunft darf niemals siegen (Wassermann & Superpitcher Mix)", "performer": "Tocotronic"},
-              { "title": "Rivals (DJ Hell Mix)", "performer": "GusGus"},
-              { "title": "Fackeln Im Sturm", "performer": "Wassermann"},
-              { "title": "Gone Stumblin´", "performer": "Soul Clap feat. Haven Star"},
+              { "title": "Rivals (DJ Hell Mix) (Edit)", "performer": "GusGus"},
+              { "title": "Fackeln Im Sturm (Edit)", "performer": "Wassermann"},
+              { "title": "Gone Stumblin´ (Extended)", "performer": "Soul Clap feat. Haven Star"},
               { "title": "Immortal Hands", "performer": "Stereolab"},
               { "title": "Drive The Lorry", "performer": "Sophia Kennedy"},
               { "title": "Should The Bible Be Banned", "performer": "McCarthy"}
             ],
             [
               { "time": "23:04", "title": "BadBadButGood", "performer": "Hang Linton"},
-              { "title": "Happiness (Michael Mayer Mix)", "performer": "Superpitcher"},
+              { "title": "Happiness (Michael Mayer Mix) (Edit)", "performer": "Superpitcher"},
               { "title": "Mana", "performer": "Urban CC"},
-              { "title": "Molly & Sally", "performer": "Yulia Niko feat. Coro Coro"},
+              { "title": "Molly & Sally (2025 Version)", "performer": "Yulia Niko feat. Coro Coro"},
               { "title": "Shmaali شمالي Tarweeda (Nicolas Jaar Remix)", "performer": "Yasmin Hamdan"},
               { "title": "Automatic (Midnight Version)", "performer": "Roosevelt"},
               { "title": "Waiting Around To Provide", "performer": "Florry"},
@@ -15947,6 +15947,52 @@
               { "title": "Glaube nicht", "performer": "Iedereen"},
               { "title": "Panik", "performer": "Iedereen"},
               { "title": "Keep Running", "performer": "Sparkling feat. Digitalism"}
+            ]
+          ]
+        },
+        {
+          "id": "43",
+          "date": "2025-10-26",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Nanai", "performer": "Ozzy Jones"},
+              { "title": "Anna Karenina", "performer": "Cigarettes After Sex"},
+              { "title": "Can´t Stand To Lose", "performer": "HAAi"},
+              { "title": "Bittersweet", "performer": "Mia Lily"},
+              { "title": "Healing", "performer": "Astral Bakers"},
+              { "title": "Run.Run.Run.Run.Run", "performer": "Grand Brothers"},
+              { "title": "Passenger 57", "performer": "Stanley Clarke"},
+              { "title": "Fried Pizza", "performer": "Squarepusher"},
+              { "title": "I Wish I Didn´t Waste Your Time", "performer": "Thundercat"},
+              { "title": "Trap", "performer": "Marcus Miller"},
+              { "title": "Normal Today", "performer": "Hannah Jagadu"}
+            ],
+            [
+              { "time": "22:04", "title": "ARD Mediathek", "performer": "Kapatult"},
+              { "title": "Too Late Now (Soulwax Remix)", "performer": "Wet Leg"},
+              { "title": "The False Economy", "performer": "Soulwax"},
+              { "title": "Fuck Le System", "performer": "Perera Elsewhere"},
+              { "title": "Where We Belong", "performer": "Amtrac"},
+              { "title": "Microdreaming", "performer": "A Sagittariun"},
+              { "title": "Did I Go? (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Listen To Your Heart", "performer": "Ikonika"},
+              { "title": "Run", "performer": "Josi Miller"},
+              { "title": "Love Has Come Again", "performer": "salute"},
+              { "title": "Daydream", "performer": "Militarie Gun"}
+            ],
+            [
+              { "time": "23:04", "title": "Somewhere, Nowhere", "performer": "Nightbus"},
+              { "title": "Another Baby", "performer": "Baltra"},
+              { "title": "What We Need", "performer": "RGL"},
+              { "title": "Stitches", "performer": "HAAi"},
+              { "title": "Feel", "performer": "Kyle Watson"},
+              { "title": "Dandelion", "performer": "Just Mustard"},
+              { "title": "Gimme Time", "performer": "Hannah Jagadu"},
+              { "title": "Lioness", "performer": "Bar Italia"},
+              { "title": "Piece Of Me", "performer": "Teed"},
+              { "title": "Going There", "performer": "Moscoman"},
+              { "title": "Ceibo", "performer": "Auntie Flo"},
+              { "title": "Dark Road", "performer": "Scottie Dee"}
             ]
           ]
         }
