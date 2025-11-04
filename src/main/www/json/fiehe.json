@@ -14916,6 +14916,7 @@
         {
           "id": "21",
           "date": "2025-05-25",
+          "checked": {"date": "2025-11-04", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Stoned And Starving", "performer": "Parquet Courts"},
@@ -14953,7 +14954,7 @@
               { "title": "Mountainbiker", "performer": "Njelk"},
               { "title": "Live Deliciously", "performer": "Jools"},
               { "title": "Purple Colored Sky", "performer": "Sally Shapiro"},
-              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn feat. R.Missing"}
+              { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn feat. R.Missing"}
             ]
           ]
         },
@@ -15000,7 +15001,7 @@
               { "title": "Time Signals", "performer": "Klaus Weiss"},
               { "title": "Shut Up", "performer": "Eddie Warner & Roger Roger"},
               { "title": "Hard To Love", "performer": "Sally Shapiro"},
-              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
+              { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
             ]
           ]
         },
@@ -15030,7 +15031,7 @@
               { "title": "Don Vito Bingus (O-Wells Octamix)", "performer": "Sarayu"},
               { "title": "Love On Repeat", "performer": "Crybaby"},
               { "title": "Grown Ups", "performer": "Pulp"},
-              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"},
+              { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"},
               { "title": "Evening Drive", "performer": "Pan Amsterdam"},
               { "title": "Magic, Alive!", "performer": "McKinley Dixon"},
               { "title": "Here You Go Again/Whatever You Do", "performer": "Chuck Brown"}
@@ -15046,7 +15047,7 @@
               { "title": "Walk Of Fame", "performer": "Miley Cyrus feat. Brittany Howard"},
               { "title": "Mitten in den Massen", "performer": "Mia Morgan"},
               { "title": "Hollow", "performer": "Little Simz"},
-              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
+              { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
             ]
           ]
         },
@@ -15524,7 +15525,7 @@
               { "title": "When You Know (Satl Remix)", "performer": "Ebba Asman"},
               { "title": "Crockett´s Theme", "performer": "Jan Hammer"},
               { "title": "Dominoes", "performer": "Leisure"},
-              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
+              { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
             ]
           ]
         },
@@ -15787,7 +15788,7 @@
             ],
             [
               { "time": "22:04", "title": "Their Shadows", "performer": "Johan Agebjörn"},
-              { "title": "Fakesnow (ideesnoires Remix)", "performer": "Johan Agebjörn & R. Missing"},
+              { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn & R. Missing"},
               { "title": "Landslide", "performer": "Nightbus"},
               { "title": "Mothers Of Riches", "performer": "Cate Le Bon"},
               { "title": "No No Yes Yes", "performer": "Deradoorian"},
