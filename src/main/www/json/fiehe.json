@@ -15009,6 +15009,7 @@
         {
           "id": "23",
           "date": "2025-06-08",
+          "checked": {"date": "2025-11-16", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "NYC Town", "performer": "Pan Amsterdam"},
@@ -15028,7 +15029,7 @@
               { "title": "Slowdive", "performer": "Turnstile"},
               { "title": "Cutthroat", "performer": "Shame"},
               { "title": "The Groover", "performer": "Doriann & Wave Wave"},
-              { "title": "Till I´m Dead", "performer": "Florian Picasso"},
+              { "title": "Till I´m Dead (Riviera Mix)", "performer": "Florian Picasso"},
               { "title": "Don Vito Bingus (O-Wells Octamix)", "performer": "Sarayu"},
               { "title": "Love On Repeat", "performer": "Crybaby"},
               { "title": "Grown Ups", "performer": "Pulp"},
@@ -15038,17 +15039,16 @@
               { "title": "Here You Go Again/Whatever You Do", "performer": "Chuck Brown"}
             ],
             [
-              { "time": "23:04", "title": "Schon wieder Apokalypse", "performer": "Sankt Otten"},
+              { "time": "23:04", "title": "Geweint wird nur zum Schluss", "performer": "Sankt Otten"},
               { "title": "Geneve", "performer": "Vilhelm Hasselgren"},
-              { "title": "Bateu Bue (Mandacaru Remix)", "performer": "Diogo"},
+              { "title": "Bateu Bué (Mandacaru Remix)", "performer": "Diogo"},
               { "title": "Temperance", "performer": "Meka"},
               { "title": "Leonard Street", "performer": "Shura"},
               { "title": "Provide Me Your Name", "performer": "Getdown Services"},
               { "title": "Aquamarine", "performer": "Addison Rae"},
               { "title": "Walk Of Fame", "performer": "Miley Cyrus feat. Brittany Howard"},
               { "title": "Mitten in den Massen", "performer": "Mia Morgan"},
-              { "title": "Hollow", "performer": "Little Simz"},
-              { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn & R.Missing"}
+              { "title": "Hollow", "performer": "Little Simz"}
             ]
           ]
         },
