@@ -16003,7 +16003,7 @@
           "date": "2025-11-02",
           "songs": [
             [
-              { "title": "Silence Sea And Sky", "performer": "The Chameleons"},
+              { "time": "21:04", "title": "Silence Sea And Sky", "performer": "The Chameleons"},
               { "title": "Nanai", "performer": "Ozzy Jones"},
               { "title": "Are U A Lie?", "performer": "Jonas Landwehr ft. Beniap"},
               { "title": "The Boy", "performer": "Skream & Krystal Klear"},
@@ -16016,7 +16016,7 @@
               { "title": "New Life", "performer": "Daniel Avery ft. yune pinku"}
             ],
             [
-              { "title": "Want You Back (Matthew Jonson Remix)", "performer": "Gary Todd feat. Robert Owens"},
+              { "time": "22:04", "title": "Want You Back (Matthew Jonson Remix)", "performer": "Gary Todd feat. Robert Owens"},
               { "title": "I Can´t Dance", "performer": "Albertine Sarges"},
               { "title": "Stripper", "performer": "Sevdaliza"},
               { "title": "Break It", "performer": "keiyaA"},
@@ -16028,7 +16028,7 @@
               { "title": "Late Night Love", "performer": "Octo Octa"}
             ],
             [
-              { "title": "Dreams Are My Reality", "performer": "Josi Miller feat. Stepan Sobanov"},
+              { "time": "23:04", "title": "Dreams Are My Reality", "performer": "Josi Miller feat. Stepan Sobanov"},
               { "title": "Eureka", "performer": "Romain Garcia"},
               { "title": "A Night In Makishi", "performer": "RGL"},
               { "title": "Galaxie (Austin Ato Remix)", "performer": "Daddy Squad feat. Corine"},
@@ -16039,6 +16039,51 @@
               { "title": "Elka", "performer": "Tortoise"},
               { "title": "Heritage", "performer": "Stojche"},
               { "title": "D.I.A.A.", "performer": "Hannah Jagadu"}
+            ]
+          ]
+        },
+        {
+          "id": "45",
+          "date": "2025-11-09",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Stachelbeerspinner", "performer": "Dominik Eulberg"},
+              { "title": "Electrofonk", "performer": "Da Lee LS"},
+              { "title": "Mare Street", "performer": "Scotti Dee"},
+              { "title": "U Good?", "performer": "Rebekah Abdeen ft. Kate Irland"},
+              { "title": "Unravel", "performer": "Viridity"},
+              { "title": "Revolution", "performer": "Onallee"},
+              { "title": "Monkey See Monkey Do", "performer": "Stone"},
+              { "title": "Astatum", "performer": "1luu"},
+              { "title": "Papa fuhr immer einen großen LKW", "performer": "Betterov"},
+              { "title": "Boundary Rider", "performer": "Tycho feat. Paul Banks"}
+            ],
+            [
+              { "time": "22:04", "title": "Black Flag", "performer": "Dead Air"},
+              { "title": "Axial Seamount", "performer": "Tortoise"},
+              { "title": "Running Through The Airport", "performer": "Packaging"},
+              { "title": "Gone", "performer": "Kessler"},
+              { "title": "Testa Dura (Beatrice M. Remix)", "performer": "De Grandi"},
+              { "title": "Leave Me Now", "performer": "DJ Q"},
+              { "title": "La Perla", "performer": "Rosalia"},
+              { "title": "Islands (Really Something)", "performer": "Whitney"},
+              { "title": "Days Gone By", "performer": "Midlake"},
+              { "title": "A Bridge To Far", "performer": "Midlake"},
+              { "title": "Momentary Phase Transition", "performer": "Eris Drew"},
+              { "title": "Valley Girls", "performer": "Huxley"}
+            ],
+            [
+              { "time": "23:04", "title": "Fool", "performer": "Maya Jane Coles"},
+              { "title": "Piano Protocol", "performer": "Elzace"},
+              { "title": "Wonder", "performer": "Hatchie"},
+              { "title": "Smiling", "performer": "The Belair Lip Bombs"},
+              { "title": "Waxwing", "performer": "Sorry"},
+              { "title": "Flawed Relation", "performer": "Crimson Bloom"},
+              { "title": "Welcher Pfad führt zur Geschichte", "performer": "Advanced Chemistry"},
+              { "title": "Leg dein Ohr auf die Schiene der Geschichte", "performer": "Freundeskreis"},
+              { "title": "Chinaschilf", "performer": "Shatten"},
+              { "title": "Ethereal Connection", "performer": "Tame Impala"},
+              { "title": "A Feeling I Miss", "performer": "Cassian feat. Matt Ryder"}
             ]
           ]
         }
