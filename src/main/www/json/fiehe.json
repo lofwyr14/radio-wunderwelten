@@ -15062,13 +15062,13 @@
               { "title": "Track 5", "performer": "Juri Heidemann"},
               { "title": "Purple Haze", "performer": "The Cure"},
               { "title": "Red Wine", "performer": "AJ Tracey feat. Master Peace"},
-              { "title": "The Chain", "performer": "Nick Lampos"},
+              { "title": "The Chain (Extended Mix)", "performer": "Nick Lampos"},
               { "title": "To Be Around You", "performer": "Breakage"},
               { "title": "Eaat Quiche, Sleep, Repeat", "performer": "Getdown Services"},
               { "title": "Telegram Sam", "performer": "T. Rex"},
               { "title": "American Food", "performer": "They Are Gutting A Body Of Water"},
               { "title": "Blame The Beret", "performer": "Cola Boyy"},
-              { "title": "Alone (Shanti Celeste \\“February Blues\\” Remix)", "performer": "The Cure"}
+              { "title": "Alone (Shanti Celeste \"February Blues\" Remix)", "performer": "The Cure"}
             ],
             [
               { "time": "22:04", "title": "PS.", "performer": "Easy Easy"},
@@ -16084,6 +16084,48 @@
               { "title": "Chinaschilf", "performer": "Shatten"},
               { "title": "Ethereal Connection", "performer": "Tame Impala"},
               { "title": "A Feeling I Miss", "performer": "Cassian feat. Matt Ryder"}
+            ]
+          ]
+        },
+        {
+          "id": "46",
+          "date": "2025-11-16",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Any Circumstance Left", "performer": "Anonimat, Ilias Katelanos, Plecta"},
+              { "title": "YNTOO (Extended ´92 Mix)", "performer": "Sienna & Tom Middleton"},
+              { "title": "Right On Time (Because Of Art Remix)", "performer": "Freddie Lineker"},
+              { "title": "Raving All Night", "performer": "London Elektricity feat. Genesis Elijah"},
+              { "title": "Upside Down", "performer": "Thundercat"},
+              { "title": "Bad Luck", "performer": "M.Byrd"},
+              { "title": "Always Lost", "performer": "Emma Hessels"},
+              { "title": "Dawn", "performer": "Tessa Rose Jackson"},
+              { "title": "Hush Hush Baby (Oscillian Remix)", "performer": "Johan Agebjörn & Nina"},
+              { "title": "Ecstasy Surrounds Me", "performer": "Tiga"}
+            ],
+            [
+              { "time": "22:04", "title": "Flesh", "performer": "A Split Second"},
+              { "title": "Scream", "performer": "Eris Drew; DJ Kicks: Motion Blue"},
+              { "title": "Hard", "performer": "FKA twigs"},
+              { "title": "Hard Ride", "performer": "Glyders"},
+              { "title": "1 + 1", "performer": "Freezy"},
+              { "title": "Listen To Your Heart", "performer": "Ikonika"},
+              { "title": "Lebe Leben", "performer": "Haftbefehl"},
+              { "title": "New Life", "performer": "Daniel Avery feat. Yune pinku"},
+              { "title": "Lovebombs", "performer": "London Elektricity feat. Catching Cairo"},
+              { "title": "Nearly There", "performer": "Steve Gunn"}
+            ],
+            [
+              { "time": "23:04", "title": "Keep Smiling", "performer": "Celeste"},
+              { "title": "Red Baron", "performer": "Billy Cobham"},
+              { "title": "This Hotel Room", "performer": "King Hannah"},
+              { "title": "Too Big For California", "performer": "The Saxophones"},
+              { "title": "Final Boss", "performer": "Sweatson KLank"},
+              { "title": "Humanity", "performer": "Eli Fiola"},
+              { "title": "House", "performer": "Charli XCX feat. John Cale"},
+              { "title": "Staub", "performer": "Stefanie Schrank"},
+              { "title": "Oganesson", "performer": "Tortoise"},
+              { "title": "Mitsubishi", "performer": "Gorgon City"}
             ]
           ]
         }
