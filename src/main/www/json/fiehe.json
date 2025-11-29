@@ -15055,6 +15055,7 @@
         {
           "id": "24",
           "date": "2025-06-15",
+          "checked": {"date": "2025-11-28", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Skink", "performer": "e4444e"},
