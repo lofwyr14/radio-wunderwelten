@@ -15157,8 +15157,8 @@
               { "time": "21:04", "title": "Good Lies", "performer": "Overmono"},
               { "title": "Be My Medicine", "performer": "Rona"},
               { "title": "Hart In Brand", "performer": "Froukje & S10"},
-              { "title": "", "performer": "Joy Orbison & Overmono feat."},
-              { "title": "Lippy", "performer": "Skiifall"},
+              { "title": "Lippy", "performer": "Joy Orbison & Overmono feat. Skiifall"},
+              { "title": "The Groover", "performer": "Doriann & Wave Wave"},
               { "title": "Merkste selber (Deichdub)", "performer": "Deichkind"},
               { "title": "Blue Marble", "performer": "George Feely"},
               { "title": "Wait (Hatched Gets a New Hide)", "performer": "Formal Sppeedwear"},
@@ -16127,6 +16127,55 @@
               { "title": "Staub", "performer": "Stefanie Schrank"},
               { "title": "Oganesson", "performer": "Tortoise"},
               { "title": "Mitsubishi", "performer": "Gorgon City"}
+            ]
+          ]
+        },
+        {
+          "id": "47",
+          "date": "2025-11-23",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Sniper", "performer": "Sweetpea"},
+              { "title": "Not A Machine", "performer": "London Elektricity feat. Elsa Esmeralda"},
+              { "title": "I Remember", "performer": "Nightmares On Wax feat. Greentea Peng"},
+              { "title": "Cabin Talk (Album Intro)", "performer": "De La Soul feat. Giancarlo Esposito"},
+              { "title": "YUHDONTSTOP", "performer": "De La Soul"},
+              { "title": "Eyes Full Of Animal", "performer": "Midlake"},
+              { "title": "The Other", "performer": "Markus Nikolaus"},
+              { "title": "Destination Illumination (Lovetempo Rm)", "performer": "Gift"},
+              { "title": "Blank Spaces", "performer": "Jason Hersco"},
+              { "title": "Interstellar", "performer": "Mr. Tophat & Art Alfie"},
+              { "title": "Digital Spirituality", "performer": "DJ Sense (Eris Drew DJ KIcks)"},
+              { "title": "Toka Love Project", "performer": "Toka Project (Eris Drew DJ KIcks)"}
+            ],
+            [
+              { "time": "22:04", "title": "Fuck THat", "performer": "JAW, Sachsentrance"},
+              { "title": "My Feelings (Subtrax Remix)", "performer": "GVN"},
+              { "title": "Gunshot", "performer": "DJ Q"},
+              { "title": "Jupiter Horizons", "performer": "Molass"},
+              { "title": "Bumpy", "performer": "Oneohtrix Point Never"},
+              { "title": "Measuring Ruins", "performer": "Oneohtrix Point Never"},
+              { "title": "Trauermantel", "performer": "Dominik Eulberg"},
+              { "title": "Echoes", "performer": "Sorry"},
+              { "title": "One Way Or The Other", "performer": "M.Byrd"},
+              { "title": "Super Glyde", "performer": "Glyders"},
+              { "title": "Lift You Up", "performer": "Danny Brown"},
+              { "title": "The City", "performer": "Alex Wann & Notre Dame feat. Carte Blanche"}
+            ],
+            [
+              { "time": "23:04", "title": "Two Bodies In The Same Room", "performer": "Villforth"},
+              { "title": "All On Top", "performer": "London Elektricity feat. Genesis Elijah & Conrad Subs"},
+              { "title": "Just One Second (Apex Remix)", "performer": "London Elektricity feat. Elsa Esmeralda"},
+              { "title": "Think Of Me", "performer": "Dan Whitlam"},
+              { "title": "Piece Of Me", "performer": "Teed"},
+              { "title": "Wild And Alone", "performer": "FKA twigs feat. Pink Pantheress"},
+              { "title": "Paradise Runner", "performer": "Overmono"},
+              { "title": "There´s No Stopping Me", "performer": "Jonathan Jeremiah"},
+              { "title": "Moon Eyes", "performer": "Glyders"},
+              { "title": "Fallen Cloud", "performer": "Austra"},
+              { "title": "Sense Seeker", "performer": "Ikonika feat. JLSXND7RS"},
+              { "title": "Listen To Your Heart", "performer": "Ikonika"},
+              { "title": "Ready Fi Dem", "performer": "KTM"}
             ]
           ]
         }
