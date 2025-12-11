@@ -15158,16 +15158,16 @@
               { "title": "Be My Medicine", "performer": "Rona"},
               { "title": "Hart In Brand", "performer": "Froukje & S10"},
               { "title": "Lippy", "performer": "Joy Orbison & Overmono feat. Skiifall"},
-              { "title": "The Groover", "performer": "Doriann & Wave Wave"},
               { "title": "Merkste selber (Deichdub)", "performer": "Deichkind"},
+              { "title": "The Groover", "performer": "Doriann & Wave Wave"},
               { "title": "Blue Marble", "performer": "George Feely"},
-              { "title": "Wait (Hatched Gets a New Hide)", "performer": "Formal Sppeedwear"},
+              { "title": "Wait (Hatched Gets A New Hide)", "performer": "Formal Sppeedwear"},
               { "title": "Hot Corner", "performer": "The B-52`s"},
               { "title": "Dog Days Are Over (Breakage Remix)", "performer": "Florence + The Machine"},
               { "title": "End Credits", "performer": "Plastician"},
               { "title": "2nite", "performer": "Gush Collective Presents Herb LF"},
               { "title": "The Transmission", "performer": "Introspect"},
-              { "title": "Been Caught Stealing", "performer": "Jane´s Addiction"}
+              { "title": "Been Caught Stealing (12\" Remix Version)", "performer": "Jane´s Addiction"}
             ],
             [
               { "time": "22:04", "title": "Day 2", "performer": "Late Night Drive Home"},
@@ -15176,7 +15176,7 @@
               { "title": "Ich mache keine Komplimente", "performer": "Ricky Shayne"},
               { "title": "Pressed Flower", "performer": "Frankie Cosmos"},
               { "title": "What Was That", "performer": "Lorde"},
-              { "title": "Into Dust", "performer": "Four Tet"},
+              { "title": "Into Dust (Still Falling)", "performer": "Four Tet"},
               { "title": "Wrong", "performer": "AVG & Obi Franky"},
               { "title": "Man Of The Year", "performer": "Lorde"},
               { "title": "I Need The Answer", "performer": "Durand Jones & The Indications"},
@@ -16176,6 +16176,51 @@
               { "title": "Sense Seeker", "performer": "Ikonika feat. JLSXND7RS"},
               { "title": "Listen To Your Heart", "performer": "Ikonika"},
               { "title": "Ready Fi Dem", "performer": "KTM"}
+            ]
+          ]
+        },
+        {
+          "id": "48",
+          "date": "2025-11-30",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Wenn ich tot bin, fang ich wieder an", "performer": "Kraftklub"},
+              { "title": "Ember", "performer": "Fakear"},
+              { "title": "I Feel Good", "performer": "Yousef feat. Alexx"},
+              { "title": "You´re A Shining Star", "performer": "Floorplan"},
+              { "title": "Subsonic (Extended)", "performer": "Josh Baker"},
+              { "title": "Wieder zurück", "performer": "Jassin feat. Edwin Rosen"},
+              { "title": "Perfume Garden", "performer": "The Chameleons"},
+              { "title": "Bad Santa", "performer": "Sleaford Mods"},
+              { "title": "Hast du das gesehen", "performer": "Disso!ver"},
+              { "title": "Maybe Psychic", "performer": "Maya Ongaku"}
+            ],
+            [
+              { "time": "22:04", "title": "Sitting At The Window", "performer": "Rick Wakeman"},
+              { "title": "Listen To Your Heart", "performer": "Ikonika"},
+              { "title": "Gone", "performer": "Ikonika"},
+              { "title": "Give Me Bassline", "performer": "Jon E Cash"},
+              { "title": "Movimiento", "performer": "Hodge & Coffentexts"},
+              { "title": "Save Me", "performer": "Cooly G"},
+              { "title": "Did I Go? (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Slow Burn", "performer": "Ikonika"},
+              { "title": "Baby", "performer": "Zak Cox"},
+              { "title": "Joy Mantra", "performer": "Auntie Flo"},
+              { "title": "Sunny Song", "performer": "Jimi Tenor"}
+            ],
+            [
+              { "time": "23:04", "title": "Past Won´t Leave My Bed", "performer": "Joji"},
+              { "title": "Square Root Of None", "performer": "Ulrika Spacek"},
+              { "title": "Jetplane", "performer": "Sorry"},
+              { "title": "Gingham Dress", "performer": "Cootie Catcher"},
+              { "title": "What I Am (Groove Chronicles Remix)", "performer": "Tin Tin Out feat. Emma Bunton"},
+              { "title": "In The Darkroom", "performer": "Larry Latenight"},
+              { "title": "Touch", "performer": "Kasablanca"},
+              { "title": "Feels Like The End Of The World", "performer": "The Chameleons"},
+              { "title": "Spin The Block", "performer": "Master Peace"},
+              { "title": "Tangz II", "performer": "Bicep feat. Eliza"},
+              { "title": "Space Christmas", "performer": "Suzan´s Köcher Suprafon"},
+              { "title": "YUHDONTSTOP", "performer": "De La Soul"}
             ]
           ]
         }
