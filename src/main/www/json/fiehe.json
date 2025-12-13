@@ -15152,6 +15152,7 @@
         {
           "id": "26",
           "date": "2025-06-29",
+          "checked": {"date": "2025-12-13", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Good Lies", "performer": "Overmono"},
