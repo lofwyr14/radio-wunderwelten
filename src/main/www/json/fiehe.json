@@ -15202,17 +15202,18 @@
         {
           "id": "27",
           "date": "2025-07-06",
+          "checked": {"date": "2025-12-18", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Life Behind Bars", "performer": "Vandoliers"},
               { "title": "Bitter Sweet Symphony", "performer": "The Verve"},
               { "title": "Parents And God", "performer": "Mayurashka"},
               { "title": "Buschtaxi", "performer": "DJ Koze"},
-              { "title": "Did I Go (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Did I Go (Ikonika Extended Remix)", "performer": "Ebba Asman"},
               { "title": "Wickedest", "performer": "DJ Motu & Logan OLM"},
               { "title": "Keep Running", "performer": "Sparkling & Digitalism"},
-              { "title": "Hack The System", "performer": "Joyce Muniz feat. Futuradora"},
-              { "title": "Mehr Davon", "performer": "Rowli"},
+              { "title": "Hack The System (Extended Version)", "performer": "Joyce Muniz feat. Futuradora"},
+              { "title": "Mehr davon", "performer": "Rowli"},
               { "title": "I Only Ever Wanted To See You Fail", "performer": "The Reds, Pinks And Purples"},
               { "title": "Where To Look", "performer": "Nilüfer Yanya"},
               { "title": "I Don´t Wanna", "performer": "Sydney Minsky Sargeant"},
@@ -15244,7 +15245,7 @@
               { "title": "God Save The Pony", "performer": "Big Special"},
               { "title": "Drama", "performer": "Mavi Phoenix"},
               { "title": "Oh Darling", "performer": "Flawless Issue"},
-              { "title": "NaimaLoyle Carner", "performer": "John Coltrane"},
+              { "title": "Naima", "performer": "John Coltrane"},
               { "title": "Purpose", "performer": "Loyle Carner"},
               { "title": "Don´t Look Back In Anger", "performer": "Oasis"}
             ]
