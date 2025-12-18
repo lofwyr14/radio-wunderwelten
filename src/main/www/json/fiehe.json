@@ -16225,6 +16225,56 @@
               { "title": "YUHDONTSTOP", "performer": "De La Soul"}
             ]
           ]
+        },
+        {
+          "id": "49",
+          "date": "2025-12-07",
+          "songs": [
+            [
+              { "time": "21:04", "title": "RocknRoll", "performer": "Elektro Strothmann"},
+              { "title": "Silk Scraf", "performer": "Tiga + Fcukers"},
+              { "title": "Clifton Groove", "performer": "Philou"},
+              { "title": "Lord Of The Ring Roads", "performer": "Dusky"},
+              { "title": "The Echo", "performer": "Teed"},
+              { "title": "This Could Be The Greatest Beer Of My Life", "performer": "Cosmic Psychos"},
+              { "title": "Hymn", "performer": "Charlotte De Witte"},
+              { "title": "Morning On K Road", "performer": "Steve Gunn"},
+              { "title": "Childhood Dream", "performer": "Melody´s Echo Chamber"},
+              { "title": "Luz", "performer": "Jonny From Space"},
+              { "title": "Groove Groove", "performer": "Frazer Ray"}
+            ],
+            [
+              { "time": "22:04", "title": "Cecelia", "performer": "Tea Eater"},
+              { "title": "Depressed", "performer": "Hyperdog"},
+              { "title": "Easy Peeler", "performer": "Brockhoff"},
+              { "title": "Playa Paradiso (Paul Woolford Remix)", "performer": "DJ Tennis feat. Eliza Rose"},
+              { "title": "Herz zurück", "performer": "Ikkimel"},
+              { "title": "Dünya Garip", "performer": "Haftbefehl, oddworld"},
+              { "title": "Unravel", "performer": "Viridity"},
+              { "title": "Want You Bad", "performer": "Solah"},
+              { "title": "Good Stuff", "performer": "Fracture & Neptune"},
+              { "title": "Mariana", "performer": "Monrroe, Duskee"},
+              { "title": "The House That Doesn´t Exist", "performer": "Melody´s Echo Chamber"},
+              { "title": "Silent Crying", "performer": "Velvet Meadow"},
+              { "title": "Dark Dark Bright", "performer": "Nick & June"},
+              { "title": "TKCR & GDBY", "performer": "Paons & Idaam"}
+            ],
+            [
+              { "time": "21:04", "title": "Lippy", "performer": "Joy Orbison & Overmono feat. Skiifall"},
+              { "title": "Blessings", "performer": "P-rallel feat. Sam Deelay"},
+              { "title": "Back To The Basics (Sinego Remix)", "performer": "Eli Fola, Theodor Luv"},
+              { "title": "Listen To Your Heart", "performer": "Ikonika"},
+              { "title": "Low Gravity Moves", "performer": "Paons & Idaam"},
+              { "title": "In The Morning", "performer": "Schiela"},
+              { "title": "Within/Without", "performer": "Midlake"},
+              { "title": "Anylysis Of Variance IV", "performer": "Würden & Schäfer"},
+              { "title": "Ford (Oh Owa)", "performer": "Lewis Fitzgerald"},
+              { "title": "Your Own Bop", "performer": "Fakear"},
+              { "title": "Niemand", "performer": "Kapatult"},
+              { "title": "Stay In Your Lane", "performer": "Courtney Barnett"},
+              { "title": "Goblin", "performer": "Goodboi"}
+            ]
+          ]
         }
       ]
     }
