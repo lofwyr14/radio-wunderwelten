@@ -16262,7 +16262,7 @@
               { "title": "TKCR & GDBY", "performer": "Paons & Idaam"}
             ],
             [
-              { "time": "21:04", "title": "Lippy", "performer": "Joy Orbison & Overmono feat. Skiifall"},
+              { "time": "23:04", "title": "Lippy", "performer": "Joy Orbison & Overmono feat. Skiifall"},
               { "title": "Blessings", "performer": "P-rallel feat. Sam Deelay"},
               { "title": "Back To The Basics (Sinego Remix)", "performer": "Eli Fola, Theodor Luv"},
               { "title": "Listen To Your Heart", "performer": "Ikonika"},
@@ -16275,6 +16275,53 @@
               { "title": "Niemand", "performer": "Kapatult"},
               { "title": "Stay In Your Lane", "performer": "Courtney Barnett"},
               { "title": "Goblin", "performer": "Goodboi"}
+            ]
+          ]
+        },
+        {
+          "id": "50",
+          "date": "2025-12-14",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Be My Medicine", "performer": "Rona"},
+              { "title": "Again Through Fear", "performer": "Vhyce"},
+              { "title": "Panic Attack", "performer": "Andy Bell"},
+              { "title": "2Leute", "performer": "Odd Couple"},
+              { "title": "Auto", "performer": "Sofie Royer"},
+              { "title": "Huddersfield Wastes", "performer": "The Invisible Girls"},
+              { "title": "Have You Lost Your Mind?", "performer": "Tony Y Not"},
+              { "title": "Outline", "performer": "DJ Hell"},
+              { "title": "The House That Doesn´t Exist", "performer": "Melody´s Echo Chamber"},
+              { "title": "Clear The Air", "performer": "Jacco Gardner"},
+              { "title": "Hart In Brand", "performer": "Froukje, S10"}
+            ],
+            [
+              { "time": "22:04", "title": "An Angel", "performer": "I. Jordan"},
+              { "title": "5AM At Bagleys", "performer": "Gorgon City"},
+              { "title": "The Scene", "performer": "Hotline TNT"},
+              { "title": "Julia´s War", "performer": "Hotline TNT"},
+              { "title": "New Life", "performer": "Daniel Avery feat. Yune Pinku"},
+              { "title": "Goldikus", "performer": "Goldie, Rufige Kru feat. Cleveland Watkiss"},
+              { "title": "All On Top", "performer": "London Elektricity feat. Conrad Subs & Genesis Elijah"},
+              { "title": "Breaking In Reverse", "performer": "Jasmine.4.t"},
+              { "title": "Seeds Of Light", "performer": "Rose City Band"},
+              { "title": "Girl Like Me", "performer": "Pink Pantheress feat. Oklou"},
+              { "title": "Fakesnow (Ideesnoires Remix)", "performer": "Johan Agebjörn + R.Missing"},
+              { "title": "Viscus", "performer": "Oklou feat. FKA twigs"}
+            ],
+            [
+              { "time": "23:04", "title": "Heard It All Before", "performer": "Amy Wiles, Leena Punks, flowanastasia"},
+              { "title": "How To Be By Myself", "performer": "Hykken"},
+              { "title": "Seismograph", "performer": "Luis Ake feat. Tränen"},
+              { "title": "Mehringdamm", "performer": "Berliner Doom"},
+              { "title": "Revolution", "performer": "Grenzkontrolle"},
+              { "title": "Super Glyde", "performer": "Glyders"},
+              { "title": "I Am Mark E Smith (Live At Konk Studios)", "performer": "Fat White Family"},
+              { "title": "Did I Go? (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Right Here", "performer": "Fakear"},
+              { "title": "Formula", "performer": "Orbit"},
+              { "title": "Parachute", "performer": "Haley Williams"},
+              { "title": "Spookstad (NewTone Remix)", "performer": "Gotu Jim"}
             ]
           ]
         }
