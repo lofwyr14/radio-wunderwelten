@@ -15314,14 +15314,14 @@
               { "title": "What Would We Do (Lovestation 12” Mix)", "performer": "Sol Brothers"},
               { "title": "Mannequin Love (The Dare Remix)", "performer": "Justice feat. The Flints"},
               { "title": "Hands", "performer": "KEO"},
-              { "title": "Springboard", "performer": "Forth Wanderers"},
+              { "title": "Spit", "performer": "Forth Wanderers"},
               { "title": "Queens Lament", "performer": "My Baby"},
               { "title": "Aline", "performer": "Bungle"},
               { "title": "Disciple", "performer": "Bungle"},
               { "title": "Blush Response", "performer": "Dbridge & Instra:mental"},
-              { "title": "´06 Wane Rooney", "performer": "Jim Legxacy"},
+              { "title": "´06 Wayne Rooney", "performer": "Jim Legxacy"},
               { "title": "Father", "performer": "Jim Legxacy"},
-              { "title": "Bleu De HUe", "performer": "A. Sagittariun"}
+              { "title": "Bleu De Hue", "performer": "A Sagittariun"}
             ],
             [
               { "time": "22:04", "title": "We Need To Talk About Dennis", "performer": "Panic Shack"},
@@ -16322,6 +16322,51 @@
               { "title": "Formula", "performer": "Orbit"},
               { "title": "Parachute", "performer": "Haley Williams"},
               { "title": "Spookstad (NewTone Remix)", "performer": "Gotu Jim"}
+            ]
+          ]
+        },
+        {
+          "id": "51",
+          "date": "2025-12-21",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Comic Trip", "performer": "Sylvie Kreusch"},
+              { "title": "Shout", "performer": "The Liminanas"},
+              { "title": "Silk Scarf", "performer": "Tiga & Fcukers"},
+              { "title": "Baby Again", "performer": "Fred Again, Skrillex, Four Tet"},
+              { "title": "Submarine", "performer": "Kid Cudi"},
+              { "title": "Illegal", "performer": "Pink Pantheress"},
+              { "title": "Relapse", "performer": "Lily Allen"},
+              { "title": "Bleib Am Leben", "performer": "Tocotronic"},
+              { "title": "Skink", "performer": "e4444e"},
+              { "title": "Searchin´ (Bullet Tooth Remix)", "performer": "Damian Lazarus feat. Jem Cooke"},
+              { "title": "Keeo On (Extended Club Dub)", "performer": "Dusky"},
+              { "title": "Time Tourist", "performer": "My Friend"}
+            ],
+            [
+              { "time": "22:04", "title": "Perfect Stranger", "performer": "FKA twigs"},
+              { "title": "Swim", "performer": "Newmen"},
+              { "title": "Goodbye, Düsseldorf", "performer": "Sankt Otten"},
+              { "title": "Falling Down (Jonathan Kaspar Midnight Remix)", "performer": "Damian Lazarus, Teed & A-Trak"},
+              { "title": "Echo", "performer": "Teed"},
+              { "title": "Void", "performer": "HVOB"},
+              { "title": "Black Flag", "performer": "Dead Air"},
+              { "title": "Lampiao", "performer": "Shame"},
+              { "title": "Letters From Sing Sing", "performer": "Bambara"},
+              { "title": "Lippy", "performer": "Joy Orbison & Overmono feat. Skiifall"},
+              { "title": "Herz Zurück", "performer": "Ikkimel"},
+              { "title": "Black Sand", "performer": "Brainticket"}
+            ],
+            [
+              { "time": "23:04", "title": "Legend Of The Snake", "performer": "The Bollock Brothers"},
+              { "title": "Maybe Nowhere", "performer": "Emma-Jean Thackray"},
+              { "title": "Stratus", "performer": "Billy Cobham"},
+              { "title": "Buschtaxi", "performer": "DJ Koze"},
+              { "title": "Give Me Bassline", "performer": "Jon E Cash"},
+              { "title": "Only", "performer": "Little Simz"},
+              { "title": "La Perla", "performer": "Rosalia"},
+              { "title": "ARD Mediathek", "performer": "Kapatult"},
+              { "title": "Mood", "performer": "Miroslav Vitous"}
             ]
           ]
         }
