@@ -15361,6 +15361,7 @@
           "id": "30",
           "date": "2025-07-27",
           "comment": "Hey Jock! Farewell, My Friend",
+          "checked": {"date": "2026-01-03", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Faith Healer", "performer": "The Bollock Brothers"},
@@ -15370,7 +15371,7 @@
               { "title": "Dream Night", "performer": "Jamie XX"},
               { "title": "Moth", "performer": "Four Tet"},
               { "title": "Buschtaxi", "performer": "DJ Koze"},
-              { "title": "Siyobonga", "performer": "Scratcha DVA feat. DemiMa"},
+              { "title": "Siyobonga (Extended Version)", "performer": "Scratcha DVA feat. DemiMa"},
               { "title": "Round Reversion", "performer": "Rockers Hi-Fi"},
               { "title": "Ring Ring Ring", "performer": "Tyler, The Creator"}
             ],
