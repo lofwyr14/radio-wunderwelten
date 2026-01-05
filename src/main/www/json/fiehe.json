@@ -15405,7 +15405,7 @@
           "songs": [
             [
               { "time": "21:04", "title": "Lippy", "performer": "Joy Orbison & Overmono feat. Skiifall"},
-              { "title": "Lose Myself", "performer": "Night manoeuvres"},
+              { "title": "Lose Myself", "performer": "Night Manoeuvres"},
               { "title": "Rapture In Blue", "performer": "Daniel Avery feat. Cecile Believe"},
               { "title": "Corazón", "performer": "Sofia Kourtesis"},
               { "title": "Devotion", "performer": "Kareem Ali"},
@@ -16369,6 +16369,50 @@
               { "title": "La Perla", "performer": "Rosalia"},
               { "title": "ARD Mediathek", "performer": "Kapatult"},
               { "title": "Mood", "performer": "Miroslav Vitous"}
+            ]
+          ]
+        },
+        {
+          "id": "52",
+          "date": "2025-12-28",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Bumpy", "performer": "Oneohtrix Point Never"},
+              { "title": "Measuring Ruins", "performer": "Oneohtrix Point Never"},
+              { "title": "Off The Spektrum", "performer": "Damu"},
+              { "title": "Gone", "performer": "Kessler"},
+              { "title": "Magpie", "performer": "Tim Reaper, Mantra, Decibella"},
+              { "title": "Artemis", "performer": "Benji Bower & The Terra Collective Orchetra"},
+              { "title": "Any Circumstance Left", "performer": "Anonimat"},
+              { "title": "Spiral Era (Prins Thomas Remix)", "performer": "Jaga Jazzist"},
+              { "title": "By Morning", "performer": "Tessa Rose Jackson"},
+              { "title": "Reno", "performer": "Bitchin Bajas"},
+              { "title": "See Thru", "performer": "Megan Wroe"}
+            ],
+            [
+              { "time": "22:04", "title": "Silk Scarf", "performer": "Tiga feat. Fcukers"},
+              { "title": "All This Love feat. Barbara Nicole", "performer": "Ivory"},
+              { "title": "Mannequin Love (The Dare Remix)", "performer": "Justice"},
+              { "title": "Start A Fire", "performer": "Nils Hoffman feat. Kurtis Wells"},
+              { "title": "Cosmic Rising", "performer": "Mayurashka"},
+              { "title": "LSI Dreaming", "performer": "Mayurashka"},
+              { "title": "New York City", "performer": "Miroslav Vitous"},
+              { "title": "Violently Blue", "performer": "Dead Air"},
+              { "title": "Jaw", "performer": "Goon"},
+              { "title": "Somewhere, Nowhere", "performer": "Nightbus"},
+              { "title": "Hyph Mngo", "performer": "Joy Orbison"}
+            ],
+            [
+              { "time": "23:04", "title": "Piano Protocol", "performer": "Elzace"},
+              { "title": "Bus Stop Please (Sally C Remix)", "performer": "Fatboy Slim & Daniel Steinberg"},
+              { "title": "Axial SEamount", "performer": "Tortoise"},
+              { "title": "Chinaschilf", "performer": "Shatten"},
+              { "title": "Iman", "performer": "Yuuf"},
+              { "title": "Bateu Bue (Mandacaru Remix)", "performer": "Diogo"},
+              { "title": "Living Real", "performer": "Dead Man´s Chest"},
+              { "title": "Ordinary", "performer": "Bungle"},
+              { "title": "Don´t Hold Back", "performer": "EMJIE"},
+              { "title": "Outline", "performer": "DJ Hell"}
             ]
           ]
         }
