@@ -15402,6 +15402,7 @@
         {
           "id": "31",
           "date": "2025-08-03",
+          "checked": {"date": "2026-01-08", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Lippy", "performer": "Joy Orbison & Overmono feat. Skiifall"},
@@ -15429,19 +15430,20 @@
               { "title": "Darker The Better", "performer": "Debby Friday"},
               { "title": "Unsterblich", "performer": "Christin Nichols"},
               { "title": "New Radiations", "performer": "Marissa Nadler"},
-              { "title": "Leylands Lane", "performer": "Saccades"},
-              { "title": "I Don´t Know, Who Cares?", "performer": "Joyeria"},
-              { "title": "Wake The Moon", "performer": "Memory Of Jane"},
-              { "title": "Lorraine", "performer": "Ozzy Jones"}
+              { "title": "Leylands Lane", "performer": "Saccades"}
             ],
             [
-              { "time": "23:04", "title": "Pieces Falling (Gold Panda Remix)", "performer": "Bi Disc"},
+              { "time": "23:04", "title": "I Don´t Know, Who Cares?", "performer": "Joyeria"},
+              { "title": "Wake The Moon", "performer": "Memory Of Jane"},
+              { "title": "Lorraine", "performer": "Ozzy Jones"},
+              { "title": "Pieces Falling (Gold Panda Remix)", "performer": "Bi Disc"},
               { "title": "Open Up That Door", "performer": "Weval"},
               { "title": "Mysterious Traveller", "performer": "Weather Report"},
               { "title": "Fantastic", "performer": "Fox Zero T"},
               { "title": "Ordinary", "performer": "Bungle"},
               { "title": "Imaginary Festival", "performer": "Burial"},
-              { "title": "Chain Reaction (Intro Mix)", "performer": "Confidential Recipe & DJ Haus"}
+              { "title": "Chain Reaction (Intro Mix)", "performer": "Confidential Recipe & DJ Haus"},
+              { "title": "Bird On A Swing", "performer": "Cory Hanson"}
             ]
           ]
         },
