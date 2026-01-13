@@ -15450,6 +15450,7 @@
         {
           "id": "32",
           "date": "2025-08-10",
+          "comment": "Haldern Pop Festival 2025",
           "songs": [
             [
               { "time": "21:04", "title": "Get You Back", "performer": "Dualist Inquiry"},
@@ -15465,22 +15466,23 @@
               { "title": "Are You Looking For Something", "performer": "The Hobknobs"}
             ],
             [
-              { "time": "22:04", "title": "Dipping Out", "performer": "Gurriers"},
+              { "time": "22:04", "title": "Adam & Steve", "performer": "Man/Woman/Chainsaw"},
+              { "title": "Dipping Out", "performer": "Gurriers"},
               { "title": "Peace Song (A Riot In Sydenham Bus Depot, Tower Block1 Mix)", "performer": "Fat Dog"},
               { "title": "Comic Trip", "performer": "Sylvie Kreusch"},
-              { "title": "Insect", "performer": "ELLiS.D"},
+              { "title": "All These Thoughts", "performer": "Scenic Route To Alaska"},
               { "title": "Subtle Knife", "performer": "Boxed In"},
               { "title": "Still", "performer": "Shumba Maasai"},
               { "title": "How We Livin´", "performer": "Kano"},
               { "title": "Breathe", "performer": "Memory Of Jane"},
               { "title": "Ride", "performer": "Moscoman feat. Coma"},
               { "title": "Panic Attack", "performer": "Andy Bell"},
-              { "title": "Senses", "performer": "Bakey"},
-              { "title": "Neon Moon", "performer": "The Black Keys"}
+              { "title": "Senses", "performer": "Bakey"}
             ],
             [
-              { "time": "23:04", "title": "Dreams", "performer": "Infinity Song"},
-              { "title": "Prema Musiths", "performer": "Ganavya feat. Shabaka Hutchings"},
+              { "time": "23:04", "title": "Neon Moon", "performer": "The Black Keys"},
+              { "title": "Dreams", "performer": "Infinity Song"},
+              { "title": "Prema Muditha", "performer": "Ganavya feat. Shabaka Hutchings"},
               { "title": "Form A V", "performer": "Alabaster DePlume"},
               { "title": "Break The Tension", "performer": "Maruja"},
               { "title": "Mr. Famous", "performer": "Heavy Lungs"},
@@ -16415,6 +16417,58 @@
               { "title": "Ordinary", "performer": "Bungle"},
               { "title": "Don´t Hold Back", "performer": "EMJIE"},
               { "title": "Outline", "performer": "DJ Hell"}
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026",
+      "episodes": [
+        {
+          "id": "1",
+          "date": "2026-01-04",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Silva The Cat", "performer": "Jukka Tolonen"},
+              { "title": "Clifton", "performer": "Philou"},
+              { "title": "Lucky Bastard", "performer": "EV"},
+              { "title": "It´sToo Late", "performer": "The Streets"},
+              { "title": "Description", "performer": "Josh Baker"},
+              { "title": "A Headnaddas Journey To The Planet Adidi-Skizm", "performer": "Brooklyn Funk Essentials"},
+              { "title": "Nothing That I Know", "performer": "Cinnamon Gum feat. Max Shrager"},
+              { "title": "Echo", "performer": "Teed"},
+              { "title": "Call U Back", "performer": "TTSSFU"},
+              { "title": "Black Flag", "performer": "Dead Air"},
+              { "title": "Dark Days", "performer": "Yard Act"},
+              { "title": "Kill Bill", "performer": "Modeselektor"}
+            ],
+            [
+              { "time": "22:04", "title": "Talk To Me", "performer": "Rabo"},
+              { "title": "Illegal Hit", "performer": "Yttling Jazz"},
+              { "title": "Ginger Jumps The Fence", "performer": "The Herbaliser"},
+              { "title": "That Ol´ Bus Smell", "performer": "Peter Herbolzheimer"},
+              { "title": "Ride The Rhythm", "performer": "Luke Alessi & William Kiss"},
+              { "title": "Rock & Roll (Don´t Let The Rock Roll U)", "performer": "Lezard"},
+              { "title": "Ground", "performer": "Gustaf"},
+              { "title": "Dream Of Love", "performer": "Viikatory"},
+              { "title": "Guapo (Fcukers Remix)", "performer": "Girl Ultra"},
+              { "title": "Staub", "performer": "Kombynat Robotron"}
+            ],
+            [
+              { "time": "23:04", "title": "Hoe Hoe Hoe", "performer": "6euroneunzig"},
+              { "title": "Stoned And Starving", "performer": "Parquet Courts"},
+              { "title": "Billie Toppy (2025)", "performer": "Men I Trust"},
+              { "title": "Ascension", "performer": "Nightbus"},
+              { "title": "Oyun", "performer": "Peki Momes"},
+              { "title": "Heaven To A Heathen", "performer": "Elin Hall"},
+              { "title": "Feeling It All", "performer": "Nadia Kadek"},
+              { "title": "Take The L Train (To 8th Ave.) Calibre Remix", "performer": "Brooklyn Funk Essentials"},
+              { "title": "She Is The Daylight", "performer": "Flying Saucer Attack"},
+              { "title": "Begin Here", "performer": "Goon"},
+              { "title": "Nightmares", "performer": "Hamdi feat. Issey Cross"},
+              { "title": "WAPO", "performer": "Scratchclart eat. Pit & JLSXND7RS"},
+              { "title": "Dozer", "performer": "Plantoid"}
             ]
           ]
         }
