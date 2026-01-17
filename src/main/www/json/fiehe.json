@@ -15451,6 +15451,7 @@
           "id": "32",
           "date": "2025-08-10",
           "comment": "Haldern Pop Festival 2025",
+          "checked": {"date": "2026-01-12", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Get You Back", "performer": "Dualist Inquiry"},
@@ -15497,6 +15498,7 @@
         {
           "id": "33",
           "date": "2025-08-17",
+          "checked": {"date": "2026-01-17", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Comfort Inn (Lauer Trip Mix)", "performer": "Newmen"},
@@ -15514,12 +15516,12 @@
             ],
             [
               { "time": "22:04", "title": "All My Life", "performer": "The Black Keys"},
-              { "title": "Rude Lil Guy", "performer": "Jason Code"},
+              { "title": "Glitching In The Wraith", "performer": "Jason Code"},
               { "title": "See Thru", "performer": "Megan Wroe"},
               { "title": "God Made Me Funky (Remix)", "performer": "Jon E Cash"},
-              { "title": "Did I Go? (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Did I Go? (Ikonika Extended Remix)", "performer": "Ebba Asman"},
               { "title": "Tony´s House", "performer": "Captain Planet & Tony Allen"},
-              { "title": "Searchin´ (THEMBA Remix)", "performer": "Damian Lazarus feat. Jem Cooke"},
+              { "title": "Searchin´ (THEMBA´S CLub Remix)", "performer": "Damian Lazarus feat. Jem Cooke"},
               { "title": "Easy", "performer": "Bleary Eyed"},
               { "title": "Racing Mount Pleasant", "performer": "Racing Mount Pleasant"},
               { "title": "Feel The Rhythm", "performer": "Lown"}
@@ -15530,7 +15532,7 @@
               { "title": "It Hits Harder", "performer": "Marissa Nadler"},
               { "title": "A Girl Named Dogie", "performer": "Cass McCombs"},
               { "title": "Peace", "performer": "Cass McCombs"},
-              { "title": "The Curse", "performer": "Natalie Slade"},
+              { "title": "The Lesson", "performer": "Natalie Slade"},
               { "title": "No More Old Men", "performer": "Chance The Rapper feat. Jamila Woods"},
               { "title": "Get Out Of My Head", "performer": "Gush Collective presents Matt Flores"},
               { "title": "Where Are You Tonight", "performer": "Nate08 feat. Dishaan & Mallika"},
