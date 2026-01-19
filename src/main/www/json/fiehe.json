@@ -15576,7 +15576,7 @@
             ],
             [
               { "time": "23:04", "title": "Was kostet die Welt", "performer": "Der Assistent"},
-              { "title": "Bar Dancing", "performer": "Paradigm X"},
+              { "title": "Bar Dancing (Extended Mix)", "performer": "Paradigm X"},
               { "title": "Halkidiki (Joyce Muniz Remix)", "performer": "Dina Summer"},
               { "title": "Crimson Rain", "performer": "Kalipo"},
               { "title": "L´Amour, La Danse, La Revolution", "performer": "Poison Gauchiste"},
@@ -16473,7 +16473,53 @@
               { "title": "Dozer", "performer": "Plantoid"}
             ]
           ]
+        },
+        {
+          "id": "2",
+          "date": "2026-01-11",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Religion For One – Live At Konk Studios", "performer": "Fat White Family"},
+              { "title": "Early Signs Of Rhythm", "performer": "Art Feynman"},
+              { "title": "Forever Anyway (True Yorker Remix)", "performer": "John Barera"},
+              { "title": "Done Deal", "performer": "Zak Cox"},
+              { "title": "Early Shift", "performer": "Roska"},
+              { "title": "UK Funky DJ Set", "performer": "Cooly G"},
+              { "title": "The Sounds Of The Underground Aka Da Dondi Riddem", "performer": "Jon E Cash"},
+              { "title": "Blood", "performer": "Dry Cleaning"},
+              { "title": "Punk Rocky", "performer": "ASAP Rocky"},
+              { "title": "Submarine", "performer": "Kid Cudi"},
+              { "title": "Fliegen", "performer": "Twin Noir"}
+            ],
+            [
+              { "time": "22:04", "title": "Mothers Of Riches", "performer": "Cate Le Bon"},
+              { "title": "Space Woman", "performer": "Charlie"},
+              { "title": "We All Need Love", "performer": "Leo Pol"},
+              { "title": "Dopamine (Marlon Hoffstadt Remix)", "performer": "Robyn"},
+              { "title": "Echo Park Donut", "performer": "Luke Temple + The Cascading Moms"},
+              { "title": "Let Me Grow And You´ll See The Fruit", "performer": "Dry Cleaning"},
+              { "title": "Color Bars", "performer": "Elliott Smith"},
+              { "title": "Heaven 2", "performer": "Lala Lala"},
+              { "title": "GNZRZND", "performer": "Die Sterne"},
+              { "title": "Let´s See How Things Go", "performer": "Jaako Eino Kalevi"}
+            ],
+            [
+              { "time": "23:04", "title": "Black Flag", "performer": "Dead Air"},
+              { "title": "Cold Metal", "performer": "Iggy Pop"},
+              { "title": "All Things Must Come To An End (Club Version)", "performer": "Kalipo"},
+              { "title": "Out Of The Future", "performer": "Geeneus"},
+              { "title": "The Last Mile Of The Way", "performer": "Byron The Aquarius"},
+              { "title": "On Holiday", "performer": "Seven Davis Junior"},
+              { "title": "CIXOT", "performer": "Scratchclart feat. A Y A N"},
+              { "title": "Fear Bangs The Drum", "performer": "Tessa Rose Jackson"},
+              { "title": "Always Almost Losing You", "performer": "Nadia Kadek"},
+              { "title": "Hit My Head All Day", "performer": "Dry Cleaning"},
+              { "title": "Untitled", "performer": "Unknown"},
+              { "title": "Yeah Yeah", "performer": "Highlite & Prana Flow"}
+            ]
+          ]
         }
+
       ]
     }
   ]
