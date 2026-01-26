@@ -15593,11 +15593,12 @@
         {
           "id": "35",
           "date": "2025-08-31",
+          "checked": {"date": "2026-01-26", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Double Luxury", "performer": "salute"},
               { "title": "Always Be", "performer": "Sophie Lloyd feat. Fleur De Mur"},
-              { "title": "I Ain´t Gonna Hurry", "performer": "Pietro Morello"},
+              { "title": "I Ain´t Gonna Hurry (Extended Mix)", "performer": "Pietro Morello"},
               { "title": "Control (Richard Fearless Remix)", "performer": "Froid Dub"},
               { "title": "Lazy", "performer": "Automatic"},
               { "title": "Lippy", "performer": "Joy Orbison & Overmono feat. Skiifall"},
@@ -15614,24 +15615,25 @@
               { "title": "Need To Run", "performer": "Herbert & Momoko"},
               { "title": "Moodified", "performer": "rRoxymore"},
               { "title": "Until The End Of The World", "performer": "John Tejada"},
-              { "title": "The Echo (Dusky Remix)", "performer": "Teed"},
+              { "title": "The Echo (Dusky Remix) (Extended)", "performer": "Teed"},
               { "title": "Metal", "performer": "The Beths"},
               { "title": "Danger In Fives", "performer": "Wombo"},
               { "title": "In Your Pocket", "performer": "Packaging"},
-              { "title": "Do It Again", "performer": "Submerse & Fluid Haunts"}
+              { "title": "Invisible Dub", "performer": "Dub Head"}
             ],
             [
-              { "time": "23:04", "title": "If We Ever", "performer": "Overmono & High Contrast"},
+              { "time": "23:04", "title": "Do It Again", "performer": "Submerse & Fluid Haunts"},
+              { "title": "If We Ever", "performer": "Overmono & High Contrast"},
               { "title": "(I Don´t Want To) Fly Away", "performer": "London Elektricity feat. Liana Caroll"},
-              { "title": "Mann Muss", "performer": "Apache 207"},
+              { "title": "Mann muss", "performer": "Apache 207"},
               { "title": "Ritalin", "performer": "GbR feat. Urbannino"},
               { "title": "Spartak", "performer": "Shame"},
-              { "title": "Like James Said", "performer": "U.S.GIrls"},
-              { "title": "Ba Yeba (Benyayer Remix)", "performer": "Liz IKamba"},
+              { "title": "Like James Said", "performer": "U.S.Girls"},
+              { "title": "Ba Yeba (Benyayer Remix) (Extended Version)", "performer": "Liz Ikamba"},
               { "title": "End Of Summer", "performer": "Tame Impala"},
               { "title": "An Angel", "performer": "I.Jordan feat. Tom Rasmussen"},
               { "title": "Fear 25", "performer": "Greta Levska & Lost Magpie"},
-              { "title": "The Field", "performer": "Blood Orange feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek"}
+              { "title": "Vivid Light", "performer": "Blood Orange"}
             ]
           ]
         },
