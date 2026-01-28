@@ -15640,11 +15640,11 @@
         {
           "id": "36",
           "date": "2025-09-07",
+          "checked": {"date": "2026-01-28", "user": "jg"},
           "songs": [
             [
-              { "time": "21:04", "title": "Running", "performer": "Animal Trainer feat. Noah Kulaga"},
-              { "title": "", "performer": "Sienna & Tom Middleton"},
-              { "title": "YNTOO (Extended ´92 Remix)", "performer": ""},
+              { "time": "21:04", "title": "Running (Extended Mix)", "performer": "Animal Trainer feat. Noah Kulaga"},
+              { "title": "YNTOO (Extended ´92 Remix)", "performer": "Sienna & Tom Middleton"},
               { "title": "The Cycle", "performer": "Flava D feat. Lauren Archer"},
               { "title": "Yes I Want It Too", "performer": "Faithless feat. Antony Szmierek"},
               { "title": "Green Tea", "performer": "Roska"},
@@ -15670,8 +15670,8 @@
               { "title": "Breathe", "performer": "Crvvcks & Az Always"}
             ],
             [
-              { "time": "23:04", "title": "Let The Music Decide", "performer": "Unknown Artist"},
-              { "title": "Left To Right", "performer": "Acid Harry"},
+              { "time": "23:04", "title": "Let The Music Decide", "performer": "Faithless"},
+              { "title": "Left To Right (Extended Mix)", "performer": "Acid Harry"},
               { "title": "Magic Plant", "performer": "La Chooma"},
               { "title": "No Fear", "performer": "Big Thief"},
               { "title": "Shining", "performer": "Mac DeMarco"},
