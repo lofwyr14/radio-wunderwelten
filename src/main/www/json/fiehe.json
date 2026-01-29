@@ -16521,6 +16521,51 @@
               { "title": "Yeah Yeah", "performer": "Highlite & Prana Flow"}
             ]
           ]
+        },
+        {
+          "id": "3",
+          "date": "2026-01-18",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Remote Location", "performer": "Viridity feat. Verbz"},
+              { "title": "Elephant Clouds (Trance Wax Remix)", "performer": "Morcheeba"},
+              { "title": "DTT (dubtroptrance)", "performer": "GGGG"},
+              { "title": "Evergreen In Your Mind", "performer": "Juni Habel"},
+              { "title": "Derhan N´Oulhine", "performer": "Imarhan"},
+              { "title": "DRK TNL", "performer": "BIG REG"},
+              { "title": "Fool", "performer": "Maya Jane Coles"},
+              { "title": "I Wanna Know", "performer": "DJ Tennis & Ashee"},
+              { "title": "Kill List", "performer": "Sleaford Mods feat. Snowy"},
+              { "title": "Silk Scarf", "performer": "Tiga + Fcukers"},
+              { "title": "Iteration 1", "performer": "Man Power"}
+            ],
+            [
+              { "time": "22:04", "title": "Robbery", "performer": "A$AP Rocky feat. Doechi"},
+              { "title": "Stay Here 4Life", "performer": "A$AP Rocky feat. Thundercat"},
+              { "title": "247", "performer": "Monrroe + Duskee"},
+              { "title": "The Man I´m Supposed To Be", "performer": "Bill Callahan"},
+              { "title": "Falling Down (Jonathan Kaspar Midnight Remix)", "performer": "Damian Lazarus,Teed & A-Trak"},
+              { "title": "2 (Sweat Music)", "performer": "RFI feat. Princess Superstar"},
+              { "title": "Chanteo", "performer": "Nic Vesperi & Taranco"},
+              { "title": "It´s Magic", "performer": "Alinka"},
+              { "title": "How The Story Ends", "performer": "The Notwist"},
+              { "title": "Hit ´n´ Run", "performer": "Formal Sppeedwear"}
+            ],
+            [
+              { "time": "23:04", "title": "Pontiac Spirits (Ghost Remix)", "performer": "The Besnard Lakes"},
+              { "title": "Night Owl", "performer": "Shaking Hand"},
+              { "title": "Double Diamond", "performer": "Sleaford Mods"},
+              { "title": "Falling", "performer": "Shimza, Elderbrook"},
+              { "title": "Start A Fire", "performer": "Nils Hoffmann feat. Kurtis Wells"},
+              { "title": "Prayer", "performer": "Tove Styrke"},
+              { "title": "Edges", "performer": "Sassy 009"},
+              { "title": "Ändern wir je den Akkord?", "performer": "Die Sterne"},
+              { "title": "Call U Back", "performer": "TTSSFU"},
+              { "title": "Yoyak (Kosh Remix)", "performer": "GGGG"},
+              { "title": "Anzac Bells", "performer": "Jani Ho"},
+              { "title": "50.000 Watts (LO´99 Remix)", "performer": "Joanna Magik"}
+            ]
+          ]
         }
 
       ]
