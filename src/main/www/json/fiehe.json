@@ -16568,6 +16568,52 @@
               { "title": "50.000 Watts (LO´99 Remix)", "performer": "Joanna Magik"}
             ]
           ]
+        },
+        {
+          "id": "4",
+          "date": "2026-01-25",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Eureka", "performer": "Romain Garcia"},
+              { "title": "Acid Mouth", "performer": "PBR Streetgang"},
+              { "title": "Fatal Error", "performer": "Fatal Error"},
+              { "title": "Stack Up The Reasons", "performer": "Stone"},
+              { "title": "Washing Machine", "performer": "Urlaub in Polen"},
+              { "title": "Let´s Fk", "performer": "Rebekah Abdeen"},
+              { "title": "Plush", "performer": "DJ Seinfeld"},
+              { "title": "L.U.C.K.Y", "performer": "Fcukers"},
+              { "title": "Double Diamond", "performer": "Sleaford Mods"},
+              { "title": "Nuts", "performer": "John Paul"},
+              { "title": "Sadness", "performer": "C Duncan"},
+              { "title": "All In Bet", "performer": "Jana Horn"}
+            ],
+            [
+              { "time": "22:04", "title": "Two Satellites", "performer": "Someone feat. C Duncan"},
+              { "title": "The Man Who Wasn´t There", "performer": "Tessa Rose Jackson"},
+              { "title": "Rain", "performer": "PVA"},
+              { "title": "Stardust", "performer": "Julianna Barwick, Mary Lattimore"},
+              { "title": "Hibiscus (instr.)", "performer": "Carre"},
+              { "title": "Hibiscus", "performer": "Carre feat. Bbyafricka"},
+              { "title": "Smooce Dol", "performer": "GGGG"},
+              { "title": "Do It For The Pay", "performer": "Dead Air"},
+              { "title": "That´s Your Lot", "performer": "The Bevis Frond"},
+              { "title": "Punk Rocky", "performer": "A$AP Rocky"},
+              { "title": "Control", "performer": "Arielle Free & Be Chalotte"}
+            ],
+            [
+              { "time": "23:04", "title": "Wrong Idea", "performer": "Confidence Man"},
+              { "title": "2 (Sweat Music)", "performer": "RFI feat. Princess Superstar"},
+              { "title": "Hot Wife", "performer": "Tiga + Boys Noize"},
+              { "title": "Make You House", "performer": "Julian Fox"},
+              { "title": "Talk To Me", "performer": "Daphni"},
+              { "title": "Saawaro Chalave", "performer": "Julie Hill ft. Bharatiya Sangeetalay"},
+              { "title": "Want U Bad", "performer": "Solah"},
+              { "title": "Opening Night", "performer": "Arctic Monkeys"},
+              { "title": "Luftschloss", "performer": "Rheintraum"},
+              { "title": "Abacus", "performer": "Urlaub in Polen"},
+              { "title": "Yours", "performer": "Urlaub in Polen"}
+            ]
+          ]
         }
       ]
     }
