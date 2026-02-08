@@ -15709,10 +15709,10 @@
               { "title": "Cabin Fever", "performer": "Jaden"},
               { "title": "Sunrise (Adam Ten Remix)", "performer": "Shouse"},
               { "title": "Left Of The Dealer", "performer": "Ocean Alley"},
-              { "title": "10 Minutos", "performer": "DJ Kicks by Modeselektor: DJ Narciso"},
-              { "title": "Mood Swings", "performer": "DJ Kicks by Modeselektor: Little Simz"},
-              { "title": "Ouverture", "performer": "DJ Kicks by Modeselektor: Maxime Denuc"},
-              { "title": "Movement", "performer": "DJ Kicks by Modeselektor: Modeselektor feat. Paul St. Hilaire"},
+              { "title": "10 Minutos (Mixed)", "performer": "DJ Kicks - Modeselektor - DJ Narciso"},
+              { "title": "Mood Swings (Mixed)", "performer": "DJ Kicks - Modeselektor - Little Simz"},
+              { "title": "Ouverture (Mixed)", "performer": "DJ Kicks - Modeselektor - Maxime Denuc"},
+              { "title": "Movement (Mixed)", "performer": "DJ Kicks - Modeselektor - Modeselektor feat. Paul St. Hilaire"},
               { "title": "Dancing On My Own", "performer": "Spoke"},
               { "title": "Say It With Your Body", "performer": "Bklava"},
               { "title": "Take A Little Trip", "performer": "Grooveworks"},
@@ -15739,6 +15739,7 @@
         {
           "id": "38",
           "date": "2025-09-21",
+          "checked": {"date": "2026-02-08", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "See Thru", "performer": "Megan Wroe"},
@@ -15758,32 +15759,32 @@
             ],
             [
               { "time": "22:04", "title": "Alive", "performer": "Luciano"},
-              { "title": "Only LOve", "performer": "Düzer"},
+              { "title": "Only Love", "performer": "Düzer"},
               { "title": "Magpie", "performer": "Tim Reaper, Mantra & Decibella"},
               { "title": "Governor´s Bay", "performer": "Om Unit"},
-              { "title": "Shangri La", "performer": "Need For Mirrors"},
+              { "title": "Shangri-La", "performer": "Need For Mirrors"},
               { "title": "Wachstumsschmerzen", "performer": "Akryl"},
               { "title": "Bad Luck", "performer": "M.Byrd"},
               { "title": "Medicate Yourself", "performer": "Coach Party"},
               { "title": "Children Of The Baked Potato", "performer": "Thundercat feat. Remi Wolf"},
               { "title": "About Time", "performer": "Cate Le Bon"},
-              { "title": "Spillhaugen", "performer": "DJ Kicks - Modeselektor - Beirut"},
-              { "title": "Spellbound", "performer": "DJ Kicks - Modeselektor – Kaan Pirecioglu"}
+              { "title": "Spillhaugen (Mixed)", "performer": "DJ Kicks - Modeselektor - Beirut"},
+              { "title": "Spellbound (Mixed)", "performer": "DJ Kicks - Modeselektor – Kaan Pirecioglu"}
             ],
             [
               { "time": "23:04", "title": "Now That You´re Gone", "performer": "Nation Of Language"},
               { "title": "Aurora", "performer": "Lathe Of Heaven"},
               { "title": "Wie du heisst", "performer": "Berliner Doom"},
               { "title": "Rage", "performer": "Sprints"},
-              { "title": "Pollyanna", "performer": "Just MUstard"},
+              { "title": "Pollyanna", "performer": "Just Mustard"},
               { "title": "Reno", "performer": "Bitchin Bajas"},
-              { "title": "Shoalin Satellite", "performer": "DJ Kicks - Kruder & Dorfmeister - Thievery Corporation"},
+              { "title": "Shoalin Satellite (Mixed)", "performer": "DJ Kicks - Kruder & Dorfmeister - Thievery Corporation"},
               { "title": "High Noon", "performer": "DJ Kicks - Kruder & Dorfmeister"},
               { "title": "Makes Me Wanna Dance", "performer": "Zimmer90"},
               { "title": "Daisy", "performer": "Melody´s Echo Chamber feat. El Michels Affair"},
               { "title": "Deutsche Hippies in Portugal", "performer": "AUGN"},
               { "title": "Leave A Message", "performer": "Josh Baker feat. Poppy Wright & Trick Shady"},
-              { "title": "Can We Ignore It?:(", "performer": "Lola Young"}
+              { "title": "Can We Ignore It? :(", "performer": "Lola Young"}
             ]
           ]
         },
