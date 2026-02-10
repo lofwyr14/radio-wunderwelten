@@ -16615,6 +16615,50 @@
               { "title": "Yours", "performer": "Urlaub in Polen"}
             ]
           ]
+        },
+        {
+          "id": "5",
+          "date": "2026-02-01",
+          "songs": [
+            [
+              { "time": "21:04", "title": "In Search Of Young", "performer": "Yin Yin"},
+              { "title": "Clifton Groove", "performer": "Philou"},
+              { "title": "The Sun", "performer": "Re-Type"},
+              { "title": "Don´t Fear The Fear", "performer": "Markus Nikolaus"},
+              { "title": "Inept Apollo (Tom Sharkett Remix)", "performer": "Nation Of Language"},
+              { "title": "It´s 5AM Somewhere", "performer": "Tom Sharkett"},
+              { "title": "Dalig Teve", "performer": "Dina Ögon"},
+              { "title": "The Specialist Funk", "performer": "DJ Die"},
+              { "title": "Big Bad Wolf", "performer": "Labrinth"},
+              { "title": "La Perla", "performer": "Rosalia"},
+              { "title": "Say Nothing", "performer": "Solomun, Denis Sulta"}
+            ],
+            [
+              { "time": "22:04", "title": "Heart Trance Plant", "performer": "Dusky"},
+              { "title": "Spookstad (Newton Remix)", "performer": "Gotu Jim"},
+              { "title": "We Left The Lights On (Extended)", "performer": "STÜM and X & Ivy"},
+              { "title": "Grey Guitar", "performer": "Joyce Manor"},
+              { "title": "Fliegen", "performer": "Twin Noir"},
+              { "title": "Hauptstadt der Schmerzen", "performer": "Otto Von Bismarck"},
+              { "title": "Alpha Centauri", "performer": "Marta Del Grandi"},
+              { "title": "Hum Of Maybe", "performer": "Apparat"},
+              { "title": "Amiga (bdrmm Remix)", "performer": "Glok feat. Timothy Clerkin"},
+              { "title": "Flow State", "performer": "Portek"}
+            ],
+            [
+              { "time": "23:04", "title": "Tu du es vida (You Are Life)", "performer": "Furney feat. Lady Emz"},
+              { "title": "Remote Location", "performer": "Viridity feat. Verby"},
+              { "title": "Make You Understand", "performer": "Submorphics"},
+              { "title": "Something Good", "performer": "Onslow"},
+              { "title": "Doves", "performer": "The Spirit Project & Starving Yet Full"},
+              { "title": "Up The Ante(lope)", "performer": "Shaking Hand"},
+              { "title": "Ultivatum Cultivation", "performer": "Plantoid"},
+              { "title": "Manticore", "performer": "Dusky"},
+              { "title": "Mantra", "performer": "Grim 104"},
+              { "title": "Creals", "performer": "Lukas Oscar"},
+              { "title": "Onions", "performer": "Lukas Oscar"}
+            ]
+          ]
         }
       ]
     }
