@@ -15791,6 +15791,7 @@
         {
           "id": "39",
           "date": "2025-09-28",
+          "checked": {"date": "2026-02-18", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Euro", "performer": "Dublon"},
@@ -15826,10 +15827,9 @@
               { "title": "Piano Protocol", "performer": "Elzace"},
               { "title": "Draw A Line", "performer": "Lu.Re"},
               { "title": "Brainwave 2.0 (Raxon Mix)", "performer": "Michael Mayer"},
-              { "title": "We Still Dancin", "performer": "Dave Aju & Rodney"},
+              { "title": "We Still Dancin (OG Vocal Mix)", "performer": "Dave Aju & Rodney"},
               { "title": "Yekermo Sew", "performer": "Mulatu Astatke"},
-              { "title": "Always Lost", "performer": "Emma Hessels"},
-              { "title": "Yekermo Sew", "performer": "Mulatu Astatke"}
+              { "title": "Always Lost", "performer": "Emma Hessels"}
             ]
           ]
         },
