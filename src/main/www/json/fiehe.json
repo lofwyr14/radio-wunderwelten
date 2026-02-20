@@ -16659,6 +16659,54 @@
               { "title": "Onions", "performer": "Lukas Oscar"}
             ]
           ]
+        },
+        {
+          "id": "3",
+          "date": "2026-02-08",
+          "songs": [
+            [
+              { "time": "21:04", "title": "nohopecore", "performer": "Kerker"},
+              { "title": "Trippin´", "performer": "Deep Colorsa"},
+              { "title": "Black Hall", "performer": "Did Virgo feat. Lena"},
+              { "title": "God Sigma (Wilian Krupp Remix)", "performer": "DJ Ruby"},
+              { "title": "Xylophonica", "performer": "Method"},
+              { "title": "Multicolor", "performer": "Yael Naim"},
+              { "title": "Fotzen an die Macht", "performer": "6euroneunzig"},
+              { "title": "This Music", "performer": "J. Matin"},
+              { "title": "Be The One (Meramek Remix)", "performer": "Oliver Smith & Benjamin Roustaing"},
+              { "title": "Build A Box Then Break It", "performer": "Ulrika Spacek"},
+              { "title": "This Time I´m Present", "performer": "Ulrika Spacek"}
+            ],
+            [
+              { "time": "22:04", "title": "Hear You Speak", "performer": "Dan Whitlam feat. Tamzene"},
+              { "title": "Juvel", "performer": "Dina Ögon"},
+              { "title": "Chemin De La Baie", "performer": "The Besnard Lakes"},
+              { "title": "Open Your Mind", "performer": "Paffetti aka Black Loops"},
+              { "title": "House Tool", "performer": "The Trip"},
+              { "title": "Nobody But You", "performer": "The Sheepdogs"},
+              { "title": "You Got To Lose", "performer": "The Black Keys"},
+              { "title": "She´s About A Mover", "performer": "Sir Douglas Quintett"},
+              { "title": "(God Created) Lock And Key", "performer": "White Denim"},
+              { "title": "The Information", "performer": "Dream Nails"},
+              { "title": "Es könnte alles ganz anders sein", "performer": "Kapatult"},
+              { "title": "The Continue", "performer": "D Stone"}
+            ],
+            [
+              { "time": "23:04", "title": "Sweet Sound", "performer": "S.P.Y feat.The Melody Men"},
+              { "title": "Remote Location", "performer": "Viridity feat. Verbz"},
+              { "title": "Did You Really", "performer": "Business As Usual feat. Oktae"},
+              { "title": "Porcelain", "performer": "Boofy"},
+              { "title": "No Hesitating (Max Dean Remix)", "performer": "Joe Rolet"},
+              { "title": "Clap Your Hands", "performer": "Daphni"},
+              { "title": "Glow", "performer": "Dua Saleh feat. Bon Iver"},
+              { "title": "I´ll Change For You", "performer": "Mitski"},
+              { "title": "Incomplete Symphony", "performer": "Ulrika Spacek"},
+              { "title": "The Witching Hour (Richard Sen Remix)", "performer": "Glok/Timothy Clerkin"},
+              { "title": "Real High", "performer": "Regi"},
+              { "title": "Choreography", "performer": "abentis"},
+              { "title": "Sure & Steady", "performer": "The Wave Pictures"}
+            ]
+          ]
         }
       ]
     }
