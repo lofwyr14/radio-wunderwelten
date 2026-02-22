@@ -15851,7 +15851,7 @@
               { "title": "Fallen und schweben", "performer": "Rauchen"}
             ],
             [
-              { "time": "22:04", "title": "Hack The System", "performer": "Joyce Muniz"},
+              { "time": "22:04", "title": "Hack The System (Extended Version)", "performer": "Joyce Muniz"},
               { "title": "Synthesizer", "performer": "Airwolf  Paradise"},
               { "title": "Synthesizer", "performer": "Electric Six"},
               { "title": "Kiss Me In The Morning", "performer": "Pauls Jets"},
@@ -15859,7 +15859,7 @@
               { "title": "Simile", "performer": "Adekunle Gold feat. Soweto Gospel Choir"},
               { "title": "Oba", "performer": "Adekunle Gold"},
               { "title": "Roulette", "performer": "Alfa Mist"},
-              { "title": "Mantra", "performer": "Shaking Hand"},
+              { "title": "Mantras", "performer": "Shaking Hand"},
               { "title": "Greek Fire", "performer": "Saccades"},
               { "title": "Always Lost", "performer": "Emma Hessels"}
             ],
@@ -16661,7 +16661,7 @@
           ]
         },
         {
-          "id": "3",
+          "id": "6",
           "date": "2026-02-08",
           "songs": [
             [
