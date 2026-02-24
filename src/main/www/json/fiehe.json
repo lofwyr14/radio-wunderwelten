@@ -15836,6 +15836,7 @@
         {
           "id": "40",
           "date": "2025-10-05",
+          "checked": {"date": "2026-02-22", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Opalite", "performer": "Taylor Swift"},
@@ -15869,9 +15870,9 @@
               { "title": "Nobody Told Me", "performer": "Notre Dame"},
               { "title": "Rooster", "performer": "Bar Italia"},
               { "title": "Blicke kreuzen", "performer": "frytz"},
-              { "title": "Bodies", "performer": "Need For Mirrors"},
+              { "title": "Peter Pan", "performer": "Need For Mirrors"},
               { "title": "Synodical Return", "performer": "Yorobi & Tim Reaper"},
-              { "title": "DUsk", "performer": "Johan Agebjörn"},
+              { "title": "Dusk", "performer": "Johan Agebjörn"},
               { "title": "Grand Prix", "performer": "Nala Sinephro"},
               { "title": "Imafan", "performer": "Makaya McCraven"}
             ]
@@ -15896,7 +15897,7 @@
               { "title": "Call Coco", "performer": "9Oases"}
             ],
             [
-              { "time": "22:04", "title": "Have You Lost Your Mind", "performer": "Tony Y Not"},
+              { "time": "22:04", "title": "Have You Lost Your Mind?", "performer": "Tony Y Not"},
               { "title": "Wrong Idea", "performer": "Confidence Man"},
               { "title": "The Right", "performer": "DJ Seinfeld, Confidence Man"},
               { "title": "She Who Dares", "performer": "Say She She"},
@@ -16705,6 +16706,47 @@
               { "title": "Real High", "performer": "Regi"},
               { "title": "Choreography", "performer": "abentis"},
               { "title": "Sure & Steady", "performer": "The Wave Pictures"}
+            ]
+          ]
+        },
+        {
+          "id": "7",
+          "date": "2026-02-15",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Higher Power", "performer": "Asa Tate"},
+              { "title": "Round Reversion", "performer": "Rockers Hi-Fi"},
+              { "title": "The Strobe", "performer": "Lance DeSardi"},
+              { "title": "Wuppertal", "performer": "Shatten"},
+              { "title": "Super Sonic Youth", "performer": "Nils Keppler"},
+              { "title": "Swamp Thing", "performer": "The Chameleons"},
+              { "title": "Altars", "performer": "Charli XCX"},
+              { "title": "20 Days Of Summer", "performer": "Marta Del Grandi"}
+            ],
+            [
+              { "time": "22:04", "title": "Lonely City", "performer": "Bill Callahan"},
+              { "title": "Right Here Right Now", "performer": "Jill Scott"},
+              { "title": "Rain", "performer": "Animal Trainer"},
+              { "title": "Apollo", "performer": "Burnski & Kepler"},
+              { "title": "Es bringt mir nichts", "performer": "Kapa Tult"},
+              { "title": "Du siehst mich nicht", "performer": "Kapa Tult"},
+              { "title": "Beatback", "performer": "Fcukers"},
+              { "title": "Nothing Forever (Tom Sharkett Remix)", "performer": "Glok feat.Timothy Clerkin"},
+              { "title": "Luft Für Dich", "performer": "Twin Noir"},
+              { "title": "Sanity", "performer": "Killing Joke"}
+            ],
+            [
+              { "time": "23:04", "title": "deathwish", "performer": "The Haunted Youth"},
+              { "title": "nohopecore", "performer": "Kerker"},
+              { "title": "Far Side Of The Moon", "performer": "Chet Faker"},
+              { "title": "Quero Tu Amor", "performer": "Joyce Muniz + Andre VII feat. Alejandro Paz"},
+              { "title": "Come With Me", "performer": "Gorge"},
+              { "title": "Fill The Hours (Massimiliano Pagliara Remix)", "performer": "Hard Ton & Amy Douglas"},
+              { "title": "Another Way", "performer": "Pictish Trail"},
+              { "title": "Too Late Now", "performer": "Alice Costelloe"},
+              { "title": "(Me Tomorrow)", "performer": "Tofusmell"},
+              { "title": "Tropic Of Cancer", "performer": "Asa Tate"},
+              { "title": "Utopia", "performer": "Paffetti AKA Black Loops"}
             ]
           ]
         }
