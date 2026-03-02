@@ -15931,9 +15931,9 @@
           "songs": [
             [
               { "time": "21:04", "title": "Tatort", "performer": "Klaus Doldinger´s Passport"},
-              { "title": "Moon", "performer": "Skream & Krystal Klear"},
+              { "title": "Moon (Extended Mix)", "performer": "Skream & Krystal Klear"},
               { "title": "Higher", "performer": "Pablo Bozzi feat. Lexi L´Acqua"},
-              { "title": "The Nature Of POwer", "performer": "Sudan Archives"},
+              { "title": "The Nature Of Power", "performer": "Sudan Archives"},
               { "title": "Always Calling", "performer": "Packaging"},
               { "title": "Running Through The Airport", "performer": "Packaging feat. Cindygod"},
               { "title": "Andy Nogger", "performer": "Kraan"},
@@ -16748,6 +16748,53 @@
               { "title": "(Me Tomorrow)", "performer": "Tofusmell"},
               { "title": "Tropic Of Cancer", "performer": "Asa Tate"},
               { "title": "Utopia", "performer": "Paffetti AKA Black Loops"}
+            ]
+          ]
+        },
+        {
+          "id": "8",
+          "date": "2026-02-22",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Arise", "performer": "Helicon & Al Lover"},
+              { "title": "Leave Them All Behind", "performer": "Ride"},
+              { "title": "All In Your Head", "performer": "Markus Nikolaus"},
+              { "title": "Choirs To Heaven", "performer": "Lea Porcelain"},
+              { "title": "Fisherboy", "performer": "Jet Li"},
+              { "title": "Aline", "performer": "Bungle"},
+              { "title": "Cast No Shadow", "performer": "Kumarachi"},
+              { "title": "Neredesin Sen", "performer": "Altin Gün"},
+              { "title": "Sayl Damei", "performer": "Sanam"},
+              { "title": "In My Dreams", "performer": "Habibi"},
+              { "title": "Multicolor", "performer": "Yael Naim"}
+            ],
+            [
+              { "time": "22:04", "title": "Pulse (DOT (BR) Remix)", "performer": "Sunchain"},
+              { "title": "Pablito", "performer": "George Feely"},
+              { "title": "Bump (Paradise)", "performer": "Vibe Killers & Javi Bora"},
+              { "title": "Miami", "performer": "Pigeon"},
+              { "title": "Jet Stream Heart", "performer": "Temples"},
+              { "title": "Money (Hope Ain´t Gone)", "performer": "Stone"},
+              { "title": "Stack Up The Reasons", "performer": "Stone"},
+              { "title": "Feels Like", "performer": "Genix & Bebi"},
+              { "title": "Hedgesitting", "performer": "Cola"},
+              { "title": "Wenn alle Stricke reissen", "performer": "Edwin Rosen"},
+              { "title": "Not Today", "performer": "Kim Gordon"}
+            ],
+            [
+              { "time": "23:04", "title": "Bir Nazar Eyledim", "performer": "Altin Gün"},
+              { "title": "Feet On The Sand", "performer": "Alice Costelloe"},
+              { "title": "Run A Train", "performer": "J. Cole feat. Future"},
+              { "title": "Up From Here", "performer": "Moonchild feat. Robert Glasper + D Smokelk"},
+              { "title": "Moonlight", "performer": "Shy One feat. Private Joy"},
+              { "title": "I Can´t Cry", "performer": "Sports"},
+              { "title": "Mangetout (The Dare Remix)", "performer": "Wet Leg"},
+              { "title": "Perfume", "performer": "The Dare"},
+              { "title": "Mannequin Love (The Dare Remix)", "performer": "Justice"},
+              { "title": "Bingo", "performer": "La Securite"},
+              { "title": "Can´t See", "performer": "Westside Cowboy"},
+              { "title": "Nazi Teeth", "performer": "Dead Pioneers"},
+              { "title": "This City", "performer": "Lala Lala"}
             ]
           ]
         }
