@@ -15928,6 +15928,7 @@
         {
           "id": "42",
           "date": "2025-10-19",
+          "checked": {"date": "2026-03-04", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Tatort", "performer": "Klaus Doldinger´s Passport"},
