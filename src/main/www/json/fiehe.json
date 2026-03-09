@@ -15986,9 +15986,9 @@
               { "title": "Healing", "performer": "Astral Bakers"},
               { "title": "Run.Run.Run.Run.Run", "performer": "Grand Brothers"},
               { "title": "Passenger 57", "performer": "Stanley Clarke"},
-              { "title": "Fried Pizza", "performer": "Squarepusher"},
+              { "title": "Deep Fried Pizza", "performer": "Squarepusher"},
               { "title": "I Wish I Didn´t Waste Your Time", "performer": "Thundercat"},
-              { "title": "Trap", "performer": "Marcus Miller"},
+              { "title": "Trip Trap", "performer": "Marcus Miller"},
               { "title": "Normal Today", "performer": "Hannah Jagadu"}
             ],
             [
@@ -15998,7 +15998,7 @@
               { "title": "Fuck Le System", "performer": "Perera Elsewhere"},
               { "title": "Where We Belong", "performer": "Amtrac"},
               { "title": "Microdreaming", "performer": "A Sagittariun"},
-              { "title": "Did I Go? (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Did I Go? (Ikonika Extended Remix)", "performer": "Ebba Asman"},
               { "title": "Listen To Your Heart", "performer": "Ikonika"},
               { "title": "Run", "performer": "Josi Miller"},
               { "title": "Love Has Come Again", "performer": "salute"},
@@ -16008,7 +16008,7 @@
               { "time": "23:04", "title": "Somewhere, Nowhere", "performer": "Nightbus"},
               { "title": "Another Baby", "performer": "Baltra"},
               { "title": "What We Need", "performer": "RGL"},
-              { "title": "Stitches", "performer": "HAAi"},
+              { "title": "Shapeshift", "performer": "HAAi"},
               { "title": "Feel", "performer": "Kyle Watson"},
               { "title": "Dandelion", "performer": "Just Mustard"},
               { "title": "Gimme Time", "performer": "Hannah Jagadu"},
@@ -16796,6 +16796,54 @@
               { "title": "Can´t See", "performer": "Westside Cowboy"},
               { "title": "Nazi Teeth", "performer": "Dead Pioneers"},
               { "title": "This City", "performer": "Lala Lala"}
+            ]
+          ]
+        },
+        {
+          "id": "9",
+          "date": "2026-03-01",
+          "songs": [
+            [
+              { "time": "21:04", "title": "3 Steps", "performer": "Teffa"},
+              { "title": "Wicked Set (´04 VIP)", "performer": "Sir Hiss + Sam Binga"},
+              { "title": "Sound Of This Generation", "performer": "EchoBoy + Don Fe"},
+              { "title": "Birchgrove Pleasure Gardens", "performer": "Maroki"},
+              { "title": "Feel It (Maddslinky Remix)", "performer": "Adam K."},
+              { "title": "Pretty Flowers", "performer": "Buck Meek"},
+              { "title": "A Different Light", "performer": "Bibi Club"},
+              { "title": "Le Styx", "performer": "Bibi Club"},
+              { "title": "Amiga (Timothy Clerkin Jungle Mix)", "performer": "Glok & Timothy Clertkin"},
+              { "title": "Cannibal World", "performer": "Nothing"},
+              { "title": "Original Ting", "performer": "Efan & Scrufizzer"},
+              { "title": "Say It With Your Body (Bklava's 4am Edit)", "performer": "Bklava"}
+            ],
+            [
+              { "time": "22:04", "title": "Freezer", "performer": "Pony"},
+              { "title": "Ausfahrt", "performer": "Twin Noir"},
+              { "title": "Don´t Fear The Fear", "performer": "Markus Nikolaus"},
+              { "title": "Last Minute", "performer": "Bambounou"},
+              { "title": "Paris Dub 3", "performer": "Paranoid London feat. Paris Brightledge"},
+              { "title": "Like Dat", "performer": "Harry Robson"},
+              { "title": "Eden", "performer": "Avalon Emerson & The Charm"},
+              { "title": "This City", "performer": "Lala Lala"},
+              { "title": "Kissburn", "performer": "Bye Parula"},
+              { "title": "Dunans Torka", "performer": "Fauna"},
+              { "title": "Delirium", "performer": "Gorillaz feat. Mark E. Smith"},
+              { "title": "Hear You Speak", "performer": "Dan Whitlam feat. Tamzene"}
+            ],
+            [
+              { "time": "23:04", "title": "Slight Werk", "performer": "Honey Dijon feat. Bree Runway"},
+              { "title": "Mission Barnhus", "performer": "Falty DL"},
+              { "title": "Room Three", "performer": "Baby Rollen"},
+              { "title": "Sorry I'm Like This (BVNQUET Remix)", "performer": "p-rallel"},
+              { "title": "Melancholia", "performer": "Tinlicker"},
+              { "title": "Never Come Never Morning", "performer": "Nothing"},
+              { "title": "Composure", "performer": "Logistics feat. Charlotte X"},
+              { "title": "Les Vagues", "performer": "Bibi Club"},
+              { "title": "Gained/Lost", "performer": "The Wave Pictures"},
+              { "title": "Instead Of Here", "performer": "Mitski"},
+              { "title": "Tanz das Kraut", "performer": "Sankt Otten feat. Klaus Fiehe"},
+              { "title": "I´m Over You", "performer": "Vomit Heat"}
             ]
           ]
         }
