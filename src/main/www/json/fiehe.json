@@ -16029,14 +16029,14 @@
               { "time": "21:04", "title": "Silence Sea And Sky", "performer": "The Chameleons"},
               { "title": "Nanai", "performer": "Ozzy Jones"},
               { "title": "Are U A Lie?", "performer": "Jonas Landwehr ft. Beniap"},
-              { "title": "The Boy", "performer": "Skream & Krystal Klear"},
+              { "title": "The Boy (Extended Mix)", "performer": "Skream & Krystal Klear"},
               { "title": "Heading To Fringe", "performer": "Psychedelic Porn Crumpets"},
               { "title": "Troubled Youth", "performer": "Joyeria"},
-              { "title": "The Numbers Man (Part 1)", "performer": "Londson Elektricity"},
+              { "title": "The Numbers Man (Part 1)", "performer": "London Elektricity"},
               { "title": "I Hope My Dreams Don´t Come True", "performer": "Josi Miller"},
               { "title": "Black Box", "performer": "Automatic"},
               { "title": "Make Believe", "performer": "Eli & Fur"},
-              { "title": "New Life", "performer": "Daniel Avery ft. yune pinku"}
+              { "title": "New Life", "performer": "Daniel Avery ft. yunè pinku"}
             ],
             [
               { "time": "22:04", "title": "Want You Back (Matthew Jonson Remix)", "performer": "Gary Todd feat. Robert Owens"},
@@ -16845,6 +16845,53 @@
               { "title": "Instead Of Here", "performer": "Mitski"},
               { "title": "Tanz das Kraut", "performer": "Sankt Otten feat. Klaus Fiehe"},
               { "title": "I´m Over You", "performer": "Vomit Heat"}
+            ]
+          ]
+        },
+        {
+          "id": "10",
+          "date": "2026-03-08",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Keep On", "performer": "Dusky"},
+              { "title": "Narrow It Down", "performer": "Bambounou"},
+              { "title": "Murder Mystery (Kolter Remix)", "performer": "Jamie Jones"},
+              { "title": "Are You Listening Yet?", "performer": "Harry Styles"},
+              { "title": "Stand So Still", "performer": "Juni Habel"},
+              { "title": "Colours", "performer": "Donovan"},
+              { "title": "Nerve Scales", "performer": "Nothing"},
+              { "title": "nohopecore", "performer": "Kerker"},
+              { "title": "The Loop", "performer": "Paradigm X"},
+              { "title": "2122", "performer": "Geese"},
+              { "title": "Not Today", "performer": "Kim Gordon"},
+              { "title": "Worry Angel", "performer": "Witch Post"}
+            ],
+            [
+              { "time": "22:04", "title": "Jet Stream Heart", "performer": "Temples"},
+              { "title": "New Life – Midnight Version", "performer": "Daniel Avery feat. Yune Pinku"},
+              { "title": "HARDSTYLE 2 (Lou Nour Remix)", "performer": "Fred Again, KETTAMA & Shady Nasty"},
+              { "title": "Balanced Energies", "performer": "Sicaria & Lou Nour"},
+              { "title": "Space", "performer": "Biome"},
+              { "title": "Ride", "performer": "Swoon"},
+              { "title": "The Island", "performer": "Jet Li"},
+              { "title": "Dream Weaver", "performer": "Space Ghost"},
+              { "title": "Easy", "performer": "Brainbeats"},
+              { "title": "Higher Power", "performer": "Asa Tate"},
+              { "title": "Nevagonna", "performer": "Congratulations"},
+              { "title": "Closer 2 U", "performer": "Megan Wroe"}
+            ],
+            [
+              { "time": "23:04", "title": "George Sand", "performer": "Bibi Club"},
+              { "title": "Work", "performer": "Steven Brown"},
+              { "title": "The Turning", "performer": "The Notwist"},
+              { "title": "Disco", "performer": "Geese"},
+              { "title": "Ready, Steady, Go!", "performer": "Harry Styles"},
+              { "title": "Sunday Morning", "performer": "Beth Gibbons"},
+              { "title": "West Texas", "performer": "Bill Callahan"},
+              { "title": "Demon", "performer": "Buck Meek"},
+              { "title": "Don't Let It Get You Down", "performer": "Joshua Idehen"},
+              { "title": "Unbalanced", "performer": "Daskal"},
+              { "title": "Kleiner Satellit", "performer": "Blümchen"}
             ]
           ]
         }
