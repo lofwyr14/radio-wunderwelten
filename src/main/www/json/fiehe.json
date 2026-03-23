@@ -16896,6 +16896,55 @@
               { "title": "Kleiner Satellit", "performer": "Blümchen"}
             ]
           ]
+        },
+        {
+          "id": "11",
+          "date": "2026-03-15",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Big Mama", "performer": "Flying Lotus"},
+              { "title": "Original Ting", "performer": "Efan & Scrufizzer"},
+              { "title": "Go Get Dat", "performer": "Sunship & Killa P"},
+              { "title": "Confessions", "performer": "Damla Tek"},
+              { "title": "Arrival", "performer": "Jeremy Olander"},
+              { "title": "Changin My Life", "performer": "Claude VonStroke"},
+              { "title": "16  Hours", "performer": "Shy One feat. James Massiah"},
+              { "title": "Trying Times", "performer": "James Blake"},
+              { "title": "Stand So Still", "performer": "Juni Habel"},
+              { "title": "Minnie", "performer": "Waterbaby"},
+              { "title": "Friction", "performer": "Tiga"},
+              { "title": "Little Man", "performer": "Zak, Xzyko"}
+            ],
+            [
+              { "time": "22:04", "title": "Tanz Das Kraut", "performer": "Kratzen"},
+              { "title": "Six Hills", "performer": "Lewsberg"},
+              { "title": "Mini Mini Mini", "performer": "Suzan Köcher´s Suprafon"},
+              { "title": "Hökvind", "performer": "Les Big Byrd"},
+              { "title": "Not Today", "performer": "Kim Gordon"},
+              { "title": "I Can Be Yours", "performer": "Zzzahara feat. Winter"},
+              { "title": "Wenn alle Stricke reissen", "performer": "Edwin Rosen"},
+              { "title": "Chez Moi (Club Mix)", "performer": "CC:Disco feat. Confidence Man"},
+              { "title": "Where The Birds Speak", "performer": "Urmet K & Juan Yarin"},
+              { "title": "Wenn du tanzen willst", "performer": "Lotte"},
+              { "title": "Surfin", "performer": "Sons"}
+            ],
+            [
+              { "time": "23:04", "title": "Godkiller", "performer": "Heavy Lungs"},
+              { "title": "Monkey See Monkey Do", "performer": "Stone"},
+              { "title": "Reason", "performer": "Datsko"},
+              { "title": "One Woman Man", "performer": "Solarce Brothers, Jame C"},
+              { "title": "Pleasure (Extended)", "performer": "Jansons"},
+              { "title": "Cash Only", "performer": "Sweatson Klank"},
+              { "title": "Rest Of Your Life", "performer": "James Blake"},
+              { "title": "Doesn´t Just Happen", "performer": "James Blake feat. Dave"},
+              { "title": "Captain Kernel", "performer": "Flying Lotus"},
+              { "title": "Heaven´s Waiting Room", "performer": "Pan.American"},
+              { "title": "K2 Central", "performer": "Squarepusher"},
+              { "title": "Imidiwan Takyadam", "performer": "Tinariwen feat. Jose Gonzalez"},
+              { "title": "Projectors", "performer": "The Notwist"},
+              { "title": "Cowboy", "performer": "Shatten"}
+            ]
+          ]
         }
       ]
     }
