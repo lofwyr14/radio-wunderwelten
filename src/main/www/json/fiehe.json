@@ -16115,6 +16115,7 @@
         {
           "id": "46",
           "date": "2025-11-16",
+          "checked": {"date": "2026-03-24", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Any Circumstance Left", "performer": "Anonimat, Ilias Katelanos, Plecta"},
@@ -16145,12 +16146,12 @@
               { "title": "Red Baron", "performer": "Billy Cobham"},
               { "title": "This Hotel Room", "performer": "King Hannah"},
               { "title": "Too Big For California", "performer": "The Saxophones"},
-              { "title": "Final Boss", "performer": "Sweatson KLank"},
-              { "title": "Humanity", "performer": "Eli Fiola"},
+              { "title": "Final Boss", "performer": "Sweatson Klank"},
+              { "title": "Humanity", "performer": "Eli Fola"},
               { "title": "House", "performer": "Charli XCX feat. John Cale"},
               { "title": "Staub", "performer": "Stefanie Schrank"},
               { "title": "Oganesson", "performer": "Tortoise"},
-              { "title": "Mitsubishi", "performer": "Gorgon City"}
+              { "title": "Mitsubishi (Extended Mix)", "performer": "Gorgon City"}
             ]
           ]
         },
@@ -16908,7 +16909,7 @@
               { "title": "Confessions", "performer": "Damla Tek"},
               { "title": "Arrival", "performer": "Jeremy Olander"},
               { "title": "Changin My Life", "performer": "Claude VonStroke"},
-              { "title": "16  Hours", "performer": "Shy One feat. James Massiah"},
+              { "title": "16 Hours", "performer": "Shy One feat. James Massiah"},
               { "title": "Trying Times", "performer": "James Blake"},
               { "title": "Stand So Still", "performer": "Juni Habel"},
               { "title": "Minnie", "performer": "Waterbaby"},
