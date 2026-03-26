@@ -16158,6 +16158,7 @@
         {
           "id": "47",
           "date": "2025-11-23",
+          "checked": {"date": "2026-03-26", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Sniper", "performer": "Sweetpea"},
@@ -16167,14 +16168,14 @@
               { "title": "YUHDONTSTOP", "performer": "De La Soul"},
               { "title": "Eyes Full Of Animal", "performer": "Midlake"},
               { "title": "The Other", "performer": "Markus Nikolaus"},
-              { "title": "Destination Illumination (Lovetempo Rm)", "performer": "Gift"},
+              { "title": "Destination Illumination (Lovetempo Remix)", "performer": "Gift"},
               { "title": "Blank Spaces", "performer": "Jason Hersco"},
               { "title": "Interstellar", "performer": "Mr. Tophat & Art Alfie"},
               { "title": "Digital Spirituality", "performer": "DJ Sense (Eris Drew DJ KIcks)"},
               { "title": "Toka Love Project", "performer": "Toka Project (Eris Drew DJ KIcks)"}
             ],
             [
-              { "time": "22:04", "title": "Fuck THat", "performer": "JAW, Sachsentrance"},
+              { "time": "22:04", "title": "Fuck That", "performer": "JAW, Sachsentrance"},
               { "title": "My Feelings (Subtrax Remix)", "performer": "GVN"},
               { "title": "Gunshot", "performer": "DJ Q"},
               { "title": "Jupiter Horizons", "performer": "Molass"},
@@ -16185,7 +16186,7 @@
               { "title": "One Way Or The Other", "performer": "M.Byrd"},
               { "title": "Super Glyde", "performer": "Glyders"},
               { "title": "Lift You Up", "performer": "Danny Brown"},
-              { "title": "The City", "performer": "Alex Wann & Notre Dame feat. Carte Blanche"}
+              { "title": "The City (Extended Mix)", "performer": "Alex Wann & Notre Dame feat. Carte Blanche"}
             ],
             [
               { "time": "23:04", "title": "Two Bodies In The Same Room", "performer": "Villforth"},
