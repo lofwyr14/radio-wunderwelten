@@ -16208,6 +16208,7 @@
         {
           "id": "48",
           "date": "2025-11-30",
+          "checked": {"date": "2026-03-29", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Wenn ich tot bin, fang ich wieder an", "performer": "Kraftklub"},
@@ -16218,7 +16219,7 @@
               { "title": "Wieder zurück", "performer": "Jassin feat. Edwin Rosen"},
               { "title": "Perfume Garden", "performer": "The Chameleons"},
               { "title": "Bad Santa", "performer": "Sleaford Mods"},
-              { "title": "Hast du das gesehen", "performer": "Disso!ver"},
+              { "title": "Hast du das gesehen", "performer": "Dissolver"},
               { "title": "Maybe Psychic", "performer": "Maya Ongaku"}
             ],
             [
@@ -16226,9 +16227,9 @@
               { "title": "Listen To Your Heart", "performer": "Ikonika"},
               { "title": "Gone", "performer": "Ikonika"},
               { "title": "Give Me Bassline", "performer": "Jon E Cash"},
-              { "title": "Movimiento", "performer": "Hodge & Coffentexts"},
+              { "title": "Movimiento", "performer": "Hodge & Coffintexts"},
               { "title": "Save Me", "performer": "Cooly G"},
-              { "title": "Did I Go? (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Did I Go? (Ikonika Extended Remix)", "performer": "Ebba Asman"},
               { "title": "Slow Burn", "performer": "Ikonika"},
               { "title": "Baby", "performer": "Zak Cox"},
               { "title": "Joy Mantra", "performer": "Auntie Flo"},
