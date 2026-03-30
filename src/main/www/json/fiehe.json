@@ -16396,6 +16396,7 @@
         {
           "id": "52",
           "date": "2025-12-28",
+          "comment": "Zwischen Baum und Borke",
           "songs": [
             [
               { "time": "21:04", "title": "Bumpy", "performer": "Oneohtrix Point Never"},
@@ -16946,6 +16947,52 @@
               { "title": "Imidiwan Takyadam", "performer": "Tinariwen feat. Jose Gonzalez"},
               { "title": "Projectors", "performer": "The Notwist"},
               { "title": "Cowboy", "performer": "Shatten"}
+            ]
+          ]
+        },
+        {
+          "id": "12",
+          "date": "2026-03-22",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Love Is A Feeling (Oliver Smith Club Mix)", "performer": "Oliver Smith"},
+              { "title": "Bryllyant", "performer": "Boytronic"},
+              { "title": "It All Comes Down To You", "performer": "Suzi Quatro"},
+              { "title": "Don´t Throw Rocks", "performer": "Westside Cowboy"},
+              { "title": "In The Middle Of It", "performer": "Hiss Golden Messenger"},
+              { "title": "Magic Fly", "performer": "Space"},
+              { "title": "Taking Time", "performer": "M-High"},
+              { "title": "Wrong Things", "performer": "Danitsa"},
+              { "title": "Loosen Up", "performer": "Shy One"},
+              { "title": "Movin´", "performer": "Selah Sue feat. The Gallands"},
+              { "title": "City Of Symbols", "performer": "Alewya"},
+              { "title": "Step Into The Ende", "performer": "Enrico Sangiuliano"}
+            ],
+            [
+              { "time": "22:04", "title": "Where Are You", "performer": "Flying Moon In Space"},
+              { "title": "Sarsen´s Embrace", "performer": "Appleblim"},
+              { "title": "Combat", "performer": "Declan Knapp feat. MC Gardna"},
+              { "title": "New Era", "performer": "D1"},
+              { "title": "Voodoo (D1 Remix)", "performer": "Loefah"},
+              { "title": "Cockney Violin", "performer": "Caspa"},
+              { "title": "Nail Biter", "performer": "Kim Gordon"},
+              { "title": "Tilt-a-Whirl", "performer": "Witch Post"},
+              { "title": "Waiting For The Phone Call", "performer": "The Twilight Sad"},
+              { "title": "Ein Toter mehr, der in diesem Fall aber du bist", "performer": "Shatten"},
+              { "title": "Looking Backwards", "performer": "Poolside"},
+              { "title": "Pala-1", "performer": "Jeremy Olander"}
+            ],
+            [
+              { "time": "23:04", "title": "Everytime (Benwal Remix)", "performer": "Idemi & Lustral"},
+              { "title": "Underground", "performer": "Nick Curly, Danny P, Caleb Laurensen"},
+              { "title": "Du Ska Fa Se", "performer": "Fauna"},
+              { "title": "Frusen Mossa", "performer": "Fauna"},
+              { "title": "Eden", "performer": "Avalon Emerson & The Charm"},
+              { "title": "Fools Gold", "performer": "The Stone Roses"},
+              { "title": "Psychedelic", "performer": "Suzan Köcher´s Suprafon"},
+              { "title": "Merry Go Round", "performer": "BTS"},
+              { "title": "Cash Only", "performer": "Sweatson Klank"},
+              { "title": "Message", "performer": "Nubiyan Twist"}
             ]
           ]
         }
