@@ -16254,6 +16254,7 @@
         {
           "id": "49",
           "date": "2025-12-07",
+          "checked": {"date": "2026-04-01", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "RocknRoll", "performer": "Elektro Strothmann"},
@@ -16266,7 +16267,7 @@
               { "title": "Morning On K Road", "performer": "Steve Gunn"},
               { "title": "Childhood Dream", "performer": "Melody´s Echo Chamber"},
               { "title": "Luz", "performer": "Jonny From Space"},
-              { "title": "Groove Groove", "performer": "Frazer Ray"}
+              { "title": "Groove Groove (Extended Mix)", "performer": "Frazer Ray"}
             ],
             [
               { "time": "22:04", "title": "Cecelia", "performer": "Tea Eater"},
@@ -16276,7 +16277,7 @@
               { "title": "Herz zurück", "performer": "Ikkimel"},
               { "title": "Dünya Garip", "performer": "Haftbefehl, oddworld"},
               { "title": "Unravel", "performer": "Viridity"},
-              { "title": "Want You Bad", "performer": "Solah"},
+              { "title": "Want U Bad", "performer": "Solah"},
               { "title": "Good Stuff", "performer": "Fracture & Neptune"},
               { "title": "Mariana", "performer": "Monrroe, Duskee"},
               { "title": "The House That Doesn´t Exist", "performer": "Melody´s Echo Chamber"},
