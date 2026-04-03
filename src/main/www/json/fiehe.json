@@ -16305,12 +16305,13 @@
         {
           "id": "50",
           "date": "2025-12-14",
+          "checked": {"date": "2026-04-03", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Be My Medicine", "performer": "Rona"},
               { "title": "Again Through Fear", "performer": "Vhyce"},
               { "title": "Panic Attack", "performer": "Andy Bell"},
-              { "title": "2Leute", "performer": "Odd Couple"},
+              { "title": "2 Leute", "performer": "Odd Couple"},
               { "title": "Auto", "performer": "Sofie Royer"},
               { "title": "Huddersfield Wastes", "performer": "The Invisible Girls"},
               { "title": "Have You Lost Your Mind?", "performer": "Tony Y Not"},
@@ -16335,13 +16336,13 @@
             ],
             [
               { "time": "23:04", "title": "Heard It All Before", "performer": "Amy Wiles, Leena Punks, flowanastasia"},
-              { "title": "How To Be By Myself", "performer": "Hykken"},
+              { "title": "Don't Know How To Be By Myself", "performer": "Hykken"},
               { "title": "Seismograph", "performer": "Luis Ake feat. Tränen"},
               { "title": "Mehringdamm", "performer": "Berliner Doom"},
               { "title": "Revolution", "performer": "Grenzkontrolle"},
               { "title": "Super Glyde", "performer": "Glyders"},
               { "title": "I Am Mark E Smith (Live At Konk Studios)", "performer": "Fat White Family"},
-              { "title": "Did I Go? (Ikonika Remix)", "performer": "Ebba Asman"},
+              { "title": "Did I Go? (Ikonika Extended Remix)", "performer": "Ebba Asman"},
               { "title": "Right Here", "performer": "Fakear"},
               { "title": "Formula", "performer": "Orbit"},
               { "title": "Parachute", "performer": "Haley Williams"},
