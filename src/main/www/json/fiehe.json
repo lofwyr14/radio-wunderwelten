@@ -16400,6 +16400,7 @@
           "id": "52",
           "date": "2025-12-28",
           "comment": "Zwischen Baum und Borke",
+          "checked": {"date": "2026-04-18", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Bumpy", "performer": "Oneohtrix Point Never"},
@@ -16430,10 +16431,10 @@
             [
               { "time": "23:04", "title": "Piano Protocol", "performer": "Elzace"},
               { "title": "Bus Stop Please (Sally C Remix)", "performer": "Fatboy Slim & Daniel Steinberg"},
-              { "title": "Axial SEamount", "performer": "Tortoise"},
+              { "title": "Axial Seamount", "performer": "Tortoise"},
               { "title": "Chinaschilf", "performer": "Shatten"},
               { "title": "Iman", "performer": "Yuuf"},
-              { "title": "Bateu Bue (Mandacaru Remix)", "performer": "Diogo"},
+              { "title": "Bateu Bué (Mandacaru Remix)", "performer": "Diogo"},
               { "title": "Living Real", "performer": "Dead Man´s Chest"},
               { "title": "Ordinary", "performer": "Bungle"},
               { "title": "Don´t Hold Back", "performer": "EMJIE"},
