@@ -16400,7 +16400,7 @@
           "id": "52",
           "date": "2025-12-28",
           "comment": "Zwischen Baum und Borke",
-          "checked": {"date": "2026-04-18", "user": "jg"},
+          "checked": {"date": "2026-04-19", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Bumpy", "performer": "Oneohtrix Point Never"},
@@ -16453,9 +16453,9 @@
           "songs": [
             [
               { "time": "21:04", "title": "Silva The Cat", "performer": "Jukka Tolonen"},
-              { "title": "Clifton", "performer": "Philou"},
+              { "title": "Clifton Groove", "performer": "Philou"},
               { "title": "Lucky Bastard", "performer": "EV"},
-              { "title": "It´sToo Late", "performer": "The Streets"},
+              { "title": "It´s Too Late", "performer": "The Streets"},
               { "title": "Description", "performer": "Josh Baker"},
               { "title": "A Headnaddas Journey To The Planet Adidi-Skizm", "performer": "Brooklyn Funk Essentials"},
               { "title": "Nothing That I Know", "performer": "Cinnamon Gum feat. Max Shrager"},
@@ -16463,7 +16463,7 @@
               { "title": "Call U Back", "performer": "TTSSFU"},
               { "title": "Black Flag", "performer": "Dead Air"},
               { "title": "Dark Days", "performer": "Yard Act"},
-              { "title": "Kill Bill", "performer": "Modeselektor"}
+              { "title": "Kill Bill Vol. 4", "performer": "Modeselektor"}
             ],
             [
               { "time": "22:04", "title": "Talk To Me", "performer": "Rabo"},
@@ -17091,6 +17091,55 @@
               { "title": "Einsamkeit hat viele Namen", "performer": "Christian Anders"},
               { "title": "Romany Blue", "performer": "The Bevis Frond"},
               { "title": "Closed Memory", "performer": "Q-Brick"}
+            ]
+          ]
+        },
+        {
+          "id": "15",
+          "date": "2026-04-12",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"},
+              { "title": "Aero", "performer": "Yotto"},
+              { "title": "Patchwork", "performer": "Carlita feat. Paige Cavell"},
+              { "title": "Friction", "performer": "Tiga"},
+              { "title": "The Ocean", "performer": "Annie Taylor"},
+              { "title": "Cash Only", "performer": "Sweatson Klank"},
+              { "title": "Way Back When", "performer": "Onra"},
+              { "title": "Reach For The Sun", "performer": "Part A feat. Diane Charlemagne"},
+              { "title": "So Outta Tune", "performer": "Hawel/McPhail"},
+              { "title": "HAHA!", "performer": "Melanie Baker"},
+              { "title": "Pinkhouse Secret Rave", "performer": "Gift"},
+              { "title": "The Frequency", "performer": "J Doppler, Daann"}
+            ],
+            [
+              { "time": "22:04", "title": "DOG", "performer": "Grandmas House"},
+              { "title": "Revolution", "performer": "Grenzkontrolle"},
+              { "title": "Godkiller", "performer": "Heavy Lungs"},
+              { "title": "Mirror Test", "performer": "Pigeon"},
+              { "title": "Runway", "performer": "Lady Gaga, Doechii"},
+              { "title": "Come Back Baby", "performer": "Yotto"},
+              { "title": "Electrica Acida", "performer": "Matasism"},
+              { "title": "Alter Samadhi (Eklektika Remix)", "performer": "Dissident"},
+              { "title": "Letting Go", "performer": "Daffy"},
+              { "title": "Sorry Eyes", "performer": "Pictish Trail"},
+              { "title": "Infinity Ooze", "performer": "Pictish Trail"},
+              { "title": "I´d Like To See It", "performer": "Juni Habel"},
+              { "title": "Remember", "performer": "Sean Solomon"}
+            ],
+            [
+              { "time": "23:04", "title": "Remind Me Of Me", "performer": "Florence Besch"},
+              { "title": "Silk", "performer": "Asa Tate"},
+              { "title": "Dream Suite (Night Heron Remix)", "performer": "Marinero"},
+              { "title": "Terroir", "performer": "Goose Down"},
+              { "title": "The Sugar", "performer": "Sweatson Klank"},
+              { "title": "All For You", "performer": "Night manoeuvres"},
+              { "title": "Beams", "performer": "Arlo Parks"},
+              { "title": "Drunk Dialling", "performer": "Holly Humberstone"},
+              { "title": "Easy Come, Easy Go", "performer": "Lava  La Rue"},
+              { "title": "Do You Do You", "performer": "Jessica Winter"},
+              { "title": "Triton", "performer": "Lone"},
+              { "title": "Love Story", "performer": "My New Band Believe"}
             ]
           ]
         }
