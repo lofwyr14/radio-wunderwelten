@@ -16450,6 +16450,7 @@
         {
           "id": "1",
           "date": "2026-01-04",
+          "checked": {"date": "2026-04-23", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Silva The Cat", "performer": "Jukka Tolonen"},
@@ -16489,7 +16490,7 @@
               { "title": "She Is The Daylight", "performer": "Flying Saucer Attack"},
               { "title": "Begin Here", "performer": "Goon"},
               { "title": "Nightmares", "performer": "Hamdi feat. Issey Cross"},
-              { "title": "WAPO", "performer": "Scratchclart eat. Pit & JLSXND7RS"},
+              { "title": "WAPO", "performer": "Scratchclart feat. Pit & JLSXND7RS"},
               { "title": "Dozer", "performer": "Plantoid"}
             ]
           ]
