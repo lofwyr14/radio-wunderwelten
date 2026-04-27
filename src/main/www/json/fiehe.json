@@ -12781,7 +12781,7 @@
               { "time": "23:04", "title": "High Pressure Days", "performer": "W. H. Lung"},
               { "title": "Movin´ On Acid", "performer": "Joe Harvey"},
               { "title": "Samstag Nacht (Club Version)", "performer": "T.Raumhouse"},
-              { "title": "Spacewoman", "performer": "Charlie"},
+              { "title": "Spacewoman", "performer": "Charlie/Leona Jacewska"},
               { "title": "Chaperone", "performer": "Mermaid Chunky"},
               { "title": "How To Walk", "performer": "W. H. Lung"},
               { "title": "Follow You Down", "performer": "Fink"},
@@ -12921,7 +12921,7 @@
               { "title": "Breathe", "performer": "bby"}
             ],
             [
-              { "time": "23:04", "title": "Space Woman", "performer": "Charlie"},
+              { "time": "23:04", "title": "Spacewoman", "performer": "Charlie/Leona Jacewska"},
               { "title": "d´ACID (Slow Assembly Remix)", "performer": "Void Complet"},
               { "title": "Don´t Let That Wolf Bite You Twice", "performer": "Laura Coch"},
               { "title": "Ghetto Capitalism", "performer": "Jaymie Silk"},
@@ -16498,6 +16498,7 @@
         {
           "id": "2",
           "date": "2026-01-11",
+          "checked": {"date": "2026-04-27", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Religion For One – Live At Konk Studios", "performer": "Fat White Family"},
@@ -16514,7 +16515,7 @@
             ],
             [
               { "time": "22:04", "title": "Mothers Of Riches", "performer": "Cate Le Bon"},
-              { "title": "Space Woman", "performer": "Charlie"},
+              { "title": "Spacewoman", "performer": "Charlie/Leona Jacewska"},
               { "title": "We All Need Love", "performer": "Leo Pol"},
               { "title": "Dopamine (Marlon Hoffstadt Remix)", "performer": "Robyn"},
               { "title": "Echo Park Donut", "performer": "Luke Temple + The Cascading Moms"},
@@ -16535,7 +16536,7 @@
               { "title": "Fear Bangs The Drum", "performer": "Tessa Rose Jackson"},
               { "title": "Always Almost Losing You", "performer": "Nadia Kadek"},
               { "title": "Hit My Head All Day", "performer": "Dry Cleaning"},
-              { "title": "Untitled", "performer": "Unknown"},
+              { "title": "Robbery", "performer": "Trustee"},
               { "title": "Yeah Yeah", "performer": "Highlite & Prana Flow"}
             ]
           ]
