@@ -16544,6 +16544,7 @@
         {
           "id": "3",
           "date": "2026-01-18",
+          "checked": {"date": "2026-05-02", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Remote Location", "performer": "Viridity feat. Verbz"},
@@ -16563,9 +16564,9 @@
               { "title": "Stay Here 4Life", "performer": "A$AP Rocky feat. Thundercat"},
               { "title": "247", "performer": "Monrroe + Duskee"},
               { "title": "The Man I´m Supposed To Be", "performer": "Bill Callahan"},
-              { "title": "Falling Down (Jonathan Kaspar Midnight Remix)", "performer": "Damian Lazarus,Teed & A-Trak"},
-              { "title": "2 (Sweat Music)", "performer": "RFI feat. Princess Superstar"},
-              { "title": "Chanteo", "performer": "Nic Vesperi & Taranco"},
+              { "title": "Falling Down (Jonathan Kaspar Midnight Extended Remix)", "performer": "Damian Lazarus,Teed & A-Trak"},
+              { "title": "RFI-2 (Sweat Music)", "performer": "RFI feat. Princess Superstar"},
+              { "title": "Chanteo (Extended Mix)", "performer": "Nic Vesperi & Taranco"},
               { "title": "It´s Magic", "performer": "Alinka"},
               { "title": "How The Story Ends", "performer": "The Notwist"},
               { "title": "Hit ´n´ Run", "performer": "Formal Sppeedwear"}
