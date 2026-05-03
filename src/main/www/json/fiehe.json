@@ -17145,6 +17145,49 @@
               { "title": "Love Story", "performer": "My New Band Believe"}
             ]
           ]
+        },
+        {
+          "id": "16",
+          "date": "2026-04-19",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Slow Motion", "performer": "Grum & Amba Shepherd"},
+              { "title": "Letting Go", "performer": "Daffy"},
+              { "title": "Love Step", "performer": "Megan Wroe"},
+              { "title": "Brain Drain", "performer": "A Sagittariun"},
+              { "title": "Tanz das Kraut", "performer": "Kratzen"},
+              { "title": "Let´s See How Things Go", "performer": "Jaakko Eino Kalevi"},
+              { "title": "Il Futuro", "performer": "GiGi Girls feat. Jaakko Eino Kalevi"},
+              { "title": "Zakochany Czlowiek", "performer": "Better Person"},
+              { "title": "The Echo", "performer": "Teed"},
+              { "title": "Awareness Raising", "performer": "Pornbugs & Frink"}
+            ],
+            [
+              { "time": "22:04", "title": "I Drink The Light", "performer": "Tomora"},
+              { "title": "Welcome To The Moon", "performer": "Honey Dijon, Cor. Ece, Dave Giles II"},
+              { "title": "Silk Scarf", "performer": "Tiga, Fcukers"},
+              { "title": "This Product Dub", "performer": "Gans"},
+              { "title": "Regrets", "performer": "Manuela"},
+              { "title": "Idea 1", "performer": "Kelela"},
+              { "title": "Another Time", "performer": "Zoh Amba"},
+              { "title": "Drifting", "performer": "ELLiS.D"},
+              { "title": "Spotlight", "performer": "Christin Nichols"},
+              { "title": "Take A Bite", "performer": "Pagan"}
+            ],
+            [
+              { "time": "23:04", "title": "Waterfall Revers", "performer": "Lone"},
+              { "title": "Caminhador", "performer": "Anitta"},
+              { "title": "Heavy Sound", "performer": "Martyn"},
+              { "title": "Boots On The Ground", "performer": "Massive Attack feat. Tom Waits"},
+              { "title": "Don´t Had To Know", "performer": "Noayama feat. Deem Spencer"},
+              { "title": "I Like It Hot", "performer": "Honey Dijon feat. Greentea Peng"},
+              { "title": "Ride", "performer": "Jessie Ware"},
+              { "title": "Texas Changing", "performer": "Sofia Kourtesis"},
+              { "title": "Küsse in der Sonne", "performer": "GiGi Girls"},
+              { "title": "Fiore", "performer": "Valentino Vivace"},
+              { "title": "Restless", "performer": "Alan Fitzpatrick, THELMA"}
+            ]
+          ]
         }
       ]
     }
