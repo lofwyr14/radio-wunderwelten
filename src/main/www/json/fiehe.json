@@ -17188,6 +17188,50 @@
               { "title": "Restless", "performer": "Alan Fitzpatrick, THELMA"}
             ]
           ]
+        },
+        {
+          "id": "17",
+          "date": "2026-05-03",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Ripples", "performer": "Om Unit"},
+              { "title": "Dust On My Soul", "performer": "Marco Bailey"},
+              { "title": "Soul Beat Runna", "performer": "Boymerang"},
+              { "title": "Bedroom Headliner", "performer": "Rokar"},
+              { "title": "Chew Nails", "performer": "White Denim"},
+              { "title": "NRG", "performer": "Pigeon"},
+              { "title": "False Leader (Parts 1 & 2)", "performer": "Gary Clail"},
+              { "title": "Honey", "performer": "tofusmell"},
+              { "title": "Collinwood Fire", "performer": "Glenn Schwartz"},
+              { "title": "Fate", "performer": "Echo System"}
+            ],
+            [
+              { "time": "22:04", "title": "Baby (Tony Romera Remix)", "performer": "Four Tet"},
+              { "title": "People Like Us", "performer": "Jackie Hollander feat. Charlie Shell"},
+              { "title": "Binman (Zed Bias Nostalgia Mix)", "performer": "Lady Jane Beach"},
+              { "title": "Outline", "performer": "DJ Hell"},
+              { "title": "Unsterblich", "performer": "Christin Nichols"},
+              { "title": "Esperanto", "performer": "The Homesick"},
+              { "title": "Tomorrow Night", "performer": "The Black Keys"},
+              { "title": "Every Chance I Get", "performer": "Dan Auerbach"},
+              { "title": "She Does It Right", "performer": "The Black Keys"},
+              { "title": "She Does It Right", "performer": "Dr. Feelgood"},
+              { "title": "Way Back When", "performer": "Onra"}
+            ],
+            [
+              { "time": "23:04", "title": "Something Ain´t Right", "performer": "Annie Taylor"},
+              { "title": "Now And Nothing", "performer": "ACUA"},
+              { "title": "Story Of My Life", "performer": "Ruze feat. Danny Howard"},
+              { "title": "Rollin´ Tumblin´ (Remix)", "performer": "R.L. Burnside"},
+              { "title": "Fireman Ring The Bell", "performer": "The Black Keys"},
+              { "title": "Mercy Avenue", "performer": "Hiss Golden Messenger"},
+              { "title": "Time Time", "performer": "White Denim"},
+              { "title": "Dub Selecta 16", "performer": "Daffy, PJ Bridger"},
+              { "title": "Ecstasy", "performer": "Lug & Megan Wroe"},
+              { "title": "Eins, Zwei, Drei", "performer": "Look Mum No Computer"},
+              { "title": "Spotlight", "performer": "Christin Nichols"}
+            ]
+          ]
         }
       ]
     }
