@@ -16590,6 +16590,7 @@
         {
           "id": "4",
           "date": "2026-01-25",
+          "checked": {"date": "2026-05-28", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Eureka", "performer": "Romain Garcia"},
@@ -16616,12 +16617,12 @@
               { "title": "Do It For The Pay", "performer": "Dead Air"},
               { "title": "That´s Your Lot", "performer": "The Bevis Frond"},
               { "title": "Punk Rocky", "performer": "A$AP Rocky"},
-              { "title": "Control", "performer": "Arielle Free & Be Chalotte"}
+              { "title": "Control (Declan Knapp Remix)", "performer": "Arielle Free & Be Chalotte"}
             ],
             [
               { "time": "23:04", "title": "Wrong Idea", "performer": "Confidence Man"},
               { "title": "2 (Sweat Music)", "performer": "RFI feat. Princess Superstar"},
-              { "title": "Hot Wife", "performer": "Tiga + Boys Noize"},
+              { "title": "Hot Wife (Full Version)", "performer": "Tiga + Boys Noize"},
               { "title": "Make You House", "performer": "Julian Fox"},
               { "title": "Talk To Me", "performer": "Daphni"},
               { "title": "Saawaro Chalave", "performer": "Julie Hill ft. Bharatiya Sangeetalay"},
