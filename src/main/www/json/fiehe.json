@@ -16657,10 +16657,10 @@
               { "title": "We Left The Lights On (Extended)", "performer": "STÜM and X & Ivy"},
               { "title": "Grey Guitar", "performer": "Joyce Manor"},
               { "title": "Fliegen", "performer": "Twin Noir"},
-              { "title": "Hauptstadt der Schmerzen", "performer": "Otto Von Bismarck"},
+              { "title": "Hauptstadt der Schmerzen", "performer": "Otto von Bismarck"},
               { "title": "Alpha Centauri", "performer": "Marta Del Grandi"},
               { "title": "Hum Of Maybe", "performer": "Apparat"},
-              { "title": "Amiga (bdrmm Remix)", "performer": "Glok feat. Timothy Clerkin"},
+              { "title": "AmigA (bdrmm Remix)", "performer": "Glok feat. Timothy Clerkin"},
               { "title": "Flow State", "performer": "Portek"}
             ],
             [
@@ -17231,6 +17231,53 @@
               { "title": "Ecstasy", "performer": "Lug & Megan Wroe"},
               { "title": "Eins, Zwei, Drei", "performer": "Look Mum No Computer"},
               { "title": "Spotlight", "performer": "Christin Nichols"}
+            ]
+          ]
+        },
+        {
+          "id": "18",
+          "date": "2026-05-10",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Hello", "performer": "Heinz"},
+              { "title": "Baby (Tony Romera Remix)", "performer": "Four Tet"},
+              { "title": "The Heron", "performer": "Antony Szmierek"},
+              { "title": "Closure", "performer": "D.O.D. & Hayley May"},
+              { "title": "In For The Kill (Skream Remix)", "performer": "La Roux"},
+              { "title": "Last Orders", "performer": "Hiss Golden Messenger"},
+              { "title": "Forever Elsewhere", "performer": "Weird Nightmare"},
+              { "title": "The Best Part Of Being Young Is Falling In Love With Jesus", "performer": "The Homesick"},
+              { "title": "Sick Of Love", "performer": "Lykke Li"},
+              { "title": "Got The Fever", "performer": "Ellam"},
+              { "title": "This Bassline Smells Like Oil", "performer": "Ghoulish"},
+              { "title": "Werk", "performer": "Honey Dijon"}
+            ],
+            [
+              { "time": "22:04", "title": "Certified Ravers", "performer": "Jon E Cash"},
+              { "title": "Hype Prototype", "performer": "Pigeon"},
+              { "title": "Hey´ Little Girl", "performer": "Icehouse"},
+              { "title": "Sunday Gloomy Sunday", "performer": "Johnny Dynamite"},
+              { "title": "Zakochany Czlowiek", "performer": "Better Person"},
+              { "title": "Redeemer", "performer": "Yard Act"},
+              { "title": "Elitest G.O.A.T. (The Prodigy Acid Thunder Mix)", "performer": "Sleaford Mods & The Prodigy feat. Aldous Harding"},
+              { "title": "Freakin", "performer": "Ben Jones"},
+              { "title": "Tear", "performer": "White Flowers"},
+              { "title": "Thinking Of You", "performer": "White Flowers"},
+              { "title": "Levitate", "performer": "Maika"}
+            ],
+            [
+              { "time": "23:04", "title": "Unsterblich", "performer": "Christin Nichols"},
+              { "title": "On The Road", "performer": "Dina Summer feat. Joshua Murphy"},
+              { "title": "Speed Racer", "performer": "zzzahara"},
+              { "title": "Chalk", "performer": "Antony Szmierek"},
+              { "title": "Need You Tonight", "performer": "Tiga"},
+              { "title": "Cabin Fever", "performer": "La Roux"},
+              { "title": "San Francisco", "performer": "Aldous Harding"},
+              { "title": "Prophecy At 1420 MHz", "performer": "Boards Of Canada"},
+              { "title": "Fearing And Facing The World", "performer": "ACUA"},
+              { "title": "Almost Everything", "performer": "Mudhoney"},
+              { "title": "Fire And Gold", "performer": "The Lemon Twigs"},
+              { "title": "Conflagration Mindset", "performer": "Cola"}
             ]
           ]
         }
