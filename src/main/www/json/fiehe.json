@@ -17283,6 +17283,52 @@
               { "title": "Conflagration Mindset", "performer": "Cola"}
             ]
           ]
+        },
+        {
+          "id": "19",
+          "date": "2026-05-17",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Elysium Dream", "performer": "E-Freq"},
+              { "title": "Waves", "performer": "Nicky Elisabeth"},
+              { "title": "Contact High", "performer": "Nala"},
+              { "title": "Where You Must Go", "performer": "Rebekah Abdeen"},
+              { "title": "Er wollte nach London", "performer": "Udo Lindenberg & Das Panikorchester"},
+              { "title": "Country Girl", "performer": "Ikkimel"},
+              { "title": "If You Should Turn Away", "performer": "Weird Nightmare"},
+              { "title": "The Age Of Love (New Age Mix)", "performer": "Age Of Love"},
+              { "title": "Suspiria", "performer": "Monadic Trax"},
+              { "title": "Hedgesitting", "performer": "Cola"}
+            ],
+            [
+              { "time": "22:04", "title": "Bangaranga", "performer": "Dara"},
+              { "title": "Lavawheel", "performer": "Kaval"},
+              { "title": "Burn Tonight", "performer": "Carl Cox, Alan Fitzpatrick, Alex Culross"},
+              { "title": "Quartz (Night Mix)", "performer": "Jessie Marcella"},
+              { "title": "Callate", "performer": "Dua Saleh"},
+              { "title": "What Am I Gonna Do?", "performer": "Aldous Harding"},
+              { "title": "Slingshot", "performer": "DJ Die"},
+              { "title": "Extortion", "performer": "St. David"},
+              { "title": "I Never Felt So Free", "performer": "Free Orbit, Udo Lindenberg, Peter Herbolzheimer"},
+              { "title": "Which One", "performer": "Drake & Central Cee"},
+              { "title": "5 Star", "performer": "Central Cee"},
+              { "title": "Maayam", "performer": "Arthi feat. Pritt"},
+              { "title": "If You Want Me (Knxwledge RMX)", "performer": "Michi"}
+            ],
+            [
+              { "time": "23:04", "title": "Giftmord", "performer": "Ikkimel"},
+              { "title": "Helpline", "performer": "Johnny Dynamite"},
+              { "title": "In My Head", "performer": "The Haunted Youth"},
+              { "title": "Satre-torial", "performer": "Cola"},
+              { "title": "Pretty Little Mouth", "performer": "Total Tommy"},
+              { "title": "Devotion", "performer": "Bloodflowers"},
+              { "title": "Cool Breeze", "performer": "Massimiliano Pagliara"},
+              { "title": "Special Attempt", "performer": "X & IVY"},
+              { "title": "Lockup", "performer": "Overmono"},
+              { "title": "Maison", "performer": "Urban CC"},
+              { "title": "Natural Disaster", "performer": "Kevin Morby"}
+            ]
+          ]
         }
       ]
     }
