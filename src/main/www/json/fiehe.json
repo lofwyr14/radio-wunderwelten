@@ -16684,17 +16684,18 @@
         {
           "id": "6",
           "date": "2026-02-08",
+          "checked": {"date": "2026-06-07", "user": "jg"},
           "songs": [
             [
-              { "time": "21:04", "title": "nohopecore", "performer": "Kerker"},
-              { "title": "Trippin´", "performer": "Deep Colorsa"},
+              { "time": "21:04", "title": "Schon ok:(", "performer": "Kerker"},
+              { "title": "Trippin´ (Extended Mix)", "performer": "Deep Colorsa"},
               { "title": "Black Hall", "performer": "Did Virgo feat. Lena"},
               { "title": "God Sigma (Wilian Krupp Remix)", "performer": "DJ Ruby"},
               { "title": "Xylophonica", "performer": "Method"},
               { "title": "Multicolor", "performer": "Yael Naim"},
               { "title": "Fotzen an die Macht", "performer": "6euroneunzig"},
-              { "title": "This Music", "performer": "J. Matin"},
-              { "title": "Be The One (Meramek Remix)", "performer": "Oliver Smith & Benjamin Roustaing"},
+              { "title": "This Music", "performer": "J Matin"},
+              { "title": "Be The One (Meramek Extended Remix)", "performer": "Oliver Smith & Benjamin Roustaing"},
               { "title": "Build A Box Then Break It", "performer": "Ulrika Spacek"},
               { "title": "This Time I´m Present", "performer": "Ulrika Spacek"}
             ],
@@ -16703,7 +16704,7 @@
               { "title": "Juvel", "performer": "Dina Ögon"},
               { "title": "Chemin De La Baie", "performer": "The Besnard Lakes"},
               { "title": "Open Your Mind", "performer": "Paffetti aka Black Loops"},
-              { "title": "House Tool", "performer": "The Trip"},
+              { "title": "House Tool (Extended Mix)", "performer": "The Trip"},
               { "title": "Nobody But You", "performer": "The Sheepdogs"},
               { "title": "You Got To Lose", "performer": "The Black Keys"},
               { "title": "She´s About A Mover", "performer": "Sir Douglas Quintett"},
