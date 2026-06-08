@@ -17375,6 +17375,54 @@
               { "title": "Ding The Motor", "performer": "Gold Panda"}
             ]
           ]
+        },
+        {
+          "id": "21",
+          "date": "2026-05-31",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Mundian To Bach Ke (Ameme Remix)", "performer": "Panjabi MC"},
+              { "title": "Happy Trees", "performer": "John Tejada & Laurel Halo"},
+              { "title": "Don´t Know Who My Friends Are", "performer": "Deep Faith"},
+              { "title": "L.U.C.K.Y", "performer": "Fcukers"},
+              { "title": "Achtung! Optimism", "performer": "Digitalism"},
+              { "title": "Broken Hearted Or What?", "performer": "AlienBlaze"},
+              { "title": "Rendezvous", "performer": "Logistics feat. Emilie Rachel"},
+              { "title": "Massacre", "performer": "Murex"},
+              { "title": "Düsseldorf", "performer": "Die Toten Hosen"},
+              { "title": "Disco (Mark Reeder Lange Hosen Remix)", "performer": "Die Toten Hosen"},
+              { "title": "Be Yourself", "performer": "OBLQ"},
+              { "title": "THUM", "performer": "Violet Grohl"},
+              { "title": "Ketchup", "performer": "La Securite"}
+            ],
+            [
+              { "time": "22:04", "title": "Go Fuck Urself", "performer": "Fat Dog"},
+              { "title": "Piano Protocol", "performer": "Elzace"},
+              { "title": "Down For You", "performer": "Franky Wah feat. Jyll"},
+              { "title": "The Fire", "performer": "De Staat"},
+              { "title": "Round Of Applause At The End Of The World", "performer": "Wild Pink"},
+              { "title": "Fresh Vines", "performer": "Big Chief"},
+              { "title": "Build N Destroy", "performer": "JuJu Rogers feat. Pink Siifu"},
+              { "title": "Kinder", "performer": "Die Toten Hosen & Bettina Wegner"},
+              { "title": "Coalesce", "performer": "Now Always Fade"},
+              { "title": "Blood In The Labyrith", "performer": "Boards Of Canada"},
+              { "title": "System", "performer": "KMC"},
+              { "title": "Golden Skies", "performer": "Viridity feat. Acris"}
+            ],
+            [
+              { "time": "23:04", "title": "Bye The Bye", "performer": "Blade"},
+              { "title": "Pool Of My Dreams", "performer": "Violet Grohl"},
+              { "title": "Hoytrykk", "performer": "Kronstad 23"},
+              { "title": "Higher Power", "performer": "Asa Tate"},
+              { "title": "Zeit macht nur vor dem Teufel halt", "performer": "Barry Ryan"},
+              { "title": "51st State", "performer": "Die Toten Hosen, Justin Sullivan & New Model Army"},
+              { "title": "Motown Junk", "performer": "Manic Street Preachers"},
+              { "title": "Es tut mir leid", "performer": "Bachratten"},
+              { "title": "Angebot", "performer": "Iedereen"},
+              { "title": "In The Fall", "performer": "Future Islands"},
+              { "title": "Naraka", "performer": "Boards Of Canada"}
+            ]
+          ]
         }
       ]
     }
