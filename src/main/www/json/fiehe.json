@@ -16733,6 +16733,7 @@
         {
           "id": "7",
           "date": "2026-02-15",
+          "checked": {"date": "2026-06-11", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Higher Power", "performer": "Asa Tate"},
@@ -16753,14 +16754,14 @@
               { "title": "Du siehst mich nicht", "performer": "Kapa Tult"},
               { "title": "Beatback", "performer": "Fcukers"},
               { "title": "Nothing Forever (Tom Sharkett Remix)", "performer": "Glok feat.Timothy Clerkin"},
-              { "title": "Luft Für Dich", "performer": "Twin Noir"},
+              { "title": "Luft für Dich", "performer": "Twin Noir"},
               { "title": "Sanity", "performer": "Killing Joke"}
             ],
             [
               { "time": "23:04", "title": "deathwish", "performer": "The Haunted Youth"},
-              { "title": "nohopecore", "performer": "Kerker"},
+              { "title": "Schon ok:(", "performer": "Kerker"},
               { "title": "Far Side Of The Moon", "performer": "Chet Faker"},
-              { "title": "Quero Tu Amor", "performer": "Joyce Muniz + Andre VII feat. Alejandro Paz"},
+              { "title": "Quiero Tu Amor", "performer": "Joyce Muniz + Andre VII feat. Alejandro Paz"},
               { "title": "Come With Me", "performer": "Gorge"},
               { "title": "Fill The Hours (Massimiliano Pagliara Remix)", "performer": "Hard Ton & Amy Douglas"},
               { "title": "Another Way", "performer": "Pictish Trail"},
