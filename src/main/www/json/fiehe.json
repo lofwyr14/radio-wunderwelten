@@ -17425,6 +17425,56 @@
               { "title": "Naraka", "performer": "Boards Of Canada"}
             ]
           ]
+        },
+        {
+          "id": "22",
+          "date": "2026-06-07",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Nettle Root", "performer": "PIGMNT"},
+              { "title": "Talamanca´s Flute", "performer": "Gennaro feat. Morena Prudente"},
+              { "title": "Rise Up", "performer": "Maya Jane Coles feat. Rye Rye"},
+              { "title": "Keep On", "performer": "Dusky"},
+              { "title": "Mile High Club", "performer": "Uniqu3"},
+              { "title": "Wir sind Staub im Kosmos", "performer": "Deltawelle"},
+              { "title": "Is It Over Now?", "performer": "Elderbrook"},
+              { "title": "Southern Soil", "performer": "Zoh Amba"},
+              { "title": "Cowgirl", "performer": "Shaboozey"},
+              { "title": "Lost In Shinagawa", "performer": "Proff"},
+              { "title": "Wake Me Up", "performer": "Anuqram feat. Second Sine"},
+              { "title": "Point Blank", "performer": "Kelela"}
+            ],
+            [
+              { "time": "22:04", "title": "Only In America", "performer": "Vince Staples"},
+              { "title": "Elohim", "performer": "JuJu Rogers feat. Jamila Woods"},
+              { "title": "Who Needs Spain Ball?", "performer": "Formal Sppeedwear"},
+              { "title": "Butterflies", "performer": "Zzzahara"},
+              { "title": "Searchlight", "performer": "Les Big Byrd"},
+              { "title": "Again Through Fear", "performer": "Vhyce"},
+              { "title": "Swingin", "performer": "AC Slater"},
+              { "title": "Be My Medicine", "performer": "Rona"},
+              { "title": "Jumper", "performer": "Casi"},
+              { "title": "Neumarkt", "performer": "Grenkontrolle"},
+              { "title": "Plovdiv", "performer": "Tramhaus"},
+              { "title": "Grin & Bear It", "performer": "Panic Shack"},
+              { "title": "Screams", "performer": "Blood Red Shoes"}
+            ],
+            [
+              { "time": "23:04", "title": "Wenn der Scirocco weht", "performer": "Der Assistent"},
+              { "title": "Little Black Cat", "performer": "Lizzo"},
+              { "title": "Bitch", "performer": "Lizzo"},
+              { "title": "Elm", "performer": "Dusky"},
+              { "title": "Don´t Wanna Dance (Mario C Remix)", "performer": "Automatic"},
+              { "title": "Eco Simulator", "performer": "Vhyce"},
+              { "title": "Night Bird", "performer": "Curses Presents Acid Punx Trois : Velvet Velour"},
+              { "title": "It´s Alright, I Feel It", "performer": "DJ Marky & Makoto"},
+              { "title": "Kick Up", "performer": "OBLQ"},
+              { "title": "Go Get Dat", "performer": "Sunship & Killa P"},
+              { "title": "Dead End Street", "performer": "Zoh Amba"},
+              { "title": "Circle", "performer": "Laura Misch"},
+              { "title": "Fo(r)est", "performer": "Laura Misch"}
+            ]
+          ]
         }
       ]
     }
