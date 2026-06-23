@@ -17476,6 +17476,51 @@
               { "title": "Fo(r)est", "performer": "Laura Misch"}
             ]
           ]
+        },
+        {
+          "id": "23",
+          "date": "2026-06-14",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Blue (I´m Happy Now)", "performer": "Fakear"},
+              { "title": "I Was There (Booka Shade Remix)", "performer": "Helsloot & Beacon"},
+              { "title": "The Situation", "performer": "Prospa"},
+              { "title": "Waiheke Island", "performer": "Skream & Prospa"},
+              { "title": "Keine Energie geht verloren", "performer": "Agassi feat. Frank Spilker"},
+              { "title": "Deny", "performer": "La Securite"},
+              { "title": "Twizzled", "performer": "Cigarette After Sex"},
+              { "title": "The Hook", "performer": "Widowspeak"},
+              { "title": "Dirty Dream", "performer": "Brockhoff"},
+              { "title": "Magic Carpet Ride", "performer": "Button Masher"},
+              { "title": "Shadow Of A Doubt", "performer": "Overlook"}
+            ],
+            [
+              { "time": "22:04", "title": "Circle Of Light (Dosem Remix)", "performer": "Because Of Art feat. Antony Szmierek"},
+              { "title": "The Heron", "performer": "Antony Szmierek"},
+              { "title": "Perks Of Daily Life", "performer": "Vhyce"},
+              { "title": "Ain´t Your Mama", "performer": "Yung FSK 18"},
+              { "title": "Shallow Hits", "performer": "Ebbb"},
+              { "title": "Jim Carol New Year", "performer": "Black Marble"},
+              { "title": "I Can Be Yours", "performer": "Zzzahara"},
+              { "title": "The Second Coming Was A Moonrise", "performer": "Hammock"},
+              { "title": "Terrestrial", "performer": "Pond"},
+              { "title": "My Way", "performer": "Olivia Rodrigo"},
+              { "title": "10th Avenue", "performer": "Klaudi"}
+            ],
+            [
+              { "time": "23:04", "title": "Back To The HipHouse", "performer": "m.O.N.R.O.E"},
+              { "title": "What I´m About", "performer": "Farouki"},
+              { "title": "Movin´ U", "performer": "Dusk + Blackdown"},
+              { "title": "Panta Rei", "performer": "Harald Grosskopf"},
+              { "title": "Kairos", "performer": "Laura Misch"},
+              { "title": "Echoes", "performer": "Laura Misch"},
+              { "title": "Powerless", "performer": "Emma Ruth Rundle"},
+              { "title": "Blue", "performer": "Tengger"},
+              { "title": "Shion", "performer": "Mono"},
+              { "title": "Prize Fighter", "performer": "Pain Gain"},
+              { "title": "Manhattan", "performer": "Carlita feat. Sofie Tukker"}
+            ]
+          ]
         }
       ]
     }
