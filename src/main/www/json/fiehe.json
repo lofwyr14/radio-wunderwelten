@@ -16872,6 +16872,7 @@
         {
           "id": "10",
           "date": "2026-03-08",
+          "checked": {"date": "2026-06-28", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Keep On", "performer": "Dusky"},
@@ -16881,7 +16882,7 @@
               { "title": "Stand So Still", "performer": "Juni Habel"},
               { "title": "Colours", "performer": "Donovan"},
               { "title": "Nerve Scales", "performer": "Nothing"},
-              { "title": "nohopecore", "performer": "Kerker"},
+              { "title": "Schon ok:( ", "performer": "Kerker"},
               { "title": "The Loop", "performer": "Paradigm X"},
               { "title": "2122", "performer": "Geese"},
               { "title": "Not Today", "performer": "Kim Gordon"},
@@ -16896,13 +16897,14 @@
               { "title": "Ride", "performer": "Swoon"},
               { "title": "The Island", "performer": "Jet Li"},
               { "title": "Dream Weaver", "performer": "Space Ghost"},
-              { "title": "Easy", "performer": "Brainbeats"},
+              { "title": "Look That's My Heart", "performer": "Brainbeats"},
               { "title": "Higher Power", "performer": "Asa Tate"},
               { "title": "Nevagonna", "performer": "Congratulations"},
-              { "title": "Closer 2 U", "performer": "Megan Wroe"}
+              { "title": "Original Ting", "performer": "Efan & Scrufizzer"}
             ],
             [
-              { "time": "23:04", "title": "George Sand", "performer": "Bibi Club"},
+              { "time": "23:04", "title": "Closer 2 U", "performer": "Megan Wroe"},
+              { "title": "George Sand", "performer": "Bibi Club"},
               { "title": "Work", "performer": "Steven Brown"},
               { "title": "The Turning", "performer": "The Notwist"},
               { "title": "Disco", "performer": "Geese"},
