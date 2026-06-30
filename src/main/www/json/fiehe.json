@@ -16928,7 +16928,7 @@
               { "title": "Go Get Dat", "performer": "Sunship & Killa P"},
               { "title": "Confessions", "performer": "Damla Tek"},
               { "title": "Arrival", "performer": "Jeremy Olander"},
-              { "title": "Changin My Life", "performer": "Claude VonStroke"},
+              { "title": "Changin My Life (Extended)", "performer": "Claude VonStroke"},
               { "title": "16 Hours", "performer": "Shy One feat. James Massiah"},
               { "title": "Trying Times", "performer": "James Blake"},
               { "title": "Stand So Still", "performer": "Juni Habel"},
@@ -17521,6 +17521,51 @@
               { "title": "Shion", "performer": "Mono"},
               { "title": "Prize Fighter", "performer": "Pain Gain"},
               { "title": "Manhattan", "performer": "Carlita feat. Sofie Tukker"}
+            ]
+          ]
+        },
+        {
+          "id": "24",
+          "date": "2026-06-21",
+          "songs": [
+            [
+              { "time": "21:04", "title": "What I Am (Groove Chronicles Remix)", "performer": "Tin Tin Out feat. Emma Burton"},
+              { "title": "Champagne", "performer": "Francis Mercier, Massala, LexBlaze"},
+              { "title": "24 Hours", "performer": "Stormzy & Odeal"},
+              { "title": "Mental", "performer": "Laolu feat. Benni Ola"},
+              { "title": "Interrelation", "performer": "Sam Goku"},
+              { "title": "Waves", "performer": "Nicky Elisabeth"},
+              { "title": "The Fatal Shore", "performer": "Pond"},
+              { "title": "Sun", "performer": "Attic Ocean"},
+              { "title": "The Hook", "performer": "Widowspeak"},
+              { "title": "Sometimes Always", "performer": "The Jesus And Mary Chain feat. Hope Sandoval"},
+              { "title": "Double Love Attack (Man Power Remix)", "performer": "Daddy Squad feat. Snax"}
+            ],
+            [
+              { "time": "22:04", "title": "Ultramarin", "performer": "Der Assistent"},
+              { "title": "House Of The Rising Sun", "performer": "Laid Back"},
+              { "title": "I Was There (Booka Shade Remix)", "performer": "Helsloot & Beacon"},
+              { "title": "Vancouver", "performer": "Martyn"},
+              { "title": "Face 2 Face", "performer": "TWOFACED"},
+              { "title": "Sunset (HABITAAT Remix)", "performer": "Shima"},
+              { "title": "Policenessness", "performer": "The Homesick"},
+              { "title": "Hanging Out To Dry", "performer": "Florence Road"},
+              { "title": "Chrom im Wald", "performer": "Tränen"},
+              { "title": "Unsterblich", "performer": "Christin Nichols"},
+              { "title": "Egal wohin", "performer": "Leftovers"}
+            ],
+            [
+              { "time": "23:04", "title": "The Worst Among Us", "performer": "Dead Pioneers feat. Jason Williamson"},
+              { "title": "Wild God", "performer": "Nick Cave & The Bad Seeds"},
+              { "title": "S3 22", "performer": "Julio J"},
+              { "title": "Sky And Sand (Club Mix)", "performer": "Sam Goku"},
+              { "title": "Macho", "performer": "Desiree feat. Emmanuel Jal"},
+              { "title": "Neue Lunge", "performer": "Der Assistent"},
+              { "title": "Dummy", "performer": "Now Always Fades"},
+              { "title": "Memento", "performer": "WAGZ"},
+              { "title": "Stolen Hours", "performer": "WAGZ"},
+              { "title": "Stars", "performer": "Do Nothing"},
+              { "title": "Prophecy At 1420 MHz", "performer": "Boards Of Canada"}
             ]
           ]
         }
