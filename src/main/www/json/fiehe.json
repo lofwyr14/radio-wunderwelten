@@ -16921,6 +16921,7 @@
         {
           "id": "11",
           "date": "2026-03-15",
+          "checked": {"date": "2026-07-10", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Big Mama", "performer": "Flying Lotus"},
@@ -16945,14 +16946,14 @@
               { "title": "I Can Be Yours", "performer": "Zzzahara feat. Winter"},
               { "title": "Wenn alle Stricke reissen", "performer": "Edwin Rosen"},
               { "title": "Chez Moi (Club Mix)", "performer": "CC:Disco feat. Confidence Man"},
-              { "title": "Where The Birds Speak", "performer": "Urmet K & Juan Yarin"},
+              { "title": "Where The Birds Speak (Extended Mix)", "performer": "Urmet K & Juan Yarin"},
               { "title": "Wenn du tanzen willst", "performer": "Lotte"},
               { "title": "Surfin", "performer": "Sons"}
             ],
             [
               { "time": "23:04", "title": "Godkiller", "performer": "Heavy Lungs"},
               { "title": "Monkey See Monkey Do", "performer": "Stone"},
-              { "title": "Reason", "performer": "Datsko"},
+              { "title": "Reason (Extended Mix)", "performer": "Datsko"},
               { "title": "One Woman Man", "performer": "Solarce Brothers, Jame C"},
               { "title": "Pleasure (Extended)", "performer": "Jansons"},
               { "title": "Cash Only", "performer": "Sweatson Klank"},
