@@ -17569,6 +17569,55 @@
               { "title": "Prophecy At 1420 MHz", "performer": "Boards Of Canada"}
             ]
           ]
+        },
+        {
+          "id": "25",
+          "date": "2026-06-28",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Like That", "performer": "El-B"},
+              { "title": "I Can´t Believe I Loved Her", "performer": "Peven Everett & Bakey"},
+              { "title": "Blackout", "performer": "JD. Reid feat. Bok Bok & ReekO"},
+              { "title": "Next Life", "performer": "Dusky feat. Rromarin"},
+              { "title": "Nothing Could ´ve Made Me", "performer": "Kloyd feat. Winfried"},
+              { "title": "City Of Symbols", "performer": "Alewya feat. eejebee & Vraell"},
+              { "title": "Circle Of Light (Dosem Remix)", "performer": "Because Of Art feat. Antony Szmierek"},
+              { "title": "Glimmer", "performer": "Temples"},
+              { "title": "Itchin´", "performer": "PNNY"},
+              { "title": "Clifton Groove", "performer": "Philou"},
+              { "title": "Not Giving Up", "performer": "Alicee"},
+              { "title": "Me And You", "performer": "Bonobo"}
+            ],
+            [
+              { "time": "22:04", "title": "All Inside Aquarium", "performer": "Bodega"},
+              { "title": "Been Caught Stealing", "performer": "Jane´s Addiction"},
+              { "title": "Dense ID", "performer": "Panthera Krause"},
+              { "title": "We Surrender", "performer": "Echonomist & Oveous"},
+              { "title": "Magic Bus", "performer": "The Who"},
+              { "title": "Venus", "performer": "Shocking Blue"},
+              { "title": "Sun Has Set", "performer": "Beabadoobee"},
+              { "title": "Planetary Vision (Paradise Dub)", "performer": "Wille"},
+              { "title": "Something Always Happens (Doc Scott Remix)", "performer": "The Art Of Noise"},
+              { "title": "The Worst Among Us", "performer": "Dead Pioneers feat. Jason Williamson Of Sleaford Mods"},
+              { "title": "Subtle Silver Silhouette", "performer": "Nothingspecial"},
+              { "title": "Hanging Out To Dry (instr.)", "performer": "Florence Road"}
+            ],
+            [
+              { "time": "23:04", "title": "Mach mich verliebt in dich", "performer": "Franzen"},
+              { "title": "Mann am Telefon", "performer": "Der Assistent"},
+              { "title": "Golden Hour", "performer": "Damians Ghost"},
+              { "title": "Teder", "performer": "Rafael & N.O.Y."},
+              { "title": "Unity Grain", "performer": "Efdemin"},
+              { "title": "Karma (Eyezick Remix)", "performer": "Shima"},
+              { "title": "2010", "performer": "Appollo Online"},
+              { "title": "Nightshift Superstar", "performer": "Muse"},
+              { "title": "Jet Stream Heart", "performer": "Temples"},
+              { "title": "Seeing Red", "performer": "Dead Pioneers"},
+              { "title": "Your Embrace (House Dub)  ", "performer": "DJ More Entropic"},
+              { "title": "Rumbea Conmigo", "performer": "Rosa Pistola Presents: DJ Tetris Ft. DJ Giovanni Rios  "},
+              { "title": "Wo, man", "performer": "Peggy Gou feat. Ayra Starr"}
+            ]
+          ]
         }
       ]
     }
