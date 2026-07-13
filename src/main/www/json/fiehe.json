@@ -16984,7 +16984,7 @@
               { "title": "Loosen Up", "performer": "Shy One"},
               { "title": "Movin´", "performer": "Selah Sue feat. The Gallands"},
               { "title": "City Of Symbols", "performer": "Alewya"},
-              { "title": "Step Into The Ende", "performer": "Enrico Sangiuliano"}
+              { "title": "Step Into The End", "performer": "Enrico Sangiuliano"}
             ],
             [
               { "time": "22:04", "title": "Where Are You", "performer": "Flying Moon In Space"},
@@ -17616,6 +17616,52 @@
               { "title": "Your Embrace (House Dub)  ", "performer": "DJ More Entropic"},
               { "title": "Rumbea Conmigo", "performer": "Rosa Pistola Presents: DJ Tetris Ft. DJ Giovanni Rios  "},
               { "title": "Wo, man", "performer": "Peggy Gou feat. Ayra Starr"}
+            ]
+          ]
+        },
+        {
+          "id": "26",
+          "date": "2026-07-05",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Cut To Black", "performer": "The Bug Club"},
+              { "title": "Feeling For You (Fcukers & Junior Sanchez Remix)", "performer": "Cassius"},
+              { "title": "Siren Tiger", "performer": "Fundido"},
+              { "title": "Etikite", "performer": "Maltitz & Max Joni"},
+              { "title": "Bad Bara", "performer": "Chloe Caillet"},
+              { "title": "Buddha Blues (Todd Terry Remix)", "performer": "Shyfrin Alliance"},
+              { "title": "Evident 2 Me", "performer": "Cartel Madras feat. Jide"},
+              { "title": "Hoverfly", "performer": "London Elektricity & Serpnt"},
+              { "title": "Eclair", "performer": "D.Side"},
+              { "title": "Operator", "performer": "Takeshis Cashew"},
+              { "title": "Kakihana", "performer": "Post Clients"},
+              { "title": "The Sugar", "performer": "Sweatson Klank"},
+              { "title": "Love I Never Had It So Good", "performer": "Ronny Jordan Meets DJ Krush"}
+            ],
+            [
+              { "time": "22:04", "title": "Love Struck", "performer": "J:Kenzo"},
+              { "title": "Is What They Say", "performer": "L-Side& Subsid"},
+              { "title": "New Life", "performer": "P Money & Whiney"},
+              { "title": "Leviathan", "performer": "Freeform Five feat. Roisin Murphy"},
+              { "title": "So Good To Me", "performer": "Van Allen"},
+              { "title": "Alive", "performer": "Jorja Smith feat. Wizkid"},
+              { "title": "Runner", "performer": "Alewya"},
+              { "title": "Star Lane Skog", "performer": "Reger"},
+              { "title": "Breke", "performer": "Jacques Bon & Pit Spector"},
+              { "title": "Turning Point", "performer": "Pain Gain"},
+              { "title": "Samong Sei", "performer": "Korlakang"},
+              { "title": "Break Free", "performer": "Prospa"}
+            ],
+            [
+              { "time": "23:04", "title": "Inside My Mind", "performer": "Marsolo"},
+              { "title": "Fate", "performer": "Echosystem"},
+              { "title": "The Night", "performer": "Zimmer feat. Local Suicide"},
+              { "title": "Grainy Dreams", "performer": "SMCK"},
+              { "title": "All Sides Of Me", "performer": "ACUA feat. Jennylee & TT"},
+              { "title": "Vanishing (Vanished Dub)", "performer": "The Bug feat. Dis Fig"},
+              { "title": "Mourning Xun", "performer": "Linda Lo"},
+              { "title": "Get Down", "performer": "Vaert"},
+              { "title": "I Was There (Booka Shade Remix)", "performer": "Helsloot & Beacon"}
             ]
           ]
         }
