@@ -16971,6 +16971,7 @@
         {
           "id": "12",
           "date": "2026-03-22",
+          "checked": {"date": "2026-07-24", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Love Is A Feeling (Oliver Smith Club Mix)", "performer": "Oliver Smith"},
@@ -16998,11 +16999,11 @@
               { "title": "Waiting For The Phone Call", "performer": "The Twilight Sad"},
               { "title": "Ein Toter mehr, der in diesem Fall aber du bist", "performer": "Shatten"},
               { "title": "Looking Backwards", "performer": "Poolside"},
-              { "title": "Pala-1", "performer": "Jeremy Olander"}
+              { "title": "In Limbo", "performer": "Jeremy Olander"}
             ],
             [
-              { "time": "23:04", "title": "Everytime (Benwal Remix)", "performer": "Idemi & Lustral"},
-              { "title": "Underground", "performer": "Nick Curly, Danny P, Caleb Laurensen"},
+              { "time": "23:04", "title": "Everytime (Benwal Extended Remix)", "performer": "Idemi & Lustral"},
+              { "title": "Underground (Danny P & Caleb Laurensen Extended Remix)", "performer": "Nick Curly"},
               { "title": "Du Ska Fa Se", "performer": "Fauna"},
               { "title": "Frusen Mossa", "performer": "Fauna"},
               { "title": "Eden", "performer": "Avalon Emerson & The Charm"},
