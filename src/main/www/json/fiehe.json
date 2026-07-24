@@ -17665,6 +17665,53 @@
               { "title": "I Was There (Booka Shade Remix)", "performer": "Helsloot & Beacon"}
             ]
           ]
+        },
+        {
+          "id": "27",
+          "date": "2026-07-12",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Why Can´t I Be You?", "performer": "The Cure"},
+              { "title": "Lunch Money", "performer": "Radio Free Alice"},
+              { "title": "PVC Vest", "performer": "Miracle"},
+              { "title": "You Know I´m No Good", "performer": "The Rolling Stones"},
+              { "title": "Buddha Blues (Todd Terry Remix)", "performer": "Shyfrin Alliance"},
+              { "title": "Get A Grip", "performer": "Fundido feat. Emma Dufaux"},
+              { "title": "Feel It Out (Steffi Remix)", "performer": "Atrevido"},
+              { "title": "Riot", "performer": "Ellen Allien"},
+              { "title": "Slip", "performer": "Efdemin"},
+              { "title": "Cigarette Curls", "performer": "Beth Orton"},
+              { "title": "Killin Em", "performer": "Nemzzz"}
+            ],
+            [
+              { "time": "22:04", "title": "Still The Same", "performer": "Rufige Kru, Goldie & Submotive feat. Casisdead"},
+              { "title": "Cocooned", "performer": "Bungle"},
+              { "title": "Denisse", "performer": "Girl Ultra"},
+              { "title": "Danceteria", "performer": "Madonna"},
+              { "title": "Nine", "performer": "Bart Van Rijn"},
+              { "title": "Masks", "performer": "Jasmin Omeara & George Raquet"},
+              { "title": "Jaguar", "performer": "Temples"},
+              { "title": "Out Of Tune", "performer": "Jeffrey Silverstein feat. Devendra Banhart"},
+              { "title": "Walk On The Wild Side", "performer": "Lou Reed"},
+              { "title": "Stranger Still", "performer": "Vetiver"},
+              { "title": "Blackout", "performer": "JD. Reid"}
+            ],
+            [
+              { "time": "23:04", "title": "Angelika", "performer": "Devendra Banhart"},
+              { "title": "Eternalize", "performer": "Miracle"},
+              { "title": "Lol Creme", "performer": "Legs Benedict"},
+              { "title": "In The Garden", "performer": "Spacemoth"},
+              { "title": "Do We Exist?", "performer": "Spacemoth"},
+              { "title": "Pambu Mookan Uncle", "performer": "Keshavara feat. Sahana Naresh"},
+              { "title": "Tour Guide (Parkbreezy Remix)", "performer": "Shima"},
+              { "title": "Seminal", "performer": "Antony Szmierek"},
+              { "title": "Hypnotise", "performer": "Clouds Of Kouros"},
+              { "title": "Sonderwave", "performer": "Anuqram & Anulage"},
+              { "title": "Shallow Hits", "performer": "Ebbb"},
+              { "title": "Deutsche Militär", "performer": "Tom Taschenmesser"},
+              { "title": "Yet", "performer": "Linda Lo"}
+            ]
+          ]
         }
       ]
     }
