@@ -17713,6 +17713,53 @@
               { "title": "Yet", "performer": "Linda Lo"}
             ]
           ]
+        },
+        {
+          "id": "28",
+          "date": "2026-07-19",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Dark Days", "performer": "Yard Act"},
+              { "title": "Better Angels", "performer": "The Menzingers"},
+              { "title": "Future Plan I", "performer": "Transistorcake"},
+              { "title": "Calling My Name", "performer": "UNIIQU3 feat. Leonce & Cakes Da Killa"},
+              { "title": "House Party", "performer": "Button Masher feat. Amanda Barise"},
+              { "title": "Crystalize", "performer": "Kelela"},
+              { "title": "Party Time", "performer": "Tiga, Chris Lake & Aatig"},
+              { "title": "E O Bonde", "performer": "Skrillex feat. Chris Lake & RHR"},
+              { "title": "Ambrosia", "performer": "Miracle"},
+              { "title": "Favorite", "performer": "Eartheater"},
+              { "title": "Places (Syreeta Remix)", "performer": "Rayzir"},
+              { "title": "5AM At Bagleys", "performer": "Gorgon City"}
+            ],
+            [
+              { "time": "22:04", "title": "Coffee And Feels", "performer": "Satin Jackets"},
+              { "title": "Searchin´ (Bullet Tooth Remix)", "performer": "Damian Lazarus feat. Jem Cooke"},
+              { "title": "Yet", "performer": "Linda Lo"},
+              { "title": "Balanced Energies", "performer": "Sicaria/Lou Nour"},
+              { "title": "Out Demons Out", "performer": "Edgar Broughton Band"},
+              { "title": "Fiction", "performer": "Yard Act"},
+              { "title": "You´re Gonna Need A Little Music", "performer": "Yard Act"},
+              { "title": "My Beatbox (Big Audio Dynamite Dub Remix)", "performer": "DeeJay Punk-Roc"},
+              { "title": "Oracle", "performer": "Gorgon City feat. Jem Cooke"},
+              { "title": "Empyrean", "performer": "Dax J"},
+              { "title": "Steh auf", "performer": "Ellen Allien"}
+            ],
+            [
+              { "time": "23:04", "title": "Panic Attack", "performer": "Andy Bell"},
+              { "title": "In The Garden", "performer": "Spacemoth"},
+              { "title": "Switchblade", "performer": "Beabadoobee"},
+              { "title": "Was hat dich bloß so ruiniert", "performer": "Die Sterne"},
+              { "title": "Keine Angst", "performer": "Danger Dan feat. Igor Levit"},
+              { "title": "All On Top", "performer": "London Elektricity, Conrad Subs, Genesis Elijah"},
+              { "title": "Retaliation Lullaby", "performer": "Kelela"},
+              { "title": "Moving On", "performer": "Ebbb"},
+              { "title": "Easy Street", "performer": "Queens Of The Stone Age"},
+              { "title": "The Fame", "performer": "Pain Gain"},
+              { "title": "A 50´s Guys Eyes", "performer": "The Garden"},
+              { "title": "Float Away With The Good Times", "performer": "Yousef"}
+            ]
+          ]
         }
       ]
     }
