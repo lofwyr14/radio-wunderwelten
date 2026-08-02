@@ -17018,16 +17018,17 @@
         {
           "id": "13",
           "date": "2026-03-29",
+          "checked": {"date": "2026-08-02", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Full Circle", "performer": "Shy One"},
               { "title": "Suspended Space", "performer": "LTJ Bukem"},
-              { "title": "Galaxy Eyes", "performer": "MiZayo"},
+              { "title": "Galaxy Eyes", "performer": "Mi_Zayo"},
               { "title": "ARP 80", "performer": "Logistics"},
               { "title": "Rendezvous", "performer": "Logistics feat. Emilie Rachel"},
               { "title": "Butterflies", "performer": "Fcukers"},
               { "title": "Pleasure", "performer": "Jansons"},
-              { "title": "Coming On Strong", "performer": "I.Jordan feat. Signum & Scott Mac"},
+              { "title": "Coming On Strong (Extended Mix)", "performer": "I.Jordan feat. Signum & Scott Mac"},
               { "title": "Stand So Still", "performer": "Juni Habel"},
               { "title": "My Maker", "performer": "Snail Mail"},
               { "title": "Another Beautiful Day", "performer": "Courtney Barnett"}
@@ -17055,7 +17056,7 @@
               { "title": "Substance", "performer": "Dälek"},
               { "title": "Meningheten", "performer": "Kronstad 23"},
               { "title": "Remember", "performer": "Om Unit"},
-              { "title": "After FIve", "performer": "Danny Howard"},
+              { "title": "After Five (Extended Mix)", "performer": "Danny Howard"},
               { "title": "Red Roses", "performer": "Saraga"},
               { "title": "TTYGF", "performer": "Fcukers"},
               { "title": "Designed To Lose", "performer": "The Twilight Sad"},
