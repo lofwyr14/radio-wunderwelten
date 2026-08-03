@@ -17760,6 +17760,54 @@
               { "title": "Float Away With The Good Times", "performer": "Yousef"}
             ]
           ]
+        },
+        {
+          "id": "29",
+          "date": "2026-07-26",
+          "songs": [
+            [
+              { "time": "21:04", "title": "Sweet Water Pools", "performer": "The Screaming Blue Messiahs"},
+              { "title": "Cherophobe Rock", "performer": "Yard Act"},
+              { "title": "Feuerstuhl", "performer": "Michael Mayer"},
+              { "title": "I´m Yours", "performer": "Tricky feat. Mitch Sanders"},
+              { "title": "Echotex – Deep Dub", "performer": "Asa Tate"},
+              { "title": "Transition", "performer": "Atella"},
+              { "title": "Crowstepper", "performer": "Erotic Secrets Of Pompeji"},
+              { "title": "All Wordz Are Made Up", "performer": "The Voidz"},
+              { "title": "Walking At A Downtown Pace", "performer": "Parquet Courts"},
+              { "title": "The End", "performer": "Flora From Kansas"},
+              { "title": "Gotta Believe", "performer": "Cozmic Cat"},
+              { "title": "Don´t Piss Me Off", "performer": "Kelela"}
+            ],
+            [
+              { "time": "22:04", "title": "Tardis", "performer": "Greentea Peng"},
+              { "title": "Weg hier raus", "performer": "Apsilon"},
+              { "title": "Seminal", "performer": "Antony Szmierek"},
+              { "title": "Desire", "performer": "Club Calimari"},
+              { "title": "Fake", "performer": "Luc Veermeer"},
+              { "title": "Need U", "performer": "Clusion"},
+              { "title": "1 + 1", "performer": "Reezy"},
+              { "title": "Redrising", "performer": "Rin feat. OG Keemo"},
+              { "title": "Kick Stones (The Boys)", "performer": "Westside Cowboy"},
+              { "title": "They Told Me Jump, I Said How High", "performer": "The Sophs"},
+              { "title": "Lonely In The Future", "performer": "The Strokes"},
+              { "title": "Tropic Of Cancer", "performer": "Asa Tate"},
+              { "title": "Keeps Me Awake", "performer": "DJ Carpenter"}
+            ],
+            [
+              { "time": "23:04", "title": "Take Me Home", "performer": "Francis Mercier, Wyclef Jean, Kah-Lo"},
+              { "title": "E-Question", "performer": "Sam Binga & Addison Groove"},
+              { "title": "Vida Nueva", "performer": "ALOT feat. Carlota Urdiales"},
+              { "title": "Billy Came Back", "performer": "This Is Lorelei"},
+              { "title": "Cold", "performer": "Chelsea Wolfe"},
+              { "title": "Don´t Look Back", "performer": "Eartheater"},
+              { "title": "Change", "performer": "Chloe Caillet, Luke Alessi"},
+              { "title": "Superstitious", "performer": "Ronnie Spiteri"},
+              { "title": "Dizzy", "performer": "Nathalie Capello"},
+              { "title": "The Fruits Of Conquest", "performer": "The Strokes"},
+              { "title": "Eve Of Nothing", "performer": "The Garden"}
+            ]
+          ]
         }
       ]
     }
