@@ -16981,7 +16981,7 @@
               { "title": "In The Middle Of It", "performer": "Hiss Golden Messenger"},
               { "title": "Magic Fly", "performer": "Space"},
               { "title": "Taking Time", "performer": "M-High"},
-              { "title": "Wrong Things", "performer": "Danitsa"},
+              { "title": "Wrong Things", "performer": "Danitsa & Jarreau Vandal"},
               { "title": "Loosen Up", "performer": "Shy One"},
               { "title": "Movin´", "performer": "Selah Sue feat. The Gallands"},
               { "title": "City Of Symbols", "performer": "Alewya"},
@@ -17067,6 +17067,7 @@
         {
           "id": "14",
           "date": "2026-04-05",
+          "checked": {"date": "2026-08-23", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Mostly Patient", "performer": "Courtney Barnett"},
@@ -17079,7 +17080,7 @@
               { "title": "Over End", "performer": "Logistics feat. Indi Shan"},
               { "title": "Made For You", "performer": "Philine Sonny"},
               { "title": "Echo From The Flames", "performer": "Tom Misch"},
-              { "title": "Wrong Things", "performer": "Danitsa, Jarreau Vandal"}
+              { "title": "Wrong Things", "performer": "Danitsa & Jarreau Vandal"}
             ],
             [
               { "time": "22:04", "title": "I Can Be Yours", "performer": "Zzzaha, Winter"},
@@ -17100,7 +17101,7 @@
               { "title": "Wasp", "performer": "Ben Prophet"},
               { "title": "Alma", "performer": "Deary"},
               { "title": "G.O.D. And Ther Broken Rib", "performer": "Jack White"},
-              { "title": "Lock And Key", "performer": "White Denim"},
+              { "title": "(God Created) Lock And Key", "performer": "White Denim"},
               { "title": "Tear", "performer": "White Flowers"},
               { "title": "Keep Going", "performer": "Octave & CVALM"},
               { "title": "You´re Not Alone", "performer": "Olive"},
