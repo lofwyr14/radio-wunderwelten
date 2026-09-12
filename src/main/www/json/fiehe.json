@@ -17067,7 +17067,7 @@
         {
           "id": "14",
           "date": "2026-04-05",
-          "checked": {"date": "2026-08-30", "user": "jg"},
+          "checked": {"date": "2026-08-23", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Mostly Patient", "performer": "Courtney Barnett"},
@@ -17114,6 +17114,7 @@
         {
           "id": "15",
           "date": "2026-04-12",
+          "checked": {"date": "2026-08-30", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Circle Of Light", "performer": "Because Of Art feat. Antony Szmierek"},
@@ -17163,9 +17164,10 @@
         {
           "id": "16",
           "date": "2026-04-19",
+          "checked": {"date": "2026-09-12", "user": "jg"},
           "songs": [
             [
-              { "time": "21:04", "title": "Slow Motion", "performer": "Grum & Amba Shepherd"},
+              { "time": "21:04", "title": "Slow Motion (Extended Mix)", "performer": "Grum & Amba Shepherd"},
               { "title": "Letting Go", "performer": "Daffy"},
               { "title": "Love Step", "performer": "Megan Wroe"},
               { "title": "Brain Drain", "performer": "A Sagittariun"},
@@ -17186,7 +17188,7 @@
               { "title": "Another Time", "performer": "Zoh Amba"},
               { "title": "Drifting", "performer": "ELLiS.D"},
               { "title": "Spotlight", "performer": "Christin Nichols"},
-              { "title": "Take A Bite", "performer": "Pagan"}
+              { "title": "Take A Bite (Extended Mix)", "performer": "Pagan"}
             ],
             [
               { "time": "23:04", "title": "Waterfall Revers", "performer": "Lone"},
@@ -17199,7 +17201,8 @@
               { "title": "Texas Changing", "performer": "Sofia Kourtesis"},
               { "title": "Küsse in der Sonne", "performer": "GiGi Girls"},
               { "title": "Fiore", "performer": "Valentino Vivace"},
-              { "title": "Restless", "performer": "Alan Fitzpatrick, THELMA"}
+              { "title": "Restless", "performer": "Alan Fitzpatrick, THELMA"},
+              { "title": "Real Tree Lee", "performer": "Adult DVD"}
             ]
           ]
         },
