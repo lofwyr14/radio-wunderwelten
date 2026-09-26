@@ -17209,6 +17209,7 @@
         {
           "id": "17",
           "date": "2026-05-03",
+          "checked": {"date": "2026-09-25", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Ripples", "performer": "Om Unit"},
@@ -17230,7 +17231,7 @@
               { "title": "Unsterblich", "performer": "Christin Nichols"},
               { "title": "Esperanto", "performer": "The Homesick"},
               { "title": "Tomorrow Night", "performer": "The Black Keys"},
-              { "title": "Every Chance I Get", "performer": "Dan Auerbach"},
+              { "title": "Every Chance I Get (I Want You In The Flesh)", "performer": "Dan Auerbach"},
               { "title": "She Does It Right", "performer": "The Black Keys"},
               { "title": "She Does It Right", "performer": "Dr. Feelgood"},
               { "title": "Way Back When", "performer": "Onra"}
@@ -17238,7 +17239,7 @@
             [
               { "time": "23:04", "title": "Something Ain´t Right", "performer": "Annie Taylor"},
               { "title": "Now And Nothing", "performer": "ACUA"},
-              { "title": "Story Of My Life", "performer": "Ruze feat. Danny Howard"},
+              { "title": "Story Of My Life (Extended Mix)", "performer": "Ruze feat. Danny Howard"},
               { "title": "Rollin´ Tumblin´ (Remix)", "performer": "R.L. Burnside"},
               { "title": "Fireman Ring The Bell", "performer": "The Black Keys"},
               { "title": "Mercy Avenue", "performer": "Hiss Golden Messenger"},
