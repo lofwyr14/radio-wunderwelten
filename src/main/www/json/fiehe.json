@@ -17254,12 +17254,13 @@
         {
           "id": "18",
           "date": "2026-05-10",
+          "checked": {"date": "2026-10-04", "user": "jg"},
           "songs": [
             [
-              { "time": "21:04", "title": "Hello", "performer": "Heinz"},
+              { "time": "21:04", "title": "Hello (Extended Mix)", "performer": "Heinz"},
               { "title": "Baby (Tony Romera Remix)", "performer": "Four Tet"},
               { "title": "The Heron", "performer": "Antony Szmierek"},
-              { "title": "Closure", "performer": "D.O.D. & Hayley May"},
+              { "title": "Closure (Extended Mix)", "performer": "D.O.D. & Hayley May"},
               { "title": "In For The Kill (Skream Remix)", "performer": "La Roux"},
               { "title": "Last Orders", "performer": "Hiss Golden Messenger"},
               { "title": "Forever Elsewhere", "performer": "Weird Nightmare"},
@@ -17267,7 +17268,7 @@
               { "title": "Sick Of Love", "performer": "Lykke Li"},
               { "title": "Got The Fever", "performer": "Ellam"},
               { "title": "This Bassline Smells Like Oil", "performer": "Ghoulish"},
-              { "title": "Werk", "performer": "Honey Dijon"}
+              { "title": "Slight Werk", "performer": "Honey Dijon"}
             ],
             [
               { "time": "22:04", "title": "Certified Ravers", "performer": "Jon E Cash"},
@@ -17280,7 +17281,8 @@
               { "title": "Freakin", "performer": "Ben Jones"},
               { "title": "Tear", "performer": "White Flowers"},
               { "title": "Thinking Of You", "performer": "White Flowers"},
-              { "title": "Levitate", "performer": "Maika"}
+              { "title": "Levitate", "performer": "Maika"},
+              { "title": "Mindflower", "performer": "Now Always Fades"}
             ],
             [
               { "time": "23:04", "title": "Unsterblich", "performer": "Christin Nichols"},
