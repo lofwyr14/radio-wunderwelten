@@ -17351,14 +17351,15 @@
         {
           "id": "20",
           "date": "2026-05-24",
+          "checked": {"date": "2026-10-23", "user": "jg"},
           "songs": [
             [
-              { "time": "21:04", "title": "Yes Yes", "performer": "Joe Rolét"},
+              { "time": "21:04", "title": "Yes Yes (Extended)", "performer": "Joe Rolét"},
               { "title": "Bedroom Headliner", "performer": "Rokar"},
               { "title": "I Feel", "performer": "Skream & Rokar"},
               { "title": "What´s Done Is Done", "performer": "Jorja Smith"},
               { "title": "Pinnochio", "performer": "Future Islands"},
-              { "title": "100.00", "performer": "Kevin Morby"},
+              { "title": "100,000", "performer": "Kevin Morby"},
               { "title": "Say My Name In Your Sleep", "performer": "Maisie Peters"},
               { "title": "24 Hours", "performer": "Stormzy & Odeal"},
               { "title": "Spiralen", "performer": "DJ Koze"},
@@ -17366,7 +17367,7 @@
               { "title": "There´s Waldo", "performer": "Get Well Soon"}
             ],
             [
-              { "time": "22:04", "title": "Man On Fire", "performer": "J Ribbon"},
+              { "time": "22:04", "title": "Man On Fire (Extended Mix)", "performer": "J Ribbon"},
               { "title": "See Line Woman", "performer": "Mochakk & Nina Simone"},
               { "title": "Without Pause", "performer": "Midland"},
               { "title": "Castlevania", "performer": "The Haunted Youth"},
@@ -17381,12 +17382,12 @@
             [
               { "time": "23:04", "title": "Natural Disaster", "performer": "Kevin Morby"},
               { "title": "Stratosfæren", "performer": "Kronstad 23"},
-              { "title": "All I Know", "performer": "nocapz"},
+              { "title": "All I Know", "performer": "nocapz."},
               { "title": "Move With The Pack", "performer": "Claude VonStroke"},
               { "title": "Keep Pressing On", "performer": "Octo Octa"},
               { "title": "Blackcurrents", "performer": "My Precious Bunny"},
               { "title": "Something Ain´t Right", "performer": "Annie Taylor"},
-              { "title": "The Ocean", "performer": "Annie Taylor"},
+              { "title": "Silence", "performer": "Annie Taylor"},
               { "title": "Favoured Over The Ride", "performer": "Cola"},
               { "title": "Steh auf", "performer": "Ellen Allien"},
               { "title": "Ding The Motor", "performer": "Gold Panda"}
