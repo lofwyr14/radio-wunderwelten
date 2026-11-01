@@ -17397,6 +17397,7 @@
         {
           "id": "21",
           "date": "2026-05-31",
+          "checked": {"date": "2026-11-01", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Mundian To Bach Ke (Ameme Remix)", "performer": "Panjabi MC"},
@@ -17416,7 +17417,7 @@
             [
               { "time": "22:04", "title": "Go Fuck Urself", "performer": "Fat Dog"},
               { "title": "Piano Protocol", "performer": "Elzace"},
-              { "title": "Down For You", "performer": "Franky Wah feat. Jyll"},
+              { "title": "Down For You (Extended Mix)", "performer": "Franky Wah feat. Jyll"},
               { "title": "The Fire", "performer": "De Staat"},
               { "title": "Round Of Applause At The End Of The World", "performer": "Wild Pink"},
               { "title": "Fresh Vines", "performer": "Big Chief"},
@@ -17438,7 +17439,8 @@
               { "title": "Es tut mir leid", "performer": "Bachratten"},
               { "title": "Angebot", "performer": "Iedereen"},
               { "title": "In The Fall", "performer": "Future Islands"},
-              { "title": "Naraka", "performer": "Boards Of Canada"}
+              { "title": "Naraka", "performer": "Boards Of Canada"},
+              { "title": "Prophecy At 1420 MHz", "performer": "Boards Of Canada"}
             ]
           ]
         },
