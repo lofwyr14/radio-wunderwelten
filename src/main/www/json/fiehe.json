@@ -17447,12 +17447,13 @@
         {
           "id": "22",
           "date": "2026-06-07",
+          "checked": {"date": "2026-11-08", "user": "jg"},
           "songs": [
             [
               { "time": "21:04", "title": "Nettle Root", "performer": "PIGMNT"},
               { "title": "Talamanca´s Flute", "performer": "Gennaro feat. Morena Prudente"},
               { "title": "Rise Up", "performer": "Maya Jane Coles feat. Rye Rye"},
-              { "title": "Keep On", "performer": "Dusky"},
+              { "title": "Keep On (Dub Mix)", "performer": "Dusky"},
               { "title": "Mile High Club", "performer": "Uniqu3"},
               { "title": "Wir sind Staub im Kosmos", "performer": "Deltawelle"},
               { "title": "Is It Over Now?", "performer": "Elderbrook"},
@@ -17481,7 +17482,7 @@
               { "time": "23:04", "title": "Wenn der Scirocco weht", "performer": "Der Assistent"},
               { "title": "Little Black Cat", "performer": "Lizzo"},
               { "title": "Bitch", "performer": "Lizzo"},
-              { "title": "Elm", "performer": "Dusky"},
+              { "title": "Elm (Extended Mix)", "performer": "Dusky"},
               { "title": "Don´t Wanna Dance (Mario C Remix)", "performer": "Automatic"},
               { "title": "Eco Simulator", "performer": "Vhyce"},
               { "title": "Night Bird", "performer": "Curses Presents Acid Punx Trois : Velvet Velour"},
